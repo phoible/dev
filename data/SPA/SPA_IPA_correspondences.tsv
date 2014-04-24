@@ -1,0 +1,1545 @@
+spaDescription	ipaGlyph	ipaGlyphOld	NotesTwo
+i-long-backed-retracted	i̠̙ː		"retracted" is consistently given the right tack, "backed" is consistently given the minus below. This is one of two weird cases that have both. Unchanged.
+iota-backed-retracted	ɪ̠̙		"retracted" is consistently given the right tack, "backed" is consistently given the minus below. This is one of two weird cases that have both. Unchanged.
+w/o-mid	uo̞	wo̞	"* the transcription of "o-mid" as a downtack is suspicious, but there appears to be consistency so we're leaving it alone
+theta-prenasalized	n̪θ		added dental marker below prenasalizing n
+k/x-prevelar-palatalized	k̟x̟ʲ		added fronting diacritic to the k
+j-palatoalveolar-prenasalized	ɲ̟ʝ̟		added fronting diacritic to the nasal
+z-hacek-prenasalized	n̠ʒ		added retraction diacritic below prenasalizing n
+a-front-long-retracted	a̟̙ː		all "a-front" changed from [a] to [a̟]
+a-front-long-nasalized	ã̟ː		all "a-front" changed from [a] to [a̟]
+a-front-nasalized	ã̟		all "a-front" changed from [a] to [a̟]
+a-front-retroflexed	a̟˞		all "a-front" changed from [a] to [a̟]
+a-front-over-short	ă̟		all "a-front" changed from [a] to [a̟]
+t/theta-glottalized	t̠θˀ	ʔtθ	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+t-retroflex-unreleased-glottalized	ʈ̚ˀ	ʔʈ̚	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+t-unreleased-glottalized	t̚ˀ	ʔt̚	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+t-glottalized	tˀ	ʔt	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+s-glottalized	sˀ	ʔs	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+p-unreleased-glottalized	p̚ˀ	ʔp̚	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+p-glottalized	pˀ	ʔp	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+k-glottalized	kˀ	ʔk	all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+ash-trema-long	ɶ̝ː		corrected from  ɑ̝ː
+higher-mid-falling-low	˦˩		corrected from ˦˨
+high	˥		corrected from ˦
+high-over-short	˥̆		corrected from ˦̆
+high-creaky voice	˥̰		corrected from ˦̰
+higher-mid-rising	˧˦		corrected from ˦˥
+high-falling	˥˦		corrected from ˦˥˩
+high-falling-rising	˥˧˥		corrected from ˦˥˩˥
+low	˩		corrected from ˨
+low-breathy voice-over-short	˩̤̆		corrected from ˨̤̆
+low-creaky voice	˩̰		corrected from ˨̰
+low-glottalized	˩ˀ	˩̰	corrected from ˨̰
+lower-mid-rising	˨˧		corrected from ˨˥
+lower-mid-rising-falling	˨˧˩		corrected from ˨˥˩
+low-rising-falling	˩˨˩		corrected from ˨˧˦˧
+lower-mid-falling	˧˨		corrected from ˨˩
+lower-mid-falling-breathy voice	˧˨̤		corrected from ˨˩̤
+lower-mid-falling-rising	˧˨˥		corrected from ˨˩˥
+low-falling-rising	˨˩˥		corrected from ˨˩˩˥
+lower-mid-falling-pharyngealized	˧˨ˤ		corrected from ˨˩ˤ
+a-creaky voice	a̰		corrected from ä̰
+low-rising-long	˩˨˧		corrected from a̟ (!?)
+a-half-long	aˑ		corrected from äˑ
+ash-trema	ɶ̝		corrected from ɑ̝
+c-fricative-palatoalveolar	ç̟		"corrected from ɕ for consistency with other sounds marked as "-palatoalveolar"
+d/eth	d̪ð		corrected from dð
+d/j-fricative-long	ɟʝː		corrected from dʝː
+d/j-fricative-labialized	ɟʝʷ		corrected from dʝʷ
+d/r-trill-retroflex	ɖr̠		corrected from dɽr
+d/z-laminal	d̻z̻		corrected from dz̻
+d/z-hacek-lax	d̠ʒ͉	d̠ʒ	corrected from dz; Lax consonants are represented as voiced
+d/z-hacek-retroflex	ɖʐ		corrected from dʐ
+d/z-retroflex	ɖʐ		corrected from dʐ
+d/z-hacek	d̠ʒ		corrected from dʒ
+d/z-hacek-breathy voice	d̠ʒ̤		corrected from dʒ̤
+d/z-hacek-creaky voice	d̠ʒ̰		corrected from dʒ̰
+d/z-hacek-half-voice	d̠ʒ	d̠ʒ	corrected from dʒ; Half voiced is represented as fully voiced
+t/s-hacek-lax	t̠ʃ͉		corrected from dʒ; Lax consonants are represented as voiced
+d/z-hacek-long	d̠ʒː		corrected from dʒː
+d/z-hacek-breathy voice-long	d̠ʒ̤ː		corrected from dʒ̤ː
+d/z-hacek-palatalized	d̠ʒʲ		corrected from dʒʲ
+d/z-hacek-labialized	d̠ʒʷ		corrected from dʒʷ
+d/z-hacek-labiovelarized	d̠ʒʷˠ		corrected from dʒʷ
+d/z-hacek-postglottalized	d̠ʒˀ	d̠ʒʔ	corrected from dʒʔ
+e-mid-backed	e̞̠		corrected from ə̟
+t/s-hacek-preaspirated	ʰt̠ʃ		corrected from ʰtʃ
+i-lax	ɪ		corrected from i̙
+k-breathy voice	ɡ̤̥		corrected from k̤
+k/c-fricative	cç		corrected from kç
+k/j-fricative	cʝ		corrected from kʝ
+c-palatoalveolar-click	kǃ		corrected from kǂ (since the ! encompasses both alveolar and postalveolar clicks)
+d-prenasalized/r-trill-retroflex	ɳɖr̠		corrected from ndɽr
+d/z-hacek-retroflex-prenasalized	ɳɖʐ		corrected from ndʐ
+d/z-hacek-prenasalized	n̠d̠ʒ		corrected from ndʒ
+d/z-hacek-prenasalized-breathy voice	n̠d̠ʒ̤		corrected from ndʒ̤
+t-dental-prenasalized	n̪t̪		corrected from nt̪
+t-prenasalized/r-trill-retroflex-voiceless	ɳʈr̠̥		corrected from ntɽr̥
+t/s-hacek-retroflex-prenasalized	ɳʈʂ		corrected from ntʂ
+t/s-hacek-prenasalized	n̠t̠ʃ		corrected from ntʃ
+t/s-hacek-prenasalized-aspirated	n̠t̠ʃʰ		corrected from ntʃʰ
+omega-trema-long	ʏː		"corrected from œ̞ː ("omega" was the old term for ɷ which was replaced by ʊ)
+omega	ʊ		"corrected from ɔ̞ ("omega" was the old term for ɷ which was replaced by ʊ)
+omega-long	ʊː		"corrected from ɔ̞ː ("omega" was the old term for ɷ which was replaced by ʊ)
+p-breathy voice	b̤̥		corrected from p̤
+l-flap-retroflex	ɺ̠		corrected from ɺ̢
+r-trill-retroflex	r̠		corrected from ɽr
+r-trill-retroflex-nasalized	r̠̃		corrected from ɽr̃
+r	r		"corrected from ɾ, based on looking at the languages that are listed as "r" (as opposed to "r-trill" or "r-approximant")
+s/t/s-hacek	st̠ʃ		corrected from stʃ
+s-hacek-retroflex/r	ʂɻ		corrected from ʂr̝
+t-breathy voice	d̤̥		corrected from t̤
+t-dental-breathy voice	d̪̤̥		corrected from t̪̤
+t-long/s-hacek	t̠ːʃ		corrected from tːʃ
+t/theta-lax	t̪θ͉	t̪ð	corrected from tð; Lax consonants are represented as voiced
+t/r-fricative-retroflex-voiceless	ʈʂ͇		corrected from tɻ̝̥; corrected from ʈɻ̝̥ updated to ʈʂ͇
+t/r-trill-retroflex-voiceless	ʈr̥̠		corrected from tɽr̥
+t/s-breathy voice	tz̤̥		corrected from ts̤
+t/s-dental	t̪s̪		corrected from ts̪
+t/s-laminal	t̻s̻		corrected from ts̻
+t/s/c-fricative	tsç		corrected from tsɕ
+t/s-laminal-aspirated	t̻s̻ʰ		corrected from ts̻ʰ
+t/s-laminal-aspirated-weak	t̻s̻ʰ		corrected from ts̻ʰ; Weak aspiration is represented as full aspiration
+t/s-laminal-ejective	t̻s̻ʼ		corrected from ts̻ʼ
+t/s-laminal-ejective-syllabic	t̻s̻̩ʼ		corrected from ts̻̩ʼ
+t/s-retroflex	ʈʂ		corrected from tʂ
+t/s-hacek-retroflex	ʈʂ		corrected from tʂ
+t/s-retroflex-aspirated	ʈʂʰ		corrected from tʂʰ
+t/s-hacek-retroflex-aspirated	ʈʂʰ		corrected from tʂʰ; Apico-postalveolar sounds are represented as retroflex
+t/s-retroflex-aspirated-weak	ʈʂʰ		corrected from tʂʰ; Weak aspiration is represented as full aspiration
+t/s-retroflex-ejective	ʈʂʼ		corrected from tʂʼ
+t/s-hacek-retroflex-ejective	ʈʂʼ		corrected from tʂʼ
+t/s-hacek	t̠ʃ		corrected from tʃ
+d/z-hacek-tense	d̠͈ʒ		Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t/s-hacek-tense	t̠͈ʃ		Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t/s-hacek-long	t̠ʃː		corrected from tʃː
+t/s-hacek-tense-long	t̠͈ʃː		Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t/s-hacek-half-long	t̠ʃˑ		corrected from tʃˑ
+t/s-hacek-aspirated	t̠ʃʰ		corrected from tʃʰ
+d/z-hacek-aspirated-half-voice	t̠̬ʃʰ		corrected from t̬ʃʰ; Initial closure is voiced
+t/s-hacek-aspirated-weak	t̠ʃʰ		corrected from tʃʰ; Weak aspiration is represented as full aspiration
+t/s-hacek-aspirated-long	t̠ʃʰː		corrected from tʃʰː
+t/s-hacek-palatalized	t̠ʃʲ		corrected from tʃʲ
+t/s-hacek-aspirated-palatalized	t̠ʃʲʰ		corrected from tʃʲʰ
+t/s-hacek-ejective-palatalized	t̠ʃʲʼ		corrected from tʃʲʼ
+t/s-hacek-labialized	t̠ʃʷ		corrected from tʃʷ
+t/s-hacek-labiovelarized	t̠ʃʷˠ		corrected from tʃʷ
+t/s-hacek-tense-labialized	t̠͈ʃʷ	t̠ʃʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t/s-hacek-aspirated-labialized	t̠ʃʷʰ		corrected from tʃʷʰ
+t/s-hacek-aspirated-labiovelarized	t̠ʃʷˠʰ		corrected from tʃʷʰ
+t/s-hacek-ejective-labialized	t̠ʃʷʼ		corrected from tʃʷʼ
+t/s-hacek-ejective-labialized-syllabic	t̠ʃ̩ʷʼ		corrected from tʃ̩ʷʼ
+t/s-hacek-glottalized	t̠ʃˀ	ʔt̠ʃ	"corrected from tʃʔ; all voiceless consonants that are "-glottalized" are marked with a preceding glottal stop (even if they don't say "-preglottalized")
+t/s-hacek-ejective	t̠ʃʼ		corrected from tʃʼ
+t/s-hacek-ejective-syllabic	t̠ʃ̩ʼ		corrected from tʃ̩ʼ
+t/s-hacek-ejective-long	t̠ʃʼː		corrected from tʃʼː
+t/theta	t̪θ		corrected from tθ
+t/theta-aspirated	t̪θʰ		corrected from tθʰ
+t/theta-ejective	t̪θʼ		corrected from tθʼ
+yod-dot	ɨ̯		corrected from ɰ̟
+j-fricative-palatoalveolar	ʝ̟		corrected from ʑ for consistency
+d/z-hacek-preglottalized	ˀd̠ʒ	ʔd̠ʒ	corrected from ʔdʒ
+t/s-hacek-preglottalized	ˀt̠ʃ	ʔt̠ʃ	corrected from ʔtʃ
+t/s-click	kǀ		dental click
+beta-half-voice-long	βː		Half voiced is represented as fully voiced
+beta-half-voice	β		Half voiced is represented as fully voiced
+z-hacek-half-voice-long	ʒː		Half voiced is represented as fully voiced
+z-hacek-half-voice	ʒ		Half voiced is represented as fully voiced
+z-half-voice-long	zː		Half voiced is represented as fully voiced
+z-half-voice	z		Half voiced is represented as fully voiced
+l-palatal-half-voice	ʎ		Half voiced is represented as fully voiced
+w-half-voice-long	wː		Half voiced is represented as fully voiced
+w-half-voice	w		Half voiced is represented as fully voiced
+v-half-voice	v		Half voiced is represented as fully voiced
+u-half-voice-long	uː		Half voiced is represented as fully voiced
+u-half-voice	u		Half voiced is represented as fully voiced
+r-flap-half-voice-palatalized	ɾʲ		Half voiced is represented as fully voiced
+r-flap-half-voice-velarized	ɾˠ		Half voiced is represented as fully voiced
+r-flap-half-voice-long	ɾː		Half voiced is represented as fully voiced
+r-trill-half-voice-long	rː		Half voiced is represented as fully voiced
+r-fricative-retroflex-half-voice	ʐ͇		Half voiced is represented as fully voiced; updated from ɻ̝
+gamma-uvular-half-voice	ʁ		Half voiced is represented as fully voiced
+r-trill-half-voice	r		Half voiced is represented as fully voiced
+o-mid-dot-half-voice-long	ɵ̞ː		Half voiced is represented as fully voiced
+o-half-voice-long	oː		Half voiced is represented as fully voiced
+o-mid-half-voice-half-long	o̞ˑ		Half voiced is represented as fully voiced
+eng-half-voice	ŋ		Half voiced is represented as fully voiced
+n-half-voice-palatalized	nʲ		Half voiced is represented as fully voiced
+n-half-voice-velarized	nˠ		Half voiced is represented as fully voiced
+n-half-voice-long	nː		Half voiced is represented as fully voiced
+n-interdental-half-voice	n̪		Half voiced is represented as fully voiced
+n-palatal-half-voice	ɲ		Half voiced is represented as fully voiced
+n-half-voice	n		Half voiced is represented as fully voiced
+m-half-voice-labiovelarized	mʷˠ		Half voiced is represented as fully voiced
+m-half-voice-palatalized	mʲ		Half voiced is represented as fully voiced
+m-half-voice-long	mː		Half voiced is represented as fully voiced
+yod-trema-half-voice	ɰ		Half voiced is represented as fully voiced
+m-half-voice	m		Half voiced is represented as fully voiced
+l-half-voice-palatalized	lʲ		Half voiced is represented as fully voiced
+l-dental-half-voice-velarized	l̪ˠ		Half voiced is represented as fully voiced
+l-half-voice-velarized	lˠ		Half voiced is represented as fully voiced
+l-half-voice-long	lː		Half voiced is represented as fully voiced
+l-half-voice	l		Half voiced is represented as fully voiced
+yod-half-voice-long	jː		Half voiced is represented as fully voiced
+j-fricative-half-voice	ʝ		Half voiced is represented as fully voiced
+j-unreleased-half-voice	ɟ̚		Half voiced is represented as fully voiced
+yod-half-voice	j		Half voiced is represented as fully voiced
+yod-lax-half-voice	j͉	j	Half voiced is represented as fully voiced
+i-bar-half-voice-long	ɨː		Half voiced is represented as fully voiced
+i-half-voice-long	iː		Half voiced is represented as fully voiced
+i-bar-half-voice	ɨ		Half voiced is represented as fully voiced
+i-half-voice	i		Half voiced is represented as fully voiced
+h-half-voice	ɦ		Half voiced is represented as fully voiced
+g-unreleased-half-voice	ɡ̚		Half voiced is represented as fully voiced
+g-half-voice	ɡ		Half voiced is represented as fully voiced
+gamma-half-voice	ɣ		Half voiced is represented as fully voiced
+epsilon-half-voice-long	ɛː		Half voiced is represented as fully voiced
+e-half-voice-long	eː		Half voiced is represented as fully voiced
+e-mid-half-voice-half-long	e̞ˑ		Half voiced is represented as fully voiced
+d/z-half-voice	dz		Half voiced is represented as fully voiced
+d/j-fricative-half-voice	ɟʝ		Half voiced is represented as fully voiced; updated from dʝ
+eth-half-voice	ð		Half voiced is represented as fully voiced
+eth-half-voice-lax	ð͉	ð	Half voiced is represented as fully voiced
+d-unreleased-half-voice	d̚		Half voiced is represented as fully voiced
+d-half-voice	d		Half voiced is represented as fully voiced
+o-open-half-voice-long	ɔː		Half voiced is represented as fully voiced
+o-open-half-voice	ɔ		Half voiced is represented as fully voiced
+b-unreleased-half-voice	b̚		Half voiced is represented as fully voiced
+b-half-voice	b		Half voiced is represented as fully voiced
+ash-half-voice-long	æː		Half voiced is represented as fully voiced
+a-front-half-voice-long	a̟ː		Half voiced is represented as fully voiced
+a-half-voice-long	aː		Half voiced is represented as fully voiced
+a-half-voice-half-long	aˑ		Half voiced is represented as fully voiced
+a-half-voice	a		Half voiced is represented as fully voiced
+d/z-aspirated-half-voice	t̬sʰ		Initial closure is voiced
+d-aspirated-half-voice	t̬ʰ		Initial closure is voiced
+b-aspirated-half-voice	p̬ʰ		Initial closure is voiced
+g-aspirated-half-voice	k̬ʰ		Initial closure is voiced
+j-aspirated-half-voice	c̬ʰ		Initial closure is voiced
+t-interdental-aspirated	t̪ʰ		Interdental consonants are represented as dental
+t-interdental-unreleased	t̪̚		Interdental consonants are represented as dental
+t-interdental	t̪		Interdental consonants are represented as dental
+n-interdental	n̪		interdental represented as dental
+l-interdental	l̪		interdental represented as dental
+d-interdental-unreleased	d̪̚		interdental represented as dental
+d-interdental	d̪		interdental represented as dental
+t/l-fricative-click	kǁ		lateral click
+k-lax-preglottalized	ˀk͉	ʔɡ , ʔk͉	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+s-hacek-lax	ʃ͉	ʒ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+s-laminal-lax	s̻͉	z̻	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+s-dental-lax	s̪͉	z̪	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+s-lax	s͉	z	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+f-lax	f͉	v	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+x-uvular-lax	χ͉	ʁ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+n-lax	n͉	n	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+m-lax	m͉	m	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+yod-lax	j͉	j	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+h-lax	h͉	ɦ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+k-prevelar-lax	k̟͉	ɡ̟	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+g-lax	ɡ͉	ɡ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+k-lax	k͉	ɡ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+t/s-lax-long	d͉zː	dzː	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+d/z-lax	d͉z	dz	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+t/s-lax	t͉s	dz	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+t-lax-palatalized	t͉ʲ	dʲ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+eth-lax	ð͉	ð	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+theta-lax	θ͉	ð	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+t-retroflex-lax	ʈ͉	ɖ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+d-lax	d͉	d	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+t-lax	t͉	d	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+p-lax-palatalized	p͉ʲ	bʲ	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+p-lax-long	p͉ː	bː	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+b-lax	b͉	b	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+p-lax	p͉	b	Lax is represented with COMBINING LEFT ANGLE BELOW U+0349
+c-click	kǂ		palatal click
+k-prevelar-preaspirated-long	ʰk̟ː		preaspiration moved to the left
+lower-low	˩		"see notes on the second sheet regarding "higher high" and "lower low"
+higher-high	˥		reportedly phonemic in Hausa; we let it collapse with the high toneme
+schwa-long-uvularized	ə̴ː		"technically the over-tilde is "velarization or pharyngealization" but not "uvularization", but no superior alternative exists
+schwa-uvularized	ə̴		"technically the over-tilde is "velarization or pharyngealization" but not "uvularization", but no superior alternative exists
+o-open-long-uvularized	ɔ̴ː		"technically the over-tilde is "velarization or pharyngealization" but not "uvularization", but no superior alternative exists
+o-open-uvularized	ɔ̴		"technically the over-tilde is "velarization or pharyngealization" but not "uvularization", but no superior alternative exists
+alpha-unrounded-long-uvularized	ɑ̴ː		"technically the over-tilde is "velarization or pharyngealization" but not "uvularization", but no superior alternative exists
+alpha-unrounded-uvularized	ɑ̴		"technically the over-tilde is "velarization or pharyngealization" but not "uvularization", but no superior alternative exists
+x-uvular-tense-labialized	χ͈ʷ	χʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+x-uvular-tense	χ͈	χ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+gamma-tense-long-labialized	ɣ͈ʷː	xʷː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+x-tense-long-labialized	x͈ʷː	xʷː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+x-tense-labialized	x͈ʷ	xʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+gamma-tense-long	ɣ͈ː	xː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+x-tense-long	x͈ː	xː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+x-tense	x͈	x	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t/s-tense-labialized	t͈sʷ	tsʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t/s-tense	t͈s	ts	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+d-tense-long	d͈ː	tː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t-tense-long	t͈ː	tː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t-unreleased-tense	t͈̚	t̚	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+d-tense	d͈	t	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+t-tense	t͈	t	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+s-tense-long	s͈ː	sː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+z-tense-long	z͈ː	sː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+s-tense	s͈	s	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+z-tense	z͈	s	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+r-trill-tense-long	r͈ː	r̥ː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+q-tense-labialized	q͈ʷ	qʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+q-tense	q͈	q	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+b-tense-long	b͈ː	pː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+p-tense-long	p͈ː	pː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+b-tense	b͈	p	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+p-tense	p͈	p	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+n-tense-long	n͈ː	n̥ː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+n-tense	n͈	n̥	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+n-voiceless-tense	n̥͈	n̥	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+m-tense-long	m͈ː	m̥ː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+m-tense	m͈	m̥	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+l-tense-long	l͈ː	l̥ː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+g-tense-long-labialized	ɡ͈ʷː	kʷː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+k-tense-long-labialized	k͈ʷː	kʷː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+k-tense-labialized	k͈ʷ	kʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+k-tense-long-palatalized	k͈ʲː	kʲː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+g-tense-long	ɡ͈ː	kː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+k-tense-long	k͈ː	kː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+g-prevelar-tense	ɡ̟͈	k̟	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+k-unreleased-tense	k͈̚	k̚	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+k-tense	k͈	k	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+pharyngeal-voiceless-tense-long	ħ͈ː	ħː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+f-tense-long	f͈ː	fː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+v-tense	v͈	f	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+s-hacek-tense-labialized	ʃ͈ʷ	ʃʷ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+s-hacek-tense-long-palatalized	ʃ͈ʲː	ʃʲː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+s-hacek-tense-long	ʃ͈ː	ʃː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+z-hacek-tense-long	ʒ͈ː	ʃː	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+s-hacek-tense	ʃ͈	ʃ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+z-hacek-tense	ʒ͈	ʃ	Tense is represented with COMBINING DOUBLE VERTICAL LINE BELOW U+0348
+r-long	rː		"this is actually correct. The only language this shows up in (songhai) has a short/long contrast that manifests as tap/trill. / updated to /rː/ given the distinction between "r" and "r-long" in Chuvash and Songhai
+p-implosive	ɓ̥		we follow IPA usage of voiceless implosives by using the voiced implosive symbol with voiceless diacritic below, as in JIPA, see McLaughlin 2005
+t-implosive	ɗ̥		we follow IPA usage of voiceless implosives by using the voiced implosive symbol with voiceless diacritic below, as in JIPA, see McLaughlin 2005
+t/s-aspirated-weak	tsʰ		Weak aspiration is represented as full aspiration
+t-laminal-aspirated-weak	t̻ʰ		Weak aspiration is represented as full aspiration
+t-dental-aspirated-weak	t̪ʰ		Weak aspiration is represented as full aspiration
+t-aspirated-weak	tʰ		Weak aspiration is represented as full aspiration
+t/c-fricative-aspirated-weak	cçʰ		Weak aspiration is represented as full aspiration; updated from tçʰ
+q-aspirated-weak	qʰ		Weak aspiration is represented as full aspiration
+p-aspirated-weak	pʰ		Weak aspiration is represented as full aspiration
+k-aspirated-weak-labialized	kʷʰ		Weak aspiration is represented as full aspiration
+k-prevelar-aspirated-weak-palatalized	k̟ʲʰ		Weak aspiration is represented as full aspiration
+k-prevelar-aspirated-weak	k̟ʰ		Weak aspiration is represented as full aspiration
+k-aspirated-weak	kʰ		Weak aspiration is represented as full aspiration
+c-aspirated-weak	cʰ		Weak aspiration is represented as full aspiration
+u-long-nasalized-weak	ũː		Weak nasalization is represented as full nasalization
+upsilon-nasalized-weak	ʊ̃		Weak nasalization is represented as full nasalization
+u-nasalized-weak	ũ		Weak nasalization is represented as full nasalization
+o-long-nasalized-weak	õː		Weak nasalization is represented as full nasalization
+o-mid-nasalized-weak	õ̞		Weak nasalization is represented as full nasalization
+o-nasalized-weak	õ		Weak nasalization is represented as full nasalization
+i-bar-long-nasalized-weak	ɨ̃ː		Weak nasalization is represented as full nasalization
+i-long-nasalized-weak	ĩː		Weak nasalization is represented as full nasalization
+i-bar-nasalized-weak	ɨ̃		Weak nasalization is represented as full nasalization
+i-nasalized-weak	ĩ		Weak nasalization is represented as full nasalization
+iota-nasalized-weak	ɪ̃		Weak nasalization is represented as full nasalization
+schwa-long-nasalized-weak	ə̃ː		Weak nasalization is represented as full nasalization
+epsilon-long-nasalized-weak	ɛ̃ː		Weak nasalization is represented as full nasalization
+e-long-nasalized-weak	ẽː		Weak nasalization is represented as full nasalization
+schwa-nasalized-weak	ə̃		Weak nasalization is represented as full nasalization
+epsilon-nasalized-weak	ɛ̃		Weak nasalization is represented as full nasalization
+e-mid-nasalized-weak	ẽ̞		Weak nasalization is represented as full nasalization
+e-nasalized-weak	ẽ		Weak nasalization is represented as full nasalization
+o-open-nasalized-weak	ɔ̃		Weak nasalization is represented as full nasalization
+a-long-nasalized-weak	ãː		Weak nasalization is represented as full nasalization
+a-front-nasalized-weak	ã̟		Weak nasalization is represented as full nasalization
+a-nasalized-weak	ã		Weak nasalization is represented as full nasalization
+k/c-aspirated	kcʰ		weird, presumably a double articulation. unchanged.
+r-flap-fricative	ɾ͓		updated from ɾ̝
+mid-falling-creaky voice	˧˩̰
+high-falling-creaky voice	˦˩̰
+high-falling-glottalized	˦˩ˀ	˦˩̰
+high-rising-creaky voice	˦˥̰
+low-falling-breathy voice	˨˩̤
+mid-falling-over-short	˧˩̆
+high-rising-over-short	˦˥̆
+mid-falling	˧˩
+mid-falling-lower-mid	˧˨
+higher-mid-falling-mid	˦˧
+lower-mid-rising-over-short	˨˥̆
+low-falling	˨˩
+lower-mid	˨
+mid-rising	˧˥
+mid-over-short	˧̆
+higher-mid	˦
+x-uvular-labialized	χʷ
+x-uvular-palatalized	χʲ
+x-uvular-long-pharyngealized	χˤː
+x-uvular-long	χː
+x-uvular-pharyngealized	χˤ
+x-uvular	χ
+theta-long	θː
+theta-half-long	θˑ
+theta	θ
+beta-labiovelarized	βʷˠ
+beta-nasalized-palatalized	β̃ʲ
+beta-palatalized	βʲ
+beta-velarized	βˠ
+beta-approximant-long	β̞ː
+beta-long	βː
+beta-approximant-breathy voice-nasalized	β̞̤̃
+beta-approximant-nasalized	β̞̃
+beta-approximant	β̞
+beta	β
+glottal stop-unreleased-labialized	ʔ̚ʷ
+glottal stop-labialized	ʔʷ
+w-preglottalized-voiceless	ˀw̥	ʔw̥
+w-preglottalized	ˀw	ʔw
+t-preglottalized	ˀt	ʔt
+r-trill-preglottalized	ˀr	ʔr
+p-preglottalized	ˀp	ʔp
+o-glide-preglottalized	ˀo̯	ʔo̯
+eng-prevelar-preglottalized	ˀŋ̟	ʔŋ̟
+eng-preglottalized	ˀŋ	ʔŋ
+n-palatal-preglottalized	ˀɲ	ʔɲ
+n-preglottalized	ˀn	ʔn
+m-preglottalized-voiceless	ˀm̥	ʔm̥
+m-preglottalized	ˀm	ʔm
+l-laminal-preglottalized-voiceless	ˀl̻̥	ʔl̻̥
+l-preglottalized	ˀl	ʔl
+k-preglottalized	ˀk	ʔk
+glottal stop-palatalized	ʔʲ
+yod-preglottalized-voiceless	ˀj̥	ʔj̥
+yod-preglottalized	ˀj	ʔj
+glottal stop-aspirated	ʔʰ
+g-preglottalized	ˀɡ	ʔɡ
+d-dental-preglottalized	ˀd̪	ʔd̪
+d-retroflex-preglottalized	ˀɖ	ʔɖ
+d-preglottalized	ˀd	ʔd
+b-preglottalized-labialized	ˀbʷ	ʔbʷ
+b-preglottalized	ˀb	ʔb
+pharyngeal-voice-long	ʕː
+glottal stop-long	ʔː
+mid-falling-creaky voice/glottal stop	˧˩̰ʔ
+glottal stop-pharyngealized	ʔˤ
+pharyngeal-voice	ʕ
+glottal stop	ʔ
+z-hacek-palatalized	ʒʲ
+z-hacek-velarized	ʒˠ
+z-hacek-long-pharyngealized	ʒˤː
+z-hacek-long	ʒː
+z-hacek-pharyngealized	ʒˤ
+z-hacek-syllabic	ʒ̩
+z-hacek-nasalized	ʒ̃
+z-hacek	ʒ
+z-approximant-labialized-syllabic	z̞̩ʷ
+z-labiovelarized	zʷˠ
+z-palatalized	zʲ
+z-approximant-nasalized-velarized-syllabic	z̞̩̃ˠ
+z-approximant-velarized-syllabic	z̞̩ˠ
+z-velarized	zˠ
+z-long-pharyngealized	zˤː
+z-dental-long	z̪ː
+z-long	zː
+z-hacek-retroflex-glottalized	ʐˀ	ʐ̰
+z-approximant-syllabic	z̞̩
+z-half-long-nasalized	z̃ˑ
+z-pharyngealized	zˤ
+z-laminal	z̻
+z-dental	z̪
+z-syllabic	z̩
+z-hacek-retroflex	ʐ
+z-retroflex	ʐ
+z-nasalized	z̃
+z	z
+u-trema/schwa-glide	yə̯
+u-trema-long	yː
+l-palatoalveolar	ʎ̟
+l-palatal	ʎ
+upsilon-trema-voiceless-over-short	ʏ̥̆
+u-trema-voiceless	y̥
+u-trema-nasalized	ỹ
+u-trema-over-short	y̆
+upsilon-trema	ʏ
+u-trema	y
+x-long-labialized	xʷː
+x-labialized	xʷ
+x/r-trill-uvular-voiceless	xʀ̥
+x-prevelar-palatalized	x̟ʲ
+x-palatalized	xʲ
+x/h	xh
+x-velarized	xˠ
+x-long/r-trill-uvular-voiceless	xːʀ̥
+x-long	xː
+x-ejective	xʼ
+x-half-long	xˑ
+x-prevelar	x̟
+x	x
+w/o	uo	wo
+w/iota	uɪ	wɪ
+w/epsilon	uɛ	wɛ
+w/o-open	uɔ	wɔ
+w/a	ua	wa
+w-long-nasalized	w̃ː
+w-long	wː
+w-retroflexed	w˞
+w-voiceless	ʍ
+w-creaky voice-nasalized	w̰̃
+w-glottalized	wˀ	w̰
+w-creaky voice	w̰
+w-nasalized	w̃
+w-over-short	w̆
+w	w
+v-labialized	vʷ
+v-labiovelarized	vʷˠ
+v-approximant-palatalized	ʋʲ
+v-palatalized	vʲ
+v-velarized	vˠ
+caret-long-nasalized	ʌ̃ː
+caret-long	ʌː
+v-approximant-long	ʋː
+v-long	vː
+caret-glide	ʌ̯
+caret-voiceless	ʌ̥
+caret-nasalized	ʌ̃
+v-approximant-nasalized	ʋ̃
+caret-over-short	ʌ̆
+v-half-long	vˑ
+caret	ʌ
+v-approximant	ʋ
+v-syllabic	v̩
+v-nasalized	ṽ
+v	v
+upsilon/w	ʊu	ʊw
+u/w	uu̯	uw	the non-syllabic marker is used to indicate the glideness of the vowel symbol
+upsilon/u	ʊu
+u/yod	ui	uj
+upsilon/schwa-glide	ʊə̯
+u/schwa-glide	uə̯
+u/e-dot	uɘ
+upsilon-creaky voice-long	ʊ̰ː
+upsilon-long-retracted	ʊ̙ː
+upsilon-dot-long-nasalized	ʊ̈̃ː
+upsilon-long-nasalized	ʊ̃ː
+upsilon-dot-long	ʊ̈ː
+upsilon-long	ʊː
+u-creaky voice-long	ṵː
+u-voiceless-long	u̥ː
+u-breathy voice-long	ṳː
+u-long-fronted	u̟ː
+u-dot-long	ʉː
+u-long-nasalized	ũː
+u-long	uː
+upsilon-retroflexed	ʊ˞
+upsilon-voiceless-over-short	ʊ̥̆
+upsilon-creaky voice	ʊ̰
+upsilon-glide	ʊ̯
+upsilon-voiceless	ʊ̥
+upsilon-breathy voice	ʊ̤
+upsilon-fronted	ʊ̟
+upsilon-retracted	ʊ̙
+upsilon-dot-nasalized	ʊ̈̃
+upsilon-nasalized	ʊ̃
+upsilon-over-short	ʊ̆
+upsilon-dot	ʊ̈
+u-retroflexed	u˞
+u-half-long	uˑ
+upsilon	ʊ
+u-voiceless-over-short	ŭ̥
+u-creaky voice	ṵ
+u-voiceless	u̥
+u-fronted	u̟
+u-over-short-nasalized	ŭ̃
+u-dot	ʉ
+u-nasalized	ũ
+u-over-short	ŭ
+u	u
+t/x-uvular	tχ
+t/x-labialized	txʷ
+t/x	tx
+t-retroflex-aspirated-labiovelarized	ʈʷˠʰ
+t-aspirated-labialized	tʷʰ
+t-aspirated-labiovelarized	tʷˠʰ
+t-retroflex-labiovelarized	ʈʷˠ
+t-labialized	tʷ
+t-labiovelarized	tʷˠ
+t/s/x-labialized	tsxʷ
+t/s/x	tsx
+t/s-aspirated-labialized	tsʷʰ
+t/s-aspirated-labiovelarized	tsʷˠʰ
+t/s-ejective-labialized	tsʷʼ
+t/s-labialized	tsʷ
+t/s-labiovelarized	tsʷˠ
+t/s-aspirated-palatalized	tsʲʰ
+t/s-palatalized	tsʲ
+t/s-aspirated-long	tsʰː
+t/s-aspirated	tsʰ
+t/s-long	tsː
+t/s-ejective-long	tsʼː
+t/s-ejective	tsʼ
+t/s-fricative-ejective	tsʼ
+t/s	ts
+t-retroflex/r-flap-retroflex	ʈɽ
+t/p	tp
+t-laminal-nasal-release-palatalized	t̻ⁿʲ
+t-dental-nasal-release	t̪ⁿ
+t-retroflex-nasal-release	ʈⁿ
+t-nasal-release	tⁿ
+t/l-fricative-ejective-palatalized	tɬʲʼ
+t-laminal-lateral-release-palatalized	t̻ˡʲ
+t/l-fricative-aspirated	tɬʰ
+t/l-fricative-ejective-syllabic	tɬ̩ʼ
+t/l-fricative-ejective	tɬʼ
+t-dental-lateral-release	t̪ˡ
+t-retroflex-lateral-release	ʈˡ
+t-lateral-release	tˡ
+t/l-fricative-voice	tɮ
+t/l-fricative	tɬ
+t-dental-aspirated-palatalized	t̪ʲʰ
+t-retroflex-aspirated-palatalized	ʈʲʰ
+t-aspirated-palatalized	tʲʰ
+t-long-palatalized	tʲː
+t-laminal-palatalized	t̻ʲ
+t-dental-palatalized	t̪ʲ
+t-retroflex-palatalized	ʈʲ
+t-unreleased-palatalized	t̚ʲ
+t-palatalized	tʲ
+t-laminal-aspirated-long	t̻ʰː
+t-dental-aspirated-long	t̪ʰː
+t-retroflex-aspirated-long	ʈʰː
+t-aspirated-long	tʰː
+t-laminal-aspirated	t̻ʰ
+t-dental-aspirated	t̪ʰ
+t-retroflex-aspirated	ʈʰ
+t-aspirated	tʰ
+t-velarized	tˠ
+t/c-fricative-aspirated-labialized	cçʷʰ		updated from tçʷʰ
+t/c-fricative-aspirated	cçʰ		updated from tçʰ
+t/c-fricative-long	cçː		updated from tçː
+t/c-fricative	cç		updated from tç
+t-long/s	tːs
+t-long-pharyngealized	tˤː
+t-laminal-long	t̻ː
+t-dental-long	t̪ː
+t-retroflex-long	ʈː
+t-long	tː
+t-ejective-long	tʼː
+t-laminal-ejective	t̻ʼ
+t-dental-ejective	t̪ʼ
+t-retroflex-ejective	ʈʼ
+t-ejective	tʼ
+t-unreleased-pharyngealized	t̚ˤ
+t-laminal-unreleased	t̻̚
+t-dental-unreleased	t̪̚
+t-retroflex-unreleased	ʈ̚
+t-pharyngealized	tˤ
+t-half-long	tˑ
+t-laminal	t̻
+t-dental	t̪
+t-retroflex	ʈ
+t-unreleased	t̚
+t	t
+s-laminal/theta	s̻θ
+s-labialized	sʷ
+s-labiovelarized	sʷˠ
+s/t/s-long	stsː
+s/t/s	sts
+s/t	st
+s/l-fricative	sɬ
+s-long-palatalized	sʲː
+s-laminal-palatalized	s̻ʲ
+s-palatalized	sʲ
+s-aspirated	sʰ
+s-velarized	sˠ
+s-long-pharyngealized	sˤː
+s-laminal-long	s̻ː
+s-dental-long	s̪ː
+s-retroflex-long	ʂː
+s-long	sː
+s-ejective-long	sʼː
+s-ejective	sʼ
+s-laminal-half-long	s̻ˑ
+s-approximant-syllabic	s̞̩
+s-pharyngealized	sˤ
+s-half-long	sˑ
+s-laminal	s̻
+s-dental	s̪
+s-syllabic	s̩
+s-hacek-retroflex	ʂ
+s-retroflex	ʂ
+s-nasalized	s̃
+s	s
+gamma-uvular-labialized	ʁʷ
+r-trill-labiovelarized	rʷˠ
+r-flap/n	ɾn
+r-flap/l	ɾl
+r-flap-voiceless-palatalized	ɾ̥ʲ
+l-flap-voiceless-palatalized	ɺ̥ʲ
+r-flap-nasalized-palatalized	ɾ̃ʲ
+r-flap-palatalized	ɾʲ
+l-flap-palatalized	ɺʲ
+gamma-uvular-palatalized	ʁʲ
+r-trill-voiceless-palatalized	r̥ʲ
+r-flap-retroflex-palatalized	ɽʲ
+r-trill-palatalized	rʲ
+r-flap-dental-velarized	ɾ̪ˠ
+r-flap-voiceless-velarized	ɾ̥ˠ
+r-flap-nasalized-velarized	ɾ̃ˠ
+r-flap-velarized	ɾˠ
+r-trill-velarized	rˠ
+r-trill-long-pharyngealized	rˤː
+r-flap-long	ɾː
+l-flap-long	ɺː
+gamma-uvular-long-pharyngealized	ʁˤː
+gamma-uvular-long	ʁː
+r-trill-long	rː
+r-flap-glottalized	ɾˀ	ɾ̰
+r-approximant-retroflex-syllabic	ɻ̩
+r-flap-voiceless	ɾ̥
+r-flap-breathy voice	ɾ̤
+r-syllabic	ɹ̩
+r-approximant-retroflex-voiceless	ɻ̥
+l-flap-voiceless	ɺ̥
+l-flap-nasalized	ɺ̃
+l-flap	ɺ
+r-approximant-retroflex-voiceless-syllabic	ɻ̥̩
+r-fricative-retroflex-voiceless	ʂ͇		updated from ɻ̝̥ to match UPSID's sibilant/non-sibilant distinction
+r-approximant-uvular-voiceless	ʁ̞̥
+r-fricative-voiceless	z̥͇		updated from ɹ̝̥ to match UPSID's sibilant/non-sibilant distinction; s͇ does not appear in UPSID; f-fricative-voiceless only appears allophonically in SPA
+gamma-uvular-pharyngealized	ʁˤ
+gamma-uvular-creaky voice	ʁ̰
+r-trill-voiceless-half-long	r̥ˑ
+r-approximant-voiceless	ɹ̥
+r-fricative-retroflex	ʐ͇		updated from ɻ̝ to match UPSID's sibilant/non-sibilant distinction
+r-approximant-uvular	ʁ̞
+r-fricative	z͇		updated from ɹ̝ to match UPSID's sibilant/non-sibilant distiction
+r-flap-retroflex-voiceless	ɽ̥
+r-flap-retroflex-breathy voice	ɽ̤
+r-trill-pharyngealized	rˤ
+r-trill-half-long	rˑ
+r-flap	ɾ
+r-approximant-retroflex	ɻ
+gamma-uvular	ʁ
+r-approximant	ɹ
+r-trill-syllabic	r̩
+r-trill-uvular-voiceless	ʀ̥
+r-trill-voiceless	r̥
+r-flap-retroflex-nasalized	ɽ̃
+r-flap-retroflex	ɽ
+r-flap-pharyngealized	ɾˤ
+r-flap-nasalized	ɾ̃
+r-trill	r
+r-trill-uvular	ʀ
+q/x-uvular-ejective-labialized	qχʷʼ
+q/x-uvular-labialized	qχʷ
+q/x-uvular-aspirated-long	qχʰː
+q/x-uvular-aspirated	qχʰ
+q/x-uvular-ejective	qχʼ
+q/x-uvular	qχ
+q-aspirated-labialized	qʷʰ
+q-ejective-labialized	qʷʼ
+q-labialized	qʷ
+q-aspirated-palatalized	qʲʰ
+q-palatalized	qʲ
+q-aspirated	qʰ
+q-long-pharyngealized	qˤː
+q-long	qː
+q-ejective	qʼ
+q-pharyngealized	qˤ
+q-creaky voice	q̰
+q-unreleased	q̚
+q	q
+p-aspirated-labialized	pʷʰ
+p-aspirated-labiovelarized	pʷˠʰ
+phi-labiovelarized-nasalized	ɸ̃ʷˠ
+phi-labialized	ɸʷ
+phi-labiovelarized	ɸʷˠ
+p-unreleased-labiovelarized	p̚ʷˠ
+p-labialized	pʷ
+p-labiovelarized	pʷˠ
+p/phi	pɸ
+p-nasal-release	pⁿ
+p-lateral-release	pˡ
+p-aspirated-palatalized	pʲʰ
+p-long-palatalized	pʲː
+phi-nasalized-palatalized	ɸ̃ʲ
+phi-palatalized	ɸʲ
+p-unreleased-palatalized	p̚ʲ
+p-palatalized	pʲ
+p-aspirated-long	pʰː
+p-aspirated	pʰ
+p-velarized	pˠ
+p/f-aspirated	pfʰ
+p/f-ejective	pfʼ
+p/f	pf
+phi-long	ɸː
+p-long	pː
+p-ejective-long	pʼː
+phi-ejective	ɸʼ
+p-ejective	pʼ
+phi-nasalized	ɸ̃
+p-half-long	pˑ
+phi	ɸ
+p-labiodental	p̪
+p-unreleased	p̚
+p	p
+o-mid/w	o̞u	o̞w
+o-dot/w	ɵu	ɵw
+o/w	ou	ow
+o-glide/u	o̯u
+o/u-retracted	ou̙
+o/u-nasalized	oũ
+o/u	ou
+o/o-mid-long	oo̞ː
+o/o-mid	oo̞
+o-mid/yod	o̞i	o̞j
+o/yod-over-short	oĭ	oj̆
+o/e-trema-retroflexed	oɤ˞
+o/e-trema	oɤ
+o-open-trema-long-nasalized	œ̃ː
+o-open-trema-long	œː
+o-mid-trema/schwa-glide	ø̞ə̯
+o-mid/schwa-glide	o̞ə̯
+o-open-trema-nasalized	œ̃
+o-open-trema	œ
+o-mid/o-open-glide	o̞ɔ̯
+o-long/w	oːu	oːw
+o-mid-creaky voice-long	o̞̰ː
+o-mid-dot-long-nasalized	ɵ̞̃ː
+o-mid-trema-long	ø̞ː
+o-mid-dot-long	ɵ̞ː
+o-mid-long-nasalized	õ̞ː
+o-breathy voice-long	o̤ː
+o-long-fronted	o̟ː
+o-mid-long	o̞ː
+o-long-advanced	o̘ː
+o-trema-long	øː
+o-long-nasalized	õː
+o-long	oː
+o-mid-trema-pharyngealized	ø̞ˤ
+o-mid-retroflexed	o̞˞
+o-mid-dot-glide	ɵ̞̯
+o-mid-creaky voice-nasalized	õ̞̰
+o-mid-dot-backed	ɵ̞̠
+o-mid-creaky voice	o̞̰
+o-mid-glide	o̞̯
+o-mid-voiceless	o̞̥
+o-mid-fronted	o̞̟
+o-mid-dot-nasalized	ɵ̞̃
+o-mid-dot-over-short	ɵ̞̆
+o-mid-trema	ø̞
+o-mid-dot	ɵ̞
+o-mid-nasalized	õ̞
+o-mid-over-short	ŏ̞
+o-creaky voice	o̰
+o-glide	o̯
+o-voiceless	o̥
+o-breathy voice	o̤
+o-fronted	o̟
+o-mid	o̞
+o-trema-nasalized	ø̃
+o-trema-over-short	ø̆
+o-over-short-nasalized	ŏ̃
+o-trema	ø
+o-dot	ɵ
+o-nasalized	õ
+o-over-short	ŏ
+o	o
+eng-postglottalized	ŋˀ	ŋʔ
+eng-labialized-syllabic	ŋ̩ʷ
+eng-labialized	ŋʷ
+eng/m-syllabic	ŋm̩
+eng/m	ŋm
+k-prenasalized-labialized	ŋkʷ
+k-prenasalized-palatalized	ŋkʲ
+k-prenasalized-aspirated	ŋkʰ
+k-prenasalized	ŋk
+eng-prevelar-palatalized-syllabic	ŋ̟̩ʲ
+eng-voiceless-palatalized	ŋ̥ʲ
+eng-prevelar-palatalized	ŋ̟ʲ
+eng-palatalized	ŋʲ
+g-prenasalized-labialized	ŋɡʷ
+g-prenasalized-palatalized	ŋɡʲ
+g/b-prenasalized	ŋmɡb
+g-prenasalized-breathy voice	ŋɡ̤
+g-prevelar-prenasalized	ŋɡ̟
+g-prenasalized	ŋɡ
+eng-long	ŋː
+eng-voiceless-half-long	ŋ̥ˑ
+eng-prevelar-half-long	ŋ̟ˑ
+eng-half-long	ŋˑ
+eng-creaky voice	ŋ̰
+eng-glottalized	ŋˀ	ŋ̰
+eng-syllabic	ŋ̩
+eng-voiceless	ŋ̥
+eng-prevelar-voiceless-half-long	ŋ̟̥ˑ
+eng-prevelar-voiceless	ŋ̟̥
+eng-prevelar	ŋ̟
+eng	ŋ
+n-postglottalized	nˀ	nʔ
+z-prenasalized	nz
+n-labialized	nʷ
+n-labiovelarized	nʷˠ
+t/s-prenasalized-aspirated	ntsʰ
+t/s-prenasalized	nts
+t-prenasalized-aspirated-palatalized	ntʲʰ
+t-prenasalized-aspirated	ntʰ
+t-prenasalized	nt
+n/m	nm
+n-long-palatalized	nʲː
+n-laminal-voiceless-palatalized	n̻̥ʲ
+n-laminal-palatalized	n̻ʲ
+n-palatalized-syllabic	n̩ʲ
+n-voiceless-palatalized	n̥ʲ
+n-retroflex-palatalized	ɳʲ
+n-unreleased-palatalized	n̚ʲ
+n-palatal-palatalized	ɲʲ
+j-prenasalized	ɲɟ
+n-palatalized	nʲ
+n-voiceless-velarized	n̥ˠ
+n-velarized	nˠ
+d/z-prenasalized	ndz
+d-prenasalized-palatalized	ndʲ
+d/j-fricative-prenasalized	ɲɟʝ		updated from ndʝ
+d-dental-prenasalized-breathy voice	n̪d̪̤
+d-dental-prenasalized	n̪d̪
+d-retroflex-prenasalized-breathy voice	ɳɖ̤
+d-retroflex-prenasalized	ɳɖ
+d-prenasalized	nd
+n-long-pharyngealized	nˤː
+n-laminal-long	n̻ː
+n-dental-long	n̪ː
+n-voiceless-long	n̥ː
+n-palatal-long	ɲː
+n-long	nː
+n-uvular-long	ɴː
+n-palatoalveolar-voiceless	ɲ̟̥
+n-voiceless-half-long	n̥ˑ
+n-laminal-syllabic	n̻̩
+n-laminal-voiceless	n̻̥
+n-dental-syllabic	n̪̩
+n-dental-breathy voice	n̪̤
+n-retroflex-syllabic	ɳ̩
+n-retroflex-voiceless	ɳ̥
+n-palatal-syllabic	ɲ̩
+n-palatal-voiceless	ɲ̥
+n-palatoalveolar	ɲ̟
+n-pharyngealized	nˤ
+n-half-long	nˑ
+n-laminal	n̻
+n-creaky voice	n̰
+n-glottalized	nˀ	n̰
+n-dental	n̪
+n-syllabic	n̩
+n-voiceless	n̥
+n-breathy voice	n̤
+n-retroflex	ɳ
+n-unreleased	n̚
+n-palatal	ɲ
+eng-uvular	ɴ
+n	n
+n-uvular	ɴ
+m-postglottalized	mˀ	mʔ
+m-long-labialized-pharyngealized	mʷˤː
+m-long-labialized	mʷː
+m-voiceless-labialized	m̥ʷ
+m-labialized	mʷ
+m-labiovelarized	mʷˠ
+m-syllabic/v	m̩v
+m/v	mv
+p-prenasalized-aspirated	mpʰ
+p-prenasalized	mp
+iota-trema/yod-trema	ɯ̞ɰ
+m-long-palatalized	mʲː
+m-palatalized-syllabic	m̩ʲ
+m-palatalized	mʲ
+yod-trema/i-bar	ɰɨ
+m-velarized	mˠ
+yod-trema/schwa	ɰə
+b-prenasalized-labialized	mbʷ
+b-prenasalized-palatalized	mbʲ
+b-prenasalized-breathy voice	mb̤
+b-prenasalized	mb
+iota-trema-long-nasalized	ɯ̞̃ː
+i-trema-long-nasalized	ɯ̃ː
+m-long-pharyngealized	mˤː
+i-trema-long	ɯː
+m-long	mː
+m-syllabic	m̩
+i-trema-voiceless-nasalized	ɯ̥̃
+i-trema-creaky voice	ɯ̰
+m-voiceless-half-long	m̥ˑ
+yod-trema-voiceless	ɰ̥
+i-trema-voiceless	ɯ̥
+m-labiodental-syllabic	ɱ̩
+yod-trema-nasalized	ɰ̃
+i-trema-nasalized	ɯ̃
+i-trema-over-short	ɯ̆
+m-pharyngealized	mˤ
+m-half-long	mˑ
+yod-trema	ɰ
+i-trema	ɯ
+m-creaky voice	m̰
+m-glottalized	mˀ	m̰
+m-voiceless	m̥
+m-breathy voice	m̤
+m-labiodental	ɱ
+iota-trema-voiceless-over-short	ɯ̞̥̆
+iota-trema-glide	ɯ̞̯
+iota-trema-nasalized	ɯ̞̃
+iota-trema	ɯ̞
+m	m
+l-labiovelarized-syllabic	l̩ʷˠ
+l-labialized	lʷ
+l-labiovelarized	lʷˠ
+l-long-palatalized	lʲː
+l-fricative-ejective-palatalized	ɬʲʼ
+l-fricative-voice-palatalized	ɮʲ
+l-fricative-palatalized	ɬʲ
+l-laminal-palatalized	l̻ʲ
+l-dental-palatalized	l̪ʲ
+l-palatalized-syllabic	l̩ʲ
+l-palatal-voiceless	l̥ʲ
+l-voiceless-palatalized	l̥ʲ
+l-retroflex-palatalized	ɭʲ
+l-palatalized	lʲ
+l-dental-velarized	l̪ˠ
+l-velarized-syllabic	l̩ˠ
+l-voiceless-velarized	l̥ˠ
+l-velarized	lˠ
+l-long-pharyngealized	lˤː
+l-fricative-long	ɬː
+l-laminal-long	l̻ː
+l-dental-long	l̪ː
+l-retroflex-long	ɭː
+l-long	lː
+l-fricative-ejective	ɬʼ
+l-fricative-laminal	ɬ̻
+l-pharyngealized-syllabic	l̩ˤ
+l-voiceless-half-long	l̥ˑ
+l-fricative-syllabic	ɬ̩
+l-laminal-creaky voice	l̻̰
+l-laminal-voiceless	l̻̥
+l-dental-syllabic	l̪̩
+l-retroflex-syllabic	ɭ̩
+l-retroflex-voiceless	ɭ̥
+l-pharyngealized	lˤ
+l-half-long	lˑ
+l-fricative-voice	ɮ
+l-fricative	ɬ
+l-laminal	l̻
+l-creaky voice	l̰
+l-dental	l̪
+l-syllabic	l̩
+l-voiceless	l̥
+l-breathy voice	l̤
+l-retroflex	ɭ
+l-nasalized	l̃
+l	l
+k/x-labialized	kxʷ
+k/x-aspirated	kxʰ
+k/x-ejective	kxʼ
+k/x	kx
+k-aspirated-long-labialized	kʷʰː
+k-aspirated-labialized	kʷʰ
+k-aspirated-labiovelarized	kʷˠʰ
+k-long-labialized	kʷː
+k-ejective-long-labialized	kʷʼː
+k-ejective-labialized	kʷʼ
+k-unreleased-labialized	k̚ʷ
+k-labialized-pharyngealized	kʷˤ
+k-labialized	kʷ
+k-labiovelarized	kʷˠ
+k/p-unreleased	kp̚
+k/p	kp
+k-nasal-release	kⁿ
+k/x-lateral-ejective	kʟ̥͓ʼ		updated from kʟ̝̥ʼ
+k-prevelar-aspirated-palatalized	k̟ʲʰ
+k-aspirated-palatalized	kʲʰ
+k-prevelar-long-palatalized	k̟ʲː
+k-prevelar-ejective-palatalized	k̟ʲʼ
+k-ejective-palatalized	kʲʼ
+k-prevelar-palatalized	k̟ʲ
+k-palatalized	kʲ
+k-aspirated-long	kʰː
+k-prevelar-aspirated	k̟ʰ
+k-aspirated	kʰ
+k/gamma-labialized	kɣʷ
+k/gamma	kɣ
+k-long-pharyngealized	kˤː
+k-prevelar-long	k̟ː
+k-long	kː
+k-ejective-long	kʼː
+k-ejective	kʼ
+t-laminal-click	kǃ
+k-prevelar-unreleased	k̟̚
+k-pharyngealized	kˤ
+k-half-long	kˑ
+k-prevelar	k̟
+k-unreleased	k̚
+k	k
+j-unreleased-postglottalized	ɟ̚ˀ	ɟ̚ʔ
+j-fricative-labialized	ʝʷ
+yod/o-long	ioː		updated from joː
+yod/o-mid	io̞		updated from jo̞
+j/n-palatal	ɟɲ
+j-palatalized	ɟʲ
+yod/e-dot	iɘ		updated from jɘ
+yod/epsilon	iɛ		updated from jɛ
+yod/e-mid	ie̞		updated from je̞
+yod/e-nasalized	iẽ		updated from jẽ
+yod/e	ie		updated from je
+yod/ash	iæ		updated from jæ
+yod/a	ia		updated from ja
+j-long	ɟː
+yod-long-nasalized	j̃ː
+yod-long	jː
+j-palatoalveolar-unreleased	ɟ̟̚
+j-fricative-nasalized	ʝ̃
+j-creaky voice	ɟ̰
+j-fricative	ʝ
+yod-creaky voice-nasalized	j̰̃
+j-palatoalveolar	ɟ̟
+yod-glottalized	jˀ	j̰
+yod-creaky voice	j̰
+yod-voiceless	j̥
+j-implosive	ʄ
+j	ɟ
+yod-nasalized	j̃
+yod-over-short	j̆
+yod	j
+i/yod	ii̯	ij	the non-syllabic marker is used to indicate the glideness of the vowel symbol
+iota/yod	ɪi	ɪj
+iota/iota-glide-backed	ɪɪ̠̯
+iota/i	ɪi
+i/schwa-glide	iə̯
+iota/schwa-glide	ɪə̯
+iota/schwa	ɪə
+i/a-glide	ia̯
+i-bar-long-retroflexed	ɨ˞ː
+i-creaky voice-long	ḭː
+iota-creaky voice-long	ɪ̰ː
+i-voiceless-long	i̥ː
+i-breathy voice-long	i̤ː
+i-long-backed	i̠ː
+iota-long-backed	ɪ̠ː
+i-long-retracted	i̙ː
+i-bar-long-nasalized	ɨ̃ː
+i-bar-long	ɨː
+i-long-nasalized	ĩː
+iota-long-nasalized	ɪ̃ː
+iota-bar-long	ɪ̈ː
+i-long	iː
+iota-long	ɪː
+i-bar-voiceless-retroflexed	ɨ̥˞
+iota-glide-voiceless	ɪ̥̯
+i-bar-retroflexed	ɨ˞
+iota-retroflexed	ɪ˞
+i-retroflexed	i˞
+i-half-long	iˑ
+i-bar-creaky voice	ɨ̰
+i-creaky voice-nasalized	ḭ̃
+i-bar-voiceless	ɨ̥
+i-bar-backed	ɨ̠
+i-bar-fronted	ɨ̟
+iota-voiceless-over-short	ɪ̥̆
+i-voiceless-over-short	ĭ̥
+i-creaky voice	ḭ
+iota-creaky voice	ɪ̰
+iota-glide	ɪ̯
+iota-voiceless	ɪ̥
+i-voiceless	i̥
+iota-breathy voice	ɪ̤
+i-backed	i̠
+iota-backed	ɪ̠
+iota-retracted	ɪ̙
+i-bar-nasalized	ɨ̃
+i-bar-over-short	ɨ̆
+i-over-short-nasalized	ĭ̃
+iota-bar-nasalized	ɪ̈̃
+iota-bar-over-short	ɪ̈̆
+i-bar	ɨ
+i-nasalized	ĩ
+iota-nasalized	ɪ̃
+iota-over-short	ɪ̆
+i-over-short	ĭ
+iota-bar	ɪ̈
+i	i
+iota	ɪ
+h-voice-labiovelarized	ɦʷˠ
+pharyngeal-voiceless-labialized	ħʷ
+h-labialized-nasalized	h̃ʷ
+h-labialized	hʷ
+t/s-preaspirated-long	ʰtsː
+t/s-preaspirated	ʰts
+t-preaspirated-long	ʰtː
+t-preaspirated-half-long	ʰtˑ
+t-preaspirated	ʰt
+q-preaspirated	ʰq
+p-preaspirated-long	ʰpː
+p-preaspirated-half-long	ʰpˑ
+p-preaspirated	ʰp
+k-preaspirated-labialized	ʰkʷ
+k-preaspirated-long	ʰkː
+k-preaspirated-half-long	ʰkˑ
+k-preaspirated	ʰk
+h-voice-palatalized	ɦʲ
+h-nasalized-palatalized	h̃ʲ
+h-palatalized	hʲ
+h-voice-velarized	ɦˠ
+pharyngeal-voiceless-long	ħː
+h-long	hː
+w-front-voiceless	ɥ̥
+w-front-nasalized	ɥ̃
+w-front	ɥ
+h-voice-nasalized	ɦ̃
+h-voice	ɦ
+pharyngeal-voiceless	ħ
+h-nasalized	h̃
+h	h
+g-postglottalized	ɡˀ	ɡʔ
+g-labialized-syllabic	ɡ̩ʷ
+g-breathy voice-labialized	ɡ̤ʷ
+gamma-labialized-nasalized	ɣ̃ʷ
+g-labialized	ɡʷ
+g-labiovelarized	ɡʷˠ
+e-trema/w	ɤu	ɤw
+gamma-labialized	ɣʷ
+q-voice-labialized	ɢʷ
+q-voice/gamma-uvular	ɢʁ
+g/eng	ɡŋ
+g-nasal-release	ɡⁿ
+e-trema/yod-trema	ɤɰ
+g-prevelar-palatalized	ɡ̟ʲ
+gamma-prevelar-palatalized	ɣ̟ʲ
+g-palatalized	ɡʲ
+gamma-palatalized	ɣʲ
+q-voice-palatalized	ɢʲ
+g/gamma	ɡɣ
+e-trema/e	ɤe
+g/b-syllabic	ɡb̩
+g/b	ɡb
+e-mid-trema-long-nasalized	ɤ̞̃ː
+g-long-pharyngealized	ɡˤː
+g-breathy voice-long	ɡ̤ː
+e-mid-trema-long	ɤ̞ː
+e-trema-long-nasalized	ɤ̃ː
+g-long	ɡː
+e-trema-long	ɤː
+q-voice-long	ɢː
+gamma-half-long	ɣˑ
+e-mid-trema-nasalized	ɤ̞̃
+e-mid-trema-over-short	ɤ̞̆
+g-creaky voice	ɡ̰
+g-syllabic	ɡ̩
+gamma-syllabic	ɣ̩
+g-breathy voice	ɡ̤
+e-trema-voiceless	ɤ̥
+g-prevelar	ɡ̟
+e-mid-trema	ɤ̞
+gamma-prevelar	ɣ̟
+g-unreleased	ɡ̚
+e-trema-nasalized	ɤ̃
+gamma-nasalized	ɣ̃
+g	ɡ
+e-trema	ɤ
+gamma	ɣ
+g-implosive	ɠ
+e-mid-trema-voiceless	ɤ̞̥
+g-prevelar-unreleased	ɡ̟̚
+q-voice	ɢ
+g-pharyngealized	ɡˤ
+e-trema-retroflexed	ɤ˞
+e-trema-glide	ɤ̯
+f-long-labialized-pharyngealized	fʷˤː
+f-long-labialized	fʷː
+f-labialized	fʷ
+f-labiovelarized	fʷˠ
+f-palatalized	fʲ
+f-velarized	fˠ
+f-long-pharyngealized	fˤː
+f-long	fː
+f-ejective	fʼ
+f-pharyngealized	fˤ
+f-half-long	fˑ
+f-syllabic	f̩
+f-nasalized	f̃
+f	f
+s-hacek-labialized	ʃʷ
+s-hacek-labiovelarized	ʃʷˠ
+epsilon/caret-glide	ɛʌ̯
+epsilon-dot/o-glide	ɜo̯
+s-hacek-palatalized	ʃʲ
+epsilon/yod	ɛi	ɛj
+e/yod	ei	ej
+schwa-glide/i-long	ə̯iː
+schwa-glide/iota	ə̯ɪ
+epsilon-dot/iota-glide	ɜɪ̯
+schwa/i-bar-retracted	əɨ̙
+e-glide/iota	e̯ɪ
+e/i-retracted	ei̙
+e/i-nasalized	eĩ
+e/i	ei
+s-hacek-velarized	ʃˠ
+e/e-mid-long	ee̞ː
+epsilon-dot/e-glide	ɜe̯
+epsilon/epsilon-dot-glide	ɛɜ̯
+epsilon/schwa	ɛə
+e/schwa-glide	eə̯
+e/epsilon-glide	eɛ̯
+e/e-mid	ee̞
+epsilon/a	ɛa
+e-long/yod	eːi	eːj
+e-long/schwa-glide	eːə̯		updated from eːe̯
+epsilon-voiceless-long	ɛ̥ː
+schwa-long-advanced	ə̘ː
+epsilon-long-advanced	ɛ̘ː
+e-mid-creaky voice-long	e̞̰ː
+schwa-long-nasalized	ə̃ː
+epsilon-long-nasalized	ɛ̃ː
+e-dot-long	ɘː
+schwa-long	əː
+s-hacek-long-pharyngealized	ʃˤː
+s-hacek-long	ʃː
+epsilon-long	ɛː
+e-mid-long-nasalized	ẽ̞ː
+e-breathy voice-long	e̤ː
+e-long-backed	e̠ː
+e-mid-long	e̞ː
+e-long-advanced	e̘ː
+e-long-nasalized	ẽː
+e-long	eː
+s-hacek-ejective	ʃʼ
+epsilon-retroflexed	ɛ˞
+s-hacek-half-long	ʃˑ
+schwa-voiceless-over-short	ə̥̆
+schwa-over-short-fronted	ə̟̆
+e-dot-glide	ɘ̯
+schwa-creaky voice	ə̰
+epsilon-glide	ɛ̯
+e-mid-pharyngealized	e̞ˤ
+e-mid-retroflexed	e̞˞
+o--open-dot-backed	ɞ̠
+schwa-voiceless	ə̥
+epsilon-dot-fronted	ɜ̟
+schwa-nasalized-retroflexed	ə̃˞
+epsilon-half-long-nasalized	ɛ̃ˑ
+epsilon-half-long	ɛˑ
+schwa-retroflexed	ə˞
+schwa-voiceless-nasalized	ə̥̃
+schwa-glide	ə̯
+epsilon-creaky voice	ɛ̰
+epsilon-voiceless	ɛ̥
+e-dot-fronted	ɘ̟
+schwa-backed	ə̠
+schwa-fronted	ə̟
+epsilon-backed	ɛ̠
+e-mid-creaky voice-nasalized	ẽ̞̰
+e-mid-creaky voice	e̞̰
+e-mid-glide	e̞̯
+e-mid-voiceless	e̞̥
+e-mid-breathy voice	e̞̤
+epsilon-over-short-nasalized	ɛ̆̃
+epsilon-dot-nasalized	ɜ̃
+schwa-nasalized	ə̃
+epsilon-dot-over-short	ɜ̆
+e-retroflexed	e˞
+s-hacek-pharyngealized	ʃˤ
+s-hacek-syllabic	ʃ̩
+epsilon-dot-backed	ɜ̠
+s-hacek-nasalized	ʃ̃
+epsilon-nasalized	ɛ̃
+schwa-over-short	ə̆
+epsilon-over-short	ɛ̆
+o-open-dot	ɞ
+epsilon-dot	ɜ
+e-dot	ɘ
+schwa	ə
+s-hacek	ʃ
+epsilon	ɛ
+e-mid-nasalized	ẽ̞
+e-mid-over-short	ĕ̞
+e-creaky voice	ḛ
+e-glide	e̯
+e-voiceless	e̥
+e-backed	e̠
+e-mid	e̞
+e-retracted	e̙
+e-nasalized	ẽ
+e-over-short	ĕ
+epsilon-dot-retroflexed	ɜ˞
+epsilon-dot-glide	ɜ̯
+e	e
+d-retroflex-unreleased-postglottalized	ɖ̚ˀ	ɖ̚ʔ
+d-unreleased-postglottalized	d̚ˀ	d̚ʔ
+d-postglottalized	dˀ	dʔ
+d/z-postglottalized	dzˀ	dzʔ
+d/z-labiovelarized	dzʷˠ
+d/z-palatalized	dzʲ
+d/z-long	dzː
+d/z-creaky voice	dz̰
+d/z	dz
+d-retroflex-labiovelarized	ɖʷˠ
+d-labiovelarized	dʷˠ
+d-laminal-nasal-release-palatalized	d̻ⁿʲ
+d-dental-nasal-release	d̪ⁿ
+d-retroflex-nasal-release	ɖⁿ
+d-nasal-release	dⁿ
+d/n	dn
+d-laminal-lateral-release-palatalized	d̻ˡʲ
+d-dental-lateral-release	d̪ˡ
+d-retroflex-lateral-release	ɖˡ
+d-lateral-release	dˡ
+d/l	dl
+d-laminal-palatalized	d̻ʲ
+eth-palatalized	ðʲ
+d-dental-palatalized	d̪ʲ
+d-retroflex-palatalized	ɖʲ
+d-palatalized	dʲ
+d/j-fricative	ɟʝ		updated from dʝ
+d-velarized	dˠ
+d/b	db
+d-dental-breathy voice-long	d̪̤ː
+d-retroflex-breathy voice-long	ɖ̤ː
+d-long-pharyngealized	dˤː
+d-laminal-long	d̻ː
+d-dental-long	d̪ː
+d-breathy voice-long	d̤ː
+d-retroflex-long	ɖː
+d-long	dː
+eth-pharyngealized	ðˤ
+eth-half-long	ðˑ
+eth-approximant	ð̞
+d-dental-breathy voice	d̪̤
+d-retroflex-breathy voice	ɖ̤
+d-dental-unreleased	d̪̚
+d-retroflex-unreleased	ɖ̚
+d-pharyngealized	dˤ
+d-laminal	d̻
+eth	ð
+d-creaky voice	d̰
+d-glottalized	dˀ	d̰
+d-dental	d̪
+d-syllabic	d̩
+d-breathy voice	d̤
+d-retroflex	ɖ
+d-unreleased	d̚
+d-implosive	ɗ
+d	d
+c-fricative-labialized-nasalized	ç̃ʷ
+c-fricative-labialized	çʷ
+o-open/caret-glide	ɔʌ̯
+o-open/o-glide-breathy voice	ɔo̤̯
+o-open/o-glide-nasalized	ɔõ̯
+o-open/o-glide	ɔo̯
+c-fricative-palatalized	çʲ
+c-palatalized	cʲ
+c-palatoalveolar-aspirated	c̟ʰ
+c-aspirated	cʰ
+o-open/schwa	ɔə
+o-open-voiceless-long	ɔ̥ː
+o-open-long-advanced	ɔ̘ː
+o-open-long-nasalized	ɔ̃ː
+o-open-long	ɔː
+c-fricative-long	çː
+c-ejective	cʼ
+o-open-retroflexed	ɔ˞
+o-open-half-long	ɔˑ
+o-open-creaky voice	ɔ̰
+o-open-glide	ɔ̯
+o-open-voiceless	ɔ̥
+o-open-breathy voice	ɔ̤
+c-palatoalveolar-unreleased	c̟̚
+o-open-nasalized	ɔ̃
+o-open-over-short	ɔ̆
+o-open	ɔ
+c-breathy voice	c̤
+c-palatoalveolar	c̟
+c-unreleased	c̚
+c-fricative	ç
+c	c
+b/beta	bβ
+b-unreleased-postglottalized	b̚ˀ	b̚ʔ
+b-postglottalized	bˀ	bʔ
+b-long-labialized-pharyngealized	bʷˤː
+b-long-labialized	bʷː
+b-unreleased-labiovelarized	b̚ʷˠ
+b-implosive-labialized	ɓʷ
+b-labialized	bʷ
+b-labiovelarized	bʷˠ
+b/v	bv
+b-nasal-release	bⁿ
+b/m	bm
+b-lateral-release	bˡ
+b-breathy voice-palatalized	b̤ʲ
+b-unreleased-palatalized	b̚ʲ
+b-palatalized	bʲ
+b-velarized	bˠ
+b-long-pharyngealized	bˤː
+b-breathy voice-long	b̤ː
+b-long	bː
+b-pharyngealized	bˤ
+b-creaky voice	b̰
+b-glottalized	bˀ	b̰
+b-labiodental	b̪
+b-syllabic	b̩
+b-breathy voice	b̤
+b-unreleased	b̚
+b-implosive	ɓ
+b	b
+ash-dot/yod	ɐi	ɐj
+a/yod	ai	aj
+ash/schwa-glide	æə̯
+ash/e-glide-breathy voice	æe̤̯
+ash/e-glide-nasalized	æẽ̯
+ash/e-glide	æe̯
+ash-long-nasalized	æ̃ː
+ash-long	æː
+a-glide/schwa	a̯ə
+a-glide/e	a̯e
+ash-pharyngealized	æˤ
+ash-breathy voice	æ̤
+ash-nasalized	æ̃
+ash-over-short	æ̆
+ash	æ
+a-long/yod	aːi	aːj
+alpha-long-nasalized	ɒ̃ː
+alpha-unrounded-long-nasalized	ɑ̃ː
+alpha-long	ɒː
+alpha-unrounded-long	ɑː
+ash-dot-long	ɐː
+a-creaky voice-long	a̰ː
+a-breathy voice-long	a̤ː
+a-voiceless-long	ḁː
+a-long-nasalized	ãː
+a-long	aː
+a-front-long	a̟ː
+ash-dot-creaky voice	ɐ̰
+alpha-unrounded-voiceless	ɑ̥
+ash-dot-voiceless	ɐ̥
+alpha-nasalized	ɒ̃
+alpha-unrounded-nasalized	ɑ̃
+ash-dot-nasalized	ɐ̃
+alpha-over-short	ɒ̆
+a-retroflexed	a˞
+ash-dot	ɐ
+a-breathy voice	a̤
+a-backed	a̠
+a-fronted	a̟
+a-voiceless	ḁ
+a-over-short-nasalized	ã̆
+a-nasalized	ã
+alpha-unrounded-nasalized-retroflexed	ɑ̃˞
+ash-dot-nasalized-retroflexed	ɐ̃˞
+ash-dot-retroflexed	ɐ˞
+a-over-short	ă
+alpha-unrounded-half-long-nasalized	ɑ̃ˑ
+alpha-unrounded-over-short	ɑ̆
+ash-dot-over-short	ɐ̆
+alpha	ɒ
+alpha-unrounded	ɑ
+a	a
+a-front	a̟
+d-retroflex-implosive-long	ᶑː
+mid	˧
+low-rising	˩˨
+rising	˩˥
+falling	˥˩
+high-rising	˦˥
+v-flap	ⱱ
+d-retroflex-implosive	ᶑ

@@ -1,0 +1,65 @@
+"LongName"	"ShortName"	"Type"
+"plosive"	"plos"	1
+"implosive"	"imp"	1
+"ejective stop"	"ejstop"	1
+"click"	"click"	1
+"fricative"	"fric"	1
+"ejective fricative"	"ejfric"	1
+"affricate"	"aff"	1
+"ejective affricate"	"ejaff"	1
+"affricated click"	"affclick"	1
+"unspecified r-sound"	"unspecr"	1
+"tap"	"tap"	1
+"flap"	"flap"	1
+"trill"	"trill"	1
+"approximant"	"approx"	1
+"nasal"	"nas"	1
+"simple vowel"	"vowl"	1
+"diphthong"	"diph"	1
+"lateral"	"lat"	1
+"sibilant"	"sib"	1
+"bilabial"	"bil"	2
+"labiodental"	"labdent"	2
+"linguolabial"	"linglab"	2
+"dental"	"dent"	2
+"unspecified dental or alveolar"	"unspdent"	2
+"alveolar"	"alv"	2
+"palatal-alveolar"	"pal_al"	2
+"retroflex"	"ret"	2
+"palatal"	"pal"	2
+"velar"	"vel"	2
+"uvular"	"uv"	2
+"pharyngeal"	"phar"	2
+"glottal"	"glot"	2
+"labialized"	"labzd"	3
+"palatalized"	"palzd"	3
+"velarized"	"velzd"	3
+"pharyngealized"	"pharzd"	3
+"nasalized"	"naszd"	3
+"nasal release"	"nasrel"	3
+"prestopped"	"pstop"	3
+"lateral release"	"latrel"	3
+"high"	"hi"	4
+"higher mid"	"himid"	4
+"mid"	"mid"	4
+"lower mid"	"lomid"	4
+"low"	"lo"	4
+"front"	"fr"	4
+"central"	"cen"	4
+"back"	"bk"	4
+"nonperipheral"	"nonperif"	4
+"rounded"	"rnd"	4
+"unrounded"	"unrnd"	4
+"lip-compressed"	"lipcomp"	4
+"r-colored"	"rcol"	4
+"backing"	"backing"	4
+"lowering"	"lowering"	4
+"rounding"	"rounding"	4
+"voiceless"	"vl"	5
+"voiced"	"vd"	5
+"aspirated"	"asp"	5
+"laryngealized"	"largzd"	5
+"long"	"long"	5
+"breathy"	"breathy"	5
+"overshort"	"ovrshort"	5
+"preaspirated"	"preasp"	5
