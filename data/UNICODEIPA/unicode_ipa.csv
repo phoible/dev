@@ -1,0 +1,176 @@
+Glyph,Illustration,Unicode Decimal,Segment Type,Notes
+L,L,76,consonant,archi-phoneme
+N,N,78,consonant,archi-phoneme
+R,R,82,consonant,archi-phoneme
+ˈ,ˈ,712,diacritic,(primary) stress mark
+ˌ,ˌ,716,diacritic,secondary stress
+˞,˞,734,diacritic,rhotacized 
+˥,˥,741,tone,extra high tone
+˦,˦,742,tone,high tone
+˧,˧,743,tone,mid tone
+˨,˨,744,tone,low tone
+˩,˩,745,tone,extra low tone
+↑,↑,8593,tone,UPWARDS ARROW
+↓,↓,8595,tone,DOWNWARDS ARROW
+ː,ː,720,diacritic,length mark
+ˑ,ˑ,721,diacritic,half-length
+a,a,97,vowel,
+æ,æ,230,vowel,
+ɐ,ɐ,592,vowel,
+ɑ,ɑ,593,vowel,
+ɒ,ɒ,594,vowel,
+b,b,98,consonant,
+ʙ,ʙ,665,consonant,
+ɓ,ɓ,595,consonant,
+c,c,99,consonant,
+ç,ç,231,consonant,
+ɕ,ɕ,597,consonant,
+d,d,100,consonant,
+ð,ð,240,consonant,
+ɖ,ɖ,598,consonant,
+ɗ,ɗ,599,consonant,
+ᶑ,ᶑ,7569,consonant,LATIN SMALL LETTER D WITH HOOK AND TAIL
+e,e,101,vowel,
+ə,ə,601,vowel,
+ɛ,ɛ,603,vowel,
+ɘ,ɘ,600,vowel,
+ɚ,ɚ,602,vowel,
+ɜ,ɜ,604,vowel,
+ɝ,ɝ,605,vowel,
+ɞ,ɞ,606,vowel,
+ɤ,ɤ,612,vowel,
+f,f,102,consonant,
+ɡ,ɡ,609,consonant,
+ɢ,ɢ,610,consonant,
+ɠ,ɠ,608,consonant,
+ʛ,ʛ,667,consonant,
+ɣ,ɣ,611,consonant,
+ˠ,ˠ,736,diacritic,velarized
+h,h,104,consonant,
+ʰ,ʰ,688,consonant,aspirated
+ħ,ħ,295,consonant,
+ʜ,ʜ,668,consonant,
+ɦ,ɦ,614,consonant,
+ʱ,ʱ,689,diacritic,breathy-voice-aspirated
+ɧ,ɧ,615,consonant,
+i,i,105,vowel,
+ɪ,ɪ,618,vowel,
+ɨ,ɨ,616,vowel,
+j,j,106,consonant,
+ʲ,ʲ,690,diacritic,palatalized
+ʝ,ʝ,669,consonant,
+ɟ,ɟ,607,consonant,
+ʄ,ʄ,644,consonant,
+k,k,107,consonant,
+l,l,108,consonant,
+ˡ,ˡ,737,diacritic,MODIFIER LETTER SMALL L
+ʟ,ʟ,671,consonant,
+ɫ,ɫ,619,consonant,
+ɬ,ɬ,620,consonant,
+ɭ,ɭ,621,consonant,
+ɮ,ɮ,622,consonant,
+ʎ,ʎ,654,consonant,
+m,m,109,consonant,
+ɱ,ɱ,625,consonant,
+n,n,110,consonant,
+ⁿ,ⁿ,8319,diacritic,SUPERSCRIPT LATIN SMALL LETTER N
+ɴ,ɴ,628,consonant,
+ɲ,ɲ,626,consonant,
+ɳ,ɳ,627,consonant,
+ŋ,ŋ,331,consonant,
+o,o,111,vowel,
+ø,ø,248,vowel,
+œ,œ,339,vowel,
+ɶ,ɶ,630,vowel,
+ɔ,ɔ,596,vowel,
+ɵ,ɵ,629,vowel,
+p,p,112,consonant,
+ɸ,ɸ,632,consonant,
+q,q,113,consonant,
+r,r,114,consonant,
+ʀ,ʀ,640,consonant,
+ɹ,ɹ,633,consonant,
+ʴ,ʴ,692,diacritic,rhotacized
+ɺ,ɺ,634,consonant,
+ɺ̢,ɺ̢,802,diacritic,COMBINING RETROFLEX HOOK BELOW
+ɻ,ɻ,635,consonant,
+ɽ,ɽ,637,consonant,
+ɾ,ɾ,638,consonant,
+ʁ,ʁ,641,consonant,
+s,s,115,consonant,
+ʂ,ʂ,642,consonant,
+ʃ,ʃ,643,consonant,
+t,t,116,consonant,
+ʈ,ʈ,648,consonant,
+u,u,117,vowel,
+ʉ,ʉ,649,vowel,
+ɥ,ɥ,613,consonant,
+ɯ,ɯ,623,vowel,
+ɰ,ɰ,624,consonant,
+ʊ,ʊ,650,vowel,
+v,v,118,consonant,
+ʋ,ʋ,651,consonant,
+ⱱ,ⱱ,11377,consonant,LATIN SMALL LETTER V WITH RIGHT HOOK
+ʌ,ʌ,652,vowel,
+w,w,119,consonant,
+ʷ,ʷ,695,diacritic,labialized
+ʍ,ʍ,653,consonant,
+x,x,120,consonant,
+̆,x̆,774,diacritic,extra-short
+̊,x̊,778,diacritic,voiceless (use if character has descender)
+̈,ẍ,776,diacritic,centralized
+̃,x̃,771,consonant,nasalized
+̚,x̚,794,diacritic,not audibly released
+̽,x̽,829,diacritic,mid-centralized
+̘,x̘,792,diacritic,advanced tongue root
+̙,x̙,793,diacritic,retracted tongue root
+̜,x̜,796,diacritic,less rounded
+̝,x̝,797,diacritic,raised
+̞,x̞,798,diacritic,lowered
+̟,x̟,799,diacritic,advanced
+̠,x̠,800,diacritic,retracted
+̩,x̩,809,diacritic,syllabic
+̪,x̪,810,diacritic,dental
+̬,x̬,812,diacritic,voiced
+̯,x̯,815,diacritic,non-syllabic
+̺,x̺,826,diacritic,apical
+̻,x̻,827,diacritic,laminal
+̼,x̼,828,diacritic,linguolabial
+̤,x̤,804,diacritic,breathy voiced
+̥,x̥,805,diacritic,voiceless
+̰,x̰,816,diacritic,creaky voiced
+̴,x̴,820,diacritic,velarized or pharyngealized
+̹,x̹,825,diacritic,more rounded
+͜,x͜x,860,diacritic,tie bar below
+͡,x͡x,865,diacritic,tie bar above 
+y,y,121,vowel,
+ʏ,ʏ,655,vowel,
+z,z,122,consonant,
+ʐ,ʐ,656,consonant,
+ʑ,ʑ,657,consonant,
+ʒ,ʒ,658,consonant,
+ʔ,ʔ,660,consonant,
+ʼ,ʼ,700,consonant,ejective
+ʕ,ʕ,661,consonant,
+ˤ,ˤ,740,consonant,pharyngealized
+ʡ,ʡ,673,consonant,
+ʢ,ʢ,674,consonant,
+ǀ,ǀ,448,consonant,
+ǁ,ǁ,449,consonant,
+ǂ,ǂ,450,consonant,
+ǃ,ǃ,451,consonant,
+ʘ,ʘ,664,consonant,
+β,β,946,consonant,
+θ,θ,952,consonant,
+χ,χ,967,consonant,
+ᶾ,ᶾ,7614,diacritic,Heath's Songoy grammar
+ᶣ,ᶣ,7587,diacritic,labio-palatal offglide
+͓,o͓,851,diacritic,fricated
+͈,x͈,840,diacritic,used in SPA to represent tense consonants
+͉,x͉,841,diacritic,used in SPA to represent lax consonants
+ᴅ,ᴅ,7429,consonant,used to represent a tap as distinguished from flap in UPSID
+̧,ç,807,diacritic,Unicode decomposition decomposes c-cedilla into a <c> and a cedilla
+͇,x͇,839,diacritic,non-sibilant marker on obstruents in UPSID
+ᴴ,xᴴ,7476,diacritic,equals epiglottal
+ȵ,ȵ,565,consonant,not in an inventory
+ˀ,xˀ,704,consonant,pre-glottalized -- need to fix
