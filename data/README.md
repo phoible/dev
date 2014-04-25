@@ -5,7 +5,7 @@ sometimes allophone) inventories from various sources.
 
 1. The SPA folder contains data from the Stanford Phonology Archive:
 
-- Crothers, J. H., Lorentz, J. P., Sherman, D. A., & Vihman, M. M. (1979). Handbook of phonological data from a sample of the world's languages: A report of the Stanford Phonology Archive. Palo Alto, CA: Department of Linguistics, Stanford University.
+Crothers, J. H., Lorentz, J. P., Sherman, D. A., & Vihman, M. M. (1979). Handbook of phonological data from a sample of the world's languages: A report of the Stanford Phonology Archive. Palo Alto, CA: Department of Linguistics, Stanford University.
 
 2. The UPSID folder contains data from the UCLA Phonological Segment Inventory Database:
 
