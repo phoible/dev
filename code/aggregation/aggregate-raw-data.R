@@ -219,7 +219,7 @@ rownames(reduced.data) <- NULL
  
 foo <- all.data[is.na(all.data$coronal),]
 
-"͡"
+#"͡"
 
 # address specific problems between with features
 # put it all in for one, except for the diacritics
