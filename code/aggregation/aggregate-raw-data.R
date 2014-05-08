@@ -6,7 +6,7 @@ library(plyr)  # provides function rbind.fill
 # the definition of datadir assumes that the GitHub "code" and "data" 
 # repos were cloned into the same parent directory, and this script is
 # running from its original location in "data/R/"
-datadir <- "../../data/phoible"
+datadir <- "../../data"
 scriptdir <- getwd()  # save for later
 
 # # # # # # # #
