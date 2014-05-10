@@ -136,7 +136,7 @@ upsid.segments <- read.delim(upsid.segments.path, na.strings="",
 upsid.language.codes <- read.delim(upsid.language.codes.path, 
 						na.strings="", stringsAsFactors=FALSE, quote="")
 upsid.data <- merge(upsid.language.codes, upsid.segments, by="upsidLangNum")
-upsid.data <- merge(upsid.data, upsid.ipa[1:2], by="upsidCCID")
+upsid.data <- merge(upsid.data, upsid.ipa[c("upsidCCID", "Phoneme")], by="upsidCCID")
 upsid.data$source <- "upsid"
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
@@ -171,7 +171,7 @@ all.data <- all.data[with(all.data, order(LanguageCode, source)),]
 all.data$Marginal <- "<" %in% all.data$Phoneme
 all.data$Phoneme <- gsub("<", "", gsub(">", "", all.data$Phoneme, fixed=TRUE), fixed=TRUE)
 # REPLACE C-CEDILLA BASE+DIACRITIC WITH SINGLE GRAPH
-all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
+all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
 all.data$Phoneme <- factor(all.data$Phoneme)
@@ -206,10 +206,16 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 			   output$segment <- paste(i, collapse="|")
 			   return(output)
 			   }))
-all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[,feat.columns]
-# TODO: still a couple dozen unique phonemes without features; many are tiebars and c-cedillas
+all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
+# TODO: still a couple dozen unique phonemes without features; many are t-cedillas
 
-# TRUMP ORDERING: more preferred data sources come earlier in the list
+#foo <- all.data[is.na(all.data$syllabic),]
+#sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
+#cat(paste(unique(foo$Phoneme), collapse="\n"))
+#sink()
+
+
+ TRUMP ORDERING: more preferred data sources come earlier in the list
 trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
 all.data$source <- factor(all.data$source, levels=trump.order, ordered=TRUE)
 split.data <- split(all.data, all.data$LanguageCode)
