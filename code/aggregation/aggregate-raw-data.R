@@ -174,7 +174,11 @@ all.data$Phoneme <- gsub("<", "", gsub(">", "", all.data$Phoneme, fixed=TRUE), f
 all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
+# FIX SOME NORMALIZATION ORDER ISSUES
+all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
+# FACTOR AFTER SUBSTITUTIONS
 all.data$Phoneme <- factor(all.data$Phoneme)
+
 
 # VALIDATE ISO CODES
 
@@ -207,8 +211,8 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 			   return(output)
 			   }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
-# TODO: still a couple dozen unique phonemes without features; many are t-cedillas
 
+# TODO: still a couple dozen unique phonemes without features; many are c-cedillas
 #foo <- all.data[is.na(all.data$syllabic),]
 #sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
 #cat(paste(unique(foo$Phoneme), collapse="\n"))
@@ -222,10 +226,7 @@ split.data <- split(all.data, all.data$LanguageCode)
 reduced.data <- lapply(split.data, remove.duplicate.langs, "source")
 reduced.data <- do.call(rbind, reduced.data)
 rownames(reduced.data) <- NULL
- 
-foo <- all.data[is.na(all.data$coronal),]
 
-#"͡"
 
 # address specific problems between with features
 # put it all in for one, except for the diacritics
