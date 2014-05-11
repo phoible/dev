@@ -174,10 +174,12 @@ all.data$Phoneme <- gsub("<", "", gsub(">", "", all.data$Phoneme, fixed=TRUE), f
 all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
+all.data$Phoneme <- gsub("͜", "", all.data$Phoneme, fixed=TRUE)
 # FIX SOME NORMALIZATION ORDER ISSUES
 all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
 # FACTOR AFTER SUBSTITUTIONS
 all.data$Phoneme <- factor(all.data$Phoneme)
+
 
 
 # VALIDATE ISO CODES
@@ -213,13 +215,13 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 
 # TODO: still a couple dozen unique phonemes without features; many are c-cedillas
-#foo <- all.data[is.na(all.data$syllabic),]
-#sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
-#cat(paste(unique(foo$Phoneme), collapse="\n"))
-#sink()
+foo <- all.data[is.na(all.data$syllabic),]
+sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
+cat(paste(unique(foo$Phoneme), collapse="\n"))
+sink()
 
 
- TRUMP ORDERING: more preferred data sources come earlier in the list
+# TRUMP ORDERING: more preferred data sources come earlier in the list
 trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
 all.data$source <- factor(all.data$source, levels=trump.order, ordered=TRUE)
 split.data <- split(all.data, all.data$LanguageCode)
