@@ -56879,8 +56879,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1565	PHOIBLE	mls	Masalit	1	56878	242	s̪	consonant	c-d	2
 1565	PHOIBLE	mls	Masalit	1	56879	51	d̠ʒ	consonant	c-d-c	3
 1565	PHOIBLE	mls	Masalit	1	56880	49	t̠ʃ	consonant	c-d-c	3
-1565	PHOIBLE	mls	Masalit	1	56881	2769	ǀ	consonant	c	1
-1565	PHOIBLE	mls	Masalit	1	56882	2770	ǃ	consonant	c	1
+1565	PHOIBLE	mls	Masalit	1	56881	2769	kǀ	consonant	c-c	2
+1565	PHOIBLE	mls	Masalit	1	56882	2770	kǃ	consonant	c-c	2
 1565	PHOIBLE	mls	Masalit	1	56883	583	z̪	consonant	c-d	2
 1565	PHOIBLE	mls	Masalit	1	56884	74	ɨ	vowel	v	1
 1565	PHOIBLE	mls	Masalit	1	56885	14	ŋ	consonant	c	1
