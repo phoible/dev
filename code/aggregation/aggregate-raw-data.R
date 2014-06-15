@@ -17,6 +17,7 @@ uw.path <- paste(datadir, "UW", "phoible_inventories.tsv", sep="/")
 aa.path <- paste(datadir, "AA", "AA_inventories.tsv", sep="/")
 spa.path <- paste(datadir, "SPA", "SPA_Phones.tsv", sep="/")
 spa.ipa.path <- paste(datadir, "SPA", "SPA_IPA_correspondences.tsv", sep="/")
+spa.iso.path <- paste(datadir, "SPA", "SPA_LangNamesCodes.tsv", sep="/")
 upsid.segments.path <- paste(datadir, "UPSID", "UPSID_Segments.tsv", sep="/")
 upsid.character.codes.path <- paste(datadir, "UPSID", "UPSID_CharCodes.tsv", sep="/")
 upsid.languages.path <- paste(datadir, "UPSID", "UPSID_Languages.tsv", sep="/")
@@ -113,6 +114,7 @@ aa.data$source <- "aa"
 # TODO: SPA data does not have ISO codes; is there a mapping to SPA language numbers?
 # TODO: the SPA "Notes" column just has numeric codes in it. where is the key?
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", stringsAsFactors=FALSE, quote="")
+spa.iso <- read.delim(spa.iso.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw <- read.delim(spa.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw$spaLangNum <- na.locf(spa.raw$spaLangNum)
 spa.split <- split(spa.raw, spa.raw$spaLangNum)
@@ -125,8 +127,9 @@ spa.data$spaAllophoneDescription <- gsub("[", "", gsub("]", "",
 spa.data$Allophones <- spa.ipa$Phoneme[match(spa.data$spaAllophoneDescription,
 									   spa.ipa$spaDescription)]
 spa.data <- collapseAllophones(spa.data, "LanguageName")
+spa.data <- merge(spa.data, spa.iso)
 spa.data$source <- "spa"
-rm(spa.raw, spa.split, spa.ipa)
+rm(spa.raw, spa.split, spa.ipa, spa.iso)
 
 # UPSID
 upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", 
