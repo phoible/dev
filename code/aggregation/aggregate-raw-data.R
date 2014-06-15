@@ -177,16 +177,18 @@ all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
 all.data$Phoneme <- gsub("͜", "", all.data$Phoneme, fixed=TRUE)
 # FIX SOME NORMALIZATION ORDER ISSUES
 all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
-all.data$Phoneme <- gsub("̰̃", "̰̃", all.data$Phoneme, fixed=TRUE)
+all.data$Phoneme <- gsub("ṵ̃", "̰̃", all.data$Phoneme, fixed=TRUE)
 #all.data$Phoneme <- gsub("ḭ̃", "ḭ̃", all.data$Phoneme, fixed=TRUE)
 #all.data$Phoneme <- gsub("ṵ̃", "ṵ̃", all.data$Phoneme, fixed=TRUE)
 
 
-# CTOR AFTER SUBSTITUTIONS
+#foo <- all.data[grepl("ĩ all.data$Phoneme, fixed=TRUE),]
+
+# FACTOR AFTER SUBSTITUTIONS
 all.data$Phoneme <- factor(all.data$Phoneme)
 
 
-foo TE ISO CODES
+# VALIDATE ISO CODES
 
 
 
