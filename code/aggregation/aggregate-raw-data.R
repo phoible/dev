@@ -175,14 +175,6 @@ all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
 all.data$Phoneme <- gsub("͜", "", all.data$Phoneme, fixed=TRUE)
-# FIX SOME NORMALIZATION ORDER ISSUES
-all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
-all.data$Phoneme <- gsub("ṵ̃", "̰̃", all.data$Phoneme, fixed=TRUE)
-#all.data$Phoneme <- gsub("ḭ̃", "ḭ̃", all.data$Phoneme, fixed=TRUE)
-#all.data$Phoneme <- gsub("ṵ̃", "ṵ̃", all.data$Phoneme, fixed=TRUE)
-
-
-#foo <- all.data[grepl("ĩ all.data$Phoneme, fixed=TRUE),]
 
 # FACTOR AFTER SUBSTITUTIONS
 all.data$Phoneme <- factor(all.data$Phoneme)
@@ -192,7 +184,7 @@ all.data$Phoneme <- factor(all.data$Phoneme)
 
 
 
-# LOAD THE FEATURE AND IMPLEMENT THE RULES
+# LOAD THE FEATURES AND IMPLEMENT THE RULES
 feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
 feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
 				  "consonantal", "sonorant", "continuant", 
@@ -220,12 +212,13 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 			   }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 
-# TODO: still a couple dozen unique phonemes without features; many are c-cedillas
-foo <- all.data[is.na(all.data$syllabic),]
-sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
-cat(paste(unique(foo$Phoneme), collapse="\n"))
-sink()
-
+# TEMPORARY CODE FOR DEBUGGING
+# still a few phonemes without features
+missing.feats <- all.data[is.na(all.data$syllabic),]
+#sink("~/Desktop/featurelessPhonemes.tsv")
+cat(paste(c("phonemes without feature vectors:",
+          unique(as.character(missing.feats$Phoneme))), collapse="\n"))
+#sink()
 
 # TRUMP ORDERING: more preferred data sources come earlier in the list
 trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
