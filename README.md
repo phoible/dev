@@ -14,7 +14,7 @@ Please see PHOIBLE Online:
 
 - http://phoible.org
 
-And site use of this data accordingly, e.g.
+And cite use of this data accordingly, e.g.
 
 - Moran, Steven, McCloy, Daniel & Wright, Richard (eds.) 2014. Phonetics Information Base Online. 
 
