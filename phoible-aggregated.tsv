@@ -81,7 +81,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 80	SPA	tun	Tunica	1	gulf	Tunica	United States	America	Extinct	32:40	91:0	25	18	0	7
 81	SPA	nez	Nez Perce	1	penu	Sahaptian	United States	America	200	46:15	-117:0	36	26	0	10
 82	SPA	nmu	Maidu	1	penu	Maiduan	United States	America	2	40:20	-120:45	24	18	0	6
-83	SPA	zoh	Zoque	2	mizo	Mixe-Zoque	Mexico	America	4,500	16:48	-94:45	32	26	0	6
+83	SPA	zoc	Zoque	2	mizo	Mixe-Zoque	Mexico	America	4,500	16:48	-94:45	32	26	0	6
 84	SPA	top	Totonac	1	toto	Totonacan	Mexico	America	80,000	20:25	-97:05	26	20	0	6
 85	SPA	chf	Chontal	1	maya	Mayan	Mexico	America	38,000	18:10	-92:35	37	25	0	12
 86	SPA	tzh	Tzeltal	1	maya	Mayan	Mexico	America	90,000	17:09	-92:17	30	25	0	5
@@ -1019,7 +1019,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 1018	PH	stw	Satawalese	1	anes	Oceanic	Micronesia	Pacific	460	07:15	147:0	42	29	0	13
 1019	PH	ulw	Sumo	1	misu	Misumalpan	Nicaragua	America	6700	NULL	NULL	28	22	0	6
 1020	PH	jup	Hup	1	maku	Nadahup	Brazil	America	1,210	00:40	-69:40	29	20	0	9
-1021	PH	zoh	San Miguel Chimalapa Zoque	1	mizo	Mixe-Zoque	Mexico	America	4,500	16:48	-94:45	26	20	0	6
+1021	PH	zoc	San Miguel Chimalapa Zoque	1	mizo	Mixe-Zoque	Mexico	America	4,500	16:48	-94:45	26	20	0	6
 1022	PH	ztp	Zapotec	1	otma	Zapotecan	Mexico	America	75,000	16:04	-96:48	30	23	0	7
 1023	PH	yuk	Yuki	1	yuki	Yukian	United States	America	No_known_speakers	39:50	-123:20	30	24	0	6
 1024	PH	yap	Yapese	1	anes	Yapese	Micronesia	Pacific	6,590	09:30	138:10	44	28	0	16

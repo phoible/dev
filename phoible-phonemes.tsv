@@ -2920,38 +2920,38 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 82	SPA	nmu	Maidu	1	2919	55	w	consonant	c	1
 82	SPA	nmu	Maidu	1	2920	74	ɨ	vowel	v	1
 82	SPA	nmu	Maidu	1	2921	3	ʔ	consonant	c	1
-83	SPA	zoh	Zoque	2	2922	47	ʃ	consonant	c	1
-83	SPA	zoh	Zoque	2	2923	207	o̞	vowel	v-d	2
-83	SPA	zoh	Zoque	2	2924	3	ʔ	consonant	c	1
-83	SPA	zoh	Zoque	2	2925	778	ɤ̞̃	vowel	v-d-c	3
-83	SPA	zoh	Zoque	2	2926	9	u	vowel	v	1
-83	SPA	zoh	Zoque	2	2927	262	w̃	consonant	c-c	2
-83	SPA	zoh	Zoque	2	2928	50	ts	consonant	c-c	2
-83	SPA	zoh	Zoque	2	2929	811	h̃	consonant	c-c	2
-83	SPA	zoh	Zoque	2	2930	49	t̠ʃ	consonant	c-d-c	3
-83	SPA	zoh	Zoque	2	2931	267	j̃	consonant	c-c	2
-83	SPA	zoh	Zoque	2	2932	12	a	vowel	v	1
-83	SPA	zoh	Zoque	2	2933	14	ŋ	consonant	c	1
-83	SPA	zoh	Zoque	2	2934	213	ɲ̟	consonant	c-d	2
-83	SPA	zoh	Zoque	2	2935	24	ɛ	vowel	v	1
-83	SPA	zoh	Zoque	2	2936	30	ɡ	consonant	c	1
-83	SPA	zoh	Zoque	2	2937	45	b	consonant	c	1
-83	SPA	zoh	Zoque	2	2938	54	d	consonant	c	1
-83	SPA	zoh	Zoque	2	2939	175	f	consonant	c	1
-83	SPA	zoh	Zoque	2	2940	25	i	vowel	v	1
-83	SPA	zoh	Zoque	2	2941	26	h	consonant	c	1
-83	SPA	zoh	Zoque	2	2942	29	k	consonant	c	1
-83	SPA	zoh	Zoque	2	2943	32	j	consonant	c	1
-83	SPA	zoh	Zoque	2	2944	33	m	consonant	c	1
-83	SPA	zoh	Zoque	2	2945	35	l	consonant	c	1
-83	SPA	zoh	Zoque	2	2946	39	n	consonant	c	1
-83	SPA	zoh	Zoque	2	2947	43	p	consonant	c	1
-83	SPA	zoh	Zoque	2	2948	46	s	consonant	c	1
-83	SPA	zoh	Zoque	2	2949	80	r	consonant	c	1
-83	SPA	zoh	Zoque	2	2950	642	c̟	consonant	c-d	2
-83	SPA	zoh	Zoque	2	2951	52	t	consonant	c	1
-83	SPA	zoh	Zoque	2	2952	55	w	consonant	c	1
-83	SPA	zoh	Zoque	2	2953	37	ɾ	consonant	c	1
+83	SPA	zoc	Zoque	2	2922	47	ʃ	consonant	c	1
+83	SPA	zoc	Zoque	2	2923	207	o̞	vowel	v-d	2
+83	SPA	zoc	Zoque	2	2924	3	ʔ	consonant	c	1
+83	SPA	zoc	Zoque	2	2925	778	ɤ̞̃	vowel	v-d-c	3
+83	SPA	zoc	Zoque	2	2926	9	u	vowel	v	1
+83	SPA	zoc	Zoque	2	2927	262	w̃	consonant	c-c	2
+83	SPA	zoc	Zoque	2	2928	50	ts	consonant	c-c	2
+83	SPA	zoc	Zoque	2	2929	811	h̃	consonant	c-c	2
+83	SPA	zoc	Zoque	2	2930	49	t̠ʃ	consonant	c-d-c	3
+83	SPA	zoc	Zoque	2	2931	267	j̃	consonant	c-c	2
+83	SPA	zoc	Zoque	2	2932	12	a	vowel	v	1
+83	SPA	zoc	Zoque	2	2933	14	ŋ	consonant	c	1
+83	SPA	zoc	Zoque	2	2934	213	ɲ̟	consonant	c-d	2
+83	SPA	zoc	Zoque	2	2935	24	ɛ	vowel	v	1
+83	SPA	zoc	Zoque	2	2936	30	ɡ	consonant	c	1
+83	SPA	zoc	Zoque	2	2937	45	b	consonant	c	1
+83	SPA	zoc	Zoque	2	2938	54	d	consonant	c	1
+83	SPA	zoc	Zoque	2	2939	175	f	consonant	c	1
+83	SPA	zoc	Zoque	2	2940	25	i	vowel	v	1
+83	SPA	zoc	Zoque	2	2941	26	h	consonant	c	1
+83	SPA	zoc	Zoque	2	2942	29	k	consonant	c	1
+83	SPA	zoc	Zoque	2	2943	32	j	consonant	c	1
+83	SPA	zoc	Zoque	2	2944	33	m	consonant	c	1
+83	SPA	zoc	Zoque	2	2945	35	l	consonant	c	1
+83	SPA	zoc	Zoque	2	2946	39	n	consonant	c	1
+83	SPA	zoc	Zoque	2	2947	43	p	consonant	c	1
+83	SPA	zoc	Zoque	2	2948	46	s	consonant	c	1
+83	SPA	zoc	Zoque	2	2949	80	r	consonant	c	1
+83	SPA	zoc	Zoque	2	2950	642	c̟	consonant	c-d	2
+83	SPA	zoc	Zoque	2	2951	52	t	consonant	c	1
+83	SPA	zoc	Zoque	2	2952	55	w	consonant	c	1
+83	SPA	zoc	Zoque	2	2953	37	ɾ	consonant	c	1
 84	SPA	top	Totonac	1	2954	47	ʃ	consonant	c	1
 84	SPA	top	Totonac	1	2955	235	pː	consonant	c-d	2
 84	SPA	top	Totonac	1	2956	277	tː	consonant	c-d	2
@@ -35380,32 +35380,32 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1020	UW	jup	Hup	1	35379	52	t	consonant	c	1
 1020	UW	jup	Hup	1	35380	55	w	consonant	c	1
 1020	UW	jup	Hup	1	35381	26	h	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35382	47	ʃ	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35383	3	ʔ	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35384	50	ts	consonant	c-c	2
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35385	49	t̠ʃ	consonant	c-d-c	3
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35386	30	ɡ	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35387	14	ŋ	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35388	226	ə	vowel	v	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35389	12	a	vowel	v	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35390	45	b	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35391	21	e	vowel	v	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35392	54	d	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35393	175	f	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35394	25	i	vowel	v	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35395	26	h	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35396	29	k	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35397	32	j	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35398	33	m	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35399	35	l	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35400	5	o	vowel	v	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35401	39	n	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35402	43	p	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35403	46	s	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35404	80	r	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35405	9	u	vowel	v	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35406	52	t	consonant	c	1
-1021	UW	zoh	San Miguel Chimalapa Zoque	1	35407	55	w	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35382	47	ʃ	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35383	3	ʔ	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35384	50	ts	consonant	c-c	2
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35385	49	t̠ʃ	consonant	c-d-c	3
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35386	30	ɡ	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35387	14	ŋ	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35388	226	ə	vowel	v	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35389	12	a	vowel	v	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35390	45	b	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35391	21	e	vowel	v	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35392	54	d	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35393	175	f	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35394	25	i	vowel	v	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35395	26	h	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35396	29	k	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35397	32	j	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35398	33	m	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35399	35	l	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35400	5	o	vowel	v	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35401	39	n	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35402	43	p	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35403	46	s	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35404	80	r	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35405	9	u	vowel	v	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35406	52	t	consonant	c	1
+1021	UW	zoc	San Miguel Chimalapa Zoque	1	35407	55	w	consonant	c	1
 1022	UW	ztp	Zapotec	1	35408	216	ʂ	consonant	c	1
 1022	UW	ztp	Zapotec	1	35409	33	m	consonant	c	1
 1022	UW	ztp	Zapotec	1	35410	221	ʐ	consonant	c	1
