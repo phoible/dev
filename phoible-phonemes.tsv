@@ -191,7 +191,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 4	SPA	kbd	Kabardian	1	190	47	ʃ	consonant	c	1
 4	SPA	kbd	Kabardian	1	191	177	n̻	consonant	c-d	2
 4	SPA	kbd	Kabardian	1	192	178	ɬʲ	consonant	c-d	2
-4	SPA	kbd	Kabardian	1	193	179	ç̟	consonant	c-d-d	3
+4	SPA	kbd	Kabardian	1	193	179	ç̟	consonant	c-d	2
 4	SPA	kbd	Kabardian	1	194	180	v	consonant	c	1
 4	SPA	kbd	Kabardian	1	195	181	ʕ	consonant	c	1
 4	SPA	kbd	Kabardian	1	196	182	ɮʲ	consonant	c-d	2
@@ -705,16 +705,16 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 16	SPA	cmn	Mandarin Chinese	2	704	430	a̟˞	vowel	v-d-d	3
 16	SPA	cmn	Mandarin Chinese	2	705	50	ts	consonant	c-c	2
 16	SPA	cmn	Mandarin Chinese	2	706	8	kʰ	consonant	c-c	2
-16	SPA	cmn	Mandarin Chinese	2	707	432	cç	consonant	c-c-d	3
+16	SPA	cmn	Mandarin Chinese	2	707	432	cç	consonant	c-c	2
 16	SPA	cmn	Mandarin Chinese	2	708	434	a˞	vowel	v-d	2
 16	SPA	cmn	Mandarin Chinese	2	709	436	u˞	vowel	v-d	2
 16	SPA	cmn	Mandarin Chinese	2	710	92	χ	consonant	c	1
 16	SPA	cmn	Mandarin Chinese	2	711	14	ŋ	consonant	c	1
-16	SPA	cmn	Mandarin Chinese	2	712	27	ç	consonant	c-d	2
+16	SPA	cmn	Mandarin Chinese	2	712	27	ç	consonant	c	1
 16	SPA	cmn	Mandarin Chinese	2	713	437	ɑ̃˞	vowel	v-c-d	3
 16	SPA	cmn	Mandarin Chinese	2	714	439	˧˨˥	tone	t-t-t	3
 16	SPA	cmn	Mandarin Chinese	2	715	441	˥	tone	t	1
-16	SPA	cmn	Mandarin Chinese	2	716	444	cçʰ	consonant	c-c-d-c	4
+16	SPA	cmn	Mandarin Chinese	2	716	444	cçʰ	consonant	c-c-c	3
 16	SPA	cmn	Mandarin Chinese	2	717	12	a	vowel	v	1
 16	SPA	cmn	Mandarin Chinese	2	718	20	pʰ	consonant	c-c	2
 16	SPA	cmn	Mandarin Chinese	2	719	445	ɥ	consonant	c	1
@@ -1143,7 +1143,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 27	SPA	tha	Thai	1	1142	470	˨˧	tone	t-t	2
 27	SPA	tha	Thai	1	1143	7	aː	vowel	v-d	2
 27	SPA	tha	Thai	1	1144	8	kʰ	consonant	c-c	2
-27	SPA	tha	Thai	1	1145	432	cç	consonant	c-c-d	3
+27	SPA	tha	Thai	1	1145	432	cç	consonant	c-c	2
 27	SPA	tha	Thai	1	1146	10	oː	vowel	v-d	2
 27	SPA	tha	Thai	1	1147	11	eː	vowel	v-d	2
 27	SPA	tha	Thai	1	1148	12	a	vowel	v	1
@@ -1153,7 +1153,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 27	SPA	tha	Thai	1	1152	416	ɘ	vowel	v	1
 27	SPA	tha	Thai	1	1153	24	ɛ	vowel	v	1
 27	SPA	tha	Thai	1	1154	524	˥̰	tone	t-d	2
-27	SPA	tha	Thai	1	1155	444	cçʰ	consonant	c-c-d-c	4
+27	SPA	tha	Thai	1	1155	444	cçʰ	consonant	c-c-c	3
 27	SPA	tha	Thai	1	1156	18	æː	vowel	v-d	2
 27	SPA	tha	Thai	1	1157	20	pʰ	consonant	c-c	2
 27	SPA	tha	Thai	1	1158	45	b	consonant	c	1
@@ -2363,7 +2363,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 67	SPA	hdn	Haida	1	2362	92	χ	consonant	c	1
 67	SPA	hdn	Haida	1	2363	365	ˀm	consonant	c-c	2
 67	SPA	hdn	Haida	1	2364	14	ŋ	consonant	c	1
-67	SPA	hdn	Haida	1	2365	27	ç	consonant	c-d	2
+67	SPA	hdn	Haida	1	2365	27	ç	consonant	c	1
 67	SPA	hdn	Haida	1	2366	208	c	consonant	c	1
 67	SPA	hdn	Haida	1	2367	134	qʷʼ	consonant	c-d-c	3
 67	SPA	hdn	Haida	1	2368	198	cʼ	consonant	c-c	2
@@ -2539,7 +2539,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 71	SPA	kwk	Kwakiutl	1	2538	660	dl	consonant	c-c	2
 71	SPA	kwk	Kwakiutl	1	2539	92	χ	consonant	c	1
 71	SPA	kwk	Kwakiutl	1	2540	46	s	consonant	c	1
-71	SPA	kwk	Kwakiutl	1	2541	27	ç	consonant	c-d	2
+71	SPA	kwk	Kwakiutl	1	2541	27	ç	consonant	c	1
 71	SPA	kwk	Kwakiutl	1	2542	123	tʼ	consonant	c-c	2
 71	SPA	kwk	Kwakiutl	1	2543	15	uː	vowel	v-d	2
 71	SPA	kwk	Kwakiutl	1	2544	134	qʷʼ	consonant	c-d-c	3
@@ -3691,7 +3691,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 102	SPA	pbb	Paez	2	3690	342	ɛ̃	vowel	v-c	2
 102	SPA	pbb	Paez	2	3691	921	ɸʲ	consonant	c-d	2
 102	SPA	pbb	Paez	2	3692	24	ɛ	vowel	v	1
-102	SPA	pbb	Paez	2	3693	922	çʲ	consonant	c-d-d	3
+102	SPA	pbb	Paez	2	3693	922	çʲ	consonant	c-d	2
 102	SPA	pbb	Paez	2	3694	923	ɺʲ	consonant	c-d	2
 102	SPA	pbb	Paez	2	3695	12	a	vowel	v	1
 102	SPA	pbb	Paez	2	3696	90	ɣ	consonant	c	1
@@ -4481,7 +4481,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 126	SPA	mrt	Margi	1	4480	9	u	vowel	v	1
 126	SPA	mrt	Margi	1	4481	12	a	vowel	v	1
 126	SPA	mrt	Margi	1	4482	14	ŋ	consonant	c	1
-126	SPA	mrt	Margi	1	4483	27	ç	consonant	c-d	2
+126	SPA	mrt	Margi	1	4483	27	ç	consonant	c	1
 126	SPA	mrt	Margi	1	4484	90	ɣ	consonant	c	1
 126	SPA	mrt	Margi	1	4485	391	ɓ	consonant	c	1
 126	SPA	mrt	Margi	1	4486	192	dz	consonant	c-c	2
@@ -5158,7 +5158,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 140	SPA	aka	Akan	2	5157	5	o	vowel	v	1
 140	SPA	aka	Akan	2	5158	243	ũ	vowel	v-c	2
 140	SPA	aka	Akan	2	5159	324	ʊ̃	vowel	v-c	2
-140	SPA	aka	Akan	2	5160	1095	cçʷʰ	consonant	c-c-d-d-c	5
+140	SPA	aka	Akan	2	5160	1095	cçʷʰ	consonant	c-c-d-c	4
 140	SPA	aka	Akan	2	5161	347	m̩	consonant	c-d	2
 140	SPA	aka	Akan	2	5162	32	j	consonant	c	1
 140	SPA	aka	Akan	2	5163	8	kʰ	consonant	c-c	2
@@ -5167,12 +5167,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 140	SPA	aka	Akan	2	5166	332	ɪ̃	vowel	v-c	2
 140	SPA	aka	Akan	2	5167	12	a	vowel	v	1
 140	SPA	aka	Akan	2	5168	433	ɟʝ	consonant	c-c	2
-140	SPA	aka	Akan	2	5169	27	ç	consonant	c-d	2
+140	SPA	aka	Akan	2	5169	27	ç	consonant	c	1
 140	SPA	aka	Akan	2	5170	250	ã	vowel	v-c	2
 140	SPA	aka	Akan	2	5171	76	ɔ	vowel	v	1
 140	SPA	aka	Akan	2	5172	441	˥	tone	t	1
-140	SPA	aka	Akan	2	5173	1097	çʷ	consonant	c-d-d	3
-140	SPA	aka	Akan	2	5174	444	cçʰ	consonant	c-c-d-c	4
+140	SPA	aka	Akan	2	5173	1097	çʷ	consonant	c-d	2
+140	SPA	aka	Akan	2	5174	444	cçʰ	consonant	c-c-c	3
 140	SPA	aka	Akan	2	5175	30	ɡ	consonant	c	1
 140	SPA	aka	Akan	2	5176	349	n̩	consonant	c-d	2
 140	SPA	aka	Akan	2	5177	20	pʰ	consonant	c-c	2
@@ -5869,7 +5869,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 156	SPA	gle	Irish Gaelic	1	5868	1158	ɑ̃ː	vowel	v-c-d	3
 156	SPA	gle	Irish Gaelic	1	5869	14	ŋ	consonant	c	1
 156	SPA	gle	Irish Gaelic	1	5870	1159	pʷˠʰ	consonant	c-d-d-c	4
-156	SPA	gle	Irish Gaelic	1	5871	27	ç	consonant	c-d	2
+156	SPA	gle	Irish Gaelic	1	5871	27	ç	consonant	c	1
 156	SPA	gle	Irish Gaelic	1	5872	264	n̪	consonant	c-d	2
 156	SPA	gle	Irish Gaelic	1	5873	203	e̞	vowel	v-d	2
 156	SPA	gle	Irish Gaelic	1	5874	257	t̪ʰ	consonant	c-d-c	3
@@ -6005,7 +6005,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 159	SPA	nob	Norwegian	1	6004	11	eː	vowel	v-d	2
 159	SPA	nob	Norwegian	1	6005	1207	l̪̩	consonant	c-d-d	3
 159	SPA	nob	Norwegian	1	6006	14	ŋ	consonant	c	1
-159	SPA	nob	Norwegian	1	6007	27	ç	consonant	c-d	2
+159	SPA	nob	Norwegian	1	6007	27	ç	consonant	c	1
 159	SPA	nob	Norwegian	1	6008	264	n̪	consonant	c-d	2
 159	SPA	nob	Norwegian	1	6009	15	uː	vowel	v-d	2
 159	SPA	nob	Norwegian	1	6010	257	t̪ʰ	consonant	c-d-c	3
@@ -6385,7 +6385,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 169	SPA	als	Albanian	1	6384	203	e̞	vowel	v-d	2
 169	SPA	als	Albanian	1	6385	51	d̠ʒ	consonant	c-d-c	3
 169	SPA	als	Albanian	1	6386	522	θ	consonant	c	1
-169	SPA	als	Albanian	1	6387	432	cç	consonant	c-c-d	3
+169	SPA	als	Albanian	1	6387	432	cç	consonant	c-c	2
 169	SPA	als	Albanian	1	6388	12	a	vowel	v	1
 169	SPA	als	Albanian	1	6389	433	ɟʝ	consonant	c-c	2
 169	SPA	als	Albanian	1	6390	213	ɲ̟	consonant	c-d	2
@@ -6789,7 +6789,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 177	SPA	ben	Bengali	1	6788	266	e̯	vowel	v-d	2
 177	SPA	ben	Bengali	1	6789	254	ɡ̤	consonant	c-d	2
 177	SPA	ben	Bengali	1	6790	14	ŋ	consonant	c	1
-177	SPA	ben	Bengali	1	6791	27	ç	consonant	c-d	2
+177	SPA	ben	Bengali	1	6791	27	ç	consonant	c	1
 177	SPA	ben	Bengali	1	6792	603	l̤	consonant	c-d	2
 177	SPA	ben	Bengali	1	6793	1346	n̤	consonant	c-d	2
 177	SPA	ben	Bengali	1	6794	229	ɖ	consonant	c	1
@@ -6837,9 +6837,9 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 178	SPA	sin	Sinhalese	1	6836	282	ɡː	consonant	c-d	2
 178	SPA	sin	Sinhalese	1	6837	203	e̞	vowel	v-d	2
 178	SPA	sin	Sinhalese	1	6838	389	ʋ	consonant	c	1
-178	SPA	sin	Sinhalese	1	6839	432	cç	consonant	c-c-d	3
+178	SPA	sin	Sinhalese	1	6839	432	cç	consonant	c-c	2
 178	SPA	sin	Sinhalese	1	6840	14	ŋ	consonant	c	1
-178	SPA	sin	Sinhalese	1	6841	1350	cçː	consonant	c-c-d-d	4
+178	SPA	sin	Sinhalese	1	6841	1350	cçː	consonant	c-c-d	3
 178	SPA	sin	Sinhalese	1	6842	18	æː	vowel	v-d	2
 178	SPA	sin	Sinhalese	1	6843	433	ɟʝ	consonant	c-c	2
 178	SPA	sin	Sinhalese	1	6844	255	ʈː	consonant	c-d	2
@@ -6983,10 +6983,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 182	SPA	kpv	Komi	1	6982	80	r	consonant	c	1
 182	SPA	kpv	Komi	1	6983	51	d̠ʒ	consonant	c-d-c	3
 182	SPA	kpv	Komi	1	6984	9	u	vowel	v	1
-182	SPA	kpv	Komi	1	6985	432	cç	consonant	c-c-d	3
+182	SPA	kpv	Komi	1	6985	432	cç	consonant	c-c	2
 182	SPA	kpv	Komi	1	6986	12	a	vowel	v	1
 182	SPA	kpv	Komi	1	6987	433	ɟʝ	consonant	c-c	2
-182	SPA	kpv	Komi	1	6988	27	ç	consonant	c-d	2
+182	SPA	kpv	Komi	1	6988	27	ç	consonant	c	1
 182	SPA	kpv	Komi	1	6989	203	e̞	vowel	v-d	2
 182	SPA	kpv	Komi	1	6990	226	ə	vowel	v	1
 182	SPA	kpv	Komi	1	6991	209	ɟ	consonant	c	1
@@ -7033,10 +7033,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 183	SPA	hun	Hungarian	1	7032	294	ɲ	consonant	c	1
 183	SPA	hun	Hungarian	1	7033	51	d̠ʒ	consonant	c-d-c	3
 183	SPA	hun	Hungarian	1	7034	49	t̠ʃ	consonant	c-d-c	3
-183	SPA	hun	Hungarian	1	7035	432	cç	consonant	c-c-d	3
+183	SPA	hun	Hungarian	1	7035	432	cç	consonant	c-c	2
 183	SPA	hun	Hungarian	1	7036	748	zː	consonant	c-d	2
 183	SPA	hun	Hungarian	1	7037	11	eː	vowel	v-d	2
-183	SPA	hun	Hungarian	1	7038	1350	cçː	consonant	c-c-d-d	4
+183	SPA	hun	Hungarian	1	7038	1350	cçː	consonant	c-c-d	3
 183	SPA	hun	Hungarian	1	7039	680	fː	consonant	c-d	2
 183	SPA	hun	Hungarian	1	7040	433	ɟʝ	consonant	c-c	2
 183	SPA	hun	Hungarian	1	7041	593	sː	consonant	c-d	2
@@ -7264,7 +7264,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 189	SPA	chv	Chuvash	1	7263	50	ts	consonant	c-c	2
 189	SPA	chv	Chuvash	1	7264	203	e̞	vowel	v-d	2
 189	SPA	chv	Chuvash	1	7265	36	lʲ	consonant	c-d	2
-189	SPA	chv	Chuvash	1	7266	27	ç	consonant	c-d	2
+189	SPA	chv	Chuvash	1	7266	27	ç	consonant	c	1
 189	SPA	chv	Chuvash	1	7267	157	ɑ	vowel	v	1
 189	SPA	chv	Chuvash	1	7268	464	ɔ̆	vowel	v-d	2
 189	SPA	chv	Chuvash	1	7269	288	mː	consonant	c-d	2
@@ -7538,7 +7538,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 197	SPA	jpn	Japanese	1	7537	71	ɔː	vowel	v-d	2
 197	SPA	jpn	Japanese	1	7538	7	aː	vowel	v-d	2
 197	SPA	jpn	Japanese	1	7539	51	d̠ʒ	consonant	c-d-c	3
-197	SPA	jpn	Japanese	1	7540	1401	çː	consonant	c-d-d	3
+197	SPA	jpn	Japanese	1	7540	1401	çː	consonant	c-d	2
 197	SPA	jpn	Japanese	1	7541	12	a	vowel	v	1
 197	SPA	jpn	Japanese	1	7542	14	ŋ	consonant	c	1
 197	SPA	jpn	Japanese	1	7543	593	sː	consonant	c-d	2
@@ -21695,7 +21695,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 653	C&H	mtb	agni sanvi	2	21694	12	a	vowel	v	1
 653	C&H	mtb	agni sanvi	2	21695	64	ʊ	vowel	v	1
 653	C&H	mtb	agni sanvi	2	21696	565	ə̃	vowel	v-c	2
-653	C&H	mtb	agni sanvi	2	21697	27	ç	consonant	c-d	2
+653	C&H	mtb	agni sanvi	2	21697	27	ç	consonant	c	1
 653	C&H	mtb	agni sanvi	2	21698	76	ɔ	vowel	v	1
 653	C&H	mtb	agni sanvi	2	21699	226	ə	vowel	v	1
 653	C&H	mtb	agni sanvi	2	21700	24	ɛ	vowel	v	1
@@ -25970,7 +25970,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 758	C&H	kuj	kuria	1	25969	41	nd	consonant	c-c	2
 758	C&H	kuj	kuria	1	25970	79	β	consonant	c	1
 758	C&H	kuj	kuria	1	25971	370	ŋɡ	consonant	c-c	2
-758	C&H	kuj	kuria	1	25972	27	ç	consonant	c-d	2
+758	C&H	kuj	kuria	1	25972	27	ç	consonant	c	1
 758	C&H	kuj	kuria	1	25973	76	ɔ	vowel	v	1
 758	C&H	kuj	kuria	1	25974	24	ɛ	vowel	v	1
 758	C&H	kuj	kuria	1	25975	12	a	vowel	v	1
@@ -28659,7 +28659,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 828	C&H	tuq	teda	1	28658	9	u	vowel	v	1
 828	C&H	tuq	teda	1	28659	30	ɡ	consonant	c	1
 828	C&H	tuq	teda	1	28660	14	ŋ	consonant	c	1
-828	C&H	tuq	teda	1	28661	27	ç	consonant	c-d	2
+828	C&H	tuq	teda	1	28661	27	ç	consonant	c	1
 828	C&H	tuq	teda	1	28662	76	ɔ	vowel	v	1
 828	C&H	tuq	teda	1	28663	226	ə	vowel	v	1
 828	C&H	tuq	teda	1	28664	24	ɛ	vowel	v	1
@@ -29778,7 +29778,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 855	UW	ccc	Chamicuro	2	29777	80	r	consonant	c	1
 855	UW	ccc	Chamicuro	2	29778	9	u	vowel	v	1
 855	UW	ccc	Chamicuro	2	29779	11	eː	vowel	v-d	2
-855	UW	ccc	Chamicuro	2	29780	27	ç	consonant	c-d	2
+855	UW	ccc	Chamicuro	2	29780	27	ç	consonant	c	1
 855	UW	ccc	Chamicuro	2	29781	15	uː	vowel	v-d	2
 855	UW	ccc	Chamicuro	2	29782	10	oː	vowel	v-d	2
 855	UW	ccc	Chamicuro	2	29783	12	a	vowel	v	1
@@ -29813,7 +29813,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 856	UW	che	Chechen	1	29812	677	qː	consonant	c-d	2
 856	UW	che	Chechen	1	29813	285	ʊː	vowel	v-d	2
 856	UW	che	Chechen	1	29814	593	sː	consonant	c-d	2
-856	UW	che	Chechen	1	29815	27	ç	consonant	c-d	2
+856	UW	che	Chechen	1	29815	27	ç	consonant	c	1
 856	UW	che	Chechen	1	29816	208	c	consonant	c	1
 856	UW	che	Chechen	1	29817	15	uː	vowel	v-d	2
 856	UW	che	Chechen	1	29818	257	t̪ʰ	consonant	c-d-c	3
@@ -33090,14 +33090,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 952	UW	yum	Yuma	1	33089	377	kʷ	consonant	c-d	2
 952	UW	yum	Yuma	1	33090	11	eː	vowel	v-d	2
 952	UW	yum	Yuma	1	33091	46	s	consonant	c	1
-952	UW	yum	Yuma	1	33092	27	ç	consonant	c-d	2
+952	UW	yum	Yuma	1	33092	27	ç	consonant	c	1
 952	UW	yum	Yuma	1	33093	33	m	consonant	c	1
 952	UW	yum	Yuma	1	33094	15	uː	vowel	v-d	2
 952	UW	yum	Yuma	1	33095	281	ɪː	vowel	v-d	2
 952	UW	yum	Yuma	1	33096	800	t̪ʲ	consonant	c-d-d	3
 952	UW	yum	Yuma	1	33097	178	ɬʲ	consonant	c-d	2
 952	UW	yum	Yuma	1	33098	1956	cʷ	consonant	c-d	2
-952	UW	yum	Yuma	1	33099	1097	çʷ	consonant	c-d-d	3
+952	UW	yum	Yuma	1	33099	1097	çʷ	consonant	c-d	2
 952	UW	yum	Yuma	1	33100	10	oː	vowel	v-d	2
 952	UW	yum	Yuma	1	33101	12	a	vowel	v	1
 952	UW	yum	Yuma	1	33102	269	t̪	consonant	c-d	2
@@ -34143,7 +34143,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 985	UW	prt	Pray	1	34142	11	eː	vowel	v-d	2
 985	UW	prt	Pray	1	34143	12	a	vowel	v	1
 985	UW	prt	Pray	1	34144	14	ŋ	consonant	c	1
-985	UW	prt	Pray	1	34145	27	ç	consonant	c-d	2
+985	UW	prt	Pray	1	34145	27	ç	consonant	c	1
 985	UW	prt	Pray	1	34146	15	uː	vowel	v-d	2
 985	UW	prt	Pray	1	34147	391	ɓ	consonant	c	1
 985	UW	prt	Pray	1	34148	76	ɔ	vowel	v	1
@@ -34528,7 +34528,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 997	UW	sas	Sasak	1	34527	49	t̠ʃ	consonant	c-d-c	3
 997	UW	sas	Sasak	1	34528	1510	uə	vowel	v-v	2
 997	UW	sas	Sasak	1	34529	14	ŋ	consonant	c	1
-997	UW	sas	Sasak	1	34530	27	ç	consonant	c-d	2
+997	UW	sas	Sasak	1	34530	27	ç	consonant	c	1
 997	UW	sas	Sasak	1	34531	226	ə	vowel	v	1
 997	UW	sas	Sasak	1	34532	30	ɡ	consonant	c	1
 997	UW	sas	Sasak	1	34533	45	b	consonant	c	1
@@ -34889,7 +34889,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1008	UW	sna	Shona	1	34888	583	z̪	consonant	c-d	2
 1008	UW	sna	Shona	1	34889	14	ŋ	consonant	c	1
 1008	UW	sna	Shona	1	34890	294	ɲ	consonant	c	1
-1008	UW	sna	Shona	1	34891	27	ç	consonant	c-d	2
+1008	UW	sna	Shona	1	34891	27	ç	consonant	c	1
 1008	UW	sna	Shona	1	34892	90	ɣ	consonant	c	1
 1008	UW	sna	Shona	1	34893	391	ɓ	consonant	c	1
 1008	UW	sna	Shona	1	34894	28	ɦ	consonant	c	1
@@ -35357,7 +35357,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1020	UW	jup	Hup	1	35356	383	w̰	consonant	c-d	2
 1020	UW	jup	Hup	1	35357	202	d̰	consonant	c-d	2
 1020	UW	jup	Hup	1	35358	30	ɡ	consonant	c	1
-1020	UW	jup	Hup	1	35359	27	ç	consonant	c-d	2
+1020	UW	jup	Hup	1	35359	27	ç	consonant	c	1
 1020	UW	jup	Hup	1	35360	1908	p̰	consonant	c-d	2
 1020	UW	jup	Hup	1	35361	196	ɡ̰	consonant	c-d	2
 1020	UW	jup	Hup	1	35362	76	ɔ	vowel	v	1
@@ -35445,7 +35445,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1023	UW	yuk	Yuki	1	35444	380	m̰	consonant	c-d	2
 1023	UW	yuk	Yuki	1	35445	9	u	vowel	v	1
 1023	UW	yuk	Yuki	1	35446	55	w	consonant	c	1
-1023	UW	yuk	Yuki	1	35447	27	ç	consonant	c-d	2
+1023	UW	yuk	Yuki	1	35447	27	ç	consonant	c	1
 1023	UW	yuk	Yuki	1	35448	208	c	consonant	c	1
 1023	UW	yuk	Yuki	1	35449	226	ə	vowel	v	1
 1023	UW	yuk	Yuki	1	35450	2069	c̰	consonant	c-d	2
@@ -37625,7 +37625,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1088	UW	lzz	Laz	1	37624	51	d̠ʒ	consonant	c-d-c	3
 1088	UW	lzz	Laz	1	37625	49	t̠ʃ	consonant	c-d-c	3
 1088	UW	lzz	Laz	1	37626	119	kʼ	consonant	c-c	2
-1088	UW	lzz	Laz	1	37627	27	ç	consonant	c-d	2
+1088	UW	lzz	Laz	1	37627	27	ç	consonant	c	1
 1088	UW	lzz	Laz	1	37628	157	ɑ	vowel	v	1
 1088	UW	lzz	Laz	1	37629	1045	t̪s̪	consonant	c-d-c-d	4
 1088	UW	lzz	Laz	1	37630	30	ɡ	consonant	c	1
@@ -37650,7 +37650,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1089	UW	jun	Juang	1	37649	232	ɳ	consonant	c	1
 1089	UW	jun	Juang	1	37650	71	ɔː	vowel	v-d	2
 1089	UW	jun	Juang	1	37651	9	u	vowel	v	1
-1089	UW	jun	Juang	1	37652	432	cç	consonant	c-c-d	3
+1089	UW	jun	Juang	1	37652	432	cç	consonant	c-c	2
 1089	UW	jun	Juang	1	37653	283	ɭ	consonant	c	1
 1089	UW	jun	Juang	1	37654	18	æː	vowel	v-d	2
 1089	UW	jun	Juang	1	37655	433	ɟʝ	consonant	c-c	2
@@ -38438,7 +38438,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1111	UW	frr	Frisian	1	38437	11	eː	vowel	v-d	2
 1111	UW	frr	Frisian	1	38438	12	a	vowel	v	1
 1111	UW	frr	Frisian	1	38439	14	ŋ	consonant	c	1
-1111	UW	frr	Frisian	1	38440	27	ç	consonant	c-d	2
+1111	UW	frr	Frisian	1	38440	27	ç	consonant	c	1
 1111	UW	frr	Frisian	1	38441	15	uː	vowel	v-d	2
 1111	UW	frr	Frisian	1	38442	611	œ	vowel	v	1
 1111	UW	frr	Frisian	1	38443	76	ɔ	vowel	v	1
@@ -38596,7 +38596,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1115	UW	hur	Chilliwak Halkomelem	1	38595	134	qʷʼ	consonant	c-d-c	3
 1115	UW	hur	Chilliwak Halkomelem	1	38596	226	ə	vowel	v	1
 1115	UW	hur	Chilliwak Halkomelem	1	38597	24	ɛ	vowel	v	1
-1115	UW	hur	Chilliwak Halkomelem	1	38598	922	çʲ	consonant	c-d-d	3
+1115	UW	hur	Chilliwak Halkomelem	1	38598	922	çʲ	consonant	c-d	2
 1115	UW	hur	Chilliwak Halkomelem	1	38599	130	xʷ	consonant	c-d	2
 1115	UW	hur	Chilliwak Halkomelem	1	38600	117	qʷʰ	consonant	c-d-c	3
 1115	UW	hur	Chilliwak Halkomelem	1	38601	12	a	vowel	v	1
@@ -39085,7 +39085,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1130	UW	ncg	Nishgha	1	39084	2298	ˀn̪̥	consonant	c-c-d-d	4
 1130	UW	ncg	Nishgha	1	39085	791	ˀw̥	consonant	c-c-d	3
 1130	UW	ncg	Nishgha	1	39086	92	χ	consonant	c	1
-1130	UW	ncg	Nishgha	1	39087	27	ç	consonant	c-d	2
+1130	UW	ncg	Nishgha	1	39087	27	ç	consonant	c	1
 1130	UW	ncg	Nishgha	1	39088	2299	ˀt̪ɬ	consonant	c-c-d-c	4
 1130	UW	ncg	Nishgha	1	39089	91	ɢ	consonant	c	1
 1130	UW	ncg	Nishgha	1	39090	311	ɡʲ	consonant	c-d	2
@@ -39121,7 +39121,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1131	UW	nds	Low German	1	39120	11	eː	vowel	v-d	2
 1131	UW	nds	Low German	1	39121	12	a	vowel	v	1
 1131	UW	nds	Low German	1	39122	14	ŋ	consonant	c	1
-1131	UW	nds	Low German	1	39123	27	ç	consonant	c-d	2
+1131	UW	nds	Low German	1	39123	27	ç	consonant	c	1
 1131	UW	nds	Low German	1	39124	15	uː	vowel	v-d	2
 1131	UW	nds	Low German	1	39125	157	ɑ	vowel	v	1
 1131	UW	nds	Low German	1	39126	226	ə	vowel	v	1
@@ -39913,8 +39913,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1153	UW	pib	Yine	2	39912	811	h̃	consonant	c-c	2
 1153	UW	pib	Yine	2	39913	17	ɯː	vowel	v-d	2
 1153	UW	pib	Yine	2	39914	11	eː	vowel	v-d	2
-1153	UW	pib	Yine	2	39915	27	ç	consonant	c-d	2
-1153	UW	pib	Yine	2	39916	2361	tç	consonant	c-c-d	3
+1153	UW	pib	Yine	2	39915	27	ç	consonant	c	1
+1153	UW	pib	Yine	2	39916	2361	tç	consonant	c-c	2
 1153	UW	pib	Yine	2	39917	10	oː	vowel	v-d	2
 1153	UW	pib	Yine	2	39918	12	a	vowel	v	1
 1153	UW	pib	Yine	2	39919	21	e	vowel	v	1
@@ -40181,7 +40181,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1162	UW	ahk	Akha	1	40180	250	ã	vowel	v-c	2
 1162	UW	ahk	Akha	1	40181	8	kʰ	consonant	c-c	2
 1162	UW	ahk	Akha	1	40182	51	d̠ʒ	consonant	c-d-c	3
-1162	UW	ahk	Akha	1	40183	2366	tçʰ	consonant	c-c-d-c	4
+1162	UW	ahk	Akha	1	40183	2366	tçʰ	consonant	c-c-c	3
 1162	UW	ahk	Akha	1	40184	12	a	vowel	v	1
 1162	UW	ahk	Akha	1	40185	14	ŋ	consonant	c	1
 1162	UW	ahk	Akha	1	40186	90	ɣ	consonant	c	1
@@ -40189,7 +40189,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1162	UW	ahk	Akha	1	40188	76	ɔ	vowel	v	1
 1162	UW	ahk	Akha	1	40189	59	ø	vowel	v	1
 1162	UW	ahk	Akha	1	40190	226	ə	vowel	v	1
-1162	UW	ahk	Akha	1	40191	2361	tç	consonant	c-c-d	3
+1162	UW	ahk	Akha	1	40191	2361	tç	consonant	c-c	2
 1162	UW	ahk	Akha	1	40192	24	ɛ	vowel	v	1
 1162	UW	ahk	Akha	1	40193	30	ɡ	consonant	c	1
 1162	UW	ahk	Akha	1	40194	20	pʰ	consonant	c-c	2
@@ -41040,7 +41040,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1188	UW	bem	Bemba	1	41039	55	w	consonant	c	1
 1189	UW	brc	Berbice Dutch	1	41040	47	ʃ	consonant	c	1
 1189	UW	brc	Berbice Dutch	1	41041	30	ɡ	consonant	c	1
-1189	UW	brc	Berbice Dutch	1	41042	27	ç	consonant	c-d	2
+1189	UW	brc	Berbice Dutch	1	41042	27	ç	consonant	c	1
 1189	UW	brc	Berbice Dutch	1	41043	24	ɛ	vowel	v	1
 1189	UW	brc	Berbice Dutch	1	41044	12	a	vowel	v	1
 1189	UW	brc	Berbice Dutch	1	41045	45	b	consonant	c	1
@@ -41327,7 +41327,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1198	UW	bkk	Brokskat	1	41326	2324	z̥	consonant	c-d	2
 1198	UW	bkk	Brokskat	1	41327	14	ŋ	consonant	c	1
 1198	UW	bkk	Brokskat	1	41328	208	c	consonant	c	1
-1198	UW	bkk	Brokskat	1	41329	27	ç	consonant	c-d	2
+1198	UW	bkk	Brokskat	1	41329	27	ç	consonant	c	1
 1198	UW	bkk	Brokskat	1	41330	15	uː	vowel	v-d	2
 1198	UW	bkk	Brokskat	1	41331	2397	ɣ̥	consonant	c-d	2
 1198	UW	bkk	Brokskat	1	41332	257	t̪ʰ	consonant	c-d-c	3
@@ -41615,7 +41615,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1205	UW	mrq	North Marquesan	1	41614	6	iː	vowel	v-d	2
 1205	UW	mrq	North Marquesan	1	41615	7	aː	vowel	v-d	2
 1205	UW	mrq	North Marquesan	1	41616	11	eː	vowel	v-d	2
-1205	UW	mrq	North Marquesan	1	41617	27	ç	consonant	c-d	2
+1205	UW	mrq	North Marquesan	1	41617	27	ç	consonant	c	1
 1205	UW	mrq	North Marquesan	1	41618	15	uː	vowel	v-d	2
 1205	UW	mrq	North Marquesan	1	41619	10	oː	vowel	v-d	2
 1205	UW	mrq	North Marquesan	1	41620	12	a	vowel	v	1
@@ -41635,7 +41635,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1205	UW	mrq	North Marquesan	1	41634	180	v	consonant	c	1
 1206	UW	oon	Öñge; Ong; Onge	1	41635	3	ʔ	consonant	c	1
 1206	UW	oon	Öñge; Ong; Onge	1	41636	80	r	consonant	c	1
-1206	UW	oon	Öñge; Ong; Onge	1	41637	432	cç	consonant	c-c-d	3
+1206	UW	oon	Öñge; Ong; Onge	1	41637	432	cç	consonant	c-c	2
 1206	UW	oon	Öñge; Ong; Onge	1	41638	12	a	vowel	v	1
 1206	UW	oon	Öñge; Ong; Onge	1	41639	433	ɟʝ	consonant	c-c	2
 1206	UW	oon	Öñge; Ong; Onge	1	41640	14	ŋ	consonant	c	1
@@ -42343,7 +42343,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1226	UW	kfk	Kinnauri; Kanauri	1	42342	8	kʰ	consonant	c-c	2
 1226	UW	kfk	Kinnauri; Kanauri	1	42343	252	d̪̤	consonant	c-d-d	3
 1226	UW	kfk	Kinnauri; Kanauri	1	42344	9	u	vowel	v	1
-1226	UW	kfk	Kinnauri; Kanauri	1	42345	432	cç	consonant	c-c-d	3
+1226	UW	kfk	Kinnauri; Kanauri	1	42345	432	cç	consonant	c-c	2
 1226	UW	kfk	Kinnauri; Kanauri	1	42346	10	oː	vowel	v-d	2
 1226	UW	kfk	Kinnauri; Kanauri	1	42347	283	ɭ	consonant	c	1
 1226	UW	kfk	Kinnauri; Kanauri	1	42348	18	æː	vowel	v-d	2
@@ -42357,7 +42357,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1226	UW	kfk	Kinnauri; Kanauri	1	42356	12	a	vowel	v	1
 1226	UW	kfk	Kinnauri; Kanauri	1	42357	229	ɖ	consonant	c	1
 1226	UW	kfk	Kinnauri; Kanauri	1	42358	226	ə	vowel	v	1
-1226	UW	kfk	Kinnauri; Kanauri	1	42359	444	cçʰ	consonant	c-c-d-c	4
+1226	UW	kfk	Kinnauri; Kanauri	1	42359	444	cçʰ	consonant	c-c-c	3
 1226	UW	kfk	Kinnauri; Kanauri	1	42360	30	ɡ	consonant	c	1
 1226	UW	kfk	Kinnauri; Kanauri	1	42361	20	pʰ	consonant	c-c	2
 1226	UW	kfk	Kinnauri; Kanauri	1	42362	45	b	consonant	c	1
@@ -42432,7 +42432,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1228	UW	aty	Aneityum; Anejom̃	1	42431	3	ʔ	consonant	c	1
 1228	UW	aty	Aneityum; Anejom̃	1	42432	613	mʷ	consonant	c-d	2
 1228	UW	aty	Aneityum; Anejom̃	1	42433	522	θ	consonant	c	1
-1228	UW	aty	Aneityum; Anejom̃	1	42434	432	cç	consonant	c-c-d	3
+1228	UW	aty	Aneityum; Anejom̃	1	42434	432	cç	consonant	c-c	2
 1228	UW	aty	Aneityum; Anejom̃	1	42435	14	ŋ	consonant	c	1
 1228	UW	aty	Aneityum; Anejom̃	1	42436	76	ɔ	vowel	v	1
 1228	UW	aty	Aneityum; Anejom̃	1	42437	24	ɛ	vowel	v	1
@@ -46324,7 +46324,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1323	G&M	cpn	Hill Guang	1	46323	377	kʷ	consonant	c-d	2
 1323	G&M	cpn	Hill Guang	1	46324	14	ŋ	consonant	c	1
 1323	G&M	cpn	Hill Guang	1	46325	442	˨	tone	t	1
-1323	G&M	cpn	Hill Guang	1	46326	27	ç	consonant	c-d	2
+1323	G&M	cpn	Hill Guang	1	46326	27	ç	consonant	c	1
 1323	G&M	cpn	Hill Guang	1	46327	257	t̪ʰ	consonant	c-d-c	3
 1323	G&M	cpn	Hill Guang	1	46328	311	ɡʲ	consonant	c-d	2
 1323	G&M	cpn	Hill Guang	1	46329	173	ɡʷ	consonant	c-d	2
@@ -46544,7 +46544,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1329	G&M	pbp	Pajade	1	46543	575	mp	consonant	c-c	2
 1329	G&M	pbp	Pajade	1	46544	578	ŋk	consonant	c-c	2
 1329	G&M	pbp	Pajade	1	46545	14	ŋ	consonant	c	1
-1329	G&M	pbp	Pajade	1	46546	27	ç	consonant	c-d	2
+1329	G&M	pbp	Pajade	1	46546	27	ç	consonant	c	1
 1329	G&M	pbp	Pajade	1	46547	226	ə	vowel	v	1
 1329	G&M	pbp	Pajade	1	46548	80	r	consonant	c	1
 1329	G&M	pbp	Pajade	1	46549	54	d	consonant	c	1
@@ -47586,7 +47586,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1353	G&M	gwn	Gwandara (Cancara)	5	47585	30	ɡ	consonant	c	1
 1353	G&M	gwn	Gwandara (Cancara)	5	47586	14	ŋ	consonant	c	1
 1353	G&M	gwn	Gwandara (Cancara)	5	47587	442	˨	tone	t	1
-1353	G&M	gwn	Gwandara (Cancara)	5	47588	27	ç	consonant	c-d	2
+1353	G&M	gwn	Gwandara (Cancara)	5	47588	27	ç	consonant	c	1
 1353	G&M	gwn	Gwandara (Cancara)	5	47589	311	ɡʲ	consonant	c-d	2
 1353	G&M	gwn	Gwandara (Cancara)	5	47590	173	ɡʷ	consonant	c-d	2
 1353	G&M	gwn	Gwandara (Cancara)	5	47591	939	˦˧	tone	t-t	2
@@ -47805,7 +47805,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1357	G&M	gwn	Gwandara (Nimbia)	6	47804	2470	ɡᶣ	consonant	c-d	2
 1357	G&M	gwn	Gwandara (Nimbia)	6	47805	565	ə̃	vowel	v-c	2
 1357	G&M	gwn	Gwandara (Nimbia)	6	47806	2560	rᶣ	consonant	c-d	2
-1357	G&M	gwn	Gwandara (Nimbia)	6	47807	27	ç	consonant	c-d	2
+1357	G&M	gwn	Gwandara (Nimbia)	6	47807	27	ç	consonant	c	1
 1357	G&M	gwn	Gwandara (Nimbia)	6	47808	90	ɣ	consonant	c	1
 1357	G&M	gwn	Gwandara (Nimbia)	6	47809	442	˨	tone	t	1
 1357	G&M	gwn	Gwandara (Nimbia)	6	47810	311	ɡʲ	consonant	c-d	2
@@ -47902,7 +47902,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1359	G&M	shk	Shilluk	1	47901	157	ɑ	vowel	v	1
 1359	G&M	shk	Shilluk	1	47902	1272	p̪	consonant	c-d	2
 1359	G&M	shk	Shilluk	1	47903	76	ɔ	vowel	v	1
-1359	G&M	shk	Shilluk	1	47904	2361	tç	consonant	c-c-d	3
+1359	G&M	shk	Shilluk	1	47904	2361	tç	consonant	c-c	2
 1359	G&M	shk	Shilluk	1	47905	24	ɛ	vowel	v	1
 1359	G&M	shk	Shilluk	1	47906	10	oː	vowel	v-d	2
 1359	G&M	shk	Shilluk	1	47907	30	ɡ	consonant	c	1
@@ -49088,7 +49088,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1383	G&M	xuu	!Xun	1	49087	1121	kǀ	consonant	c-c	2
 1383	G&M	xuu	!Xun	1	49088	1682	ŋǃ	consonant	c-c	2
 1383	G&M	xuu	!Xun	1	49089	1629	ãˤ	vowel	v-c-c	3
-1383	G&M	xuu	!Xun	1	49090	27	ç	consonant	c-d	2
+1383	G&M	xuu	!Xun	1	49090	27	ç	consonant	c	1
 1383	G&M	xuu	!Xun	1	49091	2582	dx	consonant	c-c	2
 1383	G&M	xuu	!Xun	1	49092	2651	ŋǃǃʰ	consonant	c-c-c-c	4
 1383	G&M	xuu	!Xun	1	49093	54	d	consonant	c	1
@@ -49342,7 +49342,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1387	G&M	sgc	Kipsigis	1	49341	8	kʰ	consonant	c-c	2
 1387	G&M	sgc	Kipsigis	1	49342	49	t̠ʃ	consonant	c-d-c	3
 1387	G&M	sgc	Kipsigis	1	49343	11	eː	vowel	v-d	2
-1387	G&M	sgc	Kipsigis	1	49344	27	ç	consonant	c-d	2
+1387	G&M	sgc	Kipsigis	1	49344	27	ç	consonant	c	1
 1387	G&M	sgc	Kipsigis	1	49345	14	ŋ	consonant	c	1
 1387	G&M	sgc	Kipsigis	1	49346	285	ʊː	vowel	v-d	2
 1387	G&M	sgc	Kipsigis	1	49347	15	uː	vowel	v-d	2
@@ -49778,8 +49778,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1397	G&M	har	Harari	1	49777	12	a	vowel	v	1
 1397	G&M	har	Harari	1	49778	433	ɟʝ	consonant	c-c	2
 1397	G&M	har	Harari	1	49779	90	ɣ	consonant	c	1
-1397	G&M	har	Harari	1	49780	2698	cçʼ	consonant	c-c-d-c	4
-1397	G&M	har	Harari	1	49781	432	cç	consonant	c-c-d	3
+1397	G&M	har	Harari	1	49780	2698	cçʼ	consonant	c-c-c	3
+1397	G&M	har	Harari	1	49781	432	cç	consonant	c-c	2
 1397	G&M	har	Harari	1	49782	10	oː	vowel	v-d	2
 1397	G&M	har	Harari	1	49783	30	ɡ	consonant	c	1
 1397	G&M	har	Harari	1	49784	123	tʼ	consonant	c-c	2
@@ -49860,7 +49860,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1399	G&M	nzi	Nzema	1	49859	324	ʊ̃	vowel	v-c	2
 1399	G&M	nzi	Nzema	1	49860	294	ɲ	consonant	c	1
 1399	G&M	nzi	Nzema	1	49861	269	t̪	consonant	c-d	2
-1399	G&M	nzi	Nzema	1	49862	432	cç	consonant	c-c-d	3
+1399	G&M	nzi	Nzema	1	49862	432	cç	consonant	c-c	2
 1399	G&M	nzi	Nzema	1	49863	332	ɪ̃	vowel	v-c	2
 1399	G&M	nzi	Nzema	1	49864	30	ɡ	consonant	c	1
 1399	G&M	nzi	Nzema	1	49865	433	ɟʝ	consonant	c-c	2
@@ -49869,7 +49869,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1399	G&M	nzi	Nzema	1	49868	1417	ɲʷ	consonant	c-d	2
 1399	G&M	nzi	Nzema	1	49869	76	ɔ	vowel	v	1
 1399	G&M	nzi	Nzema	1	49870	173	ɡʷ	consonant	c-d	2
-1399	G&M	nzi	Nzema	1	49871	2699	cçʷ	consonant	c-c-d-d	4
+1399	G&M	nzi	Nzema	1	49871	2699	cçʷ	consonant	c-c-d	3
 1399	G&M	nzi	Nzema	1	49872	24	ɛ	vowel	v	1
 1399	G&M	nzi	Nzema	1	49873	12	a	vowel	v	1
 1399	G&M	nzi	Nzema	1	49874	250	ã	vowel	v-c	2
@@ -49900,7 +49900,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1400	G&M	aha	Ahanta	1	49899	32	j	consonant	c	1
 1400	G&M	aha	Ahanta	1	49900	294	ɲ	consonant	c	1
 1400	G&M	aha	Ahanta	1	49901	269	t̪	consonant	c-d	2
-1400	G&M	aha	Ahanta	1	49902	432	cç	consonant	c-c-d	3
+1400	G&M	aha	Ahanta	1	49902	432	cç	consonant	c-c	2
 1400	G&M	aha	Ahanta	1	49903	332	ɪ̃	vowel	v-c	2
 1400	G&M	aha	Ahanta	1	49904	30	ɡ	consonant	c	1
 1400	G&M	aha	Ahanta	1	49905	433	ɟʝ	consonant	c-c	2
@@ -49909,7 +49909,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1400	G&M	aha	Ahanta	1	49908	1417	ɲʷ	consonant	c-d	2
 1400	G&M	aha	Ahanta	1	49909	76	ɔ	vowel	v	1
 1400	G&M	aha	Ahanta	1	49910	173	ɡʷ	consonant	c-d	2
-1400	G&M	aha	Ahanta	1	49911	2699	cçʷ	consonant	c-c-d-d	4
+1400	G&M	aha	Ahanta	1	49911	2699	cçʷ	consonant	c-c-d	3
 1400	G&M	aha	Ahanta	1	49912	24	ɛ	vowel	v	1
 1400	G&M	aha	Ahanta	1	49913	12	a	vowel	v	1
 1400	G&M	aha	Ahanta	1	49914	250	ã	vowel	v-c	2
@@ -51790,7 +51790,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1441	G&M	lto	Lutsootso	1	51789	9	u	vowel	v	1
 1441	G&M	lto	Lutsootso	1	51790	11	eː	vowel	v-d	2
 1441	G&M	lto	Lutsootso	1	51791	14	ŋ	consonant	c	1
-1441	G&M	lto	Lutsootso	1	51792	27	ç	consonant	c-d	2
+1441	G&M	lto	Lutsootso	1	51792	27	ç	consonant	c	1
 1441	G&M	lto	Lutsootso	1	51793	15	uː	vowel	v-d	2
 1441	G&M	lto	Lutsootso	1	51794	80	r	consonant	c	1
 1441	G&M	lto	Lutsootso	1	51795	10	oː	vowel	v-d	2
@@ -53088,7 +53088,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1472	G&M	mym	Me'en	1	53087	71	ɔː	vowel	v-d	2
 1472	G&M	mym	Me'en	1	53088	7	aː	vowel	v-d	2
 1472	G&M	mym	Me'en	1	53089	80	r	consonant	c	1
-1472	G&M	mym	Me'en	1	53090	432	cç	consonant	c-c-d	3
+1472	G&M	mym	Me'en	1	53090	432	cç	consonant	c-c	2
 1472	G&M	mym	Me'en	1	53091	11	eː	vowel	v-d	2
 1472	G&M	mym	Me'en	1	53092	119	kʼ	consonant	c-c	2
 1472	G&M	mym	Me'en	1	53093	12	a	vowel	v	1
@@ -53096,7 +53096,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1472	G&M	mym	Me'en	1	53095	14	ŋ	consonant	c	1
 1472	G&M	mym	Me'en	1	53096	15	uː	vowel	v-d	2
 1472	G&M	mym	Me'en	1	53097	391	ɓ	consonant	c	1
-1472	G&M	mym	Me'en	1	53098	2698	cçʼ	consonant	c-c-d-c	4
+1472	G&M	mym	Me'en	1	53098	2698	cçʼ	consonant	c-c-c	3
 1472	G&M	mym	Me'en	1	53099	76	ɔ	vowel	v	1
 1472	G&M	mym	Me'en	1	53100	393	ɗ	consonant	c	1
 1472	G&M	mym	Me'en	1	53101	24	ɛ	vowel	v	1
@@ -53209,7 +53209,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1475	G&M	guk	Gumuz	1	53208	7	aː	vowel	v-d	2
 1475	G&M	guk	Gumuz	1	53209	294	ɲ	consonant	c	1
 1475	G&M	guk	Gumuz	1	53210	9	u	vowel	v	1
-1475	G&M	guk	Gumuz	1	53211	432	cç	consonant	c-c-d	3
+1475	G&M	guk	Gumuz	1	53211	432	cç	consonant	c-c	2
 1475	G&M	guk	Gumuz	1	53212	11	eː	vowel	v-d	2
 1475	G&M	guk	Gumuz	1	53213	119	kʼ	consonant	c-c	2
 1475	G&M	guk	Gumuz	1	53214	12	a	vowel	v	1
@@ -53217,7 +53217,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1475	G&M	guk	Gumuz	1	53216	14	ŋ	consonant	c	1
 1475	G&M	guk	Gumuz	1	53217	15	uː	vowel	v-d	2
 1475	G&M	guk	Gumuz	1	53218	391	ɓ	consonant	c	1
-1475	G&M	guk	Gumuz	1	53219	2698	cçʼ	consonant	c-c-d-c	4
+1475	G&M	guk	Gumuz	1	53219	2698	cçʼ	consonant	c-c-c	3
 1475	G&M	guk	Gumuz	1	53220	10	oː	vowel	v-d	2
 1475	G&M	guk	Gumuz	1	53221	30	ɡ	consonant	c	1
 1475	G&M	guk	Gumuz	1	53222	1117	ɠ	consonant	c	1
@@ -53335,10 +53335,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1478	G&M	bcq	Bench	2	53334	693	ʈʂʼ	consonant	c-c-c	3
 1478	G&M	bcq	Bench	2	53335	133	tsʼ	consonant	c-c-c	3
 1478	G&M	bcq	Bench	2	53336	50	ts	consonant	c-c	2
-1478	G&M	bcq	Bench	2	53337	432	cç	consonant	c-c-d	3
+1478	G&M	bcq	Bench	2	53337	432	cç	consonant	c-c	2
 1478	G&M	bcq	Bench	2	53338	119	kʼ	consonant	c-c	2
 1478	G&M	bcq	Bench	2	53339	12	a	vowel	v	1
-1478	G&M	bcq	Bench	2	53340	2698	cçʼ	consonant	c-c-d-c	4
+1478	G&M	bcq	Bench	2	53340	2698	cçʼ	consonant	c-c-c	3
 1478	G&M	bcq	Bench	2	53341	441	˥	tone	t	1
 1478	G&M	bcq	Bench	2	53342	470	˨˧	tone	t-t	2
 1478	G&M	bcq	Bench	2	53343	30	ɡ	consonant	c	1
@@ -55179,7 +55179,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1526	G&M	abi	Abidji	1	55178	243	ũ	vowel	v-c	2
 1526	G&M	abi	Abidji	1	55179	324	ʊ̃	vowel	v-c	2
 1526	G&M	abi	Abidji	1	55180	294	ɲ	consonant	c	1
-1526	G&M	abi	Abidji	1	55181	432	cç	consonant	c-c-d	3
+1526	G&M	abi	Abidji	1	55181	432	cç	consonant	c-c	2
 1526	G&M	abi	Abidji	1	55182	332	ɪ̃	vowel	v-c	2
 1526	G&M	abi	Abidji	1	55183	30	ɡ	consonant	c	1
 1526	G&M	abi	Abidji	1	55184	433	ɟʝ	consonant	c-c	2
@@ -55999,7 +55999,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1543	G&M	glw	Glavda	1	55998	9	u	vowel	v	1
 1543	G&M	glw	Glavda	1	55999	12	a	vowel	v	1
 1543	G&M	glw	Glavda	1	56000	14	ŋ	consonant	c	1
-1543	G&M	glw	Glavda	1	56001	27	ç	consonant	c-d	2
+1543	G&M	glw	Glavda	1	56001	27	ç	consonant	c	1
 1543	G&M	glw	Glavda	1	56002	90	ɣ	consonant	c	1
 1543	G&M	glw	Glavda	1	56003	15	uː	vowel	v-d	2
 1543	G&M	glw	Glavda	1	56004	391	ɓ	consonant	c	1
@@ -62144,7 +62144,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1701	RA	mrr	Abujmaria	1	62143	7	aː	vowel	v-d	2
 1701	RA	mrr	Abujmaria	1	62144	80	r	consonant	c	1
 1701	RA	mrr	Abujmaria	1	62145	269	t̪	consonant	c-d	2
-1701	RA	mrr	Abujmaria	1	62146	432	cç	consonant	c-c-d	3
+1701	RA	mrr	Abujmaria	1	62146	432	cç	consonant	c-c	2
 1701	RA	mrr	Abujmaria	1	62147	2047	eˑ	vowel	v-d	2
 1701	RA	mrr	Abujmaria	1	62148	11	eː	vowel	v-d	2
 1701	RA	mrr	Abujmaria	1	62149	30	ɡ	consonant	c	1
@@ -62218,11 +62218,11 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1703	RA	njm	Angami	1	62217	8	kʰ	consonant	c-c	2
 1703	RA	njm	Angami	1	62218	230	pf	consonant	c-c	2
 1703	RA	njm	Angami	1	62219	2518	r̤	consonant	c-d	2
-1703	RA	njm	Angami	1	62220	432	cç	consonant	c-c-d	3
+1703	RA	njm	Angami	1	62220	432	cç	consonant	c-c	2
 1703	RA	njm	Angami	1	62221	30	ɡ	consonant	c	1
 1703	RA	njm	Angami	1	62222	433	ɟʝ	consonant	c-c	2
 1703	RA	njm	Angami	1	62223	14	ŋ	consonant	c	1
-1703	RA	njm	Angami	1	62224	27	ç	consonant	c-d	2
+1703	RA	njm	Angami	1	62224	27	ç	consonant	c	1
 1703	RA	njm	Angami	1	62225	603	l̤	consonant	c-d	2
 1703	RA	njm	Angami	1	62226	531	bv	consonant	c-c	2
 1703	RA	njm	Angami	1	62227	192	dz	consonant	c-c	2
@@ -62256,11 +62256,11 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1704	RA	njo	Ao-Naga	1	62255	5	o	vowel	v	1
 1704	RA	njo	Ao-Naga	1	62256	50	ts	consonant	c-c	2
 1704	RA	njo	Ao-Naga	1	62257	8	kʰ	consonant	c-c	2
-1704	RA	njo	Ao-Naga	1	62258	432	cç	consonant	c-c-d	3
+1704	RA	njo	Ao-Naga	1	62258	432	cç	consonant	c-c	2
 1704	RA	njo	Ao-Naga	1	62259	30	ɡ	consonant	c	1
 1704	RA	njo	Ao-Naga	1	62260	433	ɟʝ	consonant	c-c	2
 1704	RA	njo	Ao-Naga	1	62261	14	ŋ	consonant	c	1
-1704	RA	njo	Ao-Naga	1	62262	27	ç	consonant	c-d	2
+1704	RA	njo	Ao-Naga	1	62262	27	ç	consonant	c	1
 1704	RA	njo	Ao-Naga	1	62263	603	l̤	consonant	c-d	2
 1704	RA	njo	Ao-Naga	1	62264	76	ɔ	vowel	v	1
 1704	RA	njo	Ao-Naga	1	62265	226	ə	vowel	v	1
@@ -62292,7 +62292,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1705	RA	apt	Apatani	1	62291	79	β	consonant	c	1
 1705	RA	apt	Apatani	1	62292	300	mʲ	consonant	c-d	2
 1705	RA	apt	Apatani	1	62293	36	lʲ	consonant	c-d	2
-1705	RA	apt	Apatani	1	62294	432	cç	consonant	c-c-d	3
+1705	RA	apt	Apatani	1	62294	432	cç	consonant	c-c	2
 1705	RA	apt	Apatani	1	62295	30	ɡ	consonant	c	1
 1705	RA	apt	Apatani	1	62296	433	ɟʝ	consonant	c-c	2
 1705	RA	apt	Apatani	1	62297	14	ŋ	consonant	c	1
@@ -62369,7 +62369,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1707	RA	awa	Awadhi	1	62368	8	kʰ	consonant	c-c	2
 1707	RA	awa	Awadhi	1	62369	252	d̪̤	consonant	c-d-d	3
 1707	RA	awa	Awadhi	1	62370	269	t̪	consonant	c-d	2
-1707	RA	awa	Awadhi	1	62371	432	cç	consonant	c-c-d	3
+1707	RA	awa	Awadhi	1	62371	432	cç	consonant	c-c	2
 1707	RA	awa	Awadhi	1	62372	1929	ɡʰ	consonant	c-c	2
 1707	RA	awa	Awadhi	1	62373	2847	ɟ̤ʝ	consonant	c-d-c	3
 1707	RA	awa	Awadhi	1	62374	433	ɟʝ	consonant	c-c	2
@@ -62381,7 +62381,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1707	RA	awa	Awadhi	1	62380	229	ɖ	consonant	c	1
 1707	RA	awa	Awadhi	1	62381	24	ɛ	vowel	v	1
 1707	RA	awa	Awadhi	1	62382	80	r	consonant	c	1
-1707	RA	awa	Awadhi	1	62383	444	cçʰ	consonant	c-c-d-c	4
+1707	RA	awa	Awadhi	1	62383	444	cçʰ	consonant	c-c-c	3
 1707	RA	awa	Awadhi	1	62384	30	ɡ	consonant	c	1
 1707	RA	awa	Awadhi	1	62385	20	pʰ	consonant	c-c	2
 1707	RA	awa	Awadhi	1	62386	45	b	consonant	c	1
@@ -62454,14 +62454,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1709	RA	bft	Balti	1	62453	7	aː	vowel	v-d	2
 1709	RA	bft	Balti	1	62454	8	kʰ	consonant	c-c	2
 1709	RA	bft	Balti	1	62455	269	t̪	consonant	c-d	2
-1709	RA	bft	Balti	1	62456	432	cç	consonant	c-c-d	3
-1709	RA	bft	Balti	1	62457	444	cçʰ	consonant	c-c-d-c	4
+1709	RA	bft	Balti	1	62456	432	cç	consonant	c-c	2
+1709	RA	bft	Balti	1	62457	444	cçʰ	consonant	c-c-c	3
 1709	RA	bft	Balti	1	62458	2047	eˑ	vowel	v-d	2
 1709	RA	bft	Balti	1	62459	11	eː	vowel	v-d	2
 1709	RA	bft	Balti	1	62460	30	ɡ	consonant	c	1
 1709	RA	bft	Balti	1	62461	433	ɟʝ	consonant	c-c	2
 1709	RA	bft	Balti	1	62462	92	χ	consonant	c	1
-1709	RA	bft	Balti	1	62463	27	ç	consonant	c-d	2
+1709	RA	bft	Balti	1	62463	27	ç	consonant	c	1
 1709	RA	bft	Balti	1	62464	14	ŋ	consonant	c	1
 1709	RA	bft	Balti	1	62465	889	uˑ	vowel	v-d	2
 1709	RA	bft	Balti	1	62466	15	uː	vowel	v-d	2
@@ -62499,10 +62499,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1710	RA	lmn	Banjara	2	62498	227	ʌ	vowel	v	1
 1710	RA	lmn	Banjara	2	62499	6	iː	vowel	v-d	2
 1710	RA	lmn	Banjara	2	62500	50	ts	consonant	c-c	2
-1710	RA	lmn	Banjara	2	62501	432	cç	consonant	c-c-d	3
+1710	RA	lmn	Banjara	2	62501	432	cç	consonant	c-c	2
 1710	RA	lmn	Banjara	2	62502	433	ɟʝ	consonant	c-c	2
 1710	RA	lmn	Banjara	2	62503	14	ŋ	consonant	c	1
-1710	RA	lmn	Banjara	2	62504	27	ç	consonant	c-d	2
+1710	RA	lmn	Banjara	2	62504	27	ç	consonant	c	1
 1710	RA	lmn	Banjara	2	62505	15	uː	vowel	v-d	2
 1710	RA	lmn	Banjara	2	62506	157	ɑ	vowel	v	1
 1710	RA	lmn	Banjara	2	62507	192	dz	consonant	c-c	2
@@ -62542,18 +62542,18 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1711	RA	ben	Bengali	2	62541	8	kʰ	consonant	c-c	2
 1711	RA	ben	Bengali	2	62542	252	d̪̤	consonant	c-d-d	3
 1711	RA	ben	Bengali	2	62543	9	u	vowel	v	1
-1711	RA	ben	Bengali	2	62544	432	cç	consonant	c-c-d	3
+1711	RA	ben	Bengali	2	62544	432	cç	consonant	c-c	2
 1711	RA	ben	Bengali	2	62545	1929	ɡʰ	consonant	c-c	2
 1711	RA	ben	Bengali	2	62546	332	ɪ̃	vowel	v-c	2
 1711	RA	ben	Bengali	2	62547	30	ɡ	consonant	c	1
 1711	RA	ben	Bengali	2	62548	433	ɟʝ	consonant	c-c	2
 1711	RA	ben	Bengali	2	62549	14	ŋ	consonant	c	1
-1711	RA	ben	Bengali	2	62550	27	ç	consonant	c-d	2
+1711	RA	ben	Bengali	2	62550	27	ç	consonant	c	1
 1711	RA	ben	Bengali	2	62551	342	ɛ̃	vowel	v-c	2
 1711	RA	ben	Bengali	2	62552	257	t̪ʰ	consonant	c-d-c	3
 1711	RA	ben	Bengali	2	62553	76	ɔ	vowel	v	1
 1711	RA	ben	Bengali	2	62554	229	ɖ	consonant	c	1
-1711	RA	ben	Bengali	2	62555	444	cçʰ	consonant	c-c-d-c	4
+1711	RA	ben	Bengali	2	62555	444	cçʰ	consonant	c-c-c	3
 1711	RA	ben	Bengali	2	62556	12	a	vowel	v	1
 1711	RA	ben	Bengali	2	62557	20	pʰ	consonant	c-c	2
 1711	RA	ben	Bengali	2	62558	45	b	consonant	c	1
@@ -62600,13 +62600,13 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1712	RA	bhb	Bhili	1	62599	252	d̪̤	consonant	c-d-d	3
 1712	RA	bhb	Bhili	1	62600	603	l̤	consonant	c-d	2
 1712	RA	bhb	Bhili	1	62601	269	t̪	consonant	c-d	2
-1712	RA	bhb	Bhili	1	62602	432	cç	consonant	c-c-d	3
+1712	RA	bhb	Bhili	1	62602	432	cç	consonant	c-c	2
 1712	RA	bhb	Bhili	1	62603	2047	eˑ	vowel	v-d	2
 1712	RA	bhb	Bhili	1	62604	11	eː	vowel	v-d	2
 1712	RA	bhb	Bhili	1	62605	2847	ɟ̤ʝ	consonant	c-d-c	3
 1712	RA	bhb	Bhili	1	62606	30	ɡ	consonant	c	1
 1712	RA	bhb	Bhili	1	62607	433	ɟʝ	consonant	c-c	2
-1712	RA	bhb	Bhili	1	62608	27	ç	consonant	c-d	2
+1712	RA	bhb	Bhili	1	62608	27	ç	consonant	c	1
 1712	RA	bhb	Bhili	1	62609	889	uˑ	vowel	v-d	2
 1712	RA	bhb	Bhili	1	62610	15	uː	vowel	v-d	2
 1712	RA	bhb	Bhili	1	62611	257	t̪ʰ	consonant	c-d-c	3
@@ -62657,8 +62657,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1713	RA	unr	Bhumij	3	62656	8	kʰ	consonant	c-c	2
 1713	RA	unr	Bhumij	3	62657	252	d̪̤	consonant	c-d-d	3
 1713	RA	unr	Bhumij	3	62658	269	t̪	consonant	c-d	2
-1713	RA	unr	Bhumij	3	62659	432	cç	consonant	c-c-d	3
-1713	RA	unr	Bhumij	3	62660	444	cçʰ	consonant	c-c-d-c	4
+1713	RA	unr	Bhumij	3	62659	432	cç	consonant	c-c	2
+1713	RA	unr	Bhumij	3	62660	444	cçʰ	consonant	c-c-c	3
 1713	RA	unr	Bhumij	3	62661	264	n̪	consonant	c-d	2
 1713	RA	unr	Bhumij	3	62662	11	eː	vowel	v-d	2
 1713	RA	unr	Bhumij	3	62663	332	ɪ̃	vowel	v-c	2
@@ -62738,13 +62738,13 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1715	RA	bkk	Brokskat	2	62737	7	aː	vowel	v-d	2
 1715	RA	bkk	Brokskat	2	62738	8	kʰ	consonant	c-c	2
 1715	RA	bkk	Brokskat	2	62739	269	t̪	consonant	c-d	2
-1715	RA	bkk	Brokskat	2	62740	432	cç	consonant	c-c-d	3
-1715	RA	bkk	Brokskat	2	62741	444	cçʰ	consonant	c-c-d-c	4
+1715	RA	bkk	Brokskat	2	62740	432	cç	consonant	c-c	2
+1715	RA	bkk	Brokskat	2	62741	444	cçʰ	consonant	c-c-c	3
 1715	RA	bkk	Brokskat	2	62742	11	eː	vowel	v-d	2
 1715	RA	bkk	Brokskat	2	62743	30	ɡ	consonant	c	1
 1715	RA	bkk	Brokskat	2	62744	433	ɟʝ	consonant	c-c	2
 1715	RA	bkk	Brokskat	2	62745	92	χ	consonant	c	1
-1715	RA	bkk	Brokskat	2	62746	27	ç	consonant	c-d	2
+1715	RA	bkk	Brokskat	2	62746	27	ç	consonant	c	1
 1715	RA	bkk	Brokskat	2	62747	14	ŋ	consonant	c	1
 1715	RA	bkk	Brokskat	2	62748	889	uˑ	vowel	v-d	2
 1715	RA	bkk	Brokskat	2	62749	15	uː	vowel	v-d	2
@@ -62794,8 +62794,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1716	RA	bns	Bundeli	1	62793	252	d̪̤	consonant	c-d-d	3
 1716	RA	bns	Bundeli	1	62794	1346	n̤	consonant	c-d	2
 1716	RA	bns	Bundeli	1	62795	269	t̪	consonant	c-d	2
-1716	RA	bns	Bundeli	1	62796	432	cç	consonant	c-c-d	3
-1716	RA	bns	Bundeli	1	62797	444	cçʰ	consonant	c-c-d-c	4
+1716	RA	bns	Bundeli	1	62796	432	cç	consonant	c-c	2
+1716	RA	bns	Bundeli	1	62797	444	cçʰ	consonant	c-c-c	3
 1716	RA	bns	Bundeli	1	62798	11	eː	vowel	v-d	2
 1716	RA	bns	Bundeli	1	62799	1929	ɡʰ	consonant	c-c	2
 1716	RA	bns	Bundeli	1	62800	2847	ɟ̤ʝ	consonant	c-d-c	3
@@ -62842,12 +62842,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1717	RA	cdn	Chandangs and Byangs	1	62841	8	kʰ	consonant	c-c	2
 1717	RA	cdn	Chandangs and Byangs	1	62842	252	d̪̤	consonant	c-d-d	3
 1717	RA	cdn	Chandangs and Byangs	1	62843	269	t̪	consonant	c-d	2
-1717	RA	cdn	Chandangs and Byangs	1	62844	432	cç	consonant	c-c-d	3
+1717	RA	cdn	Chandangs and Byangs	1	62844	432	cç	consonant	c-c	2
 1717	RA	cdn	Chandangs and Byangs	1	62845	283	ɭ	consonant	c	1
 1717	RA	cdn	Chandangs and Byangs	1	62846	2847	ɟ̤ʝ	consonant	c-d-c	3
 1717	RA	cdn	Chandangs and Byangs	1	62847	433	ɟʝ	consonant	c-c	2
 1717	RA	cdn	Chandangs and Byangs	1	62848	14	ŋ	consonant	c	1
-1717	RA	cdn	Chandangs and Byangs	1	62849	27	ç	consonant	c-d	2
+1717	RA	cdn	Chandangs and Byangs	1	62849	27	ç	consonant	c	1
 1717	RA	cdn	Chandangs and Byangs	1	62850	264	n̪	consonant	c-d	2
 1717	RA	cdn	Chandangs and Byangs	1	62851	157	ɑ	vowel	v	1
 1717	RA	cdn	Chandangs and Byangs	1	62852	257	t̪ʰ	consonant	c-d-c	3
@@ -62856,7 +62856,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1717	RA	cdn	Chandangs and Byangs	1	62855	226	ə	vowel	v	1
 1717	RA	cdn	Chandangs and Byangs	1	62856	24	ɛ	vowel	v	1
 1717	RA	cdn	Chandangs and Byangs	1	62857	80	r	consonant	c	1
-1717	RA	cdn	Chandangs and Byangs	1	62858	444	cçʰ	consonant	c-c-d-c	4
+1717	RA	cdn	Chandangs and Byangs	1	62858	444	cçʰ	consonant	c-c-c	3
 1717	RA	cdn	Chandangs and Byangs	1	62859	30	ɡ	consonant	c	1
 1717	RA	cdn	Chandangs and Byangs	1	62860	20	pʰ	consonant	c-c	2
 1717	RA	cdn	Chandangs and Byangs	1	62861	45	b	consonant	c	1
@@ -62884,15 +62884,15 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1718	RA	nri	Chokri	1	62883	8	kʰ	consonant	c-c	2
 1718	RA	nri	Chokri	1	62884	603	l̤	consonant	c-d	2
 1718	RA	nri	Chokri	1	62885	269	t̪	consonant	c-d	2
-1718	RA	nri	Chokri	1	62886	432	cç	consonant	c-c-d	3
+1718	RA	nri	Chokri	1	62886	432	cç	consonant	c-c	2
 1718	RA	nri	Chokri	1	62887	14	ŋ	consonant	c	1
-1718	RA	nri	Chokri	1	62888	27	ç	consonant	c-d	2
+1718	RA	nri	Chokri	1	62888	27	ç	consonant	c	1
 1718	RA	nri	Chokri	1	62889	264	n̪	consonant	c-d	2
 1718	RA	nri	Chokri	1	62890	257	t̪ʰ	consonant	c-d-c	3
 1718	RA	nri	Chokri	1	62891	192	dz	consonant	c-c	2
 1718	RA	nri	Chokri	1	62892	226	ə	vowel	v	1
 1718	RA	nri	Chokri	1	62893	1347	ɾ̤	consonant	c-d	2
-1718	RA	nri	Chokri	1	62894	444	cçʰ	consonant	c-c-d-c	4
+1718	RA	nri	Chokri	1	62894	444	cçʰ	consonant	c-c-c	3
 1718	RA	nri	Chokri	1	62895	30	ɡ	consonant	c	1
 1718	RA	nri	Chokri	1	62896	20	pʰ	consonant	c-c	2
 1718	RA	nri	Chokri	1	62897	45	b	consonant	c	1
@@ -62923,11 +62923,11 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1719	RA	drd	Darmiya	1	62922	8	kʰ	consonant	c-c	2
 1719	RA	drd	Darmiya	1	62923	252	d̪̤	consonant	c-d-d	3
 1719	RA	drd	Darmiya	1	62924	269	t̪	consonant	c-d	2
-1719	RA	drd	Darmiya	1	62925	432	cç	consonant	c-c-d	3
+1719	RA	drd	Darmiya	1	62925	432	cç	consonant	c-c	2
 1719	RA	drd	Darmiya	1	62926	2847	ɟ̤ʝ	consonant	c-d-c	3
 1719	RA	drd	Darmiya	1	62927	433	ɟʝ	consonant	c-c	2
 1719	RA	drd	Darmiya	1	62928	14	ŋ	consonant	c	1
-1719	RA	drd	Darmiya	1	62929	27	ç	consonant	c-d	2
+1719	RA	drd	Darmiya	1	62929	27	ç	consonant	c	1
 1719	RA	drd	Darmiya	1	62930	264	n̪	consonant	c-d	2
 1719	RA	drd	Darmiya	1	62931	157	ɑ	vowel	v	1
 1719	RA	drd	Darmiya	1	62932	257	t̪ʰ	consonant	c-d-c	3
@@ -62936,7 +62936,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1719	RA	drd	Darmiya	1	62935	226	ə	vowel	v	1
 1719	RA	drd	Darmiya	1	62936	24	ɛ	vowel	v	1
 1719	RA	drd	Darmiya	1	62937	80	r	consonant	c	1
-1719	RA	drd	Darmiya	1	62938	444	cçʰ	consonant	c-c-d-c	4
+1719	RA	drd	Darmiya	1	62938	444	cçʰ	consonant	c-c-c	3
 1719	RA	drd	Darmiya	1	62939	30	ɡ	consonant	c	1
 1719	RA	drd	Darmiya	1	62940	20	pʰ	consonant	c-c	2
 1719	RA	drd	Darmiya	1	62941	45	b	consonant	c	1
@@ -62963,7 +62963,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1720	RA	gaq	Didayi	1	62962	3	ʔ	consonant	c	1
 1720	RA	gaq	Didayi	1	62963	232	ɳ	consonant	c	1
 1720	RA	gaq	Didayi	1	62964	80	r	consonant	c	1
-1720	RA	gaq	Didayi	1	62965	432	cç	consonant	c-c-d	3
+1720	RA	gaq	Didayi	1	62965	432	cç	consonant	c-c	2
 1720	RA	gaq	Didayi	1	62966	30	ɡ	consonant	c	1
 1720	RA	gaq	Didayi	1	62967	433	ɟʝ	consonant	c-c	2
 1720	RA	gaq	Didayi	1	62968	14	ŋ	consonant	c	1
@@ -63010,7 +63010,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1721	RA	gda	Gade-Lohar	1	63009	8	kʰ	consonant	c-c	2
 1721	RA	gda	Gade-Lohar	1	63010	252	d̪̤	consonant	c-d-d	3
 1721	RA	gda	Gade-Lohar	1	63011	269	t̪	consonant	c-d	2
-1721	RA	gda	Gade-Lohar	1	63012	432	cç	consonant	c-c-d	3
+1721	RA	gda	Gade-Lohar	1	63012	432	cç	consonant	c-c	2
 1721	RA	gda	Gade-Lohar	1	63013	283	ɭ	consonant	c	1
 1721	RA	gda	Gade-Lohar	1	63014	1929	ɡʰ	consonant	c-c	2
 1721	RA	gda	Gade-Lohar	1	63015	332	ɪ̃	vowel	v-c	2
@@ -63022,7 +63022,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1721	RA	gda	Gade-Lohar	1	63021	229	ɖ	consonant	c	1
 1721	RA	gda	Gade-Lohar	1	63022	226	ə	vowel	v	1
 1721	RA	gda	Gade-Lohar	1	63023	24	ɛ	vowel	v	1
-1721	RA	gda	Gade-Lohar	1	63024	444	cçʰ	consonant	c-c-d-c	4
+1721	RA	gda	Gade-Lohar	1	63024	444	cçʰ	consonant	c-c-c	3
 1721	RA	gda	Gade-Lohar	1	63025	12	a	vowel	v	1
 1721	RA	gda	Gade-Lohar	1	63026	20	pʰ	consonant	c-c	2
 1721	RA	gda	Gade-Lohar	1	63027	45	b	consonant	c	1
@@ -63054,7 +63054,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1722	RA	adl	Gallong	1	63053	15	uː	vowel	v-d	2
 1722	RA	adl	Gallong	1	63054	76	ɔ	vowel	v	1
 1722	RA	adl	Gallong	1	63055	226	ə	vowel	v	1
-1722	RA	adl	Gallong	1	63056	432	cç	consonant	c-c-d	3
+1722	RA	adl	Gallong	1	63056	432	cç	consonant	c-c	2
 1722	RA	adl	Gallong	1	63057	12	a	vowel	v	1
 1722	RA	adl	Gallong	1	63058	264	n̪	consonant	c-d	2
 1722	RA	adl	Gallong	1	63059	45	b	consonant	c	1
@@ -63109,13 +63109,13 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1724	RA	gju	Gojri	2	63108	892	ɑ̃	vowel	v-c	2
 1724	RA	gju	Gojri	2	63109	8	kʰ	consonant	c-c	2
 1724	RA	gju	Gojri	2	63110	269	t̪	consonant	c-d	2
-1724	RA	gju	Gojri	2	63111	432	cç	consonant	c-c-d	3
+1724	RA	gju	Gojri	2	63111	432	cç	consonant	c-c	2
 1724	RA	gju	Gojri	2	63112	14	ŋ	consonant	c	1
 1724	RA	gju	Gojri	2	63113	332	ɪ̃	vowel	v-c	2
 1724	RA	gju	Gojri	2	63114	30	ɡ	consonant	c	1
 1724	RA	gju	Gojri	2	63115	433	ɟʝ	consonant	c-c	2
 1724	RA	gju	Gojri	2	63116	565	ə̃	vowel	v-c	2
-1724	RA	gju	Gojri	2	63117	27	ç	consonant	c-d	2
+1724	RA	gju	Gojri	2	63117	27	ç	consonant	c	1
 1724	RA	gju	Gojri	2	63118	90	ɣ	consonant	c	1
 1724	RA	gju	Gojri	2	63119	257	t̪ʰ	consonant	c-d-c	3
 1724	RA	gju	Gojri	2	63120	76	ɔ	vowel	v	1
@@ -63123,7 +63123,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1724	RA	gju	Gojri	2	63122	226	ə	vowel	v	1
 1724	RA	gju	Gojri	2	63123	24	ɛ	vowel	v	1
 1724	RA	gju	Gojri	2	63124	80	r	consonant	c	1
-1724	RA	gju	Gojri	2	63125	444	cçʰ	consonant	c-c-d-c	4
+1724	RA	gju	Gojri	2	63125	444	cçʰ	consonant	c-c-c	3
 1724	RA	gju	Gojri	2	63126	12	a	vowel	v	1
 1724	RA	gju	Gojri	2	63127	20	pʰ	consonant	c-c	2
 1724	RA	gju	Gojri	2	63128	45	b	consonant	c	1
@@ -63172,7 +63172,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1725	RA	guj	Gujarati	1	63171	252	d̪̤	consonant	c-d-d	3
 1725	RA	guj	Gujarati	1	63172	26	h	consonant	c	1
 1725	RA	guj	Gujarati	1	63173	269	t̪	consonant	c-d	2
-1725	RA	guj	Gujarati	1	63174	432	cç	consonant	c-c-d	3
+1725	RA	guj	Gujarati	1	63174	432	cç	consonant	c-c	2
 1725	RA	guj	Gujarati	1	63175	283	ɭ	consonant	c	1
 1725	RA	guj	Gujarati	1	63176	2847	ɟ̤ʝ	consonant	c-d-c	3
 1725	RA	guj	Gujarati	1	63177	30	ɡ	consonant	c	1
@@ -63180,14 +63180,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1725	RA	guj	Gujarati	1	63179	1494	e̤	vowel	v-d	2
 1725	RA	guj	Gujarati	1	63180	14	ŋ	consonant	c	1
 1725	RA	guj	Gujarati	1	63181	180	v	consonant	c	1
-1725	RA	guj	Gujarati	1	63182	27	ç	consonant	c-d	2
+1725	RA	guj	Gujarati	1	63182	27	ç	consonant	c	1
 1725	RA	guj	Gujarati	1	63183	20	pʰ	consonant	c-c	2
 1725	RA	guj	Gujarati	1	63184	257	t̪ʰ	consonant	c-d-c	3
 1725	RA	guj	Gujarati	1	63185	76	ɔ	vowel	v	1
 1725	RA	guj	Gujarati	1	63186	229	ɖ	consonant	c	1
 1725	RA	guj	Gujarati	1	63187	226	ə	vowel	v	1
 1725	RA	guj	Gujarati	1	63188	24	ɛ	vowel	v	1
-1725	RA	guj	Gujarati	1	63189	444	cçʰ	consonant	c-c-d-c	4
+1725	RA	guj	Gujarati	1	63189	444	cçʰ	consonant	c-c-c	3
 1725	RA	guj	Gujarati	1	63190	12	a	vowel	v	1
 1725	RA	guj	Gujarati	1	63191	250	ã	vowel	v-c	2
 1725	RA	guj	Gujarati	1	63192	45	b	consonant	c	1
@@ -63218,7 +63218,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1726	RA	gbj	Gutob	1	63217	324	ʊ̃	vowel	v-c	2
 1726	RA	gbj	Gutob	1	63218	363	ṵ	vowel	v-d	2
 1726	RA	gbj	Gutob	1	63219	269	t̪	consonant	c-d	2
-1726	RA	gbj	Gutob	1	63220	432	cç	consonant	c-c-d	3
+1726	RA	gbj	Gutob	1	63220	432	cç	consonant	c-c	2
 1726	RA	gbj	Gutob	1	63221	283	ɭ	consonant	c	1
 1726	RA	gbj	Gutob	1	63222	948	ɯ̰	vowel	v-d	2
 1726	RA	gbj	Gutob	1	63223	30	ɡ	consonant	c	1
@@ -63256,12 +63256,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1727	RA	hlb	Halbi	1	63255	50	ts	consonant	c-c	2
 1727	RA	hlb	Halbi	1	63256	8	kʰ	consonant	c-c	2
 1727	RA	hlb	Halbi	1	63257	26	h	consonant	c	1
-1727	RA	hlb	Halbi	1	63258	432	cç	consonant	c-c-d	3
+1727	RA	hlb	Halbi	1	63258	432	cç	consonant	c-c	2
 1727	RA	hlb	Halbi	1	63259	30	ɡ	consonant	c	1
 1727	RA	hlb	Halbi	1	63260	433	ɟʝ	consonant	c-c	2
 1727	RA	hlb	Halbi	1	63261	175	f	consonant	c	1
 1727	RA	hlb	Halbi	1	63262	14	ŋ	consonant	c	1
-1727	RA	hlb	Halbi	1	63263	27	ç	consonant	c-d	2
+1727	RA	hlb	Halbi	1	63263	27	ç	consonant	c	1
 1727	RA	hlb	Halbi	1	63264	1929	ɡʰ	consonant	c-c	2
 1727	RA	hlb	Halbi	1	63265	416	ɘ	vowel	v	1
 1727	RA	hlb	Halbi	1	63266	24	ɛ	vowel	v	1
@@ -63309,7 +63309,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1728	RA	hin	Hindi	2	63308	8	kʰ	consonant	c-c	2
 1728	RA	hin	Hindi	2	63309	252	d̪̤	consonant	c-d-d	3
 1728	RA	hin	Hindi	2	63310	269	t̪	consonant	c-d	2
-1728	RA	hin	Hindi	2	63311	432	cç	consonant	c-c-d	3
+1728	RA	hin	Hindi	2	63311	432	cç	consonant	c-c	2
 1728	RA	hin	Hindi	2	63312	14	ŋ	consonant	c	1
 1728	RA	hin	Hindi	2	63313	1929	ɡʰ	consonant	c-c	2
 1728	RA	hin	Hindi	2	63314	332	ɪ̃	vowel	v-c	2
@@ -63317,14 +63317,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1728	RA	hin	Hindi	2	63316	433	ɟʝ	consonant	c-c	2
 1728	RA	hin	Hindi	2	63317	175	f	consonant	c	1
 1728	RA	hin	Hindi	2	63318	565	ə̃	vowel	v-c	2
-1728	RA	hin	Hindi	2	63319	27	ç	consonant	c-d	2
+1728	RA	hin	Hindi	2	63319	27	ç	consonant	c	1
 1728	RA	hin	Hindi	2	63320	264	n̪	consonant	c-d	2
 1728	RA	hin	Hindi	2	63321	257	t̪ʰ	consonant	c-d-c	3
 1728	RA	hin	Hindi	2	63322	76	ɔ	vowel	v	1
 1728	RA	hin	Hindi	2	63323	229	ɖ	consonant	c	1
 1728	RA	hin	Hindi	2	63324	226	ə	vowel	v	1
 1728	RA	hin	Hindi	2	63325	24	ɛ	vowel	v	1
-1728	RA	hin	Hindi	2	63326	444	cçʰ	consonant	c-c-d-c	4
+1728	RA	hin	Hindi	2	63326	444	cçʰ	consonant	c-c-c	3
 1728	RA	hin	Hindi	2	63327	12	a	vowel	v	1
 1728	RA	hin	Hindi	2	63328	20	pʰ	consonant	c-c	2
 1728	RA	hin	Hindi	2	63329	45	b	consonant	c	1
@@ -63360,7 +63360,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1729	RA	hoc	Ho	1	63359	7	aː	vowel	v-d	2
 1729	RA	hoc	Ho	1	63360	294	ɲ	consonant	c	1
 1729	RA	hoc	Ho	1	63361	269	t̪	consonant	c-d	2
-1729	RA	hoc	Ho	1	63362	432	cç	consonant	c-c-d	3
+1729	RA	hoc	Ho	1	63362	432	cç	consonant	c-c	2
 1729	RA	hoc	Ho	1	63363	11	eː	vowel	v-d	2
 1729	RA	hoc	Ho	1	63364	332	ɪ̃	vowel	v-c	2
 1729	RA	hoc	Ho	1	63365	30	ɡ	consonant	c	1
@@ -63404,7 +63404,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1730	RA	iru	Irula	2	63403	32	j	consonant	c	1
 1730	RA	iru	Irula	2	63404	79	β	consonant	c	1
 1730	RA	iru	Irula	2	63405	269	t̪	consonant	c-d	2
-1730	RA	iru	Irula	2	63406	432	cç	consonant	c-c-d	3
+1730	RA	iru	Irula	2	63406	432	cç	consonant	c-c	2
 1730	RA	iru	Irula	2	63407	283	ɭ	consonant	c	1
 1730	RA	iru	Irula	2	63408	30	ɡ	consonant	c	1
 1730	RA	iru	Irula	2	63409	433	ɟʝ	consonant	c-c	2
@@ -63459,12 +63459,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1731	RA	jns	Jaunsari	1	63458	8	kʰ	consonant	c-c	2
 1731	RA	jns	Jaunsari	1	63459	252	d̪̤	consonant	c-d-d	3
 1731	RA	jns	Jaunsari	1	63460	269	t̪	consonant	c-d	2
-1731	RA	jns	Jaunsari	1	63461	432	cç	consonant	c-c-d	3
+1731	RA	jns	Jaunsari	1	63461	432	cç	consonant	c-c	2
 1731	RA	jns	Jaunsari	1	63462	2847	ɟ̤ʝ	consonant	c-d-c	3
 1731	RA	jns	Jaunsari	1	63463	30	ɡ	consonant	c	1
 1731	RA	jns	Jaunsari	1	63464	433	ɟʝ	consonant	c-c	2
 1731	RA	jns	Jaunsari	1	63465	14	ŋ	consonant	c	1
-1731	RA	jns	Jaunsari	1	63466	27	ç	consonant	c-d	2
+1731	RA	jns	Jaunsari	1	63466	27	ç	consonant	c	1
 1731	RA	jns	Jaunsari	1	63467	15	uː	vowel	v-d	2
 1731	RA	jns	Jaunsari	1	63468	257	t̪ʰ	consonant	c-d-c	3
 1731	RA	jns	Jaunsari	1	63469	229	ɖ	consonant	c	1
@@ -63472,7 +63472,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1731	RA	jns	Jaunsari	1	63471	273	õ̞	vowel	v-d-c	3
 1731	RA	jns	Jaunsari	1	63472	24	ɛ	vowel	v	1
 1731	RA	jns	Jaunsari	1	63473	80	r	consonant	c	1
-1731	RA	jns	Jaunsari	1	63474	444	cçʰ	consonant	c-c-d-c	4
+1731	RA	jns	Jaunsari	1	63474	444	cçʰ	consonant	c-c-c	3
 1731	RA	jns	Jaunsari	1	63475	12	a	vowel	v	1
 1731	RA	jns	Jaunsari	1	63476	20	pʰ	consonant	c-c	2
 1731	RA	jns	Jaunsari	1	63477	45	b	consonant	c	1
@@ -63501,7 +63501,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1732	RA	jun	Juang	2	63500	324	ʊ̃	vowel	v-c	2
 1732	RA	jun	Juang	2	63501	232	ɳ	consonant	c	1
 1732	RA	jun	Juang	2	63502	330	ɽ̃	consonant	c-c	2
-1732	RA	jun	Juang	2	63503	432	cç	consonant	c-c-d	3
+1732	RA	jun	Juang	2	63503	432	cç	consonant	c-c	2
 1732	RA	jun	Juang	2	63504	332	ɪ̃	vowel	v-c	2
 1732	RA	jun	Juang	2	63505	30	ɡ	consonant	c	1
 1732	RA	jun	Juang	2	63506	433	ɟʝ	consonant	c-c	2
@@ -63585,15 +63585,15 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1734	RA	kan	Kannada	1	63584	8	kʰ	consonant	c-c	2
 1734	RA	kan	Kannada	1	63585	252	d̪̤	consonant	c-d-d	3
 1734	RA	kan	Kannada	1	63586	269	t̪	consonant	c-d	2
-1734	RA	kan	Kannada	1	63587	432	cç	consonant	c-c-d	3
-1734	RA	kan	Kannada	1	63588	444	cçʰ	consonant	c-c-d-c	4
+1734	RA	kan	Kannada	1	63587	432	cç	consonant	c-c	2
+1734	RA	kan	Kannada	1	63588	444	cçʰ	consonant	c-c-c	3
 1734	RA	kan	Kannada	1	63589	11	eː	vowel	v-d	2
 1734	RA	kan	Kannada	1	63590	1929	ɡʰ	consonant	c-c	2
 1734	RA	kan	Kannada	1	63591	2847	ɟ̤ʝ	consonant	c-d-c	3
 1734	RA	kan	Kannada	1	63592	30	ɡ	consonant	c	1
 1734	RA	kan	Kannada	1	63593	433	ɟʝ	consonant	c-c	2
 1734	RA	kan	Kannada	1	63594	14	ŋ	consonant	c	1
-1734	RA	kan	Kannada	1	63595	27	ç	consonant	c-d	2
+1734	RA	kan	Kannada	1	63595	27	ç	consonant	c	1
 1734	RA	kan	Kannada	1	63596	15	uː	vowel	v-d	2
 1734	RA	kan	Kannada	1	63597	257	t̪ʰ	consonant	c-d-c	3
 1734	RA	kan	Kannada	1	63598	229	ɖ	consonant	c	1
@@ -63630,8 +63630,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1735	RA	saz	Kanigke:rgotti	1	63629	8	kʰ	consonant	c-c	2
 1735	RA	saz	Kanigke:rgotti	1	63630	252	d̪̤	consonant	c-d-d	3
 1735	RA	saz	Kanigke:rgotti	1	63631	269	t̪	consonant	c-d	2
-1735	RA	saz	Kanigke:rgotti	1	63632	432	cç	consonant	c-c-d	3
-1735	RA	saz	Kanigke:rgotti	1	63633	444	cçʰ	consonant	c-c-d-c	4
+1735	RA	saz	Kanigke:rgotti	1	63632	432	cç	consonant	c-c	2
+1735	RA	saz	Kanigke:rgotti	1	63633	444	cçʰ	consonant	c-c-c	3
 1735	RA	saz	Kanigke:rgotti	1	63634	11	eː	vowel	v-d	2
 1735	RA	saz	Kanigke:rgotti	1	63635	2847	ɟ̤ʝ	consonant	c-d-c	3
 1735	RA	saz	Kanigke:rgotti	1	63636	30	ɡ	consonant	c	1
@@ -63666,7 +63666,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1736	RA	mjw	Karbi (Mikir)	1	63665	64	ʊ	vowel	v	1
 1736	RA	mjw	Karbi (Mikir)	1	63666	5	o	vowel	v	1
 1736	RA	mjw	Karbi (Mikir)	1	63667	50	ts	consonant	c-c	2
-1736	RA	mjw	Karbi (Mikir)	1	63668	432	cç	consonant	c-c-d	3
+1736	RA	mjw	Karbi (Mikir)	1	63668	432	cç	consonant	c-c	2
 1736	RA	mjw	Karbi (Mikir)	1	63669	30	ɡ	consonant	c	1
 1736	RA	mjw	Karbi (Mikir)	1	63670	433	ɟʝ	consonant	c-c	2
 1736	RA	mjw	Karbi (Mikir)	1	63671	14	ŋ	consonant	c	1
@@ -63676,7 +63676,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1736	RA	mjw	Karbi (Mikir)	1	63675	226	ə	vowel	v	1
 1736	RA	mjw	Karbi (Mikir)	1	63676	24	ɛ	vowel	v	1
 1736	RA	mjw	Karbi (Mikir)	1	63677	80	r	consonant	c	1
-1736	RA	mjw	Karbi (Mikir)	1	63678	444	cçʰ	consonant	c-c-d-c	4
+1736	RA	mjw	Karbi (Mikir)	1	63678	444	cçʰ	consonant	c-c-c	3
 1736	RA	mjw	Karbi (Mikir)	1	63679	12	a	vowel	v	1
 1736	RA	mjw	Karbi (Mikir)	1	63680	20	pʰ	consonant	c-c	2
 1736	RA	mjw	Karbi (Mikir)	1	63681	45	b	consonant	c	1
@@ -63702,7 +63702,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1737	RA	iru	Kasaba	1	63701	236	d̪	consonant	c-d	2
 1737	RA	iru	Kasaba	1	63702	218	ʈ	consonant	c	1
 1737	RA	iru	Kasaba	1	63703	269	t̪	consonant	c-d	2
-1737	RA	iru	Kasaba	1	63704	432	cç	consonant	c-c-d	3
+1737	RA	iru	Kasaba	1	63704	432	cç	consonant	c-c	2
 1737	RA	iru	Kasaba	1	63705	283	ɭ	consonant	c	1
 1737	RA	iru	Kasaba	1	63706	30	ɡ	consonant	c	1
 1737	RA	iru	Kasaba	1	63707	433	ɟʝ	consonant	c-c	2
@@ -63744,7 +63744,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1738	RA	kas	Kashmiri	1	63743	8	kʰ	consonant	c-c	2
 1738	RA	kas	Kashmiri	1	63744	236	d̪	consonant	c-d	2
 1738	RA	kas	Kashmiri	1	63745	269	t̪	consonant	c-d	2
-1738	RA	kas	Kashmiri	1	63746	432	cç	consonant	c-c-d	3
+1738	RA	kas	Kashmiri	1	63746	432	cç	consonant	c-c	2
 1738	RA	kas	Kashmiri	1	63747	251	ĩː	vowel	v-c-d	3
 1738	RA	kas	Kashmiri	1	63748	11	eː	vowel	v-d	2
 1738	RA	kas	Kashmiri	1	63749	332	ɪ̃	vowel	v-c	2
@@ -63753,7 +63753,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1738	RA	kas	Kashmiri	1	63752	1158	ɑ̃ː	vowel	v-c-d	3
 1738	RA	kas	Kashmiri	1	63753	46	s	consonant	c	1
 1738	RA	kas	Kashmiri	1	63754	14	ŋ	consonant	c	1
-1738	RA	kas	Kashmiri	1	63755	27	ç	consonant	c-d	2
+1738	RA	kas	Kashmiri	1	63755	27	ç	consonant	c	1
 1738	RA	kas	Kashmiri	1	63756	15	uː	vowel	v-d	2
 1738	RA	kas	Kashmiri	1	63757	257	t̪ʰ	consonant	c-d-c	3
 1738	RA	kas	Kashmiri	1	63758	229	ɖ	consonant	c	1
@@ -63776,7 +63776,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1738	RA	kas	Kashmiri	1	63775	5	o	vowel	v	1
 1738	RA	kas	Kashmiri	1	63776	39	n	consonant	c	1
 1738	RA	kas	Kashmiri	1	63777	43	p	consonant	c	1
-1738	RA	kas	Kashmiri	1	63778	444	cçʰ	consonant	c-c-d-c	4
+1738	RA	kas	Kashmiri	1	63778	444	cçʰ	consonant	c-c-c	3
 1738	RA	kas	Kashmiri	1	63779	80	r	consonant	c	1
 1738	RA	kas	Kashmiri	1	63780	9	u	vowel	v	1
 1738	RA	kas	Kashmiri	1	63781	55	w	consonant	c	1
@@ -63790,7 +63790,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1739	RA	xuj	Kattunaika	1	63789	50	ts	consonant	c-c	2
 1739	RA	xuj	Kattunaika	1	63790	80	r	consonant	c	1
 1739	RA	xuj	Kattunaika	1	63791	269	t̪	consonant	c-d	2
-1739	RA	xuj	Kattunaika	1	63792	432	cç	consonant	c-c-d	3
+1739	RA	xuj	Kattunaika	1	63792	432	cç	consonant	c-c	2
 1739	RA	xuj	Kattunaika	1	63793	283	ɭ	consonant	c	1
 1739	RA	xuj	Kattunaika	1	63794	30	ɡ	consonant	c	1
 1739	RA	xuj	Kattunaika	1	63795	433	ɟʝ	consonant	c-c	2
@@ -63827,8 +63827,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1740	RA	khr	Kharia	2	63826	6	iː	vowel	v-d	2
 1740	RA	khr	Kharia	2	63827	224	ʈʰ	consonant	c-c	2
 1740	RA	khr	Kharia	2	63828	8	kʰ	consonant	c-c	2
-1740	RA	khr	Kharia	2	63829	432	cç	consonant	c-c-d	3
-1740	RA	khr	Kharia	2	63830	444	cçʰ	consonant	c-c-d-c	4
+1740	RA	khr	Kharia	2	63829	432	cç	consonant	c-c	2
+1740	RA	khr	Kharia	2	63830	444	cçʰ	consonant	c-c-c	3
 1740	RA	khr	Kharia	2	63831	11	eː	vowel	v-d	2
 1740	RA	khr	Kharia	2	63832	332	ɪ̃	vowel	v-c	2
 1740	RA	khr	Kharia	2	63833	30	ɡ	consonant	c	1
@@ -63873,7 +63873,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1741	RA	kha	Khasi	2	63872	30	ɡ	consonant	c	1
 1741	RA	kha	Khasi	2	63873	433	ɟʝ	consonant	c-c	2
 1741	RA	kha	Khasi	2	63874	14	ŋ	consonant	c	1
-1741	RA	kha	Khasi	2	63875	27	ç	consonant	c-d	2
+1741	RA	kha	Khasi	2	63875	27	ç	consonant	c	1
 1741	RA	kha	Khasi	2	63876	15	uː	vowel	v-d	2
 1741	RA	kha	Khasi	2	63877	1929	ɡʰ	consonant	c-c	2
 1741	RA	kha	Khasi	2	63878	76	ɔ	vowel	v	1
@@ -63916,11 +63916,11 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1742	RA	nkh	Khezha	1	63915	26	h	consonant	c	1
 1742	RA	nkh	Khezha	1	63916	603	l̤	consonant	c-d	2
 1742	RA	nkh	Khezha	1	63917	269	t̪	consonant	c-d	2
-1742	RA	nkh	Khezha	1	63918	432	cç	consonant	c-c-d	3
+1742	RA	nkh	Khezha	1	63918	432	cç	consonant	c-c	2
 1742	RA	nkh	Khezha	1	63919	433	ɟʝ	consonant	c-c	2
 1742	RA	nkh	Khezha	1	63920	14	ŋ	consonant	c	1
 1742	RA	nkh	Khezha	1	63921	294	ɲ	consonant	c	1
-1742	RA	nkh	Khezha	1	63922	27	ç	consonant	c-d	2
+1742	RA	nkh	Khezha	1	63922	27	ç	consonant	c	1
 1742	RA	nkh	Khezha	1	63923	264	n̪	consonant	c-d	2
 1742	RA	nkh	Khezha	1	63924	157	ɑ	vowel	v	1
 1742	RA	nkh	Khezha	1	63925	257	t̪ʰ	consonant	c-d-c	3
@@ -63928,7 +63928,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1742	RA	nkh	Khezha	1	63927	192	dz	consonant	c-c	2
 1742	RA	nkh	Khezha	1	63928	226	ə	vowel	v	1
 1742	RA	nkh	Khezha	1	63929	1347	ɾ̤	consonant	c-d	2
-1742	RA	nkh	Khezha	1	63930	444	cçʰ	consonant	c-c-d-c	4
+1742	RA	nkh	Khezha	1	63930	444	cçʰ	consonant	c-c-c	3
 1742	RA	nkh	Khezha	1	63931	30	ɡ	consonant	c	1
 1742	RA	nkh	Khezha	1	63932	20	pʰ	consonant	c-c	2
 1742	RA	nkh	Khezha	1	63933	45	b	consonant	c	1
@@ -63968,12 +63968,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1743	RA	kfa	Kod̩agu	1	63967	7	aː	vowel	v-d	2
 1743	RA	kfa	Kod̩agu	1	63968	294	ɲ	consonant	c	1
 1743	RA	kfa	Kod̩agu	1	63969	269	t̪	consonant	c-d	2
-1743	RA	kfa	Kod̩agu	1	63970	432	cç	consonant	c-c-d	3
+1743	RA	kfa	Kod̩agu	1	63970	432	cç	consonant	c-c	2
 1743	RA	kfa	Kod̩agu	1	63971	11	eː	vowel	v-d	2
 1743	RA	kfa	Kod̩agu	1	63972	30	ɡ	consonant	c	1
 1743	RA	kfa	Kod̩agu	1	63973	433	ɟʝ	consonant	c-c	2
 1743	RA	kfa	Kod̩agu	1	63974	14	ŋ	consonant	c	1
-1743	RA	kfa	Kod̩agu	1	63975	27	ç	consonant	c-d	2
+1743	RA	kfa	Kod̩agu	1	63975	27	ç	consonant	c	1
 1743	RA	kfa	Kod̩agu	1	63976	15	uː	vowel	v-d	2
 1743	RA	kfa	Kod̩agu	1	63977	157	ɑ	vowel	v	1
 1743	RA	kfa	Kod̩agu	1	63978	33	m	consonant	c	1
@@ -64012,7 +64012,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1744	RA	kfb	Kolami	1	64011	50	ts	consonant	c-c	2
 1744	RA	kfb	Kolami	1	64012	7	aː	vowel	v-d	2
 1744	RA	kfb	Kolami	1	64013	9	u	vowel	v	1
-1744	RA	kfb	Kolami	1	64014	432	cç	consonant	c-c-d	3
+1744	RA	kfb	Kolami	1	64014	432	cç	consonant	c-c	2
 1744	RA	kfb	Kolami	1	64015	11	eː	vowel	v-d	2
 1744	RA	kfb	Kolami	1	64016	30	ɡ	consonant	c	1
 1744	RA	kfb	Kolami	1	64017	433	ɟʝ	consonant	c-c	2
@@ -64090,7 +64090,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1746	RA	gau	Kon̩ekar Gadaba	1	64089	6	iː	vowel	v-d	2
 1746	RA	gau	Kon̩ekar Gadaba	1	64090	232	ɳ	consonant	c	1
 1746	RA	gau	Kon̩ekar Gadaba	1	64091	7	aː	vowel	v-d	2
-1746	RA	gau	Kon̩ekar Gadaba	1	64092	432	cç	consonant	c-c-d	3
+1746	RA	gau	Kon̩ekar Gadaba	1	64092	432	cç	consonant	c-c	2
 1746	RA	gau	Kon̩ekar Gadaba	1	64093	14	ŋ	consonant	c	1
 1746	RA	gau	Kon̩ekar Gadaba	1	64094	30	ɡ	consonant	c	1
 1746	RA	gau	Kon̩ekar Gadaba	1	64095	433	ɟʝ	consonant	c-c	2
@@ -64126,19 +64126,19 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1747	RA	knn	Konkani	1	64125	8	kʰ	consonant	c-c	2
 1747	RA	knn	Konkani	1	64126	252	d̪̤	consonant	c-d-d	3
 1747	RA	knn	Konkani	1	64127	269	t̪	consonant	c-d	2
-1747	RA	knn	Konkani	1	64128	432	cç	consonant	c-c-d	3
+1747	RA	knn	Konkani	1	64128	432	cç	consonant	c-c	2
 1747	RA	knn	Konkani	1	64129	11	eː	vowel	v-d	2
 1747	RA	knn	Konkani	1	64130	2847	ɟ̤ʝ	consonant	c-d-c	3
 1747	RA	knn	Konkani	1	64131	12	a	vowel	v	1
 1747	RA	knn	Konkani	1	64132	433	ɟʝ	consonant	c-c	2
-1747	RA	knn	Konkani	1	64133	27	ç	consonant	c-d	2
+1747	RA	knn	Konkani	1	64133	27	ç	consonant	c	1
 1747	RA	knn	Konkani	1	64134	15	uː	vowel	v-d	2
 1747	RA	knn	Konkani	1	64135	257	t̪ʰ	consonant	c-d-c	3
 1747	RA	knn	Konkani	1	64136	192	dz	consonant	c-c	2
 1747	RA	knn	Konkani	1	64137	76	ɔ	vowel	v	1
 1747	RA	knn	Konkani	1	64138	229	ɖ	consonant	c	1
 1747	RA	knn	Konkani	1	64139	232	ɳ	consonant	c	1
-1747	RA	knn	Konkani	1	64140	444	cçʰ	consonant	c-c-d-c	4
+1747	RA	knn	Konkani	1	64140	444	cçʰ	consonant	c-c-c	3
 1747	RA	knn	Konkani	1	64141	2856	d̤z	consonant	c-d-c	3
 1747	RA	knn	Konkani	1	64142	20	pʰ	consonant	c-c	2
 1747	RA	knn	Konkani	1	64143	45	b	consonant	c	1
@@ -64165,12 +64165,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1748	RA	kfd	Koraga	1	64164	7	aː	vowel	v-d	2
 1748	RA	kfd	Koraga	1	64165	80	r	consonant	c	1
 1748	RA	kfd	Koraga	1	64166	269	t̪	consonant	c-d	2
-1748	RA	kfd	Koraga	1	64167	432	cç	consonant	c-c-d	3
+1748	RA	kfd	Koraga	1	64167	432	cç	consonant	c-c	2
 1748	RA	kfd	Koraga	1	64168	11	eː	vowel	v-d	2
 1748	RA	kfd	Koraga	1	64169	30	ɡ	consonant	c	1
 1748	RA	kfd	Koraga	1	64170	433	ɟʝ	consonant	c-c	2
 1748	RA	kfd	Koraga	1	64171	14	ŋ	consonant	c	1
-1748	RA	kfd	Koraga	1	64172	27	ç	consonant	c-d	2
+1748	RA	kfd	Koraga	1	64172	27	ç	consonant	c	1
 1748	RA	kfd	Koraga	1	64173	15	uː	vowel	v-d	2
 1748	RA	kfd	Koraga	1	64174	229	ɖ	consonant	c	1
 1748	RA	kfd	Koraga	1	64175	24	ɛ	vowel	v	1
@@ -64240,7 +64240,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1750	RA	kfe	Kota	1	64239	7	aː	vowel	v-d	2
 1750	RA	kfe	Kota	1	64240	294	ɲ	consonant	c	1
 1750	RA	kfe	Kota	1	64241	269	t̪	consonant	c-d	2
-1750	RA	kfe	Kota	1	64242	432	cç	consonant	c-c-d	3
+1750	RA	kfe	Kota	1	64242	432	cç	consonant	c-c	2
 1750	RA	kfe	Kota	1	64243	11	eː	vowel	v-d	2
 1750	RA	kfe	Kota	1	64244	30	ɡ	consonant	c	1
 1750	RA	kfe	Kota	1	64245	433	ɟʝ	consonant	c-c	2
@@ -64275,7 +64275,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1751	RA	kff	Koya	1	64274	50	ts	consonant	c-c	2
 1751	RA	kff	Koya	1	64275	7	aː	vowel	v-d	2
 1751	RA	kff	Koya	1	64276	269	t̪	consonant	c-d	2
-1751	RA	kff	Koya	1	64277	432	cç	consonant	c-c-d	3
+1751	RA	kff	Koya	1	64277	432	cç	consonant	c-c	2
 1751	RA	kff	Koya	1	64278	11	eː	vowel	v-d	2
 1751	RA	kff	Koya	1	64279	30	ɡ	consonant	c	1
 1751	RA	kff	Koya	1	64280	433	ɟʝ	consonant	c-c	2
@@ -64350,20 +64350,20 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1753	RA	kfy	Kumauni	1	64349	8	kʰ	consonant	c-c	2
 1753	RA	kfy	Kumauni	1	64350	252	d̪̤	consonant	c-d-d	3
 1753	RA	kfy	Kumauni	1	64351	269	t̪	consonant	c-d	2
-1753	RA	kfy	Kumauni	1	64352	432	cç	consonant	c-c-d	3
+1753	RA	kfy	Kumauni	1	64352	432	cç	consonant	c-c	2
 1753	RA	kfy	Kumauni	1	64353	283	ɭ	consonant	c	1
 1753	RA	kfy	Kumauni	1	64354	2847	ɟ̤ʝ	consonant	c-d-c	3
 1753	RA	kfy	Kumauni	1	64355	30	ɡ	consonant	c	1
 1753	RA	kfy	Kumauni	1	64356	433	ɟʝ	consonant	c-c	2
 1753	RA	kfy	Kumauni	1	64357	14	ŋ	consonant	c	1
-1753	RA	kfy	Kumauni	1	64358	27	ç	consonant	c-d	2
+1753	RA	kfy	Kumauni	1	64358	27	ç	consonant	c	1
 1753	RA	kfy	Kumauni	1	64359	264	n̪	consonant	c-d	2
 1753	RA	kfy	Kumauni	1	64360	257	t̪ʰ	consonant	c-d-c	3
 1753	RA	kfy	Kumauni	1	64361	76	ɔ	vowel	v	1
 1753	RA	kfy	Kumauni	1	64362	229	ɖ	consonant	c	1
 1753	RA	kfy	Kumauni	1	64363	226	ə	vowel	v	1
 1753	RA	kfy	Kumauni	1	64364	24	ɛ	vowel	v	1
-1753	RA	kfy	Kumauni	1	64365	444	cçʰ	consonant	c-c-d-c	4
+1753	RA	kfy	Kumauni	1	64365	444	cçʰ	consonant	c-c-c	3
 1753	RA	kfy	Kumauni	1	64366	12	a	vowel	v	1
 1753	RA	kfy	Kumauni	1	64367	20	pʰ	consonant	c-c	2
 1753	RA	kfy	Kumauni	1	64368	45	b	consonant	c	1
@@ -64391,7 +64391,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1754	RA	kru	Kurux	2	64390	227	ʌ	vowel	v	1
 1754	RA	kru	Kurux	2	64391	590	ẽ	vowel	v-c	2
 1754	RA	kru	Kurux	2	64392	39	n	consonant	c	1
-1754	RA	kru	Kurux	2	64393	444	cçʰ	consonant	c-c-d-c	4
+1754	RA	kru	Kurux	2	64393	444	cçʰ	consonant	c-c-c	3
 1754	RA	kru	Kurux	2	64394	324	ʊ̃	vowel	v-c	2
 1754	RA	kru	Kurux	2	64395	116	x	consonant	c	1
 1754	RA	kru	Kurux	2	64396	246	ɖ̤	consonant	c-d	2
@@ -64400,7 +64400,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1754	RA	kru	Kurux	2	64399	224	ʈʰ	consonant	c-c	2
 1754	RA	kru	Kurux	2	64400	8	kʰ	consonant	c-c	2
 1754	RA	kru	Kurux	2	64401	2847	ɟ̤ʝ	consonant	c-d-c	3
-1754	RA	kru	Kurux	2	64402	432	cç	consonant	c-c-d	3
+1754	RA	kru	Kurux	2	64402	432	cç	consonant	c-c	2
 1754	RA	kru	Kurux	2	64403	251	ĩː	vowel	v-c-d	3
 1754	RA	kru	Kurux	2	64404	14	ŋ	consonant	c	1
 1754	RA	kru	Kurux	2	64405	332	ɪ̃	vowel	v-c	2
@@ -64450,7 +64450,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1755	RA	kxv	Kuvi	2	64449	50	ts	consonant	c-c	2
 1755	RA	kxv	Kuvi	2	64450	7	aː	vowel	v-d	2
 1755	RA	kxv	Kuvi	2	64451	269	t̪	consonant	c-d	2
-1755	RA	kxv	Kuvi	2	64452	432	cç	consonant	c-c-d	3
+1755	RA	kxv	Kuvi	2	64452	432	cç	consonant	c-c	2
 1755	RA	kxv	Kuvi	2	64453	251	ĩː	vowel	v-c-d	3
 1755	RA	kxv	Kuvi	2	64454	11	eː	vowel	v-d	2
 1755	RA	kxv	Kuvi	2	64455	332	ɪ̃	vowel	v-c	2
@@ -64458,7 +64458,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1755	RA	kxv	Kuvi	2	64457	433	ɟʝ	consonant	c-c	2
 1755	RA	kxv	Kuvi	2	64458	1158	ɑ̃ː	vowel	v-c-d	3
 1755	RA	kxv	Kuvi	2	64459	14	ŋ	consonant	c	1
-1755	RA	kxv	Kuvi	2	64460	27	ç	consonant	c-d	2
+1755	RA	kxv	Kuvi	2	64460	27	ç	consonant	c	1
 1755	RA	kxv	Kuvi	2	64461	15	uː	vowel	v-d	2
 1755	RA	kxv	Kuvi	2	64462	229	ɖ	consonant	c	1
 1755	RA	kxv	Kuvi	2	64463	192	dz	consonant	c-c	2
@@ -64496,19 +64496,19 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1756	RA	lbj	Ladakhi	2	64495	8	kʰ	consonant	c-c	2
 1756	RA	lbj	Ladakhi	2	64496	603	l̤	consonant	c-d	2
 1756	RA	lbj	Ladakhi	2	64497	269	t̪	consonant	c-d	2
-1756	RA	lbj	Ladakhi	2	64498	432	cç	consonant	c-c-d	3
+1756	RA	lbj	Ladakhi	2	64498	432	cç	consonant	c-c	2
 1756	RA	lbj	Ladakhi	2	64499	30	ɡ	consonant	c	1
 1756	RA	lbj	Ladakhi	2	64500	433	ɟʝ	consonant	c-c	2
 1756	RA	lbj	Ladakhi	2	64501	79	β	consonant	c	1
 1756	RA	lbj	Ladakhi	2	64502	14	ŋ	consonant	c	1
 1756	RA	lbj	Ladakhi	2	64503	294	ɲ	consonant	c	1
-1756	RA	lbj	Ladakhi	2	64504	27	ç	consonant	c-d	2
+1756	RA	lbj	Ladakhi	2	64504	27	ç	consonant	c	1
 1756	RA	lbj	Ladakhi	2	64505	90	ɣ	consonant	c	1
 1756	RA	lbj	Ladakhi	2	64506	257	t̪ʰ	consonant	c-d-c	3
 1756	RA	lbj	Ladakhi	2	64507	192	dz	consonant	c-c	2
 1756	RA	lbj	Ladakhi	2	64508	229	ɖ	consonant	c	1
 1756	RA	lbj	Ladakhi	2	64509	226	ə	vowel	v	1
-1756	RA	lbj	Ladakhi	2	64510	444	cçʰ	consonant	c-c-d-c	4
+1756	RA	lbj	Ladakhi	2	64510	444	cçʰ	consonant	c-c-c	3
 1756	RA	lbj	Ladakhi	2	64511	12	a	vowel	v	1
 1756	RA	lbj	Ladakhi	2	64512	20	pʰ	consonant	c-c	2
 1756	RA	lbj	Ladakhi	2	64513	45	b	consonant	c	1
@@ -64543,14 +64543,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1757	RA	lmn	Lamani	1	64542	242	s̪	consonant	c-d	2
 1757	RA	lmn	Lamani	1	64543	236	d̪	consonant	c-d	2
 1757	RA	lmn	Lamani	1	64544	9	u	vowel	v	1
-1757	RA	lmn	Lamani	1	64545	432	cç	consonant	c-c-d	3
+1757	RA	lmn	Lamani	1	64545	432	cç	consonant	c-c	2
 1757	RA	lmn	Lamani	1	64546	251	ĩː	vowel	v-c-d	3
 1757	RA	lmn	Lamani	1	64547	11	eː	vowel	v-d	2
 1757	RA	lmn	Lamani	1	64548	332	ɪ̃	vowel	v-c	2
 1757	RA	lmn	Lamani	1	64549	30	ɡ	consonant	c	1
 1757	RA	lmn	Lamani	1	64550	433	ɟʝ	consonant	c-c	2
 1757	RA	lmn	Lamani	1	64551	14	ŋ	consonant	c	1
-1757	RA	lmn	Lamani	1	64552	27	ç	consonant	c-d	2
+1757	RA	lmn	Lamani	1	64552	27	ç	consonant	c	1
 1757	RA	lmn	Lamani	1	64553	192	dz	consonant	c-c	2
 1757	RA	lmn	Lamani	1	64554	229	ɖ	consonant	c	1
 1757	RA	lmn	Lamani	1	64555	226	ə	vowel	v	1
@@ -64585,10 +64585,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1758	RA	lep	Lepca	1	64584	50	ts	consonant	c-c	2
 1758	RA	lep	Lepca	1	64585	294	ɲ	consonant	c	1
 1758	RA	lep	Lepca	1	64586	269	t̪	consonant	c-d	2
-1758	RA	lep	Lepca	1	64587	432	cç	consonant	c-c-d	3
+1758	RA	lep	Lepca	1	64587	432	cç	consonant	c-c	2
 1758	RA	lep	Lepca	1	64588	433	ɟʝ	consonant	c-c	2
 1758	RA	lep	Lepca	1	64589	14	ŋ	consonant	c	1
-1758	RA	lep	Lepca	1	64590	27	ç	consonant	c-d	2
+1758	RA	lep	Lepca	1	64590	27	ç	consonant	c	1
 1758	RA	lep	Lepca	1	64591	157	ɑ	vowel	v	1
 1758	RA	lep	Lepca	1	64592	192	dz	consonant	c-c	2
 1758	RA	lep	Lepca	1	64593	76	ɔ	vowel	v	1
@@ -64625,18 +64625,18 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1759	RA	njh	Lotha	1	64624	2518	r̤	consonant	c-d	2
 1759	RA	njh	Lotha	1	64625	603	l̤	consonant	c-d	2
 1759	RA	njh	Lotha	1	64626	269	t̪	consonant	c-d	2
-1759	RA	njh	Lotha	1	64627	432	cç	consonant	c-c-d	3
+1759	RA	njh	Lotha	1	64627	432	cç	consonant	c-c	2
 1759	RA	njh	Lotha	1	64628	30	ɡ	consonant	c	1
 1759	RA	njh	Lotha	1	64629	64	ʊ	vowel	v	1
 1759	RA	njh	Lotha	1	64630	14	ŋ	consonant	c	1
 1759	RA	njh	Lotha	1	64631	294	ɲ	consonant	c	1
-1759	RA	njh	Lotha	1	64632	27	ç	consonant	c-d	2
+1759	RA	njh	Lotha	1	64632	27	ç	consonant	c	1
 1759	RA	njh	Lotha	1	64633	264	n̪	consonant	c-d	2
 1759	RA	njh	Lotha	1	64634	257	t̪ʰ	consonant	c-d-c	3
 1759	RA	njh	Lotha	1	64635	531	bv	consonant	c-c	2
 1759	RA	njh	Lotha	1	64636	226	ə	vowel	v	1
 1759	RA	njh	Lotha	1	64637	80	r	consonant	c	1
-1759	RA	njh	Lotha	1	64638	444	cçʰ	consonant	c-c-d-c	4
+1759	RA	njh	Lotha	1	64638	444	cçʰ	consonant	c-c-c	3
 1759	RA	njh	Lotha	1	64639	12	a	vowel	v	1
 1759	RA	njh	Lotha	1	64640	20	pʰ	consonant	c-c	2
 1759	RA	njh	Lotha	1	64641	21	e	vowel	v	1
@@ -64663,7 +64663,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1760	RA	lus	Lushai	1	64662	8	kʰ	consonant	c-c	2
 1760	RA	lus	Lushai	1	64663	1457	t̪ɬ̪ʰ	consonant	c-d-c-d-c	5
 1760	RA	lus	Lushai	1	64664	269	t̪	consonant	c-d	2
-1760	RA	lus	Lushai	1	64665	432	cç	consonant	c-c-d	3
+1760	RA	lus	Lushai	1	64665	432	cç	consonant	c-c	2
 1760	RA	lus	Lushai	1	64666	30	ɡ	consonant	c	1
 1760	RA	lus	Lushai	1	64667	14	ŋ	consonant	c	1
 1760	RA	lus	Lushai	1	64668	264	n̪	consonant	c-d	2
@@ -64673,7 +64673,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1760	RA	lus	Lushai	1	64672	76	ɔ	vowel	v	1
 1760	RA	lus	Lushai	1	64673	2858	ʰŋ	consonant	c-c	2
 1760	RA	lus	Lushai	1	64674	2859	ɾ̪̊ʰ	consonant	c-d-d-c	4
-1760	RA	lus	Lushai	1	64675	444	cçʰ	consonant	c-c-d-c	4
+1760	RA	lus	Lushai	1	64675	444	cçʰ	consonant	c-c-c	3
 1760	RA	lus	Lushai	1	64676	12	a	vowel	v	1
 1760	RA	lus	Lushai	1	64677	20	pʰ	consonant	c-c	2
 1760	RA	lus	Lushai	1	64678	45	b	consonant	c	1
@@ -64706,18 +64706,18 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1761	RA	mai	Maithili	1	64705	8	kʰ	consonant	c-c	2
 1761	RA	mai	Maithili	1	64706	252	d̪̤	consonant	c-d-d	3
 1761	RA	mai	Maithili	1	64707	269	t̪	consonant	c-d	2
-1761	RA	mai	Maithili	1	64708	432	cç	consonant	c-c-d	3
+1761	RA	mai	Maithili	1	64708	432	cç	consonant	c-c	2
 1761	RA	mai	Maithili	1	64709	1929	ɡʰ	consonant	c-c	2
 1761	RA	mai	Maithili	1	64710	2847	ɟ̤ʝ	consonant	c-d-c	3
 1761	RA	mai	Maithili	1	64711	30	ɡ	consonant	c	1
 1761	RA	mai	Maithili	1	64712	433	ɟʝ	consonant	c-c	2
 1761	RA	mai	Maithili	1	64713	14	ŋ	consonant	c	1
-1761	RA	mai	Maithili	1	64714	27	ç	consonant	c-d	2
+1761	RA	mai	Maithili	1	64714	27	ç	consonant	c	1
 1761	RA	mai	Maithili	1	64715	257	t̪ʰ	consonant	c-d-c	3
 1761	RA	mai	Maithili	1	64716	76	ɔ	vowel	v	1
 1761	RA	mai	Maithili	1	64717	229	ɖ	consonant	c	1
 1761	RA	mai	Maithili	1	64718	226	ə	vowel	v	1
-1761	RA	mai	Maithili	1	64719	444	cçʰ	consonant	c-c-d-c	4
+1761	RA	mai	Maithili	1	64719	444	cçʰ	consonant	c-c-c	3
 1761	RA	mai	Maithili	1	64720	12	a	vowel	v	1
 1761	RA	mai	Maithili	1	64721	20	pʰ	consonant	c-c	2
 1761	RA	mai	Maithili	1	64722	45	b	consonant	c	1
@@ -64753,7 +64753,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1762	RA	mal	Malayalam	1	64752	30	ɡ	consonant	c	1
 1762	RA	mal	Malayalam	1	64753	283	ɭ	consonant	c	1
 1762	RA	mal	Malayalam	1	64754	14	ŋ	consonant	c	1
-1762	RA	mal	Malayalam	1	64755	27	ç	consonant	c-d	2
+1762	RA	mal	Malayalam	1	64755	27	ç	consonant	c	1
 1762	RA	mal	Malayalam	1	64756	15	uː	vowel	v-d	2
 1762	RA	mal	Malayalam	1	64757	229	ɖ	consonant	c	1
 1762	RA	mal	Malayalam	1	64758	209	ɟ	consonant	c	1
@@ -64824,14 +64824,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1764	RA	mni	Manipuri	2	64823	8	kʰ	consonant	c-c	2
 1764	RA	mni	Manipuri	2	64824	252	d̪̤	consonant	c-d-d	3
 1764	RA	mni	Manipuri	2	64825	269	t̪	consonant	c-d	2
-1764	RA	mni	Manipuri	2	64826	432	cç	consonant	c-c-d	3
-1764	RA	mni	Manipuri	2	64827	444	cçʰ	consonant	c-c-d-c	4
+1764	RA	mni	Manipuri	2	64826	432	cç	consonant	c-c	2
+1764	RA	mni	Manipuri	2	64827	444	cçʰ	consonant	c-c-c	3
 1764	RA	mni	Manipuri	2	64828	11	eː	vowel	v-d	2
 1764	RA	mni	Manipuri	2	64829	2847	ɟ̤ʝ	consonant	c-d-c	3
 1764	RA	mni	Manipuri	2	64830	30	ɡ	consonant	c	1
 1764	RA	mni	Manipuri	2	64831	433	ɟʝ	consonant	c-c	2
 1764	RA	mni	Manipuri	2	64832	14	ŋ	consonant	c	1
-1764	RA	mni	Manipuri	2	64833	27	ç	consonant	c-d	2
+1764	RA	mni	Manipuri	2	64833	27	ç	consonant	c	1
 1764	RA	mni	Manipuri	2	64834	15	uː	vowel	v-d	2
 1764	RA	mni	Manipuri	2	64835	257	t̪ʰ	consonant	c-d-c	3
 1764	RA	mni	Manipuri	2	64836	10	oː	vowel	v-d	2
@@ -64855,7 +64855,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1765	RA	nbi	Mao-Naga	1	64854	230	pf	consonant	c-c	2
 1765	RA	nbi	Mao-Naga	1	64855	269	t̪	consonant	c-d	2
 1765	RA	nbi	Mao-Naga	1	64856	30	ɡ	consonant	c	1
-1765	RA	nbi	Mao-Naga	1	64857	27	ç	consonant	c-d	2
+1765	RA	nbi	Mao-Naga	1	64857	27	ç	consonant	c	1
 1765	RA	nbi	Mao-Naga	1	64858	531	bv	consonant	c-c	2
 1765	RA	nbi	Mao-Naga	1	64859	192	dz	consonant	c-c	2
 1765	RA	nbi	Mao-Naga	1	64860	226	ə	vowel	v	1
@@ -64893,12 +64893,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1766	RA	mar	Marathi	1	64892	252	d̪̤	consonant	c-d-d	3
 1766	RA	mar	Marathi	1	64893	603	l̤	consonant	c-d	2
 1766	RA	mar	Marathi	1	64894	9	u	vowel	v	1
-1766	RA	mar	Marathi	1	64895	432	cç	consonant	c-c-d	3
+1766	RA	mar	Marathi	1	64895	432	cç	consonant	c-c	2
 1766	RA	mar	Marathi	1	64896	1929	ɡʰ	consonant	c-c	2
 1766	RA	mar	Marathi	1	64897	2847	ɟ̤ʝ	consonant	c-d-c	3
 1766	RA	mar	Marathi	1	64898	30	ɡ	consonant	c	1
 1766	RA	mar	Marathi	1	64899	433	ɟʝ	consonant	c-c	2
-1766	RA	mar	Marathi	1	64900	27	ç	consonant	c-d	2
+1766	RA	mar	Marathi	1	64900	27	ç	consonant	c	1
 1766	RA	mar	Marathi	1	64901	15	uː	vowel	v-d	2
 1766	RA	mar	Marathi	1	64902	257	t̪ʰ	consonant	c-d-c	3
 1766	RA	mar	Marathi	1	64903	192	dz	consonant	c-c	2
@@ -64907,7 +64907,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1766	RA	mar	Marathi	1	64906	226	ə	vowel	v	1
 1766	RA	mar	Marathi	1	64907	232	ɳ	consonant	c	1
 1766	RA	mar	Marathi	1	64908	1347	ɾ̤	consonant	c-d	2
-1766	RA	mar	Marathi	1	64909	444	cçʰ	consonant	c-c-d-c	4
+1766	RA	mar	Marathi	1	64909	444	cçʰ	consonant	c-c-c	3
 1766	RA	mar	Marathi	1	64910	12	a	vowel	v	1
 1766	RA	mar	Marathi	1	64911	2856	d̤z	consonant	c-d-c	3
 1766	RA	mar	Marathi	1	64912	20	pʰ	consonant	c-c	2
@@ -64943,14 +64943,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1767	RA	mxj	Mishmi	1	64942	8	kʰ	consonant	c-c	2
 1767	RA	mxj	Mishmi	1	64943	1908	p̰	consonant	c-d	2
 1767	RA	mxj	Mishmi	1	64944	9	u	vowel	v	1
-1767	RA	mxj	Mishmi	1	64945	432	cç	consonant	c-c-d	3
-1767	RA	mxj	Mishmi	1	64946	444	cçʰ	consonant	c-c-d-c	4
+1767	RA	mxj	Mishmi	1	64945	432	cç	consonant	c-c	2
+1767	RA	mxj	Mishmi	1	64946	444	cçʰ	consonant	c-c-c	3
 1767	RA	mxj	Mishmi	1	64947	11	eː	vowel	v-d	2
 1767	RA	mxj	Mishmi	1	64948	332	ɪ̃	vowel	v-c	2
 1767	RA	mxj	Mishmi	1	64949	20	pʰ	consonant	c-c	2
 1767	RA	mxj	Mishmi	1	64950	433	ɟʝ	consonant	c-c	2
 1767	RA	mxj	Mishmi	1	64951	14	ŋ	consonant	c	1
-1767	RA	mxj	Mishmi	1	64952	27	ç	consonant	c-d	2
+1767	RA	mxj	Mishmi	1	64952	27	ç	consonant	c	1
 1767	RA	mxj	Mishmi	1	64953	15	uː	vowel	v-d	2
 1767	RA	mxj	Mishmi	1	64954	157	ɑ	vowel	v	1
 1767	RA	mxj	Mishmi	1	64955	257	t̪ʰ	consonant	c-d-c	3
@@ -65033,9 +65033,9 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1769	RA	nmo	Moyon	1	65032	50	ts	consonant	c-c	2
 1769	RA	nmo	Moyon	1	65033	8	kʰ	consonant	c-c	2
 1769	RA	nmo	Moyon	1	65034	26	h	consonant	c	1
-1769	RA	nmo	Moyon	1	65035	432	cç	consonant	c-c-d	3
+1769	RA	nmo	Moyon	1	65035	432	cç	consonant	c-c	2
 1769	RA	nmo	Moyon	1	65036	340	ŋ̩	consonant	c-d	2
-1769	RA	nmo	Moyon	1	65037	27	ç	consonant	c-d	2
+1769	RA	nmo	Moyon	1	65037	27	ç	consonant	c	1
 1769	RA	nmo	Moyon	1	65038	1929	ɡʰ	consonant	c-c	2
 1769	RA	nmo	Moyon	1	65039	76	ɔ	vowel	v	1
 1769	RA	nmo	Moyon	1	65040	226	ə	vowel	v	1
@@ -65072,7 +65072,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1770	RA	unr	Mundari	1	65071	7	aː	vowel	v-d	2
 1770	RA	unr	Mundari	1	65072	892	ɑ̃	vowel	v-c	2
 1770	RA	unr	Mundari	1	65073	9	u	vowel	v	1
-1770	RA	unr	Mundari	1	65074	432	cç	consonant	c-c-d	3
+1770	RA	unr	Mundari	1	65074	432	cç	consonant	c-c	2
 1770	RA	unr	Mundari	1	65075	264	n̪	consonant	c-d	2
 1770	RA	unr	Mundari	1	65076	11	eː	vowel	v-d	2
 1770	RA	unr	Mundari	1	65077	30	ɡ	consonant	c	1
@@ -65159,14 +65159,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1772	RA	nep	Nepali	1	65158	252	d̪̤	consonant	c-d-d	3
 1772	RA	nep	Nepali	1	65159	603	l̤	consonant	c-d	2
 1772	RA	nep	Nepali	1	65160	269	t̪	consonant	c-d	2
-1772	RA	nep	Nepali	1	65161	432	cç	consonant	c-c-d	3
-1772	RA	nep	Nepali	1	65162	444	cçʰ	consonant	c-c-d-c	4
+1772	RA	nep	Nepali	1	65161	432	cç	consonant	c-c	2
+1772	RA	nep	Nepali	1	65162	444	cçʰ	consonant	c-c-c	3
 1772	RA	nep	Nepali	1	65163	11	eː	vowel	v-d	2
 1772	RA	nep	Nepali	1	65164	2847	ɟ̤ʝ	consonant	c-d-c	3
 1772	RA	nep	Nepali	1	65165	30	ɡ	consonant	c	1
 1772	RA	nep	Nepali	1	65166	433	ɟʝ	consonant	c-c	2
 1772	RA	nep	Nepali	1	65167	14	ŋ	consonant	c	1
-1772	RA	nep	Nepali	1	65168	27	ç	consonant	c-d	2
+1772	RA	nep	Nepali	1	65168	27	ç	consonant	c	1
 1772	RA	nep	Nepali	1	65169	15	uː	vowel	v-d	2
 1772	RA	nep	Nepali	1	65170	257	t̪ʰ	consonant	c-d-c	3
 1772	RA	nep	Nepali	1	65171	229	ɖ	consonant	c	1
@@ -65200,7 +65200,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1773	RA	ncb	Nicobarese	1	65199	6	iː	vowel	v-d	2
 1773	RA	ncb	Nicobarese	1	65200	71	ɔː	vowel	v-d	2
 1773	RA	ncb	Nicobarese	1	65201	80	r	consonant	c	1
-1773	RA	ncb	Nicobarese	1	65202	432	cç	consonant	c-c-d	3
+1773	RA	ncb	Nicobarese	1	65202	432	cç	consonant	c-c	2
 1773	RA	ncb	Nicobarese	1	65203	11	eː	vowel	v-d	2
 1773	RA	ncb	Nicobarese	1	65204	14	ŋ	consonant	c	1
 1773	RA	ncb	Nicobarese	1	65205	15	uː	vowel	v-d	2
@@ -65235,7 +65235,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1774	RA	gdb	Ollari	1	65234	7	aː	vowel	v-d	2
 1774	RA	gdb	Ollari	1	65235	80	r	consonant	c	1
 1774	RA	gdb	Ollari	1	65236	9	u	vowel	v	1
-1774	RA	gdb	Ollari	1	65237	432	cç	consonant	c-c-d	3
+1774	RA	gdb	Ollari	1	65237	432	cç	consonant	c-c	2
 1774	RA	gdb	Ollari	1	65238	11	eː	vowel	v-d	2
 1774	RA	gdb	Ollari	1	65239	30	ɡ	consonant	c	1
 1774	RA	gdb	Ollari	1	65240	433	ɟʝ	consonant	c-c	2
@@ -65277,7 +65277,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1775	RA	ori	Oriya	1	65276	463	æ̃	vowel	v-c	2
 1775	RA	ori	Oriya	1	65277	252	d̪̤	consonant	c-d-d	3
 1775	RA	ori	Oriya	1	65278	9	u	vowel	v	1
-1775	RA	ori	Oriya	1	65279	432	cç	consonant	c-c-d	3
+1775	RA	ori	Oriya	1	65279	432	cç	consonant	c-c	2
 1775	RA	ori	Oriya	1	65280	283	ɭ	consonant	c	1
 1775	RA	ori	Oriya	1	65281	332	ɪ̃	vowel	v-c	2
 1775	RA	ori	Oriya	1	65282	433	ɟʝ	consonant	c-c	2
@@ -65285,7 +65285,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1775	RA	ori	Oriya	1	65284	2086	ɛ̞	vowel	v-d	2
 1775	RA	ori	Oriya	1	65285	257	t̪ʰ	consonant	c-d-c	3
 1775	RA	ori	Oriya	1	65286	76	ɔ	vowel	v	1
-1775	RA	ori	Oriya	1	65287	444	cçʰ	consonant	c-c-d-c	4
+1775	RA	ori	Oriya	1	65287	444	cçʰ	consonant	c-c-c	3
 1775	RA	ori	Oriya	1	65288	30	ɡ	consonant	c	1
 1775	RA	ori	Oriya	1	65289	20	pʰ	consonant	c-c	2
 1775	RA	ori	Oriya	1	65290	45	b	consonant	c	1
@@ -65334,7 +65334,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1777	RA	pci	Parji	1	65333	6	iː	vowel	v-d	2
 1777	RA	pci	Parji	1	65334	7	aː	vowel	v-d	2
 1777	RA	pci	Parji	1	65335	269	t̪	consonant	c-d	2
-1777	RA	pci	Parji	1	65336	432	cç	consonant	c-c-d	3
+1777	RA	pci	Parji	1	65336	432	cç	consonant	c-c	2
 1777	RA	pci	Parji	1	65337	11	eː	vowel	v-d	2
 1777	RA	pci	Parji	1	65338	30	ɡ	consonant	c	1
 1777	RA	pci	Parji	1	65339	433	ɟʝ	consonant	c-c	2
@@ -65369,11 +65369,11 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1778	RA	lae	Pat̩t̩an̩i	1	65368	50	ts	consonant	c-c	2
 1778	RA	lae	Pat̩t̩an̩i	1	65369	8	kʰ	consonant	c-c	2
 1778	RA	lae	Pat̩t̩an̩i	1	65370	269	t̪	consonant	c-d	2
-1778	RA	lae	Pat̩t̩an̩i	1	65371	432	cç	consonant	c-c-d	3
+1778	RA	lae	Pat̩t̩an̩i	1	65371	432	cç	consonant	c-c	2
 1778	RA	lae	Pat̩t̩an̩i	1	65372	283	ɭ	consonant	c	1
 1778	RA	lae	Pat̩t̩an̩i	1	65373	433	ɟʝ	consonant	c-c	2
 1778	RA	lae	Pat̩t̩an̩i	1	65374	14	ŋ	consonant	c	1
-1778	RA	lae	Pat̩t̩an̩i	1	65375	27	ç	consonant	c-d	2
+1778	RA	lae	Pat̩t̩an̩i	1	65375	27	ç	consonant	c	1
 1778	RA	lae	Pat̩t̩an̩i	1	65376	603	l̤	consonant	c-d	2
 1778	RA	lae	Pat̩t̩an̩i	1	65377	157	ɑ	vowel	v	1
 1778	RA	lae	Pat̩t̩an̩i	1	65378	257	t̪ʰ	consonant	c-d-c	3
@@ -65383,7 +65383,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1778	RA	lae	Pat̩t̩an̩i	1	65382	226	ə	vowel	v	1
 1778	RA	lae	Pat̩t̩an̩i	1	65383	232	ɳ	consonant	c	1
 1778	RA	lae	Pat̩t̩an̩i	1	65384	80	r	consonant	c	1
-1778	RA	lae	Pat̩t̩an̩i	1	65385	444	cçʰ	consonant	c-c-d-c	4
+1778	RA	lae	Pat̩t̩an̩i	1	65385	444	cçʰ	consonant	c-c-c	3
 1778	RA	lae	Pat̩t̩an̩i	1	65386	30	ɡ	consonant	c	1
 1778	RA	lae	Pat̩t̩an̩i	1	65387	20	pʰ	consonant	c-c	2
 1778	RA	lae	Pat̩t̩an̩i	1	65388	45	b	consonant	c	1
@@ -65410,7 +65410,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1779	RA	peg	Pengo	1	65409	232	ɳ	consonant	c	1
 1779	RA	peg	Pengo	1	65410	7	aː	vowel	v-d	2
 1779	RA	peg	Pengo	1	65411	269	t̪	consonant	c-d	2
-1779	RA	peg	Pengo	1	65412	432	cç	consonant	c-c-d	3
+1779	RA	peg	Pengo	1	65412	432	cç	consonant	c-c	2
 1779	RA	peg	Pengo	1	65413	11	eː	vowel	v-d	2
 1779	RA	peg	Pengo	1	65414	30	ɡ	consonant	c	1
 1779	RA	peg	Pengo	1	65415	433	ɟʝ	consonant	c-c	2
@@ -65451,13 +65451,13 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1780	RA	pan	Punjabi	2	65450	892	ɑ̃	vowel	v-c	2
 1780	RA	pan	Punjabi	2	65451	8	kʰ	consonant	c-c	2
 1780	RA	pan	Punjabi	2	65452	269	t̪	consonant	c-d	2
-1780	RA	pan	Punjabi	2	65453	432	cç	consonant	c-c-d	3
+1780	RA	pan	Punjabi	2	65453	432	cç	consonant	c-c	2
 1780	RA	pan	Punjabi	2	65454	283	ɭ	consonant	c	1
 1780	RA	pan	Punjabi	2	65455	332	ɪ̃	vowel	v-c	2
 1780	RA	pan	Punjabi	2	65456	30	ɡ	consonant	c	1
 1780	RA	pan	Punjabi	2	65457	433	ɟʝ	consonant	c-c	2
 1780	RA	pan	Punjabi	2	65458	565	ə̃	vowel	v-c	2
-1780	RA	pan	Punjabi	2	65459	27	ç	consonant	c-d	2
+1780	RA	pan	Punjabi	2	65459	27	ç	consonant	c	1
 1780	RA	pan	Punjabi	2	65460	90	ɣ	consonant	c	1
 1780	RA	pan	Punjabi	2	65461	257	t̪ʰ	consonant	c-d-c	3
 1780	RA	pan	Punjabi	2	65462	76	ɔ	vowel	v	1
@@ -65465,7 +65465,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1780	RA	pan	Punjabi	2	65464	226	ə	vowel	v	1
 1780	RA	pan	Punjabi	2	65465	24	ɛ	vowel	v	1
 1780	RA	pan	Punjabi	2	65466	80	r	consonant	c	1
-1780	RA	pan	Punjabi	2	65467	444	cçʰ	consonant	c-c-d-c	4
+1780	RA	pan	Punjabi	2	65467	444	cçʰ	consonant	c-c-c	3
 1780	RA	pan	Punjabi	2	65468	12	a	vowel	v	1
 1780	RA	pan	Punjabi	2	65469	20	pʰ	consonant	c-c	2
 1780	RA	pan	Punjabi	2	65470	45	b	consonant	c	1
@@ -65496,7 +65496,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1781	RA	bfw	Remo	2	65495	324	ʊ̃	vowel	v-c	2
 1781	RA	bfw	Remo	2	65496	224	ʈʰ	consonant	c-c	2
 1781	RA	bfw	Remo	2	65497	8	kʰ	consonant	c-c	2
-1781	RA	bfw	Remo	2	65498	432	cç	consonant	c-c-d	3
+1781	RA	bfw	Remo	2	65498	432	cç	consonant	c-c	2
 1781	RA	bfw	Remo	2	65499	30	ɡ	consonant	c	1
 1781	RA	bfw	Remo	2	65500	433	ɟʝ	consonant	c-c	2
 1781	RA	bfw	Remo	2	65501	14	ŋ	consonant	c	1
@@ -65542,14 +65542,14 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1782	RA	san	Sanskrit	1	65541	8	kʰ	consonant	c-c	2
 1782	RA	san	Sanskrit	1	65542	252	d̪̤	consonant	c-d-d	3
 1782	RA	san	Sanskrit	1	65543	269	t̪	consonant	c-d	2
-1782	RA	san	Sanskrit	1	65544	432	cç	consonant	c-c-d	3
-1782	RA	san	Sanskrit	1	65545	444	cçʰ	consonant	c-c-d-c	4
+1782	RA	san	Sanskrit	1	65544	432	cç	consonant	c-c	2
+1782	RA	san	Sanskrit	1	65545	444	cçʰ	consonant	c-c-c	3
 1782	RA	san	Sanskrit	1	65546	11	eː	vowel	v-d	2
 1782	RA	san	Sanskrit	1	65547	2847	ɟ̤ʝ	consonant	c-d-c	3
 1782	RA	san	Sanskrit	1	65548	30	ɡ	consonant	c	1
 1782	RA	san	Sanskrit	1	65549	433	ɟʝ	consonant	c-c	2
 1782	RA	san	Sanskrit	1	65550	14	ŋ	consonant	c	1
-1782	RA	san	Sanskrit	1	65551	27	ç	consonant	c-d	2
+1782	RA	san	Sanskrit	1	65551	27	ç	consonant	c	1
 1782	RA	san	Sanskrit	1	65552	15	uː	vowel	v-d	2
 1782	RA	san	Sanskrit	1	65553	257	t̪ʰ	consonant	c-d-c	3
 1782	RA	san	Sanskrit	1	65554	229	ɖ	consonant	c	1
@@ -65588,7 +65588,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1783	RA	sat	Santali	1	65587	8	kʰ	consonant	c-c	2
 1783	RA	sat	Santali	1	65588	252	d̪̤	consonant	c-d-d	3
 1783	RA	sat	Santali	1	65589	9	u	vowel	v	1
-1783	RA	sat	Santali	1	65590	432	cç	consonant	c-c-d	3
+1783	RA	sat	Santali	1	65590	432	cç	consonant	c-c	2
 1783	RA	sat	Santali	1	65591	332	ɪ̃	vowel	v-c	2
 1783	RA	sat	Santali	1	65592	433	ɟʝ	consonant	c-c	2
 1783	RA	sat	Santali	1	65593	1908	p̰	consonant	c-d	2
@@ -65599,7 +65599,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1783	RA	sat	Santali	1	65598	229	ɖ	consonant	c	1
 1783	RA	sat	Santali	1	65599	226	ə	vowel	v	1
 1783	RA	sat	Santali	1	65600	80	r	consonant	c	1
-1783	RA	sat	Santali	1	65601	444	cçʰ	consonant	c-c-d-c	4
+1783	RA	sat	Santali	1	65601	444	cçʰ	consonant	c-c-c	3
 1783	RA	sat	Santali	1	65602	30	ɡ	consonant	c	1
 1783	RA	sat	Santali	1	65603	250	ã	vowel	v-c	2
 1783	RA	sat	Santali	1	65604	45	b	consonant	c	1
@@ -65631,15 +65631,15 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1784	RA	nsm	Sema	1	65630	26	h	consonant	c	1
 1784	RA	nsm	Sema	1	65631	603	l̤	consonant	c-d	2
 1784	RA	nsm	Sema	1	65632	269	t̪	consonant	c-d	2
-1784	RA	nsm	Sema	1	65633	432	cç	consonant	c-c-d	3
+1784	RA	nsm	Sema	1	65633	432	cç	consonant	c-c	2
 1784	RA	nsm	Sema	1	65634	30	ɡ	consonant	c	1
 1784	RA	nsm	Sema	1	65635	14	ŋ	consonant	c	1
 1784	RA	nsm	Sema	1	65636	294	ɲ	consonant	c	1
-1784	RA	nsm	Sema	1	65637	27	ç	consonant	c-d	2
+1784	RA	nsm	Sema	1	65637	27	ç	consonant	c	1
 1784	RA	nsm	Sema	1	65638	90	ɣ	consonant	c	1
 1784	RA	nsm	Sema	1	65639	257	t̪ʰ	consonant	c-d-c	3
 1784	RA	nsm	Sema	1	65640	226	ə	vowel	v	1
-1784	RA	nsm	Sema	1	65641	444	cçʰ	consonant	c-c-d-c	4
+1784	RA	nsm	Sema	1	65641	444	cçʰ	consonant	c-c-c	3
 1784	RA	nsm	Sema	1	65642	12	a	vowel	v	1
 1784	RA	nsm	Sema	1	65643	20	pʰ	consonant	c-c	2
 1784	RA	nsm	Sema	1	65644	45	b	consonant	c	1
@@ -65676,13 +65676,13 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1785	RA	scl	Shina	1	65675	7	aː	vowel	v-d	2
 1785	RA	scl	Shina	1	65676	8	kʰ	consonant	c-c	2
 1785	RA	scl	Shina	1	65677	90	ɣ	consonant	c	1
-1785	RA	scl	Shina	1	65678	432	cç	consonant	c-c-d	3
-1785	RA	scl	Shina	1	65679	444	cçʰ	consonant	c-c-d-c	4
+1785	RA	scl	Shina	1	65678	432	cç	consonant	c-c	2
+1785	RA	scl	Shina	1	65679	444	cçʰ	consonant	c-c-c	3
 1785	RA	scl	Shina	1	65680	11	eː	vowel	v-d	2
 1785	RA	scl	Shina	1	65681	30	ɡ	consonant	c	1
 1785	RA	scl	Shina	1	65682	433	ɟʝ	consonant	c-c	2
 1785	RA	scl	Shina	1	65683	14	ŋ	consonant	c	1
-1785	RA	scl	Shina	1	65684	27	ç	consonant	c-d	2
+1785	RA	scl	Shina	1	65684	27	ç	consonant	c	1
 1785	RA	scl	Shina	1	65685	15	uː	vowel	v-d	2
 1785	RA	scl	Shina	1	65686	229	ɖ	consonant	c	1
 1785	RA	scl	Shina	1	65687	226	ə	vowel	v	1
@@ -65739,7 +65739,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1786	RA	snd	Sindhi	2	65738	30	ɡ	consonant	c	1
 1786	RA	snd	Sindhi	2	65739	175	f	consonant	c	1
 1786	RA	snd	Sindhi	2	65740	565	ə̃	vowel	v-c	2
-1786	RA	snd	Sindhi	2	65741	27	ç	consonant	c-d	2
+1786	RA	snd	Sindhi	2	65741	27	ç	consonant	c	1
 1786	RA	snd	Sindhi	2	65742	208	c	consonant	c	1
 1786	RA	snd	Sindhi	2	65743	472	c̤	consonant	c-d	2
 1786	RA	snd	Sindhi	2	65744	257	t̪ʰ	consonant	c-d-c	3
@@ -65814,7 +65814,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1788	RA	tam	Tamil	2	65813	232	ɳ	consonant	c	1
 1788	RA	tam	Tamil	2	65814	7	aː	vowel	v-d	2
 1788	RA	tam	Tamil	2	65815	9	u	vowel	v	1
-1788	RA	tam	Tamil	2	65816	432	cç	consonant	c-c-d	3
+1788	RA	tam	Tamil	2	65816	432	cç	consonant	c-c	2
 1788	RA	tam	Tamil	2	65817	11	eː	vowel	v-d	2
 1788	RA	tam	Tamil	2	65818	30	ɡ	consonant	c	1
 1788	RA	tam	Tamil	2	65819	433	ɟʝ	consonant	c-c	2
@@ -65856,11 +65856,11 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1789	RA	nmf	Tangkul Naga	1	65855	8	kʰ	consonant	c-c	2
 1789	RA	nmf	Tangkul Naga	1	65856	26	h	consonant	c	1
 1789	RA	nmf	Tangkul Naga	1	65857	269	t̪	consonant	c-d	2
-1789	RA	nmf	Tangkul Naga	1	65858	432	cç	consonant	c-c-d	3
+1789	RA	nmf	Tangkul Naga	1	65858	432	cç	consonant	c-c	2
 1789	RA	nmf	Tangkul Naga	1	65859	30	ɡ	consonant	c	1
 1789	RA	nmf	Tangkul Naga	1	65860	433	ɟʝ	consonant	c-c	2
 1789	RA	nmf	Tangkul Naga	1	65861	14	ŋ	consonant	c	1
-1789	RA	nmf	Tangkul Naga	1	65862	27	ç	consonant	c-d	2
+1789	RA	nmf	Tangkul Naga	1	65862	27	ç	consonant	c	1
 1789	RA	nmf	Tangkul Naga	1	65863	257	t̪ʰ	consonant	c-d-c	3
 1789	RA	nmf	Tangkul Naga	1	65864	76	ɔ	vowel	v	1
 1789	RA	nmf	Tangkul Naga	1	65865	226	ə	vowel	v	1
@@ -65892,10 +65892,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1790	RA	nst	Tangsa	1	65891	50	ts	consonant	c-c	2
 1790	RA	nst	Tangsa	1	65892	8	kʰ	consonant	c-c	2
 1790	RA	nst	Tangsa	1	65893	269	t̪	consonant	c-d	2
-1790	RA	nst	Tangsa	1	65894	432	cç	consonant	c-c-d	3
+1790	RA	nst	Tangsa	1	65894	432	cç	consonant	c-c	2
 1790	RA	nst	Tangsa	1	65895	433	ɟʝ	consonant	c-c	2
 1790	RA	nst	Tangsa	1	65896	14	ŋ	consonant	c	1
-1790	RA	nst	Tangsa	1	65897	27	ç	consonant	c-d	2
+1790	RA	nst	Tangsa	1	65897	27	ç	consonant	c	1
 1790	RA	nst	Tangsa	1	65898	264	n̪	consonant	c-d	2
 1790	RA	nst	Tangsa	1	65899	257	t̪ʰ	consonant	c-d-c	3
 1790	RA	nst	Tangsa	1	65900	76	ɔ	vowel	v	1
@@ -65930,15 +65930,15 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1791	RA	tel	Telugu	1	65929	8	kʰ	consonant	c-c	2
 1791	RA	tel	Telugu	1	65930	252	d̪̤	consonant	c-d-d	3
 1791	RA	tel	Telugu	1	65931	9	u	vowel	v	1
-1791	RA	tel	Telugu	1	65932	432	cç	consonant	c-c-d	3
-1791	RA	tel	Telugu	1	65933	444	cçʰ	consonant	c-c-d-c	4
+1791	RA	tel	Telugu	1	65932	432	cç	consonant	c-c	2
+1791	RA	tel	Telugu	1	65933	444	cçʰ	consonant	c-c-c	3
 1791	RA	tel	Telugu	1	65934	11	eː	vowel	v-d	2
 1791	RA	tel	Telugu	1	65935	1929	ɡʰ	consonant	c-c	2
 1791	RA	tel	Telugu	1	65936	2847	ɟ̤ʝ	consonant	c-d-c	3
 1791	RA	tel	Telugu	1	65937	283	ɭ	consonant	c	1
 1791	RA	tel	Telugu	1	65938	433	ɟʝ	consonant	c-c	2
 1791	RA	tel	Telugu	1	65939	14	ŋ	consonant	c	1
-1791	RA	tel	Telugu	1	65940	27	ç	consonant	c-d	2
+1791	RA	tel	Telugu	1	65940	27	ç	consonant	c	1
 1791	RA	tel	Telugu	1	65941	15	uː	vowel	v-d	2
 1791	RA	tel	Telugu	1	65942	157	ɑ	vowel	v	1
 1791	RA	tel	Telugu	1	65943	257	t̪ʰ	consonant	c-d-c	3
@@ -65970,7 +65970,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1792	RA	tcz	Thaadou	1	65969	227	ʌ	vowel	v	1
 1792	RA	tcz	Thaadou	1	65970	5	o	vowel	v	1
 1792	RA	tcz	Thaadou	1	65971	8	kʰ	consonant	c-c	2
-1792	RA	tcz	Thaadou	1	65972	432	cç	consonant	c-c-d	3
+1792	RA	tcz	Thaadou	1	65972	432	cç	consonant	c-c	2
 1792	RA	tcz	Thaadou	1	65973	30	ɡ	consonant	c	1
 1792	RA	tcz	Thaadou	1	65974	433	ɟʝ	consonant	c-c	2
 1792	RA	tcz	Thaadou	1	65975	14	ŋ	consonant	c	1
@@ -66017,7 +66017,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1793	RA	tcx	Toda	1	66016	30	ɡ	consonant	c	1
 1793	RA	tcx	Toda	1	66017	433	ɟʝ	consonant	c-c	2
 1793	RA	tcx	Toda	1	66018	583	z̪	consonant	c-d	2
-1793	RA	tcx	Toda	1	66019	27	ç	consonant	c-d	2
+1793	RA	tcx	Toda	1	66019	27	ç	consonant	c	1
 1793	RA	tcx	Toda	1	66020	229	ɖ	consonant	c	1
 1793	RA	tcx	Toda	1	66021	376	l̥	consonant	c-d	2
 1793	RA	tcx	Toda	1	66022	192	dz	consonant	c-c	2
@@ -66025,7 +66025,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1793	RA	tcx	Toda	1	66024	59	ø	vowel	v	1
 1793	RA	tcx	Toda	1	66025	232	ɳ	consonant	c	1
 1793	RA	tcx	Toda	1	66026	522	θ	consonant	c	1
-1793	RA	tcx	Toda	1	66027	432	cç	consonant	c-c-d	3
+1793	RA	tcx	Toda	1	66027	432	cç	consonant	c-c	2
 1793	RA	tcx	Toda	1	66028	17	ɯː	vowel	v-d	2
 1793	RA	tcx	Toda	1	66029	12	a	vowel	v	1
 1793	RA	tcx	Toda	1	66030	45	b	consonant	c	1
@@ -66059,17 +66059,17 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1794	RA	trp	Tripuri	1	66058	50	ts	consonant	c-c	2
 1794	RA	trp	Tripuri	1	66059	8	kʰ	consonant	c-c	2
 1794	RA	trp	Tripuri	1	66060	9	u	vowel	v	1
-1794	RA	trp	Tripuri	1	66061	432	cç	consonant	c-c-d	3
+1794	RA	trp	Tripuri	1	66061	432	cç	consonant	c-c	2
 1794	RA	trp	Tripuri	1	66062	30	ɡ	consonant	c	1
 1794	RA	trp	Tripuri	1	66063	433	ɟʝ	consonant	c-c	2
 1794	RA	trp	Tripuri	1	66064	14	ŋ	consonant	c	1
-1794	RA	trp	Tripuri	1	66065	27	ç	consonant	c-d	2
+1794	RA	trp	Tripuri	1	66065	27	ç	consonant	c	1
 1794	RA	trp	Tripuri	1	66066	264	n̪	consonant	c-d	2
 1794	RA	trp	Tripuri	1	66067	257	t̪ʰ	consonant	c-d-c	3
 1794	RA	trp	Tripuri	1	66068	76	ɔ	vowel	v	1
 1794	RA	trp	Tripuri	1	66069	24	ɛ	vowel	v	1
 1794	RA	trp	Tripuri	1	66070	80	r	consonant	c	1
-1794	RA	trp	Tripuri	1	66071	444	cçʰ	consonant	c-c-d-c	4
+1794	RA	trp	Tripuri	1	66071	444	cçʰ	consonant	c-c-c	3
 1794	RA	trp	Tripuri	1	66072	12	a	vowel	v	1
 1794	RA	trp	Tripuri	1	66073	20	pʰ	consonant	c-c	2
 1794	RA	trp	Tripuri	1	66074	45	b	consonant	c	1
@@ -66092,12 +66092,12 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1795	RA	tcy	Tulu	1	66091	232	ɳ	consonant	c	1
 1795	RA	tcy	Tulu	1	66092	80	r	consonant	c	1
 1795	RA	tcy	Tulu	1	66093	269	t̪	consonant	c-d	2
-1795	RA	tcy	Tulu	1	66094	432	cç	consonant	c-c-d	3
+1795	RA	tcy	Tulu	1	66094	432	cç	consonant	c-c	2
 1795	RA	tcy	Tulu	1	66095	11	eː	vowel	v-d	2
 1795	RA	tcy	Tulu	1	66096	283	ɭ	consonant	c	1
 1795	RA	tcy	Tulu	1	66097	433	ɟʝ	consonant	c-c	2
 1795	RA	tcy	Tulu	1	66098	14	ŋ	consonant	c	1
-1795	RA	tcy	Tulu	1	66099	27	ç	consonant	c-d	2
+1795	RA	tcy	Tulu	1	66099	27	ç	consonant	c	1
 1795	RA	tcy	Tulu	1	66100	15	uː	vowel	v-d	2
 1795	RA	tcy	Tulu	1	66101	157	ɑ	vowel	v	1
 1795	RA	tcy	Tulu	1	66102	24	ɛ	vowel	v	1
@@ -66176,7 +66176,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1797	RA	urd	Urdu	1	66175	239	ẽ̞	vowel	v-d-c	3
 1797	RA	urd	Urdu	1	66176	236	d̪	consonant	c-d	2
 1797	RA	urd	Urdu	1	66177	66	ʝ	consonant	c	1
-1797	RA	urd	Urdu	1	66178	444	cçʰ	consonant	c-c-d-c	4
+1797	RA	urd	Urdu	1	66178	444	cçʰ	consonant	c-c-c	3
 1797	RA	urd	Urdu	1	66179	324	ʊ̃	vowel	v-c	2
 1797	RA	urd	Urdu	1	66180	246	ɖ̤	consonant	c-d	2
 1797	RA	urd	Urdu	1	66181	224	ʈʰ	consonant	c-c	2
@@ -66184,7 +66184,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1797	RA	urd	Urdu	1	66183	8	kʰ	consonant	c-c	2
 1797	RA	urd	Urdu	1	66184	252	d̪̤	consonant	c-d-d	3
 1797	RA	urd	Urdu	1	66185	269	t̪	consonant	c-d	2
-1797	RA	urd	Urdu	1	66186	432	cç	consonant	c-c-d	3
+1797	RA	urd	Urdu	1	66186	432	cç	consonant	c-c	2
 1797	RA	urd	Urdu	1	66187	251	ĩː	vowel	v-c-d	3
 1797	RA	urd	Urdu	1	66188	14	ŋ	consonant	c	1
 1797	RA	urd	Urdu	1	66189	2847	ɟ̤ʝ	consonant	c-d-c	3
@@ -66193,7 +66193,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1797	RA	urd	Urdu	1	66192	1158	ɑ̃ː	vowel	v-c-d	3
 1797	RA	urd	Urdu	1	66193	175	f	consonant	c	1
 1797	RA	urd	Urdu	1	66194	565	ə̃	vowel	v-c	2
-1797	RA	urd	Urdu	1	66195	27	ç	consonant	c-d	2
+1797	RA	urd	Urdu	1	66195	27	ç	consonant	c	1
 1797	RA	urd	Urdu	1	66196	90	ɣ	consonant	c	1
 1797	RA	urd	Urdu	1	66197	257	t̪ʰ	consonant	c-d-c	3
 1797	RA	urd	Urdu	1	66198	76	ɔ	vowel	v	1
@@ -66230,13 +66230,13 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1798	RA	vaa	Vaagri Boli	1	66229	7	aː	vowel	v-d	2
 1798	RA	vaa	Vaagri Boli	1	66230	80	r	consonant	c	1
 1798	RA	vaa	Vaagri Boli	1	66231	9	u	vowel	v	1
-1798	RA	vaa	Vaagri Boli	1	66232	432	cç	consonant	c-c-d	3
+1798	RA	vaa	Vaagri Boli	1	66232	432	cç	consonant	c-c	2
 1798	RA	vaa	Vaagri Boli	1	66233	11	eː	vowel	v-d	2
 1798	RA	vaa	Vaagri Boli	1	66234	332	ɪ̃	vowel	v-c	2
 1798	RA	vaa	Vaagri Boli	1	66235	30	ɡ	consonant	c	1
 1798	RA	vaa	Vaagri Boli	1	66236	433	ɟʝ	consonant	c-c	2
 1798	RA	vaa	Vaagri Boli	1	66237	14	ŋ	consonant	c	1
-1798	RA	vaa	Vaagri Boli	1	66238	27	ç	consonant	c-d	2
+1798	RA	vaa	Vaagri Boli	1	66238	27	ç	consonant	c	1
 1798	RA	vaa	Vaagri Boli	1	66239	15	uː	vowel	v-d	2
 1798	RA	vaa	Vaagri Boli	1	66240	229	ɖ	consonant	c	1
 1798	RA	vaa	Vaagri Boli	1	66241	10	oː	vowel	v-d	2
@@ -66268,7 +66268,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1799	RA	yea	Yerava	1	66267	7	aː	vowel	v-d	2
 1799	RA	yea	Yerava	1	66268	80	r	consonant	c	1
 1799	RA	yea	Yerava	1	66269	269	t̪	consonant	c-d	2
-1799	RA	yea	Yerava	1	66270	432	cç	consonant	c-c-d	3
+1799	RA	yea	Yerava	1	66270	432	cç	consonant	c-c	2
 1799	RA	yea	Yerava	1	66271	11	eː	vowel	v-d	2
 1799	RA	yea	Yerava	1	66272	30	ɡ	consonant	c	1
 1799	RA	yea	Yerava	1	66273	283	ɭ	consonant	c	1
@@ -66307,7 +66307,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1800	RA	yeu	Yerukala	1	66306	232	ɳ	consonant	c	1
 1800	RA	yeu	Yerukala	1	66307	7	aː	vowel	v-d	2
 1800	RA	yeu	Yerukala	1	66308	9	u	vowel	v	1
-1800	RA	yeu	Yerukala	1	66309	432	cç	consonant	c-c-d	3
+1800	RA	yeu	Yerukala	1	66309	432	cç	consonant	c-c	2
 1800	RA	yeu	Yerukala	1	66310	251	ĩː	vowel	v-c-d	3
 1800	RA	yeu	Yerukala	1	66311	11	eː	vowel	v-d	2
 1800	RA	yeu	Yerukala	1	66312	332	ɪ̃	vowel	v-c	2
@@ -66336,7 +66336,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1800	RA	yeu	Yerukala	1	66335	37	ɾ	consonant	c	1
 1801	SAPHON	alc	Kawesqar	1	66336	5	o	vowel	v	1
 1801	SAPHON	alc	Kawesqar	1	66337	79	β	consonant	c	1
-1801	SAPHON	alc	Kawesqar	1	66338	432	cç	consonant	c-c-d	3
+1801	SAPHON	alc	Kawesqar	1	66338	432	cç	consonant	c-c	2
 1801	SAPHON	alc	Kawesqar	1	66339	119	kʼ	consonant	c-c	2
 1801	SAPHON	alc	Kawesqar	1	66340	198	cʼ	consonant	c-c	2
 1801	SAPHON	alc	Kawesqar	1	66341	12	a	vowel	v	1
@@ -66500,7 +66500,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66499	50	ts	consonant	c-c	2
 1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66500	7	aː	vowel	v-d	2
 1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66501	1109	ɾʲ	consonant	c-d	2
-1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66502	27	ç	consonant	c-d	2
+1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66502	27	ç	consonant	c	1
 1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66503	2867	N	consonant	c	1
 1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66504	2866	tʃ	consonant	c-c	2
 1807	SAPHON	cpc	Ashéninka (Apurucayali dialect)	1	66505	10	oː	vowel	v-d	2
@@ -67365,10 +67365,10 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1841	SAPHON	pib	Yine	1	67364	50	ts	consonant	c-c	2
 1841	SAPHON	pib	Yine	1	67365	7	aː	vowel	v-d	2
 1841	SAPHON	pib	Yine	1	67366	811	h̃	consonant	c-c	2
-1841	SAPHON	pib	Yine	1	67367	432	cç	consonant	c-c-d	3
+1841	SAPHON	pib	Yine	1	67367	432	cç	consonant	c-c	2
 1841	SAPHON	pib	Yine	1	67368	17	ɯː	vowel	v-d	2
 1841	SAPHON	pib	Yine	1	67369	11	eː	vowel	v-d	2
-1841	SAPHON	pib	Yine	1	67370	27	ç	consonant	c-d	2
+1841	SAPHON	pib	Yine	1	67370	27	ç	consonant	c	1
 1841	SAPHON	pib	Yine	1	67371	2866	tʃ	consonant	c-c	2
 1841	SAPHON	pib	Yine	1	67372	10	oː	vowel	v-d	2
 1841	SAPHON	pib	Yine	1	67373	12	a	vowel	v	1
@@ -67621,7 +67621,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1852	SAPHON	jqr	Jaqaru	1	67620	119	kʼ	consonant	c-c	2
 1852	SAPHON	jqr	Jaqaru	1	67621	46	s	consonant	c	1
 1852	SAPHON	jqr	Jaqaru	1	67622	14	ŋ	consonant	c	1
-1852	SAPHON	jqr	Jaqaru	1	67623	27	ç	consonant	c-d	2
+1852	SAPHON	jqr	Jaqaru	1	67623	27	ç	consonant	c	1
 1852	SAPHON	jqr	Jaqaru	1	67624	208	c	consonant	c	1
 1852	SAPHON	jqr	Jaqaru	1	67625	15	uː	vowel	v-d	2
 1852	SAPHON	jqr	Jaqaru	1	67626	33	m	consonant	c	1
@@ -68749,7 +68749,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1900	SAPHON	noa	Woun Meu	1	68748	590	ẽ	vowel	v-c	2
 1900	SAPHON	noa	Woun Meu	1	68749	12	a	vowel	v	1
 1900	SAPHON	noa	Woun Meu	1	68750	528	ɯ̃	vowel	v-c	2
-1900	SAPHON	noa	Woun Meu	1	68751	27	ç	consonant	c-d	2
+1900	SAPHON	noa	Woun Meu	1	68751	27	ç	consonant	c	1
 1900	SAPHON	noa	Woun Meu	1	68752	22	ɤ	vowel	v	1
 1900	SAPHON	noa	Woun Meu	1	68753	30	ɡ	consonant	c	1
 1900	SAPHON	noa	Woun Meu	1	68754	20	pʰ	consonant	c-c	2
@@ -69696,7 +69696,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1933	SAPHON	myr	Muniche	1	69695	223	ʈʂ	consonant	c-c	2
 1933	SAPHON	myr	Muniche	1	69696	50	ts	consonant	c-c	2
 1933	SAPHON	myr	Muniche	1	69697	12	a	vowel	v	1
-1933	SAPHON	myr	Muniche	1	69698	27	ç	consonant	c-d	2
+1933	SAPHON	myr	Muniche	1	69698	27	ç	consonant	c	1
 1933	SAPHON	myr	Muniche	1	69699	2866	tʃ	consonant	c-c	2
 1933	SAPHON	myr	Muniche	1	69700	30	ɡ	consonant	c	1
 1933	SAPHON	myr	Muniche	1	69701	208	c	consonant	c	1
@@ -70599,7 +70599,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1967	SAPHON	mbl	Maxakalí	1	70598	21	e	vowel	v	1
 1967	SAPHON	mbl	Maxakalí	1	70599	5	o	vowel	v	1
 1967	SAPHON	mbl	Maxakalí	1	70600	25	i	vowel	v	1
-1967	SAPHON	mbl	Maxakalí	1	70601	27	ç	consonant	c-d	2
+1967	SAPHON	mbl	Maxakalí	1	70601	27	ç	consonant	c	1
 1967	SAPHON	mbl	Maxakalí	1	70602	29	k	consonant	c	1
 1967	SAPHON	mbl	Maxakalí	1	70603	33	m	consonant	c	1
 1967	SAPHON	mbl	Maxakalí	1	70604	528	ɯ̃	vowel	v-c	2
@@ -71285,7 +71285,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 1991	SAPHON	jup	Hup	2	71284	243	ũ	vowel	v-c	2
 1991	SAPHON	jup	Hup	2	71285	601	ɨ̃	vowel	v-c	2
 1991	SAPHON	jup	Hup	2	71286	12	a	vowel	v	1
-1991	SAPHON	jup	Hup	2	71287	27	ç	consonant	c-d	2
+1991	SAPHON	jup	Hup	2	71287	27	ç	consonant	c	1
 1991	SAPHON	jup	Hup	2	71288	250	ã	vowel	v-c	2
 1991	SAPHON	jup	Hup	2	71289	196	ɡ̰	consonant	c-d	2
 1991	SAPHON	jup	Hup	2	71290	76	ɔ	vowel	v	1
@@ -72525,8 +72525,8 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 2045	SAPHON	cav	Cavineña	1	72524	927	ʎ	consonant	c	1
 2045	SAPHON	cav	Cavineña	1	72525	50	ts	consonant	c-c	2
 2045	SAPHON	cav	Cavineña	1	72526	377	kʷ	consonant	c-d	2
-2045	SAPHON	cav	Cavineña	1	72527	432	cç	consonant	c-c-d	3
-2045	SAPHON	cav	Cavineña	1	72528	27	ç	consonant	c-d	2
+2045	SAPHON	cav	Cavineña	1	72527	432	cç	consonant	c-c	2
+2045	SAPHON	cav	Cavineña	1	72528	27	ç	consonant	c	1
 2045	SAPHON	cav	Cavineña	1	72529	209	ɟ	consonant	c	1
 2045	SAPHON	cav	Cavineña	1	72530	12	a	vowel	v	1
 2045	SAPHON	cav	Cavineña	1	72531	208	c	consonant	c	1
@@ -73339,7 +73339,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 2080	SAPHON	gvo	Gavião do Jiparaná	1	73338	50	ts	consonant	c-c	2
 2080	SAPHON	gvo	Gavião do Jiparaná	1	73339	79	β	consonant	c	1
 2080	SAPHON	gvo	Gavião do Jiparaná	1	73340	601	ɨ̃	vowel	v-c	2
-2080	SAPHON	gvo	Gavião do Jiparaná	1	73341	432	cç	consonant	c-c-d	3
+2080	SAPHON	gvo	Gavião do Jiparaná	1	73341	432	cç	consonant	c-c	2
 2080	SAPHON	gvo	Gavião do Jiparaná	1	73342	12	a	vowel	v	1
 2080	SAPHON	gvo	Gavião do Jiparaná	1	73343	433	ɟʝ	consonant	c-c	2
 2080	SAPHON	gvo	Gavião do Jiparaná	1	73344	14	ŋ	consonant	c	1
@@ -74507,7 +74507,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 2124	SAPHON	xwa	Kwaza	1	74506	5	o	vowel	v	1
 2124	SAPHON	xwa	Kwaza	1	74507	50	ts	consonant	c-c	2
 2124	SAPHON	xwa	Kwaza	1	74508	601	ɨ̃	vowel	v-c	2
-2124	SAPHON	xwa	Kwaza	1	74509	432	cç	consonant	c-c-d	3
+2124	SAPHON	xwa	Kwaza	1	74509	432	cç	consonant	c-c	2
 2124	SAPHON	xwa	Kwaza	1	74510	250	ã	vowel	v-c	2
 2124	SAPHON	xwa	Kwaza	1	74511	342	ɛ̃	vowel	v-c	2
 2124	SAPHON	xwa	Kwaza	1	74512	391	ɓ	consonant	c	1
@@ -75081,7 +75081,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75080	8	kʰ	consonant	c-c	2
 2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75081	119	kʼ	consonant	c-c	2
 2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75082	14	ŋ	consonant	c	1
-2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75083	27	ç	consonant	c-d	2
+2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75083	27	ç	consonant	c	1
 2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75084	2872	tʃʼ	consonant	c-c-c	3
 2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75085	2868	tʃʰ	consonant	c-c-c	3
 2145	SAPHON	ayr	Aymara (Chilean dialect)	1	75086	2866	tʃ	consonant	c-c	2
@@ -75364,7 +75364,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	PhonemeID	GlyphID	Phoneme	Cla
 2155	SAPHON	trn	Trinitario	1	75363	79	β	consonant	c	1
 2155	SAPHON	trn	Trinitario	1	75364	11	eː	vowel	v-d	2
 2155	SAPHON	trn	Trinitario	1	75365	12	a	vowel	v	1
-2155	SAPHON	trn	Trinitario	1	75366	27	ç	consonant	c-d	2
+2155	SAPHON	trn	Trinitario	1	75366	27	ç	consonant	c	1
 2155	SAPHON	trn	Trinitario	1	75367	15	uː	vowel	v-d	2
 2155	SAPHON	trn	Trinitario	1	75368	2866	tʃ	consonant	c-c	2
 2155	SAPHON	trn	Trinitario	1	75369	10	oː	vowel	v-d	2
