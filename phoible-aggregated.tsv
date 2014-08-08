@@ -647,209 +647,209 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 646	UPSID	zoc	ZOQUE	1	mizo	Mixe-Zoque	Mexico	America	10,000	17:03	-93:15	22	16	0	6
 647	UPSID	zul	ZULU	2	ncon	Bantoid	South Africa	Africa	9,980,000	-29:0	30:0	37	32	0	5
 648	UPSID	zun	ZUNI	2	nais	Zuni	United States	America	9,650	34:55	109:0	25	20	0	5
-649	C&H	abi	abidji	2	ncon	Kwa	Côte d'Ivoire	Africa	50,500	05:40	-04:35	39	21	0	18
-650	C&H	adj	adioukrou	2	ncon	Kwa	Côte d'Ivoire	Africa	100,000	05:40	04:30	31	21	3	7
-651	C&H	ajg	adja (Bénin)	1	ncon	Kwa	Benin	Africa	360,000	07:00	01:45	45	28	5	12
-652	C&H	ajg	adja (Togo)	2	ncon	Kwa	Benin	Africa	360,000	07:00	01:45	37	23	0	14
-653	C&H	mtb	agni sanvi	2	ncon	Kwa	Côte d'Ivoire	Africa	300,000	06:10	-04:40	37	21	0	16
-654	C&H	ahl	ahlõ	2	ncon	Kwa	Togo	Africa	6,000	06:40	00:40	33	23	3	7
-655	C&H	aka	akan	4	ncon	Kwa	Ghana	Africa	8,300,000	06:30	-01:30	31	18	4	9
-656	C&H	bss	akɔɔse (bakossi)	2	ncon	Bantoid	Cameroon	Africa	100,000	05:00	09:40	44	22	4	18
-657	C&H	anc	angas	3	afas	West Chadic	Nigeria	Africa	400,000	09:30	09:30	36	24	3	9
-658	C&H	cko	anufɔ 	2	ncon	Kwa	Ghana	Africa	66,000	10:25	00:30	43	22	2	19
-659	C&H	apd	arabe	1	afas	Semitic	Sudan	Africa	15,000,000	NULL	NULL	62	54	0	8
-660	C&H	avu	avokaya	1	nsah	Moru-Madi	Sudan	Africa	40,000	04:55	30:0	55	37	4	14
-661	C&H	bav	babungo (grassfields bantu, ring)	1	ncon	Bantoid	Cameroon	Africa	27,000	06:07	10:25	82	56	9	17
-662	C&H	bfd	bafut	1	ncon	Bantoid	Cameroon	Africa	105,000	06:10	10:10	49	21	10	18
-663	C&H	bkc	baka	2	ncon	Ubangi	Cameroon	Africa	40,000	02:30	15:30	38	25	6	7
-664	C&H	bam	bambara	3	ncon	Western Mande	Mali	Africa	2,700,000	10:05	-07:10	43	20	2	21
-665	C&H	bfl	banda (CAF)	1	ncon	Adamawa	Central African Republic	Africa	35,500	08:00	22:00	45	32	5	8
-666	C&H	bfl	banda (Sudan)	2	ncon	Adamawa	Central African Republic	Africa	35,500	08:00	22:00	46	33	3	10
-667	C&H	bza	bandi (gbande)	1	ncon	Western Mande	Liberia	Africa	100,000	08:00	-10:10	48	23	4	21
-668	C&H	bci	baoulé (baule; baulé)	2	ncon	Kwa	Côte d'Ivoire	Africa	2,130,000	07:00	-5:0	37	21	4	12
-669	C&H	bba	bariba	2	ncon	Gur	Benin	Africa	460,000	10:20	02:30	31	17	2	12
-670	C&H	bas	basaa	1	ncon	Bantoid	Cameroon	Africa	230,000	04:00	10:30	41	29	5	7
-671	C&H	bsq	bassa	1	ncon	Kru	Liberia	Africa	403,000	06:00	-09:30	36	22	7	7
-672	C&H	bud	bassar 	2	ncon	Gur	Togo	Africa	100,000	10:05	00:30	30	21	3	6
-673	C&H	btg	bété	1	ncon	Kru	Côte d'Ivoire	Africa	150,000	06:00	-6:0	51	23	2	26
-674	C&H	bkv	bekwarra	1	ncon	Cross River	Nigeria	Africa	100,000	06:45	08:55	36	23	3	10
-675	C&H	bom	berom	2	ncon	Platoid	Nigeria	Africa	300,000	09:45	08:50	31	24	0	7
-676	C&H	nhb	bɛ̀ŋ (ngain)	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	17,000	07:45	-04:15	49	24	6	19
-677	C&H	bhy	bhele	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	15,000	00:15	28:30	28	19	2	7
-678	C&H	beh	biali	1	ncon	Gur	Benin	Africa	64,500	11:20	01:10	27	14	3	10
-679	C&H	bim	bimoba	1	ncon	Gur	Ghana	Africa	120,000	10:30	00:00	44	22	4	18
-680	C&H	bib	bisa	2	ncon	Eastern Mande	Burkina Faso	Africa	350,000	11:30	00:30	41	23	3	15
-681	C&H	bbo	bobo (boomu)	3	ncon	Western Mande	Burkina Faso	Africa	35,000	12:20	-04:20	40	20	2	18
-682	C&H	bqc	boussa (boko)	1	ncon	Eastern Mande	Benin	Africa	70,000	10:30	03:25	34	19	3	12
-683	C&H	bzx	bozo	1	ncon	Western Mande	Mali	Africa	118,000	13:55	-05:30	34	20	0	14
-684	C&H	bum	bulu	1	ncon	Bantoid	Cameroon	Africa	858,000	02:55	10:55	36	24	5	7
-685	C&H	cme	cerma 	1	ncon	Gur	Burkina Faso	Africa	61,400	10:10	-04:50	46	21	4	21
-686	C&H	ncu	chumburung	1	ncon	Kwa	Ghana	Africa	69,000	08:15	00:15	30	21	0	9
-687	C&H	dbq	daba	2	afas	Biu-Mandara	Cameroon	Africa	24,000	NULL	NULL	47	36	5	6
-688	C&H	dga	dagaare	1	ncon	Gur	Ghana	Africa	700,000	10:30	-02:30	54	24	3	27
-689	C&H	dgi	dagara	1	ncon	Gur	Burkina Faso	Africa	388,000	11:00	-3:0	41	29	3	9
-690	C&H	dag	dagbani	3	ncon	Gur	Ghana	Africa	800,000	09:30	00:30	31	23	2	6
-691	C&H	daf	dan 	3	ncon	Eastern Mande	Côte d'Ivoire	Africa	800,000	07:30	-07:45	48	20	5	23
-692	C&H	ada	dangme 	1	ncon	Kwa	Ghana	Africa	800,000	06:40	00:05	39	23	4	12
-693	C&H	dzg	daza	1	nsah	Western Saharan	Chad	Africa	331,000	17:00	18:00	32	21	0	11
-694	C&H	luo	dholuo	3	nsah	Nilotic	Kenya	Africa	4,270,000	01:20	34:30	38	26	3	9
-695	C&H	dic	dida	1	ncon	Kru	Côte d'Ivoire	Africa	93,800	05:45	-05:25	57	27	3	27
-696	C&H	dyu	dioula	1	ncon	Western Mande	Burkina Faso	Africa	1,000,000	10:15	-5:0	39	23	2	14
-697	C&H	tbz	ditammari	1	ncon	Gur	Benin	Africa	120,000	10:15	01:15	32	17	3	12
-698	C&H	dow	doayo	2	ncon	Adamawa	Cameroon	Africa	18,000	08:40	13:10	48	22	4	22
-699	C&H	dts	dogon 	2	ncon	Dogon	Mali	Africa	50,000	NULL	NULL	42	21	0	21
-700	C&H	dua	duala	1	ncon	Bantoid	Cameroon	Africa	87,700	04:10	09:25	33	21	5	7
-701	C&H	dug	duruma	2	ncon	Bantoid	Kenya	Africa	247,000	-4:0	39:15	49	42	2	5
-702	C&H	igb	ebira	1	ncon	Nupoid	Nigeria	Africa	1,000,000	07:15	06:10	31	19	3	9
-703	C&H	ewe	eʋe	3	ncon	Kwa	Ghana	Africa	2,250,000	06:30	00:30	42	27	3	12
-704	C&H	bin	ẹdo 	1	ncon	Edoid	Nigeria	Africa	1,000,000	06:20	06:00	48	25	2	21
-705	C&H	izi	ẹzaa	3	ncon	Igboid	Nigeria	Africa	593,000	06:15	08:00	38	27	2	9
-706	C&H	etu	ejagham de l'ouest	3	ncon	Bantoid	Nigeria	Africa	67,300	05:58	08:42	32	21	4	7
-707	C&H	ema	emai	1	ncon	Edoid	Nigeria	Africa	100,000	07:05	06:00	48	27	0	21
-708	C&H	enn	engenni	1	ncon	Edoid	Nigeria	Africa	20,000	05:10	06:25	33	20	3	10
-709	C&H	ewo	ewondo	2	ncon	Bantoid	Cameroon	Africa	578,000	04:00	12:00	25	15	3	7
-710	C&H	fmp	fe'efe'fe	2	ncon	Bantoid	Cameroon	Africa	124,000	05:10	10:10	44	23	5	16
-711	C&H	fon	fɔn	1	ncon	Kwa	Benin	Africa	1,400,000	07:15	02:05	42	24	4	14
-712	C&H	fub	fulfulde (Cameroon)	4	ncon	Northern Atlantic	Cameroon	Africa	669,000	07:00	13:30	34	24	0	10
-713	C&H	fuq	fulfulde (Niger)	1	ncon	Northern Atlantic	Niger	Africa	450,000	15:00	07:00	37	27	0	10
-714	C&H	ffm	fulfulde (Mali)	1	ncon	Northern Atlantic	Mali	Africa	1,000,000	16:00	-2:0	37	27	0	10
-715	C&H	fuh	fulfulde (Burkina Faso)	1	ncon	Northern Atlantic	Niger	Africa	450,000	14:00	02:00	32	27	0	5
-716	C&H	flr	fuliru	2	ncon	Bantoid	Democratic Republic of the Congo	Africa	300,000	-03:05	29:0	35	25	0	10
-717	C&H	gaa	ga	3	ncon	Kwa	Ghana	Africa	600,000	05:40	00:10	38	24	2	12
-718	C&H	gng	gangam	1	ncon	Gur	Togo	Africa	46,000	10:25	00:50	39	22	3	14
-719	C&H	gya	gbaya (Northwest, CAR)	1	ncon	Ubangi	Central African Republic	Africa	200,000	06:00	15:00	53	30	4	19
-720	C&H	gbp	gbaya (Bossangoa, CAR)	3	ncon	Ubangi	Central African Republic	Africa	200,000	06:40	17:30	45	29	4	12
-721	C&H	gej	gɛn-mina (Benin)	1	ncon	Kwa	Togo	Africa	201,000	06:15	01:45	44	27	3	14
-722	C&H	gej	gɛn-mina (Togo)	2	ncon	Kwa	Togo	Africa	201,000	06:15	01:45	40	25	3	12
-723	C&H	god	godié	1	ncon	Kru	Côte d'Ivoire	Africa	26,400	05:30	-05:50	42	26	3	13
-724	C&H	gjn	gonja	1	ncon	Kwa	Ghana	Africa	230,000	08:50	00:45	39	23	2	14
-725	C&H	gbo	grebo	1	ncon	Kru	Liberia	Africa	84,500	05:15	-8:0	36	19	4	13
-726	C&H	gde	guɗe	2	afas	Biu-Mandara	Nigeria	Africa	68,000	10:10	13:25	36	30	2	4
-727	C&H	gux	gulmancema 	1	ncon	Gur	Burkina Faso	Africa	600,000	12:00	01:00	33	20	3	10
-728	C&H	hag	hanga	1	ncon	Gur	Ghana	Africa	6,800	09:20	-01:35	29	23	0	6
-729	C&H	hau	hausa (Niger)	3	afas	West Chadic	Nigeria	Africa	18,500,000	12:00	06:00	43	33	0	10
-730	C&H	hau	hausa (Nigeria)	4	afas	West Chadic	Nigeria	Africa	18,500,000	12:00	06:00	31	25	0	6
-731	C&H	ife	ifɛ̀	1	ncon	Defoid	Togo	Africa	102,000	08:00	01:45	34	19	3	12
-732	C&H	ibo	igbo	3	ncon	Igboid	Nigeria	Africa	18,000,000	06:00	07:00	36	28	0	8
-733	C&H	ige	igede	1	ncon	Idomoid	Nigeria	Africa	250,000	07:05	08:05	38	24	4	10
-734	C&H	ijs	ijo de l'est; Eastern Ijo (Okrika)	1	ncon	Ijoid	Nigeria	Africa	71,500	04:30	06:25	44	24	2	18
-735	C&H	izi	ikwo	1	ncon	Igboid	Nigeria	Africa	593,000	06:15	08:00	40	29	2	9
-736	C&H	izi	izi	2	ncon	Igboid	Nigeria	Africa	593,000	06:15	08:00	51	40	2	9
-737	C&H	dyo	joola 	2	ncon	Northern Atlantic	Senegal	Africa	340,000	13:00	-16:0	29	19	0	10
-738	C&H	bex	jur mödö	1	nsah	Bongo-Bagirmi	Sudan	Africa	100,000	06:00	30:0	49	31	0	18
-739	C&H	kbp	kabiyɛ	2	ncon	Gur	Togo	Africa	700,000	08:40	01:00	47	24	0	23
-740	C&H	kkj	kakɔ	2	ncon	Bantoid	Cameroon	Africa	100,000	04:20	14:15	50	33	4	13
-741	C&H	bqx	kambari	1	ncon	Kainji	Nigeria	Africa	15,000	10:50	05:45	56	28	1	27
-742	C&H	knc	kanuri	3	nsah	Western Saharan	Nigeria	Africa	3,000,000	12:00	12:00	25	18	0	7
-743	C&H	kza	karaboro	1	ncon	Gur	Burkina Faso	Africa	30,200	10:35	-04:50	45	20	4	21
-744	C&H	kzr	karaŋ	1	ncon	Adamawa	Cameroon	Africa	17,000	07:40	15:00	40	30	4	6
-745	C&H	xsm	kasem	1	ncon	Gur	Burkina Faso	Africa	120,000	11:10	-01:10	40	19	1	20
-746	C&H	xsm	kasɩm	2	ncon	Gur	Burkina Faso	Africa	120,000	11:10	-01:10	45	21	4	20
-747	C&H	ozm	kɔɔzime	1	ncon	Bantoid	Cameroon	Africa	30,000	NULL	NULL	52	22	6	24
-748	C&H	kik	kikuyu	1	ncon	Bantoid	Kenya	Africa	7,180,000	00:30	37:0	32	18	0	14
-749	C&H	kqs	kisiei	1	ncon	Southern Atlantic	Guinea	Africa	287,000	09:00	-10:0	42	22	0	20
-750	C&H	bkm	kom	1	ncon	Bantoid	Cameroon	Africa	233,000	06:15	10:20	75	59	7	9
-751	C&H	kmw	komo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400,000	00:15	26:30	35	24	4	7
-752	C&H	xon	konkomba	2	ncon	Gur	Ghana	Africa	500,000	09:55	00:05	42	22	8	12
-753	C&H	xpe	kpelle	3	ncon	Western Mande	Liberia	Africa	487,000	07:00	-10:0	45	21	3	21
-754	C&H	gkp	kpɛlɛwoo	2	ncon	Western Mande	Guinea	Africa	308,000	08:00	-9:0	35	27	0	8
-755	C&H	krs	kresh	1	nsah	Kresh	Sudan	Africa	16,000	08:35	25:0	56	41	5	10
-756	C&H	kri	krio	2	afpc	Creoles and Pidgins	Sierra Leone	Africa	473,000	08:20	-13:10	32	22	0	10
-757	C&H	ted	kroumen tépo	1	ncon	Kru	Côte d'Ivoire	Africa	28,300	04:40	-07:25	39	17	4	18
-758	C&H	kuj	kuria	1	ncon	Bantoid	Tanzania	Africa	430,000	-01:35	35:0	22	15	0	7
-759	C&H	kus	kusal	1	ncon	Gur	Ghana	Africa	420,000	10:55	00:20	44	22	0	22
-760	C&H	las	lama	1	ncon	Gur	Togo	Africa	117,000	10:05	01:00	53	17	3	33
-761	C&H	lln	lele	2	afas	East Chadic	Chad	Africa	26,000	09:10	15:45	36	23	3	10
-762	C&H	led	lendu	1	nsah	Lendu	Democratic Republic of the Congo	Africa	750,000	02:20	30:35	55	43	4	8
-763	C&H	lom	lɔgɔmagooi	2	ncon	Western Mande	Liberia	Africa	165,000	08:00	-09:50	42	28	0	14
-764	C&H	lok	lɔkɔ	1	ncon	Western Mande	Sierra Leone	Africa	138,000	09:15	-12:0	25	18	0	7
-765	C&H	lig	ligbi	1	ncon	Western Mande	Ghana	Africa	15,000	07:55	-02:25	38	22	2	14
-766	C&H	lia	limba	1	ncon	Southern Atlantic	Sierra Leone	Africa	335,000	09:40	-12:0	24	17	0	7
-767	C&H	lmp	limbum	4	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	35	22	6	7
-768	C&H	lin	lingala	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	2,040,000	02:00	18:30	22	15	0	7
-769	C&H	dop	lokpa 	1	ncon	Gur	Benin	Africa	50,000	09:45	01:25	37	17	0	20
-770	C&H	lug	luganda	1	ncon	Bantoid	Uganda	Africa	4,130,000	00:30	32:0	33	19	4	10
-771	C&H	lgg	lugbara	3	nsah	Moru-Madi	Uganda	Africa	797,000	03:00	31:0	39	26	3	10
-772	C&H	lee	lyélé	2	ncon	Gur	Burkina Faso	Africa	130,000	12:25	-02:35	44	24	4	16
-773	C&H	mcu	mambila (Cameroon)	3	ncon	Bantoid	Cameroon	Africa	30,000	06:30	11:30	40	24	4	12
-774	C&H	mzk	mambila (Nigeria)	1	ncon	Bantoid	Nigeria	Africa	99,000	06:45	11:25	43	25	2	16
-775	C&H	maw	mampruli	2	ncon	Gur	Ghana	Africa	220,000	10:20	00:55	32	22	0	10
-776	C&H	mlq	mande	1	ncon	Western Mande	Senegal	Africa	422,000	13:00	-11:0	27	20	0	7
-777	C&H	emk	manding 	1	ncon	Western Mande	Guinea	Africa	1,890,000	10:00	-9:0	36	20	2	14
-778	C&H	mdj	mangbetu (meje)	1	nsah	Mangbetu	Democratic Republic of the Congo	Africa	620,000	02:35	27:0	47	36	2	9
-779	C&H	mwk	maninka-kan	1	ncon	Western Mande	Mali	Africa	600,000	13:00	-09:30	33	19	0	14
-780	C&H	muh	mündü	1	ncon	Ubangi	Sudan	Africa	23,000	04:45	29:40	41	29	3	9
-781	C&H	mfn	mbembe	1	ncon	Cross River	Nigeria	Africa	100,000	05:50	08:25	37	28	2	7
-782	C&H	mbo	mboó	3	ncon	Bantoid	Cameroon	Africa	45,000	05:00	09:55	31	20	4	7
-783	C&H	mcp	mekaa	1	ncon	Bantoid	Cameroon	Africa	80,000	03:20	12:10	55	30	4	21
-784	C&H	men	mende	1	ncon	Western Mande	Sierra Leone	Africa	1,480,000	08:00	-11:30	34	23	4	7
-785	C&H	mgo	metta 	2	ncon	Bantoid	Cameroon	Africa	87,000	05:55	09:55	33	20	5	8
-786	C&H	myk	minyanka	1	ncon	Gur	Mali	Africa	738,000	12:30	-05:30	50	29	2	19
-787	C&H	mzw	mo (Deg)	1	ncon	Gur	Ghana	Africa	26,400	07:20	00:00	52	22	0	30
-788	C&H	mif	mofu-gudur	2	afas	Biu-Mandara	Cameroon	Africa	60,000	10:30	14:00	44	35	2	7
-789	C&H	mos	moore	1	ncon	Gur	Burkina Faso	Africa	5,000,000	12:30	-01:30	43	17	2	24
-790	C&H	moa	muan	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	17,000	07:50	-06:05	39	21	6	12
-791	C&H	mnf	mundani	1	ncon	Bantoid	Cameroon	Africa	34,000	05:40	09:55	41	23	4	14
-792	C&H	mkw	munukutuba	1	afpc	Creoles and Pidgins	Congo	Africa	1,160,000	-04:15	14:15	22	17	0	5
-793	C&H	mur	murle	2	nsah	Surmic	Sudan	Africa	60,000	06:30	34:0	34	20	0	14
-794	C&H	sur	mwaghavul 	1	afas	West Chadic	Nigeria	Africa	295,000	09:35	08:30	37	25	0	12
-795	C&H	nfr	nafaanra	1	ncon	Gur	Ghana	Africa	61,000	08:00	-02:30	44	25	0	19
-796	C&H	nmz	nawdm	1	ncon	Gur	Togo	Africa	146,000	08:40	01:00	35	21	0	14
-797	C&H	nuv	nʋni	1	ncon	Gur	Burkina Faso	Africa	50,000	12:10	-3:0	54	21	3	30
-798	C&H	lem	nɔmaa (nɔmaándɛ́)	1	ncon	Bantoid	Cameroon	Africa	6,000	04:35	10:55	30	14	2	14
-799	C&H	sba	ngambai	1	nsah	Bongo-Bagirmi	Chad	Africa	896,000	08:45	16:00	34	18	3	13
-800	C&H	nga	ngbaka	1	ncon	Ubangi	Democratic Republic of the Congo	Africa	1,010,000	03:40	20:00	34	22	0	12
-801	C&H	ngb	ngbandi	1	ncon	Ubangi	Democratic Republic of the Congo	Africa	250,000	03:50	22:20	31	19	0	12
-802	C&H	nnh	ngyembɔɔn	2	ncon	Bantoid	Cameroon	Africa	250,000	05:25	10:05	28	17	4	7
-803	C&H	nwb	niaboua	1	ncon	Kru	Côte d'Ivoire	Africa	42,700	06:48	-06:45	44	24	4	16
-804	C&H	lns	nsoʼ	1	ncon	Bantoid	Cameroon	Africa	125,000	06:10	10:45	45	26	7	12
-805	C&H	yas	nugunu	2	ncon	Bantoid	Cameroon	Africa	35,000	04:40	11:15	26	15	4	7
-806	C&H	nup	nupe	1	ncon	Nupoid	Nigeria	Africa	800,000	09:00	05:30	38	25	5	8
-807	C&H	mhi	pandikeri	1	nsah	Moru-Madi	Uganda	Africa	296,000	03:20	31:40	38	24	4	10
-808	C&H	pbi	podoko	1	afas	Biu-Mandara	Cameroon	Africa	30,000	11:00	14:06	35	31	0	4
-809	C&H	fuc	pulaar 	1	ncon	Northern Atlantic	Senegal	Africa	2,740,000	15:00	-14:0	38	28	0	10
-810	C&H	fuf	pular 	1	ncon	Northern Atlantic	Guinea	Africa	2,550,000	09:35	-12:50	38	28	0	10
-811	C&H	rel	rendille	1	afas	Eastern Cushitic	Kenya	Africa	34,700	02:00	37:30	33	21	2	10
-812	C&H	spy	sabaot	1	nsah	Nilotic	Kenya	Africa	279,000	01:00	34:45	31	13	0	18
-813	C&H	sag	sango (CAF)	3	afpc	Ubangi	Central African Republic	Africa	350,000	05:00	18:00	44	26	6	12
-814	C&H	sag	sango (COD)	2	afpc	Ubangi	Central African Republic	Africa	350,000	05:00	18:00	42	26	4	12
-815	C&H	seq	senoufo 	1	ncon	Gur	Burkina Faso	Africa	50,000	10:31	-05:19	51	19	4	28
-816	C&H	srr	sereer	1	ncon	Northern Atlantic	Senegal	Africa	1,130,000	16:30	-15:0	43	33	0	10
-817	C&H	sld	sissala (Burkina)	1	ncon	Gur	Burkina Faso	Africa	13,000	11:02	-02:30	51	22	2	27
-818	C&H	sld	sissala (Ghana)	2	ncon	Gur	Burkina Faso	Africa	13,000	11:02	-02:30	42	24	0	18
-819	C&H	khq	songhoy	2	nsah	Songhay	Mali	Africa	200,000	16:15	-03:30	36	21	0	15
-820	C&H	snk	soninke (Mali)	2	ncon	Western Mande	Mali	Africa	700,000	15:00	-9:0	39	24	0	15
-821	C&H	snk	sooninke (Senegal)	3	ncon	Western Mande	Mali	Africa	700,000	15:00	-9:0	52	34	4	14
-822	C&H	sus	soso	1	ncon	Western Mande	Guinea	Africa	906,000	10:00	-13:0	35	21	0	14
-823	C&H	swh	swahili	2	ncon	Bantoid	Tanzania	Africa	350,000	-05:05	39:50	37	32	0	5
-824	C&H	ttq	tamajaq	1	afas	Berber	Niger	Africa	450,000	15:00	04:00	37	23	0	14
-825	C&H	taq	tamasheq	1	afas	Berber	Mali	Africa	250,000	14:30	00:15	43	22	0	21
-826	C&H	yer	tarok 	2	ncon	Platoid	Nigeria	Africa	300,000	09:00	10:00	37	27	3	7
-827	C&H	lor	téén 	1	ncon	Gur	Côte d'Ivoire	Africa	6,100	10:00	-03:30	38	28	0	10
-828	C&H	tuq	teda	1	nsah	Western Saharan	Chad	Africa	28,500	20:00	19:00	35	24	0	11
-829	C&H	kdh	tem	1	ncon	Gur	Togo	Africa	204,000	09:00	01:00	36	25	2	9
-830	C&H	tfi	tɔfin	1	ncon	Kwa	Benin	Africa	66,000	06:40	02:38	41	23	4	14
-831	C&H	tem	themne	2	ncon	Southern Atlantic	Sierra Leone	Africa	1,230,000	08:45	-12:30	30	17	4	9
-832	C&H	tik	tikar	1	ncon	Bantoid	Cameroon	Africa	25,000	05:50	11:40	46	27	5	14
-833	C&H	toq	toposa	1	nsah	Nilotic	Sudan	Africa	100,000	05:20	34:0	27	17	1	9
-834	C&H	neb	toura	2	ncon	Eastern Mande	Côte d'Ivoire	Africa	38,500	07:40	-07:38	50	19	4	27
-835	C&H	tsp	toussian	1	ncon	Gur	Burkina Faso	Africa	19,500	11:10	-04:50	35	16	5	14
-836	C&H	vag	vagala	1	ncon	Gur	Ghana	Africa	13,500	09:23	-02:23	54	24	0	30
-837	C&H	vut	vute	1	ncon	Bantoid	Cameroon	Africa	20,000	05:10	12:10	59	30	5	24
-838	C&H	wwa	waama	1	ncon	Gur	Benin	Africa	50,000	10:35	01:40	41	13	3	25
-839	C&H	wan	wan	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	22,000	07:38	-05:48	36	21	3	12
-840	C&H	wob	wobé	1	ncon	Kru	Côte d'Ivoire	Africa	156,000	07:25	-07:20	48	15	6	27
-841	C&H	wol	wolof	3	ncon	Northern Atlantic	Senegal	Africa	3,930,000	15:30	-16:0	54	38	0	16
-842	C&H	yam	yamba	1	ncon	Bantoid	Cameroon	Africa	40,800	06:27	11:00	38	26	4	8
-843	C&H	yat	yambɛta	1	ncon	Bantoid	Cameroon	Africa	3,700	04:50	10:55	28	18	2	8
-844	C&H	yre	yaouré	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	24,600	07:00	-05:42	45	23	4	18
-845	C&H	ybb	yemba	2	ncon	Bantoid	Cameroon	Africa	300,000	05:27	10:00	35	21	6	8
-846	C&H	pil	yom 	1	ncon	Gur	Benin	Africa	74,000	09:50	01:50	38	25	4	9
-847	C&H	yor	yorouba (Benin)	2	ncon	Defoid	Nigeria	Africa	18,900,000	08:00	04:00	31	19	0	12
-848	C&H	yor	yorouba (Nigeria)	3	ncon	Defoid	Nigeria	Africa	18,900,000	08:00	04:00	32	18	3	11
-849	C&H	zne	zande	2	ncon	Ubangi	Democratic Republic of the Congo	Africa	730,000	04:15	26:0	32	24	3	5
-850	C&H	dje	zarma 	1	nsah	Songhay	Niger	Africa	2,350,000	15:25	02:00	40	20	4	16
-851	C&H	gnd	zulgo	1	afas	Biu-Mandara	Cameroon	Africa	26,000	10:50	14:05	34	29	3	2
+649	AA	abi	abidji	2	ncon	Kwa	Côte d'Ivoire	Africa	50,500	05:40	-04:35	39	21	0	18
+650	AA	adj	adioukrou	2	ncon	Kwa	Côte d'Ivoire	Africa	100,000	05:40	04:30	31	21	3	7
+651	AA	ajg	adja (Bénin)	1	ncon	Kwa	Benin	Africa	360,000	07:00	01:45	45	28	5	12
+652	AA	ajg	adja (Togo)	2	ncon	Kwa	Benin	Africa	360,000	07:00	01:45	37	23	0	14
+653	AA	mtb	agni sanvi	2	ncon	Kwa	Côte d'Ivoire	Africa	300,000	06:10	-04:40	37	21	0	16
+654	AA	ahl	ahlõ	2	ncon	Kwa	Togo	Africa	6,000	06:40	00:40	33	23	3	7
+655	AA	aka	akan	4	ncon	Kwa	Ghana	Africa	8,300,000	06:30	-01:30	31	18	4	9
+656	AA	bss	akɔɔse (bakossi)	2	ncon	Bantoid	Cameroon	Africa	100,000	05:00	09:40	44	22	4	18
+657	AA	anc	angas	3	afas	West Chadic	Nigeria	Africa	400,000	09:30	09:30	36	24	3	9
+658	AA	cko	anufɔ 	2	ncon	Kwa	Ghana	Africa	66,000	10:25	00:30	43	22	2	19
+659	AA	apd	arabe	1	afas	Semitic	Sudan	Africa	15,000,000	NULL	NULL	62	54	0	8
+660	AA	avu	avokaya	1	nsah	Moru-Madi	Sudan	Africa	40,000	04:55	30:0	55	37	4	14
+661	AA	bav	babungo (grassfields bantu, ring)	1	ncon	Bantoid	Cameroon	Africa	27,000	06:07	10:25	82	56	9	17
+662	AA	bfd	bafut	1	ncon	Bantoid	Cameroon	Africa	105,000	06:10	10:10	49	21	10	18
+663	AA	bkc	baka	2	ncon	Ubangi	Cameroon	Africa	40,000	02:30	15:30	38	25	6	7
+664	AA	bam	bambara	3	ncon	Western Mande	Mali	Africa	2,700,000	10:05	-07:10	43	20	2	21
+665	AA	bfl	banda (CAF)	1	ncon	Adamawa	Central African Republic	Africa	35,500	08:00	22:00	45	32	5	8
+666	AA	bfl	banda (Sudan)	2	ncon	Adamawa	Central African Republic	Africa	35,500	08:00	22:00	46	33	3	10
+667	AA	bza	bandi (gbande)	1	ncon	Western Mande	Liberia	Africa	100,000	08:00	-10:10	48	23	4	21
+668	AA	bci	baoulé (baule; baulé)	2	ncon	Kwa	Côte d'Ivoire	Africa	2,130,000	07:00	-5:0	37	21	4	12
+669	AA	bba	bariba	2	ncon	Gur	Benin	Africa	460,000	10:20	02:30	31	17	2	12
+670	AA	bas	basaa	1	ncon	Bantoid	Cameroon	Africa	230,000	04:00	10:30	41	29	5	7
+671	AA	bsq	bassa	1	ncon	Kru	Liberia	Africa	403,000	06:00	-09:30	36	22	7	7
+672	AA	bud	bassar 	2	ncon	Gur	Togo	Africa	100,000	10:05	00:30	30	21	3	6
+673	AA	btg	bété	1	ncon	Kru	Côte d'Ivoire	Africa	150,000	06:00	-6:0	51	23	2	26
+674	AA	bkv	bekwarra	1	ncon	Cross River	Nigeria	Africa	100,000	06:45	08:55	36	23	3	10
+675	AA	bom	berom	2	ncon	Platoid	Nigeria	Africa	300,000	09:45	08:50	31	24	0	7
+676	AA	nhb	bɛ̀ŋ (ngain)	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	17,000	07:45	-04:15	49	24	6	19
+677	AA	bhy	bhele	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	15,000	00:15	28:30	28	19	2	7
+678	AA	beh	biali	1	ncon	Gur	Benin	Africa	64,500	11:20	01:10	27	14	3	10
+679	AA	bim	bimoba	1	ncon	Gur	Ghana	Africa	120,000	10:30	00:00	44	22	4	18
+680	AA	bib	bisa	2	ncon	Eastern Mande	Burkina Faso	Africa	350,000	11:30	00:30	41	23	3	15
+681	AA	bbo	bobo (boomu)	3	ncon	Western Mande	Burkina Faso	Africa	35,000	12:20	-04:20	40	20	2	18
+682	AA	bqc	boussa (boko)	1	ncon	Eastern Mande	Benin	Africa	70,000	10:30	03:25	34	19	3	12
+683	AA	bzx	bozo	1	ncon	Western Mande	Mali	Africa	118,000	13:55	-05:30	34	20	0	14
+684	AA	bum	bulu	1	ncon	Bantoid	Cameroon	Africa	858,000	02:55	10:55	36	24	5	7
+685	AA	cme	cerma 	1	ncon	Gur	Burkina Faso	Africa	61,400	10:10	-04:50	46	21	4	21
+686	AA	ncu	chumburung	1	ncon	Kwa	Ghana	Africa	69,000	08:15	00:15	30	21	0	9
+687	AA	dbq	daba	2	afas	Biu-Mandara	Cameroon	Africa	24,000	NULL	NULL	47	36	5	6
+688	AA	dga	dagaare	1	ncon	Gur	Ghana	Africa	700,000	10:30	-02:30	54	24	3	27
+689	AA	dgi	dagara	1	ncon	Gur	Burkina Faso	Africa	388,000	11:00	-3:0	41	29	3	9
+690	AA	dag	dagbani	3	ncon	Gur	Ghana	Africa	800,000	09:30	00:30	31	23	2	6
+691	AA	daf	dan 	3	ncon	Eastern Mande	Côte d'Ivoire	Africa	800,000	07:30	-07:45	48	20	5	23
+692	AA	ada	dangme 	1	ncon	Kwa	Ghana	Africa	800,000	06:40	00:05	39	23	4	12
+693	AA	dzg	daza	1	nsah	Western Saharan	Chad	Africa	331,000	17:00	18:00	32	21	0	11
+694	AA	luo	dholuo	3	nsah	Nilotic	Kenya	Africa	4,270,000	01:20	34:30	38	26	3	9
+695	AA	dic	dida	1	ncon	Kru	Côte d'Ivoire	Africa	93,800	05:45	-05:25	57	27	3	27
+696	AA	dyu	dioula	1	ncon	Western Mande	Burkina Faso	Africa	1,000,000	10:15	-5:0	39	23	2	14
+697	AA	tbz	ditammari	1	ncon	Gur	Benin	Africa	120,000	10:15	01:15	32	17	3	12
+698	AA	dow	doayo	2	ncon	Adamawa	Cameroon	Africa	18,000	08:40	13:10	48	22	4	22
+699	AA	dts	dogon 	2	ncon	Dogon	Mali	Africa	50,000	NULL	NULL	42	21	0	21
+700	AA	dua	duala	1	ncon	Bantoid	Cameroon	Africa	87,700	04:10	09:25	33	21	5	7
+701	AA	dug	duruma	2	ncon	Bantoid	Kenya	Africa	247,000	-4:0	39:15	49	42	2	5
+702	AA	igb	ebira	1	ncon	Nupoid	Nigeria	Africa	1,000,000	07:15	06:10	31	19	3	9
+703	AA	ewe	eʋe	3	ncon	Kwa	Ghana	Africa	2,250,000	06:30	00:30	42	27	3	12
+704	AA	bin	ẹdo 	1	ncon	Edoid	Nigeria	Africa	1,000,000	06:20	06:00	48	25	2	21
+705	AA	izi	ẹzaa	3	ncon	Igboid	Nigeria	Africa	593,000	06:15	08:00	38	27	2	9
+706	AA	etu	ejagham de l'ouest	3	ncon	Bantoid	Nigeria	Africa	67,300	05:58	08:42	32	21	4	7
+707	AA	ema	emai	1	ncon	Edoid	Nigeria	Africa	100,000	07:05	06:00	48	27	0	21
+708	AA	enn	engenni	1	ncon	Edoid	Nigeria	Africa	20,000	05:10	06:25	33	20	3	10
+709	AA	ewo	ewondo	2	ncon	Bantoid	Cameroon	Africa	578,000	04:00	12:00	25	15	3	7
+710	AA	fmp	fe'efe'fe	2	ncon	Bantoid	Cameroon	Africa	124,000	05:10	10:10	44	23	5	16
+711	AA	fon	fɔn	1	ncon	Kwa	Benin	Africa	1,400,000	07:15	02:05	42	24	4	14
+712	AA	fub	fulfulde (Cameroon)	4	ncon	Northern Atlantic	Cameroon	Africa	669,000	07:00	13:30	34	24	0	10
+713	AA	fuq	fulfulde (Niger)	1	ncon	Northern Atlantic	Niger	Africa	450,000	15:00	07:00	37	27	0	10
+714	AA	ffm	fulfulde (Mali)	1	ncon	Northern Atlantic	Mali	Africa	1,000,000	16:00	-2:0	37	27	0	10
+715	AA	fuh	fulfulde (Burkina Faso)	1	ncon	Northern Atlantic	Niger	Africa	450,000	14:00	02:00	32	27	0	5
+716	AA	flr	fuliru	2	ncon	Bantoid	Democratic Republic of the Congo	Africa	300,000	-03:05	29:0	35	25	0	10
+717	AA	gaa	ga	3	ncon	Kwa	Ghana	Africa	600,000	05:40	00:10	38	24	2	12
+718	AA	gng	gangam	1	ncon	Gur	Togo	Africa	46,000	10:25	00:50	39	22	3	14
+719	AA	gya	gbaya (Northwest, CAR)	1	ncon	Ubangi	Central African Republic	Africa	200,000	06:00	15:00	53	30	4	19
+720	AA	gbp	gbaya (Bossangoa, CAR)	3	ncon	Ubangi	Central African Republic	Africa	200,000	06:40	17:30	45	29	4	12
+721	AA	gej	gɛn-mina (Benin)	1	ncon	Kwa	Togo	Africa	201,000	06:15	01:45	44	27	3	14
+722	AA	gej	gɛn-mina (Togo)	2	ncon	Kwa	Togo	Africa	201,000	06:15	01:45	40	25	3	12
+723	AA	god	godié	1	ncon	Kru	Côte d'Ivoire	Africa	26,400	05:30	-05:50	42	26	3	13
+724	AA	gjn	gonja	1	ncon	Kwa	Ghana	Africa	230,000	08:50	00:45	39	23	2	14
+725	AA	gbo	grebo	1	ncon	Kru	Liberia	Africa	84,500	05:15	-8:0	36	19	4	13
+726	AA	gde	guɗe	2	afas	Biu-Mandara	Nigeria	Africa	68,000	10:10	13:25	36	30	2	4
+727	AA	gux	gulmancema 	1	ncon	Gur	Burkina Faso	Africa	600,000	12:00	01:00	33	20	3	10
+728	AA	hag	hanga	1	ncon	Gur	Ghana	Africa	6,800	09:20	-01:35	29	23	0	6
+729	AA	hau	hausa (Niger)	3	afas	West Chadic	Nigeria	Africa	18,500,000	12:00	06:00	43	33	0	10
+730	AA	hau	hausa (Nigeria)	4	afas	West Chadic	Nigeria	Africa	18,500,000	12:00	06:00	31	25	0	6
+731	AA	ife	ifɛ̀	1	ncon	Defoid	Togo	Africa	102,000	08:00	01:45	34	19	3	12
+732	AA	ibo	igbo	3	ncon	Igboid	Nigeria	Africa	18,000,000	06:00	07:00	36	28	0	8
+733	AA	ige	igede	1	ncon	Idomoid	Nigeria	Africa	250,000	07:05	08:05	38	24	4	10
+734	AA	ijs	ijo de l'est; Eastern Ijo (Okrika)	1	ncon	Ijoid	Nigeria	Africa	71,500	04:30	06:25	44	24	2	18
+735	AA	izi	ikwo	1	ncon	Igboid	Nigeria	Africa	593,000	06:15	08:00	40	29	2	9
+736	AA	izi	izi	2	ncon	Igboid	Nigeria	Africa	593,000	06:15	08:00	51	40	2	9
+737	AA	dyo	joola 	2	ncon	Northern Atlantic	Senegal	Africa	340,000	13:00	-16:0	29	19	0	10
+738	AA	bex	jur mödö	1	nsah	Bongo-Bagirmi	Sudan	Africa	100,000	06:00	30:0	49	31	0	18
+739	AA	kbp	kabiyɛ	2	ncon	Gur	Togo	Africa	700,000	08:40	01:00	47	24	0	23
+740	AA	kkj	kakɔ	2	ncon	Bantoid	Cameroon	Africa	100,000	04:20	14:15	50	33	4	13
+741	AA	bqx	kambari	1	ncon	Kainji	Nigeria	Africa	15,000	10:50	05:45	56	28	1	27
+742	AA	knc	kanuri	3	nsah	Western Saharan	Nigeria	Africa	3,000,000	12:00	12:00	25	18	0	7
+743	AA	kza	karaboro	1	ncon	Gur	Burkina Faso	Africa	30,200	10:35	-04:50	45	20	4	21
+744	AA	kzr	karaŋ	1	ncon	Adamawa	Cameroon	Africa	17,000	07:40	15:00	40	30	4	6
+745	AA	xsm	kasem	1	ncon	Gur	Burkina Faso	Africa	120,000	11:10	-01:10	40	19	1	20
+746	AA	xsm	kasɩm	2	ncon	Gur	Burkina Faso	Africa	120,000	11:10	-01:10	45	21	4	20
+747	AA	ozm	kɔɔzime	1	ncon	Bantoid	Cameroon	Africa	30,000	NULL	NULL	52	22	6	24
+748	AA	kik	kikuyu	1	ncon	Bantoid	Kenya	Africa	7,180,000	00:30	37:0	32	18	0	14
+749	AA	kqs	kisiei	1	ncon	Southern Atlantic	Guinea	Africa	287,000	09:00	-10:0	42	22	0	20
+750	AA	bkm	kom	1	ncon	Bantoid	Cameroon	Africa	233,000	06:15	10:20	75	59	7	9
+751	AA	kmw	komo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400,000	00:15	26:30	35	24	4	7
+752	AA	xon	konkomba	2	ncon	Gur	Ghana	Africa	500,000	09:55	00:05	42	22	8	12
+753	AA	xpe	kpelle	3	ncon	Western Mande	Liberia	Africa	487,000	07:00	-10:0	45	21	3	21
+754	AA	gkp	kpɛlɛwoo	2	ncon	Western Mande	Guinea	Africa	308,000	08:00	-9:0	35	27	0	8
+755	AA	krs	kresh	1	nsah	Kresh	Sudan	Africa	16,000	08:35	25:0	56	41	5	10
+756	AA	kri	krio	2	afpc	Creoles and Pidgins	Sierra Leone	Africa	473,000	08:20	-13:10	32	22	0	10
+757	AA	ted	kroumen tépo	1	ncon	Kru	Côte d'Ivoire	Africa	28,300	04:40	-07:25	39	17	4	18
+758	AA	kuj	kuria	1	ncon	Bantoid	Tanzania	Africa	430,000	-01:35	35:0	22	15	0	7
+759	AA	kus	kusal	1	ncon	Gur	Ghana	Africa	420,000	10:55	00:20	44	22	0	22
+760	AA	las	lama	1	ncon	Gur	Togo	Africa	117,000	10:05	01:00	53	17	3	33
+761	AA	lln	lele	2	afas	East Chadic	Chad	Africa	26,000	09:10	15:45	36	23	3	10
+762	AA	led	lendu	1	nsah	Lendu	Democratic Republic of the Congo	Africa	750,000	02:20	30:35	55	43	4	8
+763	AA	lom	lɔgɔmagooi	2	ncon	Western Mande	Liberia	Africa	165,000	08:00	-09:50	42	28	0	14
+764	AA	lok	lɔkɔ	1	ncon	Western Mande	Sierra Leone	Africa	138,000	09:15	-12:0	25	18	0	7
+765	AA	lig	ligbi	1	ncon	Western Mande	Ghana	Africa	15,000	07:55	-02:25	38	22	2	14
+766	AA	lia	limba	1	ncon	Southern Atlantic	Sierra Leone	Africa	335,000	09:40	-12:0	24	17	0	7
+767	AA	lmp	limbum	4	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	35	22	6	7
+768	AA	lin	lingala	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	2,040,000	02:00	18:30	22	15	0	7
+769	AA	dop	lokpa 	1	ncon	Gur	Benin	Africa	50,000	09:45	01:25	37	17	0	20
+770	AA	lug	luganda	1	ncon	Bantoid	Uganda	Africa	4,130,000	00:30	32:0	33	19	4	10
+771	AA	lgg	lugbara	3	nsah	Moru-Madi	Uganda	Africa	797,000	03:00	31:0	39	26	3	10
+772	AA	lee	lyélé	2	ncon	Gur	Burkina Faso	Africa	130,000	12:25	-02:35	44	24	4	16
+773	AA	mcu	mambila (Cameroon)	3	ncon	Bantoid	Cameroon	Africa	30,000	06:30	11:30	40	24	4	12
+774	AA	mzk	mambila (Nigeria)	1	ncon	Bantoid	Nigeria	Africa	99,000	06:45	11:25	43	25	2	16
+775	AA	maw	mampruli	2	ncon	Gur	Ghana	Africa	220,000	10:20	00:55	32	22	0	10
+776	AA	mlq	mande	1	ncon	Western Mande	Senegal	Africa	422,000	13:00	-11:0	27	20	0	7
+777	AA	emk	manding 	1	ncon	Western Mande	Guinea	Africa	1,890,000	10:00	-9:0	36	20	2	14
+778	AA	mdj	mangbetu (meje)	1	nsah	Mangbetu	Democratic Republic of the Congo	Africa	620,000	02:35	27:0	47	36	2	9
+779	AA	mwk	maninka-kan	1	ncon	Western Mande	Mali	Africa	600,000	13:00	-09:30	33	19	0	14
+780	AA	muh	mündü	1	ncon	Ubangi	Sudan	Africa	23,000	04:45	29:40	41	29	3	9
+781	AA	mfn	mbembe	1	ncon	Cross River	Nigeria	Africa	100,000	05:50	08:25	37	28	2	7
+782	AA	mbo	mboó	3	ncon	Bantoid	Cameroon	Africa	45,000	05:00	09:55	31	20	4	7
+783	AA	mcp	mekaa	1	ncon	Bantoid	Cameroon	Africa	80,000	03:20	12:10	55	30	4	21
+784	AA	men	mende	1	ncon	Western Mande	Sierra Leone	Africa	1,480,000	08:00	-11:30	34	23	4	7
+785	AA	mgo	metta 	2	ncon	Bantoid	Cameroon	Africa	87,000	05:55	09:55	33	20	5	8
+786	AA	myk	minyanka	1	ncon	Gur	Mali	Africa	738,000	12:30	-05:30	50	29	2	19
+787	AA	mzw	mo (Deg)	1	ncon	Gur	Ghana	Africa	26,400	07:20	00:00	52	22	0	30
+788	AA	mif	mofu-gudur	2	afas	Biu-Mandara	Cameroon	Africa	60,000	10:30	14:00	44	35	2	7
+789	AA	mos	moore	1	ncon	Gur	Burkina Faso	Africa	5,000,000	12:30	-01:30	43	17	2	24
+790	AA	moa	muan	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	17,000	07:50	-06:05	39	21	6	12
+791	AA	mnf	mundani	1	ncon	Bantoid	Cameroon	Africa	34,000	05:40	09:55	41	23	4	14
+792	AA	mkw	munukutuba	1	afpc	Creoles and Pidgins	Congo	Africa	1,160,000	-04:15	14:15	22	17	0	5
+793	AA	mur	murle	2	nsah	Surmic	Sudan	Africa	60,000	06:30	34:0	34	20	0	14
+794	AA	sur	mwaghavul 	1	afas	West Chadic	Nigeria	Africa	295,000	09:35	08:30	37	25	0	12
+795	AA	nfr	nafaanra	1	ncon	Gur	Ghana	Africa	61,000	08:00	-02:30	44	25	0	19
+796	AA	nmz	nawdm	1	ncon	Gur	Togo	Africa	146,000	08:40	01:00	35	21	0	14
+797	AA	nuv	nʋni	1	ncon	Gur	Burkina Faso	Africa	50,000	12:10	-3:0	54	21	3	30
+798	AA	lem	nɔmaa (nɔmaándɛ́)	1	ncon	Bantoid	Cameroon	Africa	6,000	04:35	10:55	30	14	2	14
+799	AA	sba	ngambai	1	nsah	Bongo-Bagirmi	Chad	Africa	896,000	08:45	16:00	34	18	3	13
+800	AA	nga	ngbaka	1	ncon	Ubangi	Democratic Republic of the Congo	Africa	1,010,000	03:40	20:00	34	22	0	12
+801	AA	ngb	ngbandi	1	ncon	Ubangi	Democratic Republic of the Congo	Africa	250,000	03:50	22:20	31	19	0	12
+802	AA	nnh	ngyembɔɔn	2	ncon	Bantoid	Cameroon	Africa	250,000	05:25	10:05	28	17	4	7
+803	AA	nwb	niaboua	1	ncon	Kru	Côte d'Ivoire	Africa	42,700	06:48	-06:45	44	24	4	16
+804	AA	lns	nsoʼ	1	ncon	Bantoid	Cameroon	Africa	125,000	06:10	10:45	45	26	7	12
+805	AA	yas	nugunu	2	ncon	Bantoid	Cameroon	Africa	35,000	04:40	11:15	26	15	4	7
+806	AA	nup	nupe	1	ncon	Nupoid	Nigeria	Africa	800,000	09:00	05:30	38	25	5	8
+807	AA	mhi	pandikeri	1	nsah	Moru-Madi	Uganda	Africa	296,000	03:20	31:40	38	24	4	10
+808	AA	pbi	podoko	1	afas	Biu-Mandara	Cameroon	Africa	30,000	11:00	14:06	35	31	0	4
+809	AA	fuc	pulaar 	1	ncon	Northern Atlantic	Senegal	Africa	2,740,000	15:00	-14:0	38	28	0	10
+810	AA	fuf	pular 	1	ncon	Northern Atlantic	Guinea	Africa	2,550,000	09:35	-12:50	38	28	0	10
+811	AA	rel	rendille	1	afas	Eastern Cushitic	Kenya	Africa	34,700	02:00	37:30	33	21	2	10
+812	AA	spy	sabaot	1	nsah	Nilotic	Kenya	Africa	279,000	01:00	34:45	31	13	0	18
+813	AA	sag	sango (CAF)	3	afpc	Ubangi	Central African Republic	Africa	350,000	05:00	18:00	44	26	6	12
+814	AA	sag	sango (COD)	2	afpc	Ubangi	Central African Republic	Africa	350,000	05:00	18:00	42	26	4	12
+815	AA	seq	senoufo 	1	ncon	Gur	Burkina Faso	Africa	50,000	10:31	-05:19	51	19	4	28
+816	AA	srr	sereer	1	ncon	Northern Atlantic	Senegal	Africa	1,130,000	16:30	-15:0	43	33	0	10
+817	AA	sld	sissala (Burkina)	1	ncon	Gur	Burkina Faso	Africa	13,000	11:02	-02:30	51	22	2	27
+818	AA	sld	sissala (Ghana)	2	ncon	Gur	Burkina Faso	Africa	13,000	11:02	-02:30	42	24	0	18
+819	AA	khq	songhoy	2	nsah	Songhay	Mali	Africa	200,000	16:15	-03:30	36	21	0	15
+820	AA	snk	soninke (Mali)	2	ncon	Western Mande	Mali	Africa	700,000	15:00	-9:0	39	24	0	15
+821	AA	snk	sooninke (Senegal)	3	ncon	Western Mande	Mali	Africa	700,000	15:00	-9:0	52	34	4	14
+822	AA	sus	soso	1	ncon	Western Mande	Guinea	Africa	906,000	10:00	-13:0	35	21	0	14
+823	AA	swh	swahili	2	ncon	Bantoid	Tanzania	Africa	350,000	-05:05	39:50	37	32	0	5
+824	AA	ttq	tamajaq	1	afas	Berber	Niger	Africa	450,000	15:00	04:00	37	23	0	14
+825	AA	taq	tamasheq	1	afas	Berber	Mali	Africa	250,000	14:30	00:15	43	22	0	21
+826	AA	yer	tarok 	2	ncon	Platoid	Nigeria	Africa	300,000	09:00	10:00	37	27	3	7
+827	AA	lor	téén 	1	ncon	Gur	Côte d'Ivoire	Africa	6,100	10:00	-03:30	38	28	0	10
+828	AA	tuq	teda	1	nsah	Western Saharan	Chad	Africa	28,500	20:00	19:00	35	24	0	11
+829	AA	kdh	tem	1	ncon	Gur	Togo	Africa	204,000	09:00	01:00	36	25	2	9
+830	AA	tfi	tɔfin	1	ncon	Kwa	Benin	Africa	66,000	06:40	02:38	41	23	4	14
+831	AA	tem	themne	2	ncon	Southern Atlantic	Sierra Leone	Africa	1,230,000	08:45	-12:30	30	17	4	9
+832	AA	tik	tikar	1	ncon	Bantoid	Cameroon	Africa	25,000	05:50	11:40	46	27	5	14
+833	AA	toq	toposa	1	nsah	Nilotic	Sudan	Africa	100,000	05:20	34:0	27	17	1	9
+834	AA	neb	toura	2	ncon	Eastern Mande	Côte d'Ivoire	Africa	38,500	07:40	-07:38	50	19	4	27
+835	AA	tsp	toussian	1	ncon	Gur	Burkina Faso	Africa	19,500	11:10	-04:50	35	16	5	14
+836	AA	vag	vagala	1	ncon	Gur	Ghana	Africa	13,500	09:23	-02:23	54	24	0	30
+837	AA	vut	vute	1	ncon	Bantoid	Cameroon	Africa	20,000	05:10	12:10	59	30	5	24
+838	AA	wwa	waama	1	ncon	Gur	Benin	Africa	50,000	10:35	01:40	41	13	3	25
+839	AA	wan	wan	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	22,000	07:38	-05:48	36	21	3	12
+840	AA	wob	wobé	1	ncon	Kru	Côte d'Ivoire	Africa	156,000	07:25	-07:20	48	15	6	27
+841	AA	wol	wolof	3	ncon	Northern Atlantic	Senegal	Africa	3,930,000	15:30	-16:0	54	38	0	16
+842	AA	yam	yamba	1	ncon	Bantoid	Cameroon	Africa	40,800	06:27	11:00	38	26	4	8
+843	AA	yat	yambɛta	1	ncon	Bantoid	Cameroon	Africa	3,700	04:50	10:55	28	18	2	8
+844	AA	yre	yaouré	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	24,600	07:00	-05:42	45	23	4	18
+845	AA	ybb	yemba	2	ncon	Bantoid	Cameroon	Africa	300,000	05:27	10:00	35	21	6	8
+846	AA	pil	yom 	1	ncon	Gur	Benin	Africa	74,000	09:50	01:50	38	25	4	9
+847	AA	yor	yorouba (Benin)	2	ncon	Defoid	Nigeria	Africa	18,900,000	08:00	04:00	31	19	0	12
+848	AA	yor	yorouba (Nigeria)	3	ncon	Defoid	Nigeria	Africa	18,900,000	08:00	04:00	32	18	3	11
+849	AA	zne	zande	2	ncon	Ubangi	Democratic Republic of the Congo	Africa	730,000	04:15	26:0	32	24	3	5
+850	AA	dje	zarma 	1	nsah	Songhay	Niger	Africa	2,350,000	15:25	02:00	40	20	4	16
+851	AA	gnd	zulgo	1	afas	Biu-Mandara	Cameroon	Africa	26,000	10:50	14:05	34	29	3	2
 852	PH	fwe	Fwe	1	ncon	Bantoid	Namibia	Africa	10,200	-17:45	25:20	59	49	0	10
 853	PH	yey	Yeyi	1	ncon	Bantoid	Botswana	Africa	20,000	-18:50	22:35	90	77	0	13
 854	PH	cav	Cavinena	2	taca	Tacanan	Bolivia	America	1,180	-13:25	-66:35	24	20	0	4
