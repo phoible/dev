@@ -14,7 +14,7 @@ which is a digitization of the book
 
 The `RAMASWAMI` folder contains data from 
 
-> Ramswami, N. 1999. Common Linguistic Features in Indian Languages: Phoentics. Central Institude of Indian Languages. Mysore, India.
+> Ramswami, N. 1999. Common Linguistic Features in Indian Languages: Phonetics. Central Institude of Indian Languages. Mysore, India.
 
 The `SPA` folder contains data from the Stanford Phonology Archive:
 
