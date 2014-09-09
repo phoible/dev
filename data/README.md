@@ -16,6 +16,11 @@ The `RAMASWAMI` folder contains data from
 
 > Ramswami, N. 1999. Common Linguistic Features in Indian Languages: Phonetics. Central Institute of Indian Languages. Mysore, India.
 
+The `SAPHON' folder contains data and glyph-to-PHOIBLE Unicode IPA mappings from South American Phonological Inventory Database
+
+> Michael, Lev, Tammy Stark, and Will Chang. (2012) South American Phonological Inventory Database. University of California.
+> <http://linguistics.berkeley.edu/~saphon/en/>
+
 The `SPA` folder contains data from the Stanford Phonology Archive:
 
 > Crothers, J. H., Lorentz, J. P., Sherman, D. A., & Vihman, M. M. 
