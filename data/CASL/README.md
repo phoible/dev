@@ -1,11 +1,21 @@
-# CASL files from AA and Christopher Green
+# CASL files
 
-## CASL African inventories (mix of AA inventories and original work by CASL)
+## CASL Africa and Southeast Asia inventories
 
-- casl-afr-inventories.tsv - phoible inventory input format
-- casl-afr-inventories-quotes.tsv - same with quoted cells
+Collapsed now into one file:
 
-- casl-sea-inventories.csv - CASL's work collecting South East Asian languages data
-- casl-sea-citations.csv - and their citations
+- CASL_inventories.tsv
 
+Citations in separate file (links to PHOIBLE InventoryIDs)
 
+- CASL_citations.tsv
+
+## TODOS:
+
+### Citations:
+
+- fix page numbers (130-131 vs 130--131)
+- publisher (e.g. Oxford)
+- umlauts (e.g. Ruediger Koppe)
+- name consistency (e.g. Africana Linguistica vs African Linguistica)
+- check NULLs
