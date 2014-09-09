@@ -1,4 +1,6 @@
-SAPHON DATA <http://linguistics.berkeley.edu/~saphon/en/>
+SAPHON DATA 
+===========
 
-1. spreadsheet with inventories
-2. references in bibtex (forthcoming - we're cleaning and converting)
+Data available at: <http://linguistics.berkeley.edu/~saphon/en/>
+
+This directory contains source data and SAPHON glyph-to-PHOIBLE Unicode IPA mappings.
