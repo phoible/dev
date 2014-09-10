@@ -1239,466 +1239,466 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 1238	PH	cro	Crow	1	siou	Siouan	United States	America	4,280	45:20	-107:0	23	10	3	10
 1239	PH	boi	Barbareño	2	chum	Chumash	United States	America	Extinct	34:30	-120:15	44	38	0	6
 1240	PH	lee	Lele (Lyélé)	1	ncon	Gur	Burkina Faso	Africa	130,000	12:25	-02:35	34	21	3	10
-1241	G&M	fub	Fulfulde (Cameroon)	3	ncon	Northern Atlantic	Cameroon	Africa	669,000	07:00	13:30	47	37	0	10
-1242	G&M	any	Anyi Sanvi	1	ncon	Kwa	Côte d'Ivoire	Africa	610,000	07:00	-03:30	40	19	5	16
-1243	G&M	any	Agni Djuablin	2	ncon	Kwa	Côte d'Ivoire	Africa	610,000	07:00	-03:30	36	17	5	14
-1244	G&M	mtb	Agni Morofo	1	ncon	Kwa	Côte d'Ivoire	Africa	300,000	06:10	-04:40	49	31	4	14
-1245	G&M	aka	Akan	1	ncon	Kwa	Ghana	Africa	8,300,000	06:30	-01:30	60	28	2	30
-1246	G&M	cko	anufɔ	1	ncon	Kwa	Ghana	Africa	66,000	10:25	00:30	59	45	2	12
-1247	G&M	bvx	babole	1	ncon	Bantoid	Congo	Africa	4,000	01:00	17:05	31	21	4	6
-1248	G&M	bcw	bana	1	afas	Biu-Mandara	Cameroon	Africa	23,000	10:20	13:40	44	37	4	3
-1249	G&M	bdh	baka	1	nsah	Bongo-Bagirmi	Sudan	Africa	25,000	04:45	30:0	46	36	0	10
-1250	G&M	aja	aja	1	nsah	Kresh	Sudan	Africa	200	08:40	25:30	48	38	0	10
-1251	G&M	bip	bila	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	40,000	01:10	29:0	33	19	5	9
-1252	G&M	bqp	busa	1	ncon	Eastern Mande	Nigeria	Africa	40,000	10:20	03:45	31	16	3	12
-1253	G&M	fub	fulfulde (fuunaangere)	2	ncon	Northern Atlantic	Cameroon	Africa	669,000	07:00	13:30	39	29	0	10
-1254	G&M	fuv	fulfulde (NGA)	1	ncon	Northern Atlantic	Nigeria	Africa	1,710,000	12:35	14:35	57	47	0	10
-1255	G&M	her	herero	1	ncon	Bantoid	Namibia	Africa	206,000	-21:0	21:00	26	19	2	5
-1256	G&M	sef	Senoufo-Cebaara	2	ncon	Gur	Côte d'Ivoire	Africa	862,000	09:30	-06:15	38	22	3	13
-1257	G&M	khq	songhoy	1	nsah	Songhay	Mali	Africa	200,000	16:15	-03:30	43	23	6	14
-1258	G&M	ksf	kpaʔ	2	ncon	Bantoid	Cameroon	Africa	60,000	05:00	11:10	48	25	5	18
-1259	G&M	lea	lega-shabunda	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400,000	-3:0	27:0	38	18	6	14
-1260	G&M	lmp	limbum (southern)	2	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	52	37	0	15
-1261	G&M	lmp	limbum (central)	3	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	41	23	0	18
-1262	G&M	lmp	limbum (northern)	1	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	33	23	0	10
-1263	G&M	mye	myene	1	ncon	Bantoid	Gabon	Africa	46,700	-01:20	09:30	36	29	0	7
-1264	G&M	bud	N'cam	1	ncon	Gur	Togo	Africa	100,000	10:05	00:30	43	21	3	19
-1265	G&M	baz	Nen	1	ncon	Bantoid	Cameroon	Africa	35,300	04:45	10:35	26	17	2	7
-1266	G&M	mgw	matuumbi	1	ncon	Bantoid	Tanzania	Africa	72,000	-08:35	39:0	23	15	3	5
-1267	G&M	yao	yao	1	ncon	Bantoid	Malawi	Africa	1,000,000	-14:40	35:30	29	18	4	7
-1268	G&M	umb	umbundu	1	ncon	Bantoid	Angola	Africa	4,000,000	-13:0	14:30	30	20	0	10
-1269	G&M	ndo	ndonga	1	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	30	25	0	5
-1270	G&M	mhw	mbukushu	1	ncon	Bantoid	Namibia	Africa	6,100	18:00	22:50	29	22	0	7
-1271	G&M	diu	diriku	1	ncon	Bantoid	Namibia	Africa	10,200	-18:20	21:40	28	23	0	5
-1272	G&M	kwn	kwangari	1	ncon	Bantoid	Namibia	Africa	73,100	-18:10	20:50	27	22	0	5
-1273	G&M	snk	soninke (kaedi (MRT))	1	ncon	Western Mande	Mali	Africa	700,000	15:00	-9:0	50	28	7	15
-1274	G&M	ses	Songhay, Koyraboro Senni	1	nsah	Songhay	Mali	Africa	100,000	17:00	-1:0	37	23	0	14
-1275	G&M	lln	Lele	1	afas	East Chadic	Chad	Africa	26,000	09:10	15:45	36	23	3	10
-1276	G&M	kck	Ikalanga	1	ncon	Bantoid	Zimbabwe	Africa	700,000	-21:30	26:50	71	62	4	5
-1277	G&M	lol	mongo-nkundu	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400,000	-1:0	20:00	56	45	4	7
-1278	G&M	wok	longto	1	ncon	Adamawa	Cameroon	Africa	2,400	08:20	13:05	31	20	4	7
-1279	G&M	xwe	xwela	1	ncon	Kwa	Benin	Africa	65,000	06:35	01:50	45	29	3	13
-1280	G&M	xwl	western xwla	1	ncon	Kwa	Benin	Africa	50,000	06:22	02:33	45	29	3	13
-1281	G&M	kqk	kotafon	1	ncon	Kwa	Benin	Africa	100,000	06:40	01:40	45	29	3	13
-1282	G&M	gbs	gbesi	1	ncon	Kwa	Benin	Africa	65,000	NULL	NULL	47	31	3	13
-1283	G&M	jmc	machame	1	ncon	Bantoid	Tanzania	Africa	300,000	-03:20	37:0	46	33	3	10
-1284	G&M	mda	mada	1	ncon	Platoid	Nigeria	Africa	100,000	08:40	08:15	41	23	5	13
-1285	G&M	mfo	mbe	1	ncon	Bantoid	Nigeria	Africa	14,300	06:35	08:50	37	26	4	7
-1286	G&M	nwe	ngwe	1	ncon	Bantoid	Cameroon	Africa	73,200	05:30	09:55	38	24	0	14
-1287	G&M	jow	jowulu	1	ncon	Western Mande	Mali	Africa	10,000	10:50	-05:30	45	20	4	21
-1288	G&M	yba	yala	1	ncon	Idomoid	Nigeria	Africa	50,000	06:45	08:37	38	28	3	7
-1289	G&M	mgr	cilungu	1	ncon	Bantoid	Zambia	Africa	379,000	-9:0	31:0	36	19	7	10
-1290	G&M	kcv	kete	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	8,400	-7:0	23:00	25	16	4	5
-1291	G&M	kws	kwezo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	60,000	-5:0	18:50	25	16	3	6
-1292	G&M	snm	Madi	1	nsah	Moru-Madi	Uganda	Africa	48,000	02:45	31:05	59	47	3	9
-1293	G&M	mgd	Moru	1	nsah	Moru-Madi	Sudan	Africa	70,000	04:45	29:45	38	26	3	9
-1294	G&M	log	Logo	1	nsah	Moru-Madi	Democratic Republic of the Congo	Africa	210,000	03:20	30:0	39	27	3	9
-1295	G&M	aft	Afitti	1	nsah	Nyimang	Sudan	Africa	4,510	12:28	30:45	26	17	3	6
-1296	G&M	avn	Avatime	1	ncon	Kwa	Ghana	Africa	24,000	06:53	00:25	50	28	4	18
-1297	G&M	abn	Abua	1	ncon	Cross River	Nigeria	Africa	25,000	09:02	08:40	40	27	3	10
-1298	G&M	any	Anyi	3	ncon	Kwa	Côte d'Ivoire	Africa	610,000	07:00	-03:30	39	21	4	14
-1299	G&M	dgh	Dghwede	1	afas	Biu-Mandara	Nigeria	Africa	30,000	11:10	13:50	38	33	2	3
-1300	G&M	afo	Eloyi	1	ncon	Idomoid	Nigeria	Africa	25,000	08:15	08:00	51	41	3	7
-1301	G&M	fuv	Fula (Nigeria)	2	ncon	Northern Atlantic	Nigeria	Africa	1,710,000	12:35	14:35	38	28	0	10
-1302	G&M	acd	Gechode	1	ncon	Kwa	Ghana	Africa	10,400	08:20	00:35	51	29	0	22
-1303	G&M	ayg	Genyanga	1	ncon	Kwa	Togo	Africa	12,000	08:14	01:00	53	31	0	22
-1304	G&M	hbb	Kilba	1	afas	Biu-Mandara	Nigeria	Africa	175,000	10:20	13:10	31	24	2	5
-1305	G&M	kwl	Kofyar	1	afas	West Chadic	Nigeria	Africa	110,000	08:50	09:10	36	23	3	10
-1306	G&M	kye	Krache	1	ncon	Kwa	Ghana	Africa	58,000	08:00	00:00	44	17	3	24
-1307	G&M	krm	Krim	1	ncon	Southern Atlantic	Sierra Leone	Africa	500	07:15	-11:50	38	22	0	16
-1308	G&M	bbp	Banda, West Central	1	ncon	Adamawa	Central African Republic	Africa	4,500	06:00	20:20	46	31	5	10
-1309	G&M	dib	Dinka, South Central	1	nsah	Nilotic	Sudan	Africa	250,000	06:50	30:0	60	20	3	37
-1310	G&M	fod	Foodo	1	ncon	Kwa	Benin	Africa	24,500	09:35	01:30	44	23	3	18
-1311	G&M	csk	Joola Huluf	1	ncon	Northern Atlantic	Senegal	Africa	45,100	12:30	-16:40	51	31	0	20
-1312	G&M	jum	Jumjum	1	nsah	Nilotic	Sudan	Africa	25,000	10:35	34:0	39	20	3	16
-1313	G&M	bdi	Burun	1	nsah	Nilotic	Sudan	Africa	18,000	10:45	34:0	38	19	3	16
-1314	G&M	lul	Lulubo	1	nsah	Central Cushitic	Sudan	Africa	15,000	04:45	32:0	46	34	3	9
-1315	G&M	ymm	Maay	1	afas	Eastern Cushitic	Somalia	Africa	1,860,000	04:00	44:0	32	22	0	10
-1316	G&M	mfz	Mabaan	1	nsah	Nilotic	Sudan	Africa	No_estimate_available	09:45	33:45	45	19	4	22
-1317	G&M	sgi	Nizaa	1	ncon	Bantoid	Cameroon	Africa	10,000	07:05	12:30	90	58	9	23
-1318	G&M	cce	Copi	1	ncon	Bantoid	Mozambique	Africa	760,000	-24:35	34:50	68	61	2	5
-1319	G&M	xho	Xhosa	1	ncon	Bantoid	South Africa	Africa	7,790,000	-32:0	28:0	84	75	2	7
-1320	G&M	akp	Siwu	1	ncon	Kwa	Ghana	Africa	27,000	07:15	00:25	37	20	3	14
-1321	G&M	bun	Sherbro	1	ncon	Southern Atlantic	Sierra Leone	Africa	135,000	07:20	-12:16	31	24	0	7
-1322	G&M	buy	Mmani	1	ncon	Southern Atlantic	Sierra Leone	Africa	8,350	09:00	-13:10	36	22	0	14
-1323	G&M	cpn	Hill Guang	1	ncon	Kwa	Ghana	Africa	111,000	06:00	00:05	38	26	2	10
-1324	G&M	fap	Ndut-Falor	1	ncon	Northern Atlantic	Senegal	Africa	10,700	14:55	-17:0	43	26	0	17
-1325	G&M	gur	Frafra	1	ncon	Gur	Ghana	Africa	820,000	10:45	00:55	30	20	2	8
-1326	G&M	lip	Likpe	1	ncon	Kwa	Ghana	Africa	23,400	07:10	00:35	33	21	3	9
-1327	G&M	maw	Mampruli	1	ncon	Gur	Ghana	Africa	220,000	10:20	00:55	36	24	2	10
-1328	G&M	toi	Shanjo	1	ncon	Bantoid	Zambia	Africa	990,000	-17:0	27:0	41	33	3	5
-1329	G&M	pbp	Pajade	1	ncon	Northern Atlantic	Guinea	Africa	6,300	12:30	-13:40	43	25	0	18
-1330	G&M	snw	Sele	1	ncon	Kwa	Ghana	Africa	11,300	07:10	00:25	33	18	3	12
-1331	G&M	tiv	Tiv	1	ncon	Bantoid	Nigeria	Africa	2,210,000	07:30	09:00	40	31	3	6
-1332	G&M	byn	Blin	1	afas	Central Cushitic	Eritrea	Africa	91,000	15:50	38:20	38	31	0	7
-1333	G&M	xan	Xamtanga	1	afas	Central Cushitic	Ethiopia	Africa	143,000	12:25	38:50	30	23	0	7
-1334	G&M	lik	Lika	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	60,000	02:05	27:35	45	33	3	9
-1335	G&M	yns	Yanzi	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	100,000	-03:50	18:00	42	17	3	22
-1336	G&M	buu	Kibudu	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	180,000	02:00	28:0	43	31	3	9
-1337	G&M	khy	Iikile	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	160,000	00:10	23:50	30	21	2	7
-1338	G&M	lej	Lengola	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	100,000	00:30	25:0	32	24	3	5
-1339	G&M	kbo	Kaliko	1	nsah	Moru-Madi	Sudan	Africa	10,000	03:40	30:30	45	36	3	6
-1340	G&M	won	Wongo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	12,700	-05:45	20:30	24	15	2	7
-1341	G&M	wlc	Mwali	1	ncon	Bantoid	Comoros	Africa	27,200	NULL	NULL	24	19	0	5
-1342	G&M	aar	Afar	1	afas	Eastern Cushitic	Ethiopia	Africa	979,000	12:00	42:0	27	17	0	10
-1343	G&M	mua	Mundang	1	ncon	Adamawa	Chad	Africa	191,000	09:35	14:30	67	37	3	27
-1344	G&M	mru	Mono	1	ncon	Adamawa	Cameroon	Africa	300	08:45	14:15	62	35	3	24
-1345	G&M	tui	Tupuri	1	ncon	Adamawa	Cameroon	Africa	125,000	10:10	14:50	56	28	4	24
-1346	G&M	xuo	Kuo	1	ncon	Adamawa	Chad	Africa	11,800	08:00	15:35	56	29	3	24
-1347	G&M	kbn	Kare	1	ncon	Adamawa	Central African Republic	Africa	93,000	06:40	16:20	57	30	3	24
-1348	G&M	gke	Galke	1	ncon	Adamawa	Cameroon	Africa	5	08:05	14:20	57	32	3	22
-1349	G&M	myf	Northern Mao	1	afas	North Omotic	Ethiopia	Africa	5,000	09:55	34:30	36	23	3	10
-1350	G&M	tir	Tigrinya	1	afas	Semitic	Ethiopia	Africa	3,220,000	14:00	38:0	39	32	0	7
-1351	G&M	kdj	Karimojong	1	nsah	Nilotic	Uganda	Africa	260,000	02:30	34:30	66	21	6	39
-1352	G&M	gwn	Gwandara (Karshi)	1	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	46	28	8	10
-1353	G&M	gwn	Gwandara (Cancara)	5	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	52	32	8	12
-1354	G&M	gwn	Gwandara (Toni)	2	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	48	28	8	12
-1355	G&M	gwn	Gwandara (Gitata)	3	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	64	35	8	21
-1356	G&M	gwn	Gwandara (Koro)	4	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	48	28	8	12
-1357	G&M	gwn	Gwandara (Nimbia)	6	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	65	43	8	14
-1358	G&M	avi	Avikam	1	ncon	Kwa	Côte d'Ivoire	Africa	21,000	05:06	-05:26	34	25	3	6
-1359	G&M	shk	Shilluk	1	nsah	Nilotic	Sudan	Africa	175,000	09:40	32:0	54	25	3	26
-1360	G&M	hgm	San	1	khoi	Southern Khoisan	Namibia	Africa	18,400	-20:0	18:00	29	24	0	5
-1361	G&M	pip	Pero	1	afas	West Chadic	Nigeria	Africa	25,000	09:35	11:00	30	18	2	10
-1362	G&M	gax	Galla	1	afas	Eastern Cushitic	Ethiopia	Africa	3,630,000	06:00	39:0	36	26	0	10
-1363	G&M	hdy	Hadiyya	1	afas	Eastern Cushitic	Ethiopia	Africa	924,000	07:15	38:0	56	46	0	10
-1364	G&M	wal	Welamo	1	afas	North Omotic	Ethiopia	Africa	1,230,000	06:50	37:45	48	38	0	10
-1365	G&M	njx	Nyanga	1	ncon	Bantoid	Congo	Africa	52,000	NULL	NULL	55	44	4	7
-1366	G&M	lot	Otuho	1	nsah	Nilotic	Sudan	Africa	135,000	04:00	33:0	56	33	3	20
-1367	G&M	myx	Orusyan	1	ncon	Bantoid	Uganda	Africa	1,120,000	01:20	34:15	63	51	0	12
-1368	G&M	hig	Higi	1	afas	Biu-Mandara	Nigeria	Africa	300,000	10:36	13:20	35	26	2	7
-1369	G&M	mzj	Manya	1	ncon	Western Mande	Liberia	Africa	50,400	08:20	-09:40	27	18	2	7
-1370	G&M	say	Syan	1	afas	West Chadic	Nigeria	Africa	50,000	09:40	09:45	54	39	3	12
-1371	G&M	nzb	Nzɛbi	1	ncon	Bantoid	Gabon	Africa	120,000	-01:15	13:00	34	24	2	8
-1372	G&M	dsq	Tadaksahak	1	nsah	Songhay	Mali	Africa	100,000	15:30	03:00	70	59	0	11
-1373	G&M	ktb	Kambaata	1	afas	Eastern Cushitic	Ethiopia	Africa	570,000	07:25	37:55	59	49	0	10
-1374	G&M	otr	Otoro	1	ncon	Heiban	Sudan	Africa	10,000	11:05	30:35	44	30	0	14
-1375	G&M	tic	Tira	1	ncon	Heiban	Sudan	Africa	40,000	11:00	30:30	42	26	0	16
-1376	G&M	nmi	Nyam	1	afas	West Chadic	Nigeria	Africa	100	09:10	10:50	56	39	3	14
-1377	G&M	fli	Kirya-Konzɘl	1	afas	Biu-Mandara	Nigeria	Africa	20,000	10:30	13:25	50	39	5	6
-1378	G&M	mcw	Mawa	1	afas	East Chadic	Chad	Africa	6,560	11:59	18:14	33	24	3	6
-1379	G&M	nmn	!Xóõ	1	khoi	Southern Khoisan	Botswana	Africa	4,000	-24:45	21:00	161	130	3	28
-1380	G&M	kib	Koalib	1	ncon	Heiban	Sudan	Africa	44,300	12:00	30:0	45	29	0	16
-1381	G&M	kki	Kagulu	1	ncon	Bantoid	Tanzania	Africa	241,000	-06:15	37:0	31	26	0	5
-1382	G&M	oks	Oko	1	ncon	Oko	Nigeria	Africa	10,000	07:25	06:10	30	18	5	7
-1383	G&M	xuu	!Xun	1	khoi	Central Khoisan	Namibia	Africa	4,000	-17:55	24:0	120	95	4	21
-1384	G&M	bbj	Banjun	1	ncon	Bantoid	Cameroon	Africa	260,000	05:25	10:20	59	36	5	18
-1385	G&M	afn	Defaka	1	ncon	Ijoid	Nigeria	Africa	200	04:35	07:30	42	18	5	19
-1386	G&M	tkq	Tee	1	ncon	Cross River	Nigeria	Africa	313,000	NULL	NULL	38	23	3	12
-1387	G&M	sgc	Kipsigis	1	nsah	Nilotic	Kenya	Africa	471,000	NULL	NULL	37	14	4	19
-1388	G&M	pbr	Pangwa	1	ncon	Bantoid	Tanzania	Africa	95,000	-09:55	34:50	35	23	0	12
-1389	G&M	hoo	Holoholo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	15,500	-05:05	29:50	26	17	2	7
-1390	G&M	bwu	Buli	1	ncon	Gur	Ghana	Africa	150,000	10:35	-01:15	46	23	10	13
-1391	G&M	bjt	Balante	1	ncon	Northern Atlantic	Senegal	Africa	82,800	12:30	-15:40	50	33	3	14
-1392	G&M	now	Kinyambo	1	ncon	Bantoid	Tanzania	Africa	400,000	-01:20	31:05	33	20	3	10
-1393	G&M	daf	Dan	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	800,000	07:30	-07:45	92	44	8	40
-1394	G&M	pko	Pokot	1	nsah	Nilotic	Kenya	Africa	264,000	01:30	35:30	39	17	3	19
-1395	G&M	afr	Afrikaans	1	ieur	Germanic	South Africa	Africa	4,740,000	-22:0	30:0	39	16	0	23
-1396	G&M	agj	Argobba	1	afas	Semitic	Ethiopia	Africa	10,900	10:10	40:05	38	30	0	8
-1397	G&M	har	Harari	1	afas	Semitic	Ethiopia	Africa	21,300	09:15	42:10	34	25	0	9
-1398	G&M	din	Dinka	1	nsah	Nilotic	Sudan	Africa	320,000	NULL	NULL	49	20	3	26
-1399	G&M	nzi	Nzema	1	ncon	Kwa	Ghana	Africa	262,000	05:10	-02:30	40	24	2	14
-1400	G&M	aha	Ahanta	1	ncon	Kwa	Ghana	Africa	142,000	04:52	-2:0	40	24	2	14
-1401	G&M	hna	Besleri	1	afas	Biu-Mandara	Cameroon	Africa	11,000	10:40	13:48	50	39	2	9
-1402	G&M	bhs	Buwal	1	afas	Biu-Mandara	Cameroon	Africa	7,000	10:40	13:55	43	38	3	2
-1403	G&M	xed	Hide	1	afas	Biu-Mandara	Cameroon	Africa	25,000	11:03	13:47	41	37	0	4
-1404	G&M	hia	Lamang	1	afas	Biu-Mandara	Nigeria	Africa	40,000	11:10	13:45	41	37	0	4
-1405	G&M	ikw	Ikwere	1	ncon	Igboid	Nigeria	Africa	200,000	05:00	06:50	46	23	5	18
-1406	G&M	kot	Lagwan	1	afas	Biu-Mandara	Cameroon	Africa	1,500	11:45	14:45	41	34	2	5
-1407	G&M	gmm	Mbodomo	2	ncon	Ubangi	Cameroon	Africa	20,000	NULL	NULL	38	28	3	7
-1408	G&M	mqb	Mbuko	1	afas	Biu-Mandara	Cameroon	Africa	13,000	10:46	14:10	45	34	3	8
-1409	G&M	mlw	Moloko	1	afas	Biu-Mandara	Cameroon	Africa	8,500	10:45	14:15	47	31	6	10
-1410	G&M	muy	Muyang	1	afas	Biu-Mandara	Cameroon	Africa	30,000	10:50	14:15	46	27	5	14
-1411	G&M	jgo	Ngomba	1	ncon	Bantoid	Cameroon	Africa	63,000	05:40	10:15	27	19	2	6
-1412	G&M	dmo	Kemezung	1	ncon	Bantoid	Cameroon	Africa	4,500	06:45	10:30	34	20	6	8
-1413	G&M	ntm	Nateni	1	ncon	Gur	Benin	Africa	66,000	10:20	01:30	40	13	3	24
-1414	G&M	stv	Silt'i	1	afas	Semitic	Ethiopia	Africa	1,000,000	NULL	NULL	56	46	0	10
-1415	G&M	weh	Weh	1	ncon	Bantoid	Cameroon	Africa	6,900	06:27	10:08	47	37	3	7
-1416	G&M	tey	Tulishi	1	nsah	Kadugli	Sudan	Africa	8,630	11:25	29:10	59	37	3	19
-1417	G&M	kec	Keiga	1	nsah	Kadugli	Sudan	Africa	6,070	11:20	29:40	59	37	2	20
-1418	G&M	kgo	Krongo	1	nsah	Kadugli	Sudan	Africa	21,700	10:30	30:0	62	40	2	20
-1419	G&M	kcp	Kanga (Kanga)	1	nsah	Kadugli	Sudan	Africa	8,000	11:00	29:25	76	54	2	20
-1420	G&M	kcp	Kanga (Kufa)	2	nsah	Kadugli	Sudan	Africa	8,000	11:00	29:25	75	53	2	20
-1421	G&M	xtc	Kadugli (Kadugli)	1	nsah	Kadugli	Sudan	Africa	75,000	11:05	29:30	62	39	3	20
-1422	G&M	xtc	Kadugli (Miri)	2	nsah	Kadugli	Sudan	Africa	75,000	11:05	29:30	63	41	2	20
-1423	G&M	xtc	Kadugli (Katcha)	3	nsah	Kadugli	Sudan	Africa	75,000	11:05	29:30	61	39	2	20
-1424	G&M	mgc	Morokodo	1	nsah	Bongo-Bagirmi	Sudan	Africa	3,400	05:15	30:0	54	42	2	10
-1425	G&M	luc	Aringa	1	nsah	Moru-Madi	Uganda	Africa	589,000	03:30	31:15	49	35	5	9
-1426	G&M	keg	These	1	nsah	Temein	Sudan	Africa	1,400	11:20	29:35	47	24	5	18
-1427	G&M	lmd	Lumun	1	ncon	Talodi Proper	Sudan	Africa	45,000	10:50	30:15	35	17	2	16
-1428	G&M	acz	Asharon	1	ncon	Talodi Proper	Sudan	Africa	No_estimate_available	10:55	30:20	38	18	0	20
-1429	G&M	taz	Tocco	1	ncon	Talodi Proper	Sudan	Africa	3,800	10:52	30:10	27	15	2	10
-1430	G&M	dec	Thakik	1	ncon	Talodi Proper	Sudan	Africa	38,000	-10:30	29:55	26	16	0	10
-1431	G&M	did	Didinga	1	nsah	Surmic	Sudan	Africa	60,000	04:15	33:40	58	36	4	18
-1432	G&M	lwo	Luwo	1	nsah	Nilotic	Sudan	Africa	80,000	07:45	28:10	32	19	3	10
-1433	G&M	ach	Acholi	1	nsah	Nilotic	Uganda	Africa	1,170,000	03:00	33:0	29	17	3	9
-1434	G&M	bxb	Belanda Boor	1	nsah	Nilotic	Sudan	Africa	8,000	07:00	28:0	38	25	3	10
-1435	G&M	bvi	Belanda Viri	1	ncon	Ubangi	Sudan	Africa	16,000	06:45	27:30	43	28	5	10
-1436	G&M	ndz	Ndogo	1	ncon	Ubangi	Sudan	Africa	Missing E16 page	07:45	27:0	38	29	4	5
-1437	G&M	bde	Bade	1	afas	West Chadic	Nigeria	Africa	250,000	12:50	10:40	46	33	4	9
-1438	G&M	fpe	Pichi	1	afpc	Creoles and Pidgins	Equatorial Guinea	Africa	5,000	03:30	08:40	30	21	2	7
-1439	G&M	jit	Jita	1	ncon	Bantoid	Tanzania	Africa	205,000	-01:30	34:0	29	17	2	10
-1440	G&M	dim	Dime	1	afas	South Omotic	Ethiopia	Africa	6,500	06:10	36:20	73	53	2	18
-1441	G&M	lto	Lutsootso	1	ncon	Bantoid	Kenya	Africa	No_estimate_available	NULL	NULL	31	19	2	10
-1442	G&M	djm	Jamsay, Dogon	1	ncon	Dogon	Mali	Africa	130,000	NULL	NULL	60	37	2	21
-1443	G&M	kam	Kikamba	1	ncon	Bantoid	Kenya	Africa	3,960,000	-01:30	38:0	31	13	4	14
-1444	G&M	ksf	Bafia	1	ncon	Bantoid	Cameroon	Africa	60,000	05:00	11:10	51	27	4	20
-1445	G&M	laj	Lango	1	nsah	Nilotic	Uganda	Africa	1,490,000	02:15	33:0	40	18	2	20
-1446	G&M	lks	Olukisa	1	ncon	Bantoid	Kenya	Africa	No_estimate_available	NULL	NULL	38	24	4	10
-1447	G&M	nuj	Nyole	1	ncon	Bantoid	Uganda	Africa	341,000	00:50	33:50	36	24	2	10
-1448	G&M	wmw	Kimwani	1	ncon	Bantoid	Mozambique	Africa	100,000	-11:40	40:20	26	21	0	5
-1449	G&M	xkv	Shekgalagari	1	ncon	Bantoid	Botswana	Africa	40,000	-24:20	22:30	53	43	2	8
-1450	G&M	boz	Tigemaxo Bozo	1	ncon	Western Mande	Mali	Africa	118,000	14:10	-5:0	36	19	3	14
-1451	G&M	alw	Alaaba	1	afas	Eastern Cushitic	Ethiopia	Africa	162,000	07:25	38:10	62	52	0	10
-1452	G&M	deg	Degema	1	ncon	Edoid	Nigeria	Africa	10,000	04:45	06:50	36	24	2	10
-1453	G&M	bsc	Basari	1	ncon	Northern Atlantic	Senegal	Africa	13,300	12:40	-12:50	30	21	3	6
-1454	G&M	pre	Principense	1	afpc	Creoles and Pidgins	São Tomé e Príncipe	Africa	200	01:37	07:22	31	22	2	7
-1455	G&M	nko	Nkonya	1	ncon	Kwa	Ghana	Africa	28,000	07:10	00:20	34	20	0	14
-1456	G&M	gru	Soddo	1	afas	Semitic	Ethiopia	Africa	255,000	08:00	38:0	41	34	0	7
-1457	G&M	gru	Goggot	2	afas	Semitic	Ethiopia	Africa	255,000	08:00	38:0	41	34	0	7
-1458	G&M	mvz	Masqan	1	afas	Semitic	Ethiopia	Africa	25,000	NULL	NULL	41	34	0	7
-1459	G&M	sgw	Muher	1	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	42	34	0	8
-1460	G&M	sgw	Ezha	2	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	39	33	0	6
-1461	G&M	sgw	Chaha	3	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	44	36	0	8
-1462	G&M	sgw	Gumer	4	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	42	35	0	7
-1463	G&M	sgw	Gura	5	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	42	36	0	6
-1464	G&M	sgw	Gyeto	6	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	45	39	0	6
-1465	G&M	ior	Ennemor	1	afas	Semitic	Ethiopia	Africa	280,000	NULL	NULL	47	40	0	7
-1466	G&M	ior	Endegen	2	afas	Semitic	Ethiopia	Africa	280,000	NULL	NULL	45	39	0	6
-1467	G&M	ior	Ener	3	afas	Semitic	Ethiopia	Africa	280,000	NULL	NULL	45	39	0	6
-1468	G&M	dnn	Dzuungoo	1	ncon	Western Mande	Burkina Faso	Africa	13,400	11:00	-5:0	55	26	3	26
-1469	G&M	bmi	Bagirmi	1	nsah	Bongo-Bagirmi	Chad	Africa	44,800	11:40	16:00	48	29	3	16
-1470	G&M	niy	Ngiti	1	nsah	Lendu	Democratic Republic of the Congo	Africa	100,000	01:20	30:15	56	44	7	5
-1471	G&M	ndh	Chindali	1	ncon	Bantoid	Tanzania	Africa	150,000	-09:36	33:50	31	17	4	10
-1472	G&M	mym	Me'en	1	nsah	Surmic	Ethiopia	Africa	80,000	06:35	35:40	40	26	0	14
-1473	G&M	nsg	Ongamo	1	nsah	Nilotic	Tanzania	Africa	250	-3:0	37:40	31	22	0	9
-1474	G&M	myb	Mbay	1	nsah	Bongo-Bagirmi	Chad	Africa	80,000	08:00	17:40	44	22	3	19
-1475	G&M	guk	Gumuz	1	nsah	Gumuz	Ethiopia	Africa	120,000	09:25	36:0	44	34	0	10
-1476	G&M	teu	Soo	1	nsah	Kuliak	Uganda	Africa	5,000	02:35	34:46	28	18	0	10
-1477	G&M	bcq	Gimira	1	afas	North Omotic	Ethiopia	Africa	174,000	07:00	35:45	56	46	5	5
-1478	G&M	bcq	Bench	2	afas	North Omotic	Ethiopia	Africa	174,000	07:00	35:45	40	29	6	5
-1479	G&M	jnj	Yemsa	1	afas	North Omotic	Ethiopia	Africa	81,600	08:00	37:30	40	25	5	10
-1480	G&M	zay	Zayse	1	afas	North Omotic	Ethiopia	Africa	17,800	05:50	37:22	32	27	0	5
-1481	G&M	gmo	Gamo	1	afas	North Omotic	Ethiopia	Africa	400000	06:40	37:10	36	26	0	10
-1482	G&M	kqy	Koorete	1	afas	North Omotic	Ethiopia	Africa	104,000	05:45	37:50	61	51	0	10
-1483	G&M	aiw	Aari	1	afas	South Omotic	Ethiopia	Africa	155,000	NULL	NULL	36	26	0	10
-1484	G&M	xom	Komo	1	nsah	Koman	Sudan	Africa	10,000	09:00	34:0	28	23	0	5
-1485	G&M	udu	Twampa	1	nsah	Koman	Ethiopia	Africa	20,000	08:14	34:25	28	23	0	5
-1486	G&M	lgn	Opo	1	nsah	Koman	Ethiopia	Africa	1,000	08:20	33:55	25	20	0	5
-1487	G&M	kmq	Kwama	1	nsah	Koman	Ethiopia	Africa	15,000	09:30	34:10	25	20	0	5
-1488	G&M	mdm	Mayogo	1	ncon	Ubangi	Democratic Republic of the Congo	Africa	100,000	03:10	28:10	46	33	3	10
-1489	G&M	lsm	Lusaamia	1	ncon	Bantoid	Uganda	Africa	335,000	NULL	NULL	34	20	4	10
-1490	G&M	nnw	Nouni	1	ncon	Gur	Burkina Faso	Africa	168,000	11:30	-2:0	60	38	4	18
-1491	G&M	nde	Ndebele	1	ncon	Bantoid	Zimbabwe	Africa	1,550,000	-20:0	29:0	68	61	2	5
-1492	G&M	sxw	Saxwe, Gbe	1	ncon	Kwa	Benin	Africa	6,270	06:40	01:52	38	24	2	12
-1493	G&M	loh	Laarim	1	nsah	Surmic	Sudan	Africa	3,620	04:50	33:30	34	22	3	9
-1494	G&M	bjg	Bijogo	1	ncon	Bijago	Guinea-Bissau	Africa	29,900	11:20	-16:0	25	18	0	7
-1495	G&M	doy	Dompo	1	ncon	Kwa	Ghana	Africa	65	07:45	-01:30	31	22	2	7
-1496	G&M	bam	Bamana	1	ncon	Western Mande	Mali	Africa	2,700,000	10:05	-07:10	58	32	2	24
-1497	G&M	hbn	Heiban	1	ncon	Heiban	Sudan	Africa	4,410	11:15	30:30	34	27	0	7
-1498	G&M	kga	Koyaga	1	ncon	Western Mande	Côte d'Ivoire	Africa	60,000	08:30	-06:10	43	29	2	12
-1499	G&M	shw	Cwaya	1	ncon	Heiban	Sudan	Africa	3,500	11:15	30:20	38	25	3	10
-1500	G&M	ttb	Tiba	1	ncon	Bantoid	Nigeria	Africa	10,000	08:30	12:00	34	22	3	9
-1501	G&M	kua	Kwanyama	1	ncon	Bantoid	Angola	Africa	421,000	17:00	16:30	33	26	2	5
-1502	G&M	lnb	Mbalanhu	1	ncon	Bantoid	Namibia	Africa	200	-17:30	15:00	31	23	2	6
-1503	G&M	kwm	Kwambi	1	ncon	Bantoid	Namibia	Africa	32,700	-18:0	16:50	37	29	2	6
-1504	G&M	nne	Ngandjera	1	ncon	Bantoid	Angola	Africa	13,100	-16:35	21:50	37	30	2	5
-1505	G&M	ndo	Ndonga (Kwaluudhi)	2	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	36	29	2	5
-1506	G&M	ndo	Ndonga (Kolonkadhi)	3	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	36	29	2	5
-1507	G&M	ndo	Ndonga (Eunda)	4	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	36	29	2	5
-1508	G&M	xon	Konkomba	1	ncon	Gur	Ghana	Africa	500,000	09:55	00:05	38	21	3	14
-1509	G&M	zag	Beria	1	nsah	Eastern Saharan	Sudan	Africa	75,000	15:10	24:0	33	21	3	9
-1510	G&M	zwa	Zway	1	afas	Semitic	Ethiopia	Africa	4,880	07:56	38:50	37	23	0	14
-1511	G&M	zmx	Leke	1	ncon	Bantoid	Congo	Africa	9,600	01:40	17:30	28	16	2	10
-1512	G&M	bbo	Bobo, North	1	ncon	Western Mande	Burkina Faso	Africa	35,000	12:20	-04:20	37	21	3	13
-1513	G&M	bez	Bena	1	ncon	Bantoid	Tanzania	Africa	670,000	09:00	35:0	34	22	2	10
-1514	G&M	gkp	Kpelle, North	1	ncon	Western Mande	Guinea	Africa	308,000	08:00	-9:0	39	24	3	12
-1515	G&M	kke	Kakabe	1	ncon	Western Mande	Guinea	Africa	4,100	NULL	NULL	38	22	2	14
-1516	G&M	llc	Lele	1	ncon	Western Mande	Guinea	Africa	23,000	09:15	-10:30	28	19	2	7
-1517	G&M	lom	Looma	1	ncon	Western Mande	Liberia	Africa	165,000	08:00	-09:50	51	21	2	28
-1518	G&M	mev	Mano	1	ncon	Eastern Mande	Liberia	Africa	188,000	07:00	-9:0	39	22	3	14
-1519	G&M	tye	Kyanga	1	ncon	Eastern Mande	Nigeria	Africa	4,000	11:33	03:35	37	22	3	12
-1520	G&M	sho	Shanga	1	ncon	Eastern Mande	Nigeria	Africa	5,000	11:30	04:00	37	22	3	12
-1521	G&M	abu	Abure	1	ncon	Kwa	Côte d'Ivoire	Africa	55,100	05:15	-03:30	36	20	2	14
-1522	G&M	abb	Bankon	1	ncon	Bantoid	Cameroon	Africa	12,000	04:22	09:35	37	26	4	7
-1523	G&M	afu	Efutu	1	ncon	Kwa	Ghana	Africa	180,000	05:25	00:35	50	30	2	18
-1524	G&M	agq	Aghem	1	ncon	Bantoid	Cameroon	Africa	26,700	06:39	10:00	49	28	2	19
-1525	G&M	arv	Arbore	1	afas	Eastern Cushitic	Ethiopia	Africa	4,440	05:00	36:45	59	49	0	10
-1526	G&M	abi	Abidji	1	ncon	Kwa	Côte d'Ivoire	Africa	50,500	05:40	-04:35	38	21	2	15
-1527	G&M	adj	Adioukrou	1	ncon	Kwa	Côte d'Ivoire	Africa	100,000	05:40	04:30	32	21	4	7
-1528	G&M	ahi	Aizi, Tiagba	1	ncon	Kru	Côte d'Ivoire	Africa	9,000	05:20	-04:40	32	24	0	8
-1529	G&M	ald	Alladian	1	ncon	Kwa	Côte d'Ivoire	Africa	23,000	05:13	-04:20	36	23	2	11
-1530	G&M	ahs	Tinɔr	1	ncon	Platoid	Nigeria	Africa	35,000	09:20	07:25	36	24	3	9
-1531	G&M	zdj	Shindazidja	1	ncon	Bantoid	Comoros	Africa	300,000	NULL	NULL	48	41	2	5
-1532	G&M	ibe	Akpes	1	ncon	Akpes 	Nigeria	Africa	10,000	07:30	05:57	34	21	3	10
-1533	G&M	etx	Iten	1	ncon	Platoid	Nigeria	Africa	40,000	09:44	08:38	74	63	5	6
-1534	G&M	nus	Nuer	1	nsah	Nilotic	Sudan	Africa	740,000	08:40	32:0	48	20	0	28
-1535	G&M	gel	West Kainji	1	ncon	Kainji	Nigeria	Africa	36,000	11:30	04:50	56	36	4	16
-1536	G&M	idu	Idu	1	ncon	Idomoid	Nigeria	Africa	600,000	06:55	07:30	75	47	5	23
-1537	G&M	iri	Rigwe	1	ncon	Platoid	Nigeria	Africa	40,000	09:50	08:40	95	79	4	12
-1538	G&M	izr	Izere	1	ncon	Platoid	Nigeria	Africa	50,000	NULL	NULL	39	27	5	7
-1539	G&M	jer	Jere	1	ncon	Kainji	Nigeria	Africa	23,000	10:15	08:50	44	24	4	16
-1540	G&M	agb	Leggbo	1	ncon	Cross River	Nigeria	Africa	60,000	06:00	08:00	53	38	3	12
-1541	G&M	lgq	Logba	1	ncon	Kwa	Ghana	Africa	7,500	06:55	00:25	35	25	3	7
-1542	G&M	awn	Awngi	1	afas	Central Cushitic	Ethiopia	Africa	500,000	10:50	36:40	39	30	3	6
-1543	G&M	glw	Glavda	1	afas	Biu-Mandara	Nigeria	Africa	28,500	11:15	13:55	43	34	2	7
-1544	G&M	ahn	Ahaan	1	ncon	Defoid	Nigeria	Africa	300	07:26	06:00	43	26	3	14
-1545	G&M	aye	Uwu	1	ncon	Defoid	Nigeria	Africa	3,000	07:30	06:00	43	26	3	14
-1546	G&M	rng	Ronga	1	ncon	Bantoid	Mozambique	Africa	721,000	-26:20	32:30	69	64	0	5
-1547	G&M	wni	Comorian, Ndzwani	1	ncon	Bantoid	Comoros	Africa	264,000	NULL	NULL	39	32	2	5
-1548	G&M	biv	Birifor	1	ncon	Gur	Ghana	Africa	125,000	09:40	-02:40	52	25	0	27
-1549	G&M	cwt	Kwatay	1	ncon	Northern Atlantic	Senegal	Africa	6,210	12:30	-16:45	34	20	4	10
-1550	G&M	ati	Attie	1	ncon	Kwa	Côte d'Ivoire	Africa	381,000	06:00	-03:45	47	24	8	15
-1551	G&M	aoa	Angolar	1	afpc	Creoles and Pidgins	São Tomé e Príncipe	Africa	5,000	00:15	06:30	36	22	2	12
-1552	G&M	hae	Oromo, Eastern	1	afas	Eastern Cushitic	Ethiopia	Africa	4,530,000	08:30	41:40	60	48	2	10
-1553	G&M	pov	Kriyol	1	afpc	Creoles and Pidgins	Guinea-Bissau	Africa	206,000	12:00	15:00	28	23	0	5
-1554	G&M	bss	Akoose	1	ncon	Bantoid	Cameroon	Africa	100,000	05:00	09:40	32	18	2	12
-1555	G&M	bqz	Bakaka (Mwaneka)	1	ncon	Bantoid	Cameroon	Africa	30,000	04:50	09:49	34	19	2	13
-1556	G&M	bqz	Bakaka (Babong)	2	ncon	Bantoid	Cameroon	Africa	30,000	04:50	09:49	31	15	2	14
-1557	G&M	bqz	Bakaka (Mkaa')	3	ncon	Bantoid	Cameroon	Africa	30,000	04:50	09:49	32	16	2	14
-1558	G&M	mbo	Mbo (Ekanang)	1	ncon	Bantoid	Cameroon	Africa	45,000	05:00	09:55	35	19	2	14
-1559	G&M	bsi	Bassossi	1	ncon	Bantoid	Cameroon	Africa	5,000	05:15	09:30	34	20	2	12
-1560	G&M	mbo	Mbo (Ngwatta)	2	ncon	Bantoid	Cameroon	Africa	45,000	05:00	09:55	36	21	2	13
-1561	G&M	lir	Liberian English	1	afpc	Creoles and Pidgins	Liberia	Africa	No_estimate_available	06:30	-09:30	36	24	0	12
-1562	G&M	ggu	Gban	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	36,600	06:30	-05:30	36	20	4	12
-1563	G&M	eto	Eton	1	ncon	Bantoid	Cameroon	Africa	52,000	04:15	11:30	38	21	2	15
-1564	G&M	rcf	Reunionnais	1	afpc	Creoles and Pidgins	Réunion	Africa	555,000	-21:10	55:30	42	30	0	12
-1565	G&M	mls	Masalit	1	nsah	Maban	Sudan	Africa	60,900	10:30	26:0	45	31	4	10
-1566	G&M	cri	Saotomense	1	afpc	Creoles and Pidgins	São Tomé e Príncipe	Africa	69,900	00:15	06:40	32	19	0	13
-1567	G&M	tan	Tangale	1	afas	West Chadic	Nigeria	Africa	130,000	09:55	11:13	60	40	2	18
-1568	G&M	suk	Sukuma	1	ncon	Bantoid	Tanzania	Africa	5,430,000	-3:0	33:15	57	38	5	14
-1569	G&M	mfe	Mauritian Creole	1	afpc	Creoles and Pidgins	Mauritius	Africa	800,000	-20:10	57:30	30	21	0	9
-1570	G&M	kri	Krio	1	afpc	Creoles and Pidgins	Sierra Leone	Africa	473,000	08:20	-13:10	35	25	3	7
-1571	G&M	ktu	Kituba	1	afpc	Creoles and Pidgins	Democratic Republic of the Congo	Africa	4,200,000	05:00	17:30	22	15	2	5
-1572	G&M	aks	Akasilimi	1	ncon	Gur	Togo	Africa	47,500	08:50	01:20	52	20	3	29
-1573	G&M	bag	Tuki	1	ncon	Bantoid	Cameroon	Africa	26,000	04:38	11:35	39	25	4	10
-1574	G&M	bkc	Baka	1	ncon	Ubangi	Cameroon	Africa	40,000	02:30	15:30	35	25	3	7
-1575	G&M	bmv	Bum	1	ncon	Bantoid	Cameroon	Africa	21,400	06:30	10:25	47	37	3	7
-1576	G&M	dbq	Daba	1	afas	Biu-Mandara	Cameroon	Africa	24,000	NULL	NULL	46	36	4	6
-1577	G&M	gou	Gavar	1	afas	Biu-Mandara	Cameroon	Africa	7,000	10:30	13:50	55	47	3	5
-1578	G&M	gde	Gu'de	1	afas	Biu-Mandara	Nigeria	Africa	68,000	10:10	13:25	36	30	2	4
-1579	G&M	lno	Lango	1	nsah	Nilotic	Sudan	Africa	38,000	03:50	33:0	32	16	6	10
-1580	G&M	ahl	Igo	1	ncon	Kwa	Togo	Africa	6,000	06:40	00:40	33	23	3	7
-1581	G&M	kkj	Kako	1	ncon	Bantoid	Cameroon	Africa	100,000	04:20	14:15	47	33	2	12
-1582	G&M	knp	Kwanja	1	ncon	Bantoid	Cameroon	Africa	20,000	06:25	11:40	43	21	4	18
-1583	G&M	mcu	Mambila	1	ncon	Bantoid	Cameroon	Africa	30,000	06:30	11:30	35	20	4	11
-1584	G&M	meq	Mere	1	afas	Biu-Mandara	Cameroon	Africa	10,000	10:45	14:05	44	33	3	8
-1585	G&M	mfi	Mandara	1	afas	Biu-Mandara	Cameroon	Africa	23,500	11:13	14:00	52	45	2	5
-1586	G&M	coh	Chonyi	1	ncon	Bantoid	Kenya	Africa	121,000	-03:45	39:45	47	40	2	5
-1587	G&M	dig	Digo	1	ncon	Bantoid	Kenya	Africa	217,000	-04:15	39:30	48	41	2	5
-1588	G&M	dug	Duruma	1	ncon	Bantoid	Kenya	Africa	247,000	-4:0	39:15	47	40	2	5
-1589	G&M	nyf	Giryama	1	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
-1590	G&M	nyf	Jiβana	2	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
-1591	G&M	nyf	Kambe	3	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
-1592	G&M	nyf	Kauma	4	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
-1593	G&M	nyf	Raβai	5	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
-1594	G&M	nyf	Reβe	6	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
-1595	G&M	mlr	Vame	1	afas	Biu-Mandara	Cameroon	Africa	8,500	10:56	14:13	46	38	3	5
-1596	G&M	mmu	Numala	1	ncon	Bantoid	Cameroon	Africa	5,300	04:30	11:05	34	23	2	9
-1597	G&M	mpi	Kotoko	1	afas	Biu-Mandara	Cameroon	Africa	16,000	12:30	14:30	40	30	4	6
-1598	G&M	mif	Mofu, South	1	afas	Biu-Mandara	Cameroon	Africa	60,000	10:30	14:00	40	35	0	5
-1599	G&M	mtk	Mbe	1	ncon	Bantoid	Cameroon	Africa	1,490	06:15	11:05	57	48	2	7
-1600	G&M	ncr	Nchane	1	ncon	Bantoid	Cameroon	Africa	15,500	06:30	10:35	41	17	6	18
-1601	G&M	nfu	Mfumte	1	ncon	Bantoid	Cameroon	Africa	24,700	06:40	11:00	89	74	5	10
-1602	G&M	njy	Njem	1	ncon	Bantoid	Cameroon	Africa	3,500	NULL	NULL	42	20	2	20
-1603	G&M	box	Bwamut	1	ncon	Gur	Burkina Faso	Africa	186,000	11:40	-03:50	28	17	3	8
-1604	G&M	ktf	Kwami	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400	-01:30	27:30	40	28	2	10
-1605	G&M	goa	Gouro	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	332,000	07:25	-06:10	57	26	3	28
-1606	G&M	kea	Cape Verde Creole	1	eupc	Creoles and Pidgins	Cape Verde Islands	Africa	394,000	16:46	-24:46	28	21	0	7
-1607	G&M	nku	Kulango	1	ncon	Gur	Côte d'Ivoire	Africa	142,000	09:00	-3:0	46	27	2	17
-1608	G&M	tsb	Ts'amakko	1	afas	Eastern Cushitic	Ethiopia	Africa	8,620	05:25	37:02	68	56	2	10
-1609	G&M	tzm	Tamazight Berber	1	afas	Berber	Morocco	Africa	3,000,000	32:0	-4:0	39	36	0	3
-1610	G&M	siz	Siwi	1	afas	Berber	Egypt	Africa	30,000	29:0	26:0	38	26	0	12
-1611	G&M	ndj	Ndamba	1	ncon	Bantoid	Tanzania	Africa	55,000	-08:25	36:0	24	19	0	5
-1612	G&M	bva	Barein (Jalkiya)	2	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	41	28	3	10
-1613	G&M	bva	Barein (Giliya)	3	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	29	16	3	10
-1614	G&M	bva	Barein (Jalking)	4	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	44	31	3	10
-1615	G&M	bva	Barein (Komiya)	1	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	44	32	2	10
-1616	G&M	tbi	Gaahmg	1	nsah	Eastern Jebel	Sudan	Africa	67,200	11:20	34:0	49	34	3	12
-1617	G&M	mij	Mungbam	1	ncon	Bantoid	Cameroon	Africa	2,000	06:35	10:15	36	24	4	8
-1618	G&M	boe	Mundabli	1	ncon	Bantoid	Cameroon	Africa	1,000	06:35	10:15	38	22	4	12
-1619	G&M	muc	Ajumbu	1	ncon	Bantoid	Cameroon	Africa	1,000	NULL	NULL	39	26	3	10
-1620	G&M	kid	Koshin	1	ncon	Bantoid	Cameroon	Africa	1,000	06:35	10:20	37	23	3	11
-1621	G&M	fak	Fang	1	ncon	Bantoid	Cameroon	Africa	2,400	NULL	NULL	36	23	3	10
-1622	G&M	knk	Kuranko	1	ncon	Western Mande	Sierra Leone	Africa	268,000	09:15	-11:0	54	26	0	28
-1623	G&M	nie	Lwaa	1	ncon	Adamawa	Chad	Africa	5,160	09:45	17:40	59	26	3	30
-1624	G&M	gis	Gisiga	1	afas	Biu-Mandara	Cameroon	Africa	20,000	10:40	14:15	37	29	5	3
-1625	G&M	mgo	Moghamo	1	ncon	Bantoid	Cameroon	Africa	87,000	05:55	09:55	50	33	3	14
-1626	G&M	bri	Mokpwe	1	ncon	Bantoid	Cameroon	Africa	32,200	04:10	09:15	31	22	2	7
-1627	G&M	sif	Siamou	1	ncon	Kru	Burkina Faso	Africa	20,000	11:00	-5:0	41	22	5	14
-1628	G&M	nnh	Ngiemboon	1	ncon	Bantoid	Cameroon	Africa	250,000	05:25	10:05	30	19	4	7
-1629	G&M	yas	Nugunu	1	ncon	Bantoid	Cameroon	Africa	35,000	04:40	11:15	35	24	4	7
-1630	G&M	nza	Mbembe	1	ncon	Platoid	Cameroon	Africa	36,000	06:50	10:45	116	99	5	12
-1631	G&M	orc	Orma	1	afas	Eastern Cushitic	Kenya	Africa	69,000	-2:0	39:30	33	23	0	10
-1632	G&M	pny	Pinyin	1	ncon	Bantoid	Cameroon	Africa	24,600	05:49	10:05	66	42	5	19
-1633	G&M	pnz	Pana	1	ncon	Adamawa	Central African Republic	Africa	82,000	07:15	15:45	66	34	4	28
-1634	G&M	atu	Thok Reel	1	nsah	Nilotic	Sudan	Africa	50,000	06:30	30:45	63	20	3	40
-1635	G&M	udl	Ouldeme	1	afas	Biu-Mandara	Cameroon	Africa	10,500	10:56	14:08	42	34	3	5
-1636	G&M	les	Balese	1	nsah	Mangbutu-Efe	Democratic Republic of the Congo	Africa	50,000	02:00	29:0	42	29	3	10
-1637	G&M	neb	Toura	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	38,500	07:40	-07:38	39	21	4	14
-1638	G&M	gwe	Kigweno	1	ncon	Bantoid	Tanzania	Africa	2,200	-03:40	37:45	29	24	0	5
-1639	G&M	suw	Sisumbwa	1	ncon	Bantoid	Tanzania	Africa	191,000	-03:40	32:0	32	20	2	10
-1640	G&M	zin	Luzinza	1	ncon	Bantoid	Tanzania	Africa	138,000	NULL	NULL	30	20	0	10
-1641	G&M	mer	Kimeru	1	ncon	Bantoid	Kenya	Africa	1,740,000	00:15	38:0	27	17	0	10
-1642	G&M	hka	Kikahe	1	ncon	Bantoid	Tanzania	Africa	2,700	-03:20	37:25	32	22	0	10
-1643	G&M	han	Kihangaza	1	ncon	Bantoid	Tanzania	Africa	150,000	-02:40	30:45	35	23	2	10
-1644	G&M	old	Kimochi	1	ncon	Bantoid	Tanzania	Africa	597,000	-03:15	37:30	25	20	0	5
-1645	G&M	ssc	Kisimbiti	1	ncon	Bantoid	Tanzania	Africa	98,700	NULL	NULL	39	23	2	14
-1646	G&M	kya	Eciruuri	1	ncon	Bantoid	Tanzania	Africa	115,000	-01:45	33:45	29	17	2	10
-1647	G&M	www	Wawa	1	ncon	Bantoid	Cameroon	Africa	3,000	06:50	11:45	49	30	3	16
-1648	G&M	shi	Tachelhit	1	afas	Berber	Morocco	Africa	3,000,000	29:30	-8:0	37	33	0	4
-1649	G&M	tug	Tounia	1	ncon	Adamawa	Chad	Africa	2,260	09:25	18:10	40	24	3	13
-1650	G&M	sef	Senoufo, Cebaara	1	ncon	Gur	Côte d'Ivoire	Africa	862,000	09:30	-06:15	43	24	3	16
-1651	G&M	flr	Fuliiru	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	300,000	-03:05	29:0	36	24	2	10
-1652	G&M	sad	Sandawe	1	khoi	Sandawe	Tanzania	Africa	40,000	-05:20	35:25	64	44	5	15
-1653	G&M	tvd	Tsuvaɗi	1	ncon	Kainji	Nigeria	Africa	150,000	11:06	05:15	55	28	3	24
-1654	G&M	etu	Ejagham	1	ncon	Bantoid	Nigeria	Africa	67,300	05:58	08:42	29	19	3	7
-1655	G&M	ybb	Yemba	1	ncon	Bantoid	Cameroon	Africa	300,000	05:27	10:00	27	17	3	7
-1656	G&M	bfj	Nchufie	1	ncon	Bantoid	Cameroon	Africa	17,000	05:51	10:27	59	26	3	30
-1657	G&M	bji	Burji	1	afas	Eastern Cushitic	Ethiopia	Africa	35,700	05:25	37:50	36	26	0	10
-1658	G&M	blo	Anii	1	ncon	Kwa	Benin	Africa	33,600	09:15	01:45	36	23	2	11
-1659	G&M	fip	Fipa	1	ncon	Bantoid	Tanzania	Africa	195,000	-8:0	31:30	35	20	1	14
-1660	G&M	naw	Nawuri	1	ncon	Kwa	Ghana	Africa	14,000	08:30	00:05	40	29	2	9
-1661	G&M	myo	Anfillo	1	afas	North Omotic	Ethiopia	Africa	500	08:40	34:30	48	38	0	10
-1662	G&M	nto	Bokala-Nkole	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	100,000	-01:10	18:00	30	23	0	7
-1663	G&M	tbr	Talasa	1	nsah	Kadugli	Sudan	Africa	7,300	10:25	30:45	55	39	2	14
-1664	G&M	uiv	Iyive	1	ncon	Bantoid	Cameroon	Africa	1,000	06:25	09:35	64	53	4	7
-1665	G&M	btx	Karo Batak	1	anes	Sumatra	Indonesia	Asia	600,000	03:00	98:10	24	16	0	8
-1666	G&M	tgl	Tagalog	1	anes	Meso-Philippine	Philippines	Asia	21,500,000	14:00	121:0	24	19	0	5
-1667	G&M	ssb	Southern Sama	1	anes	Sama-Bajaw	Philippines	Asia	200,000	05:10	120:20	23	17	0	6
-1668	G&M	kqr	Kimaragang	1	anes	Northwest Malayo-Polynesian	Malaysia	Asia	25,000	06:32	116:46	23	18	0	5
-1669	G&M	beg	Belait	1	anes	Western Malayo-Polynesian	Brunei	Asia	1,000	04:30	114:37	25	19	0	6
-1670	G&M	ilo	Iloko/Ilocano	2	anes	Northern Philippines	Philippines	Asia	6,920,000	18:00	120:30	23	17	0	6
-1671	G&M	cjm	Phan Rang Cham (Eastern Cham)	1	anes	Malayic	Viet Nam	Asia	72,900	11:15	108:30	30	21	0	9
-1672	G&M	mkm	Moklen	1	anes	Moklen	Thailand	Asia	1,500	08:30	98:15	46	19	0	27
-1673	G&M	mwt	Moken	1	anes	Moklen	Myanmar	Asia	7,000	09:05	97:50	38	20	0	18
-1674	G&M	nia	Nias	1	anes	Sumatra	Indonesia	Asia	770,000	01:00	97:30	25	19	0	6
-1675	G&M	jav	Javanese	1	anes	Javanese	Indonesia	Asia	84,300,000	-1:0	101:40	33	24	0	9
-1676	G&M	blf	Buol	1	anes	Sulawesi	Indonesia	Asia	75,000	01:00	121:30	23	17	0	6
-1677	G&M	mak	Makassar	1	anes	Sulawesi	Indonesia	Asia	1,600,000	-05:15	119:50	23	18	0	5
-1678	G&M	xmz	Mori Bawah	1	anes	Sulawesi	Indonesia	Asia	16,100	-02:05	121:15	27	22	0	5
-1679	G&M	xbr	Kambera	1	anes	Central Malayo-Polynesian	Indonesia	Asia	235,000	-09:50	120:30	29	19	0	10
-1680	G&M	tet	Tetun	1	anes	Central Malayo-Polynesian	Indonesia	Asia	400,000	-09:20	125:05	18	13	0	5
-1681	G&M	lti	Leti	1	anes	Central Malayo-Polynesian	Indonesia	Asia	7,500	-08:10	127:40	22	10	0	12
-1682	G&M	mky	Makian, East (Taba)	2	anes	South Halmahera - West New Guinea	Indonesia	Asia	20,000	00:15	127:20	23	18	0	5
-1683	G&M	bhw	Biak	2	anes	South Halmahera - West New Guinea	Indonesia	Asia	30,000	-1:0	136:0	19	14	0	5
-1684	G&M	abs	Ambon Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	200,000	-03:50	128:10	23	18	0	5
-1685	G&M	bpq	Banda Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	3,690	NULL	NULL	23	18	0	5
-1686	G&M	xmm	Manado Malay	1	ocpc	Malayic	Indonesia	Asia	850,000	01:25	124:50	25	19	0	6
-1687	G&M	mkn	Kupang Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	200,000	-10:10	123:34	25	19	0	6
-1688	G&M	lrt	Larantuka Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	20,000	NULL	NULL	25	19	0	6
-1689	G&M	max	North Maluku Malay	1	anes	Malayic	Indonesia	Asia	700,000	-1:0	128:20	27	21	0	6
-1690	G&M	ind	Indonesian	1	anes	Malayic	Indonesia	Asia	23,200,480	-06:10	106:50	31	23	0	8
-1691	G&M	mad	Madurese	1	anes	Madurese	Indonesia	Asia	13,600,000	-7:0	113:0	35	27	0	8
-1692	G&M	ceb	Cebuano	1	anes	Meso-Philippine	Philippines	Asia	15,800,000	10:00	124:20	21	18	0	3
-1693	G&M	ban	Balinese	1	anes	Bali-Sasak	Indonesia	Asia	3,330,000	-08:35	116:15	24	18	0	6
-1694	G&M	bug	Bugis	1	anes	Sulawesi	Indonesia	Asia	3,500,000	-4:0	120:0	25	19	0	6
-1695	G&M	bcl	Bikol (Bicolano)	1	anes	Meso-Philippine	Philippines	Asia	2,500,000	13:30	123:0	28	23	0	5
-1696	G&M	hil	Hiligaynon	1	anes	Meso-Philippine	Philippines	Asia	5,770,000	10:00	122:55	25	20	0	5
-1697	G&M	pam	Kapampangan	1	anes	Northern Philippines	Philippines	Asia	1,900,000	15:00	120:30	22	17	0	5
-1698	G&M	min	Minangkabau	1	anes	Malayic	Indonesia	Asia	5,530,000	04:10	96:15	33	23	0	10
-1699	G&M	pag	Pagasinan	1	anes	Northern Philippines	Philippines	Asia	1,160,000	16:00	120:20	21	16	0	5
-1700	G&M	tes	Tengger	1	anes	Javanese	Indonesia	Asia	80,000	-07:55	112:30	42	20	0	22
+1241	GM	fub	Fulfulde (Cameroon)	3	ncon	Northern Atlantic	Cameroon	Africa	669,000	07:00	13:30	47	37	0	10
+1242	GM	any	Anyi Sanvi	1	ncon	Kwa	Côte d'Ivoire	Africa	610,000	07:00	-03:30	40	19	5	16
+1243	GM	any	Agni Djuablin	2	ncon	Kwa	Côte d'Ivoire	Africa	610,000	07:00	-03:30	36	17	5	14
+1244	GM	mtb	Agni Morofo	1	ncon	Kwa	Côte d'Ivoire	Africa	300,000	06:10	-04:40	49	31	4	14
+1245	GM	aka	Akan	1	ncon	Kwa	Ghana	Africa	8,300,000	06:30	-01:30	60	28	2	30
+1246	GM	cko	anufɔ	1	ncon	Kwa	Ghana	Africa	66,000	10:25	00:30	59	45	2	12
+1247	GM	bvx	babole	1	ncon	Bantoid	Congo	Africa	4,000	01:00	17:05	31	21	4	6
+1248	GM	bcw	bana	1	afas	Biu-Mandara	Cameroon	Africa	23,000	10:20	13:40	44	37	4	3
+1249	GM	bdh	baka	1	nsah	Bongo-Bagirmi	Sudan	Africa	25,000	04:45	30:0	46	36	0	10
+1250	GM	aja	aja	1	nsah	Kresh	Sudan	Africa	200	08:40	25:30	48	38	0	10
+1251	GM	bip	bila	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	40,000	01:10	29:0	33	19	5	9
+1252	GM	bqp	busa	1	ncon	Eastern Mande	Nigeria	Africa	40,000	10:20	03:45	31	16	3	12
+1253	GM	fub	fulfulde (fuunaangere)	2	ncon	Northern Atlantic	Cameroon	Africa	669,000	07:00	13:30	39	29	0	10
+1254	GM	fuv	fulfulde (NGA)	1	ncon	Northern Atlantic	Nigeria	Africa	1,710,000	12:35	14:35	57	47	0	10
+1255	GM	her	herero	1	ncon	Bantoid	Namibia	Africa	206,000	-21:0	21:00	26	19	2	5
+1256	GM	sef	Senoufo-Cebaara	2	ncon	Gur	Côte d'Ivoire	Africa	862,000	09:30	-06:15	38	22	3	13
+1257	GM	khq	songhoy	1	nsah	Songhay	Mali	Africa	200,000	16:15	-03:30	43	23	6	14
+1258	GM	ksf	kpaʔ	2	ncon	Bantoid	Cameroon	Africa	60,000	05:00	11:10	48	25	5	18
+1259	GM	lea	lega-shabunda	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400,000	-3:0	27:0	38	18	6	14
+1260	GM	lmp	limbum (southern)	2	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	52	37	0	15
+1261	GM	lmp	limbum (central)	3	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	41	23	0	18
+1262	GM	lmp	limbum (northern)	1	ncon	Bantoid	Cameroon	Africa	73,000	06:30	10:45	33	23	0	10
+1263	GM	mye	myene	1	ncon	Bantoid	Gabon	Africa	46,700	-01:20	09:30	36	29	0	7
+1264	GM	bud	N'cam	1	ncon	Gur	Togo	Africa	100,000	10:05	00:30	43	21	3	19
+1265	GM	baz	Nen	1	ncon	Bantoid	Cameroon	Africa	35,300	04:45	10:35	26	17	2	7
+1266	GM	mgw	matuumbi	1	ncon	Bantoid	Tanzania	Africa	72,000	-08:35	39:0	23	15	3	5
+1267	GM	yao	yao	1	ncon	Bantoid	Malawi	Africa	1,000,000	-14:40	35:30	29	18	4	7
+1268	GM	umb	umbundu	1	ncon	Bantoid	Angola	Africa	4,000,000	-13:0	14:30	30	20	0	10
+1269	GM	ndo	ndonga	1	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	30	25	0	5
+1270	GM	mhw	mbukushu	1	ncon	Bantoid	Namibia	Africa	6,100	18:00	22:50	29	22	0	7
+1271	GM	diu	diriku	1	ncon	Bantoid	Namibia	Africa	10,200	-18:20	21:40	28	23	0	5
+1272	GM	kwn	kwangari	1	ncon	Bantoid	Namibia	Africa	73,100	-18:10	20:50	27	22	0	5
+1273	GM	snk	soninke (kaedi (MRT))	1	ncon	Western Mande	Mali	Africa	700,000	15:00	-9:0	50	28	7	15
+1274	GM	ses	Songhay, Koyraboro Senni	1	nsah	Songhay	Mali	Africa	100,000	17:00	-1:0	37	23	0	14
+1275	GM	lln	Lele	1	afas	East Chadic	Chad	Africa	26,000	09:10	15:45	36	23	3	10
+1276	GM	kck	Ikalanga	1	ncon	Bantoid	Zimbabwe	Africa	700,000	-21:30	26:50	71	62	4	5
+1277	GM	lol	mongo-nkundu	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400,000	-1:0	20:00	56	45	4	7
+1278	GM	wok	longto	1	ncon	Adamawa	Cameroon	Africa	2,400	08:20	13:05	31	20	4	7
+1279	GM	xwe	xwela	1	ncon	Kwa	Benin	Africa	65,000	06:35	01:50	45	29	3	13
+1280	GM	xwl	western xwla	1	ncon	Kwa	Benin	Africa	50,000	06:22	02:33	45	29	3	13
+1281	GM	kqk	kotafon	1	ncon	Kwa	Benin	Africa	100,000	06:40	01:40	45	29	3	13
+1282	GM	gbs	gbesi	1	ncon	Kwa	Benin	Africa	65,000	NULL	NULL	47	31	3	13
+1283	GM	jmc	machame	1	ncon	Bantoid	Tanzania	Africa	300,000	-03:20	37:0	46	33	3	10
+1284	GM	mda	mada	1	ncon	Platoid	Nigeria	Africa	100,000	08:40	08:15	41	23	5	13
+1285	GM	mfo	mbe	1	ncon	Bantoid	Nigeria	Africa	14,300	06:35	08:50	37	26	4	7
+1286	GM	nwe	ngwe	1	ncon	Bantoid	Cameroon	Africa	73,200	05:30	09:55	38	24	0	14
+1287	GM	jow	jowulu	1	ncon	Western Mande	Mali	Africa	10,000	10:50	-05:30	45	20	4	21
+1288	GM	yba	yala	1	ncon	Idomoid	Nigeria	Africa	50,000	06:45	08:37	38	28	3	7
+1289	GM	mgr	cilungu	1	ncon	Bantoid	Zambia	Africa	379,000	-9:0	31:0	36	19	7	10
+1290	GM	kcv	kete	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	8,400	-7:0	23:00	25	16	4	5
+1291	GM	kws	kwezo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	60,000	-5:0	18:50	25	16	3	6
+1292	GM	snm	Madi	1	nsah	Moru-Madi	Uganda	Africa	48,000	02:45	31:05	59	47	3	9
+1293	GM	mgd	Moru	1	nsah	Moru-Madi	Sudan	Africa	70,000	04:45	29:45	38	26	3	9
+1294	GM	log	Logo	1	nsah	Moru-Madi	Democratic Republic of the Congo	Africa	210,000	03:20	30:0	39	27	3	9
+1295	GM	aft	Afitti	1	nsah	Nyimang	Sudan	Africa	4,510	12:28	30:45	26	17	3	6
+1296	GM	avn	Avatime	1	ncon	Kwa	Ghana	Africa	24,000	06:53	00:25	50	28	4	18
+1297	GM	abn	Abua	1	ncon	Cross River	Nigeria	Africa	25,000	09:02	08:40	40	27	3	10
+1298	GM	any	Anyi	3	ncon	Kwa	Côte d'Ivoire	Africa	610,000	07:00	-03:30	39	21	4	14
+1299	GM	dgh	Dghwede	1	afas	Biu-Mandara	Nigeria	Africa	30,000	11:10	13:50	38	33	2	3
+1300	GM	afo	Eloyi	1	ncon	Idomoid	Nigeria	Africa	25,000	08:15	08:00	51	41	3	7
+1301	GM	fuv	Fula (Nigeria)	2	ncon	Northern Atlantic	Nigeria	Africa	1,710,000	12:35	14:35	38	28	0	10
+1302	GM	acd	Gechode	1	ncon	Kwa	Ghana	Africa	10,400	08:20	00:35	51	29	0	22
+1303	GM	ayg	Genyanga	1	ncon	Kwa	Togo	Africa	12,000	08:14	01:00	53	31	0	22
+1304	GM	hbb	Kilba	1	afas	Biu-Mandara	Nigeria	Africa	175,000	10:20	13:10	31	24	2	5
+1305	GM	kwl	Kofyar	1	afas	West Chadic	Nigeria	Africa	110,000	08:50	09:10	36	23	3	10
+1306	GM	kye	Krache	1	ncon	Kwa	Ghana	Africa	58,000	08:00	00:00	44	17	3	24
+1307	GM	krm	Krim	1	ncon	Southern Atlantic	Sierra Leone	Africa	500	07:15	-11:50	38	22	0	16
+1308	GM	bbp	Banda, West Central	1	ncon	Adamawa	Central African Republic	Africa	4,500	06:00	20:20	46	31	5	10
+1309	GM	dib	Dinka, South Central	1	nsah	Nilotic	Sudan	Africa	250,000	06:50	30:0	60	20	3	37
+1310	GM	fod	Foodo	1	ncon	Kwa	Benin	Africa	24,500	09:35	01:30	44	23	3	18
+1311	GM	csk	Joola Huluf	1	ncon	Northern Atlantic	Senegal	Africa	45,100	12:30	-16:40	51	31	0	20
+1312	GM	jum	Jumjum	1	nsah	Nilotic	Sudan	Africa	25,000	10:35	34:0	39	20	3	16
+1313	GM	bdi	Burun	1	nsah	Nilotic	Sudan	Africa	18,000	10:45	34:0	38	19	3	16
+1314	GM	lul	Lulubo	1	nsah	Central Cushitic	Sudan	Africa	15,000	04:45	32:0	46	34	3	9
+1315	GM	ymm	Maay	1	afas	Eastern Cushitic	Somalia	Africa	1,860,000	04:00	44:0	32	22	0	10
+1316	GM	mfz	Mabaan	1	nsah	Nilotic	Sudan	Africa	No_estimate_available	09:45	33:45	45	19	4	22
+1317	GM	sgi	Nizaa	1	ncon	Bantoid	Cameroon	Africa	10,000	07:05	12:30	90	58	9	23
+1318	GM	cce	Copi	1	ncon	Bantoid	Mozambique	Africa	760,000	-24:35	34:50	68	61	2	5
+1319	GM	xho	Xhosa	1	ncon	Bantoid	South Africa	Africa	7,790,000	-32:0	28:0	84	75	2	7
+1320	GM	akp	Siwu	1	ncon	Kwa	Ghana	Africa	27,000	07:15	00:25	37	20	3	14
+1321	GM	bun	Sherbro	1	ncon	Southern Atlantic	Sierra Leone	Africa	135,000	07:20	-12:16	31	24	0	7
+1322	GM	buy	Mmani	1	ncon	Southern Atlantic	Sierra Leone	Africa	8,350	09:00	-13:10	36	22	0	14
+1323	GM	cpn	Hill Guang	1	ncon	Kwa	Ghana	Africa	111,000	06:00	00:05	38	26	2	10
+1324	GM	fap	Ndut-Falor	1	ncon	Northern Atlantic	Senegal	Africa	10,700	14:55	-17:0	43	26	0	17
+1325	GM	gur	Frafra	1	ncon	Gur	Ghana	Africa	820,000	10:45	00:55	30	20	2	8
+1326	GM	lip	Likpe	1	ncon	Kwa	Ghana	Africa	23,400	07:10	00:35	33	21	3	9
+1327	GM	maw	Mampruli	1	ncon	Gur	Ghana	Africa	220,000	10:20	00:55	36	24	2	10
+1328	GM	toi	Shanjo	1	ncon	Bantoid	Zambia	Africa	990,000	-17:0	27:0	41	33	3	5
+1329	GM	pbp	Pajade	1	ncon	Northern Atlantic	Guinea	Africa	6,300	12:30	-13:40	43	25	0	18
+1330	GM	snw	Sele	1	ncon	Kwa	Ghana	Africa	11,300	07:10	00:25	33	18	3	12
+1331	GM	tiv	Tiv	1	ncon	Bantoid	Nigeria	Africa	2,210,000	07:30	09:00	40	31	3	6
+1332	GM	byn	Blin	1	afas	Central Cushitic	Eritrea	Africa	91,000	15:50	38:20	38	31	0	7
+1333	GM	xan	Xamtanga	1	afas	Central Cushitic	Ethiopia	Africa	143,000	12:25	38:50	30	23	0	7
+1334	GM	lik	Lika	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	60,000	02:05	27:35	45	33	3	9
+1335	GM	yns	Yanzi	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	100,000	-03:50	18:00	42	17	3	22
+1336	GM	buu	Kibudu	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	180,000	02:00	28:0	43	31	3	9
+1337	GM	khy	Iikile	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	160,000	00:10	23:50	30	21	2	7
+1338	GM	lej	Lengola	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	100,000	00:30	25:0	32	24	3	5
+1339	GM	kbo	Kaliko	1	nsah	Moru-Madi	Sudan	Africa	10,000	03:40	30:30	45	36	3	6
+1340	GM	won	Wongo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	12,700	-05:45	20:30	24	15	2	7
+1341	GM	wlc	Mwali	1	ncon	Bantoid	Comoros	Africa	27,200	NULL	NULL	24	19	0	5
+1342	GM	aar	Afar	1	afas	Eastern Cushitic	Ethiopia	Africa	979,000	12:00	42:0	27	17	0	10
+1343	GM	mua	Mundang	1	ncon	Adamawa	Chad	Africa	191,000	09:35	14:30	67	37	3	27
+1344	GM	mru	Mono	1	ncon	Adamawa	Cameroon	Africa	300	08:45	14:15	62	35	3	24
+1345	GM	tui	Tupuri	1	ncon	Adamawa	Cameroon	Africa	125,000	10:10	14:50	56	28	4	24
+1346	GM	xuo	Kuo	1	ncon	Adamawa	Chad	Africa	11,800	08:00	15:35	56	29	3	24
+1347	GM	kbn	Kare	1	ncon	Adamawa	Central African Republic	Africa	93,000	06:40	16:20	57	30	3	24
+1348	GM	gke	Galke	1	ncon	Adamawa	Cameroon	Africa	5	08:05	14:20	57	32	3	22
+1349	GM	myf	Northern Mao	1	afas	North Omotic	Ethiopia	Africa	5,000	09:55	34:30	36	23	3	10
+1350	GM	tir	Tigrinya	1	afas	Semitic	Ethiopia	Africa	3,220,000	14:00	38:0	39	32	0	7
+1351	GM	kdj	Karimojong	1	nsah	Nilotic	Uganda	Africa	260,000	02:30	34:30	66	21	6	39
+1352	GM	gwn	Gwandara (Karshi)	1	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	46	28	8	10
+1353	GM	gwn	Gwandara (Cancara)	5	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	52	32	8	12
+1354	GM	gwn	Gwandara (Toni)	2	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	48	28	8	12
+1355	GM	gwn	Gwandara (Gitata)	3	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	64	35	8	21
+1356	GM	gwn	Gwandara (Koro)	4	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	48	28	8	12
+1357	GM	gwn	Gwandara (Nimbia)	6	afas	West Chadic	Nigeria	Africa	27,300	09:40	08:10	65	43	8	14
+1358	GM	avi	Avikam	1	ncon	Kwa	Côte d'Ivoire	Africa	21,000	05:06	-05:26	34	25	3	6
+1359	GM	shk	Shilluk	1	nsah	Nilotic	Sudan	Africa	175,000	09:40	32:0	54	25	3	26
+1360	GM	hgm	San	1	khoi	Southern Khoisan	Namibia	Africa	18,400	-20:0	18:00	29	24	0	5
+1361	GM	pip	Pero	1	afas	West Chadic	Nigeria	Africa	25,000	09:35	11:00	30	18	2	10
+1362	GM	gax	Galla	1	afas	Eastern Cushitic	Ethiopia	Africa	3,630,000	06:00	39:0	36	26	0	10
+1363	GM	hdy	Hadiyya	1	afas	Eastern Cushitic	Ethiopia	Africa	924,000	07:15	38:0	56	46	0	10
+1364	GM	wal	Welamo	1	afas	North Omotic	Ethiopia	Africa	1,230,000	06:50	37:45	48	38	0	10
+1365	GM	njx	Nyanga	1	ncon	Bantoid	Congo	Africa	52,000	NULL	NULL	55	44	4	7
+1366	GM	lot	Otuho	1	nsah	Nilotic	Sudan	Africa	135,000	04:00	33:0	56	33	3	20
+1367	GM	myx	Orusyan	1	ncon	Bantoid	Uganda	Africa	1,120,000	01:20	34:15	63	51	0	12
+1368	GM	hig	Higi	1	afas	Biu-Mandara	Nigeria	Africa	300,000	10:36	13:20	35	26	2	7
+1369	GM	mzj	Manya	1	ncon	Western Mande	Liberia	Africa	50,400	08:20	-09:40	27	18	2	7
+1370	GM	say	Syan	1	afas	West Chadic	Nigeria	Africa	50,000	09:40	09:45	54	39	3	12
+1371	GM	nzb	Nzɛbi	1	ncon	Bantoid	Gabon	Africa	120,000	-01:15	13:00	34	24	2	8
+1372	GM	dsq	Tadaksahak	1	nsah	Songhay	Mali	Africa	100,000	15:30	03:00	70	59	0	11
+1373	GM	ktb	Kambaata	1	afas	Eastern Cushitic	Ethiopia	Africa	570,000	07:25	37:55	59	49	0	10
+1374	GM	otr	Otoro	1	ncon	Heiban	Sudan	Africa	10,000	11:05	30:35	44	30	0	14
+1375	GM	tic	Tira	1	ncon	Heiban	Sudan	Africa	40,000	11:00	30:30	42	26	0	16
+1376	GM	nmi	Nyam	1	afas	West Chadic	Nigeria	Africa	100	09:10	10:50	56	39	3	14
+1377	GM	fli	Kirya-Konzɘl	1	afas	Biu-Mandara	Nigeria	Africa	20,000	10:30	13:25	50	39	5	6
+1378	GM	mcw	Mawa	1	afas	East Chadic	Chad	Africa	6,560	11:59	18:14	33	24	3	6
+1379	GM	nmn	!Xóõ	1	khoi	Southern Khoisan	Botswana	Africa	4,000	-24:45	21:00	161	130	3	28
+1380	GM	kib	Koalib	1	ncon	Heiban	Sudan	Africa	44,300	12:00	30:0	45	29	0	16
+1381	GM	kki	Kagulu	1	ncon	Bantoid	Tanzania	Africa	241,000	-06:15	37:0	31	26	0	5
+1382	GM	oks	Oko	1	ncon	Oko	Nigeria	Africa	10,000	07:25	06:10	30	18	5	7
+1383	GM	xuu	!Xun	1	khoi	Central Khoisan	Namibia	Africa	4,000	-17:55	24:0	120	95	4	21
+1384	GM	bbj	Banjun	1	ncon	Bantoid	Cameroon	Africa	260,000	05:25	10:20	59	36	5	18
+1385	GM	afn	Defaka	1	ncon	Ijoid	Nigeria	Africa	200	04:35	07:30	42	18	5	19
+1386	GM	tkq	Tee	1	ncon	Cross River	Nigeria	Africa	313,000	NULL	NULL	38	23	3	12
+1387	GM	sgc	Kipsigis	1	nsah	Nilotic	Kenya	Africa	471,000	NULL	NULL	37	14	4	19
+1388	GM	pbr	Pangwa	1	ncon	Bantoid	Tanzania	Africa	95,000	-09:55	34:50	35	23	0	12
+1389	GM	hoo	Holoholo	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	15,500	-05:05	29:50	26	17	2	7
+1390	GM	bwu	Buli	1	ncon	Gur	Ghana	Africa	150,000	10:35	-01:15	46	23	10	13
+1391	GM	bjt	Balante	1	ncon	Northern Atlantic	Senegal	Africa	82,800	12:30	-15:40	50	33	3	14
+1392	GM	now	Kinyambo	1	ncon	Bantoid	Tanzania	Africa	400,000	-01:20	31:05	33	20	3	10
+1393	GM	daf	Dan	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	800,000	07:30	-07:45	92	44	8	40
+1394	GM	pko	Pokot	1	nsah	Nilotic	Kenya	Africa	264,000	01:30	35:30	39	17	3	19
+1395	GM	afr	Afrikaans	1	ieur	Germanic	South Africa	Africa	4,740,000	-22:0	30:0	39	16	0	23
+1396	GM	agj	Argobba	1	afas	Semitic	Ethiopia	Africa	10,900	10:10	40:05	38	30	0	8
+1397	GM	har	Harari	1	afas	Semitic	Ethiopia	Africa	21,300	09:15	42:10	34	25	0	9
+1398	GM	din	Dinka	1	nsah	Nilotic	Sudan	Africa	320,000	NULL	NULL	49	20	3	26
+1399	GM	nzi	Nzema	1	ncon	Kwa	Ghana	Africa	262,000	05:10	-02:30	40	24	2	14
+1400	GM	aha	Ahanta	1	ncon	Kwa	Ghana	Africa	142,000	04:52	-2:0	40	24	2	14
+1401	GM	hna	Besleri	1	afas	Biu-Mandara	Cameroon	Africa	11,000	10:40	13:48	50	39	2	9
+1402	GM	bhs	Buwal	1	afas	Biu-Mandara	Cameroon	Africa	7,000	10:40	13:55	43	38	3	2
+1403	GM	xed	Hide	1	afas	Biu-Mandara	Cameroon	Africa	25,000	11:03	13:47	41	37	0	4
+1404	GM	hia	Lamang	1	afas	Biu-Mandara	Nigeria	Africa	40,000	11:10	13:45	41	37	0	4
+1405	GM	ikw	Ikwere	1	ncon	Igboid	Nigeria	Africa	200,000	05:00	06:50	46	23	5	18
+1406	GM	kot	Lagwan	1	afas	Biu-Mandara	Cameroon	Africa	1,500	11:45	14:45	41	34	2	5
+1407	GM	gmm	Mbodomo	2	ncon	Ubangi	Cameroon	Africa	20,000	NULL	NULL	38	28	3	7
+1408	GM	mqb	Mbuko	1	afas	Biu-Mandara	Cameroon	Africa	13,000	10:46	14:10	45	34	3	8
+1409	GM	mlw	Moloko	1	afas	Biu-Mandara	Cameroon	Africa	8,500	10:45	14:15	47	31	6	10
+1410	GM	muy	Muyang	1	afas	Biu-Mandara	Cameroon	Africa	30,000	10:50	14:15	46	27	5	14
+1411	GM	jgo	Ngomba	1	ncon	Bantoid	Cameroon	Africa	63,000	05:40	10:15	27	19	2	6
+1412	GM	dmo	Kemezung	1	ncon	Bantoid	Cameroon	Africa	4,500	06:45	10:30	34	20	6	8
+1413	GM	ntm	Nateni	1	ncon	Gur	Benin	Africa	66,000	10:20	01:30	40	13	3	24
+1414	GM	stv	Silt'i	1	afas	Semitic	Ethiopia	Africa	1,000,000	NULL	NULL	56	46	0	10
+1415	GM	weh	Weh	1	ncon	Bantoid	Cameroon	Africa	6,900	06:27	10:08	47	37	3	7
+1416	GM	tey	Tulishi	1	nsah	Kadugli	Sudan	Africa	8,630	11:25	29:10	59	37	3	19
+1417	GM	kec	Keiga	1	nsah	Kadugli	Sudan	Africa	6,070	11:20	29:40	59	37	2	20
+1418	GM	kgo	Krongo	1	nsah	Kadugli	Sudan	Africa	21,700	10:30	30:0	62	40	2	20
+1419	GM	kcp	Kanga (Kanga)	1	nsah	Kadugli	Sudan	Africa	8,000	11:00	29:25	76	54	2	20
+1420	GM	kcp	Kanga (Kufa)	2	nsah	Kadugli	Sudan	Africa	8,000	11:00	29:25	75	53	2	20
+1421	GM	xtc	Kadugli (Kadugli)	1	nsah	Kadugli	Sudan	Africa	75,000	11:05	29:30	62	39	3	20
+1422	GM	xtc	Kadugli (Miri)	2	nsah	Kadugli	Sudan	Africa	75,000	11:05	29:30	63	41	2	20
+1423	GM	xtc	Kadugli (Katcha)	3	nsah	Kadugli	Sudan	Africa	75,000	11:05	29:30	61	39	2	20
+1424	GM	mgc	Morokodo	1	nsah	Bongo-Bagirmi	Sudan	Africa	3,400	05:15	30:0	54	42	2	10
+1425	GM	luc	Aringa	1	nsah	Moru-Madi	Uganda	Africa	589,000	03:30	31:15	49	35	5	9
+1426	GM	keg	These	1	nsah	Temein	Sudan	Africa	1,400	11:20	29:35	47	24	5	18
+1427	GM	lmd	Lumun	1	ncon	Talodi Proper	Sudan	Africa	45,000	10:50	30:15	35	17	2	16
+1428	GM	acz	Asharon	1	ncon	Talodi Proper	Sudan	Africa	No_estimate_available	10:55	30:20	38	18	0	20
+1429	GM	taz	Tocco	1	ncon	Talodi Proper	Sudan	Africa	3,800	10:52	30:10	27	15	2	10
+1430	GM	dec	Thakik	1	ncon	Talodi Proper	Sudan	Africa	38,000	-10:30	29:55	26	16	0	10
+1431	GM	did	Didinga	1	nsah	Surmic	Sudan	Africa	60,000	04:15	33:40	58	36	4	18
+1432	GM	lwo	Luwo	1	nsah	Nilotic	Sudan	Africa	80,000	07:45	28:10	32	19	3	10
+1433	GM	ach	Acholi	1	nsah	Nilotic	Uganda	Africa	1,170,000	03:00	33:0	29	17	3	9
+1434	GM	bxb	Belanda Boor	1	nsah	Nilotic	Sudan	Africa	8,000	07:00	28:0	38	25	3	10
+1435	GM	bvi	Belanda Viri	1	ncon	Ubangi	Sudan	Africa	16,000	06:45	27:30	43	28	5	10
+1436	GM	ndz	Ndogo	1	ncon	Ubangi	Sudan	Africa	Missing E16 page	07:45	27:0	38	29	4	5
+1437	GM	bde	Bade	1	afas	West Chadic	Nigeria	Africa	250,000	12:50	10:40	46	33	4	9
+1438	GM	fpe	Pichi	1	afpc	Creoles and Pidgins	Equatorial Guinea	Africa	5,000	03:30	08:40	30	21	2	7
+1439	GM	jit	Jita	1	ncon	Bantoid	Tanzania	Africa	205,000	-01:30	34:0	29	17	2	10
+1440	GM	dim	Dime	1	afas	South Omotic	Ethiopia	Africa	6,500	06:10	36:20	73	53	2	18
+1441	GM	lto	Lutsootso	1	ncon	Bantoid	Kenya	Africa	No_estimate_available	NULL	NULL	31	19	2	10
+1442	GM	djm	Jamsay, Dogon	1	ncon	Dogon	Mali	Africa	130,000	NULL	NULL	60	37	2	21
+1443	GM	kam	Kikamba	1	ncon	Bantoid	Kenya	Africa	3,960,000	-01:30	38:0	31	13	4	14
+1444	GM	ksf	Bafia	1	ncon	Bantoid	Cameroon	Africa	60,000	05:00	11:10	51	27	4	20
+1445	GM	laj	Lango	1	nsah	Nilotic	Uganda	Africa	1,490,000	02:15	33:0	40	18	2	20
+1446	GM	lks	Olukisa	1	ncon	Bantoid	Kenya	Africa	No_estimate_available	NULL	NULL	38	24	4	10
+1447	GM	nuj	Nyole	1	ncon	Bantoid	Uganda	Africa	341,000	00:50	33:50	36	24	2	10
+1448	GM	wmw	Kimwani	1	ncon	Bantoid	Mozambique	Africa	100,000	-11:40	40:20	26	21	0	5
+1449	GM	xkv	Shekgalagari	1	ncon	Bantoid	Botswana	Africa	40,000	-24:20	22:30	53	43	2	8
+1450	GM	boz	Tigemaxo Bozo	1	ncon	Western Mande	Mali	Africa	118,000	14:10	-5:0	36	19	3	14
+1451	GM	alw	Alaaba	1	afas	Eastern Cushitic	Ethiopia	Africa	162,000	07:25	38:10	62	52	0	10
+1452	GM	deg	Degema	1	ncon	Edoid	Nigeria	Africa	10,000	04:45	06:50	36	24	2	10
+1453	GM	bsc	Basari	1	ncon	Northern Atlantic	Senegal	Africa	13,300	12:40	-12:50	30	21	3	6
+1454	GM	pre	Principense	1	afpc	Creoles and Pidgins	São Tomé e Príncipe	Africa	200	01:37	07:22	31	22	2	7
+1455	GM	nko	Nkonya	1	ncon	Kwa	Ghana	Africa	28,000	07:10	00:20	34	20	0	14
+1456	GM	gru	Soddo	1	afas	Semitic	Ethiopia	Africa	255,000	08:00	38:0	41	34	0	7
+1457	GM	gru	Goggot	2	afas	Semitic	Ethiopia	Africa	255,000	08:00	38:0	41	34	0	7
+1458	GM	mvz	Masqan	1	afas	Semitic	Ethiopia	Africa	25,000	NULL	NULL	41	34	0	7
+1459	GM	sgw	Muher	1	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	42	34	0	8
+1460	GM	sgw	Ezha	2	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	39	33	0	6
+1461	GM	sgw	Chaha	3	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	44	36	0	8
+1462	GM	sgw	Gumer	4	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	42	35	0	7
+1463	GM	sgw	Gura	5	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	42	36	0	6
+1464	GM	sgw	Gyeto	6	afas	Semitic	Ethiopia	Africa	2,320,000	NULL	NULL	45	39	0	6
+1465	GM	ior	Ennemor	1	afas	Semitic	Ethiopia	Africa	280,000	NULL	NULL	47	40	0	7
+1466	GM	ior	Endegen	2	afas	Semitic	Ethiopia	Africa	280,000	NULL	NULL	45	39	0	6
+1467	GM	ior	Ener	3	afas	Semitic	Ethiopia	Africa	280,000	NULL	NULL	45	39	0	6
+1468	GM	dnn	Dzuungoo	1	ncon	Western Mande	Burkina Faso	Africa	13,400	11:00	-5:0	55	26	3	26
+1469	GM	bmi	Bagirmi	1	nsah	Bongo-Bagirmi	Chad	Africa	44,800	11:40	16:00	48	29	3	16
+1470	GM	niy	Ngiti	1	nsah	Lendu	Democratic Republic of the Congo	Africa	100,000	01:20	30:15	56	44	7	5
+1471	GM	ndh	Chindali	1	ncon	Bantoid	Tanzania	Africa	150,000	-09:36	33:50	31	17	4	10
+1472	GM	mym	Me'en	1	nsah	Surmic	Ethiopia	Africa	80,000	06:35	35:40	40	26	0	14
+1473	GM	nsg	Ongamo	1	nsah	Nilotic	Tanzania	Africa	250	-3:0	37:40	31	22	0	9
+1474	GM	myb	Mbay	1	nsah	Bongo-Bagirmi	Chad	Africa	80,000	08:00	17:40	44	22	3	19
+1475	GM	guk	Gumuz	1	nsah	Gumuz	Ethiopia	Africa	120,000	09:25	36:0	44	34	0	10
+1476	GM	teu	Soo	1	nsah	Kuliak	Uganda	Africa	5,000	02:35	34:46	28	18	0	10
+1477	GM	bcq	Gimira	1	afas	North Omotic	Ethiopia	Africa	174,000	07:00	35:45	56	46	5	5
+1478	GM	bcq	Bench	2	afas	North Omotic	Ethiopia	Africa	174,000	07:00	35:45	40	29	6	5
+1479	GM	jnj	Yemsa	1	afas	North Omotic	Ethiopia	Africa	81,600	08:00	37:30	40	25	5	10
+1480	GM	zay	Zayse	1	afas	North Omotic	Ethiopia	Africa	17,800	05:50	37:22	32	27	0	5
+1481	GM	gmo	Gamo	1	afas	North Omotic	Ethiopia	Africa	400000	06:40	37:10	36	26	0	10
+1482	GM	kqy	Koorete	1	afas	North Omotic	Ethiopia	Africa	104,000	05:45	37:50	61	51	0	10
+1483	GM	aiw	Aari	1	afas	South Omotic	Ethiopia	Africa	155,000	NULL	NULL	36	26	0	10
+1484	GM	xom	Komo	1	nsah	Koman	Sudan	Africa	10,000	09:00	34:0	28	23	0	5
+1485	GM	udu	Twampa	1	nsah	Koman	Ethiopia	Africa	20,000	08:14	34:25	28	23	0	5
+1486	GM	lgn	Opo	1	nsah	Koman	Ethiopia	Africa	1,000	08:20	33:55	25	20	0	5
+1487	GM	kmq	Kwama	1	nsah	Koman	Ethiopia	Africa	15,000	09:30	34:10	25	20	0	5
+1488	GM	mdm	Mayogo	1	ncon	Ubangi	Democratic Republic of the Congo	Africa	100,000	03:10	28:10	46	33	3	10
+1489	GM	lsm	Lusaamia	1	ncon	Bantoid	Uganda	Africa	335,000	NULL	NULL	34	20	4	10
+1490	GM	nnw	Nouni	1	ncon	Gur	Burkina Faso	Africa	168,000	11:30	-2:0	60	38	4	18
+1491	GM	nde	Ndebele	1	ncon	Bantoid	Zimbabwe	Africa	1,550,000	-20:0	29:0	68	61	2	5
+1492	GM	sxw	Saxwe, Gbe	1	ncon	Kwa	Benin	Africa	6,270	06:40	01:52	38	24	2	12
+1493	GM	loh	Laarim	1	nsah	Surmic	Sudan	Africa	3,620	04:50	33:30	34	22	3	9
+1494	GM	bjg	Bijogo	1	ncon	Bijago	Guinea-Bissau	Africa	29,900	11:20	-16:0	25	18	0	7
+1495	GM	doy	Dompo	1	ncon	Kwa	Ghana	Africa	65	07:45	-01:30	31	22	2	7
+1496	GM	bam	Bamana	1	ncon	Western Mande	Mali	Africa	2,700,000	10:05	-07:10	58	32	2	24
+1497	GM	hbn	Heiban	1	ncon	Heiban	Sudan	Africa	4,410	11:15	30:30	34	27	0	7
+1498	GM	kga	Koyaga	1	ncon	Western Mande	Côte d'Ivoire	Africa	60,000	08:30	-06:10	43	29	2	12
+1499	GM	shw	Cwaya	1	ncon	Heiban	Sudan	Africa	3,500	11:15	30:20	38	25	3	10
+1500	GM	ttb	Tiba	1	ncon	Bantoid	Nigeria	Africa	10,000	08:30	12:00	34	22	3	9
+1501	GM	kua	Kwanyama	1	ncon	Bantoid	Angola	Africa	421,000	17:00	16:30	33	26	2	5
+1502	GM	lnb	Mbalanhu	1	ncon	Bantoid	Namibia	Africa	200	-17:30	15:00	31	23	2	6
+1503	GM	kwm	Kwambi	1	ncon	Bantoid	Namibia	Africa	32,700	-18:0	16:50	37	29	2	6
+1504	GM	nne	Ngandjera	1	ncon	Bantoid	Angola	Africa	13,100	-16:35	21:50	37	30	2	5
+1505	GM	ndo	Ndonga (Kwaluudhi)	2	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	36	29	2	5
+1506	GM	ndo	Ndonga (Kolonkadhi)	3	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	36	29	2	5
+1507	GM	ndo	Ndonga (Eunda)	4	ncon	Bantoid	Namibia	Africa	807,000	-18:0	16:00	36	29	2	5
+1508	GM	xon	Konkomba	1	ncon	Gur	Ghana	Africa	500,000	09:55	00:05	38	21	3	14
+1509	GM	zag	Beria	1	nsah	Eastern Saharan	Sudan	Africa	75,000	15:10	24:0	33	21	3	9
+1510	GM	zwa	Zway	1	afas	Semitic	Ethiopia	Africa	4,880	07:56	38:50	37	23	0	14
+1511	GM	zmx	Leke	1	ncon	Bantoid	Congo	Africa	9,600	01:40	17:30	28	16	2	10
+1512	GM	bbo	Bobo, North	1	ncon	Western Mande	Burkina Faso	Africa	35,000	12:20	-04:20	37	21	3	13
+1513	GM	bez	Bena	1	ncon	Bantoid	Tanzania	Africa	670,000	09:00	35:0	34	22	2	10
+1514	GM	gkp	Kpelle, North	1	ncon	Western Mande	Guinea	Africa	308,000	08:00	-9:0	39	24	3	12
+1515	GM	kke	Kakabe	1	ncon	Western Mande	Guinea	Africa	4,100	NULL	NULL	38	22	2	14
+1516	GM	llc	Lele	1	ncon	Western Mande	Guinea	Africa	23,000	09:15	-10:30	28	19	2	7
+1517	GM	lom	Looma	1	ncon	Western Mande	Liberia	Africa	165,000	08:00	-09:50	51	21	2	28
+1518	GM	mev	Mano	1	ncon	Eastern Mande	Liberia	Africa	188,000	07:00	-9:0	39	22	3	14
+1519	GM	tye	Kyanga	1	ncon	Eastern Mande	Nigeria	Africa	4,000	11:33	03:35	37	22	3	12
+1520	GM	sho	Shanga	1	ncon	Eastern Mande	Nigeria	Africa	5,000	11:30	04:00	37	22	3	12
+1521	GM	abu	Abure	1	ncon	Kwa	Côte d'Ivoire	Africa	55,100	05:15	-03:30	36	20	2	14
+1522	GM	abb	Bankon	1	ncon	Bantoid	Cameroon	Africa	12,000	04:22	09:35	37	26	4	7
+1523	GM	afu	Efutu	1	ncon	Kwa	Ghana	Africa	180,000	05:25	00:35	50	30	2	18
+1524	GM	agq	Aghem	1	ncon	Bantoid	Cameroon	Africa	26,700	06:39	10:00	49	28	2	19
+1525	GM	arv	Arbore	1	afas	Eastern Cushitic	Ethiopia	Africa	4,440	05:00	36:45	59	49	0	10
+1526	GM	abi	Abidji	1	ncon	Kwa	Côte d'Ivoire	Africa	50,500	05:40	-04:35	38	21	2	15
+1527	GM	adj	Adioukrou	1	ncon	Kwa	Côte d'Ivoire	Africa	100,000	05:40	04:30	32	21	4	7
+1528	GM	ahi	Aizi, Tiagba	1	ncon	Kru	Côte d'Ivoire	Africa	9,000	05:20	-04:40	32	24	0	8
+1529	GM	ald	Alladian	1	ncon	Kwa	Côte d'Ivoire	Africa	23,000	05:13	-04:20	36	23	2	11
+1530	GM	ahs	Tinɔr	1	ncon	Platoid	Nigeria	Africa	35,000	09:20	07:25	36	24	3	9
+1531	GM	zdj	Shindazidja	1	ncon	Bantoid	Comoros	Africa	300,000	NULL	NULL	48	41	2	5
+1532	GM	ibe	Akpes	1	ncon	Akpes 	Nigeria	Africa	10,000	07:30	05:57	34	21	3	10
+1533	GM	etx	Iten	1	ncon	Platoid	Nigeria	Africa	40,000	09:44	08:38	74	63	5	6
+1534	GM	nus	Nuer	1	nsah	Nilotic	Sudan	Africa	740,000	08:40	32:0	48	20	0	28
+1535	GM	gel	West Kainji	1	ncon	Kainji	Nigeria	Africa	36,000	11:30	04:50	56	36	4	16
+1536	GM	idu	Idu	1	ncon	Idomoid	Nigeria	Africa	600,000	06:55	07:30	75	47	5	23
+1537	GM	iri	Rigwe	1	ncon	Platoid	Nigeria	Africa	40,000	09:50	08:40	95	79	4	12
+1538	GM	izr	Izere	1	ncon	Platoid	Nigeria	Africa	50,000	NULL	NULL	39	27	5	7
+1539	GM	jer	Jere	1	ncon	Kainji	Nigeria	Africa	23,000	10:15	08:50	44	24	4	16
+1540	GM	agb	Leggbo	1	ncon	Cross River	Nigeria	Africa	60,000	06:00	08:00	53	38	3	12
+1541	GM	lgq	Logba	1	ncon	Kwa	Ghana	Africa	7,500	06:55	00:25	35	25	3	7
+1542	GM	awn	Awngi	1	afas	Central Cushitic	Ethiopia	Africa	500,000	10:50	36:40	39	30	3	6
+1543	GM	glw	Glavda	1	afas	Biu-Mandara	Nigeria	Africa	28,500	11:15	13:55	43	34	2	7
+1544	GM	ahn	Ahaan	1	ncon	Defoid	Nigeria	Africa	300	07:26	06:00	43	26	3	14
+1545	GM	aye	Uwu	1	ncon	Defoid	Nigeria	Africa	3,000	07:30	06:00	43	26	3	14
+1546	GM	rng	Ronga	1	ncon	Bantoid	Mozambique	Africa	721,000	-26:20	32:30	69	64	0	5
+1547	GM	wni	Comorian, Ndzwani	1	ncon	Bantoid	Comoros	Africa	264,000	NULL	NULL	39	32	2	5
+1548	GM	biv	Birifor	1	ncon	Gur	Ghana	Africa	125,000	09:40	-02:40	52	25	0	27
+1549	GM	cwt	Kwatay	1	ncon	Northern Atlantic	Senegal	Africa	6,210	12:30	-16:45	34	20	4	10
+1550	GM	ati	Attie	1	ncon	Kwa	Côte d'Ivoire	Africa	381,000	06:00	-03:45	47	24	8	15
+1551	GM	aoa	Angolar	1	afpc	Creoles and Pidgins	São Tomé e Príncipe	Africa	5,000	00:15	06:30	36	22	2	12
+1552	GM	hae	Oromo, Eastern	1	afas	Eastern Cushitic	Ethiopia	Africa	4,530,000	08:30	41:40	60	48	2	10
+1553	GM	pov	Kriyol	1	afpc	Creoles and Pidgins	Guinea-Bissau	Africa	206,000	12:00	15:00	28	23	0	5
+1554	GM	bss	Akoose	1	ncon	Bantoid	Cameroon	Africa	100,000	05:00	09:40	32	18	2	12
+1555	GM	bqz	Bakaka (Mwaneka)	1	ncon	Bantoid	Cameroon	Africa	30,000	04:50	09:49	34	19	2	13
+1556	GM	bqz	Bakaka (Babong)	2	ncon	Bantoid	Cameroon	Africa	30,000	04:50	09:49	31	15	2	14
+1557	GM	bqz	Bakaka (Mkaa')	3	ncon	Bantoid	Cameroon	Africa	30,000	04:50	09:49	32	16	2	14
+1558	GM	mbo	Mbo (Ekanang)	1	ncon	Bantoid	Cameroon	Africa	45,000	05:00	09:55	35	19	2	14
+1559	GM	bsi	Bassossi	1	ncon	Bantoid	Cameroon	Africa	5,000	05:15	09:30	34	20	2	12
+1560	GM	mbo	Mbo (Ngwatta)	2	ncon	Bantoid	Cameroon	Africa	45,000	05:00	09:55	36	21	2	13
+1561	GM	lir	Liberian English	1	afpc	Creoles and Pidgins	Liberia	Africa	No_estimate_available	06:30	-09:30	36	24	0	12
+1562	GM	ggu	Gban	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	36,600	06:30	-05:30	36	20	4	12
+1563	GM	eto	Eton	1	ncon	Bantoid	Cameroon	Africa	52,000	04:15	11:30	38	21	2	15
+1564	GM	rcf	Reunionnais	1	afpc	Creoles and Pidgins	Réunion	Africa	555,000	-21:10	55:30	42	30	0	12
+1565	GM	mls	Masalit	1	nsah	Maban	Sudan	Africa	60,900	10:30	26:0	45	31	4	10
+1566	GM	cri	Saotomense	1	afpc	Creoles and Pidgins	São Tomé e Príncipe	Africa	69,900	00:15	06:40	32	19	0	13
+1567	GM	tan	Tangale	1	afas	West Chadic	Nigeria	Africa	130,000	09:55	11:13	60	40	2	18
+1568	GM	suk	Sukuma	1	ncon	Bantoid	Tanzania	Africa	5,430,000	-3:0	33:15	57	38	5	14
+1569	GM	mfe	Mauritian Creole	1	afpc	Creoles and Pidgins	Mauritius	Africa	800,000	-20:10	57:30	30	21	0	9
+1570	GM	kri	Krio	1	afpc	Creoles and Pidgins	Sierra Leone	Africa	473,000	08:20	-13:10	35	25	3	7
+1571	GM	ktu	Kituba	1	afpc	Creoles and Pidgins	Democratic Republic of the Congo	Africa	4,200,000	05:00	17:30	22	15	2	5
+1572	GM	aks	Akasilimi	1	ncon	Gur	Togo	Africa	47,500	08:50	01:20	52	20	3	29
+1573	GM	bag	Tuki	1	ncon	Bantoid	Cameroon	Africa	26,000	04:38	11:35	39	25	4	10
+1574	GM	bkc	Baka	1	ncon	Ubangi	Cameroon	Africa	40,000	02:30	15:30	35	25	3	7
+1575	GM	bmv	Bum	1	ncon	Bantoid	Cameroon	Africa	21,400	06:30	10:25	47	37	3	7
+1576	GM	dbq	Daba	1	afas	Biu-Mandara	Cameroon	Africa	24,000	NULL	NULL	46	36	4	6
+1577	GM	gou	Gavar	1	afas	Biu-Mandara	Cameroon	Africa	7,000	10:30	13:50	55	47	3	5
+1578	GM	gde	Gu'de	1	afas	Biu-Mandara	Nigeria	Africa	68,000	10:10	13:25	36	30	2	4
+1579	GM	lno	Lango	1	nsah	Nilotic	Sudan	Africa	38,000	03:50	33:0	32	16	6	10
+1580	GM	ahl	Igo	1	ncon	Kwa	Togo	Africa	6,000	06:40	00:40	33	23	3	7
+1581	GM	kkj	Kako	1	ncon	Bantoid	Cameroon	Africa	100,000	04:20	14:15	47	33	2	12
+1582	GM	knp	Kwanja	1	ncon	Bantoid	Cameroon	Africa	20,000	06:25	11:40	43	21	4	18
+1583	GM	mcu	Mambila	1	ncon	Bantoid	Cameroon	Africa	30,000	06:30	11:30	35	20	4	11
+1584	GM	meq	Mere	1	afas	Biu-Mandara	Cameroon	Africa	10,000	10:45	14:05	44	33	3	8
+1585	GM	mfi	Mandara	1	afas	Biu-Mandara	Cameroon	Africa	23,500	11:13	14:00	52	45	2	5
+1586	GM	coh	Chonyi	1	ncon	Bantoid	Kenya	Africa	121,000	-03:45	39:45	47	40	2	5
+1587	GM	dig	Digo	1	ncon	Bantoid	Kenya	Africa	217,000	-04:15	39:30	48	41	2	5
+1588	GM	dug	Duruma	1	ncon	Bantoid	Kenya	Africa	247,000	-4:0	39:15	47	40	2	5
+1589	GM	nyf	Giryama	1	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
+1590	GM	nyf	Jiβana	2	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
+1591	GM	nyf	Kambe	3	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
+1592	GM	nyf	Kauma	4	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
+1593	GM	nyf	Raβai	5	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
+1594	GM	nyf	Reβe	6	ncon	Bantoid	Kenya	Africa	623,000	-03:30	39:40	47	40	2	5
+1595	GM	mlr	Vame	1	afas	Biu-Mandara	Cameroon	Africa	8,500	10:56	14:13	46	38	3	5
+1596	GM	mmu	Numala	1	ncon	Bantoid	Cameroon	Africa	5,300	04:30	11:05	34	23	2	9
+1597	GM	mpi	Kotoko	1	afas	Biu-Mandara	Cameroon	Africa	16,000	12:30	14:30	40	30	4	6
+1598	GM	mif	Mofu, South	1	afas	Biu-Mandara	Cameroon	Africa	60,000	10:30	14:00	40	35	0	5
+1599	GM	mtk	Mbe	1	ncon	Bantoid	Cameroon	Africa	1,490	06:15	11:05	57	48	2	7
+1600	GM	ncr	Nchane	1	ncon	Bantoid	Cameroon	Africa	15,500	06:30	10:35	41	17	6	18
+1601	GM	nfu	Mfumte	1	ncon	Bantoid	Cameroon	Africa	24,700	06:40	11:00	89	74	5	10
+1602	GM	njy	Njem	1	ncon	Bantoid	Cameroon	Africa	3,500	NULL	NULL	42	20	2	20
+1603	GM	box	Bwamut	1	ncon	Gur	Burkina Faso	Africa	186,000	11:40	-03:50	28	17	3	8
+1604	GM	ktf	Kwami	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	400	-01:30	27:30	40	28	2	10
+1605	GM	goa	Gouro	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	332,000	07:25	-06:10	57	26	3	28
+1606	GM	kea	Cape Verde Creole	1	eupc	Creoles and Pidgins	Cape Verde Islands	Africa	394,000	16:46	-24:46	28	21	0	7
+1607	GM	nku	Kulango	1	ncon	Gur	Côte d'Ivoire	Africa	142,000	09:00	-3:0	46	27	2	17
+1608	GM	tsb	Ts'amakko	1	afas	Eastern Cushitic	Ethiopia	Africa	8,620	05:25	37:02	68	56	2	10
+1609	GM	tzm	Tamazight Berber	1	afas	Berber	Morocco	Africa	3,000,000	32:0	-4:0	39	36	0	3
+1610	GM	siz	Siwi	1	afas	Berber	Egypt	Africa	30,000	29:0	26:0	38	26	0	12
+1611	GM	ndj	Ndamba	1	ncon	Bantoid	Tanzania	Africa	55,000	-08:25	36:0	24	19	0	5
+1612	GM	bva	Barein (Jalkiya)	2	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	41	28	3	10
+1613	GM	bva	Barein (Giliya)	3	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	29	16	3	10
+1614	GM	bva	Barein (Jalking)	4	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	44	31	3	10
+1615	GM	bva	Barein (Komiya)	1	afas	East Chadic	Chad	Africa	4,100	11:00	18:00	44	32	2	10
+1616	GM	tbi	Gaahmg	1	nsah	Eastern Jebel	Sudan	Africa	67,200	11:20	34:0	49	34	3	12
+1617	GM	mij	Mungbam	1	ncon	Bantoid	Cameroon	Africa	2,000	06:35	10:15	36	24	4	8
+1618	GM	boe	Mundabli	1	ncon	Bantoid	Cameroon	Africa	1,000	06:35	10:15	38	22	4	12
+1619	GM	muc	Ajumbu	1	ncon	Bantoid	Cameroon	Africa	1,000	NULL	NULL	39	26	3	10
+1620	GM	kid	Koshin	1	ncon	Bantoid	Cameroon	Africa	1,000	06:35	10:20	37	23	3	11
+1621	GM	fak	Fang	1	ncon	Bantoid	Cameroon	Africa	2,400	NULL	NULL	36	23	3	10
+1622	GM	knk	Kuranko	1	ncon	Western Mande	Sierra Leone	Africa	268,000	09:15	-11:0	54	26	0	28
+1623	GM	nie	Lwaa	1	ncon	Adamawa	Chad	Africa	5,160	09:45	17:40	59	26	3	30
+1624	GM	gis	Gisiga	1	afas	Biu-Mandara	Cameroon	Africa	20,000	10:40	14:15	37	29	5	3
+1625	GM	mgo	Moghamo	1	ncon	Bantoid	Cameroon	Africa	87,000	05:55	09:55	50	33	3	14
+1626	GM	bri	Mokpwe	1	ncon	Bantoid	Cameroon	Africa	32,200	04:10	09:15	31	22	2	7
+1627	GM	sif	Siamou	1	ncon	Kru	Burkina Faso	Africa	20,000	11:00	-5:0	41	22	5	14
+1628	GM	nnh	Ngiemboon	1	ncon	Bantoid	Cameroon	Africa	250,000	05:25	10:05	30	19	4	7
+1629	GM	yas	Nugunu	1	ncon	Bantoid	Cameroon	Africa	35,000	04:40	11:15	35	24	4	7
+1630	GM	nza	Mbembe	1	ncon	Platoid	Cameroon	Africa	36,000	06:50	10:45	116	99	5	12
+1631	GM	orc	Orma	1	afas	Eastern Cushitic	Kenya	Africa	69,000	-2:0	39:30	33	23	0	10
+1632	GM	pny	Pinyin	1	ncon	Bantoid	Cameroon	Africa	24,600	05:49	10:05	66	42	5	19
+1633	GM	pnz	Pana	1	ncon	Adamawa	Central African Republic	Africa	82,000	07:15	15:45	66	34	4	28
+1634	GM	atu	Thok Reel	1	nsah	Nilotic	Sudan	Africa	50,000	06:30	30:45	63	20	3	40
+1635	GM	udl	Ouldeme	1	afas	Biu-Mandara	Cameroon	Africa	10,500	10:56	14:08	42	34	3	5
+1636	GM	les	Balese	1	nsah	Mangbutu-Efe	Democratic Republic of the Congo	Africa	50,000	02:00	29:0	42	29	3	10
+1637	GM	neb	Toura	1	ncon	Eastern Mande	Côte d'Ivoire	Africa	38,500	07:40	-07:38	39	21	4	14
+1638	GM	gwe	Kigweno	1	ncon	Bantoid	Tanzania	Africa	2,200	-03:40	37:45	29	24	0	5
+1639	GM	suw	Sisumbwa	1	ncon	Bantoid	Tanzania	Africa	191,000	-03:40	32:0	32	20	2	10
+1640	GM	zin	Luzinza	1	ncon	Bantoid	Tanzania	Africa	138,000	NULL	NULL	30	20	0	10
+1641	GM	mer	Kimeru	1	ncon	Bantoid	Kenya	Africa	1,740,000	00:15	38:0	27	17	0	10
+1642	GM	hka	Kikahe	1	ncon	Bantoid	Tanzania	Africa	2,700	-03:20	37:25	32	22	0	10
+1643	GM	han	Kihangaza	1	ncon	Bantoid	Tanzania	Africa	150,000	-02:40	30:45	35	23	2	10
+1644	GM	old	Kimochi	1	ncon	Bantoid	Tanzania	Africa	597,000	-03:15	37:30	25	20	0	5
+1645	GM	ssc	Kisimbiti	1	ncon	Bantoid	Tanzania	Africa	98,700	NULL	NULL	39	23	2	14
+1646	GM	kya	Eciruuri	1	ncon	Bantoid	Tanzania	Africa	115,000	-01:45	33:45	29	17	2	10
+1647	GM	www	Wawa	1	ncon	Bantoid	Cameroon	Africa	3,000	06:50	11:45	49	30	3	16
+1648	GM	shi	Tachelhit	1	afas	Berber	Morocco	Africa	3,000,000	29:30	-8:0	37	33	0	4
+1649	GM	tug	Tounia	1	ncon	Adamawa	Chad	Africa	2,260	09:25	18:10	40	24	3	13
+1650	GM	sef	Senoufo, Cebaara	1	ncon	Gur	Côte d'Ivoire	Africa	862,000	09:30	-06:15	43	24	3	16
+1651	GM	flr	Fuliiru	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	300,000	-03:05	29:0	36	24	2	10
+1652	GM	sad	Sandawe	1	khoi	Sandawe	Tanzania	Africa	40,000	-05:20	35:25	64	44	5	15
+1653	GM	tvd	Tsuvaɗi	1	ncon	Kainji	Nigeria	Africa	150,000	11:06	05:15	55	28	3	24
+1654	GM	etu	Ejagham	1	ncon	Bantoid	Nigeria	Africa	67,300	05:58	08:42	29	19	3	7
+1655	GM	ybb	Yemba	1	ncon	Bantoid	Cameroon	Africa	300,000	05:27	10:00	27	17	3	7
+1656	GM	bfj	Nchufie	1	ncon	Bantoid	Cameroon	Africa	17,000	05:51	10:27	59	26	3	30
+1657	GM	bji	Burji	1	afas	Eastern Cushitic	Ethiopia	Africa	35,700	05:25	37:50	36	26	0	10
+1658	GM	blo	Anii	1	ncon	Kwa	Benin	Africa	33,600	09:15	01:45	36	23	2	11
+1659	GM	fip	Fipa	1	ncon	Bantoid	Tanzania	Africa	195,000	-8:0	31:30	35	20	1	14
+1660	GM	naw	Nawuri	1	ncon	Kwa	Ghana	Africa	14,000	08:30	00:05	40	29	2	9
+1661	GM	myo	Anfillo	1	afas	North Omotic	Ethiopia	Africa	500	08:40	34:30	48	38	0	10
+1662	GM	nto	Bokala-Nkole	1	ncon	Bantoid	Democratic Republic of the Congo	Africa	100,000	-01:10	18:00	30	23	0	7
+1663	GM	tbr	Talasa	1	nsah	Kadugli	Sudan	Africa	7,300	10:25	30:45	55	39	2	14
+1664	GM	uiv	Iyive	1	ncon	Bantoid	Cameroon	Africa	1,000	06:25	09:35	64	53	4	7
+1665	GM	btx	Karo Batak	1	anes	Sumatra	Indonesia	Asia	600,000	03:00	98:10	24	16	0	8
+1666	GM	tgl	Tagalog	1	anes	Meso-Philippine	Philippines	Asia	21,500,000	14:00	121:0	24	19	0	5
+1667	GM	ssb	Southern Sama	1	anes	Sama-Bajaw	Philippines	Asia	200,000	05:10	120:20	23	17	0	6
+1668	GM	kqr	Kimaragang	1	anes	Northwest Malayo-Polynesian	Malaysia	Asia	25,000	06:32	116:46	23	18	0	5
+1669	GM	beg	Belait	1	anes	Western Malayo-Polynesian	Brunei	Asia	1,000	04:30	114:37	25	19	0	6
+1670	GM	ilo	Iloko/Ilocano	2	anes	Northern Philippines	Philippines	Asia	6,920,000	18:00	120:30	23	17	0	6
+1671	GM	cjm	Phan Rang Cham (Eastern Cham)	1	anes	Malayic	Viet Nam	Asia	72,900	11:15	108:30	30	21	0	9
+1672	GM	mkm	Moklen	1	anes	Moklen	Thailand	Asia	1,500	08:30	98:15	46	19	0	27
+1673	GM	mwt	Moken	1	anes	Moklen	Myanmar	Asia	7,000	09:05	97:50	38	20	0	18
+1674	GM	nia	Nias	1	anes	Sumatra	Indonesia	Asia	770,000	01:00	97:30	25	19	0	6
+1675	GM	jav	Javanese	1	anes	Javanese	Indonesia	Asia	84,300,000	-1:0	101:40	33	24	0	9
+1676	GM	blf	Buol	1	anes	Sulawesi	Indonesia	Asia	75,000	01:00	121:30	23	17	0	6
+1677	GM	mak	Makassar	1	anes	Sulawesi	Indonesia	Asia	1,600,000	-05:15	119:50	23	18	0	5
+1678	GM	xmz	Mori Bawah	1	anes	Sulawesi	Indonesia	Asia	16,100	-02:05	121:15	27	22	0	5
+1679	GM	xbr	Kambera	1	anes	Central Malayo-Polynesian	Indonesia	Asia	235,000	-09:50	120:30	29	19	0	10
+1680	GM	tet	Tetun	1	anes	Central Malayo-Polynesian	Indonesia	Asia	400,000	-09:20	125:05	18	13	0	5
+1681	GM	lti	Leti	1	anes	Central Malayo-Polynesian	Indonesia	Asia	7,500	-08:10	127:40	22	10	0	12
+1682	GM	mky	Makian, East (Taba)	2	anes	South Halmahera - West New Guinea	Indonesia	Asia	20,000	00:15	127:20	23	18	0	5
+1683	GM	bhw	Biak	2	anes	South Halmahera - West New Guinea	Indonesia	Asia	30,000	-1:0	136:0	19	14	0	5
+1684	GM	abs	Ambon Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	200,000	-03:50	128:10	23	18	0	5
+1685	GM	bpq	Banda Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	3,690	NULL	NULL	23	18	0	5
+1686	GM	xmm	Manado Malay	1	ocpc	Malayic	Indonesia	Asia	850,000	01:25	124:50	25	19	0	6
+1687	GM	mkn	Kupang Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	200,000	-10:10	123:34	25	19	0	6
+1688	GM	lrt	Larantuka Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	20,000	NULL	NULL	25	19	0	6
+1689	GM	max	North Maluku Malay	1	anes	Malayic	Indonesia	Asia	700,000	-1:0	128:20	27	21	0	6
+1690	GM	ind	Indonesian	1	anes	Malayic	Indonesia	Asia	23,200,480	-06:10	106:50	31	23	0	8
+1691	GM	mad	Madurese	1	anes	Madurese	Indonesia	Asia	13,600,000	-7:0	113:0	35	27	0	8
+1692	GM	ceb	Cebuano	1	anes	Meso-Philippine	Philippines	Asia	15,800,000	10:00	124:20	21	18	0	3
+1693	GM	ban	Balinese	1	anes	Bali-Sasak	Indonesia	Asia	3,330,000	-08:35	116:15	24	18	0	6
+1694	GM	bug	Bugis	1	anes	Sulawesi	Indonesia	Asia	3,500,000	-4:0	120:0	25	19	0	6
+1695	GM	bcl	Bikol (Bicolano)	1	anes	Meso-Philippine	Philippines	Asia	2,500,000	13:30	123:0	28	23	0	5
+1696	GM	hil	Hiligaynon	1	anes	Meso-Philippine	Philippines	Asia	5,770,000	10:00	122:55	25	20	0	5
+1697	GM	pam	Kapampangan	1	anes	Northern Philippines	Philippines	Asia	1,900,000	15:00	120:30	22	17	0	5
+1698	GM	min	Minangkabau	1	anes	Malayic	Indonesia	Asia	5,530,000	04:10	96:15	33	23	0	10
+1699	GM	pag	Pagasinan	1	anes	Northern Philippines	Philippines	Asia	1,160,000	16:00	120:20	21	16	0	5
+1700	GM	tes	Tengger	1	anes	Javanese	Indonesia	Asia	80,000	-07:55	112:30	42	20	0	22
 1701	RA	mrr	Abujmaria	1	drav	South-Central Dravidian	India	Asia	165,000	-09:55	148:20	39	22	0	17
 1702	RA	apq	Andamanese	1	anda	Great Andamanese	India	Asia	10	12:00	92:40	35	25	0	10
 1703	RA	njm	Angami	1	sitb	Kuki-Chin	India	Asia	125,000	25:40	94:30	43	37	0	6
