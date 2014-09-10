@@ -1142,7 +1142,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 1141	PH	glg	Galician	1	ieur	Romance	Spain	Europe	3,170,000	43:0	-8:0	28	21	0	7
 1142	PH	kbp	Kabiye	1	ncon	Gur	Togo	Africa	700,000	08:40	01:00	47	22	2	23
 1143	PH	mnh	Mono	1	ncon	Adamawa	Democratic Republic of the Congo	Africa	65,000	04:00	19:00	44	33	3	8
-1144	PH	ind	Indonesian	1	anes	Malayic	Indonesia	Asia	22,800,000	-06:10	106:50	31	22	0	9
+1144	PH	ind	Indonesian	1	anes	Malayic	Indonesia	Asia	23,200,480	-06:10	106:50	31	22	0	9
 1145	PH	ita	Italian	1	ieur	Romance	Italy	Europe	55,000,000	43:45	11:15	30	23	0	7
 1146	PH	qxl	Salasaca Quichua	2	quch	Quechuan	Ecuador	America	14,300	-01:20	-78:20	29	24	0	5
 1147	PH	sei	Seri	1	hoka	Seri	Mexico	America	900	29:0	-112:15	25	17	0	8
@@ -1688,7 +1688,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 1687	G&M	mkn	Kupang Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	200,000	-10:10	123:34	25	19	0	6
 1688	G&M	lrt	Larantuka Malay	1	ocpc	Creoles and Pidgins	Indonesia	Asia	20,000	NULL	NULL	25	19	0	6
 1689	G&M	max	North Maluku Malay	1	anes	Malayic	Indonesia	Asia	700,000	-1:0	128:20	27	21	0	6
-1690	G&M	ind	Indonesian	1	anes	Malayic	Indonesia	Asia	23,200,480	NULL	NULL	31	23	0	8
+1690	G&M	ind	Indonesian	1	anes	Malayic	Indonesia	Asia	23,200,480	-06:10	106:50	31	23	0	8
 1691	G&M	mad	Madurese	1	anes	Madurese	Indonesia	Asia	13,600,000	-7:0	113:0	35	27	0	8
 1692	G&M	ceb	Cebuano	1	anes	Meso-Philippine	Philippines	Asia	15,800,000	10:00	124:20	21	18	0	3
 1693	G&M	ban	Balinese	1	anes	Bali-Sasak	Indonesia	Asia	3,330,000	-08:35	116:15	24	18	0	6
@@ -2147,7 +2147,7 @@ InventoryID	Source	LanguageCode	LanguageName	Trump	LanguageFamilyRoot	LanguageFa
 2146	SAPHON	wca	Yanomama of Papiu	3	yano	Yanomam	Brazil	America	9,000	02:37	-63:0	33	12	0	21
 2147	SAPHON	wca	Yanomae of Demini/Tototopi	1	yano	Yanomam	Brazil	America	9,000	02:37	-63:0	34	13	0	21
 2148	SAPHON	xsu	Sanömá of Kolulu	1	yano	Yanomam	Venezuela	America	4,610	04:00	-64:30	31	10	0	21
-2149	SAPHON	guu	Yanomamɨ of Parawau	1	yano	Yaguan	Venezuela	America	15,700	01:45	-65:0	32	11	0	21
+2149	SAPHON	guu	Yanomamɨ of Parawau	1	yano	Yanomam	Venezuela	America	15,700	01:45	-65:0	32	11	0	21
 2150	SAPHON	yrm	Yãroamë of Serra do Pacu/Ajarani	1	yano	Yanomam	Brazil	America	No_estimate_available	NULL	NULL	29	11	0	18
 2151	SAPHON	guu	Yanomamɨ of Venezuela	2	yano	Yanomam	Venezuela	America	15,700	01:45	-65:0	33	12	0	21
 2152	SAPHON	pcp	Pacahuara	1	pano	Panoan	Bolivia	America	17	-12:0	-65:35	20	16	0	4
