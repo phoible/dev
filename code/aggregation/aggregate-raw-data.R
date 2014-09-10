@@ -1,7 +1,8 @@
 #! /usr/bin/R
 ### Aggregate various source data files into the PHOIBLE framework ###
-library(zoo)   # provides function na.locf (last observ. carry forward)
-library(plyr)  # provides function rbind.fill
+library(zoo)      # provides function na.locf (last observ. carry forward)
+library(plyr)     # provides function rbind.fill
+library(stringi)  # for proper management of unicode / diacritics / etc
 
 # the definition of datadir assumes that the GitHub "code" and "data" 
 # repos were cloned into the same parent directory, and this script is
@@ -167,27 +168,45 @@ rm(ramaswami.raw)
 # COMBINE DATA SOURCES  #
 # # # # # # # # # # # # #
 # COMBINE INTO ONE DATA FRAME
-data.sources.list <- list(uw.data, aa.data, spa.data, upsid.data, ramaswami.data)  # casl.data, saphon.data
+data.sources.list <- list(uw.data, aa.data, spa.data, upsid.data,
+                          ramaswami.data)  # casl.data, saphon.data
 all.data <- do.call(rbind.fill, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, source)),]
 # HANDLE MARGINAL PHONEMES
 all.data$Marginal <- "<" %in% all.data$Phoneme
-all.data$Phoneme <- gsub("<", "", gsub(">", "", all.data$Phoneme, fixed=TRUE), fixed=TRUE)
-# REPLACE C-CEDILLA BASE+DIACRITIC WITH SINGLE GRAPH
-all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
+all.data$Phoneme <- gsub("<", "", gsub(">", "", all.data$Phoneme, fixed=TRUE),
+                         fixed=TRUE)
+
+# REPLACE C+CEDILLA DIACRITIC WITH SINGLE GLYPH (TODO: is this still necessary?)
+#all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
 all.data$Phoneme <- gsub("͜", "", all.data$Phoneme, fixed=TRUE)
+
+# FIX SOME NORMALIZATION ORDER ISSUES
+# TODO: ideally these would get done prior to aggregation
+# replace 
+all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
+# replace VOWEL+overtilde+undertilde with VOWEL+undertilde+overtilde
+all.data$Phoneme <- gsub("ṵ̃", "ṵ̃", all.data$Phoneme, fixed=TRUE)
+all.data$Phoneme <- gsub("ã̰", "ã̰", all.data$Phoneme, fixed=TRUE)  
+all.data$Phoneme <- gsub("ḭ̃", "ḭ̃", all.data$Phoneme, fixed=TRUE)
+# replace VOWEL+diaresis+tack with VOWEL+tack+diaresis
+all.data$Phoneme <- gsub("ë̞", "ë̞", all.data$Phoneme, fixed=TRUE)
+# replace VOWEL+overtilde+tack with VOWEL+tack+overtilde
+all.data$Phoneme <- gsub("ẽ̞ũ", "ẽ̞ũ", all.data$Phoneme, fixed=TRUE)
+all.data$Phoneme <- gsub("ĩẽ̞", "ĩẽ̞", all.data$Phoneme, fixed=TRUE)
+# replace VOWEL+overtilde+underplus with VOWEL+underplus+overtilde
+all.data$Phoneme <- gsub("ã̟ĩ", "ã̟ĩ", all.data$Phoneme, fixed=TRUE)
 
 # FACTOR AFTER SUBSTITUTIONS
 all.data$Phoneme <- factor(all.data$Phoneme)
 
 
-# VALIDATE ISO CODES
+# TODO: VALIDATE ISO CODES
 
 
-
-# LOAD THE FEATURES AND IMPLEMENT THE RULES
+# LOAD THE FEATURE AND IMPLEMENT THE RULES
 feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
 feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
 				  "consonantal", "sonorant", "continuant", 
@@ -215,13 +234,13 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 			   }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 
-# TEMPORARY CODE FOR DEBUGGING
-# still a few phonemes without features
-missing.feats <- all.data[is.na(all.data$syllabic),]
-#sink("~/Desktop/featurelessPhonemes.tsv")
-cat(paste(c("phonemes without feature vectors:",
-          unique(as.character(missing.feats$Phoneme))), collapse="\n"))
-#sink()
+stop()
+# TODO: still a couple dozen unique phonemes without features; many are c-cedillas
+foo <- all.data[is.na(all.data$syllabic),]
+sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
+cat(paste(unique(foo$Phoneme), collapse="\n"))
+sink()
+
 
 # TRUMP ORDERING: more preferred data sources come earlier in the list
 trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
