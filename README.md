@@ -26,10 +26,9 @@ And cite use of the data accordingly, e.g.
 
 ## Contents
 
-- code - folder cotaining code
+- code - folder containing code (often WIP)
 - data - folder containing raw data
-- phoible-aggregated.tsv - phoible aggregated data from old aggregation system
-- phoible-phonemes.tsv - phoneme level phoible data from old aggregation system
-- phoible.sql - Sequel Pro SQL data dump of the aggregated and phonemes files in MySQL tables (needs to be updated!)
+- phoible-aggregated.tsv - phoible aggregated data
+- phoible-phonemes.tsv - phoneme level phoible data
 
 
