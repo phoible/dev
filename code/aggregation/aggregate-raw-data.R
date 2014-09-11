@@ -17,6 +17,7 @@ uw.path <- paste(datadir, "UW", "phoible_inventories.tsv", sep="/")
 aa.path <- paste(datadir, "AA", "AA_inventories.tsv", sep="/")
 spa.path <- paste(datadir, "SPA", "SPA_Phones.tsv", sep="/")
 spa.ipa.path <- paste(datadir, "SPA", "SPA_IPA_correspondences.tsv", sep="/")
+spa.iso.path <- paste(datadir, "SPA", "SPA_LangNamesCodes.tsv", sep="/")
 upsid.segments.path <- paste(datadir, "UPSID", "UPSID_Segments.tsv", sep="/")
 upsid.character.codes.path <- paste(datadir, "UPSID", "UPSID_CharCodes.tsv", sep="/")
 upsid.languages.path <- paste(datadir, "UPSID", "UPSID_Languages.tsv", sep="/")
@@ -113,6 +114,7 @@ aa.data$source <- "aa"
 # TODO: SPA data does not have ISO codes; is there a mapping to SPA language numbers?
 # TODO: the SPA "Notes" column just has numeric codes in it. where is the key?
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", stringsAsFactors=FALSE, quote="")
+spa.iso <- read.delim(spa.iso.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw <- read.delim(spa.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw$spaLangNum <- na.locf(spa.raw$spaLangNum)
 spa.split <- split(spa.raw, spa.raw$spaLangNum)
@@ -125,8 +127,9 @@ spa.data$spaAllophoneDescription <- gsub("[", "", gsub("]", "",
 spa.data$Allophones <- spa.ipa$Phoneme[match(spa.data$spaAllophoneDescription,
 									   spa.ipa$spaDescription)]
 spa.data <- collapseAllophones(spa.data, "LanguageName")
+spa.data <- merge(spa.data, spa.iso)
 spa.data$source <- "spa"
-rm(spa.raw, spa.split, spa.ipa)
+rm(spa.raw, spa.split, spa.ipa, spa.iso)
 
 # UPSID
 upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", 
@@ -175,22 +178,16 @@ all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
 all.data$Phoneme <- gsub("͜", "", all.data$Phoneme, fixed=TRUE)
-# FIX SOME NORMALIZATION ORDER ISSUES
-all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
-all.data$Phoneme <- gsub("̰̃", "̰̃", all.data$Phoneme, fixed=TRUE)
-#all.data$Phoneme <- gsub("ḭ̃", "ḭ̃", all.data$Phoneme, fixed=TRUE)
-#all.data$Phoneme <- gsub("ṵ̃", "ṵ̃", all.data$Phoneme, fixed=TRUE)
 
-
-# CTOR AFTER SUBSTITUTIONS
+# FACTOR AFTER SUBSTITUTIONS
 all.data$Phoneme <- factor(all.data$Phoneme)
 
 
-foo TE ISO CODES
+# VALIDATE ISO CODES
 
 
 
-# LOAD THE FEATURE AND IMPLEMENT THE RULES
+# LOAD THE FEATURES AND IMPLEMENT THE RULES
 feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
 feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
 				  "consonantal", "sonorant", "continuant", 
@@ -218,12 +215,13 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 			   }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 
-# TODO: still a couple dozen unique phonemes without features; many are c-cedillas
-foo <- all.data[is.na(all.data$syllabic),]
-sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
-cat(paste(unique(foo$Phoneme), collapse="\n"))
-sink()
-
+# TEMPORARY CODE FOR DEBUGGING
+# still a few phonemes without features
+missing.feats <- all.data[is.na(all.data$syllabic),]
+#sink("~/Desktop/featurelessPhonemes.tsv")
+cat(paste(c("phonemes without feature vectors:",
+          unique(as.character(missing.feats$Phoneme))), collapse="\n"))
+#sink()
 
 # TRUMP ORDERING: more preferred data sources come earlier in the list
 trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
