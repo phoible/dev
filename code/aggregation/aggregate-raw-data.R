@@ -1,30 +1,31 @@
 #! /usr/bin/R
-### Aggregate various source data files into the PHOIBLE framework ###
+
+# This script reads in the raw data files from various tertiary sources, and 
+# aggregates them into a single R data.frame object called "all.data",
+# which is then written out to the root directory of the repository.
+
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(plyr)     # provides function rbind.fill
-library(stringi)  # for proper management of unicode / diacritics / etc
+library(stringi)  # for proper string handling & (de)normalization
 
-# the definition of datadir assumes that the GitHub "code" and "data" 
-# repos were cloned into the same parent directory, and this script is
-# running from its original location in "data/R/"
-datadir <- "../../data"
-scriptdir <- getwd()  # save for later
+data.dir <- file.path("..", "..", "data")
+output.fname <- file.path("..", "..", "phoible-alldata-phonemes.tsv")
 
 # # # # # # # #
 # FILE PATHS  #
 # # # # # # # #
-features.path <- paste(datadir, "FEATURES", "phoible-segments-features.tsv", sep="/")
-uw.path <- paste(datadir, "UW", "phoible_inventories.tsv", sep="/")
-aa.path <- paste(datadir, "AA", "AA_inventories.tsv", sep="/")
-spa.path <- paste(datadir, "SPA", "SPA_Phones.tsv", sep="/")
-spa.ipa.path <- paste(datadir, "SPA", "SPA_IPA_correspondences.tsv", sep="/")
-spa.iso.path <- paste(datadir, "SPA", "SPA_LangNamesCodes.tsv", sep="/")
-upsid.segments.path <- paste(datadir, "UPSID", "UPSID_Segments.tsv", sep="/")
-upsid.character.codes.path <- paste(datadir, "UPSID", "UPSID_CharCodes.tsv", sep="/")
-upsid.languages.path <- paste(datadir, "UPSID", "UPSID_Languages.tsv", sep="/")
-upsid.language.codes.path <- paste(datadir, "UPSID", "UPSID_LanguageCodes.tsv", sep="/")
-upsid.ipa.path <- paste(datadir, "UPSID", "UPSID_IPA_correspondences.tsv", sep="/")
-ramaswami.path <- paste(datadir, "RAMASWAMI", "Ramaswami1999.csv", sep="/")
+features.path <- file.path(data.dir, "FEATURES", "phoible-segments-features.tsv")
+uw.path <- file.path(data.dir, "UW", "phoible_inventories.tsv")
+aa.path <- file.path(data.dir, "AA", "AA_inventories.tsv")
+spa.path <- file.path(data.dir, "SPA", "SPA_Phones.tsv")
+spa.ipa.path <- file.path(data.dir, "SPA", "SPA_IPA_correspondences.tsv")
+spa.iso.path <- file.path(data.dir, "SPA", "SPA_LangNamesCodes.tsv")
+upsid.segments.path <- file.path(data.dir, "UPSID", "UPSID_Segments.tsv")
+upsid.character.codes.path <- file.path(data.dir, "UPSID", "UPSID_CharCodes.tsv")
+upsid.languages.path <- file.path(data.dir, "UPSID", "UPSID_Languages.tsv")
+upsid.language.codes.path <- file.path(data.dir, "UPSID", "UPSID_LanguageCodes.tsv")
+upsid.ipa.path <- file.path(data.dir, "UPSID", "UPSID_IPA_correspondences.tsv")
+ramaswami.path <- file.path(data.dir, "RAMASWAMI", "Ramaswami1999.csv")
 # TODO: CASL
 # TODO: SAPHON
 # TODO: OCEANIA
@@ -71,18 +72,10 @@ collapseAllophones <- function(x, col) {
 	# (see https://github.com/uzling/code/issues/3)
 }
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# FUNCTION TO REMOVE DUPLICATE LANGUAGE DATA (RESPECTING TRUMP ORDER) #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-remove.duplicate.langs <- function(x, col) {
-	if(length(unique(x[col])) > 1) x <- x[x[col] == min(x[col]),]
-	return(x)
-}
-
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION TO DENORMALIZE AND THEN RE-NORMALIZE UNICODE STRINGS #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-denorm.renorm <- function(x) {
+denormRenorm <- function(x) {
     s <- stri_trans_general(stri_trans_general(x, "Any-NFD"), "Any-NFC")
 }
 
@@ -91,7 +84,7 @@ denorm.renorm <- function(x) {
 # # # # # # # # #
 # UW has only first cell filled in various columns
 uw.raw <- read.delim(uw.path, na.strings="", stringsAsFactors=FALSE)
-uw.raw$Allophones <- denorm.renorm(uw.raw$Allophones)
+uw.raw$Allophones <- denormRenorm(uw.raw$Allophones)
 uw.raw$LanguageCode <- na.locf(uw.raw$LanguageCode)
 uw.split <- split(uw.raw, uw.raw$LanguageCode)
 # using 'split' before 'fillCells' prevents things like 'SpecificDialect'
@@ -100,7 +93,7 @@ uw.data <- unsplit(lapply(uw.split, fillCells, c("LanguageName",
 		   "SpecificDialect", "Phoneme", "FileNames")), 
 		   uw.raw$LanguageCode)
 uw.data <- collapseAllophones(uw.data, "LanguageCode")
-uw.data$source <- "uw"
+uw.data$Source <- "uw"
 rm(uw.raw, uw.split)
 
 # AA has blank lines between languages, but no gaps like in UW or SPA
@@ -108,9 +101,9 @@ rm(uw.raw, uw.split)
 # use "LanguageName" to collapse allophones: there are specific dialects
 aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 					  stringsAsFactors=FALSE)
-aa.data$Allophones <- denorm.renorm(aa.data$Allophones)
+aa.data$Allophones <- denormRenorm(aa.data$Allophones)
 aa.data <- collapseAllophones(aa.data, "LanguageName")
-aa.data$source <- "aa"
+aa.data$Source <- "aa"
 
 
 # SPA
@@ -132,7 +125,7 @@ spa.data$Allophones <- spa.ipa$Phoneme[match(spa.data$spaAllophoneDescription,
 									   spa.ipa$spaDescription)]
 spa.data <- collapseAllophones(spa.data, "LanguageName")
 spa.data <- merge(spa.data, spa.iso)
-spa.data$source <- "spa"
+spa.data$Source <- "spa"
 rm(spa.raw, spa.split, spa.ipa, spa.iso)
 
 # UPSID
@@ -144,7 +137,7 @@ upsid.language.codes <- read.delim(upsid.language.codes.path,
 						na.strings="", stringsAsFactors=FALSE, quote="")
 upsid.data <- merge(upsid.language.codes, upsid.segments, by="upsidLangNum")
 upsid.data <- merge(upsid.data, upsid.ipa[c("upsidCCID", "Phoneme")], by="upsidCCID")
-upsid.data$source <- "upsid"
+upsid.data$Source <- "upsid"
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
 # RAMASWAMI
@@ -155,16 +148,16 @@ ramaswami.data <- apply(ramaswami.raw[4:nrow(ramaswami.raw),], 1,
 				  Phoneme=c(t(ramaswami.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])), 
 				  row.names=NULL))
 ramaswami.data <- do.call(rbind, ramaswami.data)
-ramaswami.data$source <- "ramaswami"
+ramaswami.data$Source <- "ramaswami"
 rm(ramaswami.raw)
 
-# CASL
+# TODO: CASL
 
-# SAPHON
+# TODO: SAPHON
 
-# OCEANIA
+# TODO: OCEANIA
 
-# STEDT
+# TODO: STEDT
 
 
 # # # # # # # # # # # # #
@@ -174,7 +167,7 @@ rm(ramaswami.raw)
 data.sources.list <- list(uw.data, aa.data, spa.data, upsid.data,
                           ramaswami.data)  # casl.data, saphon.data
 all.data <- do.call(rbind.fill, data.sources.list)
-all.data <- all.data[with(all.data, order(LanguageCode, source)),]
+all.data <- all.data[with(all.data, order(LanguageCode, Source)),]
 # MARK MARGINAL PHONEMES
 all.data$Marginal <- stri_count_fixed(all.data$Phoneme, "<") > 0
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="<")
@@ -183,53 +176,20 @@ all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pat
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͡")
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͜")
 # NORMALIZATION
-all.data$Phoneme <- denorm.renorm(all.data$Phoneme)
-all.data$Allophones <- denorm.renorm(all.data$Allophones)
+all.data$Phoneme <- denormRenorm(all.data$Phoneme)
+all.data$Allophones <- denormRenorm(all.data$Allophones)
 # FACTOR TO DROP UNUSED LEVELS
 all.data$Phoneme <- factor(all.data$Phoneme)
+# ASSIGN GLYPH IDs
+all.data$GlyphID <- stri_trans_general(all.data$Phoneme, "Any-Hex/Unicode")
+all.data$GlyphID <- stri_replace_all_fixed(all.data$GlyphID, replacement="", pattern="U")
+all.data$GlyphID <- stri_replace_first_fixed(all.data$GlyphID, replacement="", pattern="+")
 
 # TODO: VALIDATE ISO CODES
 
-# LOAD THE FEATURE AND IMPLEMENT THE RULES
-feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
-feats$segment <- denorm.renorm(feats$segment)
-feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
-				  "consonantal", "sonorant", "continuant", 
-				  "delayedRelease", "approximant", "tap", "trill", 
-				  "nasal", "lateral", "labial", "round", "labiodental", 
-				  "coronal", "anterior", "distributed", "strident", 
-				  "dorsal", "high", "low", "front", "back", "tense", 
-				  "retractedTongueRoot", "advancedTongueRoot", 
-				  "periodicGlottalSource", "epilaryngealSource", 
-				  "spreadGlottis", "constrictedGlottis", "fortis", 
-				  "raisedLarynxEjective", "loweredLarynxImplosive", 
-				  "click")
-all.data <- merge(all.data, feats, by.x="Phoneme", by.y="segment", all.x=TRUE, all.y=FALSE, sort=FALSE)
-# handle UPSID disjuncts
-upsid.disjunct.indices <- grepl("|", all.data$Phoneme, fixed=TRUE)
-upsid.disjuncts <- strsplit(as.character(all.data$Phoneme[upsid.disjunct.indices]), split="|", fixed=TRUE)
-upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
-			   left.index <- which(feats$segment == i[1])
-			   right.index <- which(feats$segment == i[2])
-			   matches <- unlist(lapply(seq_along(feats[left.index,]), function(i) feats[left.index, i] == feats[right.index, i]))
-			   output <- feats[left.index,]
-			   output[!matches] <- 0
-			   output$segment <- paste(i, collapse="|")
-			   return(output)
-			   }))
-all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
-
-# TRUMP ORDERING: more preferred data sources come earlier in the list
-trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
-all.data$source <- factor(all.data$source, levels=trump.order, ordered=TRUE)
-split.data <- split(all.data, all.data$LanguageCode)
-reduced.data <- lapply(split.data, remove.duplicate.langs, "source")
-reduced.data <- do.call(rbind, reduced.data)
-rownames(reduced.data) <- NULL
-
-output.column.order <- c("LanguageCode", "LanguageName", "SpecificDialect",
-                         "Phoneme", "Allophones", "source")
-
-# address specific problems between with features
-# put it all in for one, except for the diacritics
-# Another method will need to be built to output the data with (or linked to) allophone and the explanation of allophones data?
+# WRITE OUT DATA
+# TODO: need to implement Class column
+output.columns <- c("LanguageCode", "LanguageName", "SpecificDialect", 
+                    "Phoneme", "Allophones", "Source", "GlyphID")
+write.table(all.data[,output.columns], file=output.fname, sep="\t", eol="\n",
+            row.names=FALSE, quote=FALSE, fileEncoding="UTF-8")
