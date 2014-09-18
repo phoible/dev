@@ -25,11 +25,10 @@ upsid.languages.path <- paste(datadir, "UPSID", "UPSID_Languages.tsv", sep="/")
 upsid.language.codes.path <- paste(datadir, "UPSID", "UPSID_LanguageCodes.tsv", sep="/")
 upsid.ipa.path <- paste(datadir, "UPSID", "UPSID_IPA_correspondences.tsv", sep="/")
 ramaswami.path <- paste(datadir, "RAMASWAMI", "Ramaswami1999.csv", sep="/")
-# CASL
-# SAPHON
-# OCEANIA
-# STEDT
-
+# TODO: CASL
+# TODO: SAPHON
+# TODO: OCEANIA
+# TODO: STEDT
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION TO PROPOGATE PHONEMES, LANGUAGE, DIALECT, FILENAMES, ETC #
@@ -47,7 +46,6 @@ fillCells <- function(df, cols) {
 	return(df)
 } 
 
-
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION TO COLLAPSE ALLOPHONES TO A SINGLE CELL  #
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -61,9 +59,6 @@ collapseAllophones <- function(x, col) {
 							paste(as.vector(ifelse(is.na(j$Allophones), 
 							j$Phoneme, j$Allophones)), collapse=" "), 
 							fixed=TRUE), fixed=TRUE);
-			#h$Allophones <- gsub("[", "", gsub("]", "", 
-			#				paste(as.vector(j$Allophones), collapse=" "), 
-			#				fixed=TRUE), fixed=TRUE);
 			h$AllophoneNotes <- gsub("\"", "", 
 								paste(as.vector(j$AllophoneNotes), 
 								collapse="; "), fixed=TRUE)
@@ -76,7 +71,6 @@ collapseAllophones <- function(x, col) {
 	# (see https://github.com/uzling/code/issues/3)
 }
 
-
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION TO REMOVE DUPLICATE LANGUAGE DATA (RESPECTING TRUMP ORDER) #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -85,12 +79,19 @@ remove.duplicate.langs <- function(x, col) {
 	return(x)
 }
 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# FUNCTION TO DENORMALIZE AND THEN RE-NORMALIZE UNICODE STRINGS #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+denorm.renorm <- function(x) {
+    s <- stri_trans_general(stri_trans_general(x, "Any-NFD"), "Any-NFC")
+}
 
 # # # # # # # # #
 # DATA SOURCES  #
 # # # # # # # # #
 # UW has only first cell filled in various columns
 uw.raw <- read.delim(uw.path, na.strings="", stringsAsFactors=FALSE)
+uw.raw$Allophones <- denorm.renorm(uw.raw$Allophones)
 uw.raw$LanguageCode <- na.locf(uw.raw$LanguageCode)
 uw.split <- split(uw.raw, uw.raw$LanguageCode)
 # using 'split' before 'fillCells' prevents things like 'SpecificDialect'
@@ -107,6 +108,7 @@ rm(uw.raw, uw.split)
 # use "LanguageName" to collapse allophones: there are specific dialects
 aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 					  stringsAsFactors=FALSE)
+aa.data$Allophones <- denorm.renorm(aa.data$Allophones)
 aa.data <- collapseAllophones(aa.data, "LanguageName")
 aa.data$source <- "aa"
 
@@ -114,6 +116,7 @@ aa.data$source <- "aa"
 # SPA
 # TODO: SPA data does not have ISO codes; is there a mapping to SPA language numbers?
 # TODO: the SPA "Notes" column just has numeric codes in it. where is the key?
+# TODO: SPA has allophone information, but not in IPA?
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.iso <- read.delim(spa.iso.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw <- read.delim(spa.path, na.strings="", stringsAsFactors=FALSE, quote="")
@@ -172,42 +175,24 @@ data.sources.list <- list(uw.data, aa.data, spa.data, upsid.data,
                           ramaswami.data)  # casl.data, saphon.data
 all.data <- do.call(rbind.fill, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, source)),]
-# HANDLE MARGINAL PHONEMES
-all.data$Marginal <- "<" %in% all.data$Phoneme
-all.data$Phoneme <- gsub("<", "", gsub(">", "", all.data$Phoneme, fixed=TRUE),
-                         fixed=TRUE)
-
-# REPLACE C+CEDILLA DIACRITIC WITH SINGLE GLYPH (TODO: is this still necessary?)
-#all.data$Phoneme <- gsub("ç", "ç", all.data$Phoneme, fixed=TRUE)
+# MARK MARGINAL PHONEMES
+all.data$Marginal <- stri_count_fixed(all.data$Phoneme, "<") > 0
+all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="<")
+all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern=">")
 # REMOVE ALL TIEBARS
-all.data$Phoneme <- gsub("͡", "", all.data$Phoneme, fixed=TRUE)
-all.data$Phoneme <- gsub("͜", "", all.data$Phoneme, fixed=TRUE)
-
-# FIX SOME NORMALIZATION ORDER ISSUES
-# TODO: ideally these would get done prior to aggregation
-# replace 
-all.data$Phoneme <- gsub("æ̞̃", "æ̞̃", all.data$Phoneme, fixed=TRUE)
-# replace VOWEL+overtilde+undertilde with VOWEL+undertilde+overtilde
-all.data$Phoneme <- gsub("ṵ̃", "ṵ̃", all.data$Phoneme, fixed=TRUE)
-all.data$Phoneme <- gsub("ã̰", "ã̰", all.data$Phoneme, fixed=TRUE)  
-all.data$Phoneme <- gsub("ḭ̃", "ḭ̃", all.data$Phoneme, fixed=TRUE)
-# replace VOWEL+diaresis+tack with VOWEL+tack+diaresis
-all.data$Phoneme <- gsub("ë̞", "ë̞", all.data$Phoneme, fixed=TRUE)
-# replace VOWEL+overtilde+tack with VOWEL+tack+overtilde
-all.data$Phoneme <- gsub("ẽ̞ũ", "ẽ̞ũ", all.data$Phoneme, fixed=TRUE)
-all.data$Phoneme <- gsub("ĩẽ̞", "ĩẽ̞", all.data$Phoneme, fixed=TRUE)
-# replace VOWEL+overtilde+underplus with VOWEL+underplus+overtilde
-all.data$Phoneme <- gsub("ã̟ĩ", "ã̟ĩ", all.data$Phoneme, fixed=TRUE)
-
-# FACTOR AFTER SUBSTITUTIONS
+all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͡")
+all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͜")
+# NORMALIZATION
+all.data$Phoneme <- denorm.renorm(all.data$Phoneme)
+all.data$Allophones <- denorm.renorm(all.data$Allophones)
+# FACTOR TO DROP UNUSED LEVELS
 all.data$Phoneme <- factor(all.data$Phoneme)
-
 
 # TODO: VALIDATE ISO CODES
 
-
 # LOAD THE FEATURE AND IMPLEMENT THE RULES
 feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
+feats$segment <- denorm.renorm(feats$segment)
 feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
 				  "consonantal", "sonorant", "continuant", 
 				  "delayedRelease", "approximant", "tap", "trill", 
@@ -234,14 +219,6 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 			   }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 
-stop()
-# TODO: still a couple dozen unique phonemes without features; many are c-cedillas
-foo <- all.data[is.na(all.data$syllabic),]
-sink("/media/dan/data/Desktop/featurelessPhonemes.tsv")
-cat(paste(unique(foo$Phoneme), collapse="\n"))
-sink()
-
-
 # TRUMP ORDERING: more preferred data sources come earlier in the list
 trump.order <- c("uw", "spa", "aa", "upsid", "ramaswami")  # "casl", "saphon"
 all.data$source <- factor(all.data$source, levels=trump.order, ordered=TRUE)
@@ -250,6 +227,8 @@ reduced.data <- lapply(split.data, remove.duplicate.langs, "source")
 reduced.data <- do.call(rbind, reduced.data)
 rownames(reduced.data) <- NULL
 
+output.column.order <- c("LanguageCode", "LanguageName", "SpecificDialect",
+                         "Phoneme", "Allophones", "source")
 
 # address specific problems between with features
 # put it all in for one, except for the diacritics
