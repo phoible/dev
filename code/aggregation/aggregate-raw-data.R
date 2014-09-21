@@ -15,7 +15,7 @@ output.fname <- file.path("..", "..", "phoible-alldata-phonemes.tsv")
 # FILE PATHS  #
 # # # # # # # #
 features.path <- file.path(data.dir, "FEATURES", "phoible-segments-features.tsv")
-uw.path <- file.path(data.dir, "UW", "phoible_inventories.tsv")
+ph.path <- file.path(data.dir, "PH", "phoible_inventories.tsv")
 aa.path <- file.path(data.dir, "AA", "AA_inventories.tsv")
 spa.path <- file.path(data.dir, "SPA", "SPA_Phones.tsv")
 spa.ipa.path <- file.path(data.dir, "SPA", "SPA_IPA_correspondences.tsv")
@@ -25,8 +25,8 @@ upsid.character.codes.path <- file.path(data.dir, "UPSID", "UPSID_CharCodes.tsv"
 upsid.languages.path <- file.path(data.dir, "UPSID", "UPSID_Languages.tsv")
 upsid.language.codes.path <- file.path(data.dir, "UPSID", "UPSID_LanguageCodes.tsv")
 upsid.ipa.path <- file.path(data.dir, "UPSID", "UPSID_IPA_correspondences.tsv")
-ramaswami.path <- file.path(data.dir, "RAMASWAMI", "Ramaswami1999.csv")
-# TODO: CASL
+ra.path <- file.path(data.dir, "RA", "Ramaswami1999.csv")
+# TODO: GM
 # TODO: SAPHON
 # TODO: OCEANIA
 # TODO: STEDT
@@ -68,8 +68,6 @@ collapseAllophones <- function(x, col) {
 	mrg <- do.call(rbind, lapply(spl, function(i) do.call(rbind, i)))
 	rownames(mrg) <- NULL
 	return(mrg)
-	# TODO: inconsistent results across data sources
-	# (see https://github.com/uzling/code/issues/3)
 }
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -82,21 +80,21 @@ denormRenorm <- function(x) {
 # # # # # # # # #
 # DATA SOURCES  #
 # # # # # # # # #
-# UW has only first cell filled in various columns
-uw.raw <- read.delim(uw.path, na.strings="", stringsAsFactors=FALSE)
-uw.raw$Allophones <- denormRenorm(uw.raw$Allophones)
-uw.raw$LanguageCode <- na.locf(uw.raw$LanguageCode)
-uw.split <- split(uw.raw, uw.raw$LanguageCode)
+# PH has only first cell filled in various columns
+ph.raw <- read.delim(ph.path, na.strings="", stringsAsFactors=FALSE)
+ph.raw$Allophones <- denormRenorm(ph.raw$Allophones)
+ph.raw$LanguageCode <- na.locf(ph.raw$LanguageCode)
+ph.split <- split(ph.raw, ph.raw$LanguageCode)
 # using 'split' before 'fillCells' prevents things like 'SpecificDialect'
 # from copying beyond the row extent of each LanguageCode
-uw.data <- unsplit(lapply(uw.split, fillCells, c("LanguageName", 
+ph.data <- unsplit(lapply(ph.split, fillCells, c("LanguageName", 
 		   "SpecificDialect", "Phoneme", "FileNames")), 
-		   uw.raw$LanguageCode)
-uw.data <- collapseAllophones(uw.data, "LanguageCode")
-uw.data$Source <- "uw"
-rm(uw.raw, uw.split)
+		   ph.raw$LanguageCode)
+ph.data <- collapseAllophones(ph.data, "LanguageCode")
+ph.data$Source <- "ph"
+rm(ph.raw, ph.split)
 
-# AA has blank lines between languages, but no gaps like in UW or SPA
+# AA has blank lines between languages, but no gaps like in PH or SPA
 # AA lists marginal phonemes in angle brackets like this <h>
 # use "LanguageName" to collapse allophones: there are specific dialects
 aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
@@ -141,17 +139,17 @@ upsid.data$Source <- "upsid"
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
 # RAMASWAMI
-ramaswami.raw <- read.delim(ramaswami.path, na.strings="", quote="", 
+ra.raw <- read.delim(ra.path, na.strings="", quote="", 
 				 as.is=TRUE, header=FALSE, stringsAsFactors=FALSE)
-ramaswami.data <- apply(ramaswami.raw[4:nrow(ramaswami.raw),], 1, 
+ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1, 
 				  function(i) data.frame(LanguageName=i[2], LanguageCode=i[3], 
-				  Phoneme=c(t(ramaswami.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])), 
+				  Phoneme=c(t(ra.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])), 
 				  row.names=NULL))
-ramaswami.data <- do.call(rbind, ramaswami.data)
-ramaswami.data$Source <- "ramaswami"
-rm(ramaswami.raw)
+ra.data <- do.call(rbind, ra.data)
+ra.data$Source <- "ra"
+rm(ra.raw)
 
-# TODO: CASL
+# TODO: GM
 
 # TODO: SAPHON
 
@@ -164,8 +162,8 @@ rm(ramaswami.raw)
 # COMBINE DATA SOURCES  #
 # # # # # # # # # # # # #
 # COMBINE INTO ONE DATA FRAME
-data.sources.list <- list(uw.data, aa.data, spa.data, upsid.data,
-                          ramaswami.data)  # casl.data, saphon.data
+data.sources.list <- list(ph.data, aa.data, spa.data, upsid.data,
+                          ra.data)  # gm.data, saphon.data
 all.data <- do.call(rbind.fill, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, Source)),]
 # MARK MARGINAL PHONEMES
