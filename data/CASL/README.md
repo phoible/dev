@@ -1,18 +1,13 @@
-# CASL files
+# GM Inventories
 
-## CASL Africa and Southeast Asia inventories
+This directory contains inventories and citations collected and extracted by Chistopher Green and Steven Moran.
 
-Collapsed now into one file:
-
-- CASL_inventories.tsv
-
-Citations in separate file (links to PHOIBLE InventoryIDs)
-
-- CASL_citations.tsv
+- GM_inventories.tsv - phoneme inventories in PHOIBLE long format
+- GM.bib - bibliographic citations for those inventories
 
 ## TODOS:
 
-### Citations:
+### Update citations:
 
 - fix page numbers (130-131 vs 130--131)
 - publisher (e.g. Oxford)
