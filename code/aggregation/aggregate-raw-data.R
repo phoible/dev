@@ -6,10 +6,14 @@
 
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(plyr)     # provides function rbind.fill
+library(stringr)  # provides str_strip
 library(stringi)  # for proper string handling & (de)normalization
 
 data.dir <- file.path("..", "..", "data")
 output.fname <- file.path("..", "..", "phoible-alldata-phonemes.tsv")
+output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", 
+                   "Phoneme", "Allophones", "Source", "GlyphID")
+# TODO: need to implement Class column
 
 # # # # # # # #
 # FILE PATHS  #
@@ -26,10 +30,29 @@ upsid.languages.path <- file.path(data.dir, "UPSID", "UPSID_Languages.tsv")
 upsid.language.codes.path <- file.path(data.dir, "UPSID", "UPSID_LanguageCodes.tsv")
 upsid.ipa.path <- file.path(data.dir, "UPSID", "UPSID_IPA_correspondences.tsv")
 ra.path <- file.path(data.dir, "RA", "Ramaswami1999.csv")
-# TODO: GM
-# TODO: SAPHON
+gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
+gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
+saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.csv")
+saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
 # TODO: OCEANIA
 # TODO: STEDT
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # #
+# DENORMALIZE AND THEN RE-NORMALIZE UNICODE STRINGS #
+# # # # # # # # # # # # # # # # # # # # # # # # # # #
+denormRenorm <- function(x) {
+    s <- stri_trans_general(stri_trans_general(x, "Any-NFD"), "Any-NFC")
+}
+
+# # # # # # # # # # # # # #
+# MARK MARGINAL PHONEMES  #
+# # # # # # # # # # # # # #
+markMarginal <- function(x) {
+    x$Marginal <- stri_count_fixed(x, "<") > 0
+    x$Phoneme <- stri_replace_all_fixed(x$Phoneme, replacement="", pattern="<")
+    x$Phoneme <- stri_replace_all_fixed(x$Phoneme, replacement="", pattern=">")
+    return(x)
+}
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION TO PROPOGATE PHONEMES, LANGUAGE, DIALECT, FILENAMES, ETC #
@@ -47,112 +70,159 @@ fillCells <- function(df, cols) {
 	return(df)
 } 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # #
-# FUNCTION TO COLLAPSE ALLOPHONES TO A SINGLE CELL  #
-# # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# REMOVE SQUARE BRACKETS FROM ALLOPHONES AND COLLAPSE TO A SINGLE CELL  #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 collapseAllophones <- function(x, col) {
 	# x is the data frame, col is the name of the column to split on
 	# (col should typically be "LanguageCode")
 	spl <- lapply(split(x, x[col]), function(i) split(i, i$Phoneme))
 	spl <- lapply(spl, function(i) lapply(i, function(j) { 
-			h <- j;  
-			h$Allophones <- gsub("[", "", gsub("]", "", 
-							paste(as.vector(ifelse(is.na(j$Allophones), 
-							j$Phoneme, j$Allophones)), collapse=" "), 
-							fixed=TRUE), fixed=TRUE);
-			h$AllophoneNotes <- gsub("\"", "", 
-								paste(as.vector(j$AllophoneNotes), 
-								collapse="; "), fixed=TRUE)
+			h <- j;
+            tmp <- ifelse(is.na(j$Allophones), j$Phoneme, j$Allophones);
+			h$Allophones <- paste(as.vector(tmp), collapse=" ");
+			h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="", 
+                                                   pattern="[");
+			h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="",
+                                                   pattern="]");
+			#h$Allophones <- gsub("[", "", gsub("]", "", 
+			#				paste(as.vector(ifelse(is.na(j$Allophones), 
+			#				j$Phoneme, j$Allophones)), collapse=" "), 
+			#				fixed=TRUE), fixed=TRUE);
+            tmp <- paste(as.vector(j$AllophoneNotes), collapse="; ")
+			h$AllophoneNotes <- stri_replace_all_fixed(tmp, replacement="",
+                                                       pattern="\"");
+			#h$AllophoneNotes <- gsub("\"", "", 
+			#					paste(as.vector(j$AllophoneNotes), 
+			#					collapse="; "), fixed=TRUE)
 			return(h[1,]) 
 			}))
-	mrg <- do.call(rbind, lapply(spl, function(i) do.call(rbind, i)))
-	rownames(mrg) <- NULL
-	return(mrg)
+	merged <- do.call(rbind, lapply(spl, function(i) do.call(rbind, i)))
+	rownames(merged) <- NULL
+	merged$Allophones <- denormRenorm(merged$Allophones)
+	return(merged)
 }
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# FUNCTION TO DENORMALIZE AND THEN RE-NORMALIZE UNICODE STRINGS #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-denormRenorm <- function(x) {
-    s <- stri_trans_general(stri_trans_general(x, "Any-NFD"), "Any-NFC")
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# FUNCTION FOR READING "LONG AND SPARSE" DATA FORMAT (PH, GM, ETC.) #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+parseSparse <- function(x, abbr, cols=NULL) {
+    x <- within(x, {
+        LanguageCode <- na.locf(LanguageCode) # this is harmless when not needed
+        Phoneme <- denormRenorm(Phoneme)
+        # allophones get normalized in the collapseAllophones function
+    })
+    if(!is.null(cols)) {
+        # using 'split' before 'fillCells' prevents things like SpecificDialect
+        # from copying beyond the row extent of each LanguageCode
+        y <- split(x, x$LanguageCode)
+        z <- unsplit(lapply(y, fillCells, cols), x$LanguageCode)    
+    } else {
+        z <- x
+    }
+    z$Source <- abbr
+    z <- collapseAllophones(z, "LanguageCode")
 }
 
 # # # # # # # # #
 # DATA SOURCES  #
 # # # # # # # # #
-# PH has only first cell filled in various columns
+# PH and GM have only first cell filled in some columns
+# PH
 ph.raw <- read.delim(ph.path, na.strings="", stringsAsFactors=FALSE)
-ph.raw$Allophones <- denormRenorm(ph.raw$Allophones)
-ph.raw$LanguageCode <- na.locf(ph.raw$LanguageCode)
-ph.split <- split(ph.raw, ph.raw$LanguageCode)
-# using 'split' before 'fillCells' prevents things like 'SpecificDialect'
-# from copying beyond the row extent of each LanguageCode
-ph.data <- unsplit(lapply(ph.split, fillCells, c("LanguageName", 
-		   "SpecificDialect", "Phoneme", "FileNames")), 
-		   ph.raw$LanguageCode)
-ph.data <- collapseAllophones(ph.data, "LanguageCode")
-ph.data$Source <- "ph"
-rm(ph.raw, ph.split)
+ph.data <- parseSparse(ph.raw, "ph", c("LanguageName", "SpecificDialect",
+                                       "Phoneme", "FileNames"))
+rm(ph.raw)
+
+
+# GM
+gm.afr.raw <- read.delim(gm.afr.path, na.strings="", quote="", 
+                         stringsAsFactors=FALSE, blank.lines.skip=TRUE)
+gm.sea.raw <- read.delim(gm.sea.path, na.strings="", quote="",
+                         stringsAsFactors=FALSE, blank.lines.skip=TRUE)
+gm.raw <- rbind(gm.afr.raw, gm.sea.raw)
+gm.data <- parseSparse(gm.raw, "gm", "FileNames")
+rm(gm.raw)
+
 
 # AA has blank lines between languages, but no gaps like in PH or SPA
 # AA lists marginal phonemes in angle brackets like this <h>
-# use "LanguageName" to collapse allophones: there are specific dialects
 aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 					  stringsAsFactors=FALSE)
-aa.data$Allophones <- denormRenorm(aa.data$Allophones)
+# collapse based on "LanguageName" because AA includes different dialects with
+# same ISO code, but not all languages have an entry under "SpecificDialect"
 aa.data <- collapseAllophones(aa.data, "LanguageName")
 aa.data$Source <- "aa"
 
 
 # SPA
-# TODO: SPA data does not have ISO codes; is there a mapping to SPA language numbers?
-# TODO: the SPA "Notes" column just has numeric codes in it. where is the key?
-# TODO: SPA has allophone information, but not in IPA?
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.iso <- read.delim(spa.iso.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw <- read.delim(spa.path, na.strings="", stringsAsFactors=FALSE, quote="")
-spa.raw$spaLangNum <- na.locf(spa.raw$spaLangNum)
-spa.split <- split(spa.raw, spa.raw$spaLangNum)
-spa.data <- unsplit(lapply(spa.split, fillCells, c("LanguageName", 
-			"spaPhoneNum", "spaDescription")), spa.raw$spaLangNum)
-spa.data <- merge(spa.data, spa.ipa, by="spaDescription", sort=FALSE)
-spa.data$spaAllophoneDescription <- gsub("[", "", gsub("]", "", 
-									spa.data$spaAllophoneDescription, 
-									fixed=TRUE), fixed=TRUE)
-spa.data$Allophones <- spa.ipa$Phoneme[match(spa.data$spaAllophoneDescription,
-									   spa.ipa$spaDescription)]
-spa.data <- collapseAllophones(spa.data, "LanguageName")
-spa.data <- merge(spa.data, spa.iso)
-spa.data$Source <- "spa"
-rm(spa.raw, spa.split, spa.ipa, spa.iso)
+spa.raw$LanguageName <- na.locf(spa.raw$LanguageName)
+spa.raw <- merge(spa.raw, spa.iso, all.x=TRUE, sort=FALSE)
+spa.raw <- merge(spa.raw, spa.ipa[,c("spaDescription", "Phoneme")], all.x=TRUE,
+                 sort=FALSE)
+spa.raw$Allophones <- spa.ipa$Phoneme[match(spa.raw$spaAllophoneDescription,
+                                            spa.ipa$spaDescription)]
+spa.data <- parseSparse(spa.raw, "spa", "LanguageName")  # "spaPhoneNum", "spaDescription"
+spa.data <- spa.data[, c("LanguageCode", "LanguageName", "Phoneme", "Allophones", "Source")]
+rm(spa.raw, spa.ipa, spa.iso)
+
 
 # UPSID
-upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", 
-			 stringsAsFactors=FALSE, quote="")
-upsid.segments <- read.delim(upsid.segments.path, na.strings="", 
-				  stringsAsFactors=FALSE, quote="")
-upsid.language.codes <- read.delim(upsid.language.codes.path, 
-						na.strings="", stringsAsFactors=FALSE, quote="")
+upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", quote="",
+                        stringsAsFactors=FALSE)
+upsid.segments <- read.delim(upsid.segments.path, na.strings="", quote="",
+                             stringsAsFactors=FALSE)
+upsid.language.codes <- read.delim(upsid.language.codes.path, na.strings="",
+                                   quote="", stringsAsFactors=FALSE)
 upsid.data <- merge(upsid.language.codes, upsid.segments, by="upsidLangNum")
 upsid.data <- merge(upsid.data, upsid.ipa[c("upsidCCID", "Phoneme")], by="upsidCCID")
-upsid.data$Source <- "upsid"
+upsid.data <- within(upsid.data, {
+    Source <- "upsid"
+    Phoneme <- denormRenorm(Phoneme)
+})
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
+
 # RAMASWAMI
-ra.raw <- read.delim(ra.path, na.strings="", quote="", 
-				 as.is=TRUE, header=FALSE, stringsAsFactors=FALSE)
+ra.raw <- read.delim(ra.path, na.strings="", quote="", as.is=TRUE, header=FALSE)
 ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1, 
-				  function(i) data.frame(LanguageName=i[2], LanguageCode=i[3], 
-				  Phoneme=c(t(ra.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])), 
-				  row.names=NULL))
+				 function(i) data.frame(LanguageName=i[2], LanguageCode=i[3], 
+				 Phoneme=c(t(ra.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])), 
+				 row.names=NULL))
 ra.data <- do.call(rbind, ra.data)
 ra.data$Source <- "ra"
 rm(ra.raw)
 
-# TODO: GM
 
-# TODO: SAPHON
+# SAPHON
+saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
+saphon.raw <- read.csv(saphon.path, quote="", as.is=TRUE, header=FALSE)
+# get rid of quotation marks:
+saphon.raw <- apply(saphon.raw, c(1,2), 
+                    function(i) stri_replace_all_fixed(i, replacement="",
+                                                       pattern='"'))
+saphon.phones <- as.vector(t(saphon.raw[1, 17:341]))
+saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
+#bools <- as.integer(saphon.raw[3:nrow(saphon.raw),17:341])
+#bools[is.na(bools)] <- 0
+#saphon.raw[3:nrow(saphon.raw),17:341] <- bools
+saphon.data <- apply(saphon.raw[3:nrow(saphon.raw),], 1, 
+                     function(i) data.frame(LanguageName=i[1], LanguageCode=i[5],
+                     Phoneme=saphon.phones[as.logical(as.integer(i[17:341]))],
+                     row.names=NULL))
+saphon.data <- do.call(rbind, saphon.data)
+saphon.data <- saphon.data[!is.na(saphon.data$Phoneme),]
 
+saphon.data$Source <- "saphon"
+saphon.data$LanguageCode <- stri_split_fixed(saphon.data$LanguageCode, "_", n_max=1)
+# TODO: SpecificDialect not working
+#saphon.data$SpecificDialect <- ifelse(length(stri_split_regex(saphon.data$LanguageName, "[()]")) > 1,
+#                                      stri_split_regex(saphon.data$LanguageName, "[()]"), "")
+saphon.data$LanguageName <- stri_split_regex(saphon.data$LanguageName, "[()]", n_max=1)
+rm(saphon.raw, saphon.ipa)
 # TODO: OCEANIA
 
 # TODO: STEDT
@@ -163,13 +233,9 @@ rm(ra.raw)
 # # # # # # # # # # # # #
 # COMBINE INTO ONE DATA FRAME
 data.sources.list <- list(ph.data, aa.data, spa.data, upsid.data,
-                          ra.data)  # gm.data, saphon.data
+                          ra.data, gm.data, saphon.data)
 all.data <- do.call(rbind.fill, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, Source)),]
-# MARK MARGINAL PHONEMES
-all.data$Marginal <- stri_count_fixed(all.data$Phoneme, "<") > 0
-all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="<")
-all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern=">")
 # REMOVE ALL TIEBARS
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͡")
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͜")
@@ -186,8 +252,5 @@ all.data$GlyphID <- stri_replace_first_fixed(all.data$GlyphID, replacement="", p
 # TODO: VALIDATE ISO CODES
 
 # WRITE OUT DATA
-# TODO: need to implement Class column
-output.columns <- c("LanguageCode", "LanguageName", "SpecificDialect", 
-                    "Phoneme", "Allophones", "Source", "GlyphID")
-write.table(all.data[,output.columns], file=output.fname, sep="\t", eol="\n",
+write.table(all.data[,output.fields], file=output.fname, sep="\t", eol="\n",
             row.names=FALSE, quote=FALSE, fileEncoding="UTF-8")
