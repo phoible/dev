@@ -1,4 +1,4 @@
-ISO	Name	Dialect	Phonemes	Questions	Allophones	ExplanationOfAllophones	FileNames
+LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	AllophoneNotes	FileNames
 fub	Fulfulde (Cameroon)	CAM	b				adamawa_taylor1953.pdf
 fub	Fulfulde (Cameroon)	CAM	ɓ				
 fub	Fulfulde (Cameroon)	CAM	ʔʲ				

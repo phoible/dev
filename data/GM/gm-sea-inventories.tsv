@@ -1,4 +1,4 @@
-ISO	Name	Dialect	Phonemes	Questions	Allophones	ExplanationOfAllophones	FileNames
+LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	AllophoneNotes	FileNames
 btx	Karo Batak		p				btx_KaroBatak1.pdf
 btx	Karo Batak		t				
 btx	Karo Batak		k		[ʔ]	before consonants and word finally	

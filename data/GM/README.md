@@ -1,14 +1,14 @@
-# CASL files
+# GM files
 
-## CASL Africa and Southeast Asia inventories
+## Greene and Moran: Africa and Southeast Asia inventories
 
 Collapsed now into one file:
 
-- CASL_inventories.tsv
+- GM_inventories.tsv
 
 Citations in separate file (links to PHOIBLE InventoryIDs)
 
-- CASL_citations.tsv
+- GM_citations.tsv
 
 ## TODOS:
 
