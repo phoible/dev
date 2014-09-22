@@ -9,7 +9,7 @@ pʷ	pʷ
 ɓ̥	ɓ̥	
 mp	mp	
 ps	ps	
-ʰb	ʰb	prespiration on voiced is OK?
+ʰb	ʱb	
 b	b	
 bβ	bβ	
 b:	bː	
@@ -24,7 +24,7 @@ t̪'	t̪ʼ
 t̪ʰ	t̪ʰ	
 t̪	t̪	
 d̪	d̪	
-d̪ʰ	d̪ʰ	no aspiration on voiced sounds
+d̪ʰ	d̪ʱ	
 t̪ʙ	t̪ʙ	
 t'	tʼ	
 tʰ	tʰ	
@@ -44,9 +44,9 @@ ts	ts
 tsʲʰ	tsʲʰ	
 tsʲ	tsʲ	
 nts	nts	
-ʰd	ʰd	prespiration on voiced is OK?
+ʰd	ʱd	
 d	d	
-dʰ	dʰ	no aspiration on voiced sounds
+dʰ	dʱ	
 d:	dː	
 nd	nd	
 dʲ	dʲ	
@@ -77,16 +77,16 @@ c'	cʼ
 cʰ	cʰ	
 ʰc	ʰc	
 c	c	
-c̰	c̰	no voiceless creaky
+c̰	cˀ	
 ɟʝ	ɟʝ	
-ʰɟ	ʰɟ	prespiration on voiced is OK?
+ʰɟ	ʱɟ	
 ɟ	ɟ	
 ɟ̰	ɟ̰	
 kʲ'	kʲʼ	
 kʲ	kʲ	
 kʲʰ	kʲʰ	
 kl	kl	
-k̰	k̰	no voiceless creaky
+k̰	kˀ	
 k'	kʼ	
 kʰ	kʰ	
 kx	kx	
@@ -111,29 +111,29 @@ qʰ	qʰ
 q	q	
 qʷ	qʷ	
 ɢ	ɢ	
-ʔʲ	ʔʲ	maybe wrong
+ʔʲ	ʔʲ	
 ʔ	ʔ	
-ʰm	ʰm	prespiration on voiced is OK?
+ʰm	ʱm	
 m	m	
-m'	mʼ	no voiced ejectives
+m'	mʼ	(no lxs) voiced ejectives impossible
 m̰	m̰	
-mʰ	mʰ	no aspiration on voiced sounds
+mʰ	mʱ	
 mʲ	mʲ	
 mʷ	mʷ	
 m:	mː	
 m̥	m̥	
 ɱ	ɱ	
 n̪	n̪	
-ʰn	ʰn	prespiration on voiced is OK?
+ʰn	ʱn	
 n	n	
-nʰ	nʰ	no aspiration on voiced sounds
+nʰ	nʱ	
 nʲ	nʲ	
 n:	nː	
 n̰	n̰	
 n̥	n̥	
 ɲ	ɲ	
 ɲ̰	ɲ̰	
-ɲʰ	ɲʰ	no aspiration on voiced sounds
+ɲʰ	ɲʱ	
 ɲ:	ɲː	
 ɲ̥	ɲ̥	
 ŋ	ŋ	
@@ -160,7 +160,7 @@ z	z
 ʐ	ʐ	
 ʃ	ʃ	
 ʒ	ʒ	
-ʒ̺	ʒ̺	how is apical ʒ different from ʐ ?
+ʒ̺	ʒ̺	(yuz: Yurakaré) original source uses /ɹ̝/ and describes as "voiced post-alveolar fricative". There is a footnote to this description that is missing from the document. how is apical ʒ different from ʐ ? Mail sent to author of original source document.
 ç	ç	
 ʝ	ʝ	
 x	x	
@@ -177,28 +177,28 @@ h̃	h̃
 hʲ	hʲ	
 hʷ	hʷ	
 ʕ	ʕ	
-ʰw	ʰw	preaspiration on voiced is OK?
-β̞	β̞	downtack on a fricative = an approximant, should use /w/ ?
+ʰw	ʱw	
+β̞	β̞	(cbr: Cashibo-Cacataibo) downtack on a fricative = an approximant, should use /w/?  update: This is the only /w/-like sound in this language, and this is the only language in SAPHON using this phoneme. Nonetheless, still not using /w/ due to its velar place features. Original transcription retained.
 w	w	
 w̃	w̃	
 w'	wʼ	
 w̰	w̰	
-wʰ	wʰ	no aspiration on voiced sounds
+wʰ	wʱ	
 wʲ	wʲ	
 w:	wː	
 ʋ	ʋ	
 ð̞	ð̞	
-ʰj	ʰj	preaspiration on voiced is OK?
+ʰj	ʱj	
 j	j	
 j̃	j̃	
 j̥	j̥	
-j'	jʼ	no voiced ejectives
+j'	jʼ	(no lxs) voiced ejectives impossible
 j̰	j̰	
 j:	jː	
 ɰ	ɰ	
 ɾ	ɾ	
 ɾ̃	ɾ̃	
-ʰɾ	ʰɾ	prespiration on voiced is OK?
+ʰɾ	ʱɾ	
 ɹ	ɹ	
 ɾʲ	ɾʲ	
 ʔɾ	ʔɾ	
@@ -210,7 +210,7 @@ l	l
 ɭ	ɭ	
 l̥	l̥	
 lʲ	lʲ	
-l'	lʼ	no voiced ejectives
+l'	lʼ	(no lxs) voiced ejectives impossible
 l:	lː	
 l̪	l̪	
 ɻ	ɻ	
@@ -224,7 +224,7 @@ ḭ̃	ḭ̃
 ḭ	ḭ	
 i:	iː	
 ĩ:	ĩː	
-iʰ	iʰ	no aspiration on voiced sounds
+iʰ	iʱ	
 ʏ	ʏ	
 ɪ	ɪ	
 ɪ:	ɪː	
@@ -235,7 +235,7 @@ ḛ	ḛ
 ẽ	ẽ	
 e:	eː	
 ẽ:	ẽː	
-eʰ	eʰ	no aspiration on voiced sounds
+eʰ	eʱ	
 ɛ	ɛ	
 ɛ̃	ɛ̃	
 ɛ:	ɛː	
@@ -253,7 +253,7 @@ ã:	ãː
 aʲ	aʲ	
 ãʲ	ãʲ	
 aʲ:	aʲː	
-aʰ	aʰ	no aspiration on voiced sounds
+aʰ	aʱ	
 ɒ	ɒ	
 ɒ:	ɒː	
 ɒ̃	ɒ̃	
@@ -271,7 +271,7 @@ o̰	o̰
 õ	õ	
 o:	oː	
 õ:	õː	
-oʰ	oʰ	no aspiration on voiced sounds
+oʰ	oʱ	
 oʲ	oʲ	
 õʲ	õʲ	
 ʊ	ʊ	
@@ -283,7 +283,7 @@ ṵ	ṵ
 ũ	ũ	
 u:	uː	
 ũ:	ũː	
-uʰ	uʰ	no aspiration on voiced sounds
+uʰ	uʱ	
 ɨ	ɨ	
 ɨ̰	ɨ̰	
 ɨ̃	ɨ̃	
