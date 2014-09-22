@@ -6,14 +6,27 @@
 
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(plyr)     # provides function rbind.fill
-library(stringr)  # provides str_strip
 library(stringi)  # for proper string handling & (de)normalization
 
 data.dir <- file.path("..", "..", "data")
-output.fname <- file.path("..", "..", "phoible-alldata-phonemes.tsv")
+
+# # # # # # # # # # # # # # # # # # # #
+# THINGS A USER MIGHT WANT TO CHANGE  #
+# # # # # # # # # # # # # # # # # # # #
+# NAME OF OUTPUT FILE
+output.fname <- file.path("..", "..", "phoible-phoneme-level.tsv")
+output.rdata <- file.path("..", "..", "phoible-phoneme-level.RData")
+
+# WHICH DATA COLUMNS TO KEEP
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", 
                    "Phoneme", "Allophones", "Source", "GlyphID")
-# TODO: need to implement Class column
+# TODO: need to implement Class and possibly CombinedClass columns
+
+# TRUMP ORDERING (for choosing which entry to keep when there are multiple 
+# entries for a language). More preferred data sources come earlier in the list.
+trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
+apply.trump <- TRUE
+
 
 # # # # # # # #
 # FILE PATHS  #
@@ -37,6 +50,7 @@ saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv
 # TODO: OCEANIA
 # TODO: STEDT
 
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # DENORMALIZE AND THEN RE-NORMALIZE UNICODE STRINGS #
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -44,15 +58,17 @@ denormRenorm <- function(x) {
     s <- stri_trans_general(stri_trans_general(x, "Any-NFD"), "Any-NFC")
 }
 
+
 # # # # # # # # # # # # # #
 # MARK MARGINAL PHONEMES  #
 # # # # # # # # # # # # # #
 markMarginal <- function(x) {
-    x$Marginal <- stri_count_fixed(x, "<") > 0
+    x$Marginal <- stri_count_fixed(x$Phoneme, "<") > 0
     x$Phoneme <- stri_replace_all_fixed(x$Phoneme, replacement="", pattern="<")
     x$Phoneme <- stri_replace_all_fixed(x$Phoneme, replacement="", pattern=">")
     return(x)
 }
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION TO PROPOGATE PHONEMES, LANGUAGE, DIALECT, FILENAMES, ETC #
@@ -70,6 +86,7 @@ fillCells <- function(df, cols) {
 	return(df)
 } 
 
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # REMOVE SQUARE BRACKETS FROM ALLOPHONES AND COLLAPSE TO A SINGLE CELL  #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -85,16 +102,9 @@ collapseAllophones <- function(x, col) {
                                                    pattern="[");
 			h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="",
                                                    pattern="]");
-			#h$Allophones <- gsub("[", "", gsub("]", "", 
-			#				paste(as.vector(ifelse(is.na(j$Allophones), 
-			#				j$Phoneme, j$Allophones)), collapse=" "), 
-			#				fixed=TRUE), fixed=TRUE);
             tmp <- paste(as.vector(j$AllophoneNotes), collapse="; ")
 			h$AllophoneNotes <- stri_replace_all_fixed(tmp, replacement="",
                                                        pattern="\"");
-			#h$AllophoneNotes <- gsub("\"", "", 
-			#					paste(as.vector(j$AllophoneNotes), 
-			#					collapse="; "), fixed=TRUE)
 			return(h[1,]) 
 			}))
 	merged <- do.call(rbind, lapply(spl, function(i) do.call(rbind, i)))
@@ -102,6 +112,7 @@ collapseAllophones <- function(x, col) {
 	merged$Allophones <- denormRenorm(merged$Allophones)
 	return(merged)
 }
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # FUNCTION FOR READING "LONG AND SPARSE" DATA FORMAT (PH, GM, ETC.) #
@@ -124,6 +135,16 @@ parseSparse <- function(x, abbr, cols=NULL) {
     z <- collapseAllophones(z, "LanguageCode")
 }
 
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# REMOVE DUPLICATE LANGUAGE DATA (RESPECTING TRUMP ORDER) #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+remove.duplicate.langs <- function(x, col) {
+    if(length(unique(x[col])) > 1) x <- x[x[col] == min(x[col]),]
+    return(x)
+}
+
+
 # # # # # # # # #
 # DATA SOURCES  #
 # # # # # # # # #
@@ -134,7 +155,6 @@ ph.data <- parseSparse(ph.raw, "ph", c("LanguageName", "SpecificDialect",
                                        "Phoneme", "FileNames"))
 rm(ph.raw)
 
-
 # GM
 gm.afr.raw <- read.delim(gm.afr.path, na.strings="", quote="", 
                          stringsAsFactors=FALSE, blank.lines.skip=TRUE)
@@ -144,7 +164,6 @@ gm.raw <- rbind(gm.afr.raw, gm.sea.raw)
 gm.data <- parseSparse(gm.raw, "gm", "FileNames")
 rm(gm.raw)
 
-
 # AA has blank lines between languages, but no gaps like in PH or SPA
 # AA lists marginal phonemes in angle brackets like this <h>
 aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
@@ -153,7 +172,6 @@ aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 # same ISO code, but not all languages have an entry under "SpecificDialect"
 aa.data <- collapseAllophones(aa.data, "LanguageName")
 aa.data$Source <- "aa"
-
 
 # SPA
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", stringsAsFactors=FALSE, quote="")
@@ -168,7 +186,6 @@ spa.raw$Allophones <- spa.ipa$Phoneme[match(spa.raw$spaAllophoneDescription,
 spa.data <- parseSparse(spa.raw, "spa", "LanguageName")  # "spaPhoneNum", "spaDescription"
 spa.data <- spa.data[, c("LanguageCode", "LanguageName", "Phoneme", "Allophones", "Source")]
 rm(spa.raw, spa.ipa, spa.iso)
-
 
 # UPSID
 upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", quote="",
@@ -185,7 +202,6 @@ upsid.data <- within(upsid.data, {
 })
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
-
 # RAMASWAMI
 ra.raw <- read.delim(ra.path, na.strings="", quote="", as.is=TRUE, header=FALSE)
 ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1, 
@@ -195,7 +211,6 @@ ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1,
 ra.data <- do.call(rbind, ra.data)
 ra.data$Source <- "ra"
 rm(ra.raw)
-
 
 # SAPHON
 saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
@@ -223,6 +238,7 @@ saphon.data$LanguageCode <- stri_split_fixed(saphon.data$LanguageCode, "_", n_ma
 #                                      stri_split_regex(saphon.data$LanguageName, "[()]"), "")
 saphon.data$LanguageName <- stri_split_regex(saphon.data$LanguageName, "[()]", n_max=1)
 rm(saphon.raw, saphon.ipa)
+
 # TODO: OCEANIA
 
 # TODO: STEDT
@@ -249,8 +265,73 @@ all.data$GlyphID <- stri_trans_general(all.data$Phoneme, "Any-Hex/Unicode")
 all.data$GlyphID <- stri_replace_all_fixed(all.data$GlyphID, replacement="", pattern="U")
 all.data$GlyphID <- stri_replace_first_fixed(all.data$GlyphID, replacement="", pattern="+")
 
-# TODO: VALIDATE ISO CODES
 
-# WRITE OUT DATA
-write.table(all.data[,output.fields], file=output.fname, sep="\t", eol="\n",
+# # # # # # # # # # # # # # # # # # # # # # # # # # #
+# MARK MARGINAL PHONEMES AND REMOVE ANGLE BRACKETS  #
+# # # # # # # # # # # # # # # # # # # # # # # # # # #
+all.data <- markMarginal(all.data)
+
+
+# # # # # # # # # # # # # # #
+# TODO: VALIDATE ISO CODES  #
+# # # # # # # # # # # # # # #
+
+
+# # # # # # # # # # # # # #
+# LOAD THE FEATURES TABLE #
+# # # # # # # # # # # # # #
+feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
+feats$segment <- denormRenorm(feats$segment)
+feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
+                  "consonantal", "sonorant", "continuant", 
+                  "delayedRelease", "approximant", "tap", "trill", 
+                  "nasal", "lateral", "labial", "round", "labiodental", 
+                  "coronal", "anterior", "distributed", "strident", 
+                  "dorsal", "high", "low", "front", "back", "tense", 
+                  "retractedTongueRoot", "advancedTongueRoot", 
+                  "periodicGlottalSource", "epilaryngealSource", 
+                  "spreadGlottis", "constrictedGlottis", "fortis", 
+                  "raisedLarynxEjective", "loweredLarynxImplosive", 
+                  "click")
+all.data <- merge(all.data, feats, by.x="Phoneme", by.y="segment", all.x=TRUE,
+                  all.y=FALSE, sort=FALSE)
+
+# HANDLE UPSID DISJUNCTS
+upsid.disjunct.indices <- grepl("|", all.data$Phoneme, fixed=TRUE)
+upsid.disjuncts <- strsplit(as.character(all.data$Phoneme[upsid.disjunct.indices]),
+                            split="|", fixed=TRUE)
+upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
+    left.index <- which(feats$segment == i[1])
+    right.index <- which(feats$segment == i[2])
+    matches <- unlist(lapply(seq_along(feats[left.index,]), 
+                             function(i) feats[left.index, i] == feats[right.index, i]))
+    output <- feats[left.index,]
+    output[!matches] <- 0
+    output$segment <- paste(i, collapse="|")
+    return(output)
+}))
+all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
+
+
+# # # # # # # # # # # # # # # # # # # # #
+# FILTER LANGUAGES USING TRUMP ORDERING #
+# # # # # # # # # # # # # # # # # # # # #
+if(apply.trump) {
+    all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
+    split.data <- split(all.data, all.data$LanguageCode)
+    reduced.data <- lapply(split.data, remove.duplicate.langs, "Source")
+    all.data <- do.call(rbind, reduced.data)
+    rownames(all.data) <- NULL
+    rm(reduced.data)
+}
+
+
+# # # # # # # # # # # # # # #
+# WRITE OUT AGGREGATED DATA #
+# # # # # # # # # # # # # # #
+final.data <- all.data[,output.fields]
+# RDATA
+save(final.data, file=output.rdata)
+# TAB-DELIMITED
+write.table(final.data, file=output.fname, sep="\t", eol="\n",
             row.names=FALSE, quote=FALSE, fileEncoding="UTF-8")
