@@ -45,7 +45,7 @@ upsid.ipa.path <- file.path(data.dir, "UPSID", "UPSID_IPA_correspondences.tsv")
 ra.path <- file.path(data.dir, "RA", "Ramaswami1999.csv")
 gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
-saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.csv")
+saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
 # TODO: OCEANIA
 # TODO: STEDT
@@ -213,30 +213,34 @@ ra.data$Source <- "ra"
 rm(ra.raw)
 
 # SAPHON
+# TODO: this code is fragile, and is built for saphon20121031.tsv, which was
+# hand-corrected from the original CSV version to remove extraneous line breaks
+# and quotes, and convert delimiters from comma to tab (several cells had 
+# internal commas). Future releases of SAPHON may break this code.
 saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
-saphon.raw <- read.csv(saphon.path, quote="", as.is=TRUE, header=FALSE)
-# get rid of quotation marks:
-saphon.raw <- apply(saphon.raw, c(1,2), 
-                    function(i) stri_replace_all_fixed(i, replacement="",
-                                                       pattern='"'))
-saphon.phones <- as.vector(t(saphon.raw[1, 17:341]))
+saphon.raw <- read.delim(saphon.path, na.strings="", quote="", as.is=TRUE,
+                         header=FALSE, row.names=NULL)
+saphon.starting.row <- 3
+saphon.phoneme.cols <- 17:341  # 342 is "tone", 343 is "nasal harmony"
+# collect the list of possible phonemes and convert to IPA
+saphon.phones <- as.vector(t(saphon.raw[1, saphon.phoneme.cols]))
 saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
-#bools <- as.integer(saphon.raw[3:nrow(saphon.raw),17:341])
-#bools[is.na(bools)] <- 0
-#saphon.raw[3:nrow(saphon.raw),17:341] <- bools
-saphon.data <- apply(saphon.raw[3:nrow(saphon.raw),], 1, 
+# fill in empty cells with 0
+saphon.raw[is.na(saphon.raw)] <- "0"
+# for each language, extract name, ISO code, and phonemes with a "1" in their column
+saphon.data <- apply(saphon.raw[saphon.starting.row:nrow(saphon.raw),], 1, 
                      function(i) data.frame(LanguageName=i[1], LanguageCode=i[5],
-                     Phoneme=saphon.phones[as.logical(as.integer(i[17:341]))],
+                     Phoneme=saphon.phones[as.logical(as.integer(i[saphon.phoneme.cols]))],
                      row.names=NULL))
 saphon.data <- do.call(rbind, saphon.data)
-saphon.data <- saphon.data[!is.na(saphon.data$Phoneme),]
-
+# remove dialect information from ISO codes
+saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, "_"), function(x) x[1])
+# extract dialect information from LanguageName, where it exists
+saphon.data$SpecificDialect <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
+                                      function(x) ifelse(length(x) > 1, x[2], ""))
+saphon.data$LanguageName <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
+                                   function(x) x[1])
 saphon.data$Source <- "saphon"
-saphon.data$LanguageCode <- stri_split_fixed(saphon.data$LanguageCode, "_", n_max=1)
-# TODO: SpecificDialect not working
-#saphon.data$SpecificDialect <- ifelse(length(stri_split_regex(saphon.data$LanguageName, "[()]")) > 1,
-#                                      stri_split_regex(saphon.data$LanguageName, "[()]"), "")
-saphon.data$LanguageName <- stri_split_regex(saphon.data$LanguageName, "[()]", n_max=1)
 rm(saphon.raw, saphon.ipa)
 
 # TODO: OCEANIA
