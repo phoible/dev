@@ -14,13 +14,13 @@ data.dir <- file.path("..", "..", "data")
 # THINGS A USER MIGHT WANT TO CHANGE  #
 # # # # # # # # # # # # # # # # # # # #
 # NAME OF OUTPUT FILE
-output.fname <- file.path("..", "..", "phoible-alldata-phonemes.tsv")
-output.rdata <- file.path("..", "..", "phoible-phonemes.RData")
+output.fname <- file.path("..", "..", "phoible-phoneme-level.tsv")
+output.rdata <- file.path("..", "..", "phoible-phoneme-level.RData")
 
 # WHICH DATA COLUMNS TO KEEP
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", 
                    "Phoneme", "Allophones", "Source", "GlyphID")
-# TODO: need to implement Class column
+# TODO: need to implement Class and possibly CombinedClass columns
 
 # TRUMP ORDERING (for choosing which entry to keep when there are multiple 
 # entries for a language). More preferred data sources come earlier in the list.
