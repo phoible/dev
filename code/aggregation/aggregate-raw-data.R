@@ -17,7 +17,7 @@ data.dir <- file.path("..", "..", "data")
 output.fname <- file.path("..", "..", "phoible-phoneme-level.tsv")
 output.rdata <- file.path("..", "..", "phoible-phoneme-level.RData")
 
-# WHICH DATA COLUMNS TO KEEP
+# WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", 
                    "Phoneme", "Allophones", "Source", "GlyphID")
 # TODO: need to implement Class and possibly CombinedClass columns
@@ -333,7 +333,7 @@ if(apply.trump) {
 # # # # # # # # # # # # # # #
 # WRITE OUT AGGREGATED DATA #
 # # # # # # # # # # # # # # #
-final.data <- all.data[,output.fields]
+final.data <- all.data[, c(output.fields, feat.columns)]
 # RDATA
 save(final.data, file=output.rdata)
 # TAB-DELIMITED
