@@ -1,4 +1,4 @@
-#! /usr/bin/R
+#! /usr/bin/env Rscript
 
 # This script reads in the raw data files from various tertiary sources, and 
 # aggregates them into a single R data.frame object called "all.data",
@@ -139,8 +139,8 @@ parseSparse <- function(x, abbr, cols=NULL) {
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # REMOVE DUPLICATE LANGUAGE DATA (RESPECTING TRUMP ORDER) #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-remove.duplicate.langs <- function(x, col) {
-    if(length(unique(x[col])) > 1) x <- x[x[col] == min(x[col]),]
+removeDuplicateLangs <- function(x, col) {
+    if(length(unique(x[[col]])) > 1) x <- x[x[[col]] == min(x[[col]]),]
     return(x)
 }
 
@@ -284,7 +284,7 @@ all.data <- markMarginal(all.data)
 # # # # # # # # # # # # # #
 # LOAD THE FEATURES TABLE #
 # # # # # # # # # # # # # #
-feats <- read.delim(features.path, sep='\t', stringsAsFactors=TRUE)
+feats <- read.delim(features.path, sep='\t', stringsAsFactors=FALSE)
 feats$segment <- denormRenorm(feats$segment)
 feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
                   "consonantal", "sonorant", "continuant", 
@@ -317,13 +317,13 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 
 
-# # # # # # # # # # # # # # # # # # # # #
-# FILTER LANGUAGES USING TRUMP ORDERING #
-# # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+# FILTER DUPLICATE LANGUAGES USING TRUMP ORDERING #
+# # # # # # # # # # # # # # # # # # # # # # # # # #
 if(apply.trump) {
     all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
     split.data <- split(all.data, all.data$LanguageCode)
-    reduced.data <- lapply(split.data, remove.duplicate.langs, "Source")
+    reduced.data <- lapply(split.data, removeDuplicateLangs, "Source")
     all.data <- do.call(rbind, reduced.data)
     rownames(all.data) <- NULL
     rm(reduced.data)
