@@ -8,13 +8,38 @@ load(file.path(root.dir, "phoible-phoneme-level.RData"))  # "final.data"
 by.iso <- split(final.data, final.data$LanguageCode)
 
 checkUniqueness <- function(inventory) {
-    length(unique(inventory$Phoneme)) < length(inventory$Phoneme)
+    length(unique(inventory$GlyphID)) < length(inventory$GlyphID)
+}
+
+showSources <- function(inventory) {
+    paste(unique(inventory$Source), collapse=" ")
+}
+
+countDiscrepancy <- function(inventory) {
+    length(inventory$GlyphID) - length(unique(inventory$GlyphID))
+}
+
+showDiscrepancy <- function(inventory) {
+    discrepants <- table(inventory$Phoneme) > 1
+    names(discrepants[discrepants])
 }
 
 result <- sapply(by.iso, checkUniqueness)
+sources <- sapply(by.iso, showSources)
+discrepancy <- sapply(by.iso, countDiscrepancy)
+discrepants <- sapply(by.iso, showDiscrepancy)
 
-sink("test-phoneme-uniqueness-results.txt")
-cat("If all languages have fully unique phoneme inventories, the result should be 'character(0)'.\n")
-cat("Otherwise, the ISO codes of problematic languages will appear below.\n\n")
-cat(names(result[result]))
+sink(file.path(root.dir, "test-phoneme-uniqueness-results.txt"))
+cat("If all languages have fully unique phoneme inventories,",
+    "the result should be 'character(0)'.\nOtherwise, the ISO codes of",
+    "problematic languages will appear below, along with the number of",
+    "duplicates, and finally a list of the duplicates.\n\n")
+cat(paste(names(result[result]), sources[result], discrepancy[result],
+          lapply(discrepants[result], paste, collapse=" "),
+          sep="\t", collapse="\n"))
 sink()
+
+
+#foo <- final.data[final.data$LanguageCode %in% 'aha',]
+#showDiscrepancy(foo)
+
