@@ -184,11 +184,21 @@ parseSparse <- function(x, abbr, cols=NULL) {
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # REMOVE DUPLICATE LANGUAGE DATA (RESPECTING TRUMP ORDER) #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-removeDuplicateLangs <- function(x, col) {
-    if(length(unique(x[[col]])) > 1) {
-        x <- x[x[[col]] == min(x[[col]]),]
+removeDuplicateLangs <- function(x, cols) {
+    # cols should be a character vector. Selection is done with the min()
+    # function, so it works well for the "Source" column (which is set up as an
+    # ordered factor). We also pass "SpecificDialect" (which is a plain
+    # character vector) as a tiebreaker, in which case min() uses alphabetical
+    # order based on locale. This is not ideal as it may yield different results
+    # on different machines, but we don't currently have a way of specifying
+    # trump order for dialects of the same language that come from the same
+    # data source.
+    for (col in cols) {
+        if(length(unique(x[[col]])) > 1) {
+            x <- x[x[[col]] == min(x[[col]]),]
+        }
     }
-    return(x)
+    x
 }
 
 
@@ -249,6 +259,16 @@ aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 # collapse based on "LanguageName" because AA includes different dialects with
 # same ISO code, but not all languages have an entry under "SpecificDialect"
 aa.data <- collapseAllophones(aa.data, "LanguageName")
+# If the "LanguageName" column has parenthetical info, copy language name to
+# "SpecificDialect" and remove parenthetical from "LanguageName"
+aa.data$SpecificDialect <- with(aa.data, ifelse(grepl(pattern="(", x=LanguageName,
+                                                      fixed=TRUE),
+                                                LanguageName, NA))
+aa.data$LanguageName <- with(aa.data, ifelse(grepl(pattern="(", x=LanguageName,
+                                                   fixed=TRUE),
+                                             stri_split_fixed(LanguageName,
+                                                              pattern=" (")[1],
+                                             LanguageName))
 aa.data$Source <- "aa"
 
 # SPA
@@ -402,7 +422,7 @@ all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 if(apply.trump) {
     all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
     split.data <- split(all.data, all.data$LanguageCode)
-    reduced.data <- lapply(split.data, removeDuplicateLangs, "Source")
+    reduced.data <- lapply(split.data, removeDuplicateLangs, c("Source", "SpecificDialect"))
     all.data <- do.call(rbind, reduced.data)
     rownames(all.data) <- NULL
     rm(reduced.data)
