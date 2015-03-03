@@ -261,14 +261,11 @@ aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 aa.data <- collapseAllophones(aa.data, "LanguageName")
 # If the "LanguageName" column has parenthetical info, copy language name to
 # "SpecificDialect" and remove parenthetical from "LanguageName"
-aa.data$SpecificDialect <- with(aa.data, ifelse(grepl(pattern="(", x=LanguageName,
-                                                      fixed=TRUE),
-                                                LanguageName, NA))
-aa.data$LanguageName <- with(aa.data, ifelse(grepl(pattern="(", x=LanguageName,
-                                                   fixed=TRUE),
-                                             stri_split_fixed(LanguageName,
-                                                              pattern=" (")[1],
-                                             LanguageName))
+has.parens.bool <- stri_detect_fixed(aa.data$LanguageName, "(")
+aa.data$SpecificDialect <- ifelse(has.parens.bool, aa.data$LanguageName, NA)
+aa.data$LanguageName <- ifelse(has.parens.bool,
+                               sapply(stri_split_fixed(aa.data$LanguageName, " ("),
+                                      function(x) x[1]), aa.data$LanguageName)
 aa.data$Source <- "aa"
 
 # SPA
@@ -332,13 +329,18 @@ saphon.data <- apply(saphon.raw[saphon.starting.row:nrow(saphon.raw),], 1,
                      row.names=NULL))
 saphon.data <- do.call(rbind, saphon.data)
 # remove dialect information from ISO codes
+saphon.is.dialect <- stri_detect_fixed(saphon.data$LanguageCode, "_")
 saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, "_"),
                                    function(x) x[1])
-# extract dialect information from LanguageName, where it exists
+# extract dialect information from LanguageName, if it exists
+saphon.has.parens <- stri_detect_fixed(saphon.data$LanguageName, "(")
 saphon.data$SpecificDialect <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
                                       function(x) ifelse(length(x) > 1, x[2], ""))
 saphon.data$LanguageName <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
                                    function(x) x[1])
+# handle dialects that don't have parenthetical indications in LanguageName
+saphon.named.dialect <- saphon.is.dialect & !saphon.has.parens
+saphon.data$SpecificDialect[saphon.named.dialect] <- saphon.data$LanguageName[saphon.named.dialect]
 saphon.data$Source <- "saphon"
 rm(saphon.raw, saphon.ipa)
 
