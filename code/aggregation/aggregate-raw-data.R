@@ -78,9 +78,9 @@ markMarginal <- function(x) {
 }
 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# FUNCTION TO PROPOGATE PHONEMES, LANGUAGE, DIALECT, FILENAMES, ETC #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# FUNCTION TO PROPOGATE VALUES THROUGH "LONG AND SPARSE" DATA SOURCES #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 fillCells <- function(df, cols) {
 	for(col in cols) {
 		if(!is.na(match(col, colnames(df)))) {
@@ -228,7 +228,7 @@ checkDuplicateFeatures <- function(df) {
         df <- df[!duplicated(df$segment),]
         warning("There are duplicated entries in the feature table, but they ",
                 "all have identical feature vectors so I'm just deleting the ",
-                "duplicate rows.")
+                "duplicate rows before merging with the language data.")
     }
     df
 }
@@ -339,8 +339,8 @@ saphon.data$SpecificDialect <- sapply(stri_split_regex(saphon.data$LanguageName,
 saphon.data$LanguageName <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
                                    function(x) x[1])
 # handle dialects that don't have parenthetical indications in LanguageName
-saphon.named.dialect <- saphon.is.dialect & !saphon.has.parens
-saphon.data$SpecificDialect[saphon.named.dialect] <- saphon.data$LanguageName[saphon.named.dialect]
+named.dialect <- saphon.is.dialect & !saphon.has.parens
+saphon.data$SpecificDialect[named.dialect] <- saphon.data$LanguageName[named.dialect]
 saphon.data$Source <- "saphon"
 rm(saphon.raw, saphon.ipa)
 
@@ -424,7 +424,8 @@ all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 if(apply.trump) {
     all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
     split.data <- split(all.data, all.data$LanguageCode)
-    reduced.data <- lapply(split.data, removeDuplicateLangs, c("Source", "SpecificDialect"))
+    reduced.data <- lapply(split.data, removeDuplicateLangs,
+                           c("Source", "SpecificDialect", "LanguageName"))
     all.data <- do.call(rbind, reduced.data)
     rownames(all.data) <- NULL
     rm(reduced.data)

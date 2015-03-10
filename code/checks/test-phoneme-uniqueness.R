@@ -31,7 +31,7 @@ discrepants <- sapply(by.iso, showDiscrepancy)
 
 sink(file.path(root.dir, "test-phoneme-uniqueness-results.txt"))
 cat("If all languages have fully unique phoneme inventories,",
-    "the result should be 'character(0)'.\nOtherwise, the ISO codes of",
+    "there should be nothing below this paragraph.\nOtherwise, the ISO codes of",
     "problematic languages will appear below, along with the number of",
     "duplicates, and finally a list of the duplicates.\n\n")
 cat(paste(names(result[result]), sources[result], discrepancy[result],
