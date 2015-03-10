@@ -1,8 +1,6 @@
-# Check language codes
-# Author: Steven Moran <steven.moran@uzh.ch>
-# Date: April 2014
+# Check phoible contents against ISO 639-3 language codes
 
-library(RMySQL)
+library(RCurl)
 
 checkCodes <- function(df) {
 	codes <- df$LanguageCode
@@ -35,14 +33,13 @@ checkCodes <- function(df) {
 	return(results)
 }
 
-# example: phoible aggregated data table - use database connection or tsv files
-con <- dbConnect(MySQL(), user="", password="", dbname="phoible", host="localhost", port = 8889)
-aggregated <- dbReadTable(con, "aggregated")
-phonemes <- dbReadTable(con, "phonemes")
-
 # assume we are in the working directory and reading from within this git repo
-aggregated <- read.csv("../../phoible-aggregated.tsv", sep="\t")
-phonemes <- read.csv("../../phoible-phonemes.tsv", sep="\t")
+
+x <- getURL("https://raw.githubusercontent.com/phoible/phoible/master/phoible-aggregated.tsv")
+aggregated <- read.csv(text = x, sep='\t')
+head(aggregated)
+dim(aggregated)
 
 results <- checkCodes(aggregated)
+head(results)
 write.table(results, "temp.tsv", sep="\t")
