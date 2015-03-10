@@ -1,6 +1,6 @@
 #! /usr/bin/env Rscript
 
-# This script reads in the raw data files from various tertiary sources, and 
+# This script reads in the raw data files from various tertiary sources, and
 # aggregates them into a single R data.frame object called "all.data",
 # which is then written out to the root directory of the repository.
 
@@ -18,11 +18,11 @@ output.fname <- file.path("..", "..", "phoible-phoneme-level.tsv")
 output.rdata <- file.path("..", "..", "phoible-phoneme-level.RData")
 
 # WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
-output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", 
+output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
                    "Phoneme", "Allophones", "Source", "GlyphID")
-# TODO: need to implement Class and possibly CombinedClass columns
+# TODO: implement Class and possibly CombinedClass columns
 
-# TRUMP ORDERING (for choosing which entry to keep when there are multiple 
+# TRUMP ORDERING (for choosing which entry to keep when there are multiple
 # entries for a language). More preferred data sources come earlier in the list.
 trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
 apply.trump <- TRUE
@@ -59,6 +59,14 @@ denormRenorm <- function(x) {
 }
 
 
+# # # # # # # # # # # # # # # #
+# DENORMALIZE UNICODE STRINGS #
+# # # # # # # # # # # # # # # #
+denorm <- function(x) {
+    s <- stri_trans_general(x, "Any-NFD")
+}
+
+
 # # # # # # # # # # # # # #
 # MARK MARGINAL PHONEMES  #
 # # # # # # # # # # # # # #
@@ -70,21 +78,23 @@ markMarginal <- function(x) {
 }
 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# FUNCTION TO PROPOGATE PHONEMES, LANGUAGE, DIALECT, FILENAMES, ETC #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# FUNCTION TO PROPOGATE VALUES THROUGH "LONG AND SPARSE" DATA SOURCES #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 fillCells <- function(df, cols) {
 	for(col in cols) {
 		if(!is.na(match(col, colnames(df)))) {
-			thiscol <- df[[match(col, colnames(df))]]
-			if(!is.na(thiscol[1])) thiscol <- na.locf(thiscol)
-			df[[match(col, colnames(df))]] <- thiscol
+		    #thiscol <- df[[match(col, colnames(df))]]
+		    thiscol <- df[[col]]
+		    if(!is.na(thiscol[1])) thiscol <- na.locf(thiscol)
+		    #df[[match(col, colnames(df))]] <- thiscol
+		    df[[col]] <- thiscol
 		} else {
 			stop("Bad column name passed to 'fillCells'.")
 		}
 	}
 	return(df)
-} 
+}
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -92,24 +102,59 @@ fillCells <- function(df, cols) {
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 collapseAllophones <- function(x, col) {
 	# x is the data frame, col is the name of the column to split on
-	# (col should typically be "LanguageCode")
-	spl <- lapply(split(x, x[col]), function(i) split(i, i$Phoneme))
-	spl <- lapply(spl, function(i) lapply(i, function(j) { 
-			h <- j;
-            tmp <- ifelse(is.na(j$Allophones), j$Phoneme, j$Allophones);
-			h$Allophones <- paste(as.vector(tmp), collapse=" ");
-			h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="", 
-                                                   pattern="[");
-			h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="",
-                                                   pattern="]");
-            tmp <- paste(as.vector(j$AllophoneNotes), collapse="; ")
-			h$AllophoneNotes <- stri_replace_all_fixed(tmp, replacement="",
-                                                       pattern="\"");
-			return(h[1,]) 
-			}))
-	merged <- do.call(rbind, lapply(spl, function(i) do.call(rbind, i)))
+    # (col should typically be "LanguageCode"). The first line splits
+    # the data by "col", then within "col" it splits again by SpecificDialect
+    # and then again by Phoneme.
+    spl <- split(x, x[[col]])
+    spt <- lapply(spl, function(i) {
+        if(length(unique(i$SpecificDialect)) > 1) {
+            dial <- split(i, i$SpecificDialect)
+            lect <- lapply(dial, function(j) {
+                phon <- split(j, j$Phoneme)
+                emes <- lapply(phon, function(k) {
+                    h <- k[1,]
+                    h$Allophones <- ifelse(is.na(h$Allophones), h$Phoneme,
+                                           paste(as.vector(k$Allophones),
+                                                 collapse=" "))
+                    h$Allophones <- stri_replace_all_fixed(h$Allophones,
+                                                           replacement="",
+                                                           pattern="[")
+                    h$Allophones <- stri_replace_all_fixed(h$Allophones,
+                                                           replacement="",
+                                                           pattern="]")
+                    tmp <- paste(as.vector(k$AllophoneNotes), collapse="; ")
+                    h$AllophoneNotes <- stri_replace_all_fixed(tmp,
+                                                               replacement="",
+                                                               pattern="\"")
+                    return(h)
+                    })
+                emes <- do.call(rbind, emes)
+                })
+            collapsed <- do.call(rbind, lect)
+        } else {
+            phon <- split(i, i$Phoneme)
+            collapsed <- lapply(phon, function(j) {
+                h <- j[1,];
+                h$Allophones <- ifelse(is.na(h$Allophones), h$Phoneme,
+                                       paste(as.vector(j$Allophones),
+                                             collapse=" "));
+                h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="",
+                                                       pattern="[");
+                h$Allophones <- stri_replace_all_fixed(h$Allophones, replacement="",
+                                                       pattern="]");
+                tmp <- paste(as.vector(j$AllophoneNotes), collapse="; ")
+                h$AllophoneNotes <- stri_replace_all_fixed(tmp, replacement="",
+                                                           pattern="\"");
+                return(h)
+            })
+            collapsed <- do.call(rbind, collapsed)
+        }
+        return(collapsed)
+    })
+    merged <- do.call(rbind, spt)
+	#merged <- do.call(rbind, lapply(spt, function(i) do.call(rbind, i)))
 	rownames(merged) <- NULL
-	merged$Allophones <- denormRenorm(merged$Allophones)
+	merged$Allophones <- denorm(merged$Allophones)
 	return(merged)
 }
 
@@ -120,14 +165,14 @@ collapseAllophones <- function(x, col) {
 parseSparse <- function(x, abbr, cols=NULL) {
     x <- within(x, {
         LanguageCode <- na.locf(LanguageCode) # this is harmless when not needed
-        Phoneme <- denormRenorm(Phoneme)
+        Phoneme <- denorm(Phoneme)
         # allophones get normalized in the collapseAllophones function
     })
     if(!is.null(cols)) {
         # using 'split' before 'fillCells' prevents things like SpecificDialect
         # from copying beyond the row extent of each LanguageCode
         y <- split(x, x$LanguageCode)
-        z <- unsplit(lapply(y, fillCells, cols), x$LanguageCode)    
+        z <- unsplit(lapply(y, fillCells, cols), x$LanguageCode)
     } else {
         z <- x
     }
@@ -139,11 +184,54 @@ parseSparse <- function(x, abbr, cols=NULL) {
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # REMOVE DUPLICATE LANGUAGE DATA (RESPECTING TRUMP ORDER) #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-removeDuplicateLangs <- function(x, col) {
-    if(length(unique(x[[col]])) > 1) x <- x[x[[col]] == min(x[[col]]),]
-    return(x)
+removeDuplicateLangs <- function(x, cols) {
+    # cols should be a character vector. Selection is done with the min()
+    # function, so it works well for the "Source" column (which is set up as an
+    # ordered factor). We also pass "SpecificDialect" (which is a plain
+    # character vector) as a tiebreaker, in which case min() uses alphabetical
+    # order based on locale. This is not ideal as it may yield different results
+    # on different machines, but we don't currently have a way of specifying
+    # trump order for dialects of the same language that come from the same
+    # data source.
+    for (col in cols) {
+        if(length(unique(x[[col]])) > 1) {
+            x <- x[x[[col]] == min(x[[col]]),]
+        }
+    }
+    x
 }
 
+
+# # # # # # # # # #
+# ASSIGN GLYPH ID #
+# # # # # # # # # #
+assignGlyphID <- function(phones) {
+    ids <- stri_trans_general(phones, "Any-Hex/Unicode")
+    ids <- stri_replace_all_fixed(ids, replacement="", pattern = "U")
+    ids <- stri_replace_first_fixed(ids, replacement="", pattern = "+")
+}
+
+# # # # # # # # # # # # # # # # #
+# CHECK FOR DUPLICATE FEATURES  #
+# # # # # # # # # # # # # # # # #
+checkDuplicateFeatures <- function(df) {
+    dups <- df$segment[duplicated(df$segment)]
+    if (length(dups)) {
+        for (dup in dups) {
+            dup.frame <- df[df$segment %in% dup,]
+            for (rnum in nrow(dups) - 1) {
+                test <- identical(dup.frame[rnum,], dup.frame[rnum + 1,])
+                if (!test) stop("There are duplicated entries in the feature ",
+                                "table that have differing feature vectors.")
+            }
+        }
+        df <- df[!duplicated(df$segment),]
+        warning("There are duplicated entries in the feature table, but they ",
+                "all have identical feature vectors so I'm just deleting the ",
+                "duplicate rows before merging with the language data.")
+    }
+    df
+}
 
 # # # # # # # # #
 # DATA SOURCES  #
@@ -156,7 +244,7 @@ ph.data <- parseSparse(ph.raw, "ph", c("LanguageName", "SpecificDialect",
 rm(ph.raw)
 
 # GM
-gm.afr.raw <- read.delim(gm.afr.path, na.strings="", quote="", 
+gm.afr.raw <- read.delim(gm.afr.path, na.strings="", quote="",
                          stringsAsFactors=FALSE, blank.lines.skip=TRUE)
 gm.sea.raw <- read.delim(gm.sea.path, na.strings="", quote="",
                          stringsAsFactors=FALSE, blank.lines.skip=TRUE)
@@ -171,6 +259,13 @@ aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE,
 # collapse based on "LanguageName" because AA includes different dialects with
 # same ISO code, but not all languages have an entry under "SpecificDialect"
 aa.data <- collapseAllophones(aa.data, "LanguageName")
+# If the "LanguageName" column has parenthetical info, copy language name to
+# "SpecificDialect" and remove parenthetical from "LanguageName"
+has.parens.bool <- stri_detect_fixed(aa.data$LanguageName, "(")
+aa.data$SpecificDialect <- ifelse(has.parens.bool, aa.data$LanguageName, NA)
+aa.data$LanguageName <- ifelse(has.parens.bool,
+                               sapply(stri_split_fixed(aa.data$LanguageName, " ("),
+                                      function(x) x[1]), aa.data$LanguageName)
 aa.data$Source <- "aa"
 
 # SPA
@@ -198,15 +293,15 @@ upsid.data <- merge(upsid.language.codes, upsid.segments, by="upsidLangNum")
 upsid.data <- merge(upsid.data, upsid.ipa[c("upsidCCID", "Phoneme")], by="upsidCCID")
 upsid.data <- within(upsid.data, {
     Source <- "upsid"
-    Phoneme <- denormRenorm(Phoneme)
+    Phoneme <- denorm(Phoneme)
 })
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
 # RAMASWAMI
 ra.raw <- read.delim(ra.path, na.strings="", quote="", as.is=TRUE, header=FALSE)
-ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1, 
-				 function(i) data.frame(LanguageName=i[2], LanguageCode=i[3], 
-				 Phoneme=c(t(ra.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])), 
+ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1,
+				 function(i) data.frame(LanguageName=i[2], LanguageCode=i[3],
+				 Phoneme=c(t(ra.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])),
 				 row.names=NULL))
 ra.data <- do.call(rbind, ra.data)
 ra.data$Source <- "ra"
@@ -215,7 +310,7 @@ rm(ra.raw)
 # SAPHON
 # TODO: this code is fragile, and is built for saphon20121031.tsv, which was
 # hand-corrected from the original CSV version to remove extraneous line breaks
-# and quotes, and convert delimiters from comma to tab (several cells had 
+# and quotes, and convert delimiters from comma to tab (several cells had
 # internal commas). Future releases of SAPHON may break this code.
 saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
 saphon.raw <- read.delim(saphon.path, na.strings="", quote="", as.is=TRUE,
@@ -228,18 +323,24 @@ saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
 # fill in empty cells with 0
 saphon.raw[is.na(saphon.raw)] <- "0"
 # for each language, extract name, ISO code, and phonemes with a "1" in their column
-saphon.data <- apply(saphon.raw[saphon.starting.row:nrow(saphon.raw),], 1, 
+saphon.data <- apply(saphon.raw[saphon.starting.row:nrow(saphon.raw),], 1,
                      function(i) data.frame(LanguageName=i[1], LanguageCode=i[5],
                      Phoneme=saphon.phones[as.logical(as.integer(i[saphon.phoneme.cols]))],
                      row.names=NULL))
 saphon.data <- do.call(rbind, saphon.data)
 # remove dialect information from ISO codes
-saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, "_"), function(x) x[1])
-# extract dialect information from LanguageName, where it exists
+saphon.is.dialect <- stri_detect_fixed(saphon.data$LanguageCode, "_")
+saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, "_"),
+                                   function(x) x[1])
+# extract dialect information from LanguageName, if it exists
+saphon.has.parens <- stri_detect_fixed(saphon.data$LanguageName, "(")
 saphon.data$SpecificDialect <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
                                       function(x) ifelse(length(x) > 1, x[2], ""))
 saphon.data$LanguageName <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
                                    function(x) x[1])
+# handle dialects that don't have parenthetical indications in LanguageName
+named.dialect <- saphon.is.dialect & !saphon.has.parens
+saphon.data$SpecificDialect[named.dialect] <- saphon.data$LanguageName[named.dialect]
 saphon.data$Source <- "saphon"
 rm(saphon.raw, saphon.ipa)
 
@@ -260,14 +361,12 @@ all.data <- all.data[with(all.data, order(LanguageCode, Source)),]
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͡")
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͜")
 # NORMALIZATION
-all.data$Phoneme <- denormRenorm(all.data$Phoneme)
-all.data$Allophones <- denormRenorm(all.data$Allophones)
+all.data$Phoneme <- denorm(all.data$Phoneme)
+all.data$Allophones <- denorm(all.data$Allophones)
 # FACTOR TO DROP UNUSED LEVELS
 all.data$Phoneme <- factor(all.data$Phoneme)
 # ASSIGN GLYPH IDs
-all.data$GlyphID <- stri_trans_general(all.data$Phoneme, "Any-Hex/Unicode")
-all.data$GlyphID <- stri_replace_all_fixed(all.data$GlyphID, replacement="", pattern="U")
-all.data$GlyphID <- stri_replace_first_fixed(all.data$GlyphID, replacement="", pattern="+")
+all.data$GlyphID <- assignGlyphID(all.data$Phoneme)
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -285,19 +384,21 @@ all.data <- markMarginal(all.data)
 # LOAD THE FEATURES TABLE #
 # # # # # # # # # # # # # #
 feats <- read.delim(features.path, sep='\t', stringsAsFactors=FALSE)
-feats$segment <- denormRenorm(feats$segment)
-feat.columns <- c("tone", "stress", "syllabic", "short", "long", 
-                  "consonantal", "sonorant", "continuant", 
-                  "delayedRelease", "approximant", "tap", "trill", 
-                  "nasal", "lateral", "labial", "round", "labiodental", 
-                  "coronal", "anterior", "distributed", "strident", 
-                  "dorsal", "high", "low", "front", "back", "tense", 
-                  "retractedTongueRoot", "advancedTongueRoot", 
-                  "periodicGlottalSource", "epilaryngealSource", 
-                  "spreadGlottis", "constrictedGlottis", "fortis", 
-                  "raisedLarynxEjective", "loweredLarynxImplosive", 
+feats$segment <- denorm(feats$segment)
+feats <- checkDuplicateFeatures(feats)
+feats$GlyphID <- assignGlyphID(feats$segment)
+feat.columns <- c("tone", "stress", "syllabic", "short", "long",
+                  "consonantal", "sonorant", "continuant",
+                  "delayedRelease", "approximant", "tap", "trill",
+                  "nasal", "lateral", "labial", "round", "labiodental",
+                  "coronal", "anterior", "distributed", "strident",
+                  "dorsal", "high", "low", "front", "back", "tense",
+                  "retractedTongueRoot", "advancedTongueRoot",
+                  "periodicGlottalSource", "epilaryngealSource",
+                  "spreadGlottis", "constrictedGlottis", "fortis",
+                  "raisedLarynxEjective", "loweredLarynxImplosive",
                   "click")
-all.data <- merge(all.data, feats, by.x="Phoneme", by.y="segment", all.x=TRUE,
+all.data <- merge(all.data, feats, by.x="GlyphID", by.y="GlyphID", all.x=TRUE,
                   all.y=FALSE, sort=FALSE)
 
 # HANDLE UPSID DISJUNCTS
@@ -307,7 +408,7 @@ upsid.disjuncts <- strsplit(as.character(all.data$Phoneme[upsid.disjunct.indices
 upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
     left.index <- which(feats$segment == i[1])
     right.index <- which(feats$segment == i[2])
-    matches <- unlist(lapply(seq_along(feats[left.index,]), 
+    matches <- unlist(lapply(seq_along(feats[left.index,]),
                              function(i) feats[left.index, i] == feats[right.index, i]))
     output <- feats[left.index,]
     output[!matches] <- 0
@@ -323,7 +424,8 @@ all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 if(apply.trump) {
     all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
     split.data <- split(all.data, all.data$LanguageCode)
-    reduced.data <- lapply(split.data, removeDuplicateLangs, "Source")
+    reduced.data <- lapply(split.data, removeDuplicateLangs,
+                           c("Source", "SpecificDialect", "LanguageName"))
     all.data <- do.call(rbind, reduced.data)
     rownames(all.data) <- NULL
     rm(reduced.data)
