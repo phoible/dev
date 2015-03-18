@@ -25,7 +25,7 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 # TRUMP ORDERING (for choosing which entry to keep when there are multiple
 # entries for a language). More preferred data sources come earlier in the list.
 trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
-apply.trump <- TRUE
+apply.trump <- FALSE
 
 
 # # # # # # # #
@@ -331,6 +331,9 @@ saphon.data <- do.call(rbind, saphon.data)
 # remove dialect information from ISO codes
 saphon.is.dialect <- stri_detect_fixed(saphon.data$LanguageCode, "_")
 saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, "_"),
+                                   function(x) x[1])
+# handle entries that have two ISO codes
+saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, " "),
                                    function(x) x[1])
 # extract dialect information from LanguageName, if it exists
 saphon.has.parens <- stri_detect_fixed(saphon.data$LanguageName, "(")
