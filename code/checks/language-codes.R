@@ -1,35 +1,35 @@
 #! /usr/bin/env Rscript
 
-# This script checks that the phoible ISO 639-3 codes are valid
-
-library(RCurl)
+## This script checks that the phoible language codes are valid ISO 639-3 codes
 
 ## set global options (to be restored at end)
 saf <- getOption("stringsAsFactors")
 options(stringsAsFactors=FALSE)
 
 ## file I/O
-out.file <- file.path("..", "..", "bad-iso-codes.tsv")
+root.dir <- file.path("..", "..")
+in.file  <- file.path(root.dir, "phoible-phoneme-level.RData")
+out.file <- file.path(root.dir, "bad-iso-codes.tsv")
 
 ## URLs
-#eth.url <- "http://www.ethnologue.com/sites/default/files/LanguageCodes.tab"
 iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
-agg.url <- "https://raw.githubusercontent.com/phoible/phoible/master/phoible-aggregated.tsv"
 
 ## load data
-#ethnologue <- read.delim(eth.url, stringsAsFactors=FALSE)
+load(in.file)  # final.data
 iso639.3 <- read.delim(iso.url, stringsAsFactors=FALSE)
-aggregated <- read.delim(text=getURL(agg.url), stringsAsFactors=FALSE)
 
 ## find bad language codes
-#eth.codes <- ethnologue[,1]
 iso.codes <- iso639.3[,1]
-agg.codes <- aggregated$LanguageCode
-bad.iso.codes <- agg.codes[!agg.codes %in% iso.codes]
-#bad.eth.codes <- agg.codes[!agg.codes %in% eth.codes]
+phoible.codes <- final.data$LanguageCode
+
+## filter phoible data on bad codes (so we can see Source)
+bad.isos <- final.data[!phoible.codes %in% iso.codes,]
+bad.isos <- bad.data[!duplicated(bad.data$InventoryID),
+                     c("LanguageCode", "LanguageName", "Source")]
 
 ## write results
-write.table(bad.iso.codes, out.file, row.names=FALSE, col.names=FALSE, sep="\t")
+write.table(bad.isos, out.file, row.names=FALSE, col.names=TRUE,
+            sep="\t", eol="\n")
 
 ## reset options
 options(stringsAsFactors=saf)
