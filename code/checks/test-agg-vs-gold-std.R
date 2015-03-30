@@ -66,20 +66,22 @@ rownames(compare.gs) <- NULL
 
 split.fd <- split(compare.fd, compare.fd$InventoryID)
 split.gs <- split(compare.gs, compare.gs$InventoryID)
-sin.both <- intersect(names(split.fd), names(split.gs))
+
+in.both <- intersect(names(split.fd), names(split.gs))
 in.eith <- union(names(split.fd), names(split.gs))
 
-dphoneme.mismatches<- t(sapply(in.beih, function(i) 
-                       data.frame(agg=paste(setdiff(split.fd[[i]]$Phoneme,
-                                                      split.gs[[i]]$Phoneme),
-                                            collapse=" "),
-                                    gold=paste(setdiff(split.gs[[i]]$Phoneme,
+phoneme.mismatches <- t(sapply(in.eith, function(i)
+                        data.frame(agg=paste(setdiff(split.fd[[i]]$Phoneme,
+                                                     split.gs[[i]]$Phoneme),
+                                             collapse=" "),
+                                   gold=paste(setdiff(split.gs[[i]]$Phoneme,
                                                       split.fd[[i]]$Phoneme),
-                                             collapse=" "))))
-d# git rid of null mismatches
-phoneme.mismatches<- dphoneme.mismatchesapply(dphoneme.mismatches 1, 
+                                              collapse=" "))))
+# git rid of null mismatches
+phoneme.mismatches <- phoneme.mismatches[apply(phoneme.mismatches, 1,
                                                paste, collapse="") != "",]
 # there are lots of UPSID mismatches due to the ambiguous dental/alveolars...
 non.upsid <- phoneme.mismatches[substr(rownames(phoneme.mismatches), 5, 9) != "upsid",]
 
-
+write.table(phoneme.mismatches, file.path(root.dir, "agg-vs-gold-mismatches.tsv"), sep="\t",
+            row.names=TRUE)
