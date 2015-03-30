@@ -1,26 +1,35 @@
-# Check that the phoible ISO 639-3 codes are valid
+#! /usr/bin/env Rscript
+
+# This script checks that the phoible ISO 639-3 codes are valid
 
 library(RCurl)
-library(dplyr)
 
-# load data and standardize code column names
-iso639.3 <- read.csv("http://www-01.sil.org/iso639-3/iso-639-3.tab", sep="\t")
-colnames(iso639.3)[1] <- "LanguageCode"
+## set global options (to be restored at end)
+saf <- getOption("stringsAsFactors")
+options(stringsAsFactors=FALSE)
 
-ethnologue <- read.csv("http://www.ethnologue.com/sites/default/files/LanguageCodes.tab", sep="\t")
-colnames(ethnologue)[1] <- "LanguageCode"
+## file I/O
+out.file <- file.path("..", "..", "bad-iso-codes.tsv")
 
-x <- getURL("https://raw.githubusercontent.com/phoible/phoible/master/phoible-aggregated.tsv")
-aggregated <- read.csv(text = x, sep='\t')
+## URLs
+#eth.url <- "http://www.ethnologue.com/sites/default/files/LanguageCodes.tab"
+iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
+agg.url <- "https://raw.githubusercontent.com/phoible/phoible/master/phoible-aggregated.tsv"
 
-aggregated <- read.csv("../../phoible-aggregated.tsv", sep="\t")
-head(aggregated)
+## load data
+#ethnologue <- read.delim(eth.url, stringsAsFactors=FALSE)
+iso639.3 <- read.delim(iso.url, stringsAsFactors=FALSE)
+aggregated <- read.delim(text=getURL(agg.url), stringsAsFactors=FALSE)
 
-codes <- aggregated$LanguageCode
-c <- data.frame(codes %in% iso639.3$LanguageCode)
-results <- cbind(codes, c)
-names(results) <- c("LanguageCode", "Missing")
-filter(results, Missing==FALSE)
+## find bad language codes
+#eth.codes <- ethnologue[,1]
+iso.codes <- iso639.3[,1]
+agg.codes <- aggregated$LanguageCode
+bad.iso.codes <- agg.codes[!agg.codes %in% iso.codes]
+#bad.eth.codes <- agg.codes[!agg.codes %in% eth.codes]
 
-# write results
-write.table(results, "temp.tsv", sep="\t")
+## write results
+write.table(bad.iso.codes, out.file, row.names=FALSE, col.names=FALSE, sep="\t")
+
+## reset options
+options(stringsAsFactors=saf)
