@@ -18,11 +18,11 @@ iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
 load(in.file)  # final.data
 iso639.3 <- read.delim(iso.url, stringsAsFactors=FALSE)
 
-## find bad language codes
+## pull out language codes
 iso.codes <- iso639.3[,1]
 phoible.codes <- final.data$LanguageCode
 
-## filter phoible data on bad codes (so we can see Source)
+## filter phoible data on bad codes
 bad.isos <- final.data[!phoible.codes %in% iso.codes,]
 bad.isos <- bad.data[!duplicated(bad.data$InventoryID),
                      c("LanguageCode", "LanguageName", "Source")]

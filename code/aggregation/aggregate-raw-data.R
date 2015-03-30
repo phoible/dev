@@ -6,7 +6,6 @@
 
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(plyr)     # provides function rbind.fill
-library(RCurl)    # provides function getURL
 library(stringi)  # for proper string handling & (de)normalization
 
 root.dir <- file.path("..", "..")
