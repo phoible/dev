@@ -6,20 +6,22 @@
 
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(plyr)     # provides function rbind.fill
+library(RCurl)    # provides function getURL
 library(stringi)  # for proper string handling & (de)normalization
 
-data.dir <- file.path("..", "..", "data")
+root.dir <- file.path("..", "..")
+data.dir <- file.path(root.dir, "data")
 
 # # # # # # # # # # # # # # # # # # # #
 # THINGS A USER MIGHT WANT TO CHANGE  #
 # # # # # # # # # # # # # # # # # # # #
 # NAME OF OUTPUT FILE
-output.fname <- file.path("..", "..", "phoible-phoneme-level.tsv")
-output.rdata <- file.path("..", "..", "phoible-phoneme-level.RData")
+output.fname <- file.path(root.dir, "phoible-phoneme-level.tsv")
+output.rdata <- file.path(root.dir, "phoible-phoneme-level.RData")
 
 # WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
-                   "Phoneme", "Allophones", "Source", "GlyphID")
+                   "Phoneme", "Allophones", "Source", "GlyphID", "InventoryID")
 # TODO: implement Class and possibly CombinedClass columns
 
 # TRUMP ORDERING (for choosing which entry to keep when there are multiple
@@ -49,6 +51,7 @@ saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
 # TODO: OCEANIA
 # TODO: STEDT
+# TODO: JIPA
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -210,6 +213,7 @@ assignGlyphID <- function(phones) {
     ids <- stri_replace_all_fixed(ids, replacement="", pattern = "U")
     ids <- stri_replace_first_fixed(ids, replacement="", pattern = "+")
 }
+
 
 # # # # # # # # # # # # # # # # #
 # CHECK FOR DUPLICATE FEATURES  #
@@ -374,6 +378,11 @@ all.data$GlyphID <- assignGlyphID(all.data$Phoneme)
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
 all.data <- markMarginal(all.data)
 
+
+# # # # # # # # # # # #
+# ASSIGN INVENTORY ID #
+# # # # # # # # # # # #
+all.data$InventoryID <- with(all.data, paste(LanguageCode, Source, sep="-"))
 
 # # # # # # # # # # # # # # #
 # TODO: VALIDATE ISO CODES  #
