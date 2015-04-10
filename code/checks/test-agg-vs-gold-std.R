@@ -21,41 +21,42 @@ denormRenorm <- function(x) {
 # languages in agg-final not in Gold Standard #
 # # # # # # # # # # # # # # # # # # # # # # # #
 setdiff(agg.langs, gs.langs)
-# "eza" <- izi
-# "iqw" <- izi
-# "izz" <- izi
-# "zoh" PH, san miguel chimalapa zoque; gold standard has wrong ISO code (zoc)
+## "eza" <- izi
+## "iqw" <- izi
+## "izz" <- izi
+## "zoh" PH, san miguel chimalapa zoque; gold standard has wrong ISO code (zoc)
 
 # # # # # # # # # # # # # # # # # # # # # # # #
 # languages in Gold Standard not in agg-final #
 # # # # # # # # # # # # # # # # # # # # # # # #
 setdiff(gs.langs, agg.langs)
-# "izi" -> izz, eza, iqw, gmz
-# "idn" (Indonesian, GM): Rdata has correct code (ind)
-# "azb" (South Azerbaijani, SPA): Rdata has correct code (azj)
+## "izi" -> izz, eza, iqw, gmz
+## "idn" (Indonesian, GM): Rdata has correct code (ind)
+## "azb" (South Azerbaijani, SPA): Rdata has correct code (azj)
 
-# fix up ISO code mismatches so we can check if phonemes match
+## other mismatches (gold standard vs aggregate)
+## SPA ayr vs jqr
+## SPA btx vs bbc
+## SPA yux vs ykg
+
+## fix up ISO code mismatches so we can check if phonemes match
 gold.standard$LanguageCode[gold.standard$LanguageCode == "zoc" &
                            gold.standard$Source == "PH"] <- "zoh"
 gold.standard$LanguageCode[gold.standard$LanguageCode == "idn"] <- "ind"
 gold.standard$LanguageCode[gold.standard$LanguageCode == "azb"] <- "azj"
+gold.standard$LanguageName <- denormRenorm(gold.standard$LanguageName)
+ezaa <- denormRenorm(c("ezaa", "ẹzaa"))
 gold.standard$LanguageCode[gold.standard$LanguageName == "izi"] <- "izz"
-gold.standard$LanguageCode[gold.standard$LanguageName %in% c("ezaa", "ẹzaa")] <- "eza"
+gold.standard$LanguageCode[gold.standard$LanguageName %in% ezaa] <- "eza"
 gold.standard$LanguageCode[gold.standard$LanguageName == "ikwo"] <- "iqw"
-
+gold.standard$LanguageCode[gold.standard$LanguageCode == "yux" & gold.standard$Source == "SPA"] <- "ykg"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "btx" & gold.standard$Source == "SPA"] <- "bbc"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "ayr" & gold.standard$Source == "SPA"] <- "jqr"
 final.data$InventoryID <- with(final.data, paste(LanguageCode, Source, sep="-"))
 gold.standard$InventoryID <- with(gold.standard, paste(LanguageCode, tolower(Source), sep="-"))
 
-
-# Compare phonemes
+## Prep data frames for comparing phonemes
 common.columns <- c("LanguageCode", "LanguageName", "Source", "Phoneme", "InventoryID")
-compare.fd <- final.data[stri_order(final.data$Phoneme), common.columns]
-compare.fd <- compare.fd[stri_order(compare.fd$Source),]
-compare.fd <- compare.fd[stri_order(compare.fd$LanguageName),]
-compare.fd <- compare.fd[stri_order(compare.fd$LanguageCode),]
-compare.fd$Phoneme <- denormRenorm(compare.fd$Phoneme)
-rownames(compare.fd) <- NULL
-
 compare.gs <- gold.standard[with(gold.standard, stri_order(Phoneme)), common.columns]
 compare.gs <- compare.gs[stri_order(compare.gs$Source),]
 compare.gs <- compare.gs[stri_order(compare.gs$LanguageName),]
@@ -64,12 +65,24 @@ compare.gs$Source <- tolower(compare.gs$Source)
 compare.gs$Phoneme <- denormRenorm(compare.gs$Phoneme)
 rownames(compare.gs) <- NULL
 
+compare.fd <- final.data[stri_order(final.data$Phoneme), common.columns]
+compare.fd <- compare.fd[stri_order(compare.fd$Source),]
+compare.fd <- compare.fd[stri_order(compare.fd$LanguageName),]
+compare.fd <- compare.fd[stri_order(compare.fd$LanguageCode),]
+compare.fd$Phoneme <- denormRenorm(compare.fd$Phoneme)
+rownames(compare.fd) <- NULL
+## Get rid of UPSID dental|alveolar disjuncts
+compare.fd$Phoneme <- sapply(strsplit(compare.fd$Phoneme, "|", fixed=TRUE),
+                             function(i) i[1])  # takes the first half (the dental)
+
+## split by InventoryID
 split.fd <- split(compare.fd, compare.fd$InventoryID)
 split.gs <- split(compare.gs, compare.gs$InventoryID)
 
-in.both <- intersect(names(split.fd), names(split.gs))
+## gather list of mismatches for each language
 in.eith <- union(names(split.fd), names(split.gs))
-
+#in.both <- intersect(names(split.fd), names(split.gs))
+## use "in.both" below to ignore languages that are missing from either FD or GS
 phoneme.mismatches <- t(sapply(in.eith, function(i)
                         data.frame(agg=paste(setdiff(split.fd[[i]]$Phoneme,
                                                      split.gs[[i]]$Phoneme),
@@ -77,11 +90,10 @@ phoneme.mismatches <- t(sapply(in.eith, function(i)
                                    gold=paste(setdiff(split.gs[[i]]$Phoneme,
                                                       split.fd[[i]]$Phoneme),
                                               collapse=" "))))
-# git rid of null mismatches
+## get rid of null mismatches
 phoneme.mismatches <- phoneme.mismatches[apply(phoneme.mismatches, 1,
                                                paste, collapse="") != "",]
-# there are lots of UPSID mismatches due to the ambiguous dental/alveolars...
-non.upsid <- phoneme.mismatches[substr(rownames(phoneme.mismatches), 5, 9) != "upsid",]
 
+## write out results
 write.table(phoneme.mismatches, file.path(root.dir, "agg-vs-gold-mismatches.tsv"), sep="\t",
             row.names=TRUE)
