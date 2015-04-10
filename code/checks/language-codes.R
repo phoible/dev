@@ -1,6 +1,14 @@
 #! /usr/bin/env Rscript
 
-## This script checks that the phoible language codes are valid ISO 639-3 codes
+## This script checks that the phoible language codes are valid ISO 639-3 codes.
+## The output goes into the root folder. Note that bad codes can be easily looked up
+## using the following URL patterns (replace XXX with desired code):
+## Main ethnologue entry:
+## http://www.ethnologue.com/language/XXX
+## ISO 639-3 change history for code:
+## http://www-01.sil.org/iso639-3/documentation.asp?id=XXX
+## Full list of retired codes:
+## http://www-01.sil.org/iso639-3/codes_retired.asp
 
 ## set global options (to be restored at end)
 saf <- getOption("stringsAsFactors")
