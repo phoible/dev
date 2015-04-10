@@ -26,7 +26,7 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 # TRUMP ORDERING (for choosing which entry to keep when there are multiple
 # entries for a language). More preferred data sources come earlier in the list.
 trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
-apply.trump <- TRUE
+apply.trump <- FALSE
 
 
 # # # # # # # #

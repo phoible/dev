@@ -32,7 +32,7 @@ phoible.codes <- final.data$LanguageCode
 
 ## filter phoible data on bad codes
 bad.isos <- final.data[!phoible.codes %in% iso.codes,]
-bad.isos <- bad.data[!duplicated(bad.data$InventoryID),
+bad.isos <- bad.isos[!duplicated(bad.isos$InventoryID),
                      c("LanguageCode", "LanguageName", "Source")]
 
 ## write results
