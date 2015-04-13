@@ -49,9 +49,24 @@ ezaa <- denormRenorm(c("ezaa", "ẹzaa"))
 gold.standard$LanguageCode[gold.standard$LanguageName == "izi"] <- "izz"
 gold.standard$LanguageCode[gold.standard$LanguageName %in% ezaa] <- "eza"
 gold.standard$LanguageCode[gold.standard$LanguageName == "ikwo"] <- "iqw"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "noo"] <- "nuk"
 gold.standard$LanguageCode[gold.standard$LanguageCode == "yux" & gold.standard$Source == "SPA"] <- "ykg"
 gold.standard$LanguageCode[gold.standard$LanguageCode == "btx" & gold.standard$Source == "SPA"] <- "bbc"
 gold.standard$LanguageCode[gold.standard$LanguageCode == "ayr" & gold.standard$Source == "SPA"] <- "jqr"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "daf" & gold.standard$Source == "AA"] <- "dnj"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "psx" & gold.standard$Source == "SAPHON"] <- "tuo"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "qpt" & gold.standard$Source == "SAPHON"] <- "gvp"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "wit" & gold.standard$Source == "UPSID"] <- "wnw"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "stc" & gold.standard$Source == "UPSID"] <- "ntu"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "nbf" & gold.standard$Source == "UPSID"] <- "nxq"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "gbc" & gold.standard$Source == "UPSID"] <- "wrk"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "gmo" & gold.standard$Source == "UPSID"] <- "dwr"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "gmo" & gold.standard$Source == "GM"] <- "gmv"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "baz" & gold.standard$Source == "GM"] <- "tvu"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "daf" & gold.standard$Source %in% c("GM", "UPSID")] <- "lda"
+gold.standard$LanguageCode[gold.standard$LanguageCode == "dap" & gold.standard$Source %in% c("SPA", "UPSID")] <- "njz"
+
+
 final.data$InventoryID <- with(final.data, paste(LanguageCode, Source, sep="-"))
 gold.standard$InventoryID <- with(gold.standard, paste(LanguageCode, tolower(Source), sep="-"))
 
