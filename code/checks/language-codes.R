@@ -1,26 +1,43 @@
-# Check that the phoible ISO 639-3 codes are valid
+#! /usr/bin/env Rscript
 
-library(RCurl)
-library(dplyr)
+## This script checks that the phoible language codes are valid ISO 639-3 codes.
+## The output goes into the root folder. Note that bad codes can be easily looked up
+## using the following URL patterns (replace XXX with desired code):
+## Main ethnologue entry:
+## http://www.ethnologue.com/language/XXX
+## ISO 639-3 change history for code:
+## http://www-01.sil.org/iso639-3/documentation.asp?id=XXX
+## Full list of retired codes:
+## http://www-01.sil.org/iso639-3/codes_retired.asp
 
-# load data and standardize code column names
-iso639.3 <- read.csv("http://www-01.sil.org/iso639-3/iso-639-3.tab", sep="\t")
-colnames(iso639.3)[1] <- "LanguageCode"
+## set global options (to be restored at end)
+saf <- getOption("stringsAsFactors")
+options(stringsAsFactors=FALSE)
 
-ethnologue <- read.csv("http://www.ethnologue.com/sites/default/files/LanguageCodes.tab", sep="\t")
-colnames(ethnologue)[1] <- "LanguageCode"
+## file I/O
+root.dir <- file.path("..", "..")
+in.file  <- file.path(root.dir, "phoible-phoneme-level.RData")
+out.file <- file.path(root.dir, "bad-iso-codes.tsv")
 
-x <- getURL("https://raw.githubusercontent.com/phoible/phoible/master/phoible-aggregated.tsv")
-aggregated <- read.csv(text = x, sep='\t')
+## URLs
+iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
 
-aggregated <- read.csv("../../phoible-aggregated.tsv", sep="\t")
-head(aggregated)
+## load data
+load(in.file)  # final.data
+iso639.3 <- read.delim(iso.url, stringsAsFactors=FALSE)
 
-codes <- aggregated$LanguageCode
-c <- data.frame(codes %in% iso639.3$LanguageCode)
-results <- cbind(codes, c)
-names(results) <- c("LanguageCode", "Missing")
-filter(results, Missing==FALSE)
+## pull out language codes
+iso.codes <- iso639.3[,1]
+phoible.codes <- final.data$LanguageCode
 
-# write results
-write.table(results, "temp.tsv", sep="\t")
+## filter phoible data on bad codes
+bad.isos <- final.data[!phoible.codes %in% iso.codes,]
+bad.isos <- bad.isos[!duplicated(bad.isos$InventoryID),
+                     c("LanguageCode", "LanguageName", "Source")]
+
+## write results
+write.table(bad.isos, out.file, row.names=FALSE, col.names=TRUE,
+            sep="\t", eol="\n")
+
+## reset options
+options(stringsAsFactors=saf)
