@@ -1,48 +1,43 @@
-# Check language codes
-# Author: Steven Moran <steven.moran@uzh.ch>
-# Date: April 2014
+#! /usr/bin/env Rscript
 
-library(RMySQL)
+## This script checks that the phoible language codes are valid ISO 639-3 codes.
+## The output goes into the root folder. Note that bad codes can be easily looked up
+## using the following URL patterns (replace XXX with desired code):
+## Main ethnologue entry:
+## http://www.ethnologue.com/language/XXX
+## ISO 639-3 change history for code:
+## http://www-01.sil.org/iso639-3/documentation.asp?id=XXX
+## Full list of retired codes:
+## http://www-01.sil.org/iso639-3/codes_retired.asp
 
-checkCodes <- function(df) {
-	codes <- df$LanguageCode
+## set global options (to be restored at end)
+saf <- getOption("stringsAsFactors")
+options(stringsAsFactors=FALSE)
 
-	# takes a df and checks for the column name for the language codes - replace with local copy if needed
-	iso639.3 <- read.csv("http://www-01.sil.org/iso639-3/iso-639-3.tab", sep="\t")
-	ethnologue <- read.csv("http://www.ethnologue.com/sites/default/files/LanguageCodes.tab", sep="\t")
+## file I/O
+root.dir <- file.path("..", "..")
+in.file  <- file.path(root.dir, "phoible-phoneme-level.RData")
+out.file <- file.path(root.dir, "bad-iso-codes.tsv")
 
-	# standardize code column names
-	colnames(iso639.3)[1] <- "LanguageCode"
-	colnames(ethnologue)[1] <- "LanguageCode"
+## URLs
+iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
 
-	# get sets
-	union.input.iso6393.3 <- union(iso639.3 $LanguageCode, aggregated$LanguageCode)
-	intersect.input.iso6393.3 <- intersect(iso639.3 $LanguageCode, aggregated$LanguageCode)
-	setdiff.input.iso639.3 <- setdiff(iso639.3 $LanguageCode, aggregated$LanguageCode)
-	union.input.ethnologue <- union(ethnologue$LanguageCode, aggregated$LanguageCode)
-	intersect.input.ethnologue <- intersect(ethnologue$LanguageCode, aggregated$LanguageCode)
-	setdiff.input.ethnologue <- setdiff(ethnologue$LanguageCode, aggregated$LanguageCode)
+## load data
+load(in.file)  # final.data
+iso639.3 <- read.delim(iso.url, stringsAsFactors=FALSE)
 
+## pull out language codes
+iso.codes <- iso639.3[,1]
+phoible.codes <- final.data$LanguageCode
 
-	# deal with some r(rr) types
-	results <- list(union.input.ethnologue, union.input.iso6393.3, intersect.input.ethnologue, intersect.input.iso6393.3, setdiff.input.ethnologue, setdiff.input.iso639.3)
-	number.codes <- length(iso639.3$LanguageCode) # length of (presumaably) longest input
-	results <- sapply(results,'[',1:number.codes)
+## filter phoible data on bad codes
+bad.isos <- final.data[!phoible.codes %in% iso.codes,]
+bad.isos <- bad.isos[!duplicated(bad.isos$InventoryID),
+                     c("LanguageCode", "LanguageName", "Source")]
 
-	results <- data.frame(results)
-	colnames(results) <- c("union.input.ethnologue","union.input.iso6393.3", "intersect.input.ethnologue", "intersect.input.iso6393.3", "setdiff.input.ethnologue", "setdiff.input.iso639.3")
+## write results
+write.table(bad.isos, out.file, row.names=FALSE, col.names=TRUE,
+            sep="\t", eol="\n")
 
-	return(results)
-}
-
-# example: phoible aggregated data table - use database connection or tsv files
-con <- dbConnect(MySQL(), user="", password="", dbname="phoible", host="localhost", port = 8889)
-aggregated <- dbReadTable(con, "aggregated")
-phonemes <- dbReadTable(con, "phonemes")
-
-# assume we are in the working directory and reading from within this git repo
-aggregated <- read.csv("../../phoible-aggregated.tsv", sep="\t")
-phonemes <- read.csv("../../phoible-phonemes.tsv", sep="\t")
-
-results <- checkCodes(aggregated)
-write.table(results, "temp.tsv", sep="\t")
+## reset options
+options(stringsAsFactors=saf)
