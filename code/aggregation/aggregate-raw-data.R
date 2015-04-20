@@ -368,24 +368,10 @@ all.data$Phoneme <- denorm(all.data$Phoneme)
 all.data$Allophones <- denorm(all.data$Allophones)
 # FACTOR TO DROP UNUSED LEVELS
 all.data$Phoneme <- factor(all.data$Phoneme)
+# MARK MARGINAL PHONEMES AND REMOVE ANGLE BRACKETS
+all.data <- markMarginal(all.data)
 # ASSIGN GLYPH IDs
 all.data$GlyphID <- assignGlyphID(all.data$Phoneme)
-
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # #
-# MARK MARGINAL PHONEMES AND REMOVE ANGLE BRACKETS  #
-# # # # # # # # # # # # # # # # # # # # # # # # # # #
-all.data <- markMarginal(all.data)
-
-
-# # # # # # # # # # # #
-# ASSIGN INVENTORY ID #
-# # # # # # # # # # # #
-all.data$InventoryID <- with(all.data, paste(LanguageCode, Source, sep="-"))
-
-# # # # # # # # # # # # # # #
-# TODO: VALIDATE ISO CODES  #
-# # # # # # # # # # # # # # #
 
 
 # # # # # # # # # # # # # #
