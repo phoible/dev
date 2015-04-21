@@ -375,6 +375,8 @@ all.data$Phoneme <- factor(all.data$Phoneme)
 all.data <- markMarginal(all.data)
 # ASSIGN GLYPH IDs
 all.data$GlyphID <- assignGlyphID(all.data$Phoneme)
+# ASSIGN INVENTORY IDs
+all.data$InventoryID <- with(all.data, paste(LanguageCode, Source, sep="-"))
 
 
 # # # # # # # # # # # # # #
