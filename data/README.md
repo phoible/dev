@@ -22,7 +22,7 @@ Laboratory at the University of Washington. The contents are described in
 
 > Moran, S. (2012) Phonetics Information Base and Lexicon. PhD thesis, University of Washington.
 
-The `RAMASWAMI` folder contains data from 
+The `RA` folder contains data from 
 
 > Ramswami, N. 1999. Common Linguistic Features in Indian Languages: Phonetics. Central Institute of Indian Languages. Mysore, India.
 
