@@ -3760,7 +3760,7 @@ cce	Copi		<n̤>	loanwords only
 cce	Copi		<nd>	loanwords only			
 cce	Copi		<n̤d̤>	loanwords only			
 cce	Copi		<tl>	loanwords only			
-cce	Copi		<tlʰ>	loanwords only			
+cce	Copi		<tlʱ>	loanwords only			
 cce	Copi		<d̤ɮ̤>	loanwords only			
 cce	Copi		<ɬ>	loanwords only			
 cce	Copi		<ndl>	loanwords only			
@@ -6899,7 +6899,7 @@ nmn	!Xóõ		qǁʰ	ǁqʰ
 nmn	!Xóõ		qǂʰ	ǂqʰ			
 nmn	!Xóõ		ɡʘqʰ	ɡʘqʰ			
 nmn	!Xóõ		ɡǀqʰ	ɡǀqʰ			
-nmn	!Xóõ		ɡǃqʰ	ɡǃqʰ			
+nmn	!Xóõ		ɡǃqʱ	ɡǃqʱ			
 nmn	!Xóõ		ɡǁqʰ	ɡǁqʰ			
 nmn	!Xóõ		ɡǂqʰ	ɡǂqʰ			
 nmn	!Xóõ		ɴɢǀqʰ	ɴɢǀqʰ			
@@ -6952,10 +6952,10 @@ nmn	!Xóõ		t̪ʰ
 nmn	!Xóõ		tʰ				
 nmn	!Xóõ		kʰ				
 nmn	!Xóõ		qʰ				
-nmn	!Xóõ		d̪ʰ				
-nmn	!Xóõ		dʰ				
-nmn	!Xóõ		ɡʰ				
-nmn	!Xóõ		ɢʰ				
+nmn	!Xóõ		d̪ʱ				
+nmn	!Xóõ		dʱ				
+nmn	!Xóõ		ɡʱ				
+nmn	!Xóõ		ɢʱ				
 nmn	!Xóõ		t̪x				
 nmn	!Xóõ		tx				
 nmn	!Xóõ		d̪x				
@@ -7007,9 +7007,9 @@ nmn	!Xóõ		ḛ
 nmn	!Xóõ		a̰				
 nmn	!Xóõ		o̰				
 nmn	!Xóõ		ṵ				
-nmn	!Xóõ		a̰ʰ				
-nmn	!Xóõ		o̰ʰ				
-nmn	!Xóõ		ṵʰ				
+nmn	!Xóõ		aᴱ				
+nmn	!Xóõ		oᴱ				
+nmn	!Xóõ		uᴱ				
 nmn	!Xóõ		˦				
 nmn	!Xóõ		˨				
 nmn	!Xóõ		˧				
@@ -7177,7 +7177,7 @@ xuu	!Xun	W2	uˤ
 xuu	!Xun	W2	ĩ				
 xuu	!Xun	W2	ã				
 xuu	!Xun	W2	ũ				
-xuu	!Xun	W2	ã̰				
+xuu	!Xun	W2	ã̰				
 xuu	!Xun	W2	õ̰				
 xuu	!Xun	W2	ãˤ				
 xuu	!Xun	W2	õˤ				
@@ -7195,24 +7195,24 @@ xuu	!Xun	W2	d
 xuu	!Xun	W2	t̠ʃ				
 xuu	!Xun	W2	d̠ʒː	ddj in text			
 xuu	!Xun	W2	d̠ʒ				
-xuu	!Xun	W2	kǁ	ǁ			
+xuu	!Xun	W2	kǁ	kǁ			
 xuu	!Xun	W2	ɡǁ	ɡǁ			
-xuu	!Xun	W2	kǀ	ǀ			
+xuu	!Xun	W2	kǀ	kǀ			
 xuu	!Xun	W2	ɡǀ	ɡǀ			
-xuu	!Xun	W2	kǃ	ǃ			
+xuu	!Xun	W2	kǃ	kǃ			
 xuu	!Xun	W2	ɡǃ	ɡǃ			
-xuu	!Xun	W2	kǃǃ	ǃǃ			
-xuu	!Xun	W2	ɡǃǃ	ɡǃǃ			
+xuu	!Xun	W2	k‼	k‼			
+xuu	!Xun	W2	ɡ‼	ɡ‼			
 xuu	!Xun	W2	k				
 xuu	!Xun	W2	ɡ				
 xuu	!Xun	W2	ʔ				
 xuu	!Xun	W2	dʼ				
 xuu	!Xun	W2	ɡʼ				
 xuu	!Xun	W2	pʰ				
-xuu	!Xun	W2	bʰ				
+xuu	!Xun	W2	bʱ				
 xuu	!Xun	W2	tʰʼ				
 xuu	!Xun	W2	tʰ				
-xuu	!Xun	W2	dʰ				
+xuu	!Xun	W2	dʱ				
 xuu	!Xun	W2	t̠ʃʼ				
 xuu	!Xun	W2	d̠ʒʼ				
 xuu	!Xun	W2	t̠ʃʰ				
@@ -7223,11 +7223,11 @@ xuu	!Xun	W2	kǀʼ
 xuu	!Xun	W2	kǀʰʼ				
 xuu	!Xun	W2	kǃʼ				
 xuu	!Xun	W2	kǃʰʼ				
-xuu	!Xun	W2	kǃǃʼ				
-xuu	!Xun	W2	kǃǃʰʼ				
+xuu	!Xun	W2	k‼ʼ				
+xuu	!Xun	W2	k‼ʰʼ				
 xuu	!Xun	W2	kxʼ				
 xuu	!Xun	W2	kʰ				
-xuu	!Xun	W2	ɡʰ				
+xuu	!Xun	W2	ɡʱ				
 xuu	!Xun	W2	tx				
 xuu	!Xun	W2	dx				
 xuu	!Xun	W2	t̠ʃx				
@@ -7238,39 +7238,39 @@ xuu	!Xun	W2	kǀx
 xuu	!Xun	W2	ɡǀx				
 xuu	!Xun	W2	kǃx				
 xuu	!Xun	W2	ɡǃx				
-xuu	!Xun	W2	kǃǃx				
-xuu	!Xun	W2	ɡǃǃx				
+xuu	!Xun	W2	k‼x				
+xuu	!Xun	W2	ɡ‼x				
 xuu	!Xun	W2	kǁxʼ				
 xuu	!Xun	W2	kǀxʼ				
 xuu	!Xun	W2	kǃxʼ				
-xuu	!Xun	W2	kǃǃxʼ				
+xuu	!Xun	W2	k‼xʼ				
 xuu	!Xun	W2	ɡǁxʼ				
 xuu	!Xun	W2	ɡǀxʼ				
 xuu	!Xun	W2	ɡǃxʼ				
-xuu	!Xun	W2	ɡǃǃxʼ				
+xuu	!Xun	W2	ɡ‼xʼ				
 xuu	!Xun	W2	kǁʰ				
 xuu	!Xun	W2	kǀʰ				
 xuu	!Xun	W2	kǃʰ				
-xuu	!Xun	W2	kǃǃʰ				
-xuu	!Xun	W2	ɡǀʰ				
-xuu	!Xun	W2	ɡǃʰ				
-xuu	!Xun	W2	ɡǃǃʰ				
+xuu	!Xun	W2	k‼ʰ				
+xuu	!Xun	W2	ɡǀʱ				
+xuu	!Xun	W2	ɡǃʱ				
+xuu	!Xun	W2	ɡ‼ʱ				
 xuu	!Xun	W2	m				
 xuu	!Xun	W2	n				
 xuu	!Xun	W2	ɲ				
 xuu	!Xun	W2	ŋǁ				
 xuu	!Xun	W2	ŋǀ				
 xuu	!Xun	W2	ŋǃ				
-xuu	!Xun	W2	ŋǃǃ				
+xuu	!Xun	W2	ŋ‼				
 xuu	!Xun	W2	ŋ				
 xuu	!Xun	W2	mb				
 xuu	!Xun	W2	nd				
 xuu	!Xun	W2	ŋɡ				
-xuu	!Xun	W2	mʰ				
-xuu	!Xun	W2	nʰ				
-xuu	!Xun	W2	ŋǀʰ				
-xuu	!Xun	W2	ŋǃʰ				
-xuu	!Xun	W2	ŋǃǃʰ				
+xuu	!Xun	W2	mʱ				
+xuu	!Xun	W2	nʱ				
+xuu	!Xun	W2	ŋǀʱ				
+xuu	!Xun	W2	ŋǃʱ				
+xuu	!Xun	W2	ŋ‼ʱ				
 xuu	!Xun	W2	ʼm				
 xuu	!Xun	W2	ʼn				
 xuu	!Xun	W2	ʼŋǀ				
@@ -7698,7 +7698,7 @@ bjt	Balante	Ganja	nd
 bjt	Balante	Ganja	n̠d̠ʒ				
 bjt	Balante	Ganja	ŋɡ				
 bjt	Balante	Ganja	ŋmɡb				
-bjt	Balante	Ganja	ŋʰ				
+bjt	Balante	Ganja	ŋʱ				
 bjt	Balante	Ganja	ŋʷ				
 							
 now	Kinyambo		i				now.pdf
@@ -8970,7 +8970,7 @@ ntm	Nateni		ɔ̃ː
 stv	Silt'i		b		[b]		stv.pdf
 stv	Silt'i		b		[p]		
 stv	Silt'i		b		[pʰ]		
-stv	Silt'i		b		[bʰ]		
+stv	Silt'i		b		[bʱ]		
 stv	Silt'i		bː				
 stv	Silt'i		f		[f]		
 stv	Silt'i		f		[v]		
@@ -8986,7 +8986,7 @@ stv	Silt'i		tː		[tʰː]
 stv	Silt'i		tː		[tː]		
 stv	Silt'i		tː		[tʰː]		
 stv	Silt'i		d		[d]		
-stv	Silt'i		d		[dʰ]		
+stv	Silt'i		d		[dʱ]		
 stv	Silt'i		dː				
 stv	Silt'i		tʼ				
 stv	Silt'i		tʼː				
@@ -9029,7 +9029,7 @@ stv	Silt'i		k		[k̠]
 stv	Silt'i		kː		[kː]		
 stv	Silt'i		kː		[kʰː]		
 stv	Silt'i		ɡ		[ɡ]		
-stv	Silt'i		ɡ		[ɡʰ]		
+stv	Silt'i		ɡ		[ɡʱ]		
 stv	Silt'i		ɡ		[ɡ̠]		
 stv	Silt'i		ɡ		[ɡ̟]		
 stv	Silt'i		ɡː				
@@ -16377,13 +16377,13 @@ suk	Sukuma		kʰ
 suk	Sukuma		ɡ		[ɡ]		
 suk	Sukuma		ɡ		[ɣ]		
 suk	Sukuma		m				
-suk	Sukuma		m̤ʰ				
+suk	Sukuma		m̤ʱ				
 suk	Sukuma		n				
-suk	Sukuma		n̤ʰ				
+suk	Sukuma		n̤ʱ				
 suk	Sukuma		ɲ				
-suk	Sukuma		ɲ̤ʰ				
+suk	Sukuma		ɲ̤ʱ				
 suk	Sukuma		ŋ				
-suk	Sukuma		ŋ̤ʰ				
+suk	Sukuma		ŋ̤ʱ				
 suk	Sukuma		w				
 suk	Sukuma		l				
 suk	Sukuma		j				
@@ -18204,7 +18204,7 @@ ncr	Nchane		˧
 							
 nfu	Mfumte		p				nfu.pdf
 nfu	Mfumte		b				
-nfu	Mfumte		bʰ				
+nfu	Mfumte		bʱ				
 nfu	Mfumte		t				
 nfu	Mfumte		d				
 nfu	Mfumte		k				
@@ -19684,7 +19684,7 @@ yas	Nugunu		˨
 nza	Mbembe		p		[p]		Eyoh_nza.pdf
 nza	Mbembe		p		[pʰ]		
 nza	Mbembe		b		[b]		
-nza	Mbembe		b		[bʰ]		
+nza	Mbembe		b		[bʱ]		
 nza	Mbembe		t				
 nza	Mbembe		d				
 nza	Mbembe		k				
