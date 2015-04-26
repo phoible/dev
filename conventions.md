@@ -75,6 +75,7 @@ All 'affricated' trills and clicks are marked with the non-IPA diacritic <o͓> C
 
 UPSID-451 forces the distinction between sibilant and non-sibilant fricatives, so another non-IPA diacritic was selected. To mark 'non-sibilant' fricatives, we use the <o͇> COMBINING EQUALS SIGN BELOW (U+0347), e.g. 'r-fricative' is <z͇>.
 
+
 ### Glottalization
 
 Glottalization conventions include:
@@ -118,7 +119,7 @@ For diphthongs we use <i> or <u> and not <j> or <w> to indicate the glide compon
 
 ## Marginal phonemes
 
-Marginal phonemes are those that behave notably different phonologically than the majority of segments found in a particular language. Language contact factors contribute to marginal phonemes. For example, loanwords containing non-native sounds can introduce maringal phonemes into the borrowing language. There are varying degrees of 'marginal-ism'; see discussion in [x]. For PHOIBLE it would be ideal to create a ranking or vocabulary for varying degrees of marginal status  (perhaps along the line of 'anomalous' segments in UPSID [y]). To do so, we have collected any remarks about the marginality of segments as described in the resources from which we extracted inventories. However, since different authors use different descriptions of marginality, these have to be fit into some type of ranking. we propose adding this information in a future release of PHOIBLE. Currently we simply mark any type of phoneme described as marginal or loan by an author of a language description by enclosing those segments in less-than and greater-than symbols < >. 
+Marginal phonemes are those that behave notably different phonologically than the majority of segments found in a particular language. Language contact factors contribute to marginal phonemes. For example, loanwords containing non-native sounds can introduce maringal phonemes into the borrowing language. There are varying degrees of 'marginal-ism'; see discussion in [1]. For PHOIBLE it would be ideal to create a ranking or vocabulary for varying degrees of marginal status  (perhaps along the line of 'anomalous' segments in UPSID [y]). To do so, we have collected any remarks about the marginality of segments as described in the resources from which we extracted inventories. However, since different authors use different descriptions of marginality, these have to be fit into some type of ranking. we propose adding this information in a future release of PHOIBLE. Currently we simply mark any type of phoneme described as marginal or loan by an author of a language description by enclosing those segments in less-than and greater-than symbols < >. 
 
 
 ## Allophones
@@ -126,7 +127,7 @@ Marginal phonemes are those that behave notably different phonologically than th
 Information about NA in the allophone column is now recorded on the wiki.
 
 
-## Decisions made regarding non-IPA characters
+## Non-IPA symbols
 
 ### Epiglottal diacritic
 
@@ -139,6 +140,4 @@ to denote epiglottal (E for epiglottal is easy to remember).
 
 # References
 
-[x] [\citet{JelaskaMachata2005}]
-
-\cite[170]{Maddieson1984}.
+[1] Zrinka Jelaska and Milvia Gulešć Machata. 2005. Prototypicality and the Concept Phoneme. Glossos 6.1-13.
