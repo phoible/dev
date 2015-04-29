@@ -335,6 +335,9 @@ saphon.data <- do.call(rbind, saphon.data)
 saphon.is.dialect <- stri_detect_fixed(saphon.data$LanguageCode, "_")
 saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, "_"),
                                    function(x) x[1])
+# handle entries that have two ISO codes
+saphon.data$LanguageCode <- sapply(stri_split_fixed(saphon.data$LanguageCode, " "),
+                                   function(x) x[1])
 # extract dialect information from LanguageName, if it exists
 saphon.has.parens <- stri_detect_fixed(saphon.data$LanguageName, "(")
 saphon.data$SpecificDialect <- sapply(stri_split_regex(saphon.data$LanguageName, "[()]"),
@@ -372,6 +375,8 @@ all.data$Phoneme <- factor(all.data$Phoneme)
 all.data <- markMarginal(all.data)
 # ASSIGN GLYPH IDs
 all.data$GlyphID <- assignGlyphID(all.data$Phoneme)
+# ASSIGN INVENTORY IDs
+all.data$InventoryID <- with(all.data, paste(LanguageCode, Source, sep="-"))
 
 
 # # # # # # # # # # # # # #
