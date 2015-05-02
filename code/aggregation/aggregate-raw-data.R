@@ -65,7 +65,7 @@ denormRenorm <- function(x) {
 
 ## mark marginal phonemes in a boolean column and remove <angle brackets>
 markMarginal <- function(x) {
-    x$Marginal <- stri_count_fixed(x$Phoneme, "<") > 0
+    x$Marginal <- stri_detect_fixed(x$Phoneme, "<")
     x$Phoneme <- stri_replace_all_fixed(x$Phoneme, replacement="", pattern="<")
     x$Phoneme <- stri_replace_all_fixed(x$Phoneme, replacement="", pattern=">")
     return(x)
@@ -230,10 +230,10 @@ gm.raw <- rbind(gm.afr.raw, gm.sea.raw)
 gm.data <- parseSparse(gm.raw, "gm", "FileNames")
 rm(gm.raw)
 
-## AA has blank lines between languages, but no gaps like in PH or SPA
+## AA has blank lines between languages, but no sparse columns like PH, GM
 ## AA lists marginal phonemes in angle brackets like this <h>
 aa.data <- read.delim(aa.path, na.strings="", blank.lines.skip=FALSE)
-## assign inventoryID
+## assign inventoryID (must use "startrows" method because no sparse columns)
 aa.data$InventoryID <- NA
 startrows <- c(1, which(is.na(aa.data$LanguageCode)) + 1)
 aa.data[startrows, "InventoryID"] <- seq_len(length(startrows))
@@ -264,6 +264,7 @@ spa.raw$Allophones <- spa.ipa$Phoneme[match(spa.raw$spaAllophoneDescription,
 spa.data <- parseSparse(spa.raw, "spa", "LanguageName")  # "spaPhoneNum", "spaDescription"
 spa.data <- spa.data[, c("LanguageCode", "LanguageName", "Phoneme", "Allophones", "Source")]
 rm(spa.raw, spa.ipa, spa.iso)
+## TODO: add inventory ID for SPA
 
 ## UPSID
 upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", quote="",
@@ -279,6 +280,7 @@ upsid.data <- within(upsid.data, {
     Phoneme <- denorm(Phoneme)
 })
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
+## TODO: add inventory ID for UPSID
 
 ## RAMASWAMI
 ra.raw <- read.delim(ra.path, na.strings="", quote="", as.is=TRUE, header=FALSE)
@@ -329,6 +331,7 @@ named.dialect <- saphon.is.dialect & !saphon.has.parens
 saphon.data$SpecificDialect[named.dialect] <- saphon.data$LanguageName[named.dialect]
 saphon.data$Source <- "saphon"
 rm(saphon.raw, saphon.ipa)
+## TODO: add inventory ID for SAPHON
 
 ## TODO: OCEANIA
 
