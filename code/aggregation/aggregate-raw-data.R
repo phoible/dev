@@ -144,10 +144,12 @@ collapseAllophones <- function(x, col) {
 }
 
 ## read "long and sparse" data format (PH, GM)
-parseSparse <- function(x, abbr, cols=NULL) {
-    ## create inventory IDs (sequential integers based on doculect)
-    x$InventoryID <- NA
-    x[!is.na(x$FileNames), "InventoryID"] <- seq_len(sum(!is.na(x$FileNames)))
+parseSparse <- function(x, abbr, cols=NULL, addID=FALSE) {
+    if (addID) {
+        ## create inventory IDs (sequential integers based on doculect)
+        x$InventoryID <- NA
+        x[!is.na(x$FileNames), "InventoryID"] <- seq_len(sum(!is.na(x$FileNames)))
+    }
     ## remove empty rows
     x <- x[!is.na(x$Phoneme),]
     ## fill in sparsity (this is harmless when not needed)
@@ -218,7 +220,7 @@ checkDuplicateFeatures <- function(df) {
 ## PH has only first cell filled in some columns
 ph.raw <- read.delim(ph.path, na.strings="")
 ph.data <- parseSparse(ph.raw, "ph", c("LanguageName", "SpecificDialect",
-                                       "Phoneme", "FileNames"))
+                                       "Phoneme", "FileNames"), addID=TRUE)
 rm(ph.raw)
 
 ## GM has dense lx.code, name, and dialect columns, but sparse FileNames column
@@ -227,7 +229,7 @@ gm.afr.raw <- read.delim(gm.afr.path, na.strings="", quote="",
 gm.sea.raw <- read.delim(gm.sea.path, na.strings="", quote="",
                          blank.lines.skip=FALSE)
 gm.raw <- rbind(gm.afr.raw, gm.sea.raw)
-gm.data <- parseSparse(gm.raw, "gm", "FileNames")
+gm.data <- parseSparse(gm.raw, "gm", "FileNames", addID=TRUE)
 rm(gm.raw)
 
 ## AA has blank lines between languages, but no sparse columns like PH, GM
@@ -255,16 +257,19 @@ aa.data$Source <- "aa"
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.iso <- read.delim(spa.iso.path, na.strings="", stringsAsFactors=FALSE, quote="")
 spa.raw <- read.delim(spa.path, na.strings="", stringsAsFactors=FALSE, quote="")
-spa.raw$LanguageName <- na.locf(spa.raw$LanguageName)
+spa.raw$InventoryID <- spaLangNum
+## is it OK to use spaLangNum as InventoryID instead of assigning new sequential ID?
+##spa.raw$InventoryID <- NA
+##spa.raw[!is.na(spa.raw$spaLangNum), "InventoryID"] <- seq_len(sum(!is.na(spa.raw$spaLangNum)))
 spa.raw <- merge(spa.raw, spa.iso, all.x=TRUE, sort=FALSE)
 spa.raw <- merge(spa.raw, spa.ipa[,c("spaDescription", "Phoneme")], all.x=TRUE,
                  sort=FALSE)
 spa.raw$Allophones <- spa.ipa$Phoneme[match(spa.raw$spaAllophoneDescription,
                                             spa.ipa$spaDescription)]
 spa.data <- parseSparse(spa.raw, "spa", "LanguageName")  # "spaPhoneNum", "spaDescription"
-spa.data <- spa.data[, c("LanguageCode", "LanguageName", "Phoneme", "Allophones", "Source")]
+spa.data <- spa.data[, c("LanguageCode", "LanguageName", "Phoneme", "Allophones",
+                         "Source", "InventoryID")]
 rm(spa.raw, spa.ipa, spa.iso)
-## TODO: add inventory ID for SPA
 
 ## UPSID
 upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", quote="",
@@ -279,8 +284,11 @@ upsid.data <- within(upsid.data, {
     Source <- "upsid"
     Phoneme <- denorm(Phoneme)
 })
+upsid.data$InventoryID <- upsidLangNum
+## is it OK to use upsidLangNum as InventoryID instead of assigning new sequential ID?
+##upsid.data$InventoryID <- NA
+##upsid.data[!is.na(upsid.data$upsidLangNum), "InventoryID"] <- seq_len(sum(!is.na(upsid.data$upsidLangNum)))
 rm(upsid.ipa, upsid.segments, upsid.language.codes)
-## TODO: add inventory ID for UPSID
 
 ## RAMASWAMI
 ra.raw <- read.delim(ra.path, na.strings="", quote="", as.is=TRUE, header=FALSE)
