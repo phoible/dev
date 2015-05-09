@@ -5,7 +5,6 @@
 ## which is then written out to the root directory of the repository.
 
 library(zoo)      # provides function na.locf (last observ. carry forward)
-library(plyr)     # provides function rbind.fill
 library(stringi)  # for proper string handling & (de)normalization
 
 ## ## ## ##
@@ -43,14 +42,11 @@ spa.iso.path <- file.path(data.dir, "SPA", "SPA_LangNamesCodes.tsv")
 upsid.segments.path <- file.path(data.dir, "UPSID", "UPSID_Segments.tsv")
 upsid.language.codes.path <- file.path(data.dir, "UPSID", "UPSID_LanguageCodes.tsv")
 upsid.ipa.path <- file.path(data.dir, "UPSID", "UPSID_IPA_correspondences.tsv")
-ra.path <- file.path(data.dir, "RA", "Ramaswami1999.csv")
+ra.path <- file.path(data.dir, "RA", "Ramaswami1999.tsv")
 gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
 saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
-paths.list <- c(features.path, ph.path, aa.path, spa.path, spa.ipa.path, spa.iso.path,
-                upsid.segments.path, upsid.language.codes.path, upsid.ipa.path,
-                ra.path, gm.afr.path, gm.sea.path, saphon.path, saphon.ipa.path)
 
 ## ## ## ## ## ##
 ##  FUNCTIONS  ##
@@ -417,7 +413,8 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 ## clean up
 if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjuncts,
-                             list=data.sources.list)
+                             ph.data, aa.data, spa.data, upsid.data, ra.data,
+                             gm.data, saphon.data)
 
 
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
@@ -444,6 +441,9 @@ save(final.data, file=output.rdata)
 write.table(final.data, file=output.fname, sep="\t", eol="\n",
             row.names=FALSE, quote=FALSE, fileEncoding="UTF-8")
 ## clean up
-if (clear.intermed.files) rm(list=paths.list)
+if (clear.intermed.files) rm(features.path, ph.path, aa.path, spa.path,
+                             spa.ipa.path, spa.iso.path, upsid.segments.path,
+                             upsid.language.codes.path, upsid.ipa.path, ra.path,
+                             gm.afr.path, gm.sea.path, saphon.path, saphon.ipa.path)
 ## reset options
 options(stringsAsFactors=saf)
