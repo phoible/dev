@@ -130,7 +130,7 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     ## If anything looks odd, can examine interactively after the fact:
     ## load("phoible-phoneme-level.RData")  # loads "final.data"
     ## with(final.data, Phoneme[nchar(Phoneme) > 7])
-    ## wth(final.data, Allophones[nchar(Allophones) > 11])
+    ## with(final.data, Allophones[nchar(Allophones) > 11])
     ## (7 and 11 are reasonable cutoffs based on table values, edit as needed)
     cat("\nTable of codepoints per phoneme (", source.id, "):", sep="")
     print(table(nchar(df$Phoneme)))
