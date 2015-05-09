@@ -31,7 +31,7 @@ trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
 apply.trump <- FALSE
 
 ## do you want to clean up intermediate files when finished? (FALSE for debugging)
-clear.intermed.files <- TRUE
+clear.intermed.files <- FALSE
 
 ## SOURCE DATA FILE PATHS
 features.path <- file.path(data.dir, "FEATURES", "phoible-segments-features.tsv")
