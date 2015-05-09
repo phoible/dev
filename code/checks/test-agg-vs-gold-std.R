@@ -110,20 +110,7 @@ phoneme.mismatches <- t(sapply(in.eith, function(i)
                                               collapse=" "))))
 ## get rid of null mismatches
 nonnull.mismatch.indices <- apply(phoneme.mismatches[,2:3], 1, paste, collapse="") != ""
-# multilang.null.mismatch.indices <- apply(phoneme.mismatches, 1, function(i)
-#     length(i$ID) > 1 & nchar(paste0(i$agg, collapse="")) == 0 &
-#         nchar(paste0(i$gold, collapse="")) == 0)
-# multilang.legit.mismatch.indices <- apply(phoneme.mismatches, 1, function(i)
-#     length(i$ID) > 1 & (nchar(paste0(i$agg, collapse="")) > 0 |
-#         nchar(paste0(i$gold, collapse="")) > 0))
-# ph.mis <- phoneme.mismatches[nonnull.mismatch.indices &
-#                              !multilang.null.mismatch.indices &
-#                              !multilang.legit.mismatch.indices,]
-ph.mis <- phoneme.mismatches[nonnull.mismatch.indices,]
-# ph.ml.mis <- phoneme.mismatches[multilang.legit.mismatch.indices,]
-# ph.ml.mis <- apply(ph.ml.mis, 1, as.data.frame)
-# ph.ml.mis <- do.call(rbind, ph.ml.mis)
-# ph.all.mis <- rbind(as.data.frame(ph.mis), ph.ml.mis)
+phoneme.mismatches <- phoneme.mismatches[nonnull.mismatch.indices,]
 ## write out results
-write.table(ph.mis, file.path(root.dir, "agg-vs-gold-mismatches.tsv"), sep="\t",
-            row.names=TRUE)
+write.table(phoneme.mismatches, file.path(root.dir, "agg-vs-gold-mismatches.tsv"),
+            sep="\t", row.names=TRUE)
