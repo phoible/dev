@@ -117,8 +117,6 @@ parseSparse <- function (df, id.col, split.col=NULL, fill.cols=NULL) {
 }
 
 ## helper function to clean up processed input data
-## TODO: add to cleanUp function a check on string length for phonemes / allophones
-## (throw warnings for very long strings)
 cleanUp <- function (df, source.id, output.cols=NULL) {
     ## mark marginal phonemes
     if (!"Marginal" %in% colnames(df)) df <- markMarginal(df)
@@ -129,6 +127,16 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     }
     ## add missing columns
     for (col in output.cols) if (!col %in% colnames(df)) df[[col]] <- NA
+    ## check phoneme and allophone string length for possible invalid data.
+    ## If anything looks odd, can examine interactively after the fact:
+    ## load("phoible-phoneme-level.RData")  # loads "final.data"
+    ## with(final.data, Phoneme[nchar(Phoneme) > 7])
+    ## wth(final.data, Allophones[nchar(Allophones) > 11])
+    ## (7 and 11 are reasonable cutoffs based on table values, edit as needed)
+    cat("\nTable of codepoints per phoneme (", source.id, "):", sep="")
+    print(table(nchar(df$Phoneme)))
+    cat("\nTable of codepoints per allophone (", source.id, ") :", sep="")
+    print(table(nchar(df$Allophones)))
     ## collapse allophones
     df <- collapseAllophones(df)
     ## assign source ID
