@@ -107,7 +107,7 @@ fillCells <- function (df, cols) {
 }
 
 ## helper function to parse long-and-sparse type source data
-parseSparse <- function (df, id.col, split.col=NULL, fill.cols=NULL, skip.blank=TRUE) {
+parseSparse <- function (df, id.col, split.col=NULL, fill.cols=NULL) {
     ## assign integer ID
     df <- assignIntegerID(df, id.col)
     ## fill sparse columns
@@ -255,7 +255,7 @@ spa.iso <- read.delim(spa.iso.path, na.strings="", quote="")
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", quote="")
 spa.ipa <- spa.ipa[c("spaDescription", "Phoneme")]
 ## assign integer ID and fill sparsities
-spa.data <- parseSparse(spa.raw, id.col="spaLangNum", skip.blank=FALSE,
+spa.data <- parseSparse(spa.raw, id.col="spaLangNum",
                         fill.cols=c("spaLangNum", "LanguageName", "spaDescription"))
 ## Overwrite integer ID with spaLangNum; it's already a unique (and meaningful) integer
 spa.data$InventoryID <- spa.data$spaLangNum
