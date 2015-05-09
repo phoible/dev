@@ -30,6 +30,9 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
 apply.trump <- FALSE
 
+## do you want to clean up intermediate files when finished? (FALSE for debugging)
+clear.intermed.files <- TRUE
+
 ## SOURCE DATA FILE PATHS
 features.path <- file.path(data.dir, "FEATURES", "phoible-segments-features.tsv")
 ph.path <- file.path(data.dir, "PH", "phoible_inventories.tsv")
@@ -38,8 +41,6 @@ spa.path <- file.path(data.dir, "SPA", "SPA_Phones.tsv")
 spa.ipa.path <- file.path(data.dir, "SPA", "SPA_IPA_correspondences.tsv")
 spa.iso.path <- file.path(data.dir, "SPA", "SPA_LangNamesCodes.tsv")
 upsid.segments.path <- file.path(data.dir, "UPSID", "UPSID_Segments.tsv")
-upsid.character.codes.path <- file.path(data.dir, "UPSID", "UPSID_CharCodes.tsv")
-upsid.languages.path <- file.path(data.dir, "UPSID", "UPSID_Languages.tsv")
 upsid.language.codes.path <- file.path(data.dir, "UPSID", "UPSID_LanguageCodes.tsv")
 upsid.ipa.path <- file.path(data.dir, "UPSID", "UPSID_IPA_correspondences.tsv")
 ra.path <- file.path(data.dir, "RA", "Ramaswami1999.csv")
@@ -47,7 +48,9 @@ gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
 saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
-
+paths.list <- c(features.path, ph.path, aa.path, spa.path, spa.ipa.path, spa.iso.path,
+                upsid.segments.path, upsid.language.codes.path, upsid.ipa.path,
+                ra.path, gm.afr.path, gm.sea.path, saphon.path, saphon.ipa.path)
 
 ## ## ## ## ## ##
 ##  FUNCTIONS  ##
@@ -224,7 +227,7 @@ ph.data <- parseSparse(ph.raw, id.col="FileNames",
                                    "SpecificDialect", "FileNames"))
 ## clean up
 ph.data <- cleanUp(ph.data, "ph")
-rm(ph.raw)
+if (clear.intermed.files) rm(ph.raw)
 
 ## GM has dense lx.code, name, and dialect columns, but sparse FileNames column.
 ## Only column guaranteed unique for each inventory is FileNames.
@@ -236,7 +239,7 @@ gm.raw <- rbind(gm.afr.raw, gm.sea.raw)
 gm.data <- parseSparse(gm.raw, id.col="FileNames", fill.cols="FileNames")
 ## clean up
 gm.data <- cleanUp(gm.data, "gm")
-rm(gm.raw)
+if (clear.intermed.files) rm(gm.raw)
 
 ## AA has blank lines between languages, but no sparse columns like PH, GM. Thus
 ## we need to delimit inventories based on the blank lines.
@@ -254,7 +257,7 @@ aa.raw$LanguageName <- ifelse(name.has.parens,
                                       function (x) x[1]), aa.raw$LanguageName)
 ## clean up
 aa.data <- cleanUp(aa.raw, "aa")
-rm(aa.raw)
+if (clear.intermed.files) rm(aa.raw)
 
 ## SPA has sparse columns: spaLangNum, LanguageName, spaPhoneNum, spaDescription
 ## but no blank lines between inventories.
@@ -277,7 +280,7 @@ spa.data$Allophones <- spa.ipa$Phoneme[match(spa.data$spaAllophoneDescription,
 spa.data$Marginal <- NA
 ## clean up
 spa.data <- cleanUp(spa.data, "spa")
-rm(spa.raw, spa.ipa, spa.iso)
+if (clear.intermed.files) rm(spa.raw, spa.ipa, spa.iso)
 
 ## UPSID has database-like tables, so we basically just merge things
 upsid.language.codes <- read.delim(upsid.language.codes.path, na.strings="", quote="")
@@ -292,7 +295,7 @@ upsid.data$InventoryID <- upsid.data$upsidLangNum
 upsid.data$Marginal <- as.logical(upsid.data$anomalous)
 ## clean up
 upsid.data <- cleanUp(upsid.data, "upsid")
-rm(upsid.ipa, upsid.segments, upsid.language.codes)
+if (clear.intermed.files) rm(upsid.ipa, upsid.segments, upsid.language.codes)
 
 ## RAMASWAMI is a wide-format data source: 1 row per language, phonemes as
 ## column headers, with boolean presence/absence indicators in the cells.
@@ -307,7 +310,7 @@ ra.data <- do.call(rbind, ra.data)
 ra.data$Marginal <- NA
 ## clean up
 ra.data <- cleanUp(ra.data, "ra")
-rm(ra.raw)
+if (clear.intermed.files) rm(ra.raw)
 
 ## SAPHON is a wide-format data source: 1 row per language, phonemes as
 ## column headers, with boolean presence indicators in the cells (absence = "").
@@ -353,7 +356,7 @@ saphon.data$SpecificDialect[named.dialect] <- saphon.data$LanguageName[named.dia
 saphon.data$Marginal <- NA
 ## clean up
 saphon.data <- cleanUp(saphon.data, "saphon")
-rm(saphon.raw, saphon.ipa)
+if (clear.intermed.files) rm(saphon.raw, saphon.ipa)
 
 
 ## ## ## ## ## ## ## ## ##
@@ -412,6 +415,9 @@ upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
     output
 }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
+## clean up
+if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjuncts,
+                             list=data.sources.list)
 
 
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
@@ -424,7 +430,7 @@ if(apply.trump) {
                            c("Source", "SpecificDialect", "LanguageName"))
     all.data <- do.call(rbind, reduced.data)
     rownames(all.data) <- NULL
-    rm(reduced.data)
+    if (clear.intermed.files) rm(split.data, reduced.data)
 }
 
 
@@ -437,5 +443,7 @@ save(final.data, file=output.rdata)
 ## tab-delimited
 write.table(final.data, file=output.fname, sep="\t", eol="\n",
             row.names=FALSE, quote=FALSE, fileEncoding="UTF-8")
+## clean up
+if (clear.intermed.files) rm(list=paths.list)
 ## reset options
 options(stringsAsFactors=saf)
