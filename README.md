@@ -3,6 +3,8 @@ PHOIBLE is a database of phonological inventories and distinctive features, enco
 
 Data in machine-readable form is available in this repository. It is not guaranteed to exactly match what is published at [PHOIBLE Online](http://phoible.org), due to the occasional discovery and correction of errors, and the addition of new languages to the database. For this reason, **it is recommended that you make use of the most recent dated release** in your own analyses, rather than working from the tip of the master branch.
 
+Documentation for PHOIBLE is hosted at at http://phoible.github.io/, including notational conventions, departures from official IPA usage, citation information, etc.
+
 ## How to use this repository
 Most people will not need to look beyond the root of this repository, which contains a phoneme-level data file (one row per language-phoneme pair), a language-level data file (one row per language, with various language-level aggregations like “total consonants” or “total segments”), and a BibTeX file of all the data sources. The `code` directory contains scripts used in the development and testing of PHOIBLE, such as code to aggregate the raw data files from the various donor databases. These are probably not of general interest or utility. The `data` directory contains the *raw* data from the various donor data sources, as well as the feature mapping tables. This is also probably not what you want, so if in doubt, stick to the root directory.
 
