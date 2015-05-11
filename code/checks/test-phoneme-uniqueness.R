@@ -5,7 +5,7 @@
 
 root.dir <- file.path("..", "..")
 load(file.path(root.dir, "phoible-phoneme-level.RData"))  # "final.data"
-by.iso <- split(final.data, final.data$LanguageCode)
+by.id <- split(final.data, final.data$InventoryID)
 
 checkUniqueness <- function(inventory) {
     length(unique(inventory$GlyphID)) < length(inventory$GlyphID)
@@ -24,10 +24,10 @@ showDiscrepancy <- function(inventory) {
     names(discrepants[discrepants])
 }
 
-result <- sapply(by.iso, checkUniqueness)
-sources <- sapply(by.iso, showSources)
-discrepancy <- sapply(by.iso, countDiscrepancy)
-discrepants <- sapply(by.iso, showDiscrepancy)
+result <- sapply(by.id, checkUniqueness)
+sources <- sapply(by.id, showSources)
+discrepancy <- sapply(by.id, countDiscrepancy)
+discrepants <- sapply(by.id, showDiscrepancy)
 
 sink(file.path(root.dir, "test-phoneme-uniqueness-results.txt"))
 cat("If all languages have fully unique phoneme inventories,",
