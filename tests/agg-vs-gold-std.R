@@ -1,14 +1,20 @@
 #! /usr/bin/env Rscript
 
+## This script tests the generated aggregated data file against the last data
+## dump from the SQL version of PHOIBLE.
+
 library(stringi)
 
-root.dir <- file.path("..", "..")
+## set global options (restored at end)
+saf <- getOption("stringsAsFactors")
+options(stringsAsFactors=FALSE)
 
-load(file.path(root.dir, "phoible-phoneme-level.RData"))  # final.data
-gold.standard <- read.delim(file.path(root.dir, "phoible-phonemes.tsv"))
-
-agg.langs <- unique(final.data$LanguageCode)
-gs.langs <- unique(gold.standard$LanguageCode)
+## I/O
+root.dir <- file.path("..")
+results.dir <- file.path(root.dir, "results")
+out.file <- file.path(results.dir, "agg-vs-gold-mismatches.tsv")
+load(file.path(root.dir, "data", "phoible-phoneme-level.RData"))  # final.data
+gold.standard <- read.delim(file.path(root.dir, "gold-standard", "phoible-phonemes.tsv"))
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # DENORMALIZE AND THEN RE-NORMALIZE UNICODE STRINGS #
@@ -16,6 +22,10 @@ gs.langs <- unique(gold.standard$LanguageCode)
 denormRenorm <- function(x) {
     s <- stri_trans_general(stri_trans_general(x, "Any-NFD"), "Any-NFC")
 }
+
+## which languages are we dealing with?
+agg.langs <- unique(final.data$LanguageCode)
+gs.langs <- unique(gold.standard$LanguageCode)
 
 # # # # # # # # # # # # # # # # # # # # # # # #
 # languages in agg-final not in Gold Standard #
@@ -112,5 +122,7 @@ phoneme.mismatches <- t(sapply(in.eith, function(i)
 nonnull.mismatch.indices <- apply(phoneme.mismatches[,2:3], 1, paste, collapse="") != ""
 phoneme.mismatches <- phoneme.mismatches[nonnull.mismatch.indices,]
 ## write out results
-write.table(phoneme.mismatches, file.path(root.dir, "agg-vs-gold-mismatches.tsv"),
-            sep="\t", row.names=TRUE)
+write.table(phoneme.mismatches, out.file, sep="\t", row.names=TRUE)
+
+## reset options
+options(stringsAsFactors=saf)

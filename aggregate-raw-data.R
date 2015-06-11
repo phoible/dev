@@ -19,10 +19,12 @@ options(stringsAsFactors=FALSE)
 root.dir <- file.path(".")
 data.dir <- file.path(root.dir, "raw-data")
 output.dir <- file.path(root.dir, "data")
+results.dir <- file.path(root.dir, "results")
 mapping.dir <- file.path(root.dir, "mappings")
 ## output filenames
 output.fname <- file.path(output.dir, "phoible-by-phoneme.tsv")
 output.rdata <- file.path(output.dir, "phoible-by-phoneme.RData")
+output.log <- file.path(results.dir, "failed-invID-lookups.txt")
 
 ## WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
@@ -193,7 +195,7 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     ## remove blank lines
     df <- df[!is.na(df$Phoneme), output.cols]
     ## lookup proper InventoryID
-    sink("failed-invID-lookups.txt", append=TRUE)
+    sink(output.log, append=TRUE)
     df <- lookupInventoryID(df)
     sink()
     df

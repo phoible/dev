@@ -1,7 +1,7 @@
 #! /usr/bin/env Rscript
 
-# This script tests to make sure that each ISO code in the aggregated data file
-# has fully unique phoneme entries (i.e., no duplicate records).
+## This script tests to make sure that each ISO code in the aggregated data file
+## has fully unique phoneme entries (i.e., no duplicate records).
 
 root.dir <- file.path("..", "..")
 load(file.path(root.dir, "phoible-phoneme-level.RData"))  # "final.data"
@@ -38,8 +38,3 @@ cat(paste(names(result[result]), sources[result], discrepancy[result],
           lapply(discrepants[result], paste, collapse=" "),
           sep="\t", collapse="\n"))
 sink()
-
-
-#foo <- final.data[final.data$LanguageCode %in% 'aha',]
-#showDiscrepancy(foo)
-

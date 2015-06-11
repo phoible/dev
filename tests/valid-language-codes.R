@@ -10,14 +10,15 @@
 ## Full list of retired codes:
 ## http://www-01.sil.org/iso639-3/codes_retired.asp
 
-## set global options (to be restored at end)
+## set global options (restored at end)
 saf <- getOption("stringsAsFactors")
 options(stringsAsFactors=FALSE)
 
 ## file I/O
-root.dir <- file.path("..", "..")
-in.file  <- file.path(root.dir, "phoible-phoneme-level.RData")
-out.file <- file.path(root.dir, "bad-iso-codes.tsv")
+root.dir <- file.path("..")
+results.dir <- file.path(root.dir, "results")
+in.file  <- file.path(root.dir, "data", "phoible-phoneme-level.RData")
+out.file <- file.path(results.dir, "bad-iso-codes.tsv")
 
 ## URLs
 iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
