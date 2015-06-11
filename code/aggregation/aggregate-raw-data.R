@@ -188,7 +188,7 @@ removeDuplicateLangs <- function(df, cols) {
             df <- df[df[[col]] == min(df[[col]]),]
         }
     }
-    x
+    df
 }
 
 ## check for duplicate features
