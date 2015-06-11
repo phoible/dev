@@ -7,18 +7,22 @@
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(stringi)  # for proper string handling & (de)normalization
 
+
 ## ## ## ##
 ## SETUP ##
 ## ## ## ##
+
 ## set global options (to be restored at end)
 saf <- getOption("stringsAsFactors")
 options(stringsAsFactors=FALSE)
 ## file paths
-root.dir <- file.path("..", "..")
-data.dir <- file.path(root.dir, "data")
+root.dir <- file.path(".")
+data.dir <- file.path(root.dir, "raw-data")
+output.dir <- file.path(root.dir, "data")
+mapping.dir <- file.path(root.dir, "mappings")
 ## output filenames
-output.fname <- file.path(root.dir, "phoible-phoneme-level.tsv")
-output.rdata <- file.path(root.dir, "phoible-phoneme-level.RData")
+output.fname <- file.path(output.dir, "phoible-by-phoneme.tsv")
+output.rdata <- file.path(output.dir, "phoible-by-phoneme.RData")
 
 ## WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
@@ -47,6 +51,8 @@ gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
 saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
+mapping.path <- file.path(mapping.dir, "InventoryID-ISO-gcode-Bibkey-Source.tsv")
+
 
 ## ## ## ## ## ##
 ##  FUNCTIONS  ##
@@ -64,12 +70,55 @@ assignGlyphID <- function (phones) {
     ids <- stri_replace_first_fixed(ids, replacement="", pattern = "+")
 }
 
-## assign integer ID
+## assign temporary integer ID
 assignIntegerID <- function (df, col) {
     df$InventoryID <- NA
     df$InventoryID[!is.na(df[[col]])] <- seq_len(sum(!is.na(df[[col]])))
     df$InventoryID <- na.locf(df$InventoryID)
     df
+}
+
+## lookup InventoryID
+lookupInventoryID <- function(df) {
+    ## split on inventories
+    sp <- split(df, df$InventoryID)
+    sp <- lapply(seq_len(length(sp)), function(i) {
+        invt <- sp[[i]]
+        lx <- unique(invt$LanguageCode)
+        src <- unique(invt$Source)
+        bib <- substr(unique(invt$FileNames), 1, nchar(unique(invt$FileNames)) - 4)
+        candidates <- unique(mapping[with(mapping, Source %in% src &
+                                              LanguageCode %in% lx),
+                                     "InventoryID"])
+        if (length(candidates) == 1) {
+            ## assign correct inventoryID if found
+            invt$InventoryID <- candidates
+        } else if (!is.na(bib)) {
+            ## if not, see if the bibkey resolves ambiguity
+            candidates <- unique(mapping[with(mapping, Source %in% src &
+                                                  LanguageCode %in% lx &
+                                                  BibtexKey %in% bib),
+                                         "InventoryID"])
+            if (length(candidates) == 1) {
+                ## if bibkey worked, assign correct InventoryID
+                invt$InventoryID <- candidates
+            } else {
+                ## assign unique negative number
+                invt$InventoryID <- 0 - i
+                cat(c(paste(src, lx, bib, paste(candidates, collapse=" "),
+                              collapse=" ")))
+                cat("\n")
+            }
+        } else {
+            ## assign unique negative number
+            invt$InventoryID <- 0 - i
+            cat(c(paste(src, lx, bib, paste(candidates, collapse=" "),
+                          collapse=" ")))
+            cat("\n")
+        }
+        invt
+    })
+    df <- unsplit(sp, df$InventoryID)
 }
 
 ## remove brackets
@@ -122,7 +171,8 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     ## output columns
     if (is.null(output.cols)) {
         output.cols <- c("Phoneme", "Allophones", "Marginal", "InventoryID",
-                         "Source", "LanguageCode", "LanguageName", "SpecificDialect")
+                         "Source", "LanguageCode", "LanguageName",
+                         "SpecificDialect", "FileNames")  # Bibkey
     }
     ## add missing columns
     for (col in output.cols) if (!col %in% colnames(df)) df[[col]] <- NA
@@ -142,6 +192,11 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     df$Source <- source.id
     ## remove blank lines
     df <- df[!is.na(df$Phoneme), output.cols]
+    ## lookup proper InventoryID
+    sink("failed-invID-lookups.txt", append=TRUE)
+    df <- lookupInventoryID(df)
+    sink()
+    df
 }
 
 ## collapse allophones to a single cell (make data one phoneme per row)
@@ -211,9 +266,14 @@ checkDuplicateFeatures <- function(df) {
     df
 }
 
+
 ## ## ## ## ## ##
 ##  LOAD DATA  ##
 ## ## ## ## ## ##
+
+## load InventoryID lookup table
+mapping <- read.delim(mapping.path)
+
 ## PH has only first cell filled in several columns.
 ## Only column guaranteed unique for each inventory is FileNames
 ph.raw <- read.delim(ph.path, na.strings="", blank.lines.skip=TRUE)
