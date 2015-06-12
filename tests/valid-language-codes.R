@@ -1,8 +1,8 @@
 #! /usr/bin/env Rscript
 
 ## This script checks that the phoible language codes are valid ISO 639-3 codes.
-## The output goes into the root folder. Note that bad codes can be easily looked up
-## using the following URL patterns (replace XXX with desired code):
+## The output goes into the root folder. Note that bad codes can be easily
+## looked up using the following URL patterns (replace XXX with desired code):
 ## Main ethnologue entry:
 ## http://www.ethnologue.com/language/XXX
 ## ISO 639-3 change history for code:
@@ -17,7 +17,7 @@ options(stringsAsFactors=FALSE)
 ## file I/O
 root.dir <- file.path("..")
 results.dir <- file.path(root.dir, "results")
-in.file  <- file.path(root.dir, "data", "phoible-phoneme-level.RData")
+in.file  <- file.path(root.dir, "data", "phoible-by-phoneme.RData")
 out.file <- file.path(results.dir, "bad-iso-codes.tsv")
 
 ## URLs

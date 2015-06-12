@@ -13,7 +13,7 @@ options(stringsAsFactors=FALSE)
 root.dir <- file.path("..")
 results.dir <- file.path(root.dir, "results")
 out.file <- file.path(results.dir, "agg-vs-gold-mismatches.tsv")
-load(file.path(root.dir, "data", "phoible-phoneme-level.RData"))  # final.data
+load(file.path(root.dir, "data", "phoible-by-phoneme.RData"))  # final.data
 gold.standard <- read.delim(file.path(root.dir, "gold-standard", "phoible-phonemes.tsv"))
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # #

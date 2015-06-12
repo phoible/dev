@@ -7,8 +7,11 @@
 # the same phonemes, this would lead to language xxx having two entries for each
 # of its phonemes.
 
-root.dir <- file.path("..", "..")
-load(file.path(root.dir, "phoible-phoneme-level.RData"))  # "final.data"
+root.dir <- file.path("..")
+data.dir <- file.path(root.dir, "data")
+results.dir <- file.path(root.dir, "results")
+results.file <- file.path(results.dir, "trump-reduction-results.txt")
+load(file.path(data.dir, "phoible-by-phoneme.RData"))  # "final.data"
 by.iso <- split(final.data, final.data$LanguageCode)
 
 checkTrump <- function(inventory) {
@@ -17,8 +20,10 @@ checkTrump <- function(inventory) {
 
 result <- sapply(by.iso, checkTrump)
 
-sink("test-trump-reduction-results.txt")
-cat("If trump reduction succeeded, the result should be 'character(0)'.\n")
-cat("Otherwise, the ISO codes of problematic languages will appear below.\n\n")
+sink(results.file)
+cat("Run this script on a file that has undergone trump reduction. If trump",
+	"reduction succeeded, the result should be 'character(0)' and nothing will",
+	"appear below this paragraph. Otherwise, the ISO codes of problematic",
+	"languages will appear below.\n\n")
 print(names(result[result]))
 sink()
