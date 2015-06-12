@@ -2,7 +2,7 @@
 
 ## This script reads in the raw data files from various tertiary sources, and
 ## aggregates them into a single R data.frame object called "all.data",
-## which is then written out to the root directory of the repository.
+## which is then written out to the data directory.
 
 library(zoo)      # provides function na.locf (last observ. carry forward)
 library(stringi)  # for proper string handling & (de)normalization
@@ -35,7 +35,7 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
 apply.trump <- FALSE
 
-## do you want to clean up intermediate files when finished? (FALSE for debugging)
+## clean up intermediate files when finished? (FALSE for debugging)
 clear.intermed.files <- TRUE
 
 ## SOURCE DATA FILE PATHS
@@ -72,7 +72,7 @@ assignGlyphID <- function (phones) {
     ids <- stri_replace_first_fixed(ids, replacement="", pattern = "+")
 }
 
-## assign temporary integer ID
+## assign temporary integer ID to inventories
 assignIntegerID <- function (df, col) {
     df$InventoryID <- NA
     df$InventoryID[!is.na(df[[col]])] <- seq_len(sum(!is.na(df[[col]])))
@@ -80,7 +80,7 @@ assignIntegerID <- function (df, col) {
     df
 }
 
-## lookup InventoryID
+## lookup InventoryID from mapping table
 lookupInventoryID <- function(df) {
     ## split on inventories
     sp <- split(df, df$InventoryID)
@@ -88,7 +88,10 @@ lookupInventoryID <- function(df) {
         invt <- sp[[i]]
         lx <- unique(invt$LanguageCode)
         src <- unique(invt$Source)
-        bib <- substr(unique(invt$FileNames), 1, nchar(unique(invt$FileNames)) - 4)
+        bib <- substr(unique(invt$FileNames), 1, 
+                      nchar(unique(invt$FileNames)) - 4)
+        ## don't include the BibtexKey the first time; missing from some data
+        ## sources (e.g., AA) and causes those to fail
         candidates <- unique(mapping[with(mapping, Source %in% src &
                                               LanguageCode %in% lx),
                                      "InventoryID"])
@@ -157,11 +160,10 @@ fillCells <- function (df, cols) {
 }
 
 ## helper function to parse long-and-sparse type source data
-parseSparse <- function (df, id.col, split.col=NULL, fill.cols=NULL) {
+parseSparse <- function (df, id.col, split.col="InventoryID", fill.cols=NULL) {
     ## assign integer ID
     df <- assignIntegerID(df, id.col)
     ## fill sparse columns
-    if(is.null(split.col)) split.col <- "InventoryID"
     df.split <- split(df, df[[split.col]])
     df <- unsplit(lapply(df.split, fillCells, fill.cols), df[[split.col]])
 }
@@ -180,7 +182,7 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     for (col in output.cols) if (!col %in% colnames(df)) df[[col]] <- NA
     ## check phoneme and allophone string length for possible invalid data.
     ## If anything looks odd, can examine interactively after the fact:
-    ## load("phoible-phoneme-level.RData")  # loads "final.data"
+    ## load("phoible-by-phoneme.RData")  # loads "final.data"
     ## with(final.data, Phoneme[nchar(Phoneme) > 7])
     ## with(final.data, Allophones[nchar(Allophones) > 11])
     ## (7 and 11 are reasonable cutoffs based on table values, edit as needed)
@@ -299,8 +301,9 @@ gm.data <- parseSparse(gm.raw, id.col="FileNames", fill.cols="FileNames")
 gm.data <- cleanUp(gm.data, "gm")
 if (clear.intermed.files) rm(gm.raw)
 
-## AA has blank lines between languages, but no sparse columns like PH, GM. Thus
-## we need to delimit inventories based on the blank lines.
+## AA has blank lines between languages, but no sparse columns like PH, GM.
+## There are no guaranteed unique columns, thus we need to delimit inventories
+## based on the blank lines.
 aa.raw <- read.delim(aa.path, na.strings="", blank.lines.skip=FALSE)
 startrows <- c(1, which(is.na(aa.raw$LanguageCode)) + 1)
 aa.raw$InventoryID <- NA
@@ -311,8 +314,8 @@ aa.raw$InventoryID <- na.locf(aa.raw$InventoryID)
 name.has.parens <- stri_detect_fixed(aa.raw$LanguageName, "(")
 aa.raw$SpecificDialect <- ifelse(name.has.parens, aa.raw$LanguageName, NA)
 aa.raw$LanguageName <- ifelse(name.has.parens,
-                               sapply(stri_split_fixed(aa.raw$LanguageName, " ("),
-                                      function (x) x[1]), aa.raw$LanguageName)
+                              sapply(stri_split_fixed(aa.raw$LanguageName, " ("),
+                                     function (x) x[1]), aa.raw$LanguageName)
 ## clean up
 aa.data <- cleanUp(aa.raw, "aa")
 if (clear.intermed.files) rm(aa.raw)
@@ -323,11 +326,9 @@ spa.raw <- read.delim(spa.path, na.strings="", quote="")
 spa.iso <- read.delim(spa.iso.path, na.strings="", quote="")
 spa.ipa <- read.delim(spa.ipa.path, na.strings="", quote="")
 spa.ipa <- spa.ipa[c("spaDescription", "Phoneme")]
-## assign integer ID and fill sparsities
+## assign temporary integer ID and fill sparsities
 spa.data <- parseSparse(spa.raw, id.col="spaLangNum",
                         fill.cols=c("spaLangNum", "LanguageName", "spaDescription"))
-## Overwrite integer ID with spaLangNum; it's already a unique (and meaningful) integer
-spa.data$InventoryID <- spa.data$spaLangNum
 ## Merge in ISO codes and IPA representation of phonemes and allophones
 spa.data <- merge(spa.data, spa.iso, all.x=TRUE, sort=FALSE)
 spa.data <- merge(spa.data, spa.ipa, all.x=TRUE, sort=FALSE)
@@ -380,7 +381,7 @@ saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
 saphon.raw <- read.delim(saphon.path, na.strings="", quote="", as.is=TRUE,
                          header=FALSE, row.names=NULL)
 saphon.starting.row <- 3
-saphon.phoneme.cols <- 17:341  # 342 is boolean "tone", 343 is boolean "nasal harmony"
+saphon.phoneme.cols <- 17:341  # column 342: +/- tone, 343: +/- nasal harmony
 ## collect the list of possible phonemes and convert to IPA
 saphon.phones <- as.vector(t(saphon.raw[1, saphon.phoneme.cols]))
 saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
@@ -425,8 +426,6 @@ data.sources.list <- list(ph.data, aa.data, spa.data, upsid.data,
                           ra.data, gm.data, saphon.data)
 all.data <- do.call(rbind, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, Source, InventoryID)),]
-## uniqueify inventory IDs across data sources
-all.data$InventoryID <- with(all.data, paste(LanguageCode, Source, InventoryID, sep="-"))
 ## make sure all tiebars are removed (should already be cleaned from source)
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͡")
 all.data$Phoneme <- stri_replace_all_fixed(all.data$Phoneme, replacement="", pattern="͜")
