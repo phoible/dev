@@ -1,10 +1,12 @@
 #! /usr/bin/env Rscript
 
-# This script tests to make sure that each ISO code in the aggregated data file
-# has fully unique phoneme entries (i.e., no duplicate records).
+## This script tests to make sure that each ISO code in the aggregated data file
+## has fully unique phoneme entries (i.e., no duplicate records).
 
-root.dir <- file.path("..", "..")
-load(file.path(root.dir, "phoible-phoneme-level.RData"))  # "final.data"
+root.dir <- file.path("..")
+results.dir <- file.path(root.dir, "results")
+results.file <- file.path(results.dir, "phoneme-uniqueness-results.txt")
+load(file.path(root.dir, "data", "phoible-by-phoneme.RData"))  # "final.data"
 by.id <- split(final.data, final.data$InventoryID)
 
 checkUniqueness <- function(inventory) {
@@ -29,17 +31,12 @@ sources <- sapply(by.id, showSources)
 discrepancy <- sapply(by.id, countDiscrepancy)
 discrepants <- sapply(by.id, showDiscrepancy)
 
-sink(file.path(root.dir, "test-phoneme-uniqueness-results.txt"))
+sink(results.file)
 cat("If all languages have fully unique phoneme inventories,",
-    "there should be nothing below this paragraph.\nOtherwise, the ISO codes of",
-    "problematic languages will appear below, along with the number of",
+    "there should be nothing below this paragraph.\nOtherwise, the ISO codes",
+    "of problematic languages will appear below, along with the number of",
     "duplicates, and finally a list of the duplicates.\n\n")
 cat(paste(names(result[result]), sources[result], discrepancy[result],
           lapply(discrepants[result], paste, collapse=" "),
           sep="\t", collapse="\n"))
 sink()
-
-
-#foo <- final.data[final.data$LanguageCode %in% 'aha',]
-#showDiscrepancy(foo)
-
