@@ -2069,7 +2069,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 1395	afr	afri1274	1395_afr	gm
 1396	agj	argo1244	1396_hertzon	gm
 1397	har	hara1271	1397_hertzon	gm
-1398	din		1398_din	gm
+1398	din	dink1262	1398_din	gm
 1399	nzi	nzim1238	1399_tano	gm
 1400	aha	ahan1243	1400_tano	gm
 1401	hna	mina1276	1401_hna	gm
@@ -2617,7 +2617,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 1904	emp	nort2972	1904_Hoyosbenitez2000	saphon
 1905	sja	epen1239	1905_Harms1984	saphon
 1905	sja	epen1239	1905_Harms1994	saphon
-1906	gny		1906_Adelaar2004	saphon
+1906	pue	puel1244	1906_Adelaar2004	saphon
 1907	ona	onaa1245	1907_Viegas2005	saphon
 1908	teh	tehu1242	1908_Adelaaretal2004	saphon
 1909	cod	coca1259	1909_Vallejos2010	saphon
@@ -2698,7 +2698,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 1967	mbl	maxa1247	1967_Pereira1992	saphon
 1968	opy	ofay1240	1968_Oliveira2006	saphon
 1969	kre	pana1307	1969_Dourado2001	saphon
-1970	gvp		1970_Ferreira2003	saphon
+1970	gvp	para1315	1970_Ferreira2003	saphon
 1971	prr	puri1262	1971_Neto2007	saphon
 1972	rkb	rikb1245	1972_Silva2005	saphon
 1973	suy	suya1243	1973_Guedes1993	saphon
@@ -2732,7 +2732,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 1996	wmd	mama1278	1996_Eberhard2009	saphon
 1997	sae	saba1268	1997_Antunesdearaujo2004	saphon
 1998	amc	amah1246	1998_Osborn1948	saphon
-1999	mcd		1999_Desouza2012	saphon
+1999	mcd	shar1245	1999_Desouza2012	saphon
 2000	kaq	capa1241	2000_Elias-Ulloa2009	saphon
 2001	cbr	cash1251	2001_Zariquiey2011	saphon
 2002	cao	chac1251	2002_Prost1967	saphon
@@ -2907,7 +2907,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 2141	zro	zapa1253	2141_Wise2005	saphon
 2142	nhd	chir1286	2142_Costa2003	saphon
 2142	nhd	chir1286	2142_Costa2007	saphon
-2143	tuo		2143_Gonzalezdeperez2000	saphon
+2143	tuo	pisa1245	2143_Gonzalezdeperez2000	saphon
 2144	alc	qawa1238	2144_Viegas2005	saphon
 2145	ayr	cent2142	2145_Buettner1983	saphon
 2146	wca	yano1262	2146_FerreiraNULL	saphon
@@ -2916,7 +2916,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 2148	xsu	sanu1240	2148_FerreiraNULL	saphon
 2149	guu	yano1261	2149_FerreiraNULL	saphon
 2149	guu	yano1261	2149_Ramirez1994a	saphon
-2150	yrm		2150_FerreiraNULL	saphon
+2150	wca	yaro1235	2150_FerreiraNULL	saphon
 2151	guu	yano1261	2151_FerreiraNULL	saphon
 2151	guu	yano1261	2151_Lizot1996	saphon
 2152	pcp	paca1246	2152_Tallman2012	saphon
