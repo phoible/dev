@@ -48,6 +48,9 @@ trump.group <- "LanguageCode"
 ## machine locale, but we don't currently have a better way of specifying trump
 ## order for dialects of the same language that come from the same data source.
 trump.tiebreaker <- c("Source", "SpecificDialect")
+if (any(!trump.tiebreaker %in% output.fields)) warning("column \"", col, 
+                                                       "\" in trump.tiebreaker",
+                                                       " not found.")
 
 ## clean up intermediate files when finished? (FALSE for debugging)
 clear.intermed.files <- FALSE
@@ -200,10 +203,14 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     ## with(final.data, Phoneme[nchar(Phoneme) > 7])
     ## with(final.data, Allophones[nchar(Allophones) > 11])
     ## (7 and 11 are reasonable cutoffs based on table values, edit as needed)
-    cat("\nTable of codepoints per phoneme (", source.id, "):", sep="")
-    print(table(nchar(df$Phoneme)))
-    cat("\nTable of codepoints per allophone (", source.id, ") :", sep="")
-    print(table(nchar(df$Allophones)))
+    cat("\nTable of codepoints per phone (", source.id, "):\n", sep="")
+    tabs <- list(phonemes=table(nchar(df$Phoneme)),
+                 allophones=table(nchar(df$Allophones)))
+    tab <- do.call(rbind, lapply(lapply(tabs, unlist), "[",
+                                 unique(unlist(c(sapply(tabs, names))))))
+    tab[is.na(tab)] <- 0
+    colnames(tab) <- seq(ncol(tab))
+    print(tab)
     ## collapse allophones
     df <- collapseAllophones(df)
     ## assign source ID
@@ -483,18 +490,19 @@ if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjunct
 ## mark duplicate inventories using trump ordering ##
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
-split.trump <- lapply(split(all.data, all.data[[trump.group]]), function(df) {
+split.trump <- lapply(split(all.data[,trump.tiebreaker],
+                            all.data[[trump.group]]), function(df) {
     df$Trump <- TRUE
     for (col in trump.tiebreaker) {
-        if (!all(is.na(df[[col]]))) {
-          df$Trump <- df$Trump & (df[[col]] == min(df[[col]]))
-    }   }
+        if (all(is.na(df[df$Trump, col]))) { next }
+        df$Trump <- df$Trump & (df[[col]] == min(df[[col]], na.rm=TRUE) %in% TRUE)
+    }
     df
 })
-all.data <- unsplit(split.trump, all.data[[trump.group]])
+all.data$Trump <- unsplit(split.trump, all.data[[trump.group]])$Trump
 rownames(all.data) <- NULL
-if (clear.intermed.files) rm(split.data)
-                             
+if (clear.intermed.files) rm(split.trump)
+
 ## ## ## ## ## ## ## ## ## ## ##
 ## WRITE OUT AGGREGATED DATA  ##
 ## ## ## ## ## ## ## ## ## ## ##
