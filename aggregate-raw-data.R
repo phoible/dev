@@ -33,7 +33,21 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 ## TRUMP ORDERING (for choosing which entry to keep when there are multiple
 ## entries for a language). Preferred data sources come earlier in the list.
 trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
-apply.trump <- FALSE
+## Duplicate inventories will be marked as FALSE in the Trump column. The
+## variable "trump.group" is used to determine which inventories count as
+## potential duplicates for this purpose. "LanguageCode" (the default) means
+## that selecting all TRUE values in the Trump column will return exactly one
+## inventory for each unique LanguageCode.
+trump.group <- "LanguageCode"
+## The variable "trump.tiebreaker" is used to pick which inventory gets kept
+## within each "trump.group".  Selection is done with the min()
+## function, so it works well for the "Source" column (which is set up as an
+## ordered factor). We also pass "SpecificDialect" by default (which is a plain
+## character vector), in which case min() uses alphabetical order based on
+## locale. This is not ideal as it may yield different results depending on
+## machine locale, but we don't currently have a better way of specifying trump
+## order for dialects of the same language that come from the same data source.
+trump.tiebreaker <- c("Source", "SpecificDialect")
 
 ## clean up intermediate files when finished? (FALSE for debugging)
 clear.intermed.files <- TRUE
@@ -88,7 +102,7 @@ lookupInventoryID <- function(df) {
         invt <- sp[[i]]
         lx <- unique(invt$LanguageCode)
         src <- unique(invt$Source)
-        bib <- substr(unique(invt$FileNames), 1, 
+        bib <- substr(unique(invt$FileNames), 1,
                       nchar(unique(invt$FileNames)) - 4)
         ## don't include the BibtexKey the first time; missing from some data
         ## sources (e.g., AA) and causes those to fail
@@ -232,24 +246,6 @@ collapseAllophones <- function (df, split.col="InventoryID") {
     df
 }
 
-## remove duplicate languages (respecting trump order)
-removeDuplicateLangs <- function(df, cols) {
-    # cols should be a character vector. Selection is done with the min()
-    # function, so it works well for the "Source" column (which is set up as an
-    # ordered factor). We also pass "SpecificDialect" (which is a plain
-    # character vector) as a tiebreaker, in which case min() uses alphabetical
-    # order based on locale. This is not ideal as it may yield different results
-    # on different machines, but we don't currently have a way of specifying
-    # trump order for dialects of the same language that come from the same
-    # data source.
-    for (col in cols) {
-        if(length(unique(df[[col]])) > 1) {
-            df <- df[df[[col]] == min(df[[col]]),]
-        }
-    }
-    df
-}
-
 ## check for duplicate features
 checkDuplicateFeatures <- function(df) {
     dups <- df$segment[duplicated(df$segment)]
@@ -258,14 +254,18 @@ checkDuplicateFeatures <- function(df) {
             dup.frame <- df[df$segment %in% dup,]
             for (rnum in nrow(dups) - 1) {
                 test <- identical(dup.frame[rnum,], dup.frame[rnum + 1,])
-                if (!test) stop("There are duplicated entries in the feature ",
-                                "table that have differing feature vectors.")
+                if (!test) {
+                    print(dup.frame$segment)
+                    stop("There are duplicated entries in the feature ",
+                         "table that have differing feature vectors.")
+                }
             }
         }
-        df <- df[!duplicated(df$segment),]
         warning("There are duplicated entries in the feature table, but they ",
                 "all have identical feature vectors so I'm just deleting the ",
                 "duplicate rows before merging with the language data.")
+        print(df[duplicated(df$segment), "segment"])
+        df <- df[!duplicated(df$segment),]
     }
     df
 }
@@ -479,18 +479,18 @@ if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjunct
 
 
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
-## filter duplicate languages using trump ordering ##
+## mark duplicate inventories using trump ordering ##
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
-if(apply.trump) {
-    all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
-    split.data <- split(all.data, all.data$LanguageCode)
-    reduced.data <- lapply(split.data, removeDuplicateLangs,
-                           c("Source", "SpecificDialect", "LanguageName"))
-    all.data <- do.call(rbind, reduced.data)
-    rownames(all.data) <- NULL
-    if (clear.intermed.files) rm(split.data, reduced.data)
-}
-
+all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
+split.data <- lapply(split(all.data, all.data[[trump.group]]), function(df) {
+    df$Trump <- rep(TRUE, nrow(df))
+    for (col in trump.tiebreaker) {
+        df$Trump <- df[[col]] == min(df[[col]]) & df$Trump
+    }
+    df
+})
+all.data <- unsplit(split.data, all.data[[trump.group]])
+rownames(all.data) <- NULL
 
 ## ## ## ## ## ## ## ## ## ## ##
 ## WRITE OUT AGGREGATED DATA  ##
