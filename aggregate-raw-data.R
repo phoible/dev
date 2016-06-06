@@ -50,7 +50,7 @@ trump.group <- "LanguageCode"
 trump.tiebreaker <- c("Source", "SpecificDialect")
 
 ## clean up intermediate files when finished? (FALSE for debugging)
-clear.intermed.files <- TRUE
+clear.intermed.files <- FALSE
 
 ## SOURCE DATA FILE PATHS
 features.path <- file.path(data.dir, "FEATURES", "phoible-segments-features.tsv")
@@ -255,16 +255,17 @@ checkDuplicateFeatures <- function(df) {
             for (rnum in nrow(dups) - 1) {
                 test <- identical(dup.frame[rnum,], dup.frame[rnum + 1,])
                 if (!test) {
-                    print(dup.frame$segment)
                     stop("There are duplicated entries in the feature ",
-                         "table that have differing feature vectors.")
+                         "table that have differing feature vectors (namely: ",
+                         dup.frame$segment, " ).")
                 }
             }
         }
         warning("There are duplicated entries in the feature table, but they ",
                 "all have identical feature vectors so I'm just deleting the ",
-                "duplicate rows before merging with the language data.")
-        print(df[duplicated(df$segment), "segment"])
+                "duplicate rows before merging with the language data. The ",
+                "duplicated segment(s) are: ", 
+                df[duplicated(df$segment), "segment"])
         df <- df[!duplicated(df$segment),]
     }
     df
@@ -482,16 +483,18 @@ if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjunct
 ## mark duplicate inventories using trump ordering ##
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
-split.data <- lapply(split(all.data, all.data[[trump.group]]), function(df) {
-    df$Trump <- rep(TRUE, nrow(df))
+split.trump <- lapply(split(all.data, all.data[[trump.group]]), function(df) {
+    df$Trump <- TRUE
     for (col in trump.tiebreaker) {
-        df$Trump <- df[[col]] == min(df[[col]]) & df$Trump
-    }
+        if (!all(is.na(df[[col]]))) {
+          df$Trump <- df$Trump & (df[[col]] == min(df[[col]]))
+    }   }
     df
 })
-all.data <- unsplit(split.data, all.data[[trump.group]])
+all.data <- unsplit(split.trump, all.data[[trump.group]])
 rownames(all.data) <- NULL
-
+if (clear.intermed.files) rm(split.data)
+                             
 ## ## ## ## ## ## ## ## ## ## ##
 ## WRITE OUT AGGREGATED DATA  ##
 ## ## ## ## ## ## ## ## ## ## ##

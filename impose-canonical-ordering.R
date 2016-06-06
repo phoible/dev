@@ -20,6 +20,8 @@ codepoints <- function(strings) {
 }
 
 ## FUNCTION: check for duplicate features
+## TODO: this is a straight copy-paste from the aggregation script.
+## should be DRY.
 checkDuplicateFeatures <- function(df) {
     dups <- df$segment[duplicated(df$segment)]
     if (length(dups)) {
