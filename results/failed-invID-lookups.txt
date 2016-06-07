@@ -2336,3 +2336,1824 @@ saphon yrm NA
 saphon guu NA 2135 2149 2151
 saphon yup NA 2153 2154
 saphon yup NA 2153 2154
+gm fub adamawa_taylor1953  gm NA adamawa_taylor1953 
+gm any agni_ahua2004_s  gm NA agni_ahua2004_s 
+gm any agni_ahua2004_s  gm NA agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o  gm NA fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o  gm NA fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology  gm NA Herington_etal2009-TanagriPhonology 
+gm ksf kpa  gm NA kpa 
+gm lmp limbum_bah2004_o  gm NA limbum_bah2004_o 
+gm lmp limbum_bah2004_o  gm NA limbum_bah2004_o 
+gm lmp limbum_bah2004_o  gm NA limbum_bah2004_o 
+gm ndo western-savanna  gm NA western-savanna 
+gm any any  gm NA any 
+gm fuv fuv  gm NA fuv 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm kcp kadugli_krongo  gm NA kadugli_krongo 
+gm kcp kadugli_krongo  gm NA kadugli_krongo 
+gm xtc kadugli_krongo  gm NA kadugli_krongo 
+gm xtc kadugli_krongo  gm NA kadugli_krongo 
+gm xtc kadugli_krongo  gm NA kadugli_krongo 
+gm ksf ksf  gm NA ksf 
+gm gru gunan_gurage  gm NA gunan_gurage 
+gm gru gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm ior gunan_gurage  gm NA gunan_gurage 
+gm ior gunan_gurage  gm NA gunan_gurage 
+gm ior gunan_gurage  gm NA gunan_gurage 
+gm bcq gimira  gm NA gimira 
+gm bcq bench  gm NA bench 
+gm ndo wambo  gm NA wambo 
+gm ndo wambo  gm NA wambo 
+gm ndo wambo  gm NA wambo 
+gm bqz manenguba  gm NA manenguba 
+gm bqz manenguba  gm NA manenguba 
+gm bqz manenguba  gm NA manenguba 
+gm mbo manenguba  gm NA manenguba 
+gm mbo manenguba  gm NA manenguba 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm sef sef_tangari  gm NA sef_tangari 
+aa ajg NA 651 652 aa NA NA 651 652
+aa ajg NA 651 652 aa NA NA 651 652
+aa NA NA 
+aa bfl NA 665 666 aa NA NA 665 666
+aa bfl NA 665 666 aa NA NA 665 666
+aa eza NA  aa NA NA 
+aa NA NA 
+aa gej NA 721 722 aa NA NA 721 722
+aa gej NA 721 722 aa NA NA 721 722
+aa hau NA 729 730 aa NA NA 729 730
+aa hau NA 729 730 aa NA NA 729 730
+aa iqw NA  aa NA NA 
+aa izz NA  aa NA NA 
+aa xsm NA 745 746 aa NA NA 745 746
+aa xsm NA 745 746 aa NA NA 745 746
+aa NA NA 
+aa NA NA 
+aa NA NA 
+aa sag NA 813 814 aa NA NA 813 814
+aa NA NA 
+aa NA NA 
+aa sag NA 813 814 aa NA NA 813 814
+aa sld NA 817 818 aa NA NA 817 818
+aa sld NA 817 818 aa NA NA 817 818
+aa snk NA 820 821 aa NA NA 820 821
+aa snk NA 820 821 aa NA NA 820 821
+aa NA NA 
+aa yor NA 847 848 aa NA NA 847 848
+aa yor NA 847 848 aa NA NA 847 848
+aa NA NA 
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953  gm NA adamawa_taylor1953 
+gm any agni_ahua2004_s  gm NA agni_ahua2004_s 
+gm any agni_ahua2004_s  gm NA agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o  gm NA fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o  gm NA fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology  gm NA Herington_etal2009-TanagriPhonology 
+gm ksf kpa  gm NA kpa 
+gm lmp limbum_bah2004_o  gm NA limbum_bah2004_o 
+gm lmp limbum_bah2004_o  gm NA limbum_bah2004_o 
+gm lmp limbum_bah2004_o  gm NA limbum_bah2004_o 
+gm ndo western-savanna  gm NA western-savanna 
+gm any any  gm NA any 
+gm fuv fuv  gm NA fuv 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm gwn gwn  gm NA gwn 
+gm kcp kadugli_krongo  gm NA kadugli_krongo 
+gm kcp kadugli_krongo  gm NA kadugli_krongo 
+gm xtc kadugli_krongo  gm NA kadugli_krongo 
+gm xtc kadugli_krongo  gm NA kadugli_krongo 
+gm xtc kadugli_krongo  gm NA kadugli_krongo 
+gm ksf ksf  gm NA ksf 
+gm gru gunan_gurage  gm NA gunan_gurage 
+gm gru gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm sgw gunan_gurage  gm NA gunan_gurage 
+gm ior gunan_gurage  gm NA gunan_gurage 
+gm ior gunan_gurage  gm NA gunan_gurage 
+gm ior gunan_gurage  gm NA gunan_gurage 
+gm bcq gimira  gm NA gimira 
+gm bcq bench  gm NA bench 
+gm ndo wambo  gm NA wambo 
+gm ndo wambo  gm NA wambo 
+gm ndo wambo  gm NA wambo 
+gm bqz manenguba  gm NA manenguba 
+gm bqz manenguba  gm NA manenguba 
+gm bqz manenguba  gm NA manenguba 
+gm mbo manenguba  gm NA manenguba 
+gm mbo manenguba  gm NA manenguba 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm nyf mijikenda  gm NA mijikenda 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm bva Lovestrand_bva  gm NA Lovestrand_bva 
+gm sef sef_tangari  gm NA sef_tangari 
+aa ajg NA 651 652 aa NA NA 651 652
+aa ajg NA 651 652 aa NA NA 651 652
+aa NA NA 
+aa bfl NA 665 666 aa NA NA 665 666
+aa bfl NA 665 666 aa NA NA 665 666
+aa eza NA  aa NA NA 
+aa NA NA 
+aa gej NA 721 722 aa NA NA 721 722
+aa gej NA 721 722 aa NA NA 721 722
+aa hau NA 729 730 aa NA NA 729 730
+aa hau NA 729 730 aa NA NA 729 730
+aa iqw NA  aa NA NA 
+aa izz NA  aa NA NA 
+aa xsm NA 745 746 aa NA NA 745 746
+aa xsm NA 745 746 aa NA NA 745 746
+aa NA NA 
+aa NA NA 
+aa NA NA 
+aa sag NA 813 814 aa NA NA 813 814
+aa NA NA 
+aa NA NA 
+aa sag NA 813 814 aa NA NA 813 814
+aa sld NA 817 818 aa NA NA 817 818
+aa sld NA 817 818 aa NA NA 817 818
+aa snk NA 820 821 aa NA NA 820 821
+aa snk NA 820 821 aa NA NA 820 821
+aa NA NA 
+aa yor NA 847 848 aa NA NA 847 848
+aa yor NA 847 848 aa NA NA 847 848
+aa NA NA 
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
+gm fub adamawa_taylor1953 
+gm any agni_ahua2004_s 
+gm any agni_ahua2004_s 
+gm fub fulfulde_bickoe2000_o 
+gm fuv fulfulde_mcintosh1984_o 
+gm sef Herington_etal2009-TanagriPhonology 
+gm ksf kpa 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm lmp limbum_bah2004_o 
+gm ndo western-savanna 
+gm any any 
+gm fuv fuv 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm gwn gwn 
+gm kcp kadugli_krongo 
+gm kcp kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm xtc kadugli_krongo 
+gm ksf ksf 
+gm gru gunan_gurage 
+gm gru gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm sgw gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm ior gunan_gurage 
+gm bcq gimira 
+gm bcq bench 
+gm ndo wambo 
+gm ndo wambo 
+gm ndo wambo 
+gm bqz manenguba 
+gm bqz manenguba 
+gm bqz manenguba 
+gm mbo manenguba 
+gm mbo manenguba 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm nyf mijikenda 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm bva Lovestrand_bva 
+gm sef sef_tangari 
+aa ajg NA 651 652
+aa ajg NA 651 652
+aa bfl NA 665 666
+aa bfl NA 665 666
+aa eza NA 
+aa gej NA 721 722
+aa gej NA 721 722
+aa hau NA 729 730
+aa hau NA 729 730
+aa iqw NA 
+aa izz NA 
+aa xsm NA 745 746
+aa xsm NA 745 746
+aa sag NA 813 814
+aa sag NA 813 814
+aa sld NA 817 818
+aa sld NA 817 818
+aa snk NA 820 821
+aa snk NA 820 821
+aa yor NA 847 848
+aa yor NA 847 848
+spa bbc NA 
+spa jqr NA 
+spa azj NA 
+spa ykg NA 
+upsid gqu NA 
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+ra iru NA 1730 1737
+ra iru NA 1730 1737
+ra lmn NA 1710 1757
+ra unr NA 1713 1770
+saphon alc NA 1801 2144
+saphon bwi NA 1811 1812
+saphon bwi NA 1811 1812
+saphon jaa NA 1846 1847
+saphon jaa NA 1846 1847
+saphon ayr NA 1851 2145
+saphon boa NA 1857 1858
+saphon boa NA 1857 1858
+saphon bkq NA 1865 1866
+saphon bkq NA 1865 1866
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon car NA 1867 1868 1869
+saphon aoc NA 1881 1882
+saphon aoc NA 1881 1882
+saphon tob NA 1918 1919
+saphon tob NA 1918 1919
+saphon gvp NA 1958 1970
+saphon gvp NA 1958 1970
+saphon suy NA 1973 1974
+saphon suy NA 1973 1974
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon cas NA 1986 1987 1988
+saphon mcd NA 1999 2014
+saphon mcd NA 1999 2014
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon qvn NA 2030 2031 2037
+saphon ese NA 2046 2047
+saphon ese NA 2046 2047
+saphon tuo NA 2064 2143
+saphon gui NA 2077 2078
+saphon gui NA 2077 2078
+saphon oym NA 2111 2112
+saphon oym NA 2111 2112
+saphon xsu NA 2133 2148
+saphon wca NA 2134 2146 2147 2150
+saphon guu NA 2135 2149 2151
+saphon tuo NA 2064 2143
+saphon alc NA 1801 2144
+saphon ayr NA 1851 2145
+saphon wca NA 2134 2146 2147 2150
+saphon wca NA 2134 2146 2147 2150
+saphon xsu NA 2133 2148
+saphon guu NA 2135 2149 2151
+saphon yrm NA 
+saphon guu NA 2135 2149 2151
+saphon yup NA 2153 2154
+saphon yup NA 2153 2154
