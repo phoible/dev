@@ -2081,7 +2081,7 @@ mfo	mbe		a
 mfo	mbe		u		[u]
 mfo	mbe		u		[y]
 mfo	mbe		o		[o]
-mfo	mbe		o		[ʊ̃]
+mfo	mbe		o		[ɷ̃]
 mfo	mbe		ɔ
 mfo	mbe		˦
 mfo	mbe		˨
@@ -3943,7 +3943,7 @@ bun	Sherbro		s		[ʃ]	before [i]
 bun	Sherbro		z
 bun	Sherbro		ʃ
 bun	Sherbro		h		[h]
-bun	Sherbro		h		[ⁿh]	when followed by a nasal vowel, [h] is often prenasalized
+bun	Sherbro		h		[ᵑh]	when followed by a nasal, [h] is prenasalized
 bun	Sherbro		j
 bun	Sherbro		i		[i]
 bun	Sherbro		i		[ɨ]
@@ -11052,13 +11052,13 @@ bsc	Basari		ŋ		[ŋʷ]
 bsc	Basari		ŋ		[ŋ̥]	ŋ̥ is lenis
 bsc	Basari		ŋ		[ŋ̩]
 bsc	Basari		h
-bsc	Basari		i		[i]	
-bsc	Basari		i		[ĩ]	
-bsc	Basari		i		[ɨ]	
-bsc	Basari		i		[i͓]	i͓ is a fricative vowel. Previously used Bruce Connell's notation (z‿i)
-bsc	Basari		i		[ɪ]	
-bsc	Basari		i		[i̞]	
-bsc	Basari		i		[iː]	
+bsc	Basari		i		[i]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		i		[ĩ]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		i		[ɨ]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		i		[z‿i]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		i		[ɪ]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		i		[i̞]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		i		[iː]	z‿i is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
 bsc	Basari		e		[e]
 bsc	Basari		e		[ẽ]
 bsc	Basari		e		[eː]
@@ -11068,12 +11068,12 @@ bsc	Basari		a		[aː]
 bsc	Basari		a		[ɛ]
 bsc	Basari		a		[ʌ]
 bsc	Basari		a		[æ]
-bsc	Basari		u		[u]	
-bsc	Basari		u		[ũ]	
-bsc	Basari		u		[uː]	
-bsc	Basari		u		[u͓]	u͓ is a fricative vowel.  Previously used Bruce Connell's notation (v‿u)
-bsc	Basari		u		[ɨ]	
-bsc	Basari		u		[ʊ]	
+bsc	Basari		u		[u]	v‿u is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		u		[ũ]	v‿u is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		u		[uː]	v‿u is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		u		[v‿u]	v‿u is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		u		[ɨ]	v‿u is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
+bsc	Basari		u		[ʊ]	v‿u is a fricative vowel, no standard convention.  Adopted Bruce Connell's notation
 bsc	Basari		o		[o]
 bsc	Basari		o		[õ]
 bsc	Basari		o		[oː]
@@ -14084,8 +14084,8 @@ abu	Abure		s
 abu	Abure		h
 abu	Abure		˦		[˦]
 abu	Abure		˨		[˨]
-abu	Abure		˦˨		
-abu	Abure		˨˦		
+abu	Abure		˦		[M+]	raised mid
+abu	Abure		˨		[M-]	lowered mid
 
 abb	Bankon		˨˦				abb.pdf
 abb	Bankon		˦˨
@@ -21379,8 +21379,8 @@ tbr	Talasa		˦
 tbr	Talasa		˨
 tbr	Talasa		i		[ɯ]	followinɡ a hiɡh back vowel
 tbr	Talasa		iː		[ɯː]	followinɡ a hiɡh back vowel
-tbr	Talasa		ɪ		[ʊ̜]	followinɡ a hiɡh back vowel
-tbr	Talasa		ɪː		[ʊ̜ː]	followinɡ a hiɡh back vowel
+tbr	Talasa		ɪ		[ɷ]	followinɡ a hiɡh back vowel
+tbr	Talasa		ɪː		[ɷː]	followinɡ a hiɡh back vowel
 tbr	Talasa		e		[ɤ]	followinɡ a hiɡh back vowel
 tbr	Talasa		eː		[ɤː]	followinɡ a hiɡh back vowel
 tbr	Talasa		a		[ʌ]	followinɡ a hiɡh back vowel
