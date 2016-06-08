@@ -455,11 +455,10 @@ gm.data <- parseSparse(gm.raw, id.col="FileNames", fill.cols="FileNames")
 gm.data <- cleanUp(gm.data, "gm")
 if (clear.intermed.files) rm(gm.raw)
 
-## AA has blank lines between languages, but no sparse columns like PH, GM.
-## There are no guaranteed unique columns, thus we need to delimit inventories
-## based on the blank lines.
-aa.raw <- read.delim(aa.path, na.strings="", blank.lines.skip=FALSE)
-startrows <- c(1, which(is.na(aa.raw$LanguageCode)) + 1)
+## AA has blank lines between languages; InventoryID is sparse and unique; all
+## other columns are dense.
+aa.raw <- read.delim(aa.path, na.strings="", blank.lines.skip=TRUE)
+aa.raw$InventoryID <- zoo::na.locf(aa.raw$InventoryID)
 ## If the "LanguageName" column has parenthetical info, copy language name to
 ## "SpecificDialect" and remove parenthetical from "LanguageName"
 name.has.parens <- stri_detect_fixed(aa.raw$LanguageName, "(")
@@ -527,6 +526,7 @@ if (clear.intermed.files) rm(ra.raw)
 ## and quotes, and convert delimiters from comma to tab (several cells had
 ## internal commas). Future releases of SAPHON may break this code.
 saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
+saphon.ipa$IPA <- orderIPA(saphon.ipa$IPA)
 saphon.raw <- read.delim(saphon.path, na.strings="", quote="", as.is=TRUE,
                          header=FALSE, row.names=NULL)
 saphon.starting.row <- 3
@@ -534,6 +534,7 @@ saphon.phoneme.cols <- 18:342  # column 343: +/- tone, 344: +/- nasal harmony
 ## collect the list of possible phonemes and convert to IPA
 saphon.phones <- as.vector(t(saphon.raw[1, saphon.phoneme.cols]))
 saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
+saphon.phones <- orderIPA(saphon.phones)
 ## fill in empty cells with 0
 saphon.raw[is.na(saphon.raw)] <- "0"
 ## for each language, extract inventoryID, name, ISO code, and phonemes 

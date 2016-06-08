@@ -652,7 +652,6 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bav	babungo (grassfields bantu, ring)	nzʷ	nzʷ
 	bav	babungo (grassfields bantu, ring)	n̠d̠ʒʷ	nʤʷ
 
-
 662	bfd	bafut	˦	˦	[˦]	H
 	bfd	bafut	˦	˦	[↓˦]	H
 	bfd	bafut	˨	˨
@@ -2780,7 +2779,6 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fub	fulfulde (Cameroon)	uː	uː			verified in Taylor 1953
 	fub	fulfulde (Cameroon)	oː	oː			verified in Taylor 1953
 	fub	fulfulde (Cameroon)	aː	aː			verified in Taylor 1953
-
 
 713	fuq	fulfulde (Niger)	p	p
 	fuq	fulfulde (Niger)	b	b
