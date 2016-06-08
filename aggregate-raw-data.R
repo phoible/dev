@@ -75,8 +75,8 @@ gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
 saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
-mapping.path <- file.path(mapping.dir, "InventoryID-ISO-gcode-Bibkey-Source.tsv")
-
+## TODO: uncomment when ready to merge in Glottolog codes.
+# mapping.path <- file.path(mapping.dir, "InventoryID-ISO-gcode-Bibkey-Source.tsv")
 
 ## ## ## ## ## ##
 ##  FUNCTIONS  ##
@@ -106,60 +106,6 @@ assignGlyphID <- function (phones) {
     ids <- stri_trans_general(phones, "Any-Hex/Unicode")
     ids <- stri_replace_all_fixed(ids, replacement="", pattern = "U")
     ids <- stri_replace_first_fixed(ids, replacement="", pattern = "+")
-}
-
-## FUNCTION: assign temporary integer ID to inventories
-assignIntegerID <- function (df, col) {
-    df$InventoryID <- NA
-    df$InventoryID[!is.na(df[[col]])] <- seq_len(sum(!is.na(df[[col]])))
-    df$InventoryID <- zoo::na.locf(df$InventoryID)
-    df
-}
-
-## FUNCTION: lookup InventoryID from mapping table
-lookupInventoryID <- function(df) {
-    ## split on inventories
-    sp <- split(df, df$InventoryID)
-    sp <- lapply(seq_len(length(sp)), function(i) {
-        invt <- sp[[i]]
-        lx <- unique(invt$LanguageCode)
-        src <- unique(invt$Source)
-        bib <- substr(unique(invt$FileNames), 1,
-                      nchar(unique(invt$FileNames)) - 4)
-        ## don't include the BibtexKey the first time; missing from some data
-        ## sources (e.g., AA) and causes those to fail
-        candidates <- unique(mapping[with(mapping, Source %in% src &
-                                              LanguageCode %in% lx),
-                                     "InventoryID"])
-        if (length(candidates) == 1) {
-            ## assign correct inventoryID if found
-            invt$InventoryID <- candidates
-        } else if (!is.na(bib)) {
-            ## if not, see if the bibkey resolves ambiguity
-            candidates <- unique(mapping[with(mapping, Source %in% src &
-                                                  LanguageCode %in% lx &
-                                                  BibtexKey %in% bib),
-                                         "InventoryID"])
-            if (length(candidates) == 1) {
-                ## if bibkey worked, assign correct InventoryID
-                invt$InventoryID <- candidates
-            } else {
-                ## assign unique negative number
-                invt$InventoryID <- 0 - i
-                cat(c(paste(src, lx, bib, paste(candidates, collapse=" "),
-                            collapse=" ")))
-                cat("\n")
-            }
-        } else {
-            ## assign unique negative number
-            invt$InventoryID <- 0 - i
-            cat(c(paste(src, lx, bib, paste(candidates, collapse=" "),
-                        collapse=" ")))
-            cat("\n")
-        }
-        invt
-    })
-    df <- unsplit(sp, df$InventoryID)
 }
 
 ## FUNCTION: remove brackets
@@ -197,9 +143,7 @@ fillCells <- function (df, cols) {
 
 ## FUNCTION: helper to parse long-and-sparse type source data
 parseSparse <- function (df, id.col, split.col="InventoryID", fill.cols=NULL) {
-    ## assign integer ID
-    df <- assignIntegerID(df, id.col)
-    ## fill sparse columns
+    df$InventoryID <- zoo::na.locf(df$InventoryID)
     df.split <- split(df, df[[split.col]])
     df <- unsplit(lapply(df.split, fillCells, fill.cols), df[[split.col]])
 }
@@ -250,11 +194,6 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     df$Source <- source.id
     ## remove blank lines
     df <- df[!is.na(df$Phoneme), output.cols]
-    ## lookup proper InventoryID
-    sink(inventory.id.log, append=TRUE)
-    df <- lookupInventoryID(df)
-    sink()
-    df
 }
 
 ## FUNCTION: collapse allophones to a single cell (make data one phoneme per row)
@@ -341,7 +280,7 @@ orderIPA <- function(strings, lang=NA, source=NA) {
         "ˠ",  # velarized
         "ʲ",  # palatalized
         "ʷ",  # labialized
-        "ᶣ",  # labial-palatalized  # TODO: should use labial+palatal
+        "ᶣ",  # labial-palatalized  # TODO: should use labial+palatal?
         "ᵊ",  # schwa-like release # TODO: check what this really is
         "ʼ"  # ejective
     )
@@ -414,10 +353,9 @@ orderIPA <- function(strings, lang=NA, source=NA) {
     df <- data.frame(phone=strings, lang=lang, source=source)
     chars <- sapply(seq_len(nrow(df)), function(x) {
         i <- df[x, "phone"]
+        if (is.na(i)) return(NA)
         iso <- df[x, "lang"]
         src <- df[x, "source"]
-    #chars <- sapply(strings, function(i) {
-        if (is.na(i)) return(NA)
         chr <- strsplit(i, "")[[1]]
         typ <- codepoints(chr)
         typ[typ %in% codepoints("|")] <- "|"  # restore upsid disjuncts
@@ -492,16 +430,15 @@ orderIPA <- function(strings, lang=NA, source=NA) {
 ##  LOAD DATA  ##
 ## ## ## ## ## ##
 
-## load InventoryID lookup table
-mapping <- read.delim(mapping.path)
+## TODO: load Glottocode lookup table
+# mapping <- read.delim(mapping.path)
 
 ## PH has only first cell filled in several columns.
 ## Only column guaranteed unique for each inventory is FileNames
 ph.raw <- read.delim(ph.path, na.strings="", blank.lines.skip=TRUE)
-#ph.raw$Phoneme <- zoo::na.locf(ph.raw$Phoneme)
-ph.data <- parseSparse(ph.raw, id.col="FileNames",
-                       fill.cols=c("LanguageCode", "LanguageName", "Phoneme",
-                                   "SpecificDialect", "FileNames"))
+ph.data <- parseSparse(ph.raw, id.col="InventoryID",
+                       fill.cols=c("InventoryID", "LanguageCode", "LanguageName",
+                                   "Phoneme", "SpecificDialect", "FileNames"))
 ## clean up
 ph.data <- cleanUp(ph.data, "ph")
 if (clear.intermed.files) rm(ph.raw)
@@ -523,9 +460,6 @@ if (clear.intermed.files) rm(gm.raw)
 ## based on the blank lines.
 aa.raw <- read.delim(aa.path, na.strings="", blank.lines.skip=FALSE)
 startrows <- c(1, which(is.na(aa.raw$LanguageCode)) + 1)
-aa.raw$InventoryID <- NA
-aa.raw$InventoryID[startrows] <- seq_len(length(startrows))
-aa.raw$InventoryID <- zoo::na.locf(aa.raw$InventoryID)
 ## If the "LanguageName" column has parenthetical info, copy language name to
 ## "SpecificDialect" and remove parenthetical from "LanguageName"
 name.has.parens <- stri_detect_fixed(aa.raw$LanguageName, "(")
@@ -565,8 +499,6 @@ upsid.ipa <- read.delim(upsid.ipa.path, na.strings="", quote="")
 upsid.ipa <- upsid.ipa[c("upsidCCID", "Phoneme")]
 upsid.data <- merge(upsid.language.codes, upsid.segments, by="upsidLangNum")
 upsid.data <- merge(upsid.data, upsid.ipa, by="upsidCCID")
-## upsidLangNum is already a unique (and meaningful) integer
-upsid.data$InventoryID <- upsid.data$upsidLangNum
 ## add column for marginal phonemes
 upsid.data$Marginal <- as.logical(upsid.data$anomalous)
 ## clean up
@@ -578,8 +510,8 @@ if (clear.intermed.files) rm(upsid.ipa, upsid.segments, upsid.language.codes)
 ## There is an integer ID in the first column of the raw data.
 ra.raw <- read.delim(ra.path, na.strings="", quote="", as.is=TRUE, header=FALSE)
 ra.data <- apply(ra.raw[4:nrow(ra.raw),], 1, function (i)
-    data.frame(InventoryID=i[1], LanguageName=i[2], LanguageCode=i[3],
-               Phoneme=c(t(ra.raw[2, 4:length(i)][as.logical(as.numeric(i[4:length(i)]))])),
+    data.frame(InventoryID=i[1], LanguageName=i[3], LanguageCode=i[4],
+               Phoneme=c(t(ra.raw[2, 5:length(i)][as.logical(as.numeric(i[5:length(i)]))])),
                row.names=NULL))
 ra.data <- do.call(rbind, ra.data)
 ## RA does not indicate marginal phonemes; we denote this with NA
@@ -598,18 +530,18 @@ saphon.ipa <- read.delim(saphon.ipa.path, as.is=TRUE, header=TRUE)
 saphon.raw <- read.delim(saphon.path, na.strings="", quote="", as.is=TRUE,
                          header=FALSE, row.names=NULL)
 saphon.starting.row <- 3
-saphon.phoneme.cols <- 17:341  # column 342: +/- tone, 343: +/- nasal harmony
+saphon.phoneme.cols <- 18:342  # column 343: +/- tone, 344: +/- nasal harmony
 ## collect the list of possible phonemes and convert to IPA
 saphon.phones <- as.vector(t(saphon.raw[1, saphon.phoneme.cols]))
 saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
 ## fill in empty cells with 0
 saphon.raw[is.na(saphon.raw)] <- "0"
-## for each language, extract name, ISO code, and phonemes with a "1" in their
-## column. Also add integer inventory ID
+## for each language, extract inventoryID, name, ISO code, and phonemes 
+## with a "1" in their column.
 saphon.data <- lapply(saphon.starting.row:nrow(saphon.raw), function (i)
-    data.frame(LanguageName=saphon.raw[i, 1], LanguageCode=saphon.raw[i, 5],
+    data.frame(LanguageName=saphon.raw[i, 2], LanguageCode=saphon.raw[i, 6],
                Phoneme=saphon.phones[as.logical(as.integer(saphon.raw[i, saphon.phoneme.cols]))],
-               InventoryID=i, row.names=NULL))
+               InventoryID=saphon.raw[i, 1], row.names=NULL))
 saphon.data <- do.call(rbind, saphon.data)
 ## discard dialect information from ISO codes ("lng_dia" -> "lng")
 iso.has.dialect <- stri_detect_fixed(saphon.data$LanguageCode, "_")
@@ -697,6 +629,7 @@ if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjunct
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 ## MARK DUPLICATE INVENTORIES USING TRUMP ORDERING ##
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+
 all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
 split.trump <- lapply(split(all.data[,trump.tiebreaker],
                             all.data[[trump.group]]), computeTrump)
@@ -704,9 +637,11 @@ all.data$Trump <- unsplit(split.trump, all.data[[trump.group]])$Trump
 rownames(all.data) <- NULL
 if (clear.intermed.files) rm(split.trump)
 
+
 ## ## ## ## ## ## ## ## ## ## ##
 ## WRITE OUT AGGREGATED DATA  ##
 ## ## ## ## ## ## ## ## ## ## ##
+
 final.data <- all.data[, c(output.fields, feat.columns)]
 ## Rdata
 save(final.data, file=output.rdata)
