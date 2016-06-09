@@ -37,7 +37,7 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 
 ## TRUMP ORDERING (for choosing which entry to keep when there are multiple
 ## entries for a language). Preferred data sources come earlier in the list.
-trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon", "2016", "ea")
+trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon")
 ## Duplicate inventories will be marked as FALSE in the Trump column. The
 ## variable "trump.group" is used to determine which inventories count as
 ## potential duplicates for this purpose. "LanguageCode" (the default) means
@@ -75,9 +75,6 @@ gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
 saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
-uz.path <- file.path(data.dir, "2016", "2016_inventories.tsv")
-ea.path <- file.path(data.dir, "EA", "EA_inventories.tsv")
-
 ## TODO: uncomment when ready to merge in Glottolog codes.
 # mapping.path <- file.path(mapping.dir, "InventoryID-ISO-gcode-Bibkey-Source.tsv")
 
@@ -446,16 +443,6 @@ ph.data <- parseSparse(ph.raw, id.col="InventoryID",
 ph.data <- cleanUp(ph.data, "ph")
 if (clear.intermed.files) rm(ph.raw)
 
-## UZ has only first cell filled in several columns.
-## Only column guaranteed unique for each inventory is FileNames
-uz.raw <- read.delim(uz.path, na.strings="", blank.lines.skip=TRUE)
-uz.data <- parseSparse(uz.raw, id.col="InventoryID",
-                       fill.cols=c("LanguageCode", "LanguageName", "Phoneme",
-                                   "SpecificDialect", "FileNames"))
-## clean up
-uz.data <- cleanUp(uz.data, "uz")
-if (clear.intermed.files) rm(uz.raw)
-
 ## GM has dense lx.code, name, and dialect columns, but sparse FileNames column.
 ## Only column guaranteed unique for each inventory is FileNames.
 gm.afr.raw <- read.delim(gm.afr.path, na.strings="", quote="",
@@ -482,22 +469,6 @@ aa.raw$LanguageName <- ifelse(name.has.parens,
 ## clean up
 aa.data <- cleanUp(aa.raw, "aa")
 if (clear.intermed.files) rm(aa.raw)
-
-## Eurasian Phonologies inventory data -- follows the AA format
-## There are no guaranteed unique columns, thus we need to delimit inventories
-## based on the blank lines.
-ea.raw <- read.delim(ea.path, na.strings="", blank.lines.skip=FALSE)
-ea.raw$InventoryID <- zoo::na.locf(ea.raw$InventoryID)
-## If the "LanguageName" column has parenthetical info, copy language name to
-## "SpecificDialect" and remove parenthetical from "LanguageName"
-name.has.parens <- stri_detect_fixed(ea.raw$LanguageName, "(")
-ea.raw$SpecificDialect <- ifelse(name.has.parens, ea.raw$LanguageName, NA)
-ea.raw$LanguageName <- ifelse(name.has.parens,
-                              sapply(stri_split_fixed(ea.raw$LanguageName, " ("),
-                                     function (x) x[1]), ea.raw$LanguageName)
-## clean up
-ea.data <- cleanUp(ea.raw, "ea")
-if (clear.intermed.files) rm(ea.raw)
 
 ## SPA has sparse columns: spaLangNum, LanguageName, spaPhoneNum, spaDescription
 ## but no blank lines between inventories.
@@ -603,7 +574,7 @@ if (clear.intermed.files) rm(saphon.raw, saphon.ipa)
 
 ## combine into one data frame
 data.sources.list <- list(ph.data, aa.data, spa.data, upsid.data,
-                          ra.data, gm.data, saphon.data, uz.data, ea.data)
+                          ra.data, gm.data, saphon.data)
 all.data <- do.call(rbind, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, Source, InventoryID)),]
 ## should all be denormalized already, but make sure
@@ -653,7 +624,7 @@ all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
 ## clean up
 if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjuncts,
                              ph.data, aa.data, spa.data, upsid.data, ra.data,
-                             gm.data, saphon.data, uz.data, ea.data)
+                             gm.data, saphon.data)
 
 
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
