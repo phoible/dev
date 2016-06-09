@@ -367,14 +367,18 @@ orderIPA <- function(strings, lang=NA, source=NA) {
         typ[typ %in% codepoints(diacritics)] <- "D"
         typ[typ %in% codepoints(tones)] <- "T"
         if (!all(typ %in% c("B", "M", "D", "T", "|"))) {
-            sink(phone.validity.log, append=TRUE)
             debug <<- rbind(debug, data.frame(phone=i, codepoints=codepoints(i),
                                               iso=iso, src=src))
-            missing <- typ[!typ %in% c("B", "M", "D", "T", "|")]
-            warning("Found glyph components that are not among known base ",
-                    "glyphs, modifiers, or diacritics. Here is the phone: ", i,
-                    "\n", "Here is the unfamiliar codepoint(s): ", missing, "\n")
+            sink(phone.validity.log)
+            print(debug)
             sink()
+            ## replace typestring codepoints with orig. glyphs to avoid
+            ## indexing errors below
+            missing <- !typ %in% c("B", "M", "D", "T", "|")
+            typ[missing] <- chr[missing]
+            warning(paste("Unfamiliar glyph components.", "Phone:", i,
+                          "Codepoint:", typ[missing]),
+                    call.=FALSE, immediate.=TRUE)
         }
         typstr <- paste(typ, collapse="")
         ## move tones to end
@@ -436,6 +440,23 @@ orderIPA <- function(strings, lang=NA, source=NA) {
 ## TODO: load Glottocode lookup table
 # mapping <- read.delim(mapping.path)
 
+## Eurasian Phonologies inventory data. All columns are dense:
+## InventoryID, LanguageCode, LanguageName, Phoneme
+## Dialect information is (sometimes) included parenthetically in the
+## LanguageName field (like in AA/SAPHON)
+ea.raw <- read.delim(ea.path, na.strings="", blank.lines.skip=FALSE)
+ea.raw$InventoryID <- zoo::na.locf(ea.raw$InventoryID)
+## If the "LanguageName" column has parenthetical info, copy language name to
+## "SpecificDialect" and remove parenthetical from "LanguageName"
+name.has.parens <- stri_detect_fixed(ea.raw$LanguageName, "(")
+ea.raw$SpecificDialect <- ifelse(name.has.parens, ea.raw$LanguageName, NA)
+ea.raw$LanguageName <- ifelse(name.has.parens,
+                              sapply(stri_split_fixed(ea.raw$LanguageName, " ("),
+                                     function (x) x[1]), ea.raw$LanguageName)
+## clean up
+ea.data <- cleanUp(ea.raw, "ea")
+if (clear.intermed.files) rm(ea.raw)
+
 ## PH has only first cell filled in several columns.
 ## Only column guaranteed unique for each inventory is FileNames
 ph.raw <- read.delim(ph.path, na.strings="", blank.lines.skip=TRUE)
@@ -482,22 +503,6 @@ aa.raw$LanguageName <- ifelse(name.has.parens,
 ## clean up
 aa.data <- cleanUp(aa.raw, "aa")
 if (clear.intermed.files) rm(aa.raw)
-
-## Eurasian Phonologies inventory data -- follows the AA format
-## There are no guaranteed unique columns, thus we need to delimit inventories
-## based on the blank lines.
-ea.raw <- read.delim(ea.path, na.strings="", blank.lines.skip=FALSE)
-ea.raw$InventoryID <- zoo::na.locf(ea.raw$InventoryID)
-## If the "LanguageName" column has parenthetical info, copy language name to
-## "SpecificDialect" and remove parenthetical from "LanguageName"
-name.has.parens <- stri_detect_fixed(ea.raw$LanguageName, "(")
-ea.raw$SpecificDialect <- ifelse(name.has.parens, ea.raw$LanguageName, NA)
-ea.raw$LanguageName <- ifelse(name.has.parens,
-                              sapply(stri_split_fixed(ea.raw$LanguageName, " ("),
-                                     function (x) x[1]), ea.raw$LanguageName)
-## clean up
-ea.data <- cleanUp(ea.raw, "ea")
-if (clear.intermed.files) rm(ea.raw)
 
 ## SPA has sparse columns: spaLangNum, LanguageName, spaPhoneNum, spaDescription
 ## but no blank lines between inventories.
