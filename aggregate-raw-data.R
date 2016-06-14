@@ -77,6 +77,8 @@ saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
 uz.path <- file.path(data.dir, "2016", "2016_inventories.tsv")
 ea.path <- file.path(data.dir, "EA", "EA_inventories.tsv")
+ea.ipa.path <- file.path(data.dir, "EA", "EA_IPA_correspondences.tsv")
+
 
 ## TODO: uncomment when ready to merge in Glottolog codes.
 # mapping.path <- file.path(mapping.dir, "InventoryID-ISO-gcode-Bibkey-Source.tsv")
@@ -445,6 +447,7 @@ orderIPA <- function(strings, lang=NA, source=NA) {
 ## Dialect information is (sometimes) included parenthetically in the
 ## LanguageName field (like in AA/SAPHON)
 ea.raw <- read.delim(ea.path, na.strings="", blank.lines.skip=FALSE)
+ea.ipa <- read.delim(ea.ipa.path, na.strings="", quote="")
 ea.raw$InventoryID <- zoo::na.locf(ea.raw$InventoryID)
 ## If the "LanguageName" column has parenthetical info, copy language name to
 ## "SpecificDialect" and remove parenthetical from "LanguageName"
@@ -453,6 +456,8 @@ ea.raw$SpecificDialect <- ifelse(name.has.parens, ea.raw$LanguageName, NA)
 ea.raw$LanguageName <- ifelse(name.has.parens,
                               sapply(stri_split_fixed(ea.raw$LanguageName, " ("),
                                      function (x) x[1]), ea.raw$LanguageName)
+
+ea.raw <- merge(ea.raw, ea.ipa)
 ## clean up
 ea.data <- cleanUp(ea.raw, "ea")
 if (clear.intermed.files) rm(ea.raw)
