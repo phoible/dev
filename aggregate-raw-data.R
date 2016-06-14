@@ -37,7 +37,7 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
 
 ## TRUMP ORDERING (for choosing which entry to keep when there are multiple
 ## entries for a language). Preferred data sources come earlier in the list.
-trump.order <- c("ph", "gm", "spa", "aa", "upsid", "ra", "saphon", "2016", "ea")
+trump.order <- c("ph", "uz", "gm", "spa", "aa", "ea", "saphon", "upsid", "ra")
 ## Duplicate inventories will be marked as FALSE in the Trump column. The
 ## variable "trump.group" is used to determine which inventories count as
 ## potential duplicates for this purpose. "LanguageCode" (the default) means
@@ -75,7 +75,7 @@ gm.afr.path <- file.path(data.dir, "GM", "gm-afr-inventories.tsv")
 gm.sea.path <- file.path(data.dir, "GM", "gm-sea-inventories.tsv")
 saphon.path <- file.path(data.dir, "SAPHON", "saphon20121031.tsv")
 saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv")
-uz.path <- file.path(data.dir, "2016", "2016_inventories.tsv")
+uz.path <- file.path(data.dir, "UZ", "UZ_inventories.tsv")
 ea.path <- file.path(data.dir, "EA", "EA_inventories.tsv")
 ea.ipa.path <- file.path(data.dir, "EA", "EA_IPA_correspondences.tsv")
 
@@ -379,7 +379,7 @@ orderIPA <- function(strings, lang=NA, source=NA) {
             missing <- !typ %in% c("B", "M", "D", "T", "|")
             typ[missing] <- chr[missing]
             warning(paste("Unfamiliar glyph components.", "Phone:", i,
-                          "Codepoint:", typ[missing]),
+                          "Codepoint:", codepoints(typ[missing])),
                     call.=FALSE, immediate.=TRUE)
         }
         typstr <- paste(typ, collapse="")
