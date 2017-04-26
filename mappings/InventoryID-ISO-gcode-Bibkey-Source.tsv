@@ -850,7 +850,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 486	ncj	nort2957	Law1955	upsid
 486	ncj	nort2957	SchumannGarcia1966	upsid
 487	ndv	ndut1239	Gueye1986	upsid
-488	nep	nepa1252	Bandhu_etal1971	upsid
+488	nep	nepa1254	Bandhu_etal1971	upsid
 489	new	newa1246	HaleHale1969	upsid
 489	new	newa1246	Manandhar1986	upsid
 490	nez	nezp1238	Aoki1966	upsid
@@ -2448,7 +2448,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 1770	unr	mund1320	Sinha1974	ra
 1770	unr	mund1320	Osada1992	ra
 1771	nit	sout1549	Krishnamoorthy1984	ra
-1772	nep	nepa1252	Srivastava1962	ra
+1772	nep	nepa1254	Srivastava1962	ra
 1773	ncb	cent1990	Das1977	ra
 1774	gdb	pott1240	Bhattacharya1956	ra
 1775	ori	nucl1284	Pattanayak1966	ra
@@ -2929,7 +2929,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 2158	aer	east2379	aer_breen2005	2016
 2159	asm	assa1263	asm_mahanta2012	2016
 2160	bcj	bard1255	bcj_bowern2012	2016
-2161	eus	basq1248  	eus_hualde2010	2016
+2161	eus	basq1248	eus_hualde2010	2016
 2162	ben	beng1280	ben_khan2010	2016
 2163	bul	bulg1262	bul_ternes1990	2016
 2164	mya	nucl1310	mya_watkins2001	2016
@@ -2958,7 +2958,7 @@ InventoryID	LanguageCode	Glottocode	BibtexKey	Source
 2187	ell	mode1248	ell_2arvaniti1999	2016
 2188	hau	haus1257	hau_schuh1993	2016
 2189	heb	hebr1245	heb_laufer1990	2016
-2190	hin	hind1269  	hin_ohala1994	2016
+2190	hin	hind1269	hin_ohala1994	2016
 2191	hun	hung1274	hun_szende1994	2016
 2192	ibo	nucl1417	ibo_ikekeonwu1991	2016
 2193	gle	iris1253	gle_ni_chasaide1995	2016
