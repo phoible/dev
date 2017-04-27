@@ -6,7 +6,7 @@
 
 library(stringi)  # for proper string handling & (de)normalization
 
-debug <- data.frame()
+unfamiliar.glyphs <- data.frame()
 
 ## ## ## ##
 ## SETUP ##
@@ -27,10 +27,6 @@ output.fname <- file.path(output.dir, "phoible-by-phoneme.tsv")
 output.rdata <- file.path(output.dir, "phoible-by-phoneme.RData")
 inventory.id.log <- file.path(results.dir, "failed-invID-lookups.txt")
 phone.validity.log <- file.path(results.dir, "unfamiliar-phones.txt")
-
-## clear output files
-sink(phone.validity.log)
-sink()
 
 ## WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
 output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", "Phoneme",
@@ -402,6 +398,9 @@ makeTypestring <- function(strings, ...) {
             warning(paste("Unfamiliar glyph components.", "Phone:", string,
                           "Codepoint:", codpts[missing]),
                     call.=FALSE, immediate.=TRUE)
+            assign("unfamiliar.glyphs", pos=.GlobalEnv,
+                   rbind(unfamiliar.glyphs,
+                         data.frame(phoneme=string, codepoint=codpts[missing])))
         }
         # restore original glyphs
         codpts[missing] <- chars[missing]
@@ -743,16 +742,15 @@ save(final.data, file=output.rdata)
 ## tab-delimited
 write.table(final.data, file=output.fname, sep="\t", eol="\n",
             row.names=FALSE, quote=FALSE, fileEncoding="UTF-8")
-## append debugging info to log
-sink(phone.validity.log, append=TRUE)
-cat("\n\n")
-print(debug)
+## dump debugging info to log
+sink(phone.validity.log)
+print(unfamiliar.glyphs)
 sink()
 ## clean up
 if (clear.intermed.files) rm(features.path, ph.path, aa.path, spa.path,
                              spa.ipa.path, spa.iso.path, upsid.segments.path,
                              upsid.language.codes.path, upsid.ipa.path, ra.path,
                              gm.afr.path, gm.sea.path, saphon.path,
-                             saphon.ipa.path, debug)
+                             saphon.ipa.path, unfamiliar.glyphs)
 ## reset options
 options(stringsAsFactors=saf)
