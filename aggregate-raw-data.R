@@ -21,6 +21,7 @@ data.dir <- file.path(root.dir, "raw-data")
 output.dir <- file.path(root.dir, "data")
 results.dir <- file.path(root.dir, "results")
 mapping.dir <- file.path(root.dir, "mappings")
+if (!dir.exists(results.dir))  dir.create(results.dir, mode="0755")
 ## output filenames
 output.fname <- file.path(output.dir, "phoible-by-phoneme.tsv")
 output.rdata <- file.path(output.dir, "phoible-by-phoneme.RData")
@@ -32,8 +33,8 @@ sink(phone.validity.log)
 sink()
 
 ## WHICH DATA COLUMNS TO KEEP (FEATURE COLUMNS GET ADDED LATER)
-output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect",
-                   "Phoneme", "Allophones", "Source", "GlyphID", "InventoryID")
+output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", "Phoneme",
+                   "Allophones", "Source", "Trump", "GlyphID", "InventoryID")
 
 ## TRUMP ORDERING (for choosing which entry to keep when there are multiple
 ## entries for a language). Preferred data sources come earlier in the list.
@@ -53,12 +54,13 @@ trump.group <- "LanguageCode"
 ## machine locale, but we don't currently have a better way of specifying trump
 ## order for dialects of the same language that come from the same data source.
 trump.tiebreaker <- c("Source", "SpecificDialect")
-if (any(!trump.tiebreaker %in% output.fields)) warning("column \"", col, 
+if (any(!trump.tiebreaker %in% output.fields)) warning("column \"", col,
                                                        "\" in trump.tiebreaker",
                                                        " not found.")
 
 ## clean up intermediate files when finished? (FALSE for debugging)
 clear.intermed.files <- FALSE
+convert.unvalued.to.NA <- FALSE
 
 ## SOURCE DATA FILE PATHS
 features.path <- file.path(data.dir, "FEATURES", "phoible-segments-features.tsv")
@@ -120,6 +122,16 @@ removeBrackets <- function (x, type="square") {
     x <- stri_replace_first_fixed(x, pattern=brak[2], replacement="")
 }
 
+## FUNCTION: add/remove asterisks from archephonemes
+addStars <- function(strings) {
+    stri_replace_all_fixed(strings, pattern=c("R", "N"),
+                           replacement=c("*R", "*N"), vectorize_all=FALSE)
+}
+removeStars <- function(strings) {
+    stri_replace_all_fixed(strings, pattern=c("*R", "*N"),
+                           replacement=c("R", "N"), vectorize_all=FALSE)
+}
+
 ## FUNCTION: mark marginal phonemes in a boolean column; remove <angle brackets>
 markMarginal <- function (df) {
     df$Marginal <- stri_detect_fixed(df$Phoneme, "<")
@@ -170,14 +182,13 @@ cleanUp <- function (df, source.id, output.cols=NULL) {
     ## should change very little
     phonemes_original <- table(nchar(df$Phoneme))
     allophones_original <- table(nchar(removeBrackets(df$Allophones)))
-    ## TODO: DEBUG: remove args lang & source from next 2 rows
-    df$Phoneme <- orderIPA(df$Phoneme, lang=df$LanguageCode, source=source.id)
-    df$Allophones <- orderIPA(df$Allophones, lang=df$LanguageCode, source=source.id)
+    df$Phoneme <- orderIPA(df$Phoneme)
+    df$Allophones <- orderIPA(df$Allophones)
     phonemes_canonical <- table(nchar(df$Phoneme))
     allophones_canonical <- table(nchar(df$Allophones))
-    tabs <- list("phonemes (original)"=phonemes_original, 
+    tabs <- list("phonemes (original)"=phonemes_original,
                  "phonemes (canonical)"=phonemes_canonical,
-                 "allophones (original)"=allophones_original, 
+                 "allophones (original)"=allophones_original,
                  "allophones (canonical)"=allophones_canonical)
     ## check phoneme and allophone string length for possible invalid data.
     ## If anything looks odd, can examine interactively after the fact:
@@ -246,7 +257,7 @@ checkDuplicateFeatures <- function(df) {
         warning("There are duplicated entries in the feature table, but they ",
                 "all have identical feature vectors so I'm just deleting the ",
                 "duplicate rows before merging with the language data. The ",
-                "duplicated segment(s) are: ", 
+                "duplicated segment(s) are: ",
                 paste(df[duplicated(df$segment), "segment"], collapse=" "))
         df <- df[!duplicated(df$segment),]
     }
@@ -258,17 +269,23 @@ computeTrump <- function(df) {
     df$Trump <- TRUE
     for (col in trump.tiebreaker) {
         if (all(is.na(df[df$Trump, col]))) next
-        df$Trump <- df$Trump & (df[[col]] == min(df[[col]], na.rm=TRUE) %in% TRUE)
+        df$Trump <- df$Trump & ((df[[col]] == min(df[[col]], na.rm=TRUE)) == 1)
     }
     df
 }
 
-## FUNCTION: impose canonical ordering of codepoints
-## (gets applied in the "CleanUp" function)
-orderIPA <- function(strings, lang=NA, source=NA) {
+## FUNCTION: define glyph types; adds the variables to the specified environment
+defineGlyphTypes <- function(..., envir=.GlobalEnv) {
+    inputs <- c(...)
+    if (!length(inputs)) {
+        inputs <- c("tones", "modifiers", "diacritics", "stops", "nasals",
+                    "fricatives", "flaps", "affricates", "implosives",
+                    "approximants", "clicks", "vowels", "archephonemes",
+                    "base.glyphs", "feature.contour.glyphs")
+    }
     ## DEFINITION OF GLYPH TYPES
     ## Tones are not internally reordered so the order here is arbitrary.
-    tones <- c("˩", "˨", "˧", "˦", "˥", "↓")
+    tones <- c("˩", "˨", "˧", "˦", "˥", "↓", "↘")
     ## Order of elements in "diacritics" and "modifiers" sets canonical order!!
     modifiers <- c(
         "˞",  # rhotic wing
@@ -323,115 +340,145 @@ orderIPA <- function(strings, lang=NA, source=NA) {
         "̊",  # devoiced (combining ring above)
         "̚"   # unreleased (combining left angle above)
     )
-    ## The base glyphs are broken up into types for convenience only; at present
+    ## "feature.contour.glyphs" are the modifiers & diacritics that create a contour with their
+    ## base glyph's feature values, rather than overwriting them. This grouping is not used for
+    ## canonical ordering, but for feature vector construction.
+    feature.contour.glyphs <- c("ⁿ", "ˡ")  # nasal release, lateral release
+    ## The base glyphs are broken up into subtypes for convenience only;
     ## their order does not matter.
     vowels <- c("i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ",
                 "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ", "ɐ", "a", "ɶ",
                 "ɑ", "ɒ", "ɚ", "ɝ")
-    stops <- c("p", "b", "t", "d", "ʈ", "ɖ", "c", "ɟ", "k", "ɡ", "q", "ɢ", "ʡ",
-               "ʔ")
-    nasals <- c("m", "ɱ", "n", "ɳ", "ɲ", "ŋ", "ɴ")
+    stops <- c("p", "b", "t", "d", "ȶ", "ȡ", "ʈ", "ɖ", "c", "ɟ", "k", "ɡ", "q", 
+               "ɢ", "ʡ", "ʔ")
+    nasals <- c("m", "ɱ", "n", "ȵ", "ɳ", "ɲ", "ŋ", "ɴ")
     fricatives <- c("ɸ", "β", "f", "v", "θ", "ð", "s", "z", "ɕ", "ʑ", "ʃ", "ʒ",
                     "ʂ", "ʐ", "ç", "ʝ", "x", "ɣ", "χ", "ʁ", "ħ", "ʕ", "ʜ", "ʢ",
                     "h", "ɦ", "ɬ", "ɮ", "ɧ", "ʍ")
-    flaps <- c("ʙ", "ⱱ", "r", "ɾ", "ᴅ", "ɽ", "ʀ", "ɺ")  
+    flaps <- c("ʙ", "ⱱ", "r", "ɾ", "ᴅ", "ɽ", "ʀ", "ɺ")
+    clicks <- c("ʘ", "ǀ", "ǁ", "ǃ", "ǂ", "‼")
     affricates <- c("ʦ", "ʣ", "ʧ", "ʤ")
     implosives <- c("ƥ", "ɓ", "ƭ", "ɗ", "ᶑ", "ƈ", "ʄ", "ƙ", "ɠ", "ʠ", "ʛ")
     approximants <- c("ʋ", "ɹ", "ɻ", "j", "ɥ", "ɰ", "l", "ɭ", "ʎ", "ʟ", "ɫ", "w")
-    clicks <- c("ʘ", "ǀ", "ǁ", "ǃ", "ǂ", "‼")
     archephonemes <- c("R", "N")  # R = tap/trill; N = placeless nasal
-    base.glyphs <- c(stops, nasals, fricatives, flaps, affricates, implosives,
-                     approximants, clicks, vowels, archephonemes)
+    if ("stops" %in% inputs)         assign("stops", stops, envir)
+    if ("flaps" %in% inputs)         assign("flaps", flaps, envir)
+    if ("tones" %in% inputs)         assign("tones", tones, envir)
+    if ("nasals" %in% inputs)        assign("nasals", nasals, envir)
+    if ("vowels" %in% inputs)        assign("vowels", vowels, envir)
+    if ("clicks" %in% inputs)        assign("clicks", clicks, envir)
+    if ("modifiers" %in% inputs)     assign("modifiers", modifiers, envir)
+    if ("diacritics" %in% inputs)    assign("diacritics", diacritics, envir)
+    if ("fricatives" %in% inputs)    assign("fricatives", fricatives, envir)
+    if ("affricates" %in% inputs)    assign("affricates", affricates, envir)
+    if ("implosives" %in% inputs)    assign("implosives", implosives, envir)
+    if ("approximants" %in% inputs)  assign("approximants", approximants, envir)
+    if ("archephonemes" %in% inputs) assign("archephonemes", archephonemes, envir)
+    if ("feature.contour.glyphs" %in% inputs) assign("feature.contour.glyphs",
+                                                     feature.contour.glyphs, envir)
+    if ("base.glyphs" %in% inputs) {
+        assign("base.glyphs", c(vowels, stops, implosives, flaps, nasals, clicks, fricatives,
+                                affricates, approximants, archephonemes), envir)
+    }
+}
+
+## FUNCTION: make typestring from glyphs
+makeTypestring <- function(strings, ...) {
+    defineGlyphTypes(envir=environment())
+    ## replace *R/*N with R/N
+    strings <- removeStars(strings)
+    # typestrings <- unlist(mclapply(strings, function(string) {
+    typestrings <- sapply(strings, function(string) {
+        if (is.na(string)) return(NA)
+        chars <- strsplit(string, "")[[1]]
+        codpts <- codepoints(chars)
+        codpts[codpts %in% "007C"] <- "|"  # restore upsid disjuncts
+        codpts[codpts %in% codepoints(base.glyphs)] <- "B"
+        codpts[codpts %in% codepoints(modifiers)] <- "M"
+        codpts[codpts %in% codepoints(diacritics)] <- "D"
+        codpts[codpts %in% codepoints(tones)] <- "T"
+        missing <- !codpts %in% c("B", "M", "D", "T", "|")
+        if (any(missing)) {
+            warning(paste("Unfamiliar glyph components.", "Phone:", string,
+                          "Codepoint:", codpts[missing]),
+                    call.=FALSE, immediate.=TRUE)
+        }
+        # restore original glyphs
+        codpts[missing] <- chars[missing]
+        paste0(codpts, collapse="")
+    }, ...)
+    typestrings
+}
+
+## FUNCTION: impose canonical ordering of codepoints
+## (gets applied in the "CleanUp" function)
+orderIPA <- function(strings, keep.stars=FALSE) {
+    ## make sure we have what we need in the environment
+    defineGlyphTypes(envir=environment())
     ## start by denormalizing
     strings <- denorm(strings)
     ## re-normalize c-cedilla
     strings <- fix_c_cedilla(strings)
     ## replace *R/*N with R/N
-    strings <- stri_replace_all_fixed(strings, pattern="*R", replacement="R")
-    strings <- stri_replace_all_fixed(strings, pattern="*N", replacement="N")
+    strings <- removeStars(strings)
     ## remove whitespace, tiebars, & square brackets
     strings <- removeBrackets(strings)
     strings <- stri_trim(strings)
     strings <- stri_replace_all_fixed(strings, replacement="", pattern="͡")
     strings <- stri_replace_all_fixed(strings, replacement="", pattern="͜")
     ## construct parallel string showing character classes
-    df <- data.frame(phone=strings, lang=lang, source=source)
-    chars <- sapply(seq_len(nrow(df)), function(x) {
-        i <- df[x, "phone"]
-        if (is.na(i)) return(NA)
-        iso <- df[x, "lang"]
-        src <- df[x, "source"]
-        chr <- strsplit(i, "")[[1]]
-        typ <- codepoints(chr)
-        typ[typ %in% codepoints("|")] <- "|"  # restore upsid disjuncts
-        typ[typ %in% codepoints(base.glyphs)] <- "B"
-        typ[typ %in% codepoints(modifiers)] <- "M"
-        typ[typ %in% codepoints(diacritics)] <- "D"
-        typ[typ %in% codepoints(tones)] <- "T"
-        if (!all(typ %in% c("B", "M", "D", "T", "|"))) {
-            debug <<- rbind(debug, data.frame(phone=i, codepoints=codepoints(i),
-                                              iso=iso, src=src))
-            sink(phone.validity.log)
-            print(debug)
-            sink()
-            ## replace typestring codepoints with orig. glyphs to avoid
-            ## indexing errors below
-            missing <- !typ %in% c("B", "M", "D", "T", "|")
-            typ[missing] <- chr[missing]
-            warning(paste("Unfamiliar glyph components.", "Phone:", i,
-                          "Codepoint:", codepoints(typ[missing])),
-                    call.=FALSE, immediate.=TRUE)
-        }
-        typstr <- paste(typ, collapse="")
+    typestrings <- makeTypestring(strings, USE.NAMES=FALSE)
+    canonical.strings <- sapply(seq_along(strings), function(i) {
+        typestring <- typestrings[i]
+        if (is.na(typestring)) return(NA)
+        typstr <- strsplit(typestring, "")[[1]]
+        string <- strsplit(strings[i], "")[[1]]
+        lenstr <- length(string)
         ## move tones to end
-        if (stringi::stri_detect_fixed(typstr, "T")) {
-            ix <- stringi::stri_locate_first_fixed(typstr, "T")[1]
-            rightedge <- typ[ix:length(typ)]
-            while (ix < length(chr) && !all(rightedge %in% "T")) {
-                if (ix == 1) neworder <- c(2:length(typ), 1)
-                else if (ix < length(typ)) neworder <- c(1:(ix-1),
-                                                         (ix+1):length(typ), ix)
-                chr <- chr[neworder]
-                typ <- typ[neworder]
-                typstr <- paste(typ, collapse="")
-                ix <- stringi::stri_locate_first_fixed(typstr, "T")[1]
-                rightedge <- typ[ix:length(typ)]
+        if (stri_detect_fixed(typestring, "T")) {
+            ix <- stri_locate_first_fixed(typestring, "T")[1]
+            rightedge <- typstr[ix:lenstr]
+            while (ix < lenstr && !all(rightedge %in% "T")) {
+                if (ix == 1) neworder <- c(2:lenstr, 1)
+                else if (ix < lenstr) neworder <- c(1:(ix-1), (ix+1):lenstr, ix)
+                string <- string[neworder]
+                typstr <- typstr[neworder]
+                typestring <- paste(typstr, collapse="")
+                ix <- stri_locate_first_fixed(typestring, "T")[1]
+                rightedge <- typstr[ix:lenstr]
             }
         }
         ## If a diacritic comes right after a modifier letter, swap their order
-        while (stringi::stri_detect_fixed(typstr, "MD")) {
-            ix <- stringi::stri_locate_first_fixed(typstr, "MD")[1]
-            if (ix == 1) neworder <- c(2, 1, 3:length(chr))
-            else if (ix == length(chr)-1) neworder <- c(1:(ix-1), ix+1, ix)
-            else neworder <- c(1:(ix-1), ix+1, ix, (ix+2):length(chr))
-            chr <- chr[neworder]
-            typ <- typ[neworder]
-            typstr <- paste(typ, collapse="")
+        while (stri_detect_fixed(typestring, "MD")) {
+            ix <- stri_locate_first_fixed(typestring, "MD")[1]
+            if (ix == 1) neworder <- c(2, 1, 3:lenstr)
+            else if (ix == lenstr-1) neworder <- c(1:(ix-1), ix+1, ix)
+            else neworder <- c(1:(ix-1), ix+1, ix, (ix+2):lenstr)
+            string <- string[neworder]
+            typstr <- typstr[neworder]
+            typestring <- paste(typstr, collapse="")
         }
         ## Put sequences of modifier letters in canonical order
-        if (stringi::stri_detect_fixed(typstr, "MM")) {
-            ixs <- stringi::stri_locate_all_regex(typstr, "M+")[[1]]
+        if (stri_detect_fixed(typestring, "MM")) {
+            ixs <- stri_locate_all_regex(typestring, "M+")[[1]]
             for (row in seq_len(dim(ixs)[1])) {
                 span <- ixs[row,1]:ixs[row,2]
-                mods <- chr[span]
-                chr[span] <- modifiers[modifiers %in% mods]
+                mods <- string[span]
+                string[span] <- modifiers[modifiers %in% mods]
             }   }
         ## Put sequences of diacritics in canonical order
-        if (stringi::stri_detect_fixed(typstr, "DD")) {
-            ixs <- stringi::stri_locate_all_regex(typstr, "D+")[[1]]
+        if (stri_detect_fixed(typestring, "DD")) {
+            ixs <- stri_locate_all_regex(typestring, "D+")[[1]]
             for (row in seq_len(dim(ixs)[1])) {
                 span <- ixs[row,1]:ixs[row,2]
-                dcrs <- chr[span]
-                chr[span] <- diacritics[diacritics %in% dcrs]
+                dcrs <- string[span]
+                string[span] <- diacritics[diacritics %in% dcrs]
             }   }
-        paste(chr, collapse="")
+        paste(string, collapse="")
     }, USE.NAMES=FALSE)
     ## restore asterisks
-    chars <- stringi::stri_replace_all_fixed(chars, pattern="R",
-                                             replacement="*R")
-    chars <- stringi::stri_replace_all_fixed(chars, pattern="N",
-                                             replacement="*N")
-    chars
+    if (keep.stars) canonical.strings <- addStars(canonical.strings)
+    canonical.strings
 }
 
 
@@ -576,7 +623,7 @@ saphon.phones <- saphon.ipa$IPA[match(saphon.phones, saphon.ipa$SAPHON)]
 saphon.phones <- orderIPA(saphon.phones)
 ## fill in empty cells with 0
 saphon.raw[is.na(saphon.raw)] <- "0"
-## for each language, extract inventoryID, name, ISO code, and phonemes 
+## for each language, extract inventoryID, name, ISO code, and phonemes
 ## with a "1" in their column.
 saphon.data <- lapply(saphon.starting.row:nrow(saphon.raw), function (i)
     data.frame(LanguageName=saphon.raw[i, 2], LanguageCode=saphon.raw[i, 6],
@@ -626,11 +673,6 @@ all.data$GlyphID <- assignGlyphID(all.data$Phoneme)
 ## ## ## ## ## ## ## ## ## ##
 ## LOAD THE FEATURES TABLE ##
 ## ## ## ## ## ## ## ## ## ##
-
-feats <- read.delim(features.path, sep='\t')
-feats$segment <- orderIPA(feats$segment)
-feats <- checkDuplicateFeatures(feats)
-feats$GlyphID <- assignGlyphID(feats$segment)
 feat.columns <- c("tone", "stress", "syllabic", "short", "long",
                   "consonantal", "sonorant", "continuant",
                   "delayedRelease", "approximant", "tap", "trill",
@@ -642,9 +684,13 @@ feat.columns <- c("tone", "stress", "syllabic", "short", "long",
                   "spreadGlottis", "constrictedGlottis", "fortis",
                   "raisedLarynxEjective", "loweredLarynxImplosive",
                   "click")
+## READ IN FEATURES FROM TABLE
+feats <- read.delim(features.path, sep="\t")
+feats$segment <- orderIPA(feats$segment)
+feats <- checkDuplicateFeatures(feats)
+feats$GlyphID <- assignGlyphID(feats$segment)
 all.data <- merge(all.data, feats, by.x="GlyphID", by.y="GlyphID", all.x=TRUE,
                   all.y=FALSE, sort=FALSE)
-
 ## handle UPSID disjuncts
 upsid.disjunct.indices <- stri_detect_fixed(all.data$Phoneme, "|")
 upsid.disjuncts <- stri_split_fixed(all.data$Phoneme[upsid.disjunct.indices],
@@ -652,14 +698,16 @@ upsid.disjuncts <- stri_split_fixed(all.data$Phoneme[upsid.disjunct.indices],
 upsid.feats <- do.call(rbind, lapply(upsid.disjuncts, function(i) {
     left.index <- which(feats$segment == i[1])
     right.index <- which(feats$segment == i[2])
-    matches <- unlist(lapply(seq_along(feats[left.index,]),
-                             function(i) feats[left.index, i] == feats[right.index, i]))
+    matches <- unlist(lapply(seq_along(feats[left.index,]), function(i) {
+                             feats[left.index, i] == feats[right.index, i] }))
     output <- feats[left.index,]
     output[!matches] <- 0
     output$segment <- paste(i, collapse="|")
     output
 }))
 all.data[upsid.disjunct.indices, feat.columns] <- upsid.feats[feat.columns]
+## sort
+all.data <- all.data[with(all.data, order(InventoryID, GlyphID)),]
 ## clean up
 if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjuncts,
                              ph.data, aa.data, spa.data, upsid.data, ra.data,
@@ -678,10 +726,17 @@ rownames(all.data) <- NULL
 if (clear.intermed.files) rm(split.trump)
 
 
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+## CONVERT UNVALUED FEATURES FROM 0 TO NA ##
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+if (convert.unvalued.to.NA) {
+    all.data[feat.columns][all.data[feat.columns] %in% "0"] <- NA
+}
+
+
 ## ## ## ## ## ## ## ## ## ## ##
 ## WRITE OUT AGGREGATED DATA  ##
 ## ## ## ## ## ## ## ## ## ## ##
-
 final.data <- all.data[, c(output.fields, feat.columns)]
 ## Rdata
 save(final.data, file=output.rdata)
@@ -697,7 +752,7 @@ sink()
 if (clear.intermed.files) rm(features.path, ph.path, aa.path, spa.path,
                              spa.ipa.path, spa.iso.path, upsid.segments.path,
                              upsid.language.codes.path, upsid.ipa.path, ra.path,
-                             gm.afr.path, gm.sea.path, saphon.path, 
+                             gm.afr.path, gm.sea.path, saphon.path,
                              saphon.ipa.path, debug)
 ## reset options
 options(stringsAsFactors=saf)
