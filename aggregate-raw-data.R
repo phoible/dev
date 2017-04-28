@@ -34,7 +34,7 @@ output.fields <- c("LanguageCode", "LanguageName", "SpecificDialect", "Phoneme",
 
 ## TRUMP ORDERING (for choosing which entry to keep when there are multiple
 ## entries for a language). Preferred data sources come earlier in the list.
-trump.order <- c("ph", "uz", "gm", "spa", "aa", "ea", "saphon", "upsid", "ra")
+trump.order <- c("er", "ph", "uz", "gm", "spa", "aa", "ea", "saphon", "upsid", "ra")
 ## Duplicate inventories will be marked as FALSE in the Trump column. The
 ## variable "trump.group" is used to determine which inventories count as
 ## potential duplicates for this purpose. "LanguageCode" (the default) means
@@ -74,6 +74,7 @@ saphon.ipa.path <- file.path(data.dir, "SAPHON", "saphon_ipa_correspondences.tsv
 uz.path <- file.path(data.dir, "UZ", "UZ_inventories.tsv")
 ea.path <- file.path(data.dir, "EA", "EA_inventories.tsv")
 ea.ipa.path <- file.path(data.dir, "EA", "EA_IPA_correspondences.tsv")
+er.path <- file.path(data.dir, "ER", "ER_inventories.tsv")
 
 
 ## TODO: uncomment when ready to merge in Glottolog codes.
@@ -486,6 +487,25 @@ orderIPA <- function(strings, keep.stars=FALSE) {
 ## TODO: load Glottocode lookup table
 # mapping <- read.delim(mapping.path)
 
+## Australian inventories from Erich Round. All columns are dense:
+## InventoryID, LanguageCode, LanguageName, Phoneme
+## Dialect information is (sometimes) included parenthetically in the
+## LanguageName field (like in AA/SAPHON)
+er.raw <- read.delim(er.path, na.strings="", blank.lines.skip=FALSE)
+head(er.raw)
+# ea.ipa <- read.delim(ea.ipa.path, na.strings="", quote="")
+er.raw$InventoryID <- zoo::na.locf(er.raw$InventoryID)
+## If the "LanguageName" column has parenthetical info, copy language name to
+## "SpecificDialect" and remove parenthetical from "LanguageName"
+# name.has.parens <- stri_detect_fixed(ea.raw$LanguageName, "(")
+# ea.raw$SpecificDialect <- ifelse(name.has.parens, ea.raw$LanguageName, NA)
+# ea.raw$LanguageName <- ifelse(name.has.parens, sapply(stri_split_fixed(ea.raw$LanguageName, " ("), function (x) x[1]), ea.raw$LanguageName)
+
+# ea.raw <- merge(ea.raw, ea.ipa)
+## clean up
+er.data <- cleanUp(er.raw, "er")
+if (clear.intermed.files) rm(er.raw)
+
 ## Eurasian Phonologies inventory data. All columns are dense:
 ## InventoryID, LanguageCode, LanguageName, Phoneme
 ## Dialect information is (sometimes) included parenthetically in the
@@ -656,7 +676,7 @@ if (clear.intermed.files) rm(saphon.raw, saphon.ipa)
 
 ## combine into one data frame
 data.sources.list <- list(ph.data, aa.data, spa.data, upsid.data,
-                          ra.data, gm.data, saphon.data, uz.data, ea.data)
+                          ra.data, gm.data, saphon.data, uz.data, ea.data, er.data)
 all.data <- do.call(rbind, data.sources.list)
 all.data <- all.data[with(all.data, order(LanguageCode, Source, InventoryID)),]
 ## should all be denormalized already, but make sure
