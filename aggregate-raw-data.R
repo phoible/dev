@@ -44,18 +44,16 @@ trump.group <- "LanguageCode"
 ## The variable "trump.tiebreaker" is used to pick which inventory gets kept
 ## within each "trump.group".  Selection is done with the min()
 ## function, so it works well for the "Source" column (which is set up as an
-## ordered factor). We also pass "SpecificDialect" by default (which is a plain
-## character vector), in which case min() uses alphabetical order based on
-## locale. This is not ideal as it may yield different results depending on
-## machine locale, but we don't currently have a better way of specifying trump
-## order for dialects of the same language that come from the same data source.
-trump.tiebreaker <- c("Source", "SpecificDialect")
+## ordered factor). We also pass "InventoryID" by default (which is a numeric
+## vector).
+trump.tiebreaker <- c("Source", "InventoryID")
 if (any(!trump.tiebreaker %in% output.fields)) warning("column \"", col,
                                                        "\" in trump.tiebreaker",
                                                        " not found.")
 
 ## clean up intermediate files when finished? (FALSE for debugging)
 clear.intermed.files <- FALSE
+## should zero-valued features be converted to NAs? (use at own risk)
 convert.unvalued.to.NA <- FALSE
 
 ## SOURCE DATA FILE PATHS
@@ -265,7 +263,7 @@ computeTrump <- function(df) {
     df$Trump <- TRUE
     for (col in trump.tiebreaker) {
         if (all(is.na(df[df$Trump, col]))) next
-        df$Trump <- df$Trump & ((df[[col]] == min(df[[col]], na.rm=TRUE)) == 1)
+        df$Trump <- df$Trump & ((df[[col]] == min(df[[col]])) == 1)
     }
     df
 }
@@ -502,7 +500,6 @@ ea.raw$SpecificDialect <- ifelse(name.has.parens, ea.raw$LanguageName, NA)
 ea.raw$LanguageName <- ifelse(name.has.parens,
                               sapply(stri_split_fixed(ea.raw$LanguageName, " ("),
                                      function (x) x[1]), ea.raw$LanguageName)
-
 ea.raw <- merge(ea.raw, ea.ipa)
 ## clean up
 ea.data <- cleanUp(ea.raw, "ea")
@@ -716,7 +713,6 @@ if (clear.intermed.files) rm(upsid.feats, upsid.disjunct.indices, upsid.disjunct
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
 ## MARK DUPLICATE INVENTORIES USING TRUMP ORDERING ##
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
-
 all.data$Source <- factor(all.data$Source, levels=trump.order, ordered=TRUE)
 split.trump <- lapply(split(all.data[,trump.tiebreaker],
                             all.data[[trump.group]]), computeTrump)
