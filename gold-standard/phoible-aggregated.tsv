@@ -1396,7 +1396,7 @@ InventoryID	Source	LanguageCode	LanguageName	Glottocode	GlottologName	Trump	Lang
 1395	GM	afr	Afrikaans	afri1274	Afrikaans	1	ieur	Germanic	South Africa	Africa	4,740,000	-22.0	30.0	39	16	0	23
 1396	GM	agj	Argobba	argo1244	Argobba	1	afas	Semitic	Ethiopia	Africa	10,900	10.6596	39.756	38	30	0	8
 1397	GM	har	Harari	hara1271	Harari	1	afas	Semitic	Ethiopia	Africa	21,300	9.30485	42.1332	34	25	0	9
-1398	GM	din	Dinka			1	nsah	Nilotic	Sudan	Africa	320,000	NULL	NULL	49	20	3	26
+1398	GM	din	Dinka	dink1262	Dinka	1	nsah	Nilotic	Sudan	Africa	320,000	NULL	NULL	49	20	3	26
 1399	GM	nzi	Nzema	nzim1238	Nzima	1	ncon	Kwa	Ghana	Africa	262,000	5.1785	-2.81123	40	24	2	14
 1400	GM	aha	Ahanta	ahan1243	Ahanta	1	ncon	Kwa	Ghana	Africa	142,000	4.85147	-1.94657	40	24	2	14
 1401	GM	hna	Besleri	mina1276	Mina (Cameroon)	1	afas	Biu-Mandara	Cameroon	Africa	11,000	10.3805	13.8405	50	39	2	9
@@ -1904,7 +1904,7 @@ InventoryID	Source	LanguageCode	LanguageName	Glottocode	GlottologName	Trump	Lang
 1903	SAPHON	cmi	Emberá-Chamí	embe1262	Embera-Chami	1	choc	Choco	Colombia	America	5,510	4.8791	-76.0749	28	16	0	12
 1904	SAPHON	emp	Northern Emberá	nort2972	Northern Embera	1	choc	Choco	Panama	America	10,500	7.12761	-77.574	32	20	0	12
 1905	SAPHON	sja	Epena	epen1239	Epena	1	choc	Choco	Colombia	America	3,500	4.25877	-77.3566	38	17	0	21
-1906	SAPHON	gny	Günün Yajich			1	chon	Puelche	Argentina	America	Extinct	NULL	NULL	36	29	0	7
+1906	SAPHON	gny	Günün Yajich	puel1244	Puelche	1	chon	Puelche	Argentina	America	Extinct	NULL	NULL	36	29	0	7
 1907	SAPHON	ona	Chon	onaa1245	Ona	1	chon	Chon Proper	Argentina	America	2	-54.0	-68.5	29	21	0	8
 1908	SAPHON	teh	Tehuelche	tehu1242	Tehuelche	1	chon	Chon Proper	Argentina	America	4	-47.5796	-68.3235	31	25	0	6
 1909	SAPHON	cod	Kokama-Kokamilla	coca1259	Cocama-Cocamilla	1	tupi	Tupi-Guaraní	Peru	America	2,000	-4.5	-74.0	16	11	0	5
@@ -2141,14 +2141,14 @@ InventoryID	Source	LanguageCode	LanguageName	Glottocode	GlottologName	Trump	Lang
 2140	SAPHON	iqu	Iquito	iqui1243	Iquito	1	zapa	Zaparoan	Peru	America	35	-3.31233	-73.9705	19	11	0	8
 2141	SAPHON	zro	Záparo	zapa1253	Zaparo	1	zapa	Zaparoan	Ecuador	America	1	-1.99871	-76.364	22	14	0	8
 2142	SAPHON	nhd	Nhandeva	chir1286	Chiripa	1	tupi	Tupi-Guaraní	Paraguay	America	7,000	-25.6521	-55.051	29	17	0	12
-2143	SAPHON	psx	Pisamira			1	tucn	Tucanoan	Brazil	America	6600	NULL	NULL	17	11	0	6
+2143	SAPHON	psx	Pisamira	pisa1245	Pisamira	1	tucn	Tucanoan	Brazil	America	6600	NULL	NULL	17	11	0	6
 2144	SAPHON	alc	Alacalufe (Southern)	qawa1238	Qawasqar	2	alac	Alacalufan	Chile	America	12	-49.703	-75.3756	24	18	0	6
 2145	SAPHON	ayr	Aymara (Chilean dialect)	cent2142	Central Aymara	1	ayma	Aymaran	Bolivia	America	1,790,000	-17.0	-68.5	31	28	0	3
 2146	SAPHON	wca	Yanomama of Papiu	yano1262	Yanomami	3	yano	Yanomam	Brazil	America	9,000	2.48999	-62.8522	33	12	0	21
 2147	SAPHON	wca	Yanomae of Demini/Tototopi	yano1262	Yanomami	1	yano	Yanomam	Brazil	America	9,000	2.48999	-62.8522	34	13	0	21
 2148	SAPHON	xsu	Sanömá of Kolulu	sanu1240	Sanuma	1	yano	Yanomam	Venezuela	America	4,610	1.31875	-67.6498	31	10	0	21
 2149	SAPHON	guu	Yanomamɨ of Parawau	yano1261	Yanomamo	1	yano	Yanomam	Venezuela	America	15,700	1.67967	-64.8781	32	11	0	21
-2150	SAPHON	yrm	Yãroamë of Serra do Pacu/Ajarani			1	yano	Yanomam	Brazil	America	No_estimate_available	NULL	NULL	29	11	0	18
+2150	SAPHON	yrm	Yãroamë of Serra do Pacu/Ajarani	yaro1235	Yaroame	1	yano	Yanomam	Brazil	America	No_estimate_available	NULL	NULL	29	11	0	18
 2151	SAPHON	guu	Yanomamɨ of Venezuela	yano1261	Yanomamo	2	yano	Yanomam	Venezuela	America	15,700	1.67967	-64.8781	33	12	0	21
 2152	SAPHON	pcp	Pacahuara	paca1246	Pacahuara	1	pano	Panoan	Bolivia	America	17	-11.9968	-65.5568	20	16	0	4
 2153	SAPHON	yup	Yukpa (Macoíta)	yukp1241	Yukpa	2	cari	Cariban	Colombia	America	1,500	9.67534	-73.0557	21	15	0	6
