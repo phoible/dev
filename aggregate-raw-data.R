@@ -262,8 +262,15 @@ checkDuplicateFeatures <- function(df) {
 computeTrump <- function(df) {
     df$Trump <- TRUE
     for (col in trump.tiebreaker) {
+        # skip this tiebreaker if it's NA for all currently TRUE values of Trump
         if (all(is.na(df[df$Trump, col]))) next
-        df$Trump <- df$Trump & ((df[[col]] == min(df[[col]])) == 1)
+        # make sure we get the real minimum, not an NA
+        is_min <- df[[col]] == min(df[df$Trump, col], na.rm=TRUE)
+        # we abhor NAs in Trump, so we ignore NAs that propogated from df[[col]]
+        # (with a sensible choice of trump.tiebreaker there shouldn't be any NAs
+        # anyway, but just in case...)
+        is_min[is.na(is_min)] <- FALSE
+        df$Trump <- df$Trump & is_min
     }
     df
 }
@@ -343,7 +350,7 @@ defineGlyphTypes <- function(..., envir=.GlobalEnv) {
     vowels <- c("i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ",
                 "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ", "ɐ", "a", "ɶ",
                 "ɑ", "ɒ", "ɚ", "ɝ")
-    stops <- c("p", "b", "t", "d", "ȶ", "ȡ", "ʈ", "ɖ", "c", "ɟ", "k", "ɡ", "q", 
+    stops <- c("p", "b", "t", "d", "ȶ", "ȡ", "ʈ", "ɖ", "c", "ɟ", "k", "ɡ", "q",
                "ɢ", "ʡ", "ʔ")
     nasals <- c("m", "ɱ", "n", "ȵ", "ɳ", "ɲ", "ŋ", "ɴ")
     fricatives <- c("ɸ", "β", "f", "v", "θ", "ð", "s", "z", "ɕ", "ʑ", "ʃ", "ʒ",
