@@ -261,12 +261,19 @@ checkDuplicateFeatures <- function(df) {
 
 ## FUNCTION: compute trump status
 computeTrump <- function(df) {
-    df$Trump <- TRUE
-    for (col in trump.tiebreaker) {
-        if (all(is.na(df[df$Trump, col]))) next
-        df$Trump <- df$Trump & ((df[[col]] == min(df[[col]])) == 1)
-    }
-    df
+  df$Trump <- TRUE
+  for (col in trump.tiebreaker) {
+    # skip this tiebreaker if it's NA for all currently TRUE values of Trump
+    if (all(is.na(df[df$Trump, col]))) next
+    # make sure we get the real minimum, not an NA
+    is_min <- df[[col]] == min(df[df$Trump, col], na.rm=TRUE)
+    # we abhor NAs in Trump, so we ignore NAs that propogated from df[[col]]
+    # (with a sensible choice of trump.tiebreaker there shouldn't be any NAs
+    # anyway, but just in case...)
+    is_min[is.na(is_min)] <- FALSE
+    df$Trump <- df$Trump & is_min
+  }
+  df
 }
 
 ## FUNCTION: define glyph types; adds the variables to the specified environment
