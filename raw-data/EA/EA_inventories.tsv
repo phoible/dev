@@ -391,32 +391,32 @@ InventoryID	LanguageCode	LanguageName	Segment
 2247	rjs	Rājbanshi	æ̃
 2247	rjs	Rājbanshi	ũĩ
 2247	rjs	Rājbanshi	ẽ
-2248	est	Estonian (Standard)	p
-2248	est	Estonian (Standard)	m
-2248	est	Estonian (Standard)	ʋ
-2248	est	Estonian (Standard)	f
-2248	est	Estonian (Standard)	t̪
-2248	est	Estonian (Standard)	n
-2248	est	Estonian (Standard)	s̪
-2248	est	Estonian (Standard)	l
-2248	est	Estonian (Standard)	r
-2248	est	Estonian (Standard)	tʲ
-2248	est	Estonian (Standard)	nʲ
-2248	est	Estonian (Standard)	sʲ
-2248	est	Estonian (Standard)	lʲ
-2248	est	Estonian (Standard)	ʃ
-2248	est	Estonian (Standard)	j
-2248	est	Estonian (Standard)	k
-2248	est	Estonian (Standard)	h
-2248	est	Estonian (Standard)	æ
-2248	est	Estonian (Standard)	e
-2248	est	Estonian (Standard)	i
-2248	est	Estonian (Standard)	ø
-2248	est	Estonian (Standard)	y
-2248	est	Estonian (Standard)	o
-2248	est	Estonian (Standard)	u
-2248	est	Estonian (Standard)	ɑ
-2248	est	Estonian (Standard)	ɤ
+2248	ekk	Estonian (Standard)	p
+2248	ekk	Estonian (Standard)	m
+2248	ekk	Estonian (Standard)	ʋ
+2248	ekk	Estonian (Standard)	f
+2248	ekk	Estonian (Standard)	t̪
+2248	ekk	Estonian (Standard)	n
+2248	ekk	Estonian (Standard)	s̪
+2248	ekk	Estonian (Standard)	l
+2248	ekk	Estonian (Standard)	r
+2248	ekk	Estonian (Standard)	tʲ
+2248	ekk	Estonian (Standard)	nʲ
+2248	ekk	Estonian (Standard)	sʲ
+2248	ekk	Estonian (Standard)	lʲ
+2248	ekk	Estonian (Standard)	ʃ
+2248	ekk	Estonian (Standard)	j
+2248	ekk	Estonian (Standard)	k
+2248	ekk	Estonian (Standard)	h
+2248	ekk	Estonian (Standard)	æ
+2248	ekk	Estonian (Standard)	e
+2248	ekk	Estonian (Standard)	i
+2248	ekk	Estonian (Standard)	ø
+2248	ekk	Estonian (Standard)	y
+2248	ekk	Estonian (Standard)	o
+2248	ekk	Estonian (Standard)	u
+2248	ekk	Estonian (Standard)	ɑ
+2248	ekk	Estonian (Standard)	ɤ
 2249	bqi	Bakhtiari	pʰ
 2249	bqi	Bakhtiari	b
 2249	bqi	Bakhtiari	f
@@ -706,45 +706,45 @@ InventoryID	LanguageCode	LanguageName	Segment
 2255	dlg	Dolgan	ɛː
 2255	dlg	Dolgan	ɔː
 2255	dlg	Dolgan	ɑː
-2256	drh	Darkhat	b
-2256	drh	Darkhat	w
-2256	drh	Darkhat	g
-2256	drh	Darkhat	d
-2256	drh	Darkhat	t
-2256	drh	Darkhat	dʑ
-2256	drh	Darkhat	dz
-2256	drh	Darkhat	ʝ
-2256	drh	Darkhat	l
-2256	drh	Darkhat	r
-2256	drh	Darkhat	m
-2256	drh	Darkhat	n
-2256	drh	Darkhat	ŋ
-2256	drh	Darkhat	s
-2256	drh	Darkhat	ɕ
-2256	drh	Darkhat	tɕ
-2256	drh	Darkhat	x
-2256	drh	Darkhat	ts
-2256	drh	Darkhat	p
-2256	drh	Darkhat	v
-2256	drh	Darkhat	ɑ
-2256	drh	Darkhat	e
-2256	drh	Darkhat	ɔ̜
-2256	drh	Darkhat	œ̜
-2256	drh	Darkhat	u
-2256	drh	Darkhat	y
-2256	drh	Darkhat	i
-2256	drh	Darkhat	aː
-2256	drh	Darkhat	æː
-2256	drh	Darkhat	eː
-2256	drh	Darkhat	ɔ̜ː
-2256	drh	Darkhat	œ̜ː
-2256	drh	Darkhat	uː
-2256	drh	Darkhat	yː
-2256	drh	Darkhat	iː
-2256	drh	Darkhat	ae̯
-2256	drh	Darkhat	ɞe̯
-2256	drh	Darkhat	ʉi̯
-2256	drh	Darkhat	yi̯
+2256	NA	Darkhat	b
+2256	NA	Darkhat	w
+2256	NA	Darkhat	g
+2256	NA	Darkhat	d
+2256	NA	Darkhat	t
+2256	NA	Darkhat	dʑ
+2256	NA	Darkhat	dz
+2256	NA	Darkhat	ʝ
+2256	NA	Darkhat	l
+2256	NA	Darkhat	r
+2256	NA	Darkhat	m
+2256	NA	Darkhat	n
+2256	NA	Darkhat	ŋ
+2256	NA	Darkhat	s
+2256	NA	Darkhat	ɕ
+2256	NA	Darkhat	tɕ
+2256	NA	Darkhat	x
+2256	NA	Darkhat	ts
+2256	NA	Darkhat	p
+2256	NA	Darkhat	v
+2256	NA	Darkhat	ɑ
+2256	NA	Darkhat	e
+2256	NA	Darkhat	ɔ̜
+2256	NA	Darkhat	œ̜
+2256	NA	Darkhat	u
+2256	NA	Darkhat	y
+2256	NA	Darkhat	i
+2256	NA	Darkhat	aː
+2256	NA	Darkhat	æː
+2256	NA	Darkhat	eː
+2256	NA	Darkhat	ɔ̜ː
+2256	NA	Darkhat	œ̜ː
+2256	NA	Darkhat	uː
+2256	NA	Darkhat	yː
+2256	NA	Darkhat	iː
+2256	NA	Darkhat	ae̯
+2256	NA	Darkhat	ɞe̯
+2256	NA	Darkhat	ʉi̯
+2256	NA	Darkhat	yi̯
 2257	jya	Caodeng rGyalrong	p
 2257	jya	Caodeng rGyalrong	t
 2257	jya	Caodeng rGyalrong	c
@@ -1140,47 +1140,47 @@ InventoryID	LanguageCode	LanguageName	Segment
 2263	loy	gLo Tibetan	æ
 2263	loy	gLo Tibetan	ʉ
 2263	loy	gLo Tibetan	ɵ
-2264	0	Tod Tibetan	p
-2264	0	Tod Tibetan	t̪
-2264	0	Tod Tibetan	ʈ
-2264	0	Tod Tibetan	c
-2264	0	Tod Tibetan	k
-2264	0	Tod Tibetan	pʰ
-2264	0	Tod Tibetan	t̪ʰ
-2264	0	Tod Tibetan	ʈʰ
-2264	0	Tod Tibetan	cʰ
-2264	0	Tod Tibetan	kʰ
-2264	0	Tod Tibetan	b
-2264	0	Tod Tibetan	d̪
-2264	0	Tod Tibetan	ɖ
-2264	0	Tod Tibetan	ɟ
-2264	0	Tod Tibetan	g
-2264	0	Tod Tibetan	bʰ
-2264	0	Tod Tibetan	d̪ʰ
-2264	0	Tod Tibetan	ɖʰ
-2264	0	Tod Tibetan	ɟʰ
-2264	0	Tod Tibetan	gʰ
-2264	0	Tod Tibetan	tʃ
-2264	0	Tod Tibetan	tʃʰ
-2264	0	Tod Tibetan	dʒ
-2264	0	Tod Tibetan	ʃ
-2264	0	Tod Tibetan	h
-2264	0	Tod Tibetan	z
-2264	0	Tod Tibetan	ʒ
-2264	0	Tod Tibetan	r
-2264	0	Tod Tibetan	l
-2264	0	Tod Tibetan	m
-2264	0	Tod Tibetan	n
-2264	0	Tod Tibetan	ɲ
-2264	0	Tod Tibetan	ŋ
-2264	0	Tod Tibetan	w
-2264	0	Tod Tibetan	j
-2264	0	Tod Tibetan	i
-2264	0	Tod Tibetan	u
-2264	0	Tod Tibetan	e
-2264	0	Tod Tibetan	o
-2264	0	Tod Tibetan	ə
-2264	0	Tod Tibetan	a
+2264	NA	Tod Tibetan	p
+2264	NA	Tod Tibetan	t̪
+2264	NA	Tod Tibetan	ʈ
+2264	NA	Tod Tibetan	c
+2264	NA	Tod Tibetan	k
+2264	NA	Tod Tibetan	pʰ
+2264	NA	Tod Tibetan	t̪ʰ
+2264	NA	Tod Tibetan	ʈʰ
+2264	NA	Tod Tibetan	cʰ
+2264	NA	Tod Tibetan	kʰ
+2264	NA	Tod Tibetan	b
+2264	NA	Tod Tibetan	d̪
+2264	NA	Tod Tibetan	ɖ
+2264	NA	Tod Tibetan	ɟ
+2264	NA	Tod Tibetan	g
+2264	NA	Tod Tibetan	bʰ
+2264	NA	Tod Tibetan	d̪ʰ
+2264	NA	Tod Tibetan	ɖʰ
+2264	NA	Tod Tibetan	ɟʰ
+2264	NA	Tod Tibetan	gʰ
+2264	NA	Tod Tibetan	tʃ
+2264	NA	Tod Tibetan	tʃʰ
+2264	NA	Tod Tibetan	dʒ
+2264	NA	Tod Tibetan	ʃ
+2264	NA	Tod Tibetan	h
+2264	NA	Tod Tibetan	z
+2264	NA	Tod Tibetan	ʒ
+2264	NA	Tod Tibetan	r
+2264	NA	Tod Tibetan	l
+2264	NA	Tod Tibetan	m
+2264	NA	Tod Tibetan	n
+2264	NA	Tod Tibetan	ɲ
+2264	NA	Tod Tibetan	ŋ
+2264	NA	Tod Tibetan	w
+2264	NA	Tod Tibetan	j
+2264	NA	Tod Tibetan	i
+2264	NA	Tod Tibetan	u
+2264	NA	Tod Tibetan	e
+2264	NA	Tod Tibetan	o
+2264	NA	Tod Tibetan	ə
+2264	NA	Tod Tibetan	a
 2265	dan	Danish	pʰ
 2265	dan	Danish	p
 2265	dan	Danish	tˢ
@@ -1283,39 +1283,39 @@ InventoryID	LanguageCode	LanguageName	Segment
 2267	nru	Yongning Na (Mosuo)	ɔ
 2267	nru	Yongning Na (Mosuo)	ɑ
 2267	nru	Yongning Na (Mosuo)	æ̃
-2268	0	Beserman (Šamardan)	p
-2268	0	Beserman (Šamardan)	t̻
-2268	0	Beserman (Šamardan)	k
-2268	0	Beserman (Šamardan)	c̟
-2268	0	Beserman (Šamardan)	b
-2268	0	Beserman (Šamardan)	d̻
-2268	0	Beserman (Šamardan)	g
-2268	0	Beserman (Šamardan)	ɟ̟
-2268	0	Beserman (Šamardan)	s̻
-2268	0	Beserman (Šamardan)	ʂ
-2268	0	Beserman (Šamardan)	ɕ
-2268	0	Beserman (Šamardan)	v
-2268	0	Beserman (Šamardan)	z̻
-2268	0	Beserman (Šamardan)	ʐ
-2268	0	Beserman (Šamardan)	ʑ
-2268	0	Beserman (Šamardan)	tɕ
-2268	0	Beserman (Šamardan)	dʑ
-2268	0	Beserman (Šamardan)	m
-2268	0	Beserman (Šamardan)	n̻
-2268	0	Beserman (Šamardan)	ɲ̟
-2268	0	Beserman (Šamardan)	ɫ
-2268	0	Beserman (Šamardan)	r
-2268	0	Beserman (Šamardan)	ʎ̟
-2268	0	Beserman (Šamardan)	j
-2268	0	Beserman (Šamardan)	w
-2268	0	Beserman (Šamardan)	ɑ
-2268	0	Beserman (Šamardan)	ʌ
-2268	0	Beserman (Šamardan)	o
-2268	0	Beserman (Šamardan)	ɘ
-2268	0	Beserman (Šamardan)	e
-2268	0	Beserman (Šamardan)	u
-2268	0	Beserman (Šamardan)	i
-2268	0	Beserman (Šamardan)	ɨ̹
+2268	NA	Beserman (Šamardan)	p
+2268	NA	Beserman (Šamardan)	t̻
+2268	NA	Beserman (Šamardan)	k
+2268	NA	Beserman (Šamardan)	c̟
+2268	NA	Beserman (Šamardan)	b
+2268	NA	Beserman (Šamardan)	d̻
+2268	NA	Beserman (Šamardan)	g
+2268	NA	Beserman (Šamardan)	ɟ̟
+2268	NA	Beserman (Šamardan)	s̻
+2268	NA	Beserman (Šamardan)	ʂ
+2268	NA	Beserman (Šamardan)	ɕ
+2268	NA	Beserman (Šamardan)	v
+2268	NA	Beserman (Šamardan)	z̻
+2268	NA	Beserman (Šamardan)	ʐ
+2268	NA	Beserman (Šamardan)	ʑ
+2268	NA	Beserman (Šamardan)	tɕ
+2268	NA	Beserman (Šamardan)	dʑ
+2268	NA	Beserman (Šamardan)	m
+2268	NA	Beserman (Šamardan)	n̻
+2268	NA	Beserman (Šamardan)	ɲ̟
+2268	NA	Beserman (Šamardan)	ɫ
+2268	NA	Beserman (Šamardan)	r
+2268	NA	Beserman (Šamardan)	ʎ̟
+2268	NA	Beserman (Šamardan)	j
+2268	NA	Beserman (Šamardan)	w
+2268	NA	Beserman (Šamardan)	ɑ
+2268	NA	Beserman (Šamardan)	ʌ
+2268	NA	Beserman (Šamardan)	o
+2268	NA	Beserman (Šamardan)	ɘ
+2268	NA	Beserman (Šamardan)	e
+2268	NA	Beserman (Šamardan)	u
+2268	NA	Beserman (Šamardan)	i
+2268	NA	Beserman (Šamardan)	ɨ̹
 2269	fra	French	p
 2269	fra	French	b
 2269	fra	French	m
@@ -1803,51 +1803,51 @@ InventoryID	LanguageCode	LanguageName	Segment
 2280	tsj	Tshangla	u
 2280	tsj	Tshangla	ai
 2280	tsj	Tshangla	au
-2281	0	Modern Aramaic (Northeastern)	p
-2281	0	Modern Aramaic (Northeastern)	b
-2281	0	Modern Aramaic (Northeastern)	t
-2281	0	Modern Aramaic (Northeastern)	d
-2281	0	Modern Aramaic (Northeastern)	tʃ
-2281	0	Modern Aramaic (Northeastern)	dʒ
-2281	0	Modern Aramaic (Northeastern)	k
-2281	0	Modern Aramaic (Northeastern)	g
-2281	0	Modern Aramaic (Northeastern)	q
-2281	0	Modern Aramaic (Northeastern)	ʕ
-2281	0	Modern Aramaic (Northeastern)	ʔ
-2281	0	Modern Aramaic (Northeastern)	f
-2281	0	Modern Aramaic (Northeastern)	v
-2281	0	Modern Aramaic (Northeastern)	x
-2281	0	Modern Aramaic (Northeastern)	ɣ
-2281	0	Modern Aramaic (Northeastern)	ħ
-2281	0	Modern Aramaic (Northeastern)	s
-2281	0	Modern Aramaic (Northeastern)	z
-2281	0	Modern Aramaic (Northeastern)	ʃ
-2281	0	Modern Aramaic (Northeastern)	ʒ
-2281	0	Modern Aramaic (Northeastern)	m
-2281	0	Modern Aramaic (Northeastern)	n
-2281	0	Modern Aramaic (Northeastern)	l
-2281	0	Modern Aramaic (Northeastern)	r
-2281	0	Modern Aramaic (Northeastern)	w
-2281	0	Modern Aramaic (Northeastern)	j
-2281	0	Modern Aramaic (Northeastern)	h
-2281	0	Modern Aramaic (Northeastern)	pˤ
-2281	0	Modern Aramaic (Northeastern)	bˤ
-2281	0	Modern Aramaic (Northeastern)	tˤ
-2281	0	Modern Aramaic (Northeastern)	dˤ
-2281	0	Modern Aramaic (Northeastern)	sˤ
-2281	0	Modern Aramaic (Northeastern)	zˤ
-2281	0	Modern Aramaic (Northeastern)	mˤ
-2281	0	Modern Aramaic (Northeastern)	tʃˤ
-2281	0	Modern Aramaic (Northeastern)	lˤ
-2281	0	Modern Aramaic (Northeastern)	rˤ
-2281	0	Modern Aramaic (Northeastern)	iː
-2281	0	Modern Aramaic (Northeastern)	eː
-2281	0	Modern Aramaic (Northeastern)	aː
-2281	0	Modern Aramaic (Northeastern)	oː
-2281	0	Modern Aramaic (Northeastern)	uː
-2281	0	Modern Aramaic (Northeastern)	ɨ
-2281	0	Modern Aramaic (Northeastern)	a
-2281	0	Modern Aramaic (Northeastern)	ʉ
+2281	NA	Modern Aramaic (Northeastern)	p
+2281	NA	Modern Aramaic (Northeastern)	b
+2281	NA	Modern Aramaic (Northeastern)	t
+2281	NA	Modern Aramaic (Northeastern)	d
+2281	NA	Modern Aramaic (Northeastern)	tʃ
+2281	NA	Modern Aramaic (Northeastern)	dʒ
+2281	NA	Modern Aramaic (Northeastern)	k
+2281	NA	Modern Aramaic (Northeastern)	g
+2281	NA	Modern Aramaic (Northeastern)	q
+2281	NA	Modern Aramaic (Northeastern)	ʕ
+2281	NA	Modern Aramaic (Northeastern)	ʔ
+2281	NA	Modern Aramaic (Northeastern)	f
+2281	NA	Modern Aramaic (Northeastern)	v
+2281	NA	Modern Aramaic (Northeastern)	x
+2281	NA	Modern Aramaic (Northeastern)	ɣ
+2281	NA	Modern Aramaic (Northeastern)	ħ
+2281	NA	Modern Aramaic (Northeastern)	s
+2281	NA	Modern Aramaic (Northeastern)	z
+2281	NA	Modern Aramaic (Northeastern)	ʃ
+2281	NA	Modern Aramaic (Northeastern)	ʒ
+2281	NA	Modern Aramaic (Northeastern)	m
+2281	NA	Modern Aramaic (Northeastern)	n
+2281	NA	Modern Aramaic (Northeastern)	l
+2281	NA	Modern Aramaic (Northeastern)	r
+2281	NA	Modern Aramaic (Northeastern)	w
+2281	NA	Modern Aramaic (Northeastern)	j
+2281	NA	Modern Aramaic (Northeastern)	h
+2281	NA	Modern Aramaic (Northeastern)	pˤ
+2281	NA	Modern Aramaic (Northeastern)	bˤ
+2281	NA	Modern Aramaic (Northeastern)	tˤ
+2281	NA	Modern Aramaic (Northeastern)	dˤ
+2281	NA	Modern Aramaic (Northeastern)	sˤ
+2281	NA	Modern Aramaic (Northeastern)	zˤ
+2281	NA	Modern Aramaic (Northeastern)	mˤ
+2281	NA	Modern Aramaic (Northeastern)	tʃˤ
+2281	NA	Modern Aramaic (Northeastern)	lˤ
+2281	NA	Modern Aramaic (Northeastern)	rˤ
+2281	NA	Modern Aramaic (Northeastern)	iː
+2281	NA	Modern Aramaic (Northeastern)	eː
+2281	NA	Modern Aramaic (Northeastern)	aː
+2281	NA	Modern Aramaic (Northeastern)	oː
+2281	NA	Modern Aramaic (Northeastern)	uː
+2281	NA	Modern Aramaic (Northeastern)	ɨ
+2281	NA	Modern Aramaic (Northeastern)	a
+2281	NA	Modern Aramaic (Northeastern)	ʉ
 2282	lit	Lithuanian (North Samogitian)	m
 2282	lit	Lithuanian (North Samogitian)	mʲ
 2282	lit	Lithuanian (North Samogitian)	n̪
@@ -2224,31 +2224,31 @@ InventoryID	LanguageCode	LanguageName	Segment
 2291	ynk	Naukan Yupik	ä
 2291	ynk	Naukan Yupik	i
 2291	ynk	Naukan Yupik	u
-2292	0	Solon	p
-2292	0	Solon	t
-2292	0	Solon	k
-2292	0	Solon	b
-2292	0	Solon	d
-2292	0	Solon	g
-2292	0	Solon	m
-2292	0	Solon	n
-2292	0	Solon	ŋ
-2292	0	Solon	tʃ
-2292	0	Solon	dʒ
-2292	0	Solon	s
-2292	0	Solon	x
-2292	0	Solon	l
-2292	0	Solon	r
-2292	0	Solon	w
-2292	0	Solon	j
-2292	0	Solon	ɔ
-2292	0	Solon	o
-2292	0	Solon	ʊ
-2292	0	Solon	u
-2292	0	Solon	ɑ
-2292	0	Solon	ə
-2292	0	Solon	i
-2292	0	Solon	e̞
+2292	NA	Solon	p
+2292	NA	Solon	t
+2292	NA	Solon	k
+2292	NA	Solon	b
+2292	NA	Solon	d
+2292	NA	Solon	g
+2292	NA	Solon	m
+2292	NA	Solon	n
+2292	NA	Solon	ŋ
+2292	NA	Solon	tʃ
+2292	NA	Solon	dʒ
+2292	NA	Solon	s
+2292	NA	Solon	x
+2292	NA	Solon	l
+2292	NA	Solon	r
+2292	NA	Solon	w
+2292	NA	Solon	j
+2292	NA	Solon	ɔ
+2292	NA	Solon	o
+2292	NA	Solon	ʊ
+2292	NA	Solon	u
+2292	NA	Solon	ɑ
+2292	NA	Solon	ə
+2292	NA	Solon	i
+2292	NA	Solon	e̞
 2293	kxv	Kuvi	p
 2293	kxv	Kuvi	b
 2293	kxv	Kuvi	m
@@ -2417,72 +2417,72 @@ InventoryID	LanguageCode	LanguageName	Segment
 2297	itl	Itelmen	a
 2297	itl	Itelmen	o̞̜
 2297	itl	Itelmen	u̜
-2298	0	Puxi	p
-2298	0	Puxi	t̪
-2298	0	Puxi	k
-2298	0	Puxi	q
-2298	0	Puxi	pʰ
-2298	0	Puxi	t̪ʰ
-2298	0	Puxi	kʰ
-2298	0	Puxi	qʰ
-2298	0	Puxi	b
-2298	0	Puxi	d̪
-2298	0	Puxi	g
-2298	0	Puxi	t̪s̪
-2298	0	Puxi	t̪s̪ʰ
-2298	0	Puxi	d̪z̪
-2298	0	Puxi	ʈʂ
-2298	0	Puxi	ʈʂʰ
-2298	0	Puxi	ɖʐ
-2298	0	Puxi	tɕ
-2298	0	Puxi	tɕʰ
-2298	0	Puxi	dʑ
-2298	0	Puxi	f
-2298	0	Puxi	s
-2298	0	Puxi	ʂ
-2298	0	Puxi	ɕ
-2298	0	Puxi	χ
-2298	0	Puxi	z
-2298	0	Puxi	ʐ
-2298	0	Puxi	ʁ
-2298	0	Puxi	m
-2298	0	Puxi	n̪
-2298	0	Puxi	ɲ
-2298	0	Puxi	ŋ
-2298	0	Puxi	l
-2298	0	Puxi	m̩
-2298	0	Puxi	n̪̩
-2298	0	Puxi	ŋ̩
-2298	0	Puxi	i
-2298	0	Puxi	y
-2298	0	Puxi	u
-2298	0	Puxi	u˞
-2298	0	Puxi	e
-2298	0	Puxi	e˞
-2298	0	Puxi	o
-2298	0	Puxi	ə
-2298	0	Puxi	ə˞
-2298	0	Puxi	a
-2298	0	Puxi	ɑ
-2298	0	Puxi	ɑ˞
-2298	0	Puxi	ei
-2298	0	Puxi	ai
-2298	0	Puxi	əi
-2298	0	Puxi	əu
-2298	0	Puxi	ou
-2298	0	Puxi	ɑu
-2298	0	Puxi	ie
-2298	0	Puxi	iu
-2298	0	Puxi	io
-2298	0	Puxi	ui
-2298	0	Puxi	ue
-2298	0	Puxi	ua
-2298	0	Puxi	uə
-2298	0	Puxi	uɑ
-2298	0	Puxi	uɑ˞
-2298	0	Puxi	yi
-2298	0	Puxi	ye
-2298	0	Puxi	ya
+2298	NA	Puxi	p
+2298	NA	Puxi	t̪
+2298	NA	Puxi	k
+2298	NA	Puxi	q
+2298	NA	Puxi	pʰ
+2298	NA	Puxi	t̪ʰ
+2298	NA	Puxi	kʰ
+2298	NA	Puxi	qʰ
+2298	NA	Puxi	b
+2298	NA	Puxi	d̪
+2298	NA	Puxi	g
+2298	NA	Puxi	t̪s̪
+2298	NA	Puxi	t̪s̪ʰ
+2298	NA	Puxi	d̪z̪
+2298	NA	Puxi	ʈʂ
+2298	NA	Puxi	ʈʂʰ
+2298	NA	Puxi	ɖʐ
+2298	NA	Puxi	tɕ
+2298	NA	Puxi	tɕʰ
+2298	NA	Puxi	dʑ
+2298	NA	Puxi	f
+2298	NA	Puxi	s
+2298	NA	Puxi	ʂ
+2298	NA	Puxi	ɕ
+2298	NA	Puxi	χ
+2298	NA	Puxi	z
+2298	NA	Puxi	ʐ
+2298	NA	Puxi	ʁ
+2298	NA	Puxi	m
+2298	NA	Puxi	n̪
+2298	NA	Puxi	ɲ
+2298	NA	Puxi	ŋ
+2298	NA	Puxi	l
+2298	NA	Puxi	m̩
+2298	NA	Puxi	n̪̩
+2298	NA	Puxi	ŋ̩
+2298	NA	Puxi	i
+2298	NA	Puxi	y
+2298	NA	Puxi	u
+2298	NA	Puxi	u˞
+2298	NA	Puxi	e
+2298	NA	Puxi	e˞
+2298	NA	Puxi	o
+2298	NA	Puxi	ə
+2298	NA	Puxi	ə˞
+2298	NA	Puxi	a
+2298	NA	Puxi	ɑ
+2298	NA	Puxi	ɑ˞
+2298	NA	Puxi	ei
+2298	NA	Puxi	ai
+2298	NA	Puxi	əi
+2298	NA	Puxi	əu
+2298	NA	Puxi	ou
+2298	NA	Puxi	ɑu
+2298	NA	Puxi	ie
+2298	NA	Puxi	iu
+2298	NA	Puxi	io
+2298	NA	Puxi	ui
+2298	NA	Puxi	ue
+2298	NA	Puxi	ua
+2298	NA	Puxi	uə
+2298	NA	Puxi	uɑ
+2298	NA	Puxi	uɑ˞
+2298	NA	Puxi	yi
+2298	NA	Puxi	ye
+2298	NA	Puxi	ya
 2299	byh	Bhujel	p
 2299	byh	Bhujel	pʰ
 2299	byh	Bhujel	t̪
@@ -3692,68 +3692,68 @@ InventoryID	LanguageCode	LanguageName	Segment
 2326	vot	Votic (Jõgõperä)	æː
 2326	vot	Votic (Jõgõperä)	yː
 2326	vot	Votic (Jõgõperä)	øː
-2327	0	Rgyalthang Tibetan	p
-2327	0	Rgyalthang Tibetan	pʰ
-2327	0	Rgyalthang Tibetan	b
-2327	0	Rgyalthang Tibetan	ⁿb
-2327	0	Rgyalthang Tibetan	m
-2327	0	Rgyalthang Tibetan	m̥
-2327	0	Rgyalthang Tibetan	w
-2327	0	Rgyalthang Tibetan	ts
-2327	0	Rgyalthang Tibetan	tsʰ
-2327	0	Rgyalthang Tibetan	dz
-2327	0	Rgyalthang Tibetan	ⁿdz
-2327	0	Rgyalthang Tibetan	t
-2327	0	Rgyalthang Tibetan	tʰ
-2327	0	Rgyalthang Tibetan	d
-2327	0	Rgyalthang Tibetan	ⁿd
-2327	0	Rgyalthang Tibetan	n
-2327	0	Rgyalthang Tibetan	n̥
-2327	0	Rgyalthang Tibetan	s
-2327	0	Rgyalthang Tibetan	z
-2327	0	Rgyalthang Tibetan	ɬ
-2327	0	Rgyalthang Tibetan	l
-2327	0	Rgyalthang Tibetan	r
-2327	0	Rgyalthang Tibetan	ʈʂ
-2327	0	Rgyalthang Tibetan	ʈʂʰ
-2327	0	Rgyalthang Tibetan	ɖʐ
-2327	0	Rgyalthang Tibetan	ⁿɖʐ
-2327	0	Rgyalthang Tibetan	ʂ
-2327	0	Rgyalthang Tibetan	ʐ
-2327	0	Rgyalthang Tibetan	tɕ
-2327	0	Rgyalthang Tibetan	tɕʰ
-2327	0	Rgyalthang Tibetan	dʑ
-2327	0	Rgyalthang Tibetan	ⁿdʑ
-2327	0	Rgyalthang Tibetan	ɲ
-2327	0	Rgyalthang Tibetan	ɲ̊
-2327	0	Rgyalthang Tibetan	ɕ
-2327	0	Rgyalthang Tibetan	ʑ
-2327	0	Rgyalthang Tibetan	j
-2327	0	Rgyalthang Tibetan	k
-2327	0	Rgyalthang Tibetan	kʰ
-2327	0	Rgyalthang Tibetan	g
-2327	0	Rgyalthang Tibetan	ⁿg
-2327	0	Rgyalthang Tibetan	ŋ
-2327	0	Rgyalthang Tibetan	ʔ
-2327	0	Rgyalthang Tibetan	h
-2327	0	Rgyalthang Tibetan	i
-2327	0	Rgyalthang Tibetan	y
-2327	0	Rgyalthang Tibetan	e
-2327	0	Rgyalthang Tibetan	ɛ
-2327	0	Rgyalthang Tibetan	ə
-2327	0	Rgyalthang Tibetan	a
-2327	0	Rgyalthang Tibetan	ɯ
-2327	0	Rgyalthang Tibetan	u
-2327	0	Rgyalthang Tibetan	o
-2327	0	Rgyalthang Tibetan	iə
-2327	0	Rgyalthang Tibetan	ia
-2327	0	Rgyalthang Tibetan	iu
-2327	0	Rgyalthang Tibetan	yə
-2327	0	Rgyalthang Tibetan	ya
-2327	0	Rgyalthang Tibetan	ui
-2327	0	Rgyalthang Tibetan	uə
-2327	0	Rgyalthang Tibetan	ua
-2327	0	Rgyalthang Tibetan	ei
+2327	NA	Rgyalthang Tibetan	p
+2327	NA	Rgyalthang Tibetan	pʰ
+2327	NA	Rgyalthang Tibetan	b
+2327	NA	Rgyalthang Tibetan	ⁿb
+2327	NA	Rgyalthang Tibetan	m
+2327	NA	Rgyalthang Tibetan	m̥
+2327	NA	Rgyalthang Tibetan	w
+2327	NA	Rgyalthang Tibetan	ts
+2327	NA	Rgyalthang Tibetan	tsʰ
+2327	NA	Rgyalthang Tibetan	dz
+2327	NA	Rgyalthang Tibetan	ⁿdz
+2327	NA	Rgyalthang Tibetan	t
+2327	NA	Rgyalthang Tibetan	tʰ
+2327	NA	Rgyalthang Tibetan	d
+2327	NA	Rgyalthang Tibetan	ⁿd
+2327	NA	Rgyalthang Tibetan	n
+2327	NA	Rgyalthang Tibetan	n̥
+2327	NA	Rgyalthang Tibetan	s
+2327	NA	Rgyalthang Tibetan	z
+2327	NA	Rgyalthang Tibetan	ɬ
+2327	NA	Rgyalthang Tibetan	l
+2327	NA	Rgyalthang Tibetan	r
+2327	NA	Rgyalthang Tibetan	ʈʂ
+2327	NA	Rgyalthang Tibetan	ʈʂʰ
+2327	NA	Rgyalthang Tibetan	ɖʐ
+2327	NA	Rgyalthang Tibetan	ⁿɖʐ
+2327	NA	Rgyalthang Tibetan	ʂ
+2327	NA	Rgyalthang Tibetan	ʐ
+2327	NA	Rgyalthang Tibetan	tɕ
+2327	NA	Rgyalthang Tibetan	tɕʰ
+2327	NA	Rgyalthang Tibetan	dʑ
+2327	NA	Rgyalthang Tibetan	ⁿdʑ
+2327	NA	Rgyalthang Tibetan	ɲ
+2327	NA	Rgyalthang Tibetan	ɲ̊
+2327	NA	Rgyalthang Tibetan	ɕ
+2327	NA	Rgyalthang Tibetan	ʑ
+2327	NA	Rgyalthang Tibetan	j
+2327	NA	Rgyalthang Tibetan	k
+2327	NA	Rgyalthang Tibetan	kʰ
+2327	NA	Rgyalthang Tibetan	g
+2327	NA	Rgyalthang Tibetan	ⁿg
+2327	NA	Rgyalthang Tibetan	ŋ
+2327	NA	Rgyalthang Tibetan	ʔ
+2327	NA	Rgyalthang Tibetan	h
+2327	NA	Rgyalthang Tibetan	i
+2327	NA	Rgyalthang Tibetan	y
+2327	NA	Rgyalthang Tibetan	e
+2327	NA	Rgyalthang Tibetan	ɛ
+2327	NA	Rgyalthang Tibetan	ə
+2327	NA	Rgyalthang Tibetan	a
+2327	NA	Rgyalthang Tibetan	ɯ
+2327	NA	Rgyalthang Tibetan	u
+2327	NA	Rgyalthang Tibetan	o
+2327	NA	Rgyalthang Tibetan	iə
+2327	NA	Rgyalthang Tibetan	ia
+2327	NA	Rgyalthang Tibetan	iu
+2327	NA	Rgyalthang Tibetan	yə
+2327	NA	Rgyalthang Tibetan	ya
+2327	NA	Rgyalthang Tibetan	ui
+2327	NA	Rgyalthang Tibetan	uə
+2327	NA	Rgyalthang Tibetan	ua
+2327	NA	Rgyalthang Tibetan	ei
 2328	khg	Brag-g.yab Tibetan	p
 2328	khg	Brag-g.yab Tibetan	pʰ
 2328	khg	Brag-g.yab Tibetan	b
@@ -3938,42 +3938,42 @@ InventoryID	LanguageCode	LanguageName	Segment
 2331	gag	Gagauz (Standard)	(iː)
 2331	gag	Gagauz (Standard)	(yː)
 2331	gag	Gagauz (Standard)	(i̯e̞)
-2332	0	Northwestern Pashto	pʰ
-2332	0	Northwestern Pashto	b
-2332	0	Northwestern Pashto	t̪ʰ
-2332	0	Northwestern Pashto	d̪
-2332	0	Northwestern Pashto	ʈʰ
-2332	0	Northwestern Pashto	ɖ
-2332	0	Northwestern Pashto	kʰ
-2332	0	Northwestern Pashto	g
-2332	0	Northwestern Pashto	tʃʰ
-2332	0	Northwestern Pashto	dʒ
-2332	0	Northwestern Pashto	x
-2332	0	Northwestern Pashto	ɣ
-2332	0	Northwestern Pashto	h
-2332	0	Northwestern Pashto	s
-2332	0	Northwestern Pashto	z
-2332	0	Northwestern Pashto	ʃ
-2332	0	Northwestern Pashto	ʒ
-2332	0	Northwestern Pashto	m
-2332	0	Northwestern Pashto	n
-2332	0	Northwestern Pashto	ɽ
-2332	0	Northwestern Pashto	ɽ̃
-2332	0	Northwestern Pashto	w
-2332	0	Northwestern Pashto	j
-2332	0	Northwestern Pashto	ç
-2332	0	Northwestern Pashto	ʝ
-2332	0	Northwestern Pashto	ɪ
-2332	0	Northwestern Pashto	ʊ
-2332	0	Northwestern Pashto	iː
-2332	0	Northwestern Pashto	uː
-2332	0	Northwestern Pashto	eː
-2332	0	Northwestern Pashto	oː
-2332	0	Northwestern Pashto	ɛ
-2332	0	Northwestern Pashto	ə
-2332	0	Northwestern Pashto	a
-2332	0	Northwestern Pashto	aː
-2332	0	Northwestern Pashto	ɑː
+2332	NA	Northwestern Pashto	pʰ
+2332	NA	Northwestern Pashto	b
+2332	NA	Northwestern Pashto	t̪ʰ
+2332	NA	Northwestern Pashto	d̪
+2332	NA	Northwestern Pashto	ʈʰ
+2332	NA	Northwestern Pashto	ɖ
+2332	NA	Northwestern Pashto	kʰ
+2332	NA	Northwestern Pashto	g
+2332	NA	Northwestern Pashto	tʃʰ
+2332	NA	Northwestern Pashto	dʒ
+2332	NA	Northwestern Pashto	x
+2332	NA	Northwestern Pashto	ɣ
+2332	NA	Northwestern Pashto	h
+2332	NA	Northwestern Pashto	s
+2332	NA	Northwestern Pashto	z
+2332	NA	Northwestern Pashto	ʃ
+2332	NA	Northwestern Pashto	ʒ
+2332	NA	Northwestern Pashto	m
+2332	NA	Northwestern Pashto	n
+2332	NA	Northwestern Pashto	ɽ
+2332	NA	Northwestern Pashto	ɽ̃
+2332	NA	Northwestern Pashto	w
+2332	NA	Northwestern Pashto	j
+2332	NA	Northwestern Pashto	ç
+2332	NA	Northwestern Pashto	ʝ
+2332	NA	Northwestern Pashto	ɪ
+2332	NA	Northwestern Pashto	ʊ
+2332	NA	Northwestern Pashto	iː
+2332	NA	Northwestern Pashto	uː
+2332	NA	Northwestern Pashto	eː
+2332	NA	Northwestern Pashto	oː
+2332	NA	Northwestern Pashto	ɛ
+2332	NA	Northwestern Pashto	ə
+2332	NA	Northwestern Pashto	a
+2332	NA	Northwestern Pashto	aː
+2332	NA	Northwestern Pashto	ɑː
 2333	sou	Soutern Tai (Ko Samui)	p
 2333	sou	Soutern Tai (Ko Samui)	t
 2333	sou	Soutern Tai (Ko Samui)	c
@@ -4419,7 +4419,7 @@ InventoryID	LanguageCode	LanguageName	Segment
 2343	rue	Rusyn (Lemko)	rʲ
 2343	rue	Rusyn (Lemko)	j
 2343	rue	Rusyn (Lemko)	ɲ
-2343	rue	Rusyn (Lemko)	ʑ
+2343	rue	Rusyn (Lemko)	 ʑ
 2343	rue	Rusyn (Lemko)	ɕ
 2343	rue	Rusyn (Lemko)	dʑ
 2343	rue	Rusyn (Lemko)	tɕ
@@ -4748,59 +4748,59 @@ InventoryID	LanguageCode	LanguageName	Segment
 2349	ady	Adyghe	a
 2349	ady	Adyghe	e
 2349	ady	Adyghe	ə
-2350	0	Northern Cuona	p
-2350	0	Northern Cuona	pʰ
-2350	0	Northern Cuona	b
-2350	0	Northern Cuona	m
-2350	0	Northern Cuona	w
-2350	0	Northern Cuona	t
-2350	0	Northern Cuona	tʰ
-2350	0	Northern Cuona	d
-2350	0	Northern Cuona	n
-2350	0	Northern Cuona	l
-2350	0	Northern Cuona	l̥
-2350	0	Northern Cuona	ts
-2350	0	Northern Cuona	tsʰ
-2350	0	Northern Cuona	dz
-2350	0	Northern Cuona	s
-2350	0	Northern Cuona	z
-2350	0	Northern Cuona	r
-2350	0	Northern Cuona	ʈʂ
-2350	0	Northern Cuona	ʈʂʰ
-2350	0	Northern Cuona	ɖʐ
-2350	0	Northern Cuona	ʂ
-2350	0	Northern Cuona	tɕ
-2350	0	Northern Cuona	tɕʰ
-2350	0	Northern Cuona	dʑ
-2350	0	Northern Cuona	ɕ
-2350	0	Northern Cuona	ʑ
-2350	0	Northern Cuona	ɲ
-2350	0	Northern Cuona	j
-2350	0	Northern Cuona	k
-2350	0	Northern Cuona	kʰ
-2350	0	Northern Cuona	g
-2350	0	Northern Cuona	x
-2350	0	Northern Cuona	ɣ
-2350	0	Northern Cuona	ŋ
-2350	0	Northern Cuona	i
-2350	0	Northern Cuona	y
-2350	0	Northern Cuona	u
-2350	0	Northern Cuona	e
-2350	0	Northern Cuona	ø
-2350	0	Northern Cuona	ə
-2350	0	Northern Cuona	o
-2350	0	Northern Cuona	ɑ
-2350	0	Northern Cuona	iu
-2350	0	Northern Cuona	yu
-2350	0	Northern Cuona	ui
-2350	0	Northern Cuona	eu
-2350	0	Northern Cuona	øu
-2350	0	Northern Cuona	əu
-2350	0	Northern Cuona	io
-2350	0	Northern Cuona	ɑi
-2350	0	Northern Cuona	iɑ
-2350	0	Northern Cuona	uɑ
-2350	0	Northern Cuona	ɑu
+2350	NA	Northern Cuona	p
+2350	NA	Northern Cuona	pʰ
+2350	NA	Northern Cuona	b
+2350	NA	Northern Cuona	m
+2350	NA	Northern Cuona	w
+2350	NA	Northern Cuona	t
+2350	NA	Northern Cuona	tʰ
+2350	NA	Northern Cuona	d
+2350	NA	Northern Cuona	n
+2350	NA	Northern Cuona	l
+2350	NA	Northern Cuona	l̥
+2350	NA	Northern Cuona	ts
+2350	NA	Northern Cuona	tsʰ
+2350	NA	Northern Cuona	dz
+2350	NA	Northern Cuona	s
+2350	NA	Northern Cuona	z
+2350	NA	Northern Cuona	r
+2350	NA	Northern Cuona	ʈʂ
+2350	NA	Northern Cuona	ʈʂʰ
+2350	NA	Northern Cuona	ɖʐ
+2350	NA	Northern Cuona	ʂ
+2350	NA	Northern Cuona	tɕ
+2350	NA	Northern Cuona	tɕʰ
+2350	NA	Northern Cuona	dʑ
+2350	NA	Northern Cuona	ɕ
+2350	NA	Northern Cuona	ʑ
+2350	NA	Northern Cuona	ɲ
+2350	NA	Northern Cuona	j
+2350	NA	Northern Cuona	k
+2350	NA	Northern Cuona	kʰ
+2350	NA	Northern Cuona	g
+2350	NA	Northern Cuona	x
+2350	NA	Northern Cuona	ɣ
+2350	NA	Northern Cuona	ŋ
+2350	NA	Northern Cuona	i
+2350	NA	Northern Cuona	y
+2350	NA	Northern Cuona	u
+2350	NA	Northern Cuona	e
+2350	NA	Northern Cuona	ø
+2350	NA	Northern Cuona	ə
+2350	NA	Northern Cuona	o
+2350	NA	Northern Cuona	ɑ
+2350	NA	Northern Cuona	iu
+2350	NA	Northern Cuona	yu
+2350	NA	Northern Cuona	ui
+2350	NA	Northern Cuona	eu
+2350	NA	Northern Cuona	øu
+2350	NA	Northern Cuona	əu
+2350	NA	Northern Cuona	io
+2350	NA	Northern Cuona	ɑi
+2350	NA	Northern Cuona	iɑ
+2350	NA	Northern Cuona	uɑ
+2350	NA	Northern Cuona	ɑu
 2351	oss	Iron Ossetic (Tual-Ch)	pʰ
 2351	oss	Iron Ossetic (Tual-Ch)	p
 2351	oss	Iron Ossetic (Tual-Ch)	b̥
@@ -4845,64 +4845,64 @@ InventoryID	LanguageCode	LanguageName	Segment
 2351	oss	Iron Ossetic (Tual-Ch)	o̞
 2351	oss	Iron Ossetic (Tual-Ch)	ɐ̆
 2351	oss	Iron Ossetic (Tual-Ch)	ɑ̝̹
-2352	0	Lizu	p
-2352	0	Lizu	pʰ
-2352	0	Lizu	b
-2352	0	Lizu	t
-2352	0	Lizu	tʰ
-2352	0	Lizu	d
-2352	0	Lizu	k
-2352	0	Lizu	kʰ
-2352	0	Lizu	g
-2352	0	Lizu	q
-2352	0	Lizu	qʰ
-2352	0	Lizu	ʔ
-2352	0	Lizu	ts
-2352	0	Lizu	tsʰ
-2352	0	Lizu	dz
-2352	0	Lizu	tʃ
-2352	0	Lizu	tʃʰ
-2352	0	Lizu	dʒ
-2352	0	Lizu	tɕ
-2352	0	Lizu	tɕʰ
-2352	0	Lizu	dʑ
-2352	0	Lizu	m
-2352	0	Lizu	n
-2352	0	Lizu	ɲ
-2352	0	Lizu	ŋ
-2352	0	Lizu	s
-2352	0	Lizu	z
-2352	0	Lizu	ʃ
-2352	0	Lizu	ʒ
-2352	0	Lizu	ɕ
-2352	0	Lizu	ʑ
-2352	0	Lizu	x
-2352	0	Lizu	ɣ
-2352	0	Lizu	h
-2352	0	Lizu	w
-2352	0	Lizu	ɹ
-2352	0	Lizu	j
-2352	0	Lizu	l
-2352	0	Lizu	ɬ
-2352	0	Lizu	ⁿpʰ
-2352	0	Lizu	ⁿb
-2352	0	Lizu	ⁿtʰ
-2352	0	Lizu	ⁿd
-2352	0	Lizu	ⁿtsʰ
-2352	0	Lizu	ⁿdz
-2352	0	Lizu	ⁿtʃʰ
-2352	0	Lizu	ⁿdʒ
-2352	0	Lizu	ⁿtɕʰ
-2352	0	Lizu	ⁿdʑ
-2352	0	Lizu	ŋ̩
-2352	0	Lizu	i
-2352	0	Lizu	e
-2352	0	Lizu	æ
-2352	0	Lizu	ɐ
-2352	0	Lizu	o
-2352	0	Lizu	u
-2352	0	Lizu	y
-2352	0	Lizu	ə
+2352	NA	Lizu	p
+2352	NA	Lizu	pʰ
+2352	NA	Lizu	b
+2352	NA	Lizu	t
+2352	NA	Lizu	tʰ
+2352	NA	Lizu	d
+2352	NA	Lizu	k
+2352	NA	Lizu	kʰ
+2352	NA	Lizu	g
+2352	NA	Lizu	q
+2352	NA	Lizu	qʰ
+2352	NA	Lizu	ʔ
+2352	NA	Lizu	ts
+2352	NA	Lizu	tsʰ
+2352	NA	Lizu	dz
+2352	NA	Lizu	tʃ
+2352	NA	Lizu	tʃʰ
+2352	NA	Lizu	dʒ
+2352	NA	Lizu	tɕ
+2352	NA	Lizu	tɕʰ
+2352	NA	Lizu	dʑ
+2352	NA	Lizu	m
+2352	NA	Lizu	n
+2352	NA	Lizu	ɲ
+2352	NA	Lizu	ŋ
+2352	NA	Lizu	s
+2352	NA	Lizu	z
+2352	NA	Lizu	ʃ
+2352	NA	Lizu	ʒ
+2352	NA	Lizu	ɕ
+2352	NA	Lizu	ʑ
+2352	NA	Lizu	x
+2352	NA	Lizu	ɣ
+2352	NA	Lizu	h
+2352	NA	Lizu	w
+2352	NA	Lizu	ɹ
+2352	NA	Lizu	j
+2352	NA	Lizu	l
+2352	NA	Lizu	ɬ
+2352	NA	Lizu	ⁿpʰ
+2352	NA	Lizu	ⁿb
+2352	NA	Lizu	ⁿtʰ
+2352	NA	Lizu	ⁿd
+2352	NA	Lizu	ⁿtsʰ
+2352	NA	Lizu	ⁿdz
+2352	NA	Lizu	ⁿtʃʰ
+2352	NA	Lizu	ⁿdʒ
+2352	NA	Lizu	ⁿtɕʰ
+2352	NA	Lizu	ⁿdʑ
+2352	NA	Lizu	ŋ̩
+2352	NA	Lizu	i
+2352	NA	Lizu	e
+2352	NA	Lizu	æ
+2352	NA	Lizu	ɐ
+2352	NA	Lizu	o
+2352	NA	Lizu	u
+2352	NA	Lizu	y
+2352	NA	Lizu	ə
 2353	udm	Udmurt (Udmurt Tašly)	p
 2353	udm	Udmurt (Udmurt Tašly)	t̻
 2353	udm	Udmurt (Udmurt Tašly)	k
@@ -5019,7 +5019,7 @@ InventoryID	LanguageCode	LanguageName	Segment
 2356	chx	Chantyal	d
 2356	chx	Chantyal	dz
 2356	chx	Chantyal	ɡ
-2356	chx	Chantyal	m
+2356	chx	Chantyal	m 
 2356	chx	Chantyal	n
 2356	chx	Chantyal	ɲ
 2356	chx	Chantyal	ŋ
@@ -5829,65 +5829,65 @@ InventoryID	LanguageCode	LanguageName	Segment
 2378	fao	Faroese	ɔu
 2378	fao	Faroese	ɛa
 2378	fao	Faroese	ɔa
-2379	0	Southern Cuona	p
-2379	0	Southern Cuona	pʰ
-2379	0	Southern Cuona	b
-2379	0	Southern Cuona	m
-2379	0	Southern Cuona	w
-2379	0	Southern Cuona	t
-2379	0	Southern Cuona	tʰ
-2379	0	Southern Cuona	d
-2379	0	Southern Cuona	n
-2379	0	Southern Cuona	l
-2379	0	Southern Cuona	l̥
-2379	0	Southern Cuona	ts
-2379	0	Southern Cuona	tsʰ
-2379	0	Southern Cuona	dz
-2379	0	Southern Cuona	s
-2379	0	Southern Cuona	z
-2379	0	Southern Cuona	r
-2379	0	Southern Cuona	ʈʂ
-2379	0	Southern Cuona	ʈʂʰ
-2379	0	Southern Cuona	ɖʐ
-2379	0	Southern Cuona	ʂ
-2379	0	Southern Cuona	tɕ
-2379	0	Southern Cuona	tɕʰ
-2379	0	Southern Cuona	dʑ
-2379	0	Southern Cuona	ɕ
-2379	0	Southern Cuona	ʑ
-2379	0	Southern Cuona	ɲ
-2379	0	Southern Cuona	c
-2379	0	Southern Cuona	cʰ
-2379	0	Southern Cuona	ɟ
-2379	0	Southern Cuona	j
-2379	0	Southern Cuona	k
-2379	0	Southern Cuona	kʰ
-2379	0	Southern Cuona	g
-2379	0	Southern Cuona	ŋ
-2379	0	Southern Cuona	ʔ
-2379	0	Southern Cuona	h
-2379	0	Southern Cuona	i
-2379	0	Southern Cuona	y
-2379	0	Southern Cuona	u
-2379	0	Southern Cuona	e
-2379	0	Southern Cuona	ø
-2379	0	Southern Cuona	o
-2379	0	Southern Cuona	ɛ
-2379	0	Southern Cuona	a
-2379	0	Southern Cuona	ɔ
-2379	0	Southern Cuona	iː
-2379	0	Southern Cuona	yː
-2379	0	Southern Cuona	uː
-2379	0	Southern Cuona	eː
-2379	0	Southern Cuona	øː
-2379	0	Southern Cuona	oː
-2379	0	Southern Cuona	ɛː
-2379	0	Southern Cuona	aː
-2379	0	Southern Cuona	ɔː
-2379	0	Southern Cuona	iu
-2379	0	Southern Cuona	eu
-2379	0	Southern Cuona	ai
-2379	0	Southern Cuona	au
+2379	NA	Southern Cuona	p
+2379	NA	Southern Cuona	pʰ
+2379	NA	Southern Cuona	b
+2379	NA	Southern Cuona	m
+2379	NA	Southern Cuona	w
+2379	NA	Southern Cuona	t
+2379	NA	Southern Cuona	tʰ
+2379	NA	Southern Cuona	d
+2379	NA	Southern Cuona	n
+2379	NA	Southern Cuona	l
+2379	NA	Southern Cuona	l̥
+2379	NA	Southern Cuona	ts
+2379	NA	Southern Cuona	tsʰ
+2379	NA	Southern Cuona	dz
+2379	NA	Southern Cuona	s
+2379	NA	Southern Cuona	z
+2379	NA	Southern Cuona	r
+2379	NA	Southern Cuona	ʈʂ
+2379	NA	Southern Cuona	ʈʂʰ
+2379	NA	Southern Cuona	ɖʐ
+2379	NA	Southern Cuona	ʂ
+2379	NA	Southern Cuona	tɕ
+2379	NA	Southern Cuona	tɕʰ
+2379	NA	Southern Cuona	dʑ
+2379	NA	Southern Cuona	ɕ
+2379	NA	Southern Cuona	ʑ
+2379	NA	Southern Cuona	ɲ
+2379	NA	Southern Cuona	c
+2379	NA	Southern Cuona	cʰ
+2379	NA	Southern Cuona	ɟ
+2379	NA	Southern Cuona	j
+2379	NA	Southern Cuona	k
+2379	NA	Southern Cuona	kʰ
+2379	NA	Southern Cuona	g
+2379	NA	Southern Cuona	ŋ
+2379	NA	Southern Cuona	ʔ
+2379	NA	Southern Cuona	h
+2379	NA	Southern Cuona	i
+2379	NA	Southern Cuona	y
+2379	NA	Southern Cuona	u
+2379	NA	Southern Cuona	e
+2379	NA	Southern Cuona	ø
+2379	NA	Southern Cuona	o
+2379	NA	Southern Cuona	ɛ
+2379	NA	Southern Cuona	a
+2379	NA	Southern Cuona	ɔ
+2379	NA	Southern Cuona	iː
+2379	NA	Southern Cuona	yː
+2379	NA	Southern Cuona	uː
+2379	NA	Southern Cuona	eː
+2379	NA	Southern Cuona	øː
+2379	NA	Southern Cuona	oː
+2379	NA	Southern Cuona	ɛː
+2379	NA	Southern Cuona	aː
+2379	NA	Southern Cuona	ɔː
+2379	NA	Southern Cuona	iu
+2379	NA	Southern Cuona	eu
+2379	NA	Southern Cuona	ai
+2379	NA	Southern Cuona	au
 2380	bod	Lhasa Tibetan	p
 2380	bod	Lhasa Tibetan	pʰ
 2380	bod	Lhasa Tibetan	m
@@ -5938,49 +5938,49 @@ InventoryID	LanguageCode	LanguageName	Segment
 2380	bod	Lhasa Tibetan	õː
 2380	bod	Lhasa Tibetan	ɔ
 2380	bod	Lhasa Tibetan	ɔː
-2381	0	Zuberoan Basque	p
-2381	0	Zuberoan Basque	t
-2381	0	Zuberoan Basque	c
-2381	0	Zuberoan Basque	k
-2381	0	Zuberoan Basque	b
-2381	0	Zuberoan Basque	d
-2381	0	Zuberoan Basque	ɟ
-2381	0	Zuberoan Basque	g
-2381	0	Zuberoan Basque	pʰ
-2381	0	Zuberoan Basque	tʰ
-2381	0	Zuberoan Basque	kʰ
-2381	0	Zuberoan Basque	f
-2381	0	Zuberoan Basque	s̻
-2381	0	Zuberoan Basque	s̺
-2381	0	Zuberoan Basque	ʃ
-2381	0	Zuberoan Basque	ʒ
-2381	0	Zuberoan Basque	z̺
-2381	0	Zuberoan Basque	z̻
-2381	0	Zuberoan Basque	ts̺
-2381	0	Zuberoan Basque	ts̻
-2381	0	Zuberoan Basque	tʃ
-2381	0	Zuberoan Basque	m
-2381	0	Zuberoan Basque	n̺
-2381	0	Zuberoan Basque	ɲ
-2381	0	Zuberoan Basque	l̺
-2381	0	Zuberoan Basque	r̺
-2381	0	Zuberoan Basque	ʎ
-2381	0	Zuberoan Basque	h
-2381	0	Zuberoan Basque	h̃
-2381	0	Zuberoan Basque	ä
-2381	0	Zuberoan Basque	e̞
-2381	0	Zuberoan Basque	o̞
-2381	0	Zuberoan Basque	i
-2381	0	Zuberoan Basque	u
-2381	0	Zuberoan Basque	y
-2381	0	Zuberoan Basque	ä̃
-2381	0	Zuberoan Basque	ẽ̞
-2381	0	Zuberoan Basque	õ̞
-2381	0	Zuberoan Basque	ĩ
-2381	0	Zuberoan Basque	ũ
-2381	0	Zuberoan Basque	ỹ
-2381	0	Zuberoan Basque	i̯
-2381	0	Zuberoan Basque	u̯
+2381	NA	Zuberoan Basque	p
+2381	NA	Zuberoan Basque	t
+2381	NA	Zuberoan Basque	c
+2381	NA	Zuberoan Basque	k
+2381	NA	Zuberoan Basque	b
+2381	NA	Zuberoan Basque	d
+2381	NA	Zuberoan Basque	ɟ
+2381	NA	Zuberoan Basque	g
+2381	NA	Zuberoan Basque	pʰ
+2381	NA	Zuberoan Basque	tʰ
+2381	NA	Zuberoan Basque	kʰ
+2381	NA	Zuberoan Basque	f
+2381	NA	Zuberoan Basque	s̻
+2381	NA	Zuberoan Basque	s̺
+2381	NA	Zuberoan Basque	ʃ
+2381	NA	Zuberoan Basque	ʒ
+2381	NA	Zuberoan Basque	z̺
+2381	NA	Zuberoan Basque	z̻
+2381	NA	Zuberoan Basque	ts̺
+2381	NA	Zuberoan Basque	ts̻
+2381	NA	Zuberoan Basque	tʃ
+2381	NA	Zuberoan Basque	m
+2381	NA	Zuberoan Basque	n̺
+2381	NA	Zuberoan Basque	ɲ
+2381	NA	Zuberoan Basque	l̺
+2381	NA	Zuberoan Basque	r̺
+2381	NA	Zuberoan Basque	ʎ
+2381	NA	Zuberoan Basque	h
+2381	NA	Zuberoan Basque	h̃
+2381	NA	Zuberoan Basque	ä
+2381	NA	Zuberoan Basque	e̞
+2381	NA	Zuberoan Basque	o̞
+2381	NA	Zuberoan Basque	i
+2381	NA	Zuberoan Basque	u
+2381	NA	Zuberoan Basque	y
+2381	NA	Zuberoan Basque	ä̃
+2381	NA	Zuberoan Basque	ẽ̞
+2381	NA	Zuberoan Basque	õ̞
+2381	NA	Zuberoan Basque	ĩ
+2381	NA	Zuberoan Basque	ũ
+2381	NA	Zuberoan Basque	ỹ
+2381	NA	Zuberoan Basque	i̯
+2381	NA	Zuberoan Basque	u̯
 2382	kir	Kyrgyz (Standard)	p
 2382	kir	Kyrgyz (Standard)	b
 2382	kir	Kyrgyz (Standard)	f
@@ -6052,43 +6052,43 @@ InventoryID	LanguageCode	LanguageName	Segment
 2383	drd	Darma	a
 2383	drd	Darma	ã
 2383	drd	Darma	õ
-2384	0	Yodzyak Komi	p
-2384	0	Yodzyak Komi	t̻
-2384	0	Yodzyak Komi	k
-2384	0	Yodzyak Komi	c
-2384	0	Yodzyak Komi	b
-2384	0	Yodzyak Komi	d̻
-2384	0	Yodzyak Komi	g
-2384	0	Yodzyak Komi	ɟ̟
-2384	0	Yodzyak Komi	s̻
-2384	0	Yodzyak Komi	ʂ
-2384	0	Yodzyak Komi	ɕ
-2384	0	Yodzyak Komi	v
-2384	0	Yodzyak Komi	z̻
-2384	0	Yodzyak Komi	ʐ
-2384	0	Yodzyak Komi	ʑ
-2384	0	Yodzyak Komi	tɕ
-2384	0	Yodzyak Komi	dʑ
-2384	0	Yodzyak Komi	t̻s̻̪
-2384	0	Yodzyak Komi	ʈʂ
-2384	0	Yodzyak Komi	ɖʐ
-2384	0	Yodzyak Komi	f
-2384	0	Yodzyak Komi	m
-2384	0	Yodzyak Komi	n̻
-2384	0	Yodzyak Komi	ɲ̟
-2384	0	Yodzyak Komi	ɫ
-2384	0	Yodzyak Komi	r
-2384	0	Yodzyak Komi	ʎ̟
-2384	0	Yodzyak Komi	j
-2384	0	Yodzyak Komi	rʲ
-2384	0	Yodzyak Komi	ʌ
-2384	0	Yodzyak Komi	ʉ̟
-2384	0	Yodzyak Komi	ɵ̟
-2384	0	Yodzyak Komi	i̠
-2384	0	Yodzyak Komi	e̠
-2384	0	Yodzyak Komi	o
-2384	0	Yodzyak Komi	ä̠
-2384	0	Yodzyak Komi	u
+2384	NA	Yodzyak Komi	p
+2384	NA	Yodzyak Komi	t̻
+2384	NA	Yodzyak Komi	k
+2384	NA	Yodzyak Komi	c
+2384	NA	Yodzyak Komi	b
+2384	NA	Yodzyak Komi	d̻
+2384	NA	Yodzyak Komi	g
+2384	NA	Yodzyak Komi	ɟ̟
+2384	NA	Yodzyak Komi	s̻
+2384	NA	Yodzyak Komi	ʂ
+2384	NA	Yodzyak Komi	ɕ
+2384	NA	Yodzyak Komi	v
+2384	NA	Yodzyak Komi	z̻
+2384	NA	Yodzyak Komi	ʐ
+2384	NA	Yodzyak Komi	ʑ
+2384	NA	Yodzyak Komi	tɕ
+2384	NA	Yodzyak Komi	dʑ
+2384	NA	Yodzyak Komi	t̻s̻̪
+2384	NA	Yodzyak Komi	ʈʂ
+2384	NA	Yodzyak Komi	ɖʐ
+2384	NA	Yodzyak Komi	f
+2384	NA	Yodzyak Komi	m
+2384	NA	Yodzyak Komi	n̻
+2384	NA	Yodzyak Komi	ɲ̟
+2384	NA	Yodzyak Komi	ɫ
+2384	NA	Yodzyak Komi	r
+2384	NA	Yodzyak Komi	ʎ̟
+2384	NA	Yodzyak Komi	j
+2384	NA	Yodzyak Komi	rʲ
+2384	NA	Yodzyak Komi	ʌ
+2384	NA	Yodzyak Komi	ʉ̟
+2384	NA	Yodzyak Komi	ɵ̟
+2384	NA	Yodzyak Komi	i̠
+2384	NA	Yodzyak Komi	e̠
+2384	NA	Yodzyak Komi	o
+2384	NA	Yodzyak Komi	ä̠
+2384	NA	Yodzyak Komi	u
 2385	lao	Lao (Luang Prabang)	p
 2385	lao	Lao (Luang Prabang)	t
 2385	lao	Lao (Luang Prabang)	c
@@ -6204,42 +6204,42 @@ InventoryID	LanguageCode	LanguageName	Segment
 2387	tel	Telugu (Standard)	æː
 2387	tel	Telugu (Standard)	a
 2387	tel	Telugu (Standard)	aː
-2388	0	Dolakha Newar	p
-2388	0	Dolakha Newar	t
-2388	0	Dolakha Newar	ʈ
-2388	0	Dolakha Newar	tɕ
-2388	0	Dolakha Newar	k
-2388	0	Dolakha Newar	pʰ
-2388	0	Dolakha Newar	tʰ
-2388	0	Dolakha Newar	ʈʰ
-2388	0	Dolakha Newar	tɕʰ
-2388	0	Dolakha Newar	kʰ
-2388	0	Dolakha Newar	b
-2388	0	Dolakha Newar	d
-2388	0	Dolakha Newar	ɖ
-2388	0	Dolakha Newar	dʑ
-2388	0	Dolakha Newar	ɡ
-2388	0	Dolakha Newar	m
-2388	0	Dolakha Newar	n
-2388	0	Dolakha Newar	ŋ
-2388	0	Dolakha Newar	s
-2388	0	Dolakha Newar	h
-2388	0	Dolakha Newar	l
-2388	0	Dolakha Newar	ɾ
-2388	0	Dolakha Newar	w
-2388	0	Dolakha Newar	j
-2388	0	Dolakha Newar	i
-2388	0	Dolakha Newar	ĩ
-2388	0	Dolakha Newar	u
-2388	0	Dolakha Newar	ũ
-2388	0	Dolakha Newar	e
-2388	0	Dolakha Newar	ẽ
-2388	0	Dolakha Newar	o
-2388	0	Dolakha Newar	õ
-2388	0	Dolakha Newar	a
-2388	0	Dolakha Newar	ã
-2388	0	Dolakha Newar	ɑ
-2388	0	Dolakha Newar	ɑ̃
+2388	NA	Dolakha Newar	p
+2388	NA	Dolakha Newar	t
+2388	NA	Dolakha Newar	ʈ
+2388	NA	Dolakha Newar	tɕ
+2388	NA	Dolakha Newar	k
+2388	NA	Dolakha Newar	pʰ
+2388	NA	Dolakha Newar	tʰ
+2388	NA	Dolakha Newar	ʈʰ
+2388	NA	Dolakha Newar	tɕʰ
+2388	NA	Dolakha Newar	kʰ
+2388	NA	Dolakha Newar	b
+2388	NA	Dolakha Newar	d
+2388	NA	Dolakha Newar	ɖ
+2388	NA	Dolakha Newar	dʑ
+2388	NA	Dolakha Newar	ɡ
+2388	NA	Dolakha Newar	m
+2388	NA	Dolakha Newar	n
+2388	NA	Dolakha Newar	ŋ
+2388	NA	Dolakha Newar	s
+2388	NA	Dolakha Newar	h
+2388	NA	Dolakha Newar	l
+2388	NA	Dolakha Newar	ɾ
+2388	NA	Dolakha Newar	w
+2388	NA	Dolakha Newar	j
+2388	NA	Dolakha Newar	i
+2388	NA	Dolakha Newar	ĩ
+2388	NA	Dolakha Newar	u
+2388	NA	Dolakha Newar	ũ
+2388	NA	Dolakha Newar	e
+2388	NA	Dolakha Newar	ẽ
+2388	NA	Dolakha Newar	o
+2388	NA	Dolakha Newar	õ
+2388	NA	Dolakha Newar	a
+2388	NA	Dolakha Newar	ã
+2388	NA	Dolakha Newar	ɑ
+2388	NA	Dolakha Newar	ɑ̃
 2389	oss	Iron Ossetic (Urs-Tual)	pʰ
 2389	oss	Iron Ossetic (Urs-Tual)	p
 2389	oss	Iron Ossetic (Urs-Tual)	b̥
@@ -7042,64 +7042,64 @@ InventoryID	LanguageCode	LanguageName	Segment
 2406	cym	Welsh (Llanwrtyd)	ɛu
 2406	cym	Welsh (Llanwrtyd)	au
 2406	cym	Welsh (Llanwrtyd)	əu
-2407	0	Japhug	p
-2407	0	Japhug	t
-2407	0	Japhug	c
-2407	0	Japhug	k
-2407	0	Japhug	q
-2407	0	Japhug	pʰ
-2407	0	Japhug	tʰ
-2407	0	Japhug	cʰ
-2407	0	Japhug	kʰ
-2407	0	Japhug	qʰ
-2407	0	Japhug	b
-2407	0	Japhug	d
-2407	0	Japhug	ɟ
-2407	0	Japhug	ɡ
-2407	0	Japhug	ⁿb
-2407	0	Japhug	ⁿd
-2407	0	Japhug	ⁿɟ
-2407	0	Japhug	ⁿɡ
-2407	0	Japhug	ⁿɢ
-2407	0	Japhug	ts
-2407	0	Japhug	tɕ
-2407	0	Japhug	ʈʂ
-2407	0	Japhug	tsʰ
-2407	0	Japhug	tɕʰ
-2407	0	Japhug	ʈʂʰ
-2407	0	Japhug	dz
-2407	0	Japhug	dʑ
-2407	0	Japhug	ɖʐ
-2407	0	Japhug	ⁿdz
-2407	0	Japhug	ⁿdʑ
-2407	0	Japhug	ⁿɖʐ
-2407	0	Japhug	m
-2407	0	Japhug	n
-2407	0	Japhug	ɲ
-2407	0	Japhug	ŋ
-2407	0	Japhug	s
-2407	0	Japhug	ɕ
-2407	0	Japhug	ʂ
-2407	0	Japhug	x
-2407	0	Japhug	χ
-2407	0	Japhug	z
-2407	0	Japhug	ʑ
-2407	0	Japhug	ɣ
-2407	0	Japhug	ʁ
-2407	0	Japhug	w
-2407	0	Japhug	l
-2407	0	Japhug	r
-2407	0	Japhug	j
-2407	0	Japhug	l̥
-2407	0	Japhug	ʔ
-2407	0	Japhug	u
-2407	0	Japhug	ɯ
-2407	0	Japhug	i
-2407	0	Japhug	y
-2407	0	Japhug	o
-2407	0	Japhug	ɤ
-2407	0	Japhug	e
-2407	0	Japhug	a
+2407	NA	Japhug	p
+2407	NA	Japhug	t
+2407	NA	Japhug	c
+2407	NA	Japhug	k
+2407	NA	Japhug	q
+2407	NA	Japhug	pʰ
+2407	NA	Japhug	tʰ
+2407	NA	Japhug	cʰ
+2407	NA	Japhug	kʰ
+2407	NA	Japhug	qʰ
+2407	NA	Japhug	b
+2407	NA	Japhug	d
+2407	NA	Japhug	ɟ
+2407	NA	Japhug	ɡ
+2407	NA	Japhug	ⁿb
+2407	NA	Japhug	ⁿd
+2407	NA	Japhug	ⁿɟ
+2407	NA	Japhug	ⁿɡ
+2407	NA	Japhug	ⁿɢ
+2407	NA	Japhug	ts
+2407	NA	Japhug	tɕ
+2407	NA	Japhug	ʈʂ
+2407	NA	Japhug	tsʰ
+2407	NA	Japhug	tɕʰ
+2407	NA	Japhug	ʈʂʰ
+2407	NA	Japhug	dz
+2407	NA	Japhug	dʑ
+2407	NA	Japhug	ɖʐ
+2407	NA	Japhug	ⁿdz
+2407	NA	Japhug	ⁿdʑ
+2407	NA	Japhug	ⁿɖʐ
+2407	NA	Japhug	m
+2407	NA	Japhug	n
+2407	NA	Japhug	ɲ
+2407	NA	Japhug	ŋ
+2407	NA	Japhug	s
+2407	NA	Japhug	ɕ
+2407	NA	Japhug	ʂ
+2407	NA	Japhug	x
+2407	NA	Japhug	χ
+2407	NA	Japhug	z
+2407	NA	Japhug	ʑ
+2407	NA	Japhug	ɣ
+2407	NA	Japhug	ʁ
+2407	NA	Japhug	w
+2407	NA	Japhug	l
+2407	NA	Japhug	r
+2407	NA	Japhug	j
+2407	NA	Japhug	l̥
+2407	NA	Japhug	ʔ
+2407	NA	Japhug	u
+2407	NA	Japhug	ɯ
+2407	NA	Japhug	i
+2407	NA	Japhug	y
+2407	NA	Japhug	o
+2407	NA	Japhug	ɤ
+2407	NA	Japhug	e
+2407	NA	Japhug	a
 2408	oss	Iron Ossetic (Roka)	pʰ
 2408	oss	Iron Ossetic (Roka)	p
 2408	oss	Iron Ossetic (Roka)	b̥
@@ -7219,48 +7219,48 @@ InventoryID	LanguageCode	LanguageName	Segment
 2410	lzz	Laz (Arhavi)	a
 2410	lzz	Laz (Arhavi)	œ
 2410	lzz	Laz (Arhavi)	y
-2411	0	Drokpa Tibetan (Zhongba)	p
-2411	0	Drokpa Tibetan (Zhongba)	pʰ
-2411	0	Drokpa Tibetan (Zhongba)	t̪
-2411	0	Drokpa Tibetan (Zhongba)	t̪ʰ
-2411	0	Drokpa Tibetan (Zhongba)	ʈ
-2411	0	Drokpa Tibetan (Zhongba)	ʈʰ
-2411	0	Drokpa Tibetan (Zhongba)	c
-2411	0	Drokpa Tibetan (Zhongba)	cʰ
-2411	0	Drokpa Tibetan (Zhongba)	k
-2411	0	Drokpa Tibetan (Zhongba)	kʰ
-2411	0	Drokpa Tibetan (Zhongba)	m
-2411	0	Drokpa Tibetan (Zhongba)	n̪
-2411	0	Drokpa Tibetan (Zhongba)	ɲ
-2411	0	Drokpa Tibetan (Zhongba)	ŋ
-2411	0	Drokpa Tibetan (Zhongba)	m̥
-2411	0	Drokpa Tibetan (Zhongba)	l
-2411	0	Drokpa Tibetan (Zhongba)	l̥
-2411	0	Drokpa Tibetan (Zhongba)	r
-2411	0	Drokpa Tibetan (Zhongba)	r̥
-2411	0	Drokpa Tibetan (Zhongba)	s
-2411	0	Drokpa Tibetan (Zhongba)	ɕ
-2411	0	Drokpa Tibetan (Zhongba)	h
-2411	0	Drokpa Tibetan (Zhongba)	ts
-2411	0	Drokpa Tibetan (Zhongba)	tsʰ
-2411	0	Drokpa Tibetan (Zhongba)	tɕ
-2411	0	Drokpa Tibetan (Zhongba)	tɕʰ
-2411	0	Drokpa Tibetan (Zhongba)	w
-2411	0	Drokpa Tibetan (Zhongba)	j
-2411	0	Drokpa Tibetan (Zhongba)	ʔ
-2411	0	Drokpa Tibetan (Zhongba)	ɪ
-2411	0	Drokpa Tibetan (Zhongba)	iː
-2411	0	Drokpa Tibetan (Zhongba)	ə
-2411	0	Drokpa Tibetan (Zhongba)	eː
-2411	0	Drokpa Tibetan (Zhongba)	a
-2411	0	Drokpa Tibetan (Zhongba)	aː
-2411	0	Drokpa Tibetan (Zhongba)	ʊ
-2411	0	Drokpa Tibetan (Zhongba)	uː
-2411	0	Drokpa Tibetan (Zhongba)	ɔ
-2411	0	Drokpa Tibetan (Zhongba)	oː
-2411	0	Drokpa Tibetan (Zhongba)	øː
-2411	0	Drokpa Tibetan (Zhongba)	yː
-2411	0	Drokpa Tibetan (Zhongba)	ɛː
+2411	NA	Drokpa Tibetan (Zhongba)	p
+2411	NA	Drokpa Tibetan (Zhongba)	pʰ
+2411	NA	Drokpa Tibetan (Zhongba)	t̪
+2411	NA	Drokpa Tibetan (Zhongba)	t̪ʰ
+2411	NA	Drokpa Tibetan (Zhongba)	ʈ
+2411	NA	Drokpa Tibetan (Zhongba)	ʈʰ
+2411	NA	Drokpa Tibetan (Zhongba)	c
+2411	NA	Drokpa Tibetan (Zhongba)	cʰ
+2411	NA	Drokpa Tibetan (Zhongba)	k
+2411	NA	Drokpa Tibetan (Zhongba)	kʰ
+2411	NA	Drokpa Tibetan (Zhongba)	m
+2411	NA	Drokpa Tibetan (Zhongba)	n̪
+2411	NA	Drokpa Tibetan (Zhongba)	ɲ
+2411	NA	Drokpa Tibetan (Zhongba)	ŋ
+2411	NA	Drokpa Tibetan (Zhongba)	m̥
+2411	NA	Drokpa Tibetan (Zhongba)	l
+2411	NA	Drokpa Tibetan (Zhongba)	l̥
+2411	NA	Drokpa Tibetan (Zhongba)	r
+2411	NA	Drokpa Tibetan (Zhongba)	r̥
+2411	NA	Drokpa Tibetan (Zhongba)	s
+2411	NA	Drokpa Tibetan (Zhongba)	ɕ
+2411	NA	Drokpa Tibetan (Zhongba)	h
+2411	NA	Drokpa Tibetan (Zhongba)	ts
+2411	NA	Drokpa Tibetan (Zhongba)	tsʰ
+2411	NA	Drokpa Tibetan (Zhongba)	tɕ
+2411	NA	Drokpa Tibetan (Zhongba)	tɕʰ
+2411	NA	Drokpa Tibetan (Zhongba)	w
+2411	NA	Drokpa Tibetan (Zhongba)	j
+2411	NA	Drokpa Tibetan (Zhongba)	ʔ
+2411	NA	Drokpa Tibetan (Zhongba)	ɪ
+2411	NA	Drokpa Tibetan (Zhongba)	iː
+2411	NA	Drokpa Tibetan (Zhongba)	ə
+2411	NA	Drokpa Tibetan (Zhongba)	eː
+2411	NA	Drokpa Tibetan (Zhongba)	a
+2411	NA	Drokpa Tibetan (Zhongba)	aː
+2411	NA	Drokpa Tibetan (Zhongba)	ʊ
+2411	NA	Drokpa Tibetan (Zhongba)	uː
+2411	NA	Drokpa Tibetan (Zhongba)	ɔ
+2411	NA	Drokpa Tibetan (Zhongba)	oː
+2411	NA	Drokpa Tibetan (Zhongba)	øː
+2411	NA	Drokpa Tibetan (Zhongba)	yː
+2411	NA	Drokpa Tibetan (Zhongba)	ɛː
 2412	alr	Alutor	ʡˤ
 2412	alr	Alutor	ʔ
 2412	alr	Alutor	qˤ
@@ -7288,37 +7288,37 @@ InventoryID	LanguageCode	LanguageName	Segment
 2412	alr	Alutor	iː
 2412	alr	Alutor	u
 2412	alr	Alutor	uː
-2413	0	Eastern Mari	p
-2413	0	Eastern Mari	t̺̪
-2413	0	Eastern Mari	k
-2413	0	Eastern Mari	ð̺̪
-2413	0	Eastern Mari	s
-2413	0	Eastern Mari	ʂ
-2413	0	Eastern Mari	β
-2413	0	Eastern Mari	ɣ
-2413	0	Eastern Mari	z
-2413	0	Eastern Mari	ʐ
-2413	0	Eastern Mari	m
-2413	0	Eastern Mari	n̺
-2413	0	Eastern Mari	ɲ
-2413	0	Eastern Mari	ŋ
-2413	0	Eastern Mari	l̺
-2413	0	Eastern Mari	ʎ
-2413	0	Eastern Mari	r
-2413	0	Eastern Mari	j
-2413	0	Eastern Mari	ʈʂ
-2413	0	Eastern Mari	tɕ
-2413	0	Eastern Mari	sʲ
-2413	0	Eastern Mari	zʲ
-2413	0	Eastern Mari	æ
-2413	0	Eastern Mari	i
-2413	0	Eastern Mari	e
-2413	0	Eastern Mari	a
-2413	0	Eastern Mari	y̞
-2413	0	Eastern Mari	œ
-2413	0	Eastern Mari	u
-2413	0	Eastern Mari	o
-2413	0	Eastern Mari	ɪ̈
+2413	NA	Eastern Mari	p
+2413	NA	Eastern Mari	t̺̪
+2413	NA	Eastern Mari	k
+2413	NA	Eastern Mari	ð̺̪
+2413	NA	Eastern Mari	s
+2413	NA	Eastern Mari	ʂ
+2413	NA	Eastern Mari	β
+2413	NA	Eastern Mari	ɣ
+2413	NA	Eastern Mari	z
+2413	NA	Eastern Mari	ʐ
+2413	NA	Eastern Mari	m
+2413	NA	Eastern Mari	n̺
+2413	NA	Eastern Mari	ɲ
+2413	NA	Eastern Mari	ŋ
+2413	NA	Eastern Mari	l̺
+2413	NA	Eastern Mari	ʎ
+2413	NA	Eastern Mari	r
+2413	NA	Eastern Mari	j
+2413	NA	Eastern Mari	ʈʂ
+2413	NA	Eastern Mari	tɕ
+2413	NA	Eastern Mari	sʲ
+2413	NA	Eastern Mari	zʲ
+2413	NA	Eastern Mari	æ
+2413	NA	Eastern Mari	i
+2413	NA	Eastern Mari	e
+2413	NA	Eastern Mari	a
+2413	NA	Eastern Mari	y̞
+2413	NA	Eastern Mari	œ
+2413	NA	Eastern Mari	u
+2413	NA	Eastern Mari	o
+2413	NA	Eastern Mari	ɪ̈
 2414	tts	Northeastern Thai (Loei)	p
 2414	tts	Northeastern Thai (Loei)	t
 2414	tts	Northeastern Thai (Loei)	c
@@ -7563,115 +7563,115 @@ InventoryID	LanguageCode	LanguageName	Segment
 2419	eus	Basque (Arbizu)	o̞ː
 2419	eus	Basque (Arbizu)	iː
 2419	eus	Basque (Arbizu)	uː
-2420	0	Zhongu Tibetan	p
-2420	0	Zhongu Tibetan	ʰp
-2420	0	Zhongu Tibetan	pʰ
-2420	0	Zhongu Tibetan	ⁿpʰ
-2420	0	Zhongu Tibetan	b
-2420	0	Zhongu Tibetan	ⁿb
-2420	0	Zhongu Tibetan	m̥
-2420	0	Zhongu Tibetan	m
-2420	0	Zhongu Tibetan	w
-2420	0	Zhongu Tibetan	t
-2420	0	Zhongu Tibetan	ʰt
-2420	0	Zhongu Tibetan	tʰ
-2420	0	Zhongu Tibetan	ⁿtʰ
-2420	0	Zhongu Tibetan	d
-2420	0	Zhongu Tibetan	ⁿd
-2420	0	Zhongu Tibetan	s
-2420	0	Zhongu Tibetan	z
-2420	0	Zhongu Tibetan	n̥
-2420	0	Zhongu Tibetan	n
-2420	0	Zhongu Tibetan	l̥
-2420	0	Zhongu Tibetan	l
-2420	0	Zhongu Tibetan	r̥
-2420	0	Zhongu Tibetan	r
-2420	0	Zhongu Tibetan	ts
-2420	0	Zhongu Tibetan	ʰts
-2420	0	Zhongu Tibetan	tsʰ
-2420	0	Zhongu Tibetan	ⁿtsʰ
-2420	0	Zhongu Tibetan	dz
-2420	0	Zhongu Tibetan	ⁿdz
-2420	0	Zhongu Tibetan	ʈʂ
-2420	0	Zhongu Tibetan	ʈʂʰ
-2420	0	Zhongu Tibetan	ⁿʈʂʰ
-2420	0	Zhongu Tibetan	ɖʐ
-2420	0	Zhongu Tibetan	ⁿɖʐ
-2420	0	Zhongu Tibetan	ʂ
-2420	0	Zhongu Tibetan	ʐ
-2420	0	Zhongu Tibetan	tʃ
-2420	0	Zhongu Tibetan	ʰtʃ
-2420	0	Zhongu Tibetan	tʃʰ
-2420	0	Zhongu Tibetan	ⁿtʃʰ
-2420	0	Zhongu Tibetan	dʒ
-2420	0	Zhongu Tibetan	ⁿdʒ
-2420	0	Zhongu Tibetan	ʃ
-2420	0	Zhongu Tibetan	ʒ
-2420	0	Zhongu Tibetan	ɲ̊
-2420	0	Zhongu Tibetan	ɲ
-2420	0	Zhongu Tibetan	k
-2420	0	Zhongu Tibetan	ʰk
-2420	0	Zhongu Tibetan	kʰ
-2420	0	Zhongu Tibetan	ⁿkʰ
-2420	0	Zhongu Tibetan	g
-2420	0	Zhongu Tibetan	ⁿg
-2420	0	Zhongu Tibetan	ŋ̊
-2420	0	Zhongu Tibetan	ŋ
-2420	0	Zhongu Tibetan	ɣ
-2420	0	Zhongu Tibetan	q
-2420	0	Zhongu Tibetan	qʰ
-2420	0	Zhongu Tibetan	χ
-2420	0	Zhongu Tibetan	ʁ
-2420	0	Zhongu Tibetan	i
-2420	0	Zhongu Tibetan	e
-2420	0	Zhongu Tibetan	ɛ
-2420	0	Zhongu Tibetan	a
-2420	0	Zhongu Tibetan	ə
-2420	0	Zhongu Tibetan	ɔ
-2420	0	Zhongu Tibetan	u
-2420	0	Zhongu Tibetan	o
-2420	0	Zhongu Tibetan	ɑ
-2421	0	Dingri Tibetan	p
-2421	0	Dingri Tibetan	pʰ
-2421	0	Dingri Tibetan	t̪
-2421	0	Dingri Tibetan	t̪ʰ
-2421	0	Dingri Tibetan	ʈ
-2421	0	Dingri Tibetan	ʈʰ
-2421	0	Dingri Tibetan	c
-2421	0	Dingri Tibetan	cʰ
-2421	0	Dingri Tibetan	k
-2421	0	Dingri Tibetan	kʰ
-2421	0	Dingri Tibetan	m
-2421	0	Dingri Tibetan	n
-2421	0	Dingri Tibetan	ɲ
-2421	0	Dingri Tibetan	ŋ
-2421	0	Dingri Tibetan	m̥
-2421	0	Dingri Tibetan	ts
-2421	0	Dingri Tibetan	tsʰ
-2421	0	Dingri Tibetan	tɕ
-2421	0	Dingri Tibetan	tɕʰ
-2421	0	Dingri Tibetan	s
-2421	0	Dingri Tibetan	ɕ
-2421	0	Dingri Tibetan	h
-2421	0	Dingri Tibetan	l
-2421	0	Dingri Tibetan	l̥
-2421	0	Dingri Tibetan	r
-2421	0	Dingri Tibetan	w
-2421	0	Dingri Tibetan	j
-2421	0	Dingri Tibetan	ɪ
-2421	0	Dingri Tibetan	iː
-2421	0	Dingri Tibetan	ə
-2421	0	Dingri Tibetan	eː
-2421	0	Dingri Tibetan	æ
-2421	0	Dingri Tibetan	ɛː
-2421	0	Dingri Tibetan	a
-2421	0	Dingri Tibetan	aː
-2421	0	Dingri Tibetan	ʊ
-2421	0	Dingri Tibetan	uː
-2421	0	Dingri Tibetan	ɔ
-2421	0	Dingri Tibetan	oː
-2421	0	Dingri Tibetan	yː
-2421	0	Dingri Tibetan	øː
+2420	NA	Zhongu Tibetan	p
+2420	NA	Zhongu Tibetan	ʰp
+2420	NA	Zhongu Tibetan	pʰ
+2420	NA	Zhongu Tibetan	ⁿpʰ
+2420	NA	Zhongu Tibetan	b
+2420	NA	Zhongu Tibetan	ⁿb
+2420	NA	Zhongu Tibetan	m̥
+2420	NA	Zhongu Tibetan	m
+2420	NA	Zhongu Tibetan	w
+2420	NA	Zhongu Tibetan	t
+2420	NA	Zhongu Tibetan	ʰt
+2420	NA	Zhongu Tibetan	tʰ
+2420	NA	Zhongu Tibetan	ⁿtʰ
+2420	NA	Zhongu Tibetan	d
+2420	NA	Zhongu Tibetan	ⁿd
+2420	NA	Zhongu Tibetan	s
+2420	NA	Zhongu Tibetan	z
+2420	NA	Zhongu Tibetan	n̥
+2420	NA	Zhongu Tibetan	n
+2420	NA	Zhongu Tibetan	l̥
+2420	NA	Zhongu Tibetan	l
+2420	NA	Zhongu Tibetan	r̥
+2420	NA	Zhongu Tibetan	r
+2420	NA	Zhongu Tibetan	ts
+2420	NA	Zhongu Tibetan	ʰts
+2420	NA	Zhongu Tibetan	tsʰ
+2420	NA	Zhongu Tibetan	ⁿtsʰ
+2420	NA	Zhongu Tibetan	dz
+2420	NA	Zhongu Tibetan	ⁿdz
+2420	NA	Zhongu Tibetan	ʈʂ
+2420	NA	Zhongu Tibetan	ʈʂʰ
+2420	NA	Zhongu Tibetan	ⁿʈʂʰ
+2420	NA	Zhongu Tibetan	ɖʐ
+2420	NA	Zhongu Tibetan	ⁿɖʐ
+2420	NA	Zhongu Tibetan	ʂ
+2420	NA	Zhongu Tibetan	ʐ
+2420	NA	Zhongu Tibetan	tʃ
+2420	NA	Zhongu Tibetan	ʰtʃ
+2420	NA	Zhongu Tibetan	tʃʰ
+2420	NA	Zhongu Tibetan	ⁿtʃʰ
+2420	NA	Zhongu Tibetan	dʒ
+2420	NA	Zhongu Tibetan	ⁿdʒ
+2420	NA	Zhongu Tibetan	ʃ
+2420	NA	Zhongu Tibetan	ʒ
+2420	NA	Zhongu Tibetan	ɲ̊
+2420	NA	Zhongu Tibetan	ɲ
+2420	NA	Zhongu Tibetan	k
+2420	NA	Zhongu Tibetan	ʰk
+2420	NA	Zhongu Tibetan	kʰ
+2420	NA	Zhongu Tibetan	ⁿkʰ
+2420	NA	Zhongu Tibetan	g
+2420	NA	Zhongu Tibetan	ⁿg
+2420	NA	Zhongu Tibetan	ŋ̊
+2420	NA	Zhongu Tibetan	ŋ
+2420	NA	Zhongu Tibetan	ɣ
+2420	NA	Zhongu Tibetan	q
+2420	NA	Zhongu Tibetan	qʰ
+2420	NA	Zhongu Tibetan	χ
+2420	NA	Zhongu Tibetan	ʁ
+2420	NA	Zhongu Tibetan	i
+2420	NA	Zhongu Tibetan	e
+2420	NA	Zhongu Tibetan	ɛ
+2420	NA	Zhongu Tibetan	a
+2420	NA	Zhongu Tibetan	ə
+2420	NA	Zhongu Tibetan	ɔ
+2420	NA	Zhongu Tibetan	u
+2420	NA	Zhongu Tibetan	o
+2420	NA	Zhongu Tibetan	ɑ
+2421	NA	Dingri Tibetan	p
+2421	NA	Dingri Tibetan	pʰ
+2421	NA	Dingri Tibetan	t̪
+2421	NA	Dingri Tibetan	t̪ʰ
+2421	NA	Dingri Tibetan	ʈ
+2421	NA	Dingri Tibetan	ʈʰ
+2421	NA	Dingri Tibetan	c
+2421	NA	Dingri Tibetan	cʰ
+2421	NA	Dingri Tibetan	k
+2421	NA	Dingri Tibetan	kʰ
+2421	NA	Dingri Tibetan	m
+2421	NA	Dingri Tibetan	n
+2421	NA	Dingri Tibetan	ɲ
+2421	NA	Dingri Tibetan	ŋ
+2421	NA	Dingri Tibetan	m̥
+2421	NA	Dingri Tibetan	ts
+2421	NA	Dingri Tibetan	tsʰ
+2421	NA	Dingri Tibetan	tɕ
+2421	NA	Dingri Tibetan	tɕʰ
+2421	NA	Dingri Tibetan	s
+2421	NA	Dingri Tibetan	ɕ
+2421	NA	Dingri Tibetan	h
+2421	NA	Dingri Tibetan	l
+2421	NA	Dingri Tibetan	l̥
+2421	NA	Dingri Tibetan	r
+2421	NA	Dingri Tibetan	w
+2421	NA	Dingri Tibetan	j
+2421	NA	Dingri Tibetan	ɪ
+2421	NA	Dingri Tibetan	iː
+2421	NA	Dingri Tibetan	ə
+2421	NA	Dingri Tibetan	eː
+2421	NA	Dingri Tibetan	æ
+2421	NA	Dingri Tibetan	ɛː
+2421	NA	Dingri Tibetan	a
+2421	NA	Dingri Tibetan	aː
+2421	NA	Dingri Tibetan	ʊ
+2421	NA	Dingri Tibetan	uː
+2421	NA	Dingri Tibetan	ɔ
+2421	NA	Dingri Tibetan	oː
+2421	NA	Dingri Tibetan	yː
+2421	NA	Dingri Tibetan	øː
 2422	tts	Northeastern Thai (Roi Et)	p
 2422	tts	Northeastern Thai (Roi Et)	t
 2422	tts	Northeastern Thai (Roi Et)	c
@@ -8112,36 +8112,36 @@ InventoryID	LanguageCode	LanguageName	Segment
 2433	kjh	Khakas (Standard)	uː
 2433	kjh	Khakas (Standard)	ɔ
 2433	kjh	Khakas (Standard)	ɔː
-2434	0	Eastern Khanty (Vakh)	p
-2434	0	Eastern Khanty (Vakh)	v
-2434	0	Eastern Khanty (Vakh)	m
-2434	0	Eastern Khanty (Vakh)	t
-2434	0	Eastern Khanty (Vakh)	s
-2434	0	Eastern Khanty (Vakh)	n
-2434	0	Eastern Khanty (Vakh)	l
-2434	0	Eastern Khanty (Vakh)	ʈʂ
-2434	0	Eastern Khanty (Vakh)	ɳ
-2434	0	Eastern Khanty (Vakh)	ɭ
-2434	0	Eastern Khanty (Vakh)	r
-2434	0	Eastern Khanty (Vakh)	c
-2434	0	Eastern Khanty (Vakh)	j
-2434	0	Eastern Khanty (Vakh)	ɲ
-2434	0	Eastern Khanty (Vakh)	ʎ
-2434	0	Eastern Khanty (Vakh)	q
-2434	0	Eastern Khanty (Vakh)	ʁ
-2434	0	Eastern Khanty (Vakh)	ŋ
-2434	0	Eastern Khanty (Vakh)	iˑ
-2434	0	Eastern Khanty (Vakh)	eˑ
-2434	0	Eastern Khanty (Vakh)	æˑ
-2434	0	Eastern Khanty (Vakh)	yˑ
-2434	0	Eastern Khanty (Vakh)	øˑ
-2434	0	Eastern Khanty (Vakh)	ɯˑ
-2434	0	Eastern Khanty (Vakh)	ɑˑ
-2434	0	Eastern Khanty (Vakh)	oˑ
-2434	0	Eastern Khanty (Vakh)	ɪ
-2434	0	Eastern Khanty (Vakh)	ʏ
-2434	0	Eastern Khanty (Vakh)	ɯ̽
-2434	0	Eastern Khanty (Vakh)	ʊ
+2434	NA	Eastern Khanty (Vakh)	p
+2434	NA	Eastern Khanty (Vakh)	v
+2434	NA	Eastern Khanty (Vakh)	m
+2434	NA	Eastern Khanty (Vakh)	t
+2434	NA	Eastern Khanty (Vakh)	s
+2434	NA	Eastern Khanty (Vakh)	n
+2434	NA	Eastern Khanty (Vakh)	l
+2434	NA	Eastern Khanty (Vakh)	ʈʂ
+2434	NA	Eastern Khanty (Vakh)	ɳ
+2434	NA	Eastern Khanty (Vakh)	ɭ
+2434	NA	Eastern Khanty (Vakh)	r
+2434	NA	Eastern Khanty (Vakh)	c
+2434	NA	Eastern Khanty (Vakh)	j
+2434	NA	Eastern Khanty (Vakh)	ɲ
+2434	NA	Eastern Khanty (Vakh)	ʎ
+2434	NA	Eastern Khanty (Vakh)	q
+2434	NA	Eastern Khanty (Vakh)	ʁ
+2434	NA	Eastern Khanty (Vakh)	ŋ
+2434	NA	Eastern Khanty (Vakh)	iˑ
+2434	NA	Eastern Khanty (Vakh)	eˑ
+2434	NA	Eastern Khanty (Vakh)	æˑ
+2434	NA	Eastern Khanty (Vakh)	yˑ
+2434	NA	Eastern Khanty (Vakh)	øˑ
+2434	NA	Eastern Khanty (Vakh)	ɯˑ
+2434	NA	Eastern Khanty (Vakh)	ɑˑ
+2434	NA	Eastern Khanty (Vakh)	oˑ
+2434	NA	Eastern Khanty (Vakh)	ɪ
+2434	NA	Eastern Khanty (Vakh)	ʏ
+2434	NA	Eastern Khanty (Vakh)	ɯ̽
+2434	NA	Eastern Khanty (Vakh)	ʊ
 2435	gaq	Gtaʔ	p
 2435	gaq	Gtaʔ	t
 2435	gaq	Gtaʔ	ʈ
@@ -8309,104 +8309,104 @@ InventoryID	LanguageCode	LanguageName	Segment
 2438	aae	Arbëresh Albanian (Kundisa)	ɔ
 2438	aae	Arbëresh Albanian (Kundisa)	u
 2438	aae	Arbëresh Albanian (Kundisa)	œ
-2439	0	Kurtoep	p
-2439	0	Kurtoep	pʰ
-2439	0	Kurtoep	b
-2439	0	Kurtoep	t̪
-2439	0	Kurtoep	t̪ʰ
-2439	0	Kurtoep	d̪
-2439	0	Kurtoep	ʈ
-2439	0	Kurtoep	ʈʰ
-2439	0	Kurtoep	ɖ
-2439	0	Kurtoep	c
-2439	0	Kurtoep	cʰ
-2439	0	Kurtoep	ɟ
-2439	0	Kurtoep	k
-2439	0	Kurtoep	kʰ
-2439	0	Kurtoep	g
-2439	0	Kurtoep	ʔ
-2439	0	Kurtoep	t̪s̪
-2439	0	Kurtoep	t̪s̪ʰ
-2439	0	Kurtoep	s
-2439	0	Kurtoep	z
-2439	0	Kurtoep	ç
-2439	0	Kurtoep	m
-2439	0	Kurtoep	n
-2439	0	Kurtoep	ɲ
-2439	0	Kurtoep	ŋ
-2439	0	Kurtoep	l
-2439	0	Kurtoep	ɬ
-2439	0	Kurtoep	r
-2439	0	Kurtoep	w
-2439	0	Kurtoep	j
-2439	0	Kurtoep	h
-2439	0	Kurtoep	i
-2439	0	Kurtoep	u
-2439	0	Kurtoep	e
-2439	0	Kurtoep	o
-2439	0	Kurtoep	ɑ
-2439	0	Kurtoep	iː
-2439	0	Kurtoep	uː
-2439	0	Kurtoep	eː
-2439	0	Kurtoep	oː
-2439	0	Kurtoep	ɑː
-2439	0	Kurtoep	iu
-2439	0	Kurtoep	ui
-2439	0	Kurtoep	oi
-2439	0	Kurtoep	ɑu
-2440	0	Tukita	b
-2440	0	Tukita	d
-2440	0	Tukita	pʰ
-2440	0	Tukita	tʰ
-2440	0	Tukita	tʼ
-2440	0	Tukita	tsʰ
-2440	0	Tukita	tʃʰ
-2440	0	Tukita	tʃːʰ
-2440	0	Tukita	tsːʰ
-2440	0	Tukita	tsʼ
-2440	0	Tukita	tʃʼ
-2440	0	Tukita	ʃːʼ
-2440	0	Tukita	sːʼ
-2440	0	Tukita	w
-2440	0	Tukita	m
-2440	0	Tukita	z
-2440	0	Tukita	s
-2440	0	Tukita	sː
-2440	0	Tukita	n
-2440	0	Tukita	ʒ
-2440	0	Tukita	ʃ
-2440	0	Tukita	ʃː
-2440	0	Tukita	r
-2440	0	Tukita	tɬːʰ
-2440	0	Tukita	tɬːʼ
-2440	0	Tukita	ɬ
-2440	0	Tukita	ɬː
-2440	0	Tukita	l
-2440	0	Tukita	j
-2440	0	Tukita	çː
-2440	0	Tukita	g
-2440	0	Tukita	kʰ
-2440	0	Tukita	kʼ
-2440	0	Tukita	ʔ
-2440	0	Tukita	kxːʼ
-2440	0	Tukita	qχːʰ
-2440	0	Tukita	χːʼ
-2440	0	Tukita	ɣ
-2440	0	Tukita	ʢ
-2440	0	Tukita	x
-2440	0	Tukita	xː
-2440	0	Tukita	ʜ
-2440	0	Tukita	h
-2440	0	Tukita	dʒ
-2440	0	Tukita	ʝ
-2440	0	Tukita	ä
-2440	0	Tukita	e̞
-2440	0	Tukita	i
-2440	0	Tukita	o̞
-2440	0	Tukita	u
-2440	0	Tukita	ä̃
-2440	0	Tukita	ĩ̞
-2440	0	Tukita	ũ
+2439	NA	Kurtoep	p
+2439	NA	Kurtoep	pʰ
+2439	NA	Kurtoep	b
+2439	NA	Kurtoep	t̪
+2439	NA	Kurtoep	t̪ʰ
+2439	NA	Kurtoep	d̪
+2439	NA	Kurtoep	ʈ
+2439	NA	Kurtoep	ʈʰ
+2439	NA	Kurtoep	ɖ
+2439	NA	Kurtoep	c
+2439	NA	Kurtoep	cʰ
+2439	NA	Kurtoep	ɟ
+2439	NA	Kurtoep	k
+2439	NA	Kurtoep	kʰ
+2439	NA	Kurtoep	g
+2439	NA	Kurtoep	ʔ
+2439	NA	Kurtoep	t̪s̪
+2439	NA	Kurtoep	t̪s̪ʰ
+2439	NA	Kurtoep	s
+2439	NA	Kurtoep	z
+2439	NA	Kurtoep	ç
+2439	NA	Kurtoep	m
+2439	NA	Kurtoep	n
+2439	NA	Kurtoep	ɲ
+2439	NA	Kurtoep	ŋ
+2439	NA	Kurtoep	l
+2439	NA	Kurtoep	ɬ
+2439	NA	Kurtoep	r
+2439	NA	Kurtoep	w
+2439	NA	Kurtoep	j
+2439	NA	Kurtoep	h
+2439	NA	Kurtoep	i
+2439	NA	Kurtoep	u
+2439	NA	Kurtoep	e
+2439	NA	Kurtoep	o
+2439	NA	Kurtoep	ɑ
+2439	NA	Kurtoep	iː
+2439	NA	Kurtoep	uː
+2439	NA	Kurtoep	eː
+2439	NA	Kurtoep	oː
+2439	NA	Kurtoep	ɑː
+2439	NA	Kurtoep	iu
+2439	NA	Kurtoep	ui
+2439	NA	Kurtoep	oi
+2439	NA	Kurtoep	ɑu
+2440	NA	Tukita	b
+2440	NA	Tukita	d
+2440	NA	Tukita	pʰ
+2440	NA	Tukita	tʰ
+2440	NA	Tukita	tʼ
+2440	NA	Tukita	tsʰ
+2440	NA	Tukita	tʃʰ
+2440	NA	Tukita	tʃːʰ
+2440	NA	Tukita	tsːʰ
+2440	NA	Tukita	tsʼ
+2440	NA	Tukita	tʃʼ
+2440	NA	Tukita	ʃːʼ
+2440	NA	Tukita	sːʼ
+2440	NA	Tukita	w
+2440	NA	Tukita	m
+2440	NA	Tukita	z
+2440	NA	Tukita	s
+2440	NA	Tukita	sː
+2440	NA	Tukita	n
+2440	NA	Tukita	ʒ
+2440	NA	Tukita	ʃ
+2440	NA	Tukita	ʃː
+2440	NA	Tukita	r
+2440	NA	Tukita	tɬːʰ
+2440	NA	Tukita	tɬːʼ
+2440	NA	Tukita	ɬ
+2440	NA	Tukita	ɬː
+2440	NA	Tukita	l
+2440	NA	Tukita	j
+2440	NA	Tukita	çː
+2440	NA	Tukita	g
+2440	NA	Tukita	kʰ
+2440	NA	Tukita	kʼ
+2440	NA	Tukita	ʔ
+2440	NA	Tukita	kxːʼ
+2440	NA	Tukita	qχːʰ
+2440	NA	Tukita	χːʼ
+2440	NA	Tukita	ɣ
+2440	NA	Tukita	ʢ
+2440	NA	Tukita	x
+2440	NA	Tukita	xː
+2440	NA	Tukita	ʜ
+2440	NA	Tukita	h
+2440	NA	Tukita	dʒ
+2440	NA	Tukita	ʝ
+2440	NA	Tukita	ä
+2440	NA	Tukita	e̞
+2440	NA	Tukita	i
+2440	NA	Tukita	o̞
+2440	NA	Tukita	u
+2440	NA	Tukita	ä̃
+2440	NA	Tukita	ĩ̞
+2440	NA	Tukita	ũ
 2441	nor	Norwegian (Standard Østnorsk)	pʰ
 2441	nor	Norwegian (Standard Østnorsk)	b
 2441	nor	Norwegian (Standard Østnorsk)	m
@@ -8739,44 +8739,44 @@ InventoryID	LanguageCode	LanguageName	Segment
 2449	heb	Israeli Hebrew	a
 2449	heb	Israeli Hebrew	o
 2449	heb	Israeli Hebrew	u
-2450	0	Forest Nenets	p
-2450	0	Forest Nenets	t
-2450	0	Forest Nenets	s
-2450	0	Forest Nenets	ɬ
-2450	0	Forest Nenets	k
-2450	0	Forest Nenets	x
-2450	0	Forest Nenets	ʔ
-2450	0	Forest Nenets	pʲ
-2450	0	Forest Nenets	tɕ
-2450	0	Forest Nenets	ɕ
-2450	0	Forest Nenets	ɬʲ
-2450	0	Forest Nenets	kʲ
-2450	0	Forest Nenets	xʲ
-2450	0	Forest Nenets	m
-2450	0	Forest Nenets	n
-2450	0	Forest Nenets	ŋ
-2450	0	Forest Nenets	l
-2450	0	Forest Nenets	w
-2450	0	Forest Nenets	j
-2450	0	Forest Nenets	mʲ
-2450	0	Forest Nenets	nʲ
-2450	0	Forest Nenets	ŋʲ
-2450	0	Forest Nenets	lʲ
-2450	0	Forest Nenets	wʲ
-2450	0	Forest Nenets	r
-2450	0	Forest Nenets	ɑ
-2450	0	Forest Nenets	o̞
-2450	0	Forest Nenets	u
-2450	0	Forest Nenets	æ
-2450	0	Forest Nenets	e̞
-2450	0	Forest Nenets	i
-2450	0	Forest Nenets	ɑː
-2450	0	Forest Nenets	o̞ː
-2450	0	Forest Nenets	uː
-2450	0	Forest Nenets	æː
-2450	0	Forest Nenets	e̞ː
-2450	0	Forest Nenets	iː
-2450	0	Forest Nenets	ə̆
+2450	NA	Forest Nenets	p
+2450	NA	Forest Nenets	t
+2450	NA	Forest Nenets	s
+2450	NA	Forest Nenets	ɬ
+2450	NA	Forest Nenets	k
+2450	NA	Forest Nenets	x
+2450	NA	Forest Nenets	ʔ
+2450	NA	Forest Nenets	pʲ
+2450	NA	Forest Nenets	tɕ
+2450	NA	Forest Nenets	ɕ
+2450	NA	Forest Nenets	ɬʲ
+2450	NA	Forest Nenets	kʲ
+2450	NA	Forest Nenets	xʲ
+2450	NA	Forest Nenets	m
+2450	NA	Forest Nenets	n
+2450	NA	Forest Nenets	ŋ
+2450	NA	Forest Nenets	l
+2450	NA	Forest Nenets	w
+2450	NA	Forest Nenets	j
+2450	NA	Forest Nenets	mʲ
+2450	NA	Forest Nenets	nʲ
+2450	NA	Forest Nenets	ŋʲ
+2450	NA	Forest Nenets	lʲ
+2450	NA	Forest Nenets	wʲ
+2450	NA	Forest Nenets	r
+2450	NA	Forest Nenets	ɑ
+2450	NA	Forest Nenets	o̞
+2450	NA	Forest Nenets	u
+2450	NA	Forest Nenets	æ
+2450	NA	Forest Nenets	e̞
+2450	NA	Forest Nenets	i
+2450	NA	Forest Nenets	ɑː
+2450	NA	Forest Nenets	o̞ː
+2450	NA	Forest Nenets	uː
+2450	NA	Forest Nenets	æː
+2450	NA	Forest Nenets	e̞ː
+2450	NA	Forest Nenets	iː
+2450	NA	Forest Nenets	ə̆
 2451	taj	Tamang (Eastern)	pʰ
 2451	taj	Tamang (Eastern)	tʰ
 2451	taj	Tamang (Eastern)	tsʰ
@@ -9744,93 +9744,93 @@ InventoryID	LanguageCode	LanguageName	Segment
 2472	sou	Soutern Tai (Surat)	ia
 2472	sou	Soutern Tai (Surat)	ɯa
 2472	sou	Soutern Tai (Surat)	ua
-2473	0	Elfdalian	p
-2473	0	Elfdalian	b
-2473	0	Elfdalian	m
-2473	0	Elfdalian	f
-2473	0	Elfdalian	v
-2473	0	Elfdalian	ð
-2473	0	Elfdalian	t
-2473	0	Elfdalian	d
-2473	0	Elfdalian	n
-2473	0	Elfdalian	r
-2473	0	Elfdalian	s̺
-2473	0	Elfdalian	l
-2473	0	Elfdalian	l̥
-2473	0	Elfdalian	ɽ
-2473	0	Elfdalian	t̺s̺
-2473	0	Elfdalian	d̺z̺
-2473	0	Elfdalian	j
-2473	0	Elfdalian	k
-2473	0	Elfdalian	g
-2473	0	Elfdalian	ɣ
-2473	0	Elfdalian	ŋ
-2473	0	Elfdalian	w
-2473	0	Elfdalian	pː
-2473	0	Elfdalian	bː
-2473	0	Elfdalian	mː
-2473	0	Elfdalian	fː
-2473	0	Elfdalian	tː
-2473	0	Elfdalian	dː
-2473	0	Elfdalian	nː
-2473	0	Elfdalian	rː
-2473	0	Elfdalian	s̺ː
-2473	0	Elfdalian	lː
-2473	0	Elfdalian	l̥ː
-2473	0	Elfdalian	t̺s̺ː
-2473	0	Elfdalian	d̺z̺ː
-2473	0	Elfdalian	kː
-2473	0	Elfdalian	gː
-2473	0	Elfdalian	ɪ
-2473	0	Elfdalian	ɪ̃
-2473	0	Elfdalian	ɛ
-2473	0	Elfdalian	ɛ̃
-2473	0	Elfdalian	æ
-2473	0	Elfdalian	ɐ
-2473	0	Elfdalian	ɐ̃
-2473	0	Elfdalian	ʏ
-2473	0	Elfdalian	ʏ̃
-2473	0	Elfdalian	y
-2473	0	Elfdalian	ỹ
-2473	0	Elfdalian	œ
-2473	0	Elfdalian	œ̃
-2473	0	Elfdalian	o̞
-2473	0	Elfdalian	ɔ̞
-2473	0	Elfdalian	ɔ̞̃
-2473	0	Elfdalian	ɪː
-2473	0	Elfdalian	ɪ̃ː
-2473	0	Elfdalian	ɛː
-2473	0	Elfdalian	ɛ̃ː
-2473	0	Elfdalian	æː
-2473	0	Elfdalian	aː
-2473	0	Elfdalian	ãː
-2473	0	Elfdalian	ʏː
-2473	0	Elfdalian	ʏ̃ː
-2473	0	Elfdalian	yː
-2473	0	Elfdalian	ỹː
-2473	0	Elfdalian	œː
-2473	0	Elfdalian	œ̃ː
-2473	0	Elfdalian	o̞ː
-2473	0	Elfdalian	ɔ̞ː
-2473	0	Elfdalian	ɔ̞̃ː
-2473	0	Elfdalian	ai̯ː
-2473	0	Elfdalian	ãɪ̯ː
-2473	0	Elfdalian	auː
-2473	0	Elfdalian	ɪɛ
-2473	0	Elfdalian	ɪ̃ɛ
-2473	0	Elfdalian	ɪɛː
-2473	0	Elfdalian	ɪ̃ɛː
-2473	0	Elfdalian	uo
-2473	0	Elfdalian	ũo
-2473	0	Elfdalian	uoː
-2473	0	Elfdalian	ũoː
-2473	0	Elfdalian	yœ
-2473	0	Elfdalian	ỹœ
-2473	0	Elfdalian	yœː
-2473	0	Elfdalian	ỹœː
-2473	0	Elfdalian	ɔy̯ː
-2473	0	Elfdalian	i̯uo
-2473	0	Elfdalian	i̯ũo
+2473	NA	Elfdalian	p
+2473	NA	Elfdalian	b
+2473	NA	Elfdalian	m
+2473	NA	Elfdalian	f
+2473	NA	Elfdalian	v
+2473	NA	Elfdalian	ð
+2473	NA	Elfdalian	t
+2473	NA	Elfdalian	d
+2473	NA	Elfdalian	n
+2473	NA	Elfdalian	r
+2473	NA	Elfdalian	s̺
+2473	NA	Elfdalian	l
+2473	NA	Elfdalian	l̥
+2473	NA	Elfdalian	ɽ
+2473	NA	Elfdalian	t̺s̺
+2473	NA	Elfdalian	d̺z̺
+2473	NA	Elfdalian	j
+2473	NA	Elfdalian	k
+2473	NA	Elfdalian	g
+2473	NA	Elfdalian	ɣ
+2473	NA	Elfdalian	ŋ
+2473	NA	Elfdalian	w
+2473	NA	Elfdalian	pː
+2473	NA	Elfdalian	bː
+2473	NA	Elfdalian	mː
+2473	NA	Elfdalian	fː
+2473	NA	Elfdalian	tː
+2473	NA	Elfdalian	dː
+2473	NA	Elfdalian	nː
+2473	NA	Elfdalian	rː
+2473	NA	Elfdalian	s̺ː
+2473	NA	Elfdalian	lː
+2473	NA	Elfdalian	l̥ː
+2473	NA	Elfdalian	t̺s̺ː
+2473	NA	Elfdalian	d̺z̺ː
+2473	NA	Elfdalian	kː
+2473	NA	Elfdalian	gː
+2473	NA	Elfdalian	ɪ
+2473	NA	Elfdalian	ɪ̃
+2473	NA	Elfdalian	ɛ
+2473	NA	Elfdalian	ɛ̃
+2473	NA	Elfdalian	æ
+2473	NA	Elfdalian	ɐ
+2473	NA	Elfdalian	ɐ̃
+2473	NA	Elfdalian	ʏ
+2473	NA	Elfdalian	ʏ̃
+2473	NA	Elfdalian	y
+2473	NA	Elfdalian	ỹ
+2473	NA	Elfdalian	œ
+2473	NA	Elfdalian	œ̃
+2473	NA	Elfdalian	o̞
+2473	NA	Elfdalian	ɔ̞
+2473	NA	Elfdalian	ɔ̞̃
+2473	NA	Elfdalian	ɪː
+2473	NA	Elfdalian	ɪ̃ː
+2473	NA	Elfdalian	ɛː
+2473	NA	Elfdalian	ɛ̃ː
+2473	NA	Elfdalian	æː
+2473	NA	Elfdalian	aː
+2473	NA	Elfdalian	ãː
+2473	NA	Elfdalian	ʏː
+2473	NA	Elfdalian	ʏ̃ː
+2473	NA	Elfdalian	yː
+2473	NA	Elfdalian	ỹː
+2473	NA	Elfdalian	œː
+2473	NA	Elfdalian	œ̃ː
+2473	NA	Elfdalian	o̞ː
+2473	NA	Elfdalian	ɔ̞ː
+2473	NA	Elfdalian	ɔ̞̃ː
+2473	NA	Elfdalian	ai̯ː
+2473	NA	Elfdalian	ãɪ̯ː
+2473	NA	Elfdalian	auː
+2473	NA	Elfdalian	ɪɛ
+2473	NA	Elfdalian	ɪ̃ɛ
+2473	NA	Elfdalian	ɪɛː
+2473	NA	Elfdalian	ɪ̃ɛː
+2473	NA	Elfdalian	uo
+2473	NA	Elfdalian	ũo
+2473	NA	Elfdalian	uoː
+2473	NA	Elfdalian	ũoː
+2473	NA	Elfdalian	yœ
+2473	NA	Elfdalian	ỹœ
+2473	NA	Elfdalian	yœː
+2473	NA	Elfdalian	ỹœː
+2473	NA	Elfdalian	ɔy̯ː
+2473	NA	Elfdalian	i̯uo
+2473	NA	Elfdalian	i̯ũo
 2474	cde	Nyinpa Cone	p
 2474	cde	Nyinpa Cone	pʰ
 2474	cde	Nyinpa Cone	b
@@ -10531,103 +10531,103 @@ InventoryID	LanguageCode	LanguageName	Segment
 2488	lit	Lithuanian (South Samogitian)	äː
 2488	lit	Lithuanian (South Samogitian)	ɪ̯
 2488	lit	Lithuanian (South Samogitian)	ʊ̯
-2489	0	Nangchenpa Tibetan	p
-2489	0	Nangchenpa Tibetan	t
-2489	0	Nangchenpa Tibetan	ʈ
-2489	0	Nangchenpa Tibetan	k
-2489	0	Nangchenpa Tibetan	ʔ
-2489	0	Nangchenpa Tibetan	pʰ
-2489	0	Nangchenpa Tibetan	tʰ
-2489	0	Nangchenpa Tibetan	ʈʰ
-2489	0	Nangchenpa Tibetan	kʰ
-2489	0	Nangchenpa Tibetan	ⁿpʰ
-2489	0	Nangchenpa Tibetan	ⁿtʰ
-2489	0	Nangchenpa Tibetan	ⁿʈʰ
-2489	0	Nangchenpa Tibetan	ⁿkʰ
-2489	0	Nangchenpa Tibetan	b
-2489	0	Nangchenpa Tibetan	d
-2489	0	Nangchenpa Tibetan	ɖ
-2489	0	Nangchenpa Tibetan	g
-2489	0	Nangchenpa Tibetan	ⁿb
-2489	0	Nangchenpa Tibetan	ⁿd
-2489	0	Nangchenpa Tibetan	ⁿɖ
-2489	0	Nangchenpa Tibetan	ⁿg
-2489	0	Nangchenpa Tibetan	ts
-2489	0	Nangchenpa Tibetan	tʃ
-2489	0	Nangchenpa Tibetan	tsʰ
-2489	0	Nangchenpa Tibetan	tʃʰ
-2489	0	Nangchenpa Tibetan	ⁿtsʰ
-2489	0	Nangchenpa Tibetan	ⁿtʃʰ
-2489	0	Nangchenpa Tibetan	dz
-2489	0	Nangchenpa Tibetan	dʒ
-2489	0	Nangchenpa Tibetan	ⁿdz
-2489	0	Nangchenpa Tibetan	ⁿdʒ
-2489	0	Nangchenpa Tibetan	ɸ
-2489	0	Nangchenpa Tibetan	s
-2489	0	Nangchenpa Tibetan	ʃ
-2489	0	Nangchenpa Tibetan	h
-2489	0	Nangchenpa Tibetan	β
-2489	0	Nangchenpa Tibetan	z
-2489	0	Nangchenpa Tibetan	ʒ
-2489	0	Nangchenpa Tibetan	ʼs
-2489	0	Nangchenpa Tibetan	ʼʃ
-2489	0	Nangchenpa Tibetan	m̥
-2489	0	Nangchenpa Tibetan	n̥
-2489	0	Nangchenpa Tibetan	ŋ̊
-2489	0	Nangchenpa Tibetan	ŋ̊
-2489	0	Nangchenpa Tibetan	ʼm
-2489	0	Nangchenpa Tibetan	ʼn
-2489	0	Nangchenpa Tibetan	ʼŋ
-2489	0	Nangchenpa Tibetan	ʼɲ
-2489	0	Nangchenpa Tibetan	m
-2489	0	Nangchenpa Tibetan	n
-2489	0	Nangchenpa Tibetan	ɲ
-2489	0	Nangchenpa Tibetan	ŋ
-2489	0	Nangchenpa Tibetan	l̥
-2489	0	Nangchenpa Tibetan	ʼl
-2489	0	Nangchenpa Tibetan	l
-2489	0	Nangchenpa Tibetan	r̥
-2489	0	Nangchenpa Tibetan	r
-2489	0	Nangchenpa Tibetan	ʼw
-2489	0	Nangchenpa Tibetan	ʼj
-2489	0	Nangchenpa Tibetan	w
-2489	0	Nangchenpa Tibetan	j
-2489	0	Nangchenpa Tibetan	i
-2489	0	Nangchenpa Tibetan	iː
-2489	0	Nangchenpa Tibetan	i̤ː
-2489	0	Nangchenpa Tibetan	ĩː
-2489	0	Nangchenpa Tibetan	ãː
-2489	0	Nangchenpa Tibetan	ẽː
-2489	0	Nangchenpa Tibetan	ũː
-2489	0	Nangchenpa Tibetan	õː
-2489	0	Nangchenpa Tibetan	y
-2489	0	Nangchenpa Tibetan	y̤
-2489	0	Nangchenpa Tibetan	ɨ
-2489	0	Nangchenpa Tibetan	ɨ̤
-2489	0	Nangchenpa Tibetan	u
-2489	0	Nangchenpa Tibetan	ṳ
-2489	0	Nangchenpa Tibetan	e
-2489	0	Nangchenpa Tibetan	eː
-2489	0	Nangchenpa Tibetan	e̤
-2489	0	Nangchenpa Tibetan	e̤ː
-2489	0	Nangchenpa Tibetan	ø
-2489	0	Nangchenpa Tibetan	ø̤
-2489	0	Nangchenpa Tibetan	o
-2489	0	Nangchenpa Tibetan	oː
-2489	0	Nangchenpa Tibetan	o̤
-2489	0	Nangchenpa Tibetan	o̤ː
-2489	0	Nangchenpa Tibetan	ɛ
-2489	0	Nangchenpa Tibetan	ɛ̤
-2489	0	Nangchenpa Tibetan	ɛi
-2489	0	Nangchenpa Tibetan	ɛ̤i̤
-2489	0	Nangchenpa Tibetan	ɔ
-2489	0	Nangchenpa Tibetan	ɔ̤
-2489	0	Nangchenpa Tibetan	ɔː
-2489	0	Nangchenpa Tibetan	ɔ̤ː
-2489	0	Nangchenpa Tibetan	a
-2489	0	Nangchenpa Tibetan	a̤
-2489	0	Nangchenpa Tibetan	aː
-2489	0	Nangchenpa Tibetan	a̤ː
+2489	NA	Nangchenpa Tibetan	p
+2489	NA	Nangchenpa Tibetan	t
+2489	NA	Nangchenpa Tibetan	ʈ
+2489	NA	Nangchenpa Tibetan	k
+2489	NA	Nangchenpa Tibetan	ʔ
+2489	NA	Nangchenpa Tibetan	pʰ
+2489	NA	Nangchenpa Tibetan	tʰ
+2489	NA	Nangchenpa Tibetan	ʈʰ
+2489	NA	Nangchenpa Tibetan	kʰ
+2489	NA	Nangchenpa Tibetan	ⁿpʰ
+2489	NA	Nangchenpa Tibetan	ⁿtʰ
+2489	NA	Nangchenpa Tibetan	ⁿʈʰ
+2489	NA	Nangchenpa Tibetan	ⁿkʰ
+2489	NA	Nangchenpa Tibetan	b
+2489	NA	Nangchenpa Tibetan	d
+2489	NA	Nangchenpa Tibetan	ɖ
+2489	NA	Nangchenpa Tibetan	g
+2489	NA	Nangchenpa Tibetan	ⁿb
+2489	NA	Nangchenpa Tibetan	ⁿd
+2489	NA	Nangchenpa Tibetan	ⁿɖ
+2489	NA	Nangchenpa Tibetan	ⁿg
+2489	NA	Nangchenpa Tibetan	ts
+2489	NA	Nangchenpa Tibetan	tʃ
+2489	NA	Nangchenpa Tibetan	tsʰ
+2489	NA	Nangchenpa Tibetan	tʃʰ
+2489	NA	Nangchenpa Tibetan	ⁿtsʰ
+2489	NA	Nangchenpa Tibetan	ⁿtʃʰ
+2489	NA	Nangchenpa Tibetan	dz
+2489	NA	Nangchenpa Tibetan	dʒ
+2489	NA	Nangchenpa Tibetan	ⁿdz
+2489	NA	Nangchenpa Tibetan	ⁿdʒ
+2489	NA	Nangchenpa Tibetan	ɸ
+2489	NA	Nangchenpa Tibetan	s
+2489	NA	Nangchenpa Tibetan	ʃ
+2489	NA	Nangchenpa Tibetan	h
+2489	NA	Nangchenpa Tibetan	β
+2489	NA	Nangchenpa Tibetan	z
+2489	NA	Nangchenpa Tibetan	ʒ
+2489	NA	Nangchenpa Tibetan	ʼs
+2489	NA	Nangchenpa Tibetan	ʼʃ
+2489	NA	Nangchenpa Tibetan	m̥
+2489	NA	Nangchenpa Tibetan	n̥
+2489	NA	Nangchenpa Tibetan	ŋ̊
+2489	NA	Nangchenpa Tibetan	ŋ̊
+2489	NA	Nangchenpa Tibetan	ʼm
+2489	NA	Nangchenpa Tibetan	ʼn
+2489	NA	Nangchenpa Tibetan	ʼŋ
+2489	NA	Nangchenpa Tibetan	ʼɲ
+2489	NA	Nangchenpa Tibetan	m
+2489	NA	Nangchenpa Tibetan	n
+2489	NA	Nangchenpa Tibetan	ɲ
+2489	NA	Nangchenpa Tibetan	ŋ
+2489	NA	Nangchenpa Tibetan	l̥
+2489	NA	Nangchenpa Tibetan	ʼl
+2489	NA	Nangchenpa Tibetan	l
+2489	NA	Nangchenpa Tibetan	r̥
+2489	NA	Nangchenpa Tibetan	r
+2489	NA	Nangchenpa Tibetan	ʼw
+2489	NA	Nangchenpa Tibetan	ʼj
+2489	NA	Nangchenpa Tibetan	w
+2489	NA	Nangchenpa Tibetan	j
+2489	NA	Nangchenpa Tibetan	i
+2489	NA	Nangchenpa Tibetan	iː
+2489	NA	Nangchenpa Tibetan	i̤ː
+2489	NA	Nangchenpa Tibetan	ĩː
+2489	NA	Nangchenpa Tibetan	ãː
+2489	NA	Nangchenpa Tibetan	ẽː
+2489	NA	Nangchenpa Tibetan	ũː
+2489	NA	Nangchenpa Tibetan	õː
+2489	NA	Nangchenpa Tibetan	y
+2489	NA	Nangchenpa Tibetan	y̤
+2489	NA	Nangchenpa Tibetan	ɨ
+2489	NA	Nangchenpa Tibetan	ɨ̤
+2489	NA	Nangchenpa Tibetan	u
+2489	NA	Nangchenpa Tibetan	ṳ
+2489	NA	Nangchenpa Tibetan	e
+2489	NA	Nangchenpa Tibetan	eː
+2489	NA	Nangchenpa Tibetan	e̤
+2489	NA	Nangchenpa Tibetan	e̤ː
+2489	NA	Nangchenpa Tibetan	ø
+2489	NA	Nangchenpa Tibetan	ø̤
+2489	NA	Nangchenpa Tibetan	o
+2489	NA	Nangchenpa Tibetan	oː
+2489	NA	Nangchenpa Tibetan	o̤
+2489	NA	Nangchenpa Tibetan	o̤ː
+2489	NA	Nangchenpa Tibetan	ɛ
+2489	NA	Nangchenpa Tibetan	ɛ̤
+2489	NA	Nangchenpa Tibetan	ɛi
+2489	NA	Nangchenpa Tibetan	ɛ̤i̤
+2489	NA	Nangchenpa Tibetan	ɔ
+2489	NA	Nangchenpa Tibetan	ɔ̤
+2489	NA	Nangchenpa Tibetan	ɔː
+2489	NA	Nangchenpa Tibetan	ɔ̤ː
+2489	NA	Nangchenpa Tibetan	a
+2489	NA	Nangchenpa Tibetan	a̤
+2489	NA	Nangchenpa Tibetan	aː
+2489	NA	Nangchenpa Tibetan	a̤ː
 2490	vep	Veps (Šimozero)	p
 2490	vep	Veps (Šimozero)	pʲ
 2490	vep	Veps (Šimozero)	b
@@ -10672,54 +10672,54 @@ InventoryID	LanguageCode	LanguageName	Segment
 2490	vep	Veps (Šimozero)	ɑ
 2490	vep	Veps (Šimozero)	ɨ
 2490	vep	Veps (Šimozero)	ɤ̞
-2491	0	Myeik Burmese	p
-2491	0	Myeik Burmese	t̪
-2491	0	Myeik Burmese	t
-2491	0	Myeik Burmese	tɕ
-2491	0	Myeik Burmese	k
-2491	0	Myeik Burmese	ʔ
-2491	0	Myeik Burmese	pʰ
-2491	0	Myeik Burmese	tʰ
-2491	0	Myeik Burmese	tɕʰ
-2491	0	Myeik Burmese	kʰ
-2491	0	Myeik Burmese	b
-2491	0	Myeik Burmese	d
-2491	0	Myeik Burmese	dʑ
-2491	0	Myeik Burmese	g
-2491	0	Myeik Burmese	s
-2491	0	Myeik Burmese	ɕ
-2491	0	Myeik Burmese	h
-2491	0	Myeik Burmese	sʰ
-2491	0	Myeik Burmese	z
-2491	0	Myeik Burmese	ɦ
-2491	0	Myeik Burmese	m
-2491	0	Myeik Burmese	n
-2491	0	Myeik Burmese	ɲ
-2491	0	Myeik Burmese	ŋ
-2491	0	Myeik Burmese	w
-2491	0	Myeik Burmese	j
-2491	0	Myeik Burmese	l
-2491	0	Myeik Burmese	i
-2491	0	Myeik Burmese	e
-2491	0	Myeik Burmese	ɛ
-2491	0	Myeik Burmese	ɑ
-2491	0	Myeik Burmese	ɔ
-2491	0	Myeik Burmese	o
-2491	0	Myeik Burmese	u
-2491	0	Myeik Burmese	ɪ̃
-2491	0	Myeik Burmese	eɪ̃
-2491	0	Myeik Burmese	aɪ̃
-2491	0	Myeik Burmese	æ̃
-2491	0	Myeik Burmese	aɯ̃
-2491	0	Myeik Burmese	əɯ̃
-2491	0	Myeik Burmese	ʊ̃
-2491	0	Myeik Burmese	ɪ̰
-2491	0	Myeik Burmese	ḛɪ̰
-2491	0	Myeik Burmese	a̰ɪ̰
-2491	0	Myeik Burmese	æ̰
-2491	0	Myeik Burmese	a̰ɯ̰
-2491	0	Myeik Burmese	ə̰ɯ̰
-2491	0	Myeik Burmese	ʊ̰
+2491	NA	Myeik Burmese	p
+2491	NA	Myeik Burmese	t̪
+2491	NA	Myeik Burmese	t
+2491	NA	Myeik Burmese	tɕ
+2491	NA	Myeik Burmese	k
+2491	NA	Myeik Burmese	ʔ
+2491	NA	Myeik Burmese	pʰ
+2491	NA	Myeik Burmese	tʰ
+2491	NA	Myeik Burmese	tɕʰ
+2491	NA	Myeik Burmese	kʰ
+2491	NA	Myeik Burmese	b
+2491	NA	Myeik Burmese	d
+2491	NA	Myeik Burmese	dʑ
+2491	NA	Myeik Burmese	g
+2491	NA	Myeik Burmese	s
+2491	NA	Myeik Burmese	ɕ
+2491	NA	Myeik Burmese	h
+2491	NA	Myeik Burmese	sʰ
+2491	NA	Myeik Burmese	z
+2491	NA	Myeik Burmese	ɦ
+2491	NA	Myeik Burmese	m
+2491	NA	Myeik Burmese	n
+2491	NA	Myeik Burmese	ɲ
+2491	NA	Myeik Burmese	ŋ
+2491	NA	Myeik Burmese	w
+2491	NA	Myeik Burmese	j
+2491	NA	Myeik Burmese	l
+2491	NA	Myeik Burmese	i
+2491	NA	Myeik Burmese	e
+2491	NA	Myeik Burmese	ɛ
+2491	NA	Myeik Burmese	ɑ
+2491	NA	Myeik Burmese	ɔ
+2491	NA	Myeik Burmese	o
+2491	NA	Myeik Burmese	u
+2491	NA	Myeik Burmese	ɪ̃
+2491	NA	Myeik Burmese	eɪ̃
+2491	NA	Myeik Burmese	aɪ̃
+2491	NA	Myeik Burmese	æ̃
+2491	NA	Myeik Burmese	aɯ̃
+2491	NA	Myeik Burmese	əɯ̃
+2491	NA	Myeik Burmese	ʊ̃
+2491	NA	Myeik Burmese	ɪ̰
+2491	NA	Myeik Burmese	ḛɪ̰
+2491	NA	Myeik Burmese	a̰ɪ̰
+2491	NA	Myeik Burmese	æ̰
+2491	NA	Myeik Burmese	a̰ɯ̰
+2491	NA	Myeik Burmese	ə̰ɯ̰
+2491	NA	Myeik Burmese	ʊ̰
 2492	tts	Northeastern Thai (Nakhon Phanom)	p
 2492	tts	Northeastern Thai (Nakhon Phanom)	t
 2492	tts	Northeastern Thai (Nakhon Phanom)	c
@@ -11154,56 +11154,56 @@ InventoryID	LanguageCode	LanguageName	Segment
 2501	mjg	Mongghul (Huzhu Monguor)	əː
 2501	mjg	Mongghul (Huzhu Monguor)	oː
 2501	mjg	Mongghul (Huzhu Monguor)	uː
-2502	0	Labrang Tibetan	p
-2502	0	Labrang Tibetan	pʰ
-2502	0	Labrang Tibetan	b
-2502	0	Labrang Tibetan	m
-2502	0	Labrang Tibetan	w
-2502	0	Labrang Tibetan	ts
-2502	0	Labrang Tibetan	tsʰ
-2502	0	Labrang Tibetan	dz
-2502	0	Labrang Tibetan	s
-2502	0	Labrang Tibetan	sʰ
-2502	0	Labrang Tibetan	z
-2502	0	Labrang Tibetan	t
-2502	0	Labrang Tibetan	tʰ
-2502	0	Labrang Tibetan	d
-2502	0	Labrang Tibetan	n
-2502	0	Labrang Tibetan	l
-2502	0	Labrang Tibetan	l̥
-2502	0	Labrang Tibetan	r
-2502	0	Labrang Tibetan	ʈʂ
-2502	0	Labrang Tibetan	ʈʂʰ
-2502	0	Labrang Tibetan	ɖʐ
-2502	0	Labrang Tibetan	ʂ
-2502	0	Labrang Tibetan	tɕ
-2502	0	Labrang Tibetan	tɕʰ
-2502	0	Labrang Tibetan	dʑ
-2502	0	Labrang Tibetan	ɕ
-2502	0	Labrang Tibetan	ɕʰ
-2502	0	Labrang Tibetan	ʑ
-2502	0	Labrang Tibetan	ɲ
-2502	0	Labrang Tibetan	j
-2502	0	Labrang Tibetan	k
-2502	0	Labrang Tibetan	kʰ
-2502	0	Labrang Tibetan	g
-2502	0	Labrang Tibetan	x
-2502	0	Labrang Tibetan	xʰ
-2502	0	Labrang Tibetan	ɣ
-2502	0	Labrang Tibetan	ŋ
-2502	0	Labrang Tibetan	h
-2502	0	Labrang Tibetan	ⁿg
-2502	0	Labrang Tibetan	ⁿdʑ
-2502	0	Labrang Tibetan	ⁿɖʐ
-2502	0	Labrang Tibetan	ⁿd
-2502	0	Labrang Tibetan	ⁿb
-2502	0	Labrang Tibetan	ⁿdz
-2502	0	Labrang Tibetan	i
-2502	0	Labrang Tibetan	e
-2502	0	Labrang Tibetan	ə
-2502	0	Labrang Tibetan	a
-2502	0	Labrang Tibetan	u
-2502	0	Labrang Tibetan	o
+2502	NA	Labrang Tibetan	p
+2502	NA	Labrang Tibetan	pʰ
+2502	NA	Labrang Tibetan	b
+2502	NA	Labrang Tibetan	m
+2502	NA	Labrang Tibetan	w
+2502	NA	Labrang Tibetan	ts
+2502	NA	Labrang Tibetan	tsʰ
+2502	NA	Labrang Tibetan	dz
+2502	NA	Labrang Tibetan	s
+2502	NA	Labrang Tibetan	sʰ
+2502	NA	Labrang Tibetan	z
+2502	NA	Labrang Tibetan	t
+2502	NA	Labrang Tibetan	tʰ
+2502	NA	Labrang Tibetan	d
+2502	NA	Labrang Tibetan	n
+2502	NA	Labrang Tibetan	l
+2502	NA	Labrang Tibetan	l̥
+2502	NA	Labrang Tibetan	r
+2502	NA	Labrang Tibetan	ʈʂ
+2502	NA	Labrang Tibetan	ʈʂʰ
+2502	NA	Labrang Tibetan	ɖʐ
+2502	NA	Labrang Tibetan	ʂ
+2502	NA	Labrang Tibetan	tɕ
+2502	NA	Labrang Tibetan	tɕʰ
+2502	NA	Labrang Tibetan	dʑ
+2502	NA	Labrang Tibetan	ɕ
+2502	NA	Labrang Tibetan	ɕʰ
+2502	NA	Labrang Tibetan	ʑ
+2502	NA	Labrang Tibetan	ɲ
+2502	NA	Labrang Tibetan	j
+2502	NA	Labrang Tibetan	k
+2502	NA	Labrang Tibetan	kʰ
+2502	NA	Labrang Tibetan	g
+2502	NA	Labrang Tibetan	x
+2502	NA	Labrang Tibetan	xʰ
+2502	NA	Labrang Tibetan	ɣ
+2502	NA	Labrang Tibetan	ŋ
+2502	NA	Labrang Tibetan	h
+2502	NA	Labrang Tibetan	ⁿg
+2502	NA	Labrang Tibetan	ⁿdʑ
+2502	NA	Labrang Tibetan	ⁿɖʐ
+2502	NA	Labrang Tibetan	ⁿd
+2502	NA	Labrang Tibetan	ⁿb
+2502	NA	Labrang Tibetan	ⁿdz
+2502	NA	Labrang Tibetan	i
+2502	NA	Labrang Tibetan	e
+2502	NA	Labrang Tibetan	ə
+2502	NA	Labrang Tibetan	a
+2502	NA	Labrang Tibetan	u
+2502	NA	Labrang Tibetan	o
 2503	ukr	Ukrainian (Standard)	b
 2503	ukr	Ukrainian (Standard)	ʋ
 2503	ukr	Ukrainian (Standard)	ɦ
@@ -11245,48 +11245,48 @@ InventoryID	LanguageCode	LanguageName	Segment
 2503	ukr	Ukrainian (Standard)	i
 2503	ukr	Ukrainian (Standard)	u
 2503	ukr	Ukrainian (Standard)	ɪ
-2504	0	South Mustang Tibetan (Jharkhot)	p
-2504	0	South Mustang Tibetan (Jharkhot)	pʰ
-2504	0	South Mustang Tibetan (Jharkhot)	b
-2504	0	South Mustang Tibetan (Jharkhot)	t
-2504	0	South Mustang Tibetan (Jharkhot)	tʰ
-2504	0	South Mustang Tibetan (Jharkhot)	d
-2504	0	South Mustang Tibetan (Jharkhot)	ʈ
-2504	0	South Mustang Tibetan (Jharkhot)	ʈʰ
-2504	0	South Mustang Tibetan (Jharkhot)	ɖ
-2504	0	South Mustang Tibetan (Jharkhot)	c
-2504	0	South Mustang Tibetan (Jharkhot)	cʰ
-2504	0	South Mustang Tibetan (Jharkhot)	ɟ
-2504	0	South Mustang Tibetan (Jharkhot)	k
-2504	0	South Mustang Tibetan (Jharkhot)	kʰ
-2504	0	South Mustang Tibetan (Jharkhot)	g
-2504	0	South Mustang Tibetan (Jharkhot)	m
-2504	0	South Mustang Tibetan (Jharkhot)	n
-2504	0	South Mustang Tibetan (Jharkhot)	ɲ
-2504	0	South Mustang Tibetan (Jharkhot)	ŋ
-2504	0	South Mustang Tibetan (Jharkhot)	m̥
-2504	0	South Mustang Tibetan (Jharkhot)	l
-2504	0	South Mustang Tibetan (Jharkhot)	l̥
-2504	0	South Mustang Tibetan (Jharkhot)	r
-2504	0	South Mustang Tibetan (Jharkhot)	r̥
-2504	0	South Mustang Tibetan (Jharkhot)	s
-2504	0	South Mustang Tibetan (Jharkhot)	ʃ
-2504	0	South Mustang Tibetan (Jharkhot)	h
-2504	0	South Mustang Tibetan (Jharkhot)	ts
-2504	0	South Mustang Tibetan (Jharkhot)	tsʰ
-2504	0	South Mustang Tibetan (Jharkhot)	dz
-2504	0	South Mustang Tibetan (Jharkhot)	tʃ
-2504	0	South Mustang Tibetan (Jharkhot)	tʃʰ
-2504	0	South Mustang Tibetan (Jharkhot)	dʒ
-2504	0	South Mustang Tibetan (Jharkhot)	w
-2504	0	South Mustang Tibetan (Jharkhot)	j
-2504	0	South Mustang Tibetan (Jharkhot)	a
-2504	0	South Mustang Tibetan (Jharkhot)	ɛ
-2504	0	South Mustang Tibetan (Jharkhot)	ɪ
-2504	0	South Mustang Tibetan (Jharkhot)	ɔ
-2504	0	South Mustang Tibetan (Jharkhot)	œ
-2504	0	South Mustang Tibetan (Jharkhot)	ʊ
-2504	0	South Mustang Tibetan (Jharkhot)	y
+2504	NA	South Mustang Tibetan (Jharkhot)	p
+2504	NA	South Mustang Tibetan (Jharkhot)	pʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	b
+2504	NA	South Mustang Tibetan (Jharkhot)	t
+2504	NA	South Mustang Tibetan (Jharkhot)	tʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	d
+2504	NA	South Mustang Tibetan (Jharkhot)	ʈ
+2504	NA	South Mustang Tibetan (Jharkhot)	ʈʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	ɖ
+2504	NA	South Mustang Tibetan (Jharkhot)	c
+2504	NA	South Mustang Tibetan (Jharkhot)	cʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	ɟ
+2504	NA	South Mustang Tibetan (Jharkhot)	k
+2504	NA	South Mustang Tibetan (Jharkhot)	kʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	g
+2504	NA	South Mustang Tibetan (Jharkhot)	m
+2504	NA	South Mustang Tibetan (Jharkhot)	n
+2504	NA	South Mustang Tibetan (Jharkhot)	ɲ
+2504	NA	South Mustang Tibetan (Jharkhot)	ŋ
+2504	NA	South Mustang Tibetan (Jharkhot)	m̥
+2504	NA	South Mustang Tibetan (Jharkhot)	l
+2504	NA	South Mustang Tibetan (Jharkhot)	l̥
+2504	NA	South Mustang Tibetan (Jharkhot)	r
+2504	NA	South Mustang Tibetan (Jharkhot)	r̥
+2504	NA	South Mustang Tibetan (Jharkhot)	s
+2504	NA	South Mustang Tibetan (Jharkhot)	ʃ
+2504	NA	South Mustang Tibetan (Jharkhot)	h
+2504	NA	South Mustang Tibetan (Jharkhot)	ts
+2504	NA	South Mustang Tibetan (Jharkhot)	tsʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	dz
+2504	NA	South Mustang Tibetan (Jharkhot)	tʃ
+2504	NA	South Mustang Tibetan (Jharkhot)	tʃʰ
+2504	NA	South Mustang Tibetan (Jharkhot)	dʒ
+2504	NA	South Mustang Tibetan (Jharkhot)	w
+2504	NA	South Mustang Tibetan (Jharkhot)	j
+2504	NA	South Mustang Tibetan (Jharkhot)	a
+2504	NA	South Mustang Tibetan (Jharkhot)	ɛ
+2504	NA	South Mustang Tibetan (Jharkhot)	ɪ
+2504	NA	South Mustang Tibetan (Jharkhot)	ɔ
+2504	NA	South Mustang Tibetan (Jharkhot)	œ
+2504	NA	South Mustang Tibetan (Jharkhot)	ʊ
+2504	NA	South Mustang Tibetan (Jharkhot)	y
 2505	sco	Scots (Northern)	pʰ
 2505	sco	Scots (Northern)	b
 2505	sco	Scots (Northern)	m
@@ -11848,139 +11848,139 @@ InventoryID	LanguageCode	LanguageName	Segment
 2518	nod	Northern Thai (Chieng Mai)	ia
 2518	nod	Northern Thai (Chieng Mai)	ɯɑ
 2518	nod	Northern Thai (Chieng Mai)	ua
-2519	0	Soghpo Tibetan	p
-2519	0	Soghpo Tibetan	t
-2519	0	Soghpo Tibetan	ʈ
-2519	0	Soghpo Tibetan	c
-2519	0	Soghpo Tibetan	k
-2519	0	Soghpo Tibetan	ʰp
-2519	0	Soghpo Tibetan	ʰt
-2519	0	Soghpo Tibetan	ʰʈ
-2519	0	Soghpo Tibetan	ʰc
-2519	0	Soghpo Tibetan	ʰk
-2519	0	Soghpo Tibetan	pʰ
-2519	0	Soghpo Tibetan	tʰ
-2519	0	Soghpo Tibetan	ʈʰ
-2519	0	Soghpo Tibetan	cʰ
-2519	0	Soghpo Tibetan	kʰ
-2519	0	Soghpo Tibetan	ⁿpʰ
-2519	0	Soghpo Tibetan	ⁿtʰ
-2519	0	Soghpo Tibetan	ⁿʈʰ
-2519	0	Soghpo Tibetan	ⁿcʰ
-2519	0	Soghpo Tibetan	ⁿkʰ
-2519	0	Soghpo Tibetan	b
-2519	0	Soghpo Tibetan	d
-2519	0	Soghpo Tibetan	ɖ
-2519	0	Soghpo Tibetan	ɟ
-2519	0	Soghpo Tibetan	ɡ
-2519	0	Soghpo Tibetan	ⁿb
-2519	0	Soghpo Tibetan	ⁿd
-2519	0	Soghpo Tibetan	ⁿɖ
-2519	0	Soghpo Tibetan	ⁿɟ
-2519	0	Soghpo Tibetan	ⁿɡ
-2519	0	Soghpo Tibetan	ʱb
-2519	0	Soghpo Tibetan	ʱd
-2519	0	Soghpo Tibetan	ʱɖ
-2519	0	Soghpo Tibetan	ʱɟ
-2519	0	Soghpo Tibetan	ʱɡ
-2519	0	Soghpo Tibetan	ts
-2519	0	Soghpo Tibetan	tsʰ
-2519	0	Soghpo Tibetan	ⁿtsʰ
-2519	0	Soghpo Tibetan	dz
-2519	0	Soghpo Tibetan	ⁿdz
-2519	0	Soghpo Tibetan	ʱdz
-2519	0	Soghpo Tibetan	tɕ
-2519	0	Soghpo Tibetan	tɕʰ
-2519	0	Soghpo Tibetan	ⁿtɕʰ
-2519	0	Soghpo Tibetan	dʑ
-2519	0	Soghpo Tibetan	ⁿdʑ
-2519	0	Soghpo Tibetan	ʱdʑ
-2519	0	Soghpo Tibetan	sʰ
-2519	0	Soghpo Tibetan	ʂʰ
-2519	0	Soghpo Tibetan	ɕʰ
-2519	0	Soghpo Tibetan	xʰ
-2519	0	Soghpo Tibetan	ⁿsʰ
-2519	0	Soghpo Tibetan	ⁿxʰ
-2519	0	Soghpo Tibetan	ɸ
-2519	0	Soghpo Tibetan	s
-2519	0	Soghpo Tibetan	ʂ
-2519	0	Soghpo Tibetan	ɕ
-2519	0	Soghpo Tibetan	x
-2519	0	Soghpo Tibetan	h
-2519	0	Soghpo Tibetan	z
-2519	0	Soghpo Tibetan	ʐ
-2519	0	Soghpo Tibetan	ɣ
-2519	0	Soghpo Tibetan	ɦ
-2519	0	Soghpo Tibetan	ʱz
-2519	0	Soghpo Tibetan	ʱʐ
-2519	0	Soghpo Tibetan	m
-2519	0	Soghpo Tibetan	n
-2519	0	Soghpo Tibetan	ɲ
-2519	0	Soghpo Tibetan	ŋ
-2519	0	Soghpo Tibetan	m̥
-2519	0	Soghpo Tibetan	n̥
-2519	0	Soghpo Tibetan	ɲ̊
-2519	0	Soghpo Tibetan	ŋ̊
-2519	0	Soghpo Tibetan	ʱm
-2519	0	Soghpo Tibetan	ʱn
-2519	0	Soghpo Tibetan	ʱɲ
-2519	0	Soghpo Tibetan	ʱŋ
-2519	0	Soghpo Tibetan	l
-2519	0	Soghpo Tibetan	ʰl̥
-2519	0	Soghpo Tibetan	ʱl
-2519	0	Soghpo Tibetan	r
-2519	0	Soghpo Tibetan	w
-2519	0	Soghpo Tibetan	j
-2519	0	Soghpo Tibetan	ʱj
-2519	0	Soghpo Tibetan	ʰʷt
-2519	0	Soghpo Tibetan	ʰʷʈ
-2519	0	Soghpo Tibetan	ʰʷk
-2519	0	Soghpo Tibetan	ʰʷts
-2519	0	Soghpo Tibetan	ʰʷtɕ
-2519	0	Soghpo Tibetan	ʰʷs
-2519	0	Soghpo Tibetan	ʰʷsʰ
-2519	0	Soghpo Tibetan	ʰʷʂʰ
-2519	0	Soghpo Tibetan	ʰʷɕʰ
-2519	0	Soghpo Tibetan	ʷd
-2519	0	Soghpo Tibetan	ʷɟ
-2519	0	Soghpo Tibetan	ʷz
-2519	0	Soghpo Tibetan	ʷʐ
-2519	0	Soghpo Tibetan	ʷʑ
-2519	0	Soghpo Tibetan	ʷm
-2519	0	Soghpo Tibetan	ʷl
-2519	0	Soghpo Tibetan	i
-2519	0	Soghpo Tibetan	e
-2519	0	Soghpo Tibetan	ɛ
-2519	0	Soghpo Tibetan	a
-2519	0	Soghpo Tibetan	ɵ
-2519	0	Soghpo Tibetan	ə
-2519	0	Soghpo Tibetan	ɑ
-2519	0	Soghpo Tibetan	ɔ
-2519	0	Soghpo Tibetan	o
-2519	0	Soghpo Tibetan	ɯ
-2519	0	Soghpo Tibetan	u
-2519	0	Soghpo Tibetan	iː
-2519	0	Soghpo Tibetan	eː
-2519	0	Soghpo Tibetan	ɛː
-2519	0	Soghpo Tibetan	aː
-2519	0	Soghpo Tibetan	ɵː
-2519	0	Soghpo Tibetan	əː
-2519	0	Soghpo Tibetan	ɑː
-2519	0	Soghpo Tibetan	ɔː
-2519	0	Soghpo Tibetan	oː
-2519	0	Soghpo Tibetan	ɯː
-2519	0	Soghpo Tibetan	uː
-2519	0	Soghpo Tibetan	ĩ
-2519	0	Soghpo Tibetan	ẽ
-2519	0	Soghpo Tibetan	ɛ̃
-2519	0	Soghpo Tibetan	ã
-2519	0	Soghpo Tibetan	ɵ̃
-2519	0	Soghpo Tibetan	ə̃
-2519	0	Soghpo Tibetan	ɑ̃
-2519	0	Soghpo Tibetan	ɔ̃
-2519	0	Soghpo Tibetan	õ
-2519	0	Soghpo Tibetan	ɯ̃
-2519	0	Soghpo Tibetan	ũ
+2519	NA	Soghpo Tibetan	p
+2519	NA	Soghpo Tibetan	t
+2519	NA	Soghpo Tibetan	ʈ
+2519	NA	Soghpo Tibetan	c
+2519	NA	Soghpo Tibetan	k
+2519	NA	Soghpo Tibetan	ʰp
+2519	NA	Soghpo Tibetan	ʰt
+2519	NA	Soghpo Tibetan	ʰʈ
+2519	NA	Soghpo Tibetan	ʰc
+2519	NA	Soghpo Tibetan	ʰk
+2519	NA	Soghpo Tibetan	pʰ
+2519	NA	Soghpo Tibetan	tʰ
+2519	NA	Soghpo Tibetan	ʈʰ
+2519	NA	Soghpo Tibetan	cʰ
+2519	NA	Soghpo Tibetan	kʰ
+2519	NA	Soghpo Tibetan	ⁿpʰ
+2519	NA	Soghpo Tibetan	ⁿtʰ
+2519	NA	Soghpo Tibetan	ⁿʈʰ
+2519	NA	Soghpo Tibetan	ⁿcʰ
+2519	NA	Soghpo Tibetan	ⁿkʰ
+2519	NA	Soghpo Tibetan	b
+2519	NA	Soghpo Tibetan	d
+2519	NA	Soghpo Tibetan	ɖ
+2519	NA	Soghpo Tibetan	ɟ
+2519	NA	Soghpo Tibetan	ɡ
+2519	NA	Soghpo Tibetan	ⁿb
+2519	NA	Soghpo Tibetan	ⁿd
+2519	NA	Soghpo Tibetan	ⁿɖ
+2519	NA	Soghpo Tibetan	ⁿɟ
+2519	NA	Soghpo Tibetan	ⁿɡ
+2519	NA	Soghpo Tibetan	ʱb
+2519	NA	Soghpo Tibetan	ʱd
+2519	NA	Soghpo Tibetan	ʱɖ
+2519	NA	Soghpo Tibetan	ʱɟ
+2519	NA	Soghpo Tibetan	ʱɡ
+2519	NA	Soghpo Tibetan	ts
+2519	NA	Soghpo Tibetan	tsʰ
+2519	NA	Soghpo Tibetan	ⁿtsʰ
+2519	NA	Soghpo Tibetan	dz
+2519	NA	Soghpo Tibetan	ⁿdz
+2519	NA	Soghpo Tibetan	ʱdz
+2519	NA	Soghpo Tibetan	tɕ
+2519	NA	Soghpo Tibetan	tɕʰ
+2519	NA	Soghpo Tibetan	ⁿtɕʰ
+2519	NA	Soghpo Tibetan	dʑ
+2519	NA	Soghpo Tibetan	ⁿdʑ
+2519	NA	Soghpo Tibetan	ʱdʑ
+2519	NA	Soghpo Tibetan	sʰ
+2519	NA	Soghpo Tibetan	ʂʰ
+2519	NA	Soghpo Tibetan	ɕʰ
+2519	NA	Soghpo Tibetan	xʰ
+2519	NA	Soghpo Tibetan	ⁿsʰ
+2519	NA	Soghpo Tibetan	ⁿxʰ
+2519	NA	Soghpo Tibetan	ɸ
+2519	NA	Soghpo Tibetan	s
+2519	NA	Soghpo Tibetan	ʂ
+2519	NA	Soghpo Tibetan	ɕ
+2519	NA	Soghpo Tibetan	x
+2519	NA	Soghpo Tibetan	h
+2519	NA	Soghpo Tibetan	z
+2519	NA	Soghpo Tibetan	ʐ
+2519	NA	Soghpo Tibetan	ɣ
+2519	NA	Soghpo Tibetan	ɦ
+2519	NA	Soghpo Tibetan	ʱz
+2519	NA	Soghpo Tibetan	ʱʐ
+2519	NA	Soghpo Tibetan	m
+2519	NA	Soghpo Tibetan	n
+2519	NA	Soghpo Tibetan	ɲ
+2519	NA	Soghpo Tibetan	ŋ
+2519	NA	Soghpo Tibetan	m̥
+2519	NA	Soghpo Tibetan	n̥
+2519	NA	Soghpo Tibetan	ɲ̊
+2519	NA	Soghpo Tibetan	ŋ̊
+2519	NA	Soghpo Tibetan	ʱm
+2519	NA	Soghpo Tibetan	ʱn
+2519	NA	Soghpo Tibetan	ʱɲ
+2519	NA	Soghpo Tibetan	ʱŋ
+2519	NA	Soghpo Tibetan	l
+2519	NA	Soghpo Tibetan	ʰl̥
+2519	NA	Soghpo Tibetan	ʱl
+2519	NA	Soghpo Tibetan	r
+2519	NA	Soghpo Tibetan	w
+2519	NA	Soghpo Tibetan	j
+2519	NA	Soghpo Tibetan	ʱj
+2519	NA	Soghpo Tibetan	ʰʷt
+2519	NA	Soghpo Tibetan	ʰʷʈ
+2519	NA	Soghpo Tibetan	ʰʷk
+2519	NA	Soghpo Tibetan	ʰʷts
+2519	NA	Soghpo Tibetan	ʰʷtɕ
+2519	NA	Soghpo Tibetan	ʰʷs
+2519	NA	Soghpo Tibetan	ʰʷsʰ
+2519	NA	Soghpo Tibetan	ʰʷʂʰ
+2519	NA	Soghpo Tibetan	ʰʷɕʰ
+2519	NA	Soghpo Tibetan	ʷd
+2519	NA	Soghpo Tibetan	ʷɟ
+2519	NA	Soghpo Tibetan	ʷz
+2519	NA	Soghpo Tibetan	ʷʐ
+2519	NA	Soghpo Tibetan	ʷʑ
+2519	NA	Soghpo Tibetan	ʷm
+2519	NA	Soghpo Tibetan	ʷl
+2519	NA	Soghpo Tibetan	i
+2519	NA	Soghpo Tibetan	e
+2519	NA	Soghpo Tibetan	ɛ
+2519	NA	Soghpo Tibetan	a
+2519	NA	Soghpo Tibetan	ɵ
+2519	NA	Soghpo Tibetan	ə
+2519	NA	Soghpo Tibetan	ɑ
+2519	NA	Soghpo Tibetan	ɔ
+2519	NA	Soghpo Tibetan	o
+2519	NA	Soghpo Tibetan	ɯ
+2519	NA	Soghpo Tibetan	u
+2519	NA	Soghpo Tibetan	iː
+2519	NA	Soghpo Tibetan	eː
+2519	NA	Soghpo Tibetan	ɛː
+2519	NA	Soghpo Tibetan	aː
+2519	NA	Soghpo Tibetan	ɵː
+2519	NA	Soghpo Tibetan	əː
+2519	NA	Soghpo Tibetan	ɑː
+2519	NA	Soghpo Tibetan	ɔː
+2519	NA	Soghpo Tibetan	oː
+2519	NA	Soghpo Tibetan	ɯː
+2519	NA	Soghpo Tibetan	uː
+2519	NA	Soghpo Tibetan	ĩ
+2519	NA	Soghpo Tibetan	ẽ
+2519	NA	Soghpo Tibetan	ɛ̃
+2519	NA	Soghpo Tibetan	ã
+2519	NA	Soghpo Tibetan	ɵ̃
+2519	NA	Soghpo Tibetan	ə̃
+2519	NA	Soghpo Tibetan	ɑ̃
+2519	NA	Soghpo Tibetan	ɔ̃
+2519	NA	Soghpo Tibetan	õ
+2519	NA	Soghpo Tibetan	ɯ̃
+2519	NA	Soghpo Tibetan	ũ
 2520	pes	Farsi	b
 2520	pes	Farsi	pʰ
 2520	pes	Farsi	m
@@ -12248,83 +12248,83 @@ InventoryID	LanguageCode	LanguageName	Segment
 2524	lez	Lezgian (Güne)	y
 2524	lez	Lezgian (Güne)	ɛ
 2524	lez	Lezgian (Güne)	i
-2525	0	Kami Tibetan	p
-2525	0	Kami Tibetan	pʰ
-2525	0	Kami Tibetan	b
-2525	0	Kami Tibetan	ⁿb
-2525	0	Kami Tibetan	m̥
-2525	0	Kami Tibetan	m
-2525	0	Kami Tibetan	w
-2525	0	Kami Tibetan	t
-2525	0	Kami Tibetan	tʰ
-2525	0	Kami Tibetan	d
-2525	0	Kami Tibetan	ⁿd
-2525	0	Kami Tibetan	n̥
-2525	0	Kami Tibetan	n
-2525	0	Kami Tibetan	ts
-2525	0	Kami Tibetan	tsʰ
-2525	0	Kami Tibetan	dz
-2525	0	Kami Tibetan	ⁿdz
-2525	0	Kami Tibetan	ɹ̥
-2525	0	Kami Tibetan	ɹ
-2525	0	Kami Tibetan	l̥
-2525	0	Kami Tibetan	l
-2525	0	Kami Tibetan	s
-2525	0	Kami Tibetan	sʰ
-2525	0	Kami Tibetan	z
-2525	0	Kami Tibetan	ʃ
-2525	0	Kami Tibetan	ʃʰ
-2525	0	Kami Tibetan	ʒ
-2525	0	Kami Tibetan	tʃ
-2525	0	Kami Tibetan	tʃʰ
-2525	0	Kami Tibetan	dʒ
-2525	0	Kami Tibetan	ⁿdʒ
-2525	0	Kami Tibetan	ɕ
-2525	0	Kami Tibetan	ɕʰ
-2525	0	Kami Tibetan	ʑ
-2525	0	Kami Tibetan	tɕ
-2525	0	Kami Tibetan	tɕʰ
-2525	0	Kami Tibetan	dʑ
-2525	0	Kami Tibetan	ⁿdʑ
-2525	0	Kami Tibetan	ʈʂ
-2525	0	Kami Tibetan	ʈʂʰ
-2525	0	Kami Tibetan	ɖʐ
-2525	0	Kami Tibetan	ⁿɖʐ
-2525	0	Kami Tibetan	ɲ̊
-2525	0	Kami Tibetan	ɲ
-2525	0	Kami Tibetan	j̊
-2525	0	Kami Tibetan	j
-2525	0	Kami Tibetan	k
-2525	0	Kami Tibetan	kʰ
-2525	0	Kami Tibetan	g
-2525	0	Kami Tibetan	ⁿg
-2525	0	Kami Tibetan	ŋ̊
-2525	0	Kami Tibetan	ŋ
-2525	0	Kami Tibetan	x
-2525	0	Kami Tibetan	ɣ
-2525	0	Kami Tibetan	h
-2525	0	Kami Tibetan	ɦ
-2525	0	Kami Tibetan	i
-2525	0	Kami Tibetan	ĩ
-2525	0	Kami Tibetan	ɯ
-2525	0	Kami Tibetan	ɯ̃
-2525	0	Kami Tibetan	u
-2525	0	Kami Tibetan	ũ
-2525	0	Kami Tibetan	e
-2525	0	Kami Tibetan	ẽ
-2525	0	Kami Tibetan	ɤ
-2525	0	Kami Tibetan	ə
-2525	0	Kami Tibetan	ɛ
-2525	0	Kami Tibetan	ɔ
-2525	0	Kami Tibetan	ɔ̃
-2525	0	Kami Tibetan	a
-2525	0	Kami Tibetan	ɑ̃
-2525	0	Kami Tibetan	ei
-2525	0	Kami Tibetan	ui
-2525	0	Kami Tibetan	ue
-2525	0	Kami Tibetan	uẽ
-2525	0	Kami Tibetan	ua
-2525	0	Kami Tibetan	ou
+2525	NA	Kami Tibetan	p
+2525	NA	Kami Tibetan	pʰ
+2525	NA	Kami Tibetan	b
+2525	NA	Kami Tibetan	ⁿb
+2525	NA	Kami Tibetan	m̥
+2525	NA	Kami Tibetan	m
+2525	NA	Kami Tibetan	w
+2525	NA	Kami Tibetan	t
+2525	NA	Kami Tibetan	tʰ
+2525	NA	Kami Tibetan	d
+2525	NA	Kami Tibetan	ⁿd
+2525	NA	Kami Tibetan	n̥
+2525	NA	Kami Tibetan	n
+2525	NA	Kami Tibetan	ts
+2525	NA	Kami Tibetan	tsʰ
+2525	NA	Kami Tibetan	dz
+2525	NA	Kami Tibetan	ⁿdz
+2525	NA	Kami Tibetan	ɹ̥
+2525	NA	Kami Tibetan	ɹ
+2525	NA	Kami Tibetan	l̥
+2525	NA	Kami Tibetan	l
+2525	NA	Kami Tibetan	s
+2525	NA	Kami Tibetan	sʰ
+2525	NA	Kami Tibetan	z
+2525	NA	Kami Tibetan	ʃ
+2525	NA	Kami Tibetan	ʃʰ
+2525	NA	Kami Tibetan	ʒ
+2525	NA	Kami Tibetan	tʃ
+2525	NA	Kami Tibetan	tʃʰ
+2525	NA	Kami Tibetan	dʒ
+2525	NA	Kami Tibetan	ⁿdʒ
+2525	NA	Kami Tibetan	ɕ
+2525	NA	Kami Tibetan	ɕʰ
+2525	NA	Kami Tibetan	ʑ
+2525	NA	Kami Tibetan	tɕ
+2525	NA	Kami Tibetan	tɕʰ
+2525	NA	Kami Tibetan	dʑ
+2525	NA	Kami Tibetan	ⁿdʑ
+2525	NA	Kami Tibetan	ʈʂ
+2525	NA	Kami Tibetan	ʈʂʰ
+2525	NA	Kami Tibetan	ɖʐ
+2525	NA	Kami Tibetan	ⁿɖʐ
+2525	NA	Kami Tibetan	ɲ̊
+2525	NA	Kami Tibetan	ɲ
+2525	NA	Kami Tibetan	j̊
+2525	NA	Kami Tibetan	j
+2525	NA	Kami Tibetan	k
+2525	NA	Kami Tibetan	kʰ
+2525	NA	Kami Tibetan	g
+2525	NA	Kami Tibetan	ⁿg
+2525	NA	Kami Tibetan	ŋ̊
+2525	NA	Kami Tibetan	ŋ
+2525	NA	Kami Tibetan	x
+2525	NA	Kami Tibetan	ɣ
+2525	NA	Kami Tibetan	h
+2525	NA	Kami Tibetan	ɦ
+2525	NA	Kami Tibetan	i
+2525	NA	Kami Tibetan	ĩ
+2525	NA	Kami Tibetan	ɯ
+2525	NA	Kami Tibetan	ɯ̃
+2525	NA	Kami Tibetan	u
+2525	NA	Kami Tibetan	ũ
+2525	NA	Kami Tibetan	e
+2525	NA	Kami Tibetan	ẽ
+2525	NA	Kami Tibetan	ɤ
+2525	NA	Kami Tibetan	ə
+2525	NA	Kami Tibetan	ɛ
+2525	NA	Kami Tibetan	ɔ
+2525	NA	Kami Tibetan	ɔ̃
+2525	NA	Kami Tibetan	a
+2525	NA	Kami Tibetan	ɑ̃
+2525	NA	Kami Tibetan	ei
+2525	NA	Kami Tibetan	ui
+2525	NA	Kami Tibetan	ue
+2525	NA	Kami Tibetan	uẽ
+2525	NA	Kami Tibetan	ua
+2525	NA	Kami Tibetan	ou
 2526	srb	Sora (Gumma Hills)	p
 2526	srb	Sora (Gumma Hills)	t
 2526	srb	Sora (Gumma Hills)	c
@@ -12624,65 +12624,65 @@ InventoryID	LanguageCode	LanguageName	Segment
 2533	ers	Ersu	a˞
 2533	ers	Ersu	ɿ
 2533	ers	Ersu	ɿ̹
-2534	0	Khalong Tibetan	p
-2534	0	Khalong Tibetan	t
-2534	0	Khalong Tibetan	ts
-2534	0	Khalong Tibetan	ʈʂ
-2534	0	Khalong Tibetan	c
-2534	0	Khalong Tibetan	tʃ
-2534	0	Khalong Tibetan	k
-2534	0	Khalong Tibetan	q
-2534	0	Khalong Tibetan	ⁿpʰ
-2534	0	Khalong Tibetan	ⁿtʰ
-2534	0	Khalong Tibetan	ⁿtsʰ
-2534	0	Khalong Tibetan	ⁿcʰ
-2534	0	Khalong Tibetan	ⁿtʃʰ
-2534	0	Khalong Tibetan	ⁿkʰ
-2534	0	Khalong Tibetan	pʰ
-2534	0	Khalong Tibetan	tʰ
-2534	0	Khalong Tibetan	tsʰ
-2534	0	Khalong Tibetan	ʈʂʰ
-2534	0	Khalong Tibetan	cʰ
-2534	0	Khalong Tibetan	tʃʰ
-2534	0	Khalong Tibetan	kʰ
-2534	0	Khalong Tibetan	qʰ
-2534	0	Khalong Tibetan	b
-2534	0	Khalong Tibetan	d
-2534	0	Khalong Tibetan	ɖʐ
-2534	0	Khalong Tibetan	ɟ
-2534	0	Khalong Tibetan	dʒ
-2534	0	Khalong Tibetan	ɡ
-2534	0	Khalong Tibetan	ⁿb
-2534	0	Khalong Tibetan	ⁿd
-2534	0	Khalong Tibetan	ⁿdz
-2534	0	Khalong Tibetan	ⁿɖʐ
-2534	0	Khalong Tibetan	ⁿɟ
-2534	0	Khalong Tibetan	ⁿdʒ
-2534	0	Khalong Tibetan	ⁿɡ
-2534	0	Khalong Tibetan	f
-2534	0	Khalong Tibetan	s
-2534	0	Khalong Tibetan	ʂ
-2534	0	Khalong Tibetan	ʃ
-2534	0	Khalong Tibetan	x
-2534	0	Khalong Tibetan	χ
-2534	0	Khalong Tibetan	m
-2534	0	Khalong Tibetan	n
-2534	0	Khalong Tibetan	ɲ
-2534	0	Khalong Tibetan	ŋ
-2534	0	Khalong Tibetan	m̥
-2534	0	Khalong Tibetan	n̥
-2534	0	Khalong Tibetan	ɲ̊
-2534	0	Khalong Tibetan	ŋ̊
-2534	0	Khalong Tibetan	r
-2534	0	Khalong Tibetan	l
-2534	0	Khalong Tibetan	l̥
-2534	0	Khalong Tibetan	j
-2534	0	Khalong Tibetan	a
-2534	0	Khalong Tibetan	i
-2534	0	Khalong Tibetan	u
-2534	0	Khalong Tibetan	e
-2534	0	Khalong Tibetan	o
-2534	0	Khalong Tibetan	ə
+2534	NA	Khalong Tibetan	p
+2534	NA	Khalong Tibetan	t
+2534	NA	Khalong Tibetan	ts
+2534	NA	Khalong Tibetan	ʈʂ
+2534	NA	Khalong Tibetan	c
+2534	NA	Khalong Tibetan	tʃ
+2534	NA	Khalong Tibetan	k
+2534	NA	Khalong Tibetan	q
+2534	NA	Khalong Tibetan	ⁿpʰ
+2534	NA	Khalong Tibetan	ⁿtʰ
+2534	NA	Khalong Tibetan	ⁿtsʰ
+2534	NA	Khalong Tibetan	ⁿcʰ
+2534	NA	Khalong Tibetan	ⁿtʃʰ
+2534	NA	Khalong Tibetan	ⁿkʰ
+2534	NA	Khalong Tibetan	pʰ
+2534	NA	Khalong Tibetan	tʰ
+2534	NA	Khalong Tibetan	tsʰ
+2534	NA	Khalong Tibetan	ʈʂʰ
+2534	NA	Khalong Tibetan	cʰ
+2534	NA	Khalong Tibetan	tʃʰ
+2534	NA	Khalong Tibetan	kʰ
+2534	NA	Khalong Tibetan	qʰ
+2534	NA	Khalong Tibetan	b
+2534	NA	Khalong Tibetan	d
+2534	NA	Khalong Tibetan	ɖʐ
+2534	NA	Khalong Tibetan	ɟ
+2534	NA	Khalong Tibetan	dʒ
+2534	NA	Khalong Tibetan	ɡ
+2534	NA	Khalong Tibetan	ⁿb
+2534	NA	Khalong Tibetan	ⁿd
+2534	NA	Khalong Tibetan	ⁿdz
+2534	NA	Khalong Tibetan	ⁿɖʐ
+2534	NA	Khalong Tibetan	ⁿɟ
+2534	NA	Khalong Tibetan	ⁿdʒ
+2534	NA	Khalong Tibetan	ⁿɡ
+2534	NA	Khalong Tibetan	f
+2534	NA	Khalong Tibetan	s
+2534	NA	Khalong Tibetan	ʂ
+2534	NA	Khalong Tibetan	ʃ
+2534	NA	Khalong Tibetan	x
+2534	NA	Khalong Tibetan	χ
+2534	NA	Khalong Tibetan	m
+2534	NA	Khalong Tibetan	n
+2534	NA	Khalong Tibetan	ɲ
+2534	NA	Khalong Tibetan	ŋ
+2534	NA	Khalong Tibetan	m̥
+2534	NA	Khalong Tibetan	n̥
+2534	NA	Khalong Tibetan	ɲ̊
+2534	NA	Khalong Tibetan	ŋ̊
+2534	NA	Khalong Tibetan	r
+2534	NA	Khalong Tibetan	l
+2534	NA	Khalong Tibetan	l̥
+2534	NA	Khalong Tibetan	j
+2534	NA	Khalong Tibetan	a
+2534	NA	Khalong Tibetan	i
+2534	NA	Khalong Tibetan	u
+2534	NA	Khalong Tibetan	e
+2534	NA	Khalong Tibetan	o
+2534	NA	Khalong Tibetan	ə
 2535	fin	Finnish (Standard)	p
 2535	fin	Finnish (Standard)	t̪
 2535	fin	Finnish (Standard)	k
@@ -13093,59 +13093,59 @@ InventoryID	LanguageCode	LanguageName	Segment
 2543	gdb	Gadaba	ã
 2543	gdb	Gadaba	aː
 2543	gdb	Gadaba	ãː
-2544	0	Tamang (Dhankuta)	p
-2544	0	Tamang (Dhankuta)	t̪
-2544	0	Tamang (Dhankuta)	ʈ
-2544	0	Tamang (Dhankuta)	k
-2544	0	Tamang (Dhankuta)	pʰ
-2544	0	Tamang (Dhankuta)	t̪ʰ
-2544	0	Tamang (Dhankuta)	ʈʰ
-2544	0	Tamang (Dhankuta)	kʰ
-2544	0	Tamang (Dhankuta)	b
-2544	0	Tamang (Dhankuta)	d̪
-2544	0	Tamang (Dhankuta)	ɖ
-2544	0	Tamang (Dhankuta)	g
-2544	0	Tamang (Dhankuta)	bʰ
-2544	0	Tamang (Dhankuta)	dʰ
-2544	0	Tamang (Dhankuta)	ɖʰ
-2544	0	Tamang (Dhankuta)	gʰ
-2544	0	Tamang (Dhankuta)	ts
-2544	0	Tamang (Dhankuta)	tsʰ
-2544	0	Tamang (Dhankuta)	dz
-2544	0	Tamang (Dhankuta)	dzʰ
-2544	0	Tamang (Dhankuta)	s
-2544	0	Tamang (Dhankuta)	h
-2544	0	Tamang (Dhankuta)	sʰ
-2544	0	Tamang (Dhankuta)	r
-2544	0	Tamang (Dhankuta)	r̥
-2544	0	Tamang (Dhankuta)	l
-2544	0	Tamang (Dhankuta)	l̥
-2544	0	Tamang (Dhankuta)	m
-2544	0	Tamang (Dhankuta)	m̥
-2544	0	Tamang (Dhankuta)	n
-2544	0	Tamang (Dhankuta)	n̥
-2544	0	Tamang (Dhankuta)	ŋ
-2544	0	Tamang (Dhankuta)	ŋ̊
-2544	0	Tamang (Dhankuta)	w
-2544	0	Tamang (Dhankuta)	ʍ
-2544	0	Tamang (Dhankuta)	j
-2544	0	Tamang (Dhankuta)	j̊
-2544	0	Tamang (Dhankuta)	a
-2544	0	Tamang (Dhankuta)	aː
-2544	0	Tamang (Dhankuta)	u
-2544	0	Tamang (Dhankuta)	uː
-2544	0	Tamang (Dhankuta)	o
-2544	0	Tamang (Dhankuta)	oː
-2544	0	Tamang (Dhankuta)	i
-2544	0	Tamang (Dhankuta)	iː
-2544	0	Tamang (Dhankuta)	e
-2544	0	Tamang (Dhankuta)	eː
-2544	0	Tamang (Dhankuta)	ei
-2544	0	Tamang (Dhankuta)	ai
-2544	0	Tamang (Dhankuta)	oi
-2544	0	Tamang (Dhankuta)	ui
-2544	0	Tamang (Dhankuta)	eu
-2544	0	Tamang (Dhankuta)	au
+2544	NA	Tamang (Dhankuta)	p
+2544	NA	Tamang (Dhankuta)	t̪
+2544	NA	Tamang (Dhankuta)	ʈ
+2544	NA	Tamang (Dhankuta)	k
+2544	NA	Tamang (Dhankuta)	pʰ
+2544	NA	Tamang (Dhankuta)	t̪ʰ
+2544	NA	Tamang (Dhankuta)	ʈʰ
+2544	NA	Tamang (Dhankuta)	kʰ
+2544	NA	Tamang (Dhankuta)	b
+2544	NA	Tamang (Dhankuta)	d̪
+2544	NA	Tamang (Dhankuta)	ɖ
+2544	NA	Tamang (Dhankuta)	g
+2544	NA	Tamang (Dhankuta)	bʰ
+2544	NA	Tamang (Dhankuta)	dʰ
+2544	NA	Tamang (Dhankuta)	ɖʰ
+2544	NA	Tamang (Dhankuta)	gʰ
+2544	NA	Tamang (Dhankuta)	ts
+2544	NA	Tamang (Dhankuta)	tsʰ
+2544	NA	Tamang (Dhankuta)	dz
+2544	NA	Tamang (Dhankuta)	dzʰ
+2544	NA	Tamang (Dhankuta)	s
+2544	NA	Tamang (Dhankuta)	h
+2544	NA	Tamang (Dhankuta)	sʰ
+2544	NA	Tamang (Dhankuta)	r
+2544	NA	Tamang (Dhankuta)	r̥
+2544	NA	Tamang (Dhankuta)	l
+2544	NA	Tamang (Dhankuta)	l̥
+2544	NA	Tamang (Dhankuta)	m
+2544	NA	Tamang (Dhankuta)	m̥
+2544	NA	Tamang (Dhankuta)	n
+2544	NA	Tamang (Dhankuta)	n̥
+2544	NA	Tamang (Dhankuta)	ŋ
+2544	NA	Tamang (Dhankuta)	ŋ̊
+2544	NA	Tamang (Dhankuta)	w
+2544	NA	Tamang (Dhankuta)	ʍ
+2544	NA	Tamang (Dhankuta)	j
+2544	NA	Tamang (Dhankuta)	j̊
+2544	NA	Tamang (Dhankuta)	a
+2544	NA	Tamang (Dhankuta)	aː
+2544	NA	Tamang (Dhankuta)	u
+2544	NA	Tamang (Dhankuta)	uː
+2544	NA	Tamang (Dhankuta)	o
+2544	NA	Tamang (Dhankuta)	oː
+2544	NA	Tamang (Dhankuta)	i
+2544	NA	Tamang (Dhankuta)	iː
+2544	NA	Tamang (Dhankuta)	e
+2544	NA	Tamang (Dhankuta)	eː
+2544	NA	Tamang (Dhankuta)	ei
+2544	NA	Tamang (Dhankuta)	ai
+2544	NA	Tamang (Dhankuta)	oi
+2544	NA	Tamang (Dhankuta)	ui
+2544	NA	Tamang (Dhankuta)	eu
+2544	NA	Tamang (Dhankuta)	au
 2545	bcc	Southern Balochi	p
 2545	bcc	Southern Balochi	b
 2545	bcc	Southern Balochi	m
@@ -13558,64 +13558,64 @@ InventoryID	LanguageCode	LanguageName	Segment
 2552	abk	Abkhaz (Bzyb)	ɨ
 2552	abk	Abkhaz (Bzyb)	ä
 2552	abk	Abkhaz (Bzyb)	äː
-2553	0	gSerpa	p
-2553	0	gSerpa	pʰ
-2553	0	gSerpa	b
-2553	0	gSerpa	ⁿb
-2553	0	gSerpa	m
-2553	0	gSerpa	v
-2553	0	gSerpa	t
-2553	0	gSerpa	tʰ
-2553	0	gSerpa	d
-2553	0	gSerpa	ⁿd
-2553	0	gSerpa	n
-2553	0	gSerpa	s
-2553	0	gSerpa	z
-2553	0	gSerpa	r
-2553	0	gSerpa	l
-2553	0	gSerpa	l̥
-2553	0	gSerpa	ts
-2553	0	gSerpa	tsʰ
-2553	0	gSerpa	ⁿdz
-2553	0	gSerpa	ʈʂ
-2553	0	gSerpa	ʈʂʰ
-2553	0	gSerpa	ɖʐ
-2553	0	gSerpa	ⁿɖʐ
-2553	0	gSerpa	ʂ
-2553	0	gSerpa	c
-2553	0	gSerpa	cʰ
-2553	0	gSerpa	ɟ
-2553	0	gSerpa	ⁿɟ
-2553	0	gSerpa	j
-2553	0	gSerpa	tʃ
-2553	0	gSerpa	tʃʰ
-2553	0	gSerpa	dʒ
-2553	0	gSerpa	ⁿdʒ
-2553	0	gSerpa	ɲ
-2553	0	gSerpa	ʃ
-2553	0	gSerpa	ʒ
-2553	0	gSerpa	k
-2553	0	gSerpa	kʰ
-2553	0	gSerpa	g
-2553	0	gSerpa	ⁿg
-2553	0	gSerpa	ŋ
-2553	0	gSerpa	x
-2553	0	gSerpa	ɣ
-2553	0	gSerpa	q
-2553	0	gSerpa	qʰ
-2553	0	gSerpa	χ
-2553	0	gSerpa	ʁ
-2553	0	gSerpa	h
-2553	0	gSerpa	i
-2553	0	gSerpa	e
-2553	0	gSerpa	ɛ
-2553	0	gSerpa	a
-2553	0	gSerpa	ɔ
-2553	0	gSerpa	o
-2553	0	gSerpa	u
-2553	0	gSerpa	ə
-2553	0	gSerpa	ɯa
-2553	0	gSerpa	ɯo
+2553	NA	gSerpa	p
+2553	NA	gSerpa	pʰ
+2553	NA	gSerpa	b
+2553	NA	gSerpa	ⁿb
+2553	NA	gSerpa	m
+2553	NA	gSerpa	v
+2553	NA	gSerpa	t
+2553	NA	gSerpa	tʰ
+2553	NA	gSerpa	d
+2553	NA	gSerpa	ⁿd
+2553	NA	gSerpa	n
+2553	NA	gSerpa	s
+2553	NA	gSerpa	z
+2553	NA	gSerpa	r
+2553	NA	gSerpa	l
+2553	NA	gSerpa	l̥
+2553	NA	gSerpa	ts
+2553	NA	gSerpa	tsʰ
+2553	NA	gSerpa	ⁿdz
+2553	NA	gSerpa	ʈʂ
+2553	NA	gSerpa	ʈʂʰ
+2553	NA	gSerpa	ɖʐ
+2553	NA	gSerpa	ⁿɖʐ
+2553	NA	gSerpa	ʂ
+2553	NA	gSerpa	c
+2553	NA	gSerpa	cʰ
+2553	NA	gSerpa	ɟ
+2553	NA	gSerpa	ⁿɟ
+2553	NA	gSerpa	j
+2553	NA	gSerpa	tʃ
+2553	NA	gSerpa	tʃʰ
+2553	NA	gSerpa	dʒ
+2553	NA	gSerpa	ⁿdʒ
+2553	NA	gSerpa	ɲ
+2553	NA	gSerpa	ʃ
+2553	NA	gSerpa	ʒ
+2553	NA	gSerpa	k
+2553	NA	gSerpa	kʰ
+2553	NA	gSerpa	g
+2553	NA	gSerpa	ⁿg
+2553	NA	gSerpa	ŋ
+2553	NA	gSerpa	x
+2553	NA	gSerpa	ɣ
+2553	NA	gSerpa	q
+2553	NA	gSerpa	qʰ
+2553	NA	gSerpa	χ
+2553	NA	gSerpa	ʁ
+2553	NA	gSerpa	h
+2553	NA	gSerpa	i
+2553	NA	gSerpa	e
+2553	NA	gSerpa	ɛ
+2553	NA	gSerpa	a
+2553	NA	gSerpa	ɔ
+2553	NA	gSerpa	o
+2553	NA	gSerpa	u
+2553	NA	gSerpa	ə
+2553	NA	gSerpa	ɯa
+2553	NA	gSerpa	ɯo
 2554	swe	Swedish (Central)	pʰ
 2554	swe	Swedish (Central)	b
 2554	swe	Swedish (Central)	m
@@ -13756,62 +13756,62 @@ InventoryID	LanguageCode	LanguageName	Segment
 2557	hun	Hungarian (Standard)	ɛ
 2557	hun	Hungarian (Standard)	ø
 2557	hun	Hungarian (Standard)	ä
-2558	0	Shigatse Tibetan	p
-2558	0	Shigatse Tibetan	pʰ
-2558	0	Shigatse Tibetan	t
-2558	0	Shigatse Tibetan	tʰ
-2558	0	Shigatse Tibetan	c
-2558	0	Shigatse Tibetan	cʰ
-2558	0	Shigatse Tibetan	k
-2558	0	Shigatse Tibetan	kʰ
-2558	0	Shigatse Tibetan	m
-2558	0	Shigatse Tibetan	n
-2558	0	Shigatse Tibetan	ɲ
-2558	0	Shigatse Tibetan	ŋ
-2558	0	Shigatse Tibetan	l
-2558	0	Shigatse Tibetan	ɬ
-2558	0	Shigatse Tibetan	ɹ
-2558	0	Shigatse Tibetan	s
-2558	0	Shigatse Tibetan	ʂ
-2558	0	Shigatse Tibetan	ɕ
-2558	0	Shigatse Tibetan	h
-2558	0	Shigatse Tibetan	w
-2558	0	Shigatse Tibetan	j
-2558	0	Shigatse Tibetan	ts
-2558	0	Shigatse Tibetan	tsʰ
-2558	0	Shigatse Tibetan	ʈʂ
-2558	0	Shigatse Tibetan	ʈʂʰ
-2558	0	Shigatse Tibetan	tɕ
-2558	0	Shigatse Tibetan	tɕʰ
-2558	0	Shigatse Tibetan	i
-2558	0	Shigatse Tibetan	iː
-2558	0	Shigatse Tibetan	yː
-2558	0	Shigatse Tibetan	ʊ
-2558	0	Shigatse Tibetan	ʊː
-2558	0	Shigatse Tibetan	e
-2558	0	Shigatse Tibetan	eː
-2558	0	Shigatse Tibetan	œː
-2558	0	Shigatse Tibetan	ɔ
-2558	0	Shigatse Tibetan	ɔː
-2558	0	Shigatse Tibetan	a
-2558	0	Shigatse Tibetan	aː
-2558	0	Shigatse Tibetan	ie
-2558	0	Shigatse Tibetan	ea
-2558	0	Shigatse Tibetan	oa
-2558	0	Shigatse Tibetan	ĩː
-2558	0	Shigatse Tibetan	ỹː
-2558	0	Shigatse Tibetan	ʊ̃ː
-2558	0	Shigatse Tibetan	ẽː
-2558	0	Shigatse Tibetan	œ̃ː
-2558	0	Shigatse Tibetan	ɔ̃ː
-2558	0	Shigatse Tibetan	ãː
-2558	0	Shigatse Tibetan	ĩẽ
-2558	0	Shigatse Tibetan	õã
-2558	0	Shigatse Tibetan	ĩ
-2558	0	Shigatse Tibetan	ʊ̃
-2558	0	Shigatse Tibetan	ẽ
-2558	0	Shigatse Tibetan	ɔ̃
-2558	0	Shigatse Tibetan	ã
+2558	NA	Shigatse Tibetan	p
+2558	NA	Shigatse Tibetan	pʰ
+2558	NA	Shigatse Tibetan	t
+2558	NA	Shigatse Tibetan	tʰ
+2558	NA	Shigatse Tibetan	c
+2558	NA	Shigatse Tibetan	cʰ
+2558	NA	Shigatse Tibetan	k
+2558	NA	Shigatse Tibetan	kʰ
+2558	NA	Shigatse Tibetan	m
+2558	NA	Shigatse Tibetan	n
+2558	NA	Shigatse Tibetan	ɲ
+2558	NA	Shigatse Tibetan	ŋ
+2558	NA	Shigatse Tibetan	l
+2558	NA	Shigatse Tibetan	ɬ
+2558	NA	Shigatse Tibetan	ɹ
+2558	NA	Shigatse Tibetan	s
+2558	NA	Shigatse Tibetan	ʂ
+2558	NA	Shigatse Tibetan	ɕ
+2558	NA	Shigatse Tibetan	h
+2558	NA	Shigatse Tibetan	w
+2558	NA	Shigatse Tibetan	j
+2558	NA	Shigatse Tibetan	ts
+2558	NA	Shigatse Tibetan	tsʰ
+2558	NA	Shigatse Tibetan	ʈʂ
+2558	NA	Shigatse Tibetan	ʈʂʰ
+2558	NA	Shigatse Tibetan	tɕ
+2558	NA	Shigatse Tibetan	tɕʰ
+2558	NA	Shigatse Tibetan	i
+2558	NA	Shigatse Tibetan	iː
+2558	NA	Shigatse Tibetan	yː
+2558	NA	Shigatse Tibetan	ʊ
+2558	NA	Shigatse Tibetan	ʊː
+2558	NA	Shigatse Tibetan	e
+2558	NA	Shigatse Tibetan	eː
+2558	NA	Shigatse Tibetan	œː
+2558	NA	Shigatse Tibetan	ɔ
+2558	NA	Shigatse Tibetan	ɔː
+2558	NA	Shigatse Tibetan	a
+2558	NA	Shigatse Tibetan	aː
+2558	NA	Shigatse Tibetan	ie
+2558	NA	Shigatse Tibetan	ea
+2558	NA	Shigatse Tibetan	oa
+2558	NA	Shigatse Tibetan	ĩː
+2558	NA	Shigatse Tibetan	ỹː
+2558	NA	Shigatse Tibetan	ʊ̃ː
+2558	NA	Shigatse Tibetan	ẽː
+2558	NA	Shigatse Tibetan	œ̃ː
+2558	NA	Shigatse Tibetan	ɔ̃ː
+2558	NA	Shigatse Tibetan	ãː
+2558	NA	Shigatse Tibetan	ĩẽ
+2558	NA	Shigatse Tibetan	õã
+2558	NA	Shigatse Tibetan	ĩ
+2558	NA	Shigatse Tibetan	ʊ̃
+2558	NA	Shigatse Tibetan	ẽ
+2558	NA	Shigatse Tibetan	ɔ̃
+2558	NA	Shigatse Tibetan	ã
 2559	mal	Malayalam	p
 2559	mal	Malayalam	t̪
 2559	mal	Malayalam	t
@@ -15086,70 +15086,70 @@ InventoryID	LanguageCode	LanguageName	Segment
 2586	pbt	Southwestern Pashto (Kandahar)	ə
 2586	pbt	Southwestern Pashto (Kandahar)	a
 2586	pbt	Southwestern Pashto (Kandahar)	ɑː
-2587	0	Sangdam Tibetan	pʰ
-2587	0	Sangdam Tibetan	tʰ
-2587	0	Sangdam Tibetan	ʈʰ
-2587	0	Sangdam Tibetan	kʰ
-2587	0	Sangdam Tibetan	p
-2587	0	Sangdam Tibetan	t
-2587	0	Sangdam Tibetan	ʈ
-2587	0	Sangdam Tibetan	k
-2587	0	Sangdam Tibetan	ʔ
-2587	0	Sangdam Tibetan	b
-2587	0	Sangdam Tibetan	d
-2587	0	Sangdam Tibetan	ɖ
-2587	0	Sangdam Tibetan	g
-2587	0	Sangdam Tibetan	tsʰ
-2587	0	Sangdam Tibetan	tɕʰ
-2587	0	Sangdam Tibetan	cçʰ
-2587	0	Sangdam Tibetan	ts
-2587	0	Sangdam Tibetan	tɕ
-2587	0	Sangdam Tibetan	cç
-2587	0	Sangdam Tibetan	dz
-2587	0	Sangdam Tibetan	dʑ
-2587	0	Sangdam Tibetan	ɟʝ
-2587	0	Sangdam Tibetan	sʰ
-2587	0	Sangdam Tibetan	ɕʰ
-2587	0	Sangdam Tibetan	çʰ
-2587	0	Sangdam Tibetan	xʰ
-2587	0	Sangdam Tibetan	s
-2587	0	Sangdam Tibetan	ʂ
-2587	0	Sangdam Tibetan	ɕ
-2587	0	Sangdam Tibetan	ç
-2587	0	Sangdam Tibetan	x
-2587	0	Sangdam Tibetan	h
-2587	0	Sangdam Tibetan	z
-2587	0	Sangdam Tibetan	ʝ
-2587	0	Sangdam Tibetan	ɣ
-2587	0	Sangdam Tibetan	ɦ
-2587	0	Sangdam Tibetan	m
-2587	0	Sangdam Tibetan	n
-2587	0	Sangdam Tibetan	ŋ
-2587	0	Sangdam Tibetan	m̥
-2587	0	Sangdam Tibetan	n̥
-2587	0	Sangdam Tibetan	ŋ̊
-2587	0	Sangdam Tibetan	l
-2587	0	Sangdam Tibetan	r
-2587	0	Sangdam Tibetan	l̥
-2587	0	Sangdam Tibetan	r̥
-2587	0	Sangdam Tibetan	w
-2587	0	Sangdam Tibetan	j
-2587	0	Sangdam Tibetan	ɰ
-2587	0	Sangdam Tibetan	i
-2587	0	Sangdam Tibetan	e
-2587	0	Sangdam Tibetan	ɛ
-2587	0	Sangdam Tibetan	a
-2587	0	Sangdam Tibetan	ə
-2587	0	Sangdam Tibetan	ɐ
-2587	0	Sangdam Tibetan	ɑ
-2587	0	Sangdam Tibetan	ɔ
-2587	0	Sangdam Tibetan	ʌ
-2587	0	Sangdam Tibetan	o
-2587	0	Sangdam Tibetan	u
-2587	0	Sangdam Tibetan	ɯ
-2587	0	Sangdam Tibetan	ʉ
-2587	0	Sangdam Tibetan	ɵ
-2587	0	Sangdam Tibetan	a̰
+2587	NA	Sangdam Tibetan	pʰ
+2587	NA	Sangdam Tibetan	tʰ
+2587	NA	Sangdam Tibetan	ʈʰ
+2587	NA	Sangdam Tibetan	kʰ
+2587	NA	Sangdam Tibetan	p
+2587	NA	Sangdam Tibetan	t
+2587	NA	Sangdam Tibetan	ʈ
+2587	NA	Sangdam Tibetan	k
+2587	NA	Sangdam Tibetan	ʔ
+2587	NA	Sangdam Tibetan	b
+2587	NA	Sangdam Tibetan	d
+2587	NA	Sangdam Tibetan	ɖ
+2587	NA	Sangdam Tibetan	g
+2587	NA	Sangdam Tibetan	tsʰ
+2587	NA	Sangdam Tibetan	tɕʰ
+2587	NA	Sangdam Tibetan	cçʰ
+2587	NA	Sangdam Tibetan	ts
+2587	NA	Sangdam Tibetan	tɕ
+2587	NA	Sangdam Tibetan	cç
+2587	NA	Sangdam Tibetan	dz
+2587	NA	Sangdam Tibetan	dʑ
+2587	NA	Sangdam Tibetan	ɟʝ
+2587	NA	Sangdam Tibetan	sʰ
+2587	NA	Sangdam Tibetan	ɕʰ
+2587	NA	Sangdam Tibetan	çʰ
+2587	NA	Sangdam Tibetan	xʰ
+2587	NA	Sangdam Tibetan	s
+2587	NA	Sangdam Tibetan	ʂ
+2587	NA	Sangdam Tibetan	ɕ
+2587	NA	Sangdam Tibetan	ç
+2587	NA	Sangdam Tibetan	x
+2587	NA	Sangdam Tibetan	h
+2587	NA	Sangdam Tibetan	z
+2587	NA	Sangdam Tibetan	ʝ
+2587	NA	Sangdam Tibetan	ɣ
+2587	NA	Sangdam Tibetan	ɦ
+2587	NA	Sangdam Tibetan	m
+2587	NA	Sangdam Tibetan	n
+2587	NA	Sangdam Tibetan	ŋ
+2587	NA	Sangdam Tibetan	m̥
+2587	NA	Sangdam Tibetan	n̥
+2587	NA	Sangdam Tibetan	ŋ̊
+2587	NA	Sangdam Tibetan	l
+2587	NA	Sangdam Tibetan	r
+2587	NA	Sangdam Tibetan	l̥
+2587	NA	Sangdam Tibetan	r̥
+2587	NA	Sangdam Tibetan	w
+2587	NA	Sangdam Tibetan	j
+2587	NA	Sangdam Tibetan	ɰ
+2587	NA	Sangdam Tibetan	i
+2587	NA	Sangdam Tibetan	e
+2587	NA	Sangdam Tibetan	ɛ
+2587	NA	Sangdam Tibetan	a
+2587	NA	Sangdam Tibetan	ə
+2587	NA	Sangdam Tibetan	ɐ
+2587	NA	Sangdam Tibetan	ɑ
+2587	NA	Sangdam Tibetan	ɔ
+2587	NA	Sangdam Tibetan	ʌ
+2587	NA	Sangdam Tibetan	o
+2587	NA	Sangdam Tibetan	u
+2587	NA	Sangdam Tibetan	ɯ
+2587	NA	Sangdam Tibetan	ʉ
+2587	NA	Sangdam Tibetan	ɵ
+2587	NA	Sangdam Tibetan	a̰
 2588	peh	Baoan (Ñantoq)	pʰ
 2588	peh	Baoan (Ñantoq)	tʰ
 2588	peh	Baoan (Ñantoq)	kʰ
@@ -15216,126 +15216,126 @@ InventoryID	LanguageCode	LanguageName	Segment
 2589	wne	Waneci	uː
 2589	wne	Waneci	e
 2589	wne	Waneci	o
-2590	0	Digor Ossetic	pʰ
-2590	0	Digor Ossetic	p
-2590	0	Digor Ossetic	b̥
-2590	0	Digor Ossetic	pʼ
-2590	0	Digor Ossetic	f
-2590	0	Digor Ossetic	v
-2590	0	Digor Ossetic	m
-2590	0	Digor Ossetic	t̺ʰ
-2590	0	Digor Ossetic	t̺
-2590	0	Digor Ossetic	d̺̥
-2590	0	Digor Ossetic	t̺ʼ
-2590	0	Digor Ossetic	t̺s̺ʰ
-2590	0	Digor Ossetic	t̺s̺
-2590	0	Digor Ossetic	d̺̥z̺̥
-2590	0	Digor Ossetic	t̺s̺ʼ
-2590	0	Digor Ossetic	s̺
-2590	0	Digor Ossetic	z̺
-2590	0	Digor Ossetic	n̺
-2590	0	Digor Ossetic	r̺
-2590	0	Digor Ossetic	l
-2590	0	Digor Ossetic	kʰ
-2590	0	Digor Ossetic	k
-2590	0	Digor Ossetic	g̊
-2590	0	Digor Ossetic	kʼ
-2590	0	Digor Ossetic	kʰʷ
-2590	0	Digor Ossetic	kʷ
-2590	0	Digor Ossetic	g̊ʷ
-2590	0	Digor Ossetic	kʼʷ
-2590	0	Digor Ossetic	q
-2590	0	Digor Ossetic	χ
-2590	0	Digor Ossetic	ʁ
-2590	0	Digor Ossetic	qʷ
-2590	0	Digor Ossetic	χʷ
-2590	0	Digor Ossetic	ʁʷ
-2590	0	Digor Ossetic	j
-2590	0	Digor Ossetic	w
-2590	0	Digor Ossetic	ɪ̆
-2590	0	Digor Ossetic	ŭ
-2590	0	Digor Ossetic	ɐ̆
-2590	0	Digor Ossetic	e
-2590	0	Digor Ossetic	ɑ
-2590	0	Digor Ossetic	o
-2591	0	Dongwang Tibetan	p
-2591	0	Dongwang Tibetan	pʰ
-2591	0	Dongwang Tibetan	b
-2591	0	Dongwang Tibetan	ⁿb
-2591	0	Dongwang Tibetan	m̥
-2591	0	Dongwang Tibetan	m
-2591	0	Dongwang Tibetan	w
-2591	0	Dongwang Tibetan	t
-2591	0	Dongwang Tibetan	tʰ
-2591	0	Dongwang Tibetan	d
-2591	0	Dongwang Tibetan	ⁿd
-2591	0	Dongwang Tibetan	n̥
-2591	0	Dongwang Tibetan	n
-2591	0	Dongwang Tibetan	ɾ
-2591	0	Dongwang Tibetan	ɮ
-2591	0	Dongwang Tibetan	ts
-2591	0	Dongwang Tibetan	tsʰ
-2591	0	Dongwang Tibetan	dz
-2591	0	Dongwang Tibetan	ⁿdz
-2591	0	Dongwang Tibetan	l
-2591	0	Dongwang Tibetan	s
-2591	0	Dongwang Tibetan	sʰ
-2591	0	Dongwang Tibetan	z
-2591	0	Dongwang Tibetan	ɕ
-2591	0	Dongwang Tibetan	ɕʰ
-2591	0	Dongwang Tibetan	ʑ
-2591	0	Dongwang Tibetan	tɕ
-2591	0	Dongwang Tibetan	tɕʰ
-2591	0	Dongwang Tibetan	dʑ
-2591	0	Dongwang Tibetan	ⁿdʑ
-2591	0	Dongwang Tibetan	ʂ
-2591	0	Dongwang Tibetan	ʂʰ
-2591	0	Dongwang Tibetan	ʐ
-2591	0	Dongwang Tibetan	ʈʂ
-2591	0	Dongwang Tibetan	ʈʂʰ
-2591	0	Dongwang Tibetan	ɖʐ
-2591	0	Dongwang Tibetan	ⁿɖʐ
-2591	0	Dongwang Tibetan	ɲ̊
-2591	0	Dongwang Tibetan	ɲ
-2591	0	Dongwang Tibetan	j̊
-2591	0	Dongwang Tibetan	j
-2591	0	Dongwang Tibetan	k
-2591	0	Dongwang Tibetan	kʰ
-2591	0	Dongwang Tibetan	g
-2591	0	Dongwang Tibetan	ⁿg
-2591	0	Dongwang Tibetan	ŋ̊
-2591	0	Dongwang Tibetan	ŋ
-2591	0	Dongwang Tibetan	h
-2591	0	Dongwang Tibetan	ʔ
-2591	0	Dongwang Tibetan	i
-2591	0	Dongwang Tibetan	iː
-2591	0	Dongwang Tibetan	ĩ
-2591	0	Dongwang Tibetan	ĩː
-2591	0	Dongwang Tibetan	y
-2591	0	Dongwang Tibetan	e
-2591	0	Dongwang Tibetan	eː
-2591	0	Dongwang Tibetan	æ
-2591	0	Dongwang Tibetan	æ̃
-2591	0	Dongwang Tibetan	ə
-2591	0	Dongwang Tibetan	əː
-2591	0	Dongwang Tibetan	a
-2591	0	Dongwang Tibetan	ɯ
-2591	0	Dongwang Tibetan	ɯː
-2591	0	Dongwang Tibetan	u
-2591	0	Dongwang Tibetan	uː
-2591	0	Dongwang Tibetan	ũ
-2591	0	Dongwang Tibetan	o
-2591	0	Dongwang Tibetan	õ
-2591	0	Dongwang Tibetan	õː
-2591	0	Dongwang Tibetan	ɑ
-2591	0	Dongwang Tibetan	ɑː
-2591	0	Dongwang Tibetan	ɑ̃
-2591	0	Dongwang Tibetan	ui
-2591	0	Dongwang Tibetan	ue
-2591	0	Dongwang Tibetan	ua
-2591	0	Dongwang Tibetan	uæ
-2591	0	Dongwang Tibetan	əo
-2591	0	Dongwang Tibetan	ao
+2590	NA	Digor Ossetic	pʰ
+2590	NA	Digor Ossetic	p
+2590	NA	Digor Ossetic	b̥
+2590	NA	Digor Ossetic	pʼ
+2590	NA	Digor Ossetic	f
+2590	NA	Digor Ossetic	v
+2590	NA	Digor Ossetic	m
+2590	NA	Digor Ossetic	t̺ʰ
+2590	NA	Digor Ossetic	t̺
+2590	NA	Digor Ossetic	d̺̥
+2590	NA	Digor Ossetic	t̺ʼ
+2590	NA	Digor Ossetic	t̺s̺ʰ
+2590	NA	Digor Ossetic	t̺s̺
+2590	NA	Digor Ossetic	d̺̥z̺̥
+2590	NA	Digor Ossetic	t̺s̺ʼ
+2590	NA	Digor Ossetic	s̺
+2590	NA	Digor Ossetic	z̺
+2590	NA	Digor Ossetic	n̺
+2590	NA	Digor Ossetic	r̺
+2590	NA	Digor Ossetic	l
+2590	NA	Digor Ossetic	kʰ
+2590	NA	Digor Ossetic	k
+2590	NA	Digor Ossetic	g̊
+2590	NA	Digor Ossetic	kʼ
+2590	NA	Digor Ossetic	kʰʷ
+2590	NA	Digor Ossetic	kʷ
+2590	NA	Digor Ossetic	g̊ʷ
+2590	NA	Digor Ossetic	kʼʷ
+2590	NA	Digor Ossetic	q
+2590	NA	Digor Ossetic	χ
+2590	NA	Digor Ossetic	ʁ
+2590	NA	Digor Ossetic	qʷ
+2590	NA	Digor Ossetic	χʷ
+2590	NA	Digor Ossetic	ʁʷ
+2590	NA	Digor Ossetic	j
+2590	NA	Digor Ossetic	w
+2590	NA	Digor Ossetic	ɪ̆
+2590	NA	Digor Ossetic	ŭ
+2590	NA	Digor Ossetic	ɐ̆
+2590	NA	Digor Ossetic	e
+2590	NA	Digor Ossetic	ɑ
+2590	NA	Digor Ossetic	o
+2591	NA	Dongwang Tibetan	p
+2591	NA	Dongwang Tibetan	pʰ
+2591	NA	Dongwang Tibetan	b
+2591	NA	Dongwang Tibetan	ⁿb
+2591	NA	Dongwang Tibetan	m̥
+2591	NA	Dongwang Tibetan	m
+2591	NA	Dongwang Tibetan	w
+2591	NA	Dongwang Tibetan	t
+2591	NA	Dongwang Tibetan	tʰ
+2591	NA	Dongwang Tibetan	d
+2591	NA	Dongwang Tibetan	ⁿd
+2591	NA	Dongwang Tibetan	n̥
+2591	NA	Dongwang Tibetan	n
+2591	NA	Dongwang Tibetan	ɾ
+2591	NA	Dongwang Tibetan	ɮ
+2591	NA	Dongwang Tibetan	ts
+2591	NA	Dongwang Tibetan	tsʰ
+2591	NA	Dongwang Tibetan	dz
+2591	NA	Dongwang Tibetan	ⁿdz
+2591	NA	Dongwang Tibetan	l
+2591	NA	Dongwang Tibetan	s
+2591	NA	Dongwang Tibetan	sʰ
+2591	NA	Dongwang Tibetan	z
+2591	NA	Dongwang Tibetan	ɕ
+2591	NA	Dongwang Tibetan	ɕʰ
+2591	NA	Dongwang Tibetan	ʑ
+2591	NA	Dongwang Tibetan	tɕ
+2591	NA	Dongwang Tibetan	tɕʰ
+2591	NA	Dongwang Tibetan	dʑ
+2591	NA	Dongwang Tibetan	ⁿdʑ
+2591	NA	Dongwang Tibetan	ʂ
+2591	NA	Dongwang Tibetan	ʂʰ
+2591	NA	Dongwang Tibetan	ʐ
+2591	NA	Dongwang Tibetan	ʈʂ
+2591	NA	Dongwang Tibetan	ʈʂʰ
+2591	NA	Dongwang Tibetan	ɖʐ
+2591	NA	Dongwang Tibetan	ⁿɖʐ
+2591	NA	Dongwang Tibetan	ɲ̊
+2591	NA	Dongwang Tibetan	ɲ
+2591	NA	Dongwang Tibetan	j̊
+2591	NA	Dongwang Tibetan	j
+2591	NA	Dongwang Tibetan	k
+2591	NA	Dongwang Tibetan	kʰ
+2591	NA	Dongwang Tibetan	g
+2591	NA	Dongwang Tibetan	ⁿg
+2591	NA	Dongwang Tibetan	ŋ̊
+2591	NA	Dongwang Tibetan	ŋ
+2591	NA	Dongwang Tibetan	h
+2591	NA	Dongwang Tibetan	ʔ
+2591	NA	Dongwang Tibetan	i
+2591	NA	Dongwang Tibetan	iː
+2591	NA	Dongwang Tibetan	ĩ
+2591	NA	Dongwang Tibetan	ĩː
+2591	NA	Dongwang Tibetan	y
+2591	NA	Dongwang Tibetan	e
+2591	NA	Dongwang Tibetan	eː
+2591	NA	Dongwang Tibetan	æ
+2591	NA	Dongwang Tibetan	æ̃
+2591	NA	Dongwang Tibetan	ə
+2591	NA	Dongwang Tibetan	əː
+2591	NA	Dongwang Tibetan	a
+2591	NA	Dongwang Tibetan	ɯ
+2591	NA	Dongwang Tibetan	ɯː
+2591	NA	Dongwang Tibetan	u
+2591	NA	Dongwang Tibetan	uː
+2591	NA	Dongwang Tibetan	ũ
+2591	NA	Dongwang Tibetan	o
+2591	NA	Dongwang Tibetan	õ
+2591	NA	Dongwang Tibetan	õː
+2591	NA	Dongwang Tibetan	ɑ
+2591	NA	Dongwang Tibetan	ɑː
+2591	NA	Dongwang Tibetan	ɑ̃
+2591	NA	Dongwang Tibetan	ui
+2591	NA	Dongwang Tibetan	ue
+2591	NA	Dongwang Tibetan	ua
+2591	NA	Dongwang Tibetan	uæ
+2591	NA	Dongwang Tibetan	əo
+2591	NA	Dongwang Tibetan	ao
 2592	als	Tosk Albanian (Korçë)	p
 2592	als	Tosk Albanian (Korçë)	b
 2592	als	Tosk Albanian (Korçë)	f
@@ -15677,57 +15677,57 @@ InventoryID	LanguageCode	LanguageName	Segment
 2599	xal	Kalmyk (Standard)	ø̞̜ː
 2599	xal	Kalmyk (Standard)	y
 2599	xal	Kalmyk (Standard)	yː
-2600	0	Kham Tibetan	h
-2600	0	Kham Tibetan	ɣ
-2600	0	Kham Tibetan	x
-2600	0	Kham Tibetan	ʑ
-2600	0	Kham Tibetan	ɕ
-2600	0	Kham Tibetan	z
-2600	0	Kham Tibetan	s
-2600	0	Kham Tibetan	ɻ
-2600	0	Kham Tibetan	ɻ̊
-2600	0	Kham Tibetan	l
-2600	0	Kham Tibetan	l̥
-2600	0	Kham Tibetan	j
-2600	0	Kham Tibetan	w
-2600	0	Kham Tibetan	p
-2600	0	Kham Tibetan	pʰ
-2600	0	Kham Tibetan	b
-2600	0	Kham Tibetan	m
-2600	0	Kham Tibetan	m̥
-2600	0	Kham Tibetan	ⁿb
-2600	0	Kham Tibetan	k
-2600	0	Kham Tibetan	kʰ
-2600	0	Kham Tibetan	ŋ
-2600	0	Kham Tibetan	ŋ̊
-2600	0	Kham Tibetan	ⁿɡ
-2600	0	Kham Tibetan	tʃ
-2600	0	Kham Tibetan	tʃʰ
-2600	0	Kham Tibetan	dʒ
-2600	0	Kham Tibetan	ɲ
-2600	0	Kham Tibetan	ɲ̊
-2600	0	Kham Tibetan	ⁿɟ
-2600	0	Kham Tibetan	t
-2600	0	Kham Tibetan	tʰ
-2600	0	Kham Tibetan	d
-2600	0	Kham Tibetan	n
-2600	0	Kham Tibetan	n̥
-2600	0	Kham Tibetan	ⁿd
-2600	0	Kham Tibetan	ts
-2600	0	Kham Tibetan	tsʰ
-2600	0	Kham Tibetan	dz
-2600	0	Kham Tibetan	ⁿdz
-2600	0	Kham Tibetan	ʈ
-2600	0	Kham Tibetan	ʈʰ
-2600	0	Kham Tibetan	ɖ
-2600	0	Kham Tibetan	ⁿɖ
-2600	0	Kham Tibetan	ɨ
-2600	0	Kham Tibetan	i
-2600	0	Kham Tibetan	e
-2600	0	Kham Tibetan	a
-2600	0	Kham Tibetan	u
-2600	0	Kham Tibetan	o
-2600	0	Kham Tibetan	ɒ
+2600	NA	Kham Tibetan	h
+2600	NA	Kham Tibetan	ɣ
+2600	NA	Kham Tibetan	x
+2600	NA	Kham Tibetan	ʑ
+2600	NA	Kham Tibetan	ɕ
+2600	NA	Kham Tibetan	z
+2600	NA	Kham Tibetan	s
+2600	NA	Kham Tibetan	ɻ
+2600	NA	Kham Tibetan	ɻ̊
+2600	NA	Kham Tibetan	l
+2600	NA	Kham Tibetan	l̥
+2600	NA	Kham Tibetan	j
+2600	NA	Kham Tibetan	w
+2600	NA	Kham Tibetan	p
+2600	NA	Kham Tibetan	pʰ
+2600	NA	Kham Tibetan	b
+2600	NA	Kham Tibetan	m
+2600	NA	Kham Tibetan	m̥
+2600	NA	Kham Tibetan	ⁿb
+2600	NA	Kham Tibetan	k
+2600	NA	Kham Tibetan	kʰ
+2600	NA	Kham Tibetan	ŋ
+2600	NA	Kham Tibetan	ŋ̊
+2600	NA	Kham Tibetan	ⁿɡ
+2600	NA	Kham Tibetan	tʃ
+2600	NA	Kham Tibetan	tʃʰ
+2600	NA	Kham Tibetan	dʒ
+2600	NA	Kham Tibetan	ɲ
+2600	NA	Kham Tibetan	ɲ̊
+2600	NA	Kham Tibetan	ⁿɟ
+2600	NA	Kham Tibetan	t
+2600	NA	Kham Tibetan	tʰ
+2600	NA	Kham Tibetan	d
+2600	NA	Kham Tibetan	n
+2600	NA	Kham Tibetan	n̥
+2600	NA	Kham Tibetan	ⁿd
+2600	NA	Kham Tibetan	ts
+2600	NA	Kham Tibetan	tsʰ
+2600	NA	Kham Tibetan	dz
+2600	NA	Kham Tibetan	ⁿdz
+2600	NA	Kham Tibetan	ʈ
+2600	NA	Kham Tibetan	ʈʰ
+2600	NA	Kham Tibetan	ɖ
+2600	NA	Kham Tibetan	ⁿɖ
+2600	NA	Kham Tibetan	ɨ
+2600	NA	Kham Tibetan	i
+2600	NA	Kham Tibetan	e
+2600	NA	Kham Tibetan	a
+2600	NA	Kham Tibetan	u
+2600	NA	Kham Tibetan	o
+2600	NA	Kham Tibetan	ɒ
 2601	gla	Scottish Gaelic (Lewis)	pʰ
 2601	gla	Scottish Gaelic (Lewis)	pʰʲ
 2601	gla	Scottish Gaelic (Lewis)	p
@@ -16317,55 +16317,55 @@ InventoryID	LanguageCode	LanguageName	Segment
 2613	bsk	Burushaski (Hunza)	oː
 2613	bsk	Burushaski (Hunza)	iː
 2613	bsk	Burushaski (Hunza)	uː
-2614	0	Themchen Tibetan	p
-2614	0	Themchen Tibetan	pʰ
-2614	0	Themchen Tibetan	b
-2614	0	Themchen Tibetan	t
-2614	0	Themchen Tibetan	tʰ
-2614	0	Themchen Tibetan	d
-2614	0	Themchen Tibetan	k
-2614	0	Themchen Tibetan	kʰ
-2614	0	Themchen Tibetan	g
-2614	0	Themchen Tibetan	ts
-2614	0	Themchen Tibetan	tsʰ
-2614	0	Themchen Tibetan	dz
-2614	0	Themchen Tibetan	ʈʂ
-2614	0	Themchen Tibetan	ʈʂʰ
-2614	0	Themchen Tibetan	ɖʐ
-2614	0	Themchen Tibetan	tɕ
-2614	0	Themchen Tibetan	tɕʰ
-2614	0	Themchen Tibetan	dʑ
-2614	0	Themchen Tibetan	m
-2614	0	Themchen Tibetan	n
-2614	0	Themchen Tibetan	ɲ
-2614	0	Themchen Tibetan	ŋ
-2614	0	Themchen Tibetan	m̥
-2614	0	Themchen Tibetan	n̥
-2614	0	Themchen Tibetan	ɲ̊
-2614	0	Themchen Tibetan	ŋ̊
-2614	0	Themchen Tibetan	r
-2614	0	Themchen Tibetan	f
-2614	0	Themchen Tibetan	s
-2614	0	Themchen Tibetan	sʰ
-2614	0	Themchen Tibetan	z
-2614	0	Themchen Tibetan	ʂʰ
-2614	0	Themchen Tibetan	ɕ
-2614	0	Themchen Tibetan	ʑ
-2614	0	Themchen Tibetan	ç
-2614	0	Themchen Tibetan	ɣ
-2614	0	Themchen Tibetan	χ
-2614	0	Themchen Tibetan	ʁ
-2614	0	Themchen Tibetan	h
-2614	0	Themchen Tibetan	ɬ
-2614	0	Themchen Tibetan	w
-2614	0	Themchen Tibetan	j
-2614	0	Themchen Tibetan	l
-2614	0	Themchen Tibetan	i
-2614	0	Themchen Tibetan	u
-2614	0	Themchen Tibetan	e
-2614	0	Themchen Tibetan	o
-2614	0	Themchen Tibetan	ə
-2614	0	Themchen Tibetan	a
+2614	NA	Themchen Tibetan	p
+2614	NA	Themchen Tibetan	pʰ
+2614	NA	Themchen Tibetan	b
+2614	NA	Themchen Tibetan	t
+2614	NA	Themchen Tibetan	tʰ
+2614	NA	Themchen Tibetan	d
+2614	NA	Themchen Tibetan	k
+2614	NA	Themchen Tibetan	kʰ
+2614	NA	Themchen Tibetan	g
+2614	NA	Themchen Tibetan	ts
+2614	NA	Themchen Tibetan	tsʰ
+2614	NA	Themchen Tibetan	dz
+2614	NA	Themchen Tibetan	ʈʂ
+2614	NA	Themchen Tibetan	ʈʂʰ
+2614	NA	Themchen Tibetan	ɖʐ
+2614	NA	Themchen Tibetan	tɕ
+2614	NA	Themchen Tibetan	tɕʰ
+2614	NA	Themchen Tibetan	dʑ
+2614	NA	Themchen Tibetan	m
+2614	NA	Themchen Tibetan	n
+2614	NA	Themchen Tibetan	ɲ
+2614	NA	Themchen Tibetan	ŋ
+2614	NA	Themchen Tibetan	m̥
+2614	NA	Themchen Tibetan	n̥
+2614	NA	Themchen Tibetan	ɲ̊
+2614	NA	Themchen Tibetan	ŋ̊
+2614	NA	Themchen Tibetan	r
+2614	NA	Themchen Tibetan	f
+2614	NA	Themchen Tibetan	s
+2614	NA	Themchen Tibetan	sʰ
+2614	NA	Themchen Tibetan	z
+2614	NA	Themchen Tibetan	ʂʰ
+2614	NA	Themchen Tibetan	ɕ
+2614	NA	Themchen Tibetan	ʑ
+2614	NA	Themchen Tibetan	ç
+2614	NA	Themchen Tibetan	ɣ
+2614	NA	Themchen Tibetan	χ
+2614	NA	Themchen Tibetan	ʁ
+2614	NA	Themchen Tibetan	h
+2614	NA	Themchen Tibetan	ɬ
+2614	NA	Themchen Tibetan	w
+2614	NA	Themchen Tibetan	j
+2614	NA	Themchen Tibetan	l
+2614	NA	Themchen Tibetan	i
+2614	NA	Themchen Tibetan	u
+2614	NA	Themchen Tibetan	e
+2614	NA	Themchen Tibetan	o
+2614	NA	Themchen Tibetan	ə
+2614	NA	Themchen Tibetan	a
 2615	eus	Basque (Ondarroa)	p
 2615	eus	Basque (Ondarroa)	t
 2615	eus	Basque (Ondarroa)	k
