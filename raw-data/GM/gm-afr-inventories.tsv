@@ -11000,90 +11000,90 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	deg	Degema		˦		[↓˦]		
 	deg	Degema		˨				
 								
-1453	bsc	Basari		kp		[kp]		bsc.pdf
-	bsc	Basari		kp		[kpʷ]		
-	bsc	Basari		ɡb		[ɡb]		
-	bsc	Basari		ɡb		[ɡbʷ]		
-	bsc	Basari		pʰ		[pʰ]		
-	bsc	Basari		pʰ		[pʷʰ]		
-	bsc	Basari		b		[b]		
-	bsc	Basari		b		[bʷ]		
-	bsc	Basari		b		[b̚]		
-	bsc	Basari		b		[b̥]	b̥ is lenis	
-	bsc	Basari		ŋm				
-	bsc	Basari		m		[m]		
-	bsc	Basari		m		[mʷ]		
-	bsc	Basari		m		[m̥]	m̥ is lenis	
-	bsc	Basari		m		[m̩]		
-	bsc	Basari		f		[f]		
-	bsc	Basari		f		[fʷ]		
-	bsc	Basari		w				
-	bsc	Basari		tʰ		[tʰ]		
-	bsc	Basari		tʰ		[tʷʰ]		
-	bsc	Basari		d		[d]		
-	bsc	Basari		d		[ɾ]		
-	bsc	Basari		d		[dʷ]		
-	bsc	Basari		n		[n]		
-	bsc	Basari		n		[nʷ]		
-	bsc	Basari		n		[n̥]	n̥ is lenis	
-	bsc	Basari		s		[s]		
-	bsc	Basari		s		[sʷ]		
-	bsc	Basari		l		[l]		
-	bsc	Basari		l		[l̥]	l̥ is lenis	
-	bsc	Basari		l		[ɾ]		
-	bsc	Basari		l		[ɫ]		
-	bsc	Basari		t̠ʃʰ		[t̠ʃʰ]		
-	bsc	Basari		t̠ʃʰ		[t̠ʃʷʰ]		
-	bsc	Basari		d̠ʒ		[d̠ʒ]		
-	bsc	Basari		d̠ʒ		[d̠ʒʷ]		
-	bsc	Basari		ɲ		[ɲ]		
-	bsc	Basari		ɲ		[ɲʷ]		
-	bsc	Basari		ɲ		[ɲ̥]	ɲ̥ is lenis	
-	bsc	Basari		ɲ		[ɲ̩]		
-	bsc	Basari		j				
-	bsc	Basari		kʰ		[kʰ]		
-	bsc	Basari		kʰ		[kʷʰ]		
-	bsc	Basari		kʰ		[k̠]		
-	bsc	Basari		ɡ		[ɡ]		
-	bsc	Basari		ɡ		[ɡʷ]		
-	bsc	Basari		ɡ		[ɡ̠]		
-	bsc	Basari		ŋ		[ŋ]		
-	bsc	Basari		ŋ		[ŋʷ]		
-	bsc	Basari		ŋ		[ŋ̥]	ŋ̥ is lenis	
-	bsc	Basari		ŋ		[ŋ̩]		
-	bsc	Basari		h				
-	bsc	Basari		i		[i]	
-	bsc	Basari		i		[ĩ]	
-	bsc	Basari		i		[ɨ]	
-	bsc	Basari		i		[i͓]	i͓ is a fricative vowel. Previously used Bruce Connell's notation (z‿i)
-	bsc	Basari		i		[ɪ]	
-	bsc	Basari		i		[i̞]	
-	bsc	Basari		i		[iː]
-	bsc	Basari		e		[e]		
-	bsc	Basari		e		[ẽ]		
-	bsc	Basari		e		[eː]		
-	bsc	Basari		a		[a]		
-	bsc	Basari		a		[ã]		
-	bsc	Basari		a		[aː]		
-	bsc	Basari		a		[ɛ]		
-	bsc	Basari		a		[ʌ]		
-	bsc	Basari		a		[æ]		
-	bsc	Basari		u		[u]	
-	bsc	Basari		u		[ũ]	
-	bsc	Basari		u		[uː]	
-	bsc	Basari		u		[u͓]	u͓ is a fricative vowel.  Previously used Bruce Connell's notation (v‿u)
-	bsc	Basari		u		[ɨ]	
-	bsc	Basari		u		[ʊ]	
-	bsc	Basari		o		[o]		
-	bsc	Basari		o		[õ]		
-	bsc	Basari		o		[oː]		
-	bsc	Basari		ɔ		[ɔ]		
-	bsc	Basari		ɔ		[ɔ̃]		
-	bsc	Basari		ɔ		[ɔː]		
-	bsc	Basari		ɔ		[ɒ]		
-	bsc	Basari		˦				
-	bsc	Basari		˨				
-	bsc	Basari		˧				
+1453	bud	Basari		kp		[kp]		bud.pdf
+	bud	Basari		kp		[kpʷ]		
+	bud	Basari		ɡb		[ɡb]		
+	bud	Basari		ɡb		[ɡbʷ]		
+	bud	Basari		pʰ		[pʰ]		
+	bud	Basari		pʰ		[pʷʰ]		
+	bud	Basari		b		[b]		
+	bud	Basari		b		[bʷ]		
+	bud	Basari		b		[b̚]		
+	bud	Basari		b		[b̥]	b̥ is lenis	
+	bud	Basari		ŋm				
+	bud	Basari		m		[m]		
+	bud	Basari		m		[mʷ]		
+	bud	Basari		m		[m̥]	m̥ is lenis	
+	bud	Basari		m		[m̩]		
+	bud	Basari		f		[f]		
+	bud	Basari		f		[fʷ]		
+	bud	Basari		w				
+	bud	Basari		tʰ		[tʰ]		
+	bud	Basari		tʰ		[tʷʰ]		
+	bud	Basari		d		[d]		
+	bud	Basari		d		[ɾ]		
+	bud	Basari		d		[dʷ]		
+	bud	Basari		n		[n]		
+	bud	Basari		n		[nʷ]		
+	bud	Basari		n		[n̥]	n̥ is lenis	
+	bud	Basari		s		[s]		
+	bud	Basari		s		[sʷ]		
+	bud	Basari		l		[l]		
+	bud	Basari		l		[l̥]	l̥ is lenis	
+	bud	Basari		l		[ɾ]		
+	bud	Basari		l		[ɫ]		
+	bud	Basari		t̠ʃʰ		[t̠ʃʰ]		
+	bud	Basari		t̠ʃʰ		[t̠ʃʷʰ]		
+	bud	Basari		d̠ʒ		[d̠ʒ]		
+	bud	Basari		d̠ʒ		[d̠ʒʷ]		
+	bud	Basari		ɲ		[ɲ]		
+	bud	Basari		ɲ		[ɲʷ]		
+	bud	Basari		ɲ		[ɲ̥]	ɲ̥ is lenis	
+	bud	Basari		ɲ		[ɲ̩]		
+	bud	Basari		j				
+	bud	Basari		kʰ		[kʰ]		
+	bud	Basari		kʰ		[kʷʰ]		
+	bud	Basari		kʰ		[k̠]		
+	bud	Basari		ɡ		[ɡ]		
+	bud	Basari		ɡ		[ɡʷ]		
+	bud	Basari		ɡ		[ɡ̠]		
+	bud	Basari		ŋ		[ŋ]		
+	bud	Basari		ŋ		[ŋʷ]		
+	bud	Basari		ŋ		[ŋ̥]	ŋ̥ is lenis	
+	bud	Basari		ŋ		[ŋ̩]		
+	bud	Basari		h				
+	bud	Basari		i		[i]	
+	bud	Basari		i		[ĩ]	
+	bud	Basari		i		[ɨ]	
+	bud	Basari		i		[i͓]	i͓ is a fricative vowel. Previously used Bruce Connell's notation (z‿i)
+	bud	Basari		i		[ɪ]	
+	bud	Basari		i		[i̞]	
+	bud	Basari		i		[iː]
+	bud	Basari		e		[e]		
+	bud	Basari		e		[ẽ]		
+	bud	Basari		e		[eː]		
+	bud	Basari		a		[a]		
+	bud	Basari		a		[ã]		
+	bud	Basari		a		[aː]		
+	bud	Basari		a		[ɛ]		
+	bud	Basari		a		[ʌ]		
+	bud	Basari		a		[æ]		
+	bud	Basari		u		[u]	
+	bud	Basari		u		[ũ]	
+	bud	Basari		u		[uː]	
+	bud	Basari		u		[u͓]	u͓ is a fricative vowel.  Previously used Bruce Connell's notation (v‿u)
+	bud	Basari		u		[ɨ]	
+	bud	Basari		u		[ʊ]	
+	bud	Basari		o		[o]		
+	bud	Basari		o		[õ]		
+	bud	Basari		o		[oː]		
+	bud	Basari		ɔ		[ɔ]		
+	bud	Basari		ɔ		[ɔ̃]		
+	bud	Basari		ɔ		[ɔː]		
+	bud	Basari		ɔ		[ɒ]		
+	bud	Basari		˦				
+	bud	Basari		˨				
+	bud	Basari		˧				
 								
 1454	pre	Principense		a		[a]		pre.pdf
 	pre	Principense		a		[ã]		
