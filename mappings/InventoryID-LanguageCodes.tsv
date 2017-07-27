@@ -38,7 +38,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 37	tgl	taga1270	Tagalog	spa
 38	cha	cham1312	Chamorro	spa
 39	iai	iaai1238	Iai	spa
-40	khl	lusi1240	Kaliai	spa
+40	khl	kali1299	Kaliai	spa
 41	adz	adze1240	Adzera	spa
 42	mri	maor1246	Maori	spa
 43	haw	hawa1245	Hawaiian	spa
@@ -134,7 +134,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 133	ary	moro1292	Moroccan Arabic	spa
 134	mlt	malt1254	Maltese	spa
 135	heb	hebr1245	Modern Hebrew	spa
-136	xtc	katc1249	Katcha	spa
+136	xtc	katc1250	Katcha	spa
 137	xpe	libe1247	Kpelle	spa
 138	wol	nucl1347	Wolof	spa
 139	dag	dagb1246	Dagbani	spa
@@ -153,7 +153,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 152	fia	nobi1240	Mahas-Fiyadikka	spa
 153	luo	luok1236	Luo	spa
 154	mas	masa1300	Maasai	spa
-155	naq	nama1264	Nama	spa
+155	naq	nama1265	Nama	spa
 156	gle	iris1253	Irish Gaelic	spa
 157	bre	bret1244	Breton	spa
 158	isl	icel1247	Icelandic	spa
@@ -869,11 +869,11 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 868	kxl	nepa1253	Dhangar	ph
 869	aoj	mufi1238	Muhiang	ph
 870	usa	usar1243	Usarufa	ph
-871	kpr	kora1294	Korafe	ph
+871	kpr	kora1295	Korafe	ph
 872	bjr	binu1245	Binumarien	ph
 873	ego	eggo1239	Eggon	ph
 874	ekp	ekpe1253	Ekpeye	ph
-875	enb	mark1255	Endo	ph
+875	enb	endo1242	Endo	ph
 876	ags	esim1238	Esimbi	ph
 877	fan	fang1246	Fan	ph
 878	fuu	furu1242	Furu	ph
@@ -883,7 +883,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 882	gub	guaj1255	Guajajara	ph
 883	gup	gunw1252	Gunwinggu	ph
 884	hay	haya1250	Haya	ph
-885	wya	wyan1247	Huron	ph
+885	wya	huro1249	Huron	ph
 886	hch	huic1243	Huichol	ph
 887	qwh	huay1240	Huaylas	ph
 888	huv	sanm1287	Huave, San Mateo del Mar	ph
@@ -914,7 +914,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 913	kkk	koko1269	Kokota	ph
 914	kme	bako1250	Kole	ph
 915	kma	konn1242	Konni	ph
-916	kdt	kuyy1240	Kuay	ph
+916	kdt	kuay1244	Kuay	ph
 917	kle	kulu1253	Kulung	ph
 918	kto	kuot1243	Kuot	ph
 919	kgg	kusu1250	Kusunda	ph
@@ -945,7 +945,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 944	cas	mose1249	Moseten	ph
 945	mgg	mpon1254	Mpumpun	ph
 946	mhk	mung1266	Mungaka	ph
-947	nmg	kwas1243	Mvumbo	ph
+947	nmg	mvum1238	Mvumbo	ph
 948	mlv	motl1237	Mwotlap	ph
 949	nnm	nami1256	Namia	ph
 950	nml	ndem1249	Ndemli	ph
@@ -971,7 +971,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 970	nym	nyam1276	Kinyamwezi	ph
 971	nyl	nyeu1238	Nyeu	ph
 972	ann	obol1243	Obolo	ph
-973	mpt	mian1256	Mianmin	ph
+973	mpt	mian1257	Mianmin	ph
 974	fai	faiw1243	Faiwol	ph
 975	oku	okuu1243	Oku	ph
 976	oss	osse1243	Ossetian	ph
@@ -994,7 +994,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 993	sbd	sout2844	Samo de Toma	ph
 994	sxm	samr1245	Samre	ph
 995	sae	saba1268	Sabane	ph
-996	str	stra1244	Saanich	ph
+996	str	saan1246	Saanich	ph
 997	sas	sasa1249	Sasak	ph
 998	svr	sava1244	Savara	ph
 999	pos	sayu1241	Popoluca de Sayula	ph
@@ -1095,12 +1095,12 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1094	aig	anti1245	Antiguan Creole	ph
 1095	akl	akla1241	Aklan	ph
 1096	arh	arhu1242	Ika	ph
-1097	arr	karo1305	Karo	ph
+1097	arr	karo1306	Karo	ph
 1098	ayl	liby1240	Lebanese Arabic	ph
 1099	bbc	bata1289	Toba-Batak	ph
 1100	bci	baou1238	Baule	ph
 1101	bfw	bond1245	Remo	ph
-1102	biw	kolc1235	Bikele	ph
+1102	biw	bike1242	Bikele	ph
 1103	bla	siks1238	Blackfoot	ph
 1104	bll	bilo1248	Biloxi	ph
 1105	bzj	beli1260	Belizean Creole	ph
@@ -1190,7 +1190,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1189	brc	berb1259	Berbice Dutch	ph
 1190	xub	bett1235	Betta Kurumba	ph
 1191	bhw	biak1248	Biak	ph
-1192	nbj	ngar1235	Bilinara	ph
+1192	nbj	bili1250	Bilinara	ph
 1193	bhg	bina1277	Binandere	ph
 1194	bwq	sout2840	Bobo	ph
 1195	bol	nucl1695	Bole	ph
@@ -1274,7 +1274,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1273	snk	soni1259	soninke (kaedi (MRT))	gm
 1274	ses	koyr1242	Songhay, Koyraboro Senni	gm
 1275	lln	lele1276	Lele	gm
-1276	kck	kala1384	Ikalanga	gm
+1276	kck	ikal1242	Ikalanga	gm
 1277	lol	mong1338	mongo-nkundu	gm
 1278	wok	long1387	longto	gm
 1279	xwe	xwel1235	xwela	gm
@@ -1316,14 +1316,14 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1315	ymm	maay1238	Maay	gm
 1316	mfz	maba1273	Mabaan	gm
 1317	sgi	suga1248	Nizaa	gm
-1318	cce	chop1243	Copi	gm
+1318	cce	copi1238	Copi	gm
 1319	xho	xhos1239	Xhosa	gm
 1320	akp	siwu1238	Siwu	gm
 1321	bun	sher1258	Sherbro	gm
-1322	buy	bull1247	Mmani	gm
+1322	buy	mman1238	Mmani	gm
 1323	cpn	cher1271	Hill Guang	gm
 1324	fap	palo1243	Ndut-Falor	gm
-1325	gur	fare1241	Frafra	gm
+1325	gur	fraf1238	Frafra	gm
 1326	lip	sekp1241	Likpe	gm
 1327	maw	mamp1244	Mampruli	gm
 1328	toi	tong1318	Shanjo	gm
@@ -1380,7 +1380,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1379	nmn	huaa1248	!Xóõ	gm
 1380	kib	koal1240	Koalib	gm
 1381	kki	kagu1239	Kagulu	gm
-1382	oks	okoe1238	Oko	gm
+1382	oks	okoo1245	Oko	gm
 1383	knw	kung1261	!Xun	gm
 1384	bbj	ghom1247	Banjun	gm
 1385	afn	defa1248	Defaka	gm
@@ -1399,7 +1399,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1398	din	dink1262	Dinka	gm
 1399	nzi	nzim1238	Nzema	gm
 1400	aha	ahan1243	Ahanta	gm
-1401	hna	mina1276	Besleri	gm
+1401	hna	besl1239	Besleri	gm
 1402	bhs	buwa1243	Buwal	gm
 1403	xed	hdii1240	Hide	gm
 1404	hia	lama1288	Lamang	gm
@@ -1453,14 +1453,14 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1452	deg	dege1246	Degema	gm
 1453	bud	ntch1242	Basari	gm
 1454	pre	prin1242	Principense	gm
-1455	nko	nkon1245	Nkonya	gm
-1456	gru	kist1241	Soddo	gm
+1455	nko	nkon1248	Nkonya	gm
+1456	gru	sodd1242	Soddo	gm
 1457	gru	kist1241	Goggot	gm
 1458	mvz	mesq1240	Masqan	gm
 1459	sgw	seba1251	Muher	gm
-1460	sgw	seba1251	Ezha	gm
-1461	sgw	seba1251	Chaha	gm
-1462	sgw	seba1251	Gumer	gm
+1460	sgw	ezha1238	Ezha	gm
+1461	sgw	chah1248	Chaha	gm
+1462	sgw	gume1239	Gumer	gm
 1463	sgw	seba1251	Gura	gm
 1464	sgw	seba1251	Gyeto	gm
 1465	ior	inor1238	Ennemor	gm
@@ -1478,7 +1478,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1477	bcq	benc1235	Gimira	gm
 1478	bcq	benc1235	Bench	gm
 1479	jnj	yems1235	Yemsa	gm
-1480	zay	zays1235	Zayse	gm
+1480	zay	zays1236	Zayse	gm
 1481	gmv	gamo1243	Gamo	gm
 1482	kqy	koor1239	Koorete	gm
 1483	aiw	aari1239	Aari	gm
@@ -1521,7 +1521,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1520	sho	shan1282	Shanga	gm
 1521	abu	abur1243	Abure	gm
 1522	abb	bank1256	Bankon	gm
-1523	afu	awut1241	Efutu	gm
+1523	afu	efut1241	Efutu	gm
 1524	agq	aghe1239	Aghem	gm
 1525	arv	arbo1245	Arbore	gm
 1526	abi	abid1235	Abidji	gm
@@ -1589,8 +1589,8 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1588	dug	duru1249	Duruma	gm
 1589	nyf	giry1241	Giryama	gm
 1590	nyf	giry1241	Jiβana	gm
-1591	nyf	giry1241	Kambe	gm
-1592	nyf	giry1241	Kauma	gm
+1591	nyf	kamb1298	Kambe	gm
+1592	nyf	kaum1238	Kauma	gm
 1593	nyf	giry1241	Raβai	gm
 1594	nyf	giry1241	Reβe	gm
 1595	mlr	vame1236	Vame	gm
@@ -1623,7 +1623,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1622	knk	kura1250	Kuranko	gm
 1623	nie	niel1243	Lwaa	gm
 1624	gis	nort3047	Gisiga	gm
-1625	mgo	meta1238	Moghamo	gm
+1625	mgo	mogh1246	Moghamo	gm
 1626	bri	mokp1239	Mokpwe	gm
 1627	sif	siam1242	Siamou	gm
 1628	nnh	ngie1241	Ngiemboon	gm
@@ -1631,7 +1631,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1630	nza	tigo1236	Mbembe	gm
 1631	orc	orma1241	Orma	gm
 1632	pny	piny1238	Pinyin	gm
-1633	pnz	pana1293	Pana	gm
+1633	pnz	pana1294	Pana	gm
 1634	atu	reel1238	Thok Reel	gm
 1635	udl	wuzl1236	Ouldeme	gm
 1636	les	lese1243	Balese	gm
@@ -1699,7 +1699,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1698	min	mina1268	Minangkabau	gm
 1699	pag	pang1290	Pagasinan	gm
 1700	tes	teng1272	Tengger	gm
-1701	mrr	mari1414	Abujmaria	ra
+1701	mrr	abuj1237	Abujmaria	ra
 1702	apq	apuc1241	Andamanese	ra
 1703	njm	anga1288	Angami	ra
 1704	njo	aona1235	Ao-Naga	ra
@@ -1766,11 +1766,11 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1765	nbi	maon1238	Mao-Naga	ra
 1766	mar	mara1378	Marathi	ra
 1767	mxj	miju1243	Mishmi	ra
-1768	mrg	misi1242	Mising	ra
+1768	mrg	miny1240	Mising	ra
 1769	nmo	moyo1238	Moyon	ra
 1770	unr	mund1320	Mundari	ra
-1771	nit	sout1549	Naiki	ra
-1772	nep	east1436	Nepali	ra
+1771	nit	naik1250	Naiki	ra
+1772	nep	nepa1254	Nepali	ra
 1773	ncb	cent1990	Nicobarese	ra
 1774	gdb	pott1240	Ollari	ra
 1775	ory	oriy1255	Oriya	ra
@@ -1856,7 +1856,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1855	gum	guam1248	Guambiano	saphon
 1856	cof	colo1256	Tsáfiki	saphon
 1857	boa	bora1263	Bora	saphon
-1858	boa	bora1263	Miraña	saphon
+1858	boa	mira1254	Miraña	saphon
 1859	bmr	muin1242	Muinane	saphon
 1860	jeb	jebe1250	Shiwilu	saphon
 1861	cbt	chay1248	Shawi	saphon
@@ -1992,7 +1992,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 1991	jup	hupd1244	Hup	saphon
 1992	mbj	nade1244	Nadëb	saphon
 1993	yab	yuhu1238	Yuhup	saphon
-1994	nab	sout2994	Kithaulhu	saphon
+1994	nab	khit1238	Kithaulhu	saphon
 1995	ltn	latu1238	Latunde	saphon
 1996	wmd	mama1278	Mamaindé	saphon
 1997	sae	saba1268	Sabanê	saphon
@@ -2013,7 +2013,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2012	sya	sian1254	Saynawa	saphon
 2013	sha	shal1242	Shanenawa	saphon
 2014	mcd	shar1245	Sharanawa	saphon
-2015	shp	ship1254	Shipibo	saphon
+2015	shp	ship1255	Shipibo	saphon
 2016	yaa	yami1256	Yaminawa	saphon
 2017	ywn	yawa1260	Yawanawa	saphon
 2018	mts	yora1241	Yora	saphon
@@ -2090,7 +2090,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2089	kgk	kaiw1246	Kaiwá	saphon
 2090	kay	kama1373	Kamayurá	saphon
 2091	ktn	kari1311	Karitiâna	saphon
-2092	arr	karo1305	Karo	saphon
+2092	arr	karo1306	Karo	saphon
 2093	kyz	kaya1329	Kayabí	saphon
 2094	kyr	kuru1309	Kuruáya	saphon
 2095	mpu	maku1278	Makuráp	saphon
@@ -2202,7 +2202,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2201	mhe	besi1244	Mah Meri	uz
 2202	mkv	mafe1237	Mavea	uz
 2203	nrb	nara1262	Nara	uz
-2204	nep	east1436	Nepali	uz
+2204	nep	nepa1254	Nepali	uz
 2205	pes	west2369	Persian	uz
 2206	por	port1283	Portuguese (European)	uz
 2207	por	port1283	Portuguese (Brazilian)	uz
@@ -2223,7 +2223,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2222	coa	coco1260	Cocos Malay	uz
 2223	zsm	stan1306	Standard Malay	uz
 2224	pdt	plau1238	Mennonite Plautdietsch	uz
-2225	kxd	brun1242	Kedayan	uz
+2225	kxd	keda1250	Kedayan	uz
 2226	pjt	pitj1243	Pitjantjatjara	uz
 2227	psi	sout2672	Southeastern Pashayi	uz
 2228	rmy	vlax1238	greek Thrace Xoraxane Romane	uz
@@ -2535,7 +2535,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2534	NA	NA	Khalong Tibetan	ea
 2535	fin	finn1318	Finnish	ea
 2536	udm	udmu1245	Udmurt	ea
-2537	tks	take1255	Khalkhal	ea
+2537	tks	khal1271	Khalkhal	ea
 2538	mut	west2408	Muria Gondi	ea
 2539	sxg	shix1238	Shixing	ea
 2540	kim	kara1462	Tofa	ea
@@ -2584,7 +2584,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2583	eus	basq1248	Basque	ea
 2584	bre	bret1244	Breton	ea
 2585	pmj	sout2729	Southern Pumi	ea
-2586	pbt	sout2649	Southwestern Pashto	ea
+2586	pbt	sout2436	Southwestern Pashto	ea
 2587	NA	NA	Sangdam Tibetan	ea
 2588	peh	bona1250	Baoan	ea
 2589	wne	wane1241	Waneci	ea
@@ -2632,7 +2632,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2631	gni	goon1238	Gooniyandi	er
 2632	zml	madn1237	Matngele	er
 2633	mpb	mull1237	Malak-Malak	er
-2634	mwf	murr1258	Murrinh-patha	er
+2634	mwf	murr1259	Murrinh-patha	er
 2635	nam	nang1259	Ngan'gityemerri	er
 2636	wdj	wadj1254	Patjtjamalh	er
 2637	zmm	mari1417	Marramaninyshi	er
@@ -2641,7 +2641,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2640	zmg	mart1254	Marti Ke	er
 2641	amy	amii1238	Emmi	er
 2642	lrg	lara1258	Larrakia	er
-2643	NA	limi1242	Limilngan	er
+2643	NA	nucl1327	Limilngan	er
 2644	umr	umbu1235	Umbugarla	er
 2645	NA	NA	Garrwa	er
 2646	wny	wany1247	Waanyi	er
@@ -2657,8 +2657,8 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2656	NA	NA	Gun-Dedjnjenghmi	er
 2657	gup	gund1246	Gun-Djeihmi	er
 2658	gup	gune1238	Kune	er
-2659	gup	gunw1252	Kuninjku	er
-2660	gup	gunw1252	Kunwinjku	er
+2659	gup	mura1269	Kuninjku	er
+2660	gup	guma1252	Kunwinjku	er
 2661	gup	naia1238	Mayali	er
 2662	djn	djau1244	Jawoyn	er
 2663	rmb	remb1249	Rembarrnga	er
@@ -2668,7 +2668,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2667	mhg	marg1251	Marrgu	er
 2668	wur	wurr1238	Wurrugu	er
 2669	mph	maun1240	Mawng	er
-2670	ilg	gari1253	Garig	er
+2670	ilg	gari1254	Garig	er
 2671	ilg	ilga1238	Ilgar	er
 2672	ibd	iwai1244	Iwaidja	er
 2673	mep	miri1266	Miriwoong	er
@@ -2705,7 +2705,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2704	amx	west2442	Western Anmatyerre	er
 2705	adg	ande1247	Antekerrepenhe	er
 2706	aer	mpar1238	Central Arrernte	er
-2707	adg	ande1247	Ayerrerenge	er
+2707	adg	ayer1246	Ayerrerenge	er
 2708	aer	east2379	Eastern Arrernte	er
 2709	axl	lowe1436	Lower Southern Aranda	er
 2710	are	west2441	Western Arrernte	er
@@ -2749,11 +2749,11 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2748	NA	mith1236	Mithaka	er
 2749	dif	dier1241	Diyari	er
 2750	dit	dira1238	Thirarri	er
-2751	nmv	ngam1265	Karangura	er
-2752	nmv	ngam1265	Ngamini	er
+2751	nmv	kara1508	Karangura	er
+2752	nmv	ngam1284	Ngamini	er
 2753	bxi	pirl1238	Pirlatapa	er
 2754	ynd	yand1253	Yandruwandha	er
-2755	ynd	yand1253	Nhirrpi	er
+2755	ynd	nhir1234	Nhirrpi	er
 2756	yww	yawa1258	Yawarrawarrka	er
 2757	dif	dier1241	Yarluyandi	er
 2758	xpt	punt1240	Punthamara	er
@@ -2772,7 +2772,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2771	wbv	waja1257	Watjarri	er
 2772	yia	ying1247	Yingkarta	er
 2773	NA	cola1237	Kolakngat	er
-2774	wyi	woiw1237	Daungwurrung	er
+2774	wyi	daun1234	Daungwurrung	er
 2775	wyi	woiw1237	Boonwurrung	er
 2776	wth	wath1238	Wathawurrung	er
 2777	wyi	woiw1237	Woiwurrung	er
@@ -2827,10 +2827,10 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2826	mem	mang1383	Mangala	er
 2827	nna	nyan1301	Nyangumarta	er
 2828	ggd	guga1239	Kukatj	er
-2829	mnt	mayk1239	Mayi-Kulan	er
+2829	mnt	mayi1236	Mayi-Kulan	er
 2830	xmy	maya1280	Mayi-Kutuna	er
 2831	nxn	ngaw1240	Mayi-Thakurti	er
-2832	mnt	mayk1239	Mayi-Yapi	er
+2832	mnt	mayi1235	Mayi-Yapi	er
 2833	nxn	ngaw1240	Ngawun	er
 2834	nxn	ngaw1240	Wunumara	er
 2835	kba	kala1379	Galaagu	er
@@ -2863,13 +2863,13 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2862	nyt	nyaw1247	Nyawaygi	er
 2863	qgu	wulg1239	Wulguru	er
 2864	nys	nyun1247	Balardung	er
-2865	nys	nyun1247	Bibbulman	er
-2866	nys	nyun1247	Goreng	er
+2865	nys	bibb1234	Bibbulman	er
+2866	nys	gore1235	Goreng	er
 2867	nys	kani1276	Kaniyang	er
 2868	nys	nyun1247	Minang	er
-2869	nys	nyun1247	Pinjarup	er
-2870	nys	nyun1247	Wardandi	er
-2871	nys	nyun1247	Wajuk	er
+2869	nys	pinj1244	Pinjarup	er
+2870	nys	ward1248	Wardandi	er
+2871	nys	waju1234	Wajuk	er
 2872	nys	nyun1247	Wiilman	er
 2873	nys	nyun1247	Wudjari	er
 2874	nys	nyun1247	Yuwat	er
@@ -2882,7 +2882,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2881	typ	thay1248	Awu Alaya	er
 2882	NA	kawa1290	Ogh Awarrangg	er
 2883	NA	NA	Ogh Unyjan	er
-2884	NA	angu1240	Anguthimri	er
+2884	NA	angu1242	Anguthimri	er
 2885	gvn	kuku1273	Gugu Wakura	er
 2886	kky	gugu1255	Guugu Yimidhirr	er
 2887	gvn	kuku1273	Kuku Yalanji	er
@@ -2908,7 +2908,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2907	NA	wala1263	Walangama	er
 2908	aid	alng1239	Alngith	er
 2909	dth	arit1239	Aritinngithigh	er
-2910	NA	tyan1235	Ndra'ngith	er
+2910	NA	ndra1239	Ndra'ngith	er
 2911	NA	NA	Thaynakwithi	er
 2912	lnj	leni1238	Linngithigh	er
 2913	NA	NA	Luthigh	er
@@ -2968,7 +2968,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2967	mwp	kala1377	Kala Lagaw Ya	er
 2968	NA	NA	Malyangapa	er
 2969	NA	NA	Wadikali	er
-2970	NA	yarl1236	Yardliyawarra	er
+2970	NA	yard1234	Yardliyawarra	er
 2971	dhg	dhan1270	Dhangu	er
 2972	guf	gupa1247	Gupapuyngu	er
 2973	dax	dhal1246	Dhay'yi	er
@@ -2995,7 +2995,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2994	tbh	thur1254	Dharumba	er
 2995	dhu	dhur1239	Dhurga	er
 2996	xtv	sout2771	Djirringany	er
-2997	NA	nort2760	Gundungurra	er
+2997	NA	gund1248	Gundungurra	er
 2998	NA	NA	Ngarigu	er
 2999	NA	sout2770	Ngunawal	er
 3000	xtv	sout2771	Thawa	er
@@ -3009,7 +3009,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 3008	gma	gamb1251	Gambera	er
 3009	gww	kwin1241	Kwini	er
 3010	wub	wuna1249	Wunambal	er
-3011	NA	umii1235	Umiida	er
+3011	NA	umii1236	Umiida	er
 3012	xgu	ungg1243	Unggumi	er
 3013	wro	worr1237	Worrorra	er
 3014	NA	NA	Yawijibaya	er
