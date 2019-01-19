@@ -2641,7 +2641,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2640	zmg	mart1254	Marti Ke	er
 2641	amy	amii1238	Emmi	er
 2642	lrg	lara1258	Larrakia	er
-2643	NA	nucl1327	Limilngan	er
+2643	lmc	nucl1327	Limilngan	er
 2644	umr	umbu1235	Umbugarla	er
 2645	NA	NA	Garrwa	er
 2646	wny	wany1247	Waanyi	er
@@ -2726,11 +2726,11 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2725	kld	yuwa1242	Yuwaalaraay	er
 2726	kld	yuwa1243	Yuwaliyaay	er
 2727	xyy	dhud1236	Dhudhuroa	er
-2728	NA	NA	Nunukul	er
+2728	jan	jand1248	Jandai	er
 2729	NA	NA	Djindewal	er
 2730	NA	NA	Turubul	er
 2731	yxg	yaga1262	Yagara	er
-2732	dbl	dyir1250	Djirbal	er
+2732	dbl	dyir1250	Dyirbal	er
 2733	wgy	warr1255	Warrgamay	er
 2734	kgs	kumb1268	Baanbay	er
 2735	kgs	kumb1268	Gumbaynggir	er
@@ -2776,16 +2776,16 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2775	wyi	woiw1237	Boonwurrung	er
 2776	wth	wath1238	Wathawurrung	er
 2777	wyi	woiw1237	Woiwurrung	er
-2778	NA	NA	Yari-Yari	er
-2779	NA	NA	Ladji-Ladji	er
-2780	NA	NA	Madhi-Madhi	er
-2781	tbh	wadi1249	Wadi Wadi	er
-2782	NA	NA	Djadjawurung	er
+2778	NA	yari1243	Yari-Yari	er
+2779	llj	ladj1234	Ladji-Ladji	er
+2780	dmd	madh1244	Madhi-Madhi	er
+2781	tbh	wadi1260	Wathi Wathi	er
+2782	NA	west2443	East Djadjawurung	er
 2783	NA	NA	Jardwadjali	er
-2784	NA	NA	Nari Nari	er
-2785	NA	NA	Djabwurung	er
-2786	NA	NA	Wemba Wemba	er
-2787	NA	NA	Wotjobaluk	er
+2784	rnr	nari1241	Nari Nari	er
+2785	tjw	djab1234	Djabwurung	er
+2786	xww	wemb1241	Wemba Wemba	er
+2787	xwt	wotj1234	Wotjobaluk	er
 2788	ihw	gana1268	Bidhawal	er
 2789	unn	gana1278	Muk-Thang	er
 2790	unn	gana1278	Thangguai	er
@@ -2863,13 +2863,13 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2862	nyt	nyaw1247	Nyawaygi	er
 2863	qgu	wulg1239	Wulguru	er
 2864	nys	nyun1247	Balardung	er
-2865	nys	bibb1234	Bibbulman	er
-2866	nys	gore1235	Goreng	er
+2865	xbp	bibb1234	Bibbulman	er
+2866	xgg	gore1235	Goreng	er
 2867	nys	kani1276	Kaniyang	er
 2868	nys	nyun1247	Minang	er
-2869	nys	pinj1244	Pinjarup	er
-2870	nys	ward1248	Wardandi	er
-2871	nys	waju1234	Wajuk	er
+2869	pnj	pinj1244	Pinjarup	er
+2870	wxw	ward1248	Wardandi	er
+2871	xwj	waju1234	Wajuk	er
 2872	nys	nyun1247	Wiilman	er
 2873	nys	nyun1247	Wudjari	er
 2874	nys	nyun1247	Yuwat	er
@@ -2908,7 +2908,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2907	NA	wala1263	Walangama	er
 2908	aid	alng1239	Alngith	er
 2909	dth	arit1239	Aritinngithigh	er
-2910	NA	ndra1239	Ndra'ngith	er
+2910	dgt	ndra1239	Ndra'ngith	er
 2911	NA	NA	Thaynakwithi	er
 2912	lnj	leni1238	Linngithigh	er
 2913	NA	NA	Luthigh	er
@@ -2960,15 +2960,15 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2959	kux	kuka1246	Kukatja	er
 2960	pjt	pitj1243	Ngalia	er
 2961	NA	NA	Ngarlawangka	er
-2962	ntj	ngaa1240	Nyanganyatjara	er
+2962	ntj	ngaa1240	Ngaanyatjarra	er
 2963	piu	pint1250	Pintupi	er
 2964	pjt	pitj1243	Pitjantjatjara	er
 2965	kdd	yank1247	Yankunytjatjara	er
-2966	NA	kala1378	Kala Kawaw Ya	er
+2966	mwp	kala1378	Kala Kawaw Ya	er
 2967	mwp	kala1377	Kala Lagaw Ya	er
-2968	NA	NA	Malyangapa	er
-2969	NA	NA	Wadikali	er
-2970	NA	yard1234	Yardliyawarra	er
+2968	yga	maly1234	Malyangapa	er
+2969	wdk	wadi1261	Wadikali	er
+2970	yxl	yard1234	Yardliyawarra	er
 2971	dhg	dhan1270	Dhangu	er
 2972	guf	gupa1247	Gupapuyngu	er
 2973	dax	dhal1246	Dhay'yi	er
@@ -2986,17 +2986,17 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2985	xdk	sydn1236	Dharuk	er
 2986	xdk	sydn1236	Eora	er
 2987	awk	awab1243	Awabakal	er
-2988	kda	wori1245	Birrpai	er
+2988	NA	west2443	West Djadjawurung	er
 2989	kda	wori1245	Katthang	er
 2990	nyx	ngan1296	Nganyaywana	er
 2991	dyn	dyan1250	Thanggati	er
-2992	kda	wori1245	Warrimay	er
+2992	duj	djap1238	Djapu	er
 2993	tbh	thur1254	Dharawal	er
 2994	tbh	thur1254	Dharumba	er
 2995	dhu	dhur1239	Dhurga	er
 2996	xtv	sout2771	Djirringany	er
-2997	NA	gund1248	Gundungurra	er
-2998	NA	NA	Ngarigu	er
+2997	xrd	gund1248	Gundungurra	er
+2998	xni	ngar1297	Ngarigu	er
 2999	NA	sout2770	Ngunawal	er
 3000	xtv	sout2771	Thawa	er
 3001	gcd	gang1267	Gangalidda	er
@@ -3009,9 +3009,13 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 3008	gma	gamb1251	Gambera	er
 3009	gww	kwin1241	Kwini	er
 3010	wub	wuna1249	Wunambal	er
-3011	NA	umii1236	Umiida	er
+3011	xud	umii1236	Umiida	er
 3012	xgu	ungg1243	Unggumi	er
 3013	wro	worr1237	Worrorra	er
-3014	NA	NA	Yawijibaya	er
+3014	jbw	yawi1239	Yawijibaya	er
 3015	wrr	ward1246	Wardaman	er
 3016	jng	yang1288	Yangman	er
+3017	gwu	guwa1243	Guwamu	er
+3018	wbp	west2437	Ngardily	er
+3019	NA	NA	Piangil	er
+3020	lby	lamu1254	Tableland Lamalama	er
