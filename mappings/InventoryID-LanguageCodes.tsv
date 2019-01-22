@@ -2686,8 +2686,8 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2685	nug	nung1291	Nungali	er
 2686	nji	ngar1283	Ngarnka	er
 2687	jig	djin1251	Jingulu	er
-2688	nji	binb1241	Binbinka	er
-2689	nji	guda1242	Gudanji	er
+2688	wmb	binb1242	Binbinka	er
+2689	wmb	guda1243	Gudanji	er
 2690	wmb	wamb1258	Wambaya	er
 2691	NA	mink1237	Minkin	er
 2692	NA	ngum1253	Ngumbarl	er
@@ -2719,7 +2719,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2718	xbg	warr1257	Warrnambool	er
 2719	kld	gami1243	Gamilaraay	er
 2720	zmu	muru1266	Muruwari	er
-2721	wyb	ngiy1239	Ngiyambaa	er
+2721	wyb	wang1291	Ngiyambaa	er
 2722	wyb	wayi1238	Wayilwan	er
 2723	wrh	wira1262	Wiradjuri	er
 2724	kld	wirr1237	Wiriyaraay	er
