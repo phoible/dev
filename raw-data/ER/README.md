@@ -4,7 +4,7 @@ The `ER` source data comes from [Erich Round](https://languages-cultures.uq.edu.
 
 > Round, Erich R. 2019. Phonemic inventories of Australia.
 
-Notes on the inventories and their compilation from Erich are below. The data are available in phoible long format in [ER_inventories.tsv](ER_inventories.tsv).
+Notes on the inventories and their compilation from Erich are below. The data are available in phoible long format in [ER_inventories.tsv](ER_inventories.tsv) and contain only phonemes, with no information on allophones or linguistic tone.
 
 
 ## OVERVIEW
