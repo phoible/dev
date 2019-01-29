@@ -8,7 +8,7 @@ This source is cited as:
 
 The raw data and source code are available at: [https://github.com/macleginn/eurasian-phonologies](https://github.com/macleginn/eurasian-phonologies).
 
-`EA` contains a fresh take on phonological inventories from Eurasia. The data were extracted from grammatical descriptions of individual language varieties. It contains phonemes and information about tone.
+`EA` contains a fresh take on phonological inventories from Eurasia. The data were extracted from grammatical descriptions of individual language varieties. It contains only phonemes, with no information on allophones or linguistic tone.
 
 The data are available in phoible long format in [EA_inventories.tsv](EA_inventories.tsv). We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as specified in the [EA_IPA_correspondences.tsv](EA_IPA_correspondences.tsv) correspondences file. We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file.
 
