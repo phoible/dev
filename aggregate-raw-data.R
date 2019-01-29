@@ -246,7 +246,7 @@ output_fields <- c("InventoryID", "Glottocode", "LanguageCode", "LanguageName",
                    "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
                    "Marginal", "Source")
 phoible <- all_data[output_fields]
-write.csv(phoible, file=output_path, row.names=FALSE, quote=FALSE, eol="\n",
+write.csv(phoible, file=output_path, row.names=FALSE, quote=TRUE, eol="\n",
           fileEncoding="UTF-8")
 save(phoible, file=output_path_rdata)
 ## WRITE LOG FILE

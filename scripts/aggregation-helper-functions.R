@@ -101,8 +101,9 @@ validate_data <- function(dataframe, source_id,
         colnames(tab) <- seq(ncol(tab))
         total <- apply(tab, 1, sum)
         tab <- cbind(tab, "total"=total)
-        cat("\nTable of codepoints per phone (", source.id, "):\n", sep="")
+        cat("Table of codepoints per phone (", source_id, "):\n", sep="")
         print(tab)
+        cat("\n")
     }
     ## collapse allophones
     dataframe <- collapse_allophones(dataframe)
@@ -110,6 +111,8 @@ validate_data <- function(dataframe, source_id,
     dataframe$Source <- source_id
     ## remove blank lines & extraneous columns
     dataframe <- dataframe[!is.na(dataframe$Phoneme), output_cols]
+    ## trim whitespace
+    dataframe <- data.frame(lapply(dataframe, stringi::stri_trim_both))
 }
 
 
@@ -132,6 +135,16 @@ get_codepoints <- function(strings) {
     codepts <- stri_trans_general(strings, "Any-Hex/Unicode")
     codepts <- stri_replace_all_fixed(codepts, replacement="", pattern = "U")
     stri_replace_first_fixed(codepts, replacement="", pattern = "+")
+}
+
+
+get_glyph <- function(glyph_id, sep="+") {
+    ## convert a (sequence of) plus-separated glyph ID(s) into a (character
+    ## vector of) glyph string(s)
+    codepts <- stri_split_fixed(glyph_id, pattern=sep)
+    codepts <- lapply(codepts, function(x) paste0("U+", x))
+    glyphs <- lapply(codepts, stri_trans_general, "Hex/Unicode-Any")
+    sapply(glyphs, function(x) paste(x, collapse=""))
 }
 
 
@@ -194,10 +207,12 @@ make_typestring <- function(strings, ...) {
         codepts[codepts %in% "007C"] <- "|"  # upsid disjuncts
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
+        codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
         codepts[codepts %in% get_codepoints(diacritics)] <- "D"
         codepts[codepts %in% get_codepoints(tones)] <- "T"
         codepts[codepts %in% get_codepoints(null_phone)] <- "N"
-        missed <- !codepts %in% c("B", "M", "D", "T", "N", "|")
+        codepts[codepts %in% get_codepoints(disjunct)] <- "|"
+        missed <- !codepts %in% c("B", "M", "C", "D", "T", "N", "|")
         if (any(missed)) {
             warning(paste("Unfamiliar glyph components.", "Phone:", string,
                           "Codepoint:", codepts[missed]),
@@ -314,7 +329,7 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
         inputs <- c("tones", "modifiers", "diacritics", "stops", "nasals",
                     "fricatives", "flaps", "affricates", "implosives",
                     "approximants", "clicks", "vowels", "archephonemes",
-                    "base_glyphs", "contour_glyphs", "null_phone")
+                    "base_glyphs", "contour_glyphs", "null_phone", "disjunct")
     }
     ## DEFINITION OF GLYPH TYPES
     ## Tones are not internally reordered so the order here is arbitrary.
@@ -380,11 +395,14 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     contour_glyphs <- c("ⁿ", "ˡ")  # nasal release, lateral release
     ## the null phone *should* only occur in allophones
     null_phone <- "∅"
+    ## disjunct is used in UPSID to signify insufficient information to
+    ## distinguish a phoneme precisely (usually arises as "dental|alveolar")
+    disjunct <- "|"
     ## The base glyphs are broken up into subtypes for convenience only;
     ## their order does not matter.
-    vowels <- c("i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ",
-                "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ", "ɐ", "a", "ɶ",
-                "ɑ", "ɒ", "ɚ", "ɝ")
+    vowels <- c("i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ",
+                "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ", "ɐ",
+                "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɝ")
     stops <- c("p", "b", "t", "d", "ȶ", "ȡ", "ʈ", "ɖ", "c", "ɟ", "k", "ɡ", "q",
                "ɢ", "ʡ", "ʔ")
     nasals <- c("m", "ɱ", "n", "ȵ", "ɳ", "ɲ", "ŋ", "ɴ")
@@ -395,7 +413,8 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     clicks <- c("ʘ", "ǀ", "ǁ", "ǃ", "ǂ", "‼")
     affricates <- c("ʦ", "ʣ", "ʧ", "ʤ")
     implosives <- c("ƥ", "ɓ", "ƭ", "ɗ", "ᶑ", "ƈ", "ʄ", "ƙ", "ɠ", "ʠ", "ʛ")
-    approximants <- c("ʋ", "ɹ", "ɻ", "j", "ɥ", "ɰ", "l", "ɭ", "ʎ", "ʟ", "ɫ", "w")
+    approximants <- c("ʋ", "ɹ", "ɻ", "j", "ɥ", "ɰ", "l", "ɭ", "ʎ", "ʟ", "ɫ",
+                      "w")
     archephonemes <- c("R", "N")  # R = tap/trill; N = placeless nasal
     ## assign variables to the specified environment
     if ("stops" %in% inputs)          assign("stops", stops, envir)
@@ -404,15 +423,19 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     if ("nasals" %in% inputs)         assign("nasals", nasals, envir)
     if ("vowels" %in% inputs)         assign("vowels", vowels, envir)
     if ("clicks" %in% inputs)         assign("clicks", clicks, envir)
+    if ("disjunct" %in% inputs)       assign("disjunct", disjunct, envir)
     if ("modifiers" %in% inputs)      assign("modifiers", modifiers, envir)
+    if ("null_phone" %in% inputs)     assign("null_phone", null_phone, envir)
     if ("diacritics" %in% inputs)     assign("diacritics", diacritics, envir)
     if ("fricatives" %in% inputs)     assign("fricatives", fricatives, envir)
     if ("affricates" %in% inputs)     assign("affricates", affricates, envir)
     if ("implosives" %in% inputs)     assign("implosives", implosives, envir)
-    if ("approximants" %in% inputs)   assign("approximants", approximants, envir)
-    if ("archephonemes" %in% inputs)  assign("archephonemes", archephonemes, envir)
-    if ("contour_glyphs" %in% inputs) assign("contour_glyphs", contour_glyphs, envir)
-    if ("null_phone" %in% inputs)     assign("null_phone", null_phone, envir)
+    if ("approximants" %in% inputs)   assign("approximants", approximants,
+                                             envir)
+    if ("archephonemes" %in% inputs)  assign("archephonemes", archephonemes,
+                                             envir)
+    if ("contour_glyphs" %in% inputs) assign("contour_glyphs", contour_glyphs,
+                                             envir)
     if ("base_glyphs" %in% inputs) {
         assign("base_glyphs", c(vowels, stops, implosives, flaps, nasals, 
                                 clicks, fricatives, affricates, approximants,
