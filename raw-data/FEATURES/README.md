@@ -13,7 +13,7 @@ The final feature system goes beyond both of these sources, and is potentially s
 
 ## NOTES
 
-changed "0" values to "-" values for features "front" and "back" for segments k, g, kp, gb, x, ɣ, ʟ, ŋ, kx, and gɣ.  This is consistent with the textual description in Hayes's book (page 87), but corrects typographical errors in his charts (pages 96-97).  Front and back values for ɰ and ɧ are not explicitly described in Hayes nor included in his charts, but by inference ɧ has also been changed from 0front 0back to -front -back (by analogy with x), and ɰ changed to -front +back (by analogy with ɯ). --drm
+For segments k, g, kp, gb, x, ɣ, ʟ, ŋ, kx, and gɣ, we changed "0" values to "-" values for features "front" and "back".  This is consistent with the textual description in Hayes's book (page 87), but corrects typographical errors in his charts (pages 96-97).  Front and back values for ɰ and ɧ are not explicitly described in Hayes nor included in his charts, but by inference ɧ has also been changed from 0front 0back to -front -back (by analogy with x), and ɰ changed to -front +back (by analogy with ɯ).
 
 ## voicing
 
