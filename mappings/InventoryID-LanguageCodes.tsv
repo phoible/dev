@@ -2262,7 +2262,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2261	rus	russ1263	Russian	ea
 2262	gle	iris1253	Irish	ea
 2263	loy	lowa1242	gLo Tibetan	ea
-2264	NA	NA	Tod Tibetan	ea
+2264	sbu	stod1241	Tod Tibetan	ea
 2265	dan	dani1285	Danish	ea
 2266	tgk	taji1245	Tajik	ea
 2267	nru	yong1270	Yongning Na	ea
@@ -2290,13 +2290,13 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2289	mnj	munj1244	Munji	ea
 2290	brh	brah1256	Brahui	ea
 2291	ynk	nauk1242	Naukan Yupik	ea
-2292	NA	NA	Solon	ea
+2292	evn	even1259	Solon	ea
 2293	kxv	kuvi1243	Kuvi	ea
 2294	ths	thak1245	Thakali	ea
 2295	unr	mund1320	Mundari	ea
 2296	azj	nort2697	North Azerbaijani	ea
 2297	itl	itel1242	Itelmen	ea
-2298	NA	NA	Puxi	ea
+2298	jih	puxi1242	Puxi	ea
 2299	byh	bujh1238	Bhujel	ea
 2300	lzz	lazz1240	Laz	ea
 2301	kxs	kang1281	Kangjia	ea
@@ -2325,12 +2325,12 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2324	oss	osse1243	Iron Ossetic	ea
 2325	lij	ligu1248	Ligurian	ea
 2326	vot	voti1245	Votic	ea
-2327	NA	NA	Rgyalthang Tibetan	ea
+2327	khg	kham1282	Rgyalthang Tibetan	ea
 2328	khg	kham1282	Brag-g.yab Tibetan	ea
 2329	ddo	dido1241	Tsez	ea
 2330	wym	wymy1235	Wymysorys	ea
 2331	gag	gaga1249	Gagauz	ea
-2332	NA	NA	Northwestern Pashto	ea
+2332	pbu	nort2647	Northwestern Pashto	ea
 2333	sou	sout2746	Soutern Tai	ea
 2334	fur	friu1240	Friulian	ea
 2335	lbe	lakk1252	Lak	ea
@@ -2348,9 +2348,9 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2347	mhe	besi1244	Mah Meri	ea
 2348	bgn	west2368	Western Balochi	ea
 2349	ady	adyg1241	Adyghe	ea
-2350	NA	NA	Northern Cuona	ea
+2350	dka	dakp1242	Northern Cuona	ea
 2351	oss	osse1243	Iron Ossetic	ea
-2352	NA	NA	Lizu	ea
+2352	NA	lizu1234	Lizu	ea
 2353	udm	udmu1245	Udmurt	ea
 2354	xub	bett1235	Betta Kurumba	ea
 2355	kum	kumy1244	Kumyk	ea
@@ -2379,14 +2379,14 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2378	fao	faro1244	Faroese	ea
 2379	NA	NA	Southern Cuona	ea
 2380	bod	tibe1272	Lhasa Tibetan	ea
-2381	NA	NA	Zuberoan Basque	ea
+2381	eus	basq1250	Zuberoan Basque	ea
 2382	kir	kirg1245	Kyrgyz	ea
 2383	drd	darm1243	Darma	ea
-2384	NA	NA	Yodzyak Komi	ea
+2384	kom	komi1277	Yodzyak Komi	ea
 2385	lao	laoo1244	Lao	ea
 2386	puo	puoc1238	Ksingmul	ea
 2387	tel	telu1262	Telugu	ea
-2388	NA	NA	Dolakha Newar	ea
+2388	NA	east2773	Dolakha Newar	ea
 2389	oss	osse1243	Iron Ossetic	ea
 2390	bbl	bats1242	Bats	ea
 2391	scp	hela1238	Yolmo	ea
@@ -2405,21 +2405,21 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2404	vav	varl1238	Varli	ea
 2405	nld	dutc1256	Dutch	ea
 2406	cym	wels1247	Welsh	ea
-2407	NA	NA	Japhug	ea
+2407	NA	japh1234	Japhug	ea
 2408	oss	osse1243	Iron Ossetic	ea
 2409	xmf	ming1252	Mingrelian	ea
 2410	lzz	lazz1240	Laz	ea
 2411	NA	NA	Drokpa Tibetan	ea
 2412	alr	alut1245	Alutor	ea
-2413	NA	NA	Eastern Mari	ea
+2413	mhr	east2328	Eastern Mari	ea
 2414	tts	nort2741	Northeastern Thai	ea
 2415	sip	sikk1242	Denjongka	ea
 2416	tur	nucl1301	Turkish	ea
 2417	xmf	ming1252	Mingrelian	ea
 2418	yai	yagn1238	Yaghnobi	ea
 2419	eus	basq1248	Basque	ea
-2420	NA	NA	Zhongu Tibetan	ea
-2421	NA	NA	Dingri Tibetan	ea
+2420	NA	zhon1235	Zhongu Tibetan	ea
+2421	bod	tibe1272	Dingri Tibetan	ea
 2422	tts	nort2741	Northeastern Thai	ea
 2423	shn	shan1277	Shan	ea
 2424	oss	osse1243	Iron Ossetic	ea
@@ -2432,12 +2432,12 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2431	pst	cent1973	Wazirwola	ea
 2432	oss	osse1243	Iron Ossetic	ea
 2433	kjh	khak1248	Khakas	ea
-2434	NA	NA	Eastern Khanty	ea
+2434	NA	east2325	Eastern Khanty	ea
 2435	gaq	gata1239	Gtaʔ	ea
 2436	xmf	ming1252	Mingrelian	ea
 2437	snd	sind1272	Sindhi	ea
 2438	aae	arbe1236	Arbëresh Albanian	ea
-2439	NA	NA	Kurtoep	ea
+2439	xkz	kurt1248	Kurtoep	ea
 2440	NA	NA	Tukita	ea
 2441	nor	norw1258	Norwegian	ea
 2442	vro	sout2679	Võro	ea
@@ -2448,7 +2448,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2447	slk	slov1269	Slovak	ea
 2448	liv	livv1244	Livonian	ea
 2449	heb	hebr1245	Israeli Hebrew	ea
-2450	NA	NA	Forest Nenets	ea
+2450	NA	fore1274	Forest Nenets	ea
 2451	taj	east2347	Tamang	ea
 2452	guj	guja1252	Gujarati	ea
 2453	mvi	miya1259	Miyako	ea
@@ -2471,7 +2471,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2470	fry	west2354	Frisian	ea
 2471	tyr	taid1249	Tay Daeng	ea
 2472	sou	sout2746	Soutern Tai	ea
-2473	NA	NA	Elfdalian	ea
+2473	ovd	elfd1234	Elfdalian	ea
 2474	cde	chen1255	Nyinpa Cone	ea
 2475	mns	mans1258	Northern Mansi	ea
 2476	oss	osse1243	Iron Ossetic	ea
@@ -2487,9 +2487,9 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2486	cng	nort2722	Northern Qiang	ea
 2487	aae	arbe1236	Arbëresh Albanian	ea
 2488	lit	lith1251	Lithuanian	ea
-2489	NA	NA	Nangchenpa Tibetan	ea
+2489	khg	kham1282	Nangchenpa Tibetan	ea
 2490	vep	veps1250	Veps	ea
-2491	NA	NA	Myeik Burmese	ea
+2491	tvn	merg1238	Myeik Burmese	ea
 2492	tts	nort2741	Northeastern Thai	ea
 2493	lvs	stan1325	Latvian	ea
 2494	sjt	ters1235	Ter Saami	ea
@@ -2500,9 +2500,9 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2499	srp	serb1264	Serbian	ea
 2500	bak	bash1264	Bashkir	ea
 2501	mjg	tuuu1240	Mongghul	ea
-2502	NA	NA	Labrang Tibetan	ea
+2502	scu	shum1243	Labrang Tibetan	ea
 2503	ukr	ukra1253	Ukrainian	ea
-2504	NA	NA	South Mustang Tibetan	ea
+2504	loy	lowa1242	South Mustang Tibetan	ea
 2505	sco	scot1243	Scots	ea
 2506	mhr	east2328	Meadow Mari	ea
 2507	shn	shan1277	Shan	ea
@@ -2523,7 +2523,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2522	xsr	sher1255	Solu Sherpa	ea
 2523	slr	sala1264	Salar	ea
 2524	lez	lezg1247	Lezgian	ea
-2525	NA	NA	Kami Tibetan	ea
+2525	khg	kham1282	Kami Tibetan	ea
 2526	srb	sora1254	Sora	ea
 2527	ola	walu1241	Walungge	ea
 2528	kfq	kork1243	Korku	ea
@@ -2542,7 +2542,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2541	hsb	uppe1395	Upper Sorbian	ea
 2542	hin	hind1269	Hindi	ea
 2543	gdb	pott1240	Gadaba	ea
-2544	NA	NA	Tamang	ea
+2544	NA	nucl1729	Tamang	ea
 2545	bcc	sout2642	Southern Balochi	ea
 2546	sro	camp1261	Campidanese Sardinian	ea
 2547	tcy	tulu1258	Tulu	ea
@@ -2556,7 +2556,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2555	cat	stan1289	Catalan	ea
 2556	mjg	tuuu1240	Mangghuer	ea
 2557	hun	hung1274	Hungarian	ea
-2558	NA	NA	Shigatse Tibetan	ea
+2558	bod	tibe1272	Shigatse Tibetan	ea
 2559	mal	mala1464	Malayalam	ea
 2560	yix	axiy1235	Ahi	ea
 2561	bsk	buru1296	Burushaski	ea
@@ -2588,8 +2588,8 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2587	NA	NA	Sangdam Tibetan	ea
 2588	peh	bona1250	Baoan	ea
 2589	wne	wane1241	Waneci	ea
-2590	NA	NA	Digor Ossetic	ea
-2591	NA	NA	Dongwang Tibetan	ea
+2590	oss	digo1242	Digor Ossetic	ea
+2591	khg	kham1282	Dongwang Tibetan	ea
 2592	als	tosk1239	Tosk Albanian	ea
 2593	ltg	east2282	Latgalian	ea
 2594	cat	stan1289	Catalan	ea
@@ -2598,7 +2598,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2597	khm	cent1989	Central Khmer	ea
 2598	asm	assa1263	Assamese	ea
 2599	xal	kalm1243	Kalmyk	ea
-2600	NA	NA	Kham Tibetan	ea
+2600	khg	kham1282	Kham Tibetan	ea
 2601	gla	scot1245	Scottish Gaelic	ea
 2602	dsb	lowe1385	Lower Sorbian	ea
 2603	yrk	nene1249	Tundra Nenets	ea
@@ -2612,7 +2612,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2611	tam	tami1289	Tamil	ea
 2612	uig	uigh1240	Uyghur	ea
 2613	bsk	buru1296	Burushaski	ea
-2614	NA	NA	Themchen Tibetan	ea
+2614	adx	amdo1237	Themchen Tibetan	ea
 2615	eus	basq1248	Basque	ea
 2616	myv	erzy1239	Erzya	ea
 2617	npa	narp1239	Nar-Phu	ea
@@ -2643,7 +2643,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2642	lrg	lara1258	Larrakia	er
 2643	lmc	nucl1327	Limilngan	er
 2644	umr	umbu1235	Umbugarla	er
-2645	NA	NA	Garrwa	er
+2645	wrk	gara1269	Garrwa	er
 2646	wny	wany1247	Waanyi	er
 2647	NA	NA	Kunindirri	er
 2648	err	erre1238	Erre	er
