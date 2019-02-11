@@ -12,7 +12,7 @@ The data are available in phoible long format in [SPA_Phones.tsv](SPA_Phones.tsv
 
 We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as described in the [SPA_IPA_correspondences.tsv](SPA_IPA_correspondences.tsv) file.
 
-Note that ISO 639-3 codes in may be out of date with the current ISO 639-3 standard because change requests. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+Note that the ISO 639-3 codes in the SPA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
 
 For up-to-date language codes for each inventory, we maintain a phoible index here:
 [InventoryID-LanguageCodes.tsv](../../mappings/InventoryID-LanguageCodes.tsv).
