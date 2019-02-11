@@ -1,8 +1,11 @@
 # COMPARATIVE NOTES ON THE ANALYSIS OF AUSTRALIAN PHONEME INVENTORIES 
 
-## Citation
+The `ER` source data comes from [Erich Round](https://languages-cultures.uq.edu.au/profile/1160/erich-round) and should be cited as:
 
-Round, Erich R. 2019. Phonemic inventories of Australia.
+> Round, Erich R. 2019. Phonemic inventories of Australia.
+
+Notes on the inventories and their compilation from Erich are below. The data are available in phoible long format in [ER_inventories.tsv](ER_inventories.tsv) and contain only phonemes, with no information on allophones or linguistic tone.
+
 
 ## OVERVIEW
 
@@ -25,13 +28,18 @@ Some sources analyse a phonotactically unusual phonetic sequence [X+Y], particul
 All Australian languages contrast either one or two ‘apical’ places of articulation, where the primary constriction is formed with the tongue tip; and either one or two ‘laminal’ places of articulation, with constriction formed by the tongue blade. In this dataset, laminals are labelled either as dental (with the IPA bridge diacritic) or pre-palatal (with IPA curl). Apicals are plain /t/, /n/ etc. for apical alveolars, IPA retroflex for retroflexes, and for languages with no alveolar–retroflex contrast, the single apical place is explicitly labelled as apical (with the IPA inverted bridge diacritic). 
 
 ## STOP SERIES 
+
 Some Australian languages contrast two series of stops, typically matched at all superlaryngeal places of articulation, and sources may phonemicize them in a number of ways. For the purposes of enhanced cross-linguistic comparability, this dataset follows Butcher (2004, 2012) and phonemicizes them as fortis and lenis, with no voicing contrast. 
 
 ## TAPS, FLAPS AND LENIS APICAL STOPS 
 
 Some Australian languages have an extra, voiced lenis, stop-like or tap/flap-like phoneme solely at the apical place(s) of articulation. Sources may phonemicize these as voiced/lenis stops or as taps/flaps (see Breen 1997 for discussion). For cross-linguistic comparability, they are phonemicized here as tap/flaps. 
 
-## VOWEL LENGTH Most sources phonemicize long vowels as a single long vowel segment. Some phonemicize them as two, adjacent short vowels (e.g. McDonald & Wurm 1979:5 for Wangkumara [a:]). The phonemicization here is as the single, long segment. 
+## VOWEL LENGTH 
 
-## GLOTTAL STOP Some sources analyse the unpredictable presence/absence of a glottal stop as a prosodic feature (e.g. Waters 1980 for Djinang) and others as a phonemic segment. The representation here is as a phonemic segment.
+Most sources phonemicize long vowels as a single long vowel segment. Some phonemicize them as two, adjacent short vowels (e.g. McDonald & Wurm 1979:5 for Wangkumara [a:]). The phonemicization here is as the single, long segment. 
+
+## GLOTTAL STOP 
+
+Some sources analyse the unpredictable presence/absence of a glottal stop as a prosodic feature (e.g. Waters 1980 for Djinang) and others as a phonemic segment. The representation here is as a phonemic segment.
 
