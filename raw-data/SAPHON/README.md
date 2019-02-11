@@ -6,7 +6,7 @@ This source should be cited as:
 
 > Michael, Lev, Tammy Stark, and Will Chang. (2012) South American Phonological Inventory Database. University of California. Online: [http://linguistics.berkeley.edu/~saphon/en/](http://linguistics.berkeley.edu/~saphon/en/).
 
-The data are available in phoible wide format in the [saphon20121031.tsv](saphon20121031.tsv) file and contain phonemes and additional information about where the languages are spoken.
+The data are available in phoible wide format in the [saphon20121031.tsv](saphon20121031.tsv) file and contain only phonemes, with no information on allophones, and a simple boolean indicator for the presence/absence of linguistic tone. **This boolean "tone/no tone" information is not incorporated into PHOIBLE.**  The raw data also contains information about where the languages are spoken.
 
 We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as specified in the [saphon_ipa_correspondences.tsv](saphon_ipa_correspondences.tsv) correspondences file. 
 
