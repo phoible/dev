@@ -2266,7 +2266,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2265	dan	dani1285	Danish	ea
 2266	tgk	taji1245	Tajik	ea
 2267	nru	yong1270	Yongning Na	ea
-2268	NA	NA	Beserman	ea
+2268	udm	bese1243	Beserman	ea
 2269	fra	stan1290	French	ea
 2270	isk	ishk1246	Ishkashimi	ea
 2271	kca	khan1273	Northern Khanty	ea
@@ -2377,7 +2377,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2376	kca	khan1273	Northern Khanty	ea
 2377	brh	brah1256	Brahui	ea
 2378	fao	faro1244	Faroese	ea
-2379	NA	NA	Southern Cuona	ea
+2379	dzl	dzal1238	Southern Cuona	ea
 2380	bod	tibe1272	Lhasa Tibetan	ea
 2381	eus	basq1250	Zuberoan Basque	ea
 2382	kir	kirg1245	Kyrgyz	ea
@@ -2409,7 +2409,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2408	oss	osse1243	Iron Ossetic	ea
 2409	xmf	ming1252	Mingrelian	ea
 2410	lzz	lazz1240	Laz	ea
-2411	NA	NA	Drokpa Tibetan	ea
+2411	bod	tibe1272	Drokpa Tibetan	ea
 2412	alr	alut1245	Alutor	ea
 2413	mhr	east2328	Eastern Mari	ea
 2414	tts	nort2741	Northeastern Thai	ea
@@ -2645,7 +2645,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2644	umr	umbu1235	Umbugarla	er
 2645	wrk	gara1269	Garrwa	er
 2646	wny	wany1247	Waanyi	er
-2647	NA	NA	Kunindirri	er
+2647	wrk	gara1269	Kunindirri	er
 2648	err	erre1238	Erre	er
 2649	zme	mang1382	Mengerrdji	er
 2650	urc	urni1239	Urningangg	er
@@ -2654,7 +2654,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2653	gbu	gaga1251	Gaagudju	er
 2654	nig	ngal1293	Ngalakgan	er
 2655	nid	ngan1295	Ngandi	er
-2656	NA	NA	Gun-Dedjnjenghmi	er
+2656	gup	gund1246	Gun-Dedjnjenghmi	er
 2657	gup	gund1246	Gun-Djeihmi	er
 2658	gup	gune1238	Kune	er
 2659	gup	mura1269	Kuninjku	er
@@ -2713,7 +2713,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2712	bdy	yugu1249	Bundjalung	er
 2713	gih	gida1240	Gidabal	er
 2714	bdy	guwa1244	Guwar	er
-2715	NA	NA	Minjungbal	er
+2715	xjb	wee1234	Minjungbal	er
 2716	bdy	band1339	Waalubal	er
 2717	xbg	bung1264	Buwandik	er
 2718	xbg	warr1257	Warrnambool	er
@@ -2728,7 +2728,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2727	xyy	dhud1236	Dhudhuroa	er
 2728	jan	jand1248	Jandai	er
 2729	NA	NA	Djindewal	er
-2730	NA	NA	Turubul	er
+2730	yxg	yaga1262	Turubul	er
 2731	yxg	yaga1262	Yagara	er
 2732	dbl	dyir1250	Dyirbal	er
 2733	wgy	warr1255	Warrgamay	er
@@ -2781,7 +2781,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2780	dmd	madh1244	Madhi-Madhi	er
 2781	tbh	wadi1260	Wathi Wathi	er
 2782	NA	west2443	East Djadjawurung	er
-2783	NA	NA	Jardwadjali	er
+2783	NA	djad1246	Jardwadjali	er
 2784	rnr	nari1241	Nari Nari	er
 2785	tjw	djab1234	Djabwurung	er
 2786	xww	wemb1241	Wemba Wemba	er
@@ -2791,8 +2791,8 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2790	unn	gana1278	Thangguai	er
 2791	unn	gana1278	Nulit	er
 2792	nay	nort2756	Keramin	er
-2793	NA	NA	Ngayawang	er
-2794	NA	NA	Ngintait	er
+2793	NA	lowe1402	Ngayawang	er
+2794	NA	ngin1247	Ngintait	er
 2795	nay	narr1259	Yaraldi	er
 2796	xth	yith1234	Yitha Yitha	er
 2797	bym	bidy1243	Bidyara	er
@@ -2881,7 +2881,7 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2880	ggr	aghu1254	Aghu Tharnggala	er
 2881	typ	thay1248	Awu Alaya	er
 2882	NA	kawa1290	Ogh Awarrangg	er
-2883	NA	NA	Ogh Unyjan	er
+2883	NA	kawa1290	Ogh Unyjan	er
 2884	NA	angu1242	Anguthimri	er
 2885	gvn	kuku1273	Gugu Wakura	er
 2886	kky	gugu1255	Guugu Yimidhirr	er
@@ -2911,9 +2911,9 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 2910	dgt	ndra1239	Ndra'ngith	er
 2911	NA	NA	Thaynakwithi	er
 2912	lnj	leni1238	Linngithigh	er
-2913	NA	NA	Luthigh	er
+2913	NA	luth1234	Luthigh	er
 2914	NA	mbiy1238	Mbiywom	er
-2915	NA	NA	Mpalitjanh	er
+2915	xpj	mpal1238	Mpalitjanh	er
 2916	NA	ngko1236	Ngkoth	er
 2917	amz	urad1238	Uradhi	er
 2918	amz	angg1238	Angkamuthi	er
@@ -3017,5 +3017,5 @@ InventoryID	LanguageCode	Glottocode	LanguageName	Source
 3016	jng	yang1288	Yangman	er
 3017	gwu	guwa1243	Guwamu	er
 3018	wbp	west2437	Ngardily	er
-3019	NA	NA	Piangil	er
+3019	weg	werg1234	Piangil	er
 3020	lby	lamu1254	Tableland Lamalama	er
