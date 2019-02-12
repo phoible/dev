@@ -29,6 +29,7 @@ source(file.path("scripts", "aggregation-helper-functions.R"))
 
 ## SOURCE DATA FILE PATHS
 features_path <- file.path(data_dir, "FEATURES", "phoible-segments-features.tsv")
+er_path <- file.path(data_dir, "ER", "ER_inventories.tsv")
 ea_path <- file.path(data_dir, "EA", "EA_inventories.tsv")
 ea_ipa_path <- file.path(data_dir, "EA", "EA_IPA_correspondences.tsv")
 ph_path <- file.path(data_dir, "PH", "phoible_inventories.tsv")
@@ -49,6 +50,12 @@ saphon_ipa_path <- file.path(data_dir, "SAPHON", "saphon_ipa_correspondences.tsv
 ## ## ## ## ## ##
 ##  LOAD DATA  ##
 ## ## ## ## ## ##
+
+## Australian Phonologies inventory data. All columns are dense:
+cat("processing ER\n")
+er_raw <- read.delim(er_path, na.strings="", blank.lines.skip=FALSE)
+er_data <- validate_data(er_data, "er", debug=debug)
+if (!debug) rm(er_raw)
 
 ## Eurasian Phonologies inventory data. All columns are dense:
 ## InventoryID, LanguageCode, LanguageName, Phoneme
@@ -226,7 +233,7 @@ if (!debug) rm(saphon_raw, saphon_ipa)
 
 ## combine into one data frame
 data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data,
-                          ra_data, gm_data, saphon_data, uz_data, ea_data)
+                          ra_data, gm_data, saphon_data, uz_data, ea_data, er_data)
 all_data <- do.call(rbind, data_sources_list)
 all_data <- all_data[with(all_data, order(LanguageCode, Source, InventoryID)),]
 
