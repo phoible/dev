@@ -54,7 +54,7 @@ saphon_ipa_path <- file.path(data_dir, "SAPHON", "saphon_ipa_correspondences.tsv
 ## Australian Phonologies inventory data. All columns are dense:
 cat("processing ER\n")
 er_raw <- read.delim(er_path, na.strings="", blank.lines.skip=FALSE)
-er_data <- validate_data(er_data, "er", debug=debug)
+er_data <- validate_data(er_raw, "er", debug=debug)
 if (!debug) rm(er_raw)
 
 ## Eurasian Phonologies inventory data. All columns are dense:
