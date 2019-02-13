@@ -204,7 +204,6 @@ make_typestring <- function(strings, ...) {
         if (is.na(string)) return(NA)
         chars <- strsplit(string, "")[[1]]
         codepts <- get_codepoints(chars)
-        codepts[codepts %in% "007C"] <- "|"  # upsid disjuncts
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
         codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
