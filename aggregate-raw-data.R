@@ -14,7 +14,7 @@ debug <- FALSE
 ## FILE PATHS
 data_dir <- file.path("raw-data")
 output_dir <- file.path("data")
-glotto_path <- file.path("mappings", "InventoryID-LanguageCodes.tsv")
+glotto_path <- file.path("mappings", "InventoryID-LanguageCodes.csv")
 output_path <- file.path(output_dir, "phoible-by-phoneme.csv")
 output_path_rdata <- file.path(output_dir, "phoible-by-phoneme.RData")
 if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
@@ -231,7 +231,7 @@ all_data <- do.call(rbind, data_sources_list)
 all_data <- all_data[with(all_data, order(LanguageCode, Source, InventoryID)),]
 
 ## MERGE IN GLOTTOLOG CODES
-glotto_mapping <- read.delim(glotto_path, sep='\t')
+glotto_mapping <- read.csv(glotto_path)
 glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode")]
 all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 
