@@ -42,7 +42,7 @@ spa_iso_path <- file.path(data_dir, "SPA", "SPA_LangNamesCodes.tsv")
 upsid_segments_path <- file.path(data_dir, "UPSID", "UPSID_Segments.tsv")
 upsid_lang_codes_path <- file.path(data_dir, "UPSID", "UPSID_LanguageCodes.tsv")
 upsid_ipa_path <- file.path(data_dir, "UPSID", "UPSID_IPA_correspondences.tsv")
-ra_path <- file.path(data_dir, "RA", "Ramaswami1999.tsv")
+ra_path <- file.path(data_dir, "RA", "Ramaswami1999.csv")
 saphon_path <- file.path(data_dir, "SAPHON", "saphon20121031.tsv")
 saphon_ipa_path <- file.path(data_dir, "SAPHON", "saphon_ipa_correspondences.tsv")
 
@@ -157,7 +157,7 @@ if (!debug) rm(upsid_ipa, upsid_segments, upsid_lang_codes)
 ## column headers, with boolean presence/absence indicators in the cells.
 ## There is an integer ID in the first column of the raw data.
 cat("processing RA\n")
-ra_raw <- read.delim(ra_path, na.strings="", quote="", as.is=TRUE, header=FALSE)
+ra_raw <- read.csv(ra_path, na.strings="", quote="", as.is=TRUE, header=FALSE)
 ra_data <- apply(ra_raw[4:nrow(ra_raw),], 1, function (i)
     data.frame(InventoryID=i[1], LanguageName=i[3], LanguageCode=i[4],
                Phoneme=c(t(ra_raw[2, 5:length(i)][as.logical(as.numeric(i[5:length(i)]))])),
