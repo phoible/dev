@@ -108,6 +108,12 @@ may phonemicize these as voiced/lenis stops or as taps/flaps (see Breen 1997
 for discussion). For cross-linguistic comparability, they are phonemicized here
 as tap/flaps.
 
+**editor's note:** The retroflex lateral flap that was originally represented
+as `ɺ̢` (`027A+0322`, the alveolar lateral flap + retroflex hook) in Dr.
+Round's data has been changed by the PHOIBLE editors to be represented as `ɺ̠̺`
+(`027A+0320+033A`, the alveolar lateral flap with retraction and apical
+diacritics).
+
 ## VOWEL LENGTH
 
 Most sources phonemicize long vowels as a single long vowel segment. Some
