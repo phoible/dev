@@ -951,7 +951,7 @@ InventoryID	Glottocode	LanguageCode	LanguageName	Phoneme
 2666	amar1271	amg	Amurdak	u
 2666	amar1271	amg	Amurdak	a
 2666	amar1271	amg	Amurdak	ɺ
-2666	amar1271	amg	Amurdak	ɺ̢
+2666	amar1271	amg	Amurdak	ɺ̠̺
 2666	amar1271	amg	Amurdak	ɣ
 2666	amar1271	amg	Amurdak	ɽ
 2667	marg1251	mhg	Marrgu	t
@@ -977,7 +977,7 @@ InventoryID	Glottocode	LanguageCode	LanguageName	Phoneme
 2667	marg1251	mhg	Marrgu	u
 2667	marg1251	mhg	Marrgu	a
 2667	marg1251	mhg	Marrgu	ɺ
-2667	marg1251	mhg	Marrgu	ɺ̢
+2667	marg1251	mhg	Marrgu	ɺ̠̺
 2667	marg1251	mhg	Marrgu	ɰ
 2667	marg1251	mhg	Marrgu	ɽ
 2668	wurr1238	wur	Wurrugu	t
@@ -1000,7 +1000,7 @@ InventoryID	Glottocode	LanguageCode	LanguageName	Phoneme
 2668	wurr1238	wur	Wurrugu	u
 2668	wurr1238	wur	Wurrugu	a
 2668	wurr1238	wur	Wurrugu	ɺ
-2668	wurr1238	wur	Wurrugu	ɺ̢
+2668	wurr1238	wur	Wurrugu	ɺ̠̺
 2668	wurr1238	wur	Wurrugu	ɰ
 2668	wurr1238	wur	Wurrugu	ɽ
 2669	maun1240	mph	Mawng	t
@@ -1046,7 +1046,7 @@ InventoryID	Glottocode	LanguageCode	LanguageName	Phoneme
 2670	gari1254	ilg	Garig	u
 2670	gari1254	ilg	Garig	a
 2670	gari1254	ilg	Garig	ɺ
-2670	gari1254	ilg	Garig	ɺ̢
+2670	gari1254	ilg	Garig	ɺ̠̺
 2670	gari1254	ilg	Garig	ɰ
 2670	gari1254	ilg	Garig	ɽ
 2671	ilga1238	ilg	Ilgar	t
@@ -1070,7 +1070,7 @@ InventoryID	Glottocode	LanguageCode	LanguageName	Phoneme
 2671	ilga1238	ilg	Ilgar	u
 2671	ilga1238	ilg	Ilgar	a
 2671	ilga1238	ilg	Ilgar	ɺ
-2671	ilga1238	ilg	Ilgar	ɺ̢
+2671	ilga1238	ilg	Ilgar	ɺ̠̺
 2671	ilga1238	ilg	Ilgar	ɰ
 2671	ilga1238	ilg	Ilgar	ɽ
 2672	iwai1244	ibd	Iwaidja	t
@@ -1093,7 +1093,7 @@ InventoryID	Glottocode	LanguageCode	LanguageName	Phoneme
 2672	iwai1244	ibd	Iwaidja	u
 2672	iwai1244	ibd	Iwaidja	a
 2672	iwai1244	ibd	Iwaidja	ɺ
-2672	iwai1244	ibd	Iwaidja	ɺ̢
+2672	iwai1244	ibd	Iwaidja	ɺ̠̺
 2672	iwai1244	ibd	Iwaidja	ɰ
 2672	iwai1244	ibd	Iwaidja	ɽ
 2673	miri1266	mep	Miriwoong	t
