@@ -1263,9 +1263,9 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	umb	umbundu		n				
 	umb	umbundu		ɲ				
 	umb	umbundu		ŋ				
-	umb	umbundu		h̃				
-	umb	umbundu		ṽ				
-	umb	umbundu		l̃				
+	umb	umbundu		h̃	relatively common; see Schadeberg 1982			
+	umb	umbundu		ṽ	very rare; Schadeberg 1982			
+	umb	umbundu		l̃	relatively common; see Schadeberg 1982			
 	umb	umbundu		w̃				
 	umb	umbundu		j̃				
 	umb	umbundu		i				
@@ -1532,7 +1532,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kck	Ikalanga		tʲ				
 	kck	Ikalanga		t̠ʃ				
 	kck	Ikalanga		<t̠ʃʼ>	marginal			
-	kck	Ikalanga		t̠ʃʱ				
+	kck	Ikalanga		d̠ʒ̤				
 	kck	Ikalanga		k				
 	kck	Ikalanga		kʰ				
 	kck	Ikalanga		ɡ				
@@ -1540,13 +1540,13 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kck	Ikalanga		bɡ				
 	kck	Ikalanga		ʔ				
 	kck	Ikalanga		pʰ				
-	kck	Ikalanga		pʱ				
+	kck	Ikalanga		b̤				
 	kck	Ikalanga		<ps>	marginal and suspicious			
 	kck	Ikalanga		<bz>	marginal and suspicious			
 	kck	Ikalanga		ts				
 	kck	Ikalanga		dz				
 	kck	Ikalanga		tsʰ				
-	kck	Ikalanga		tsʱ				
+	kck	Ikalanga		d̤z̤				
 	kck	Ikalanga		β				
 	kck	Ikalanga		f				
 	kck	Ikalanga		v				
@@ -1564,7 +1564,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kck	Ikalanga		j				
 	kck	Ikalanga		t̪ʰ				
 	kck	Ikalanga		tʰ				
-	kck	Ikalanga		tʱ				
+	kck	Ikalanga		d̤				
 	kck	Ikalanga		ɦ				
 	kck	Ikalanga		mb				
 	kck	Ikalanga		nd				
@@ -1575,7 +1575,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kck	Ikalanga		kʷ				
 	kck	Ikalanga		ɡʷ				
 	kck	Ikalanga		kʷʰ				
-	kck	Ikalanga		kʷʱ				
+	kck	Ikalanga		ɡ̤ʷ				
 	kck	Ikalanga		tsʷʰ				
 	kck	Ikalanga		dzʷ				
 	kck	Ikalanga		ŋʷ				
@@ -1588,7 +1588,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kck	Ikalanga		ʋ				
 	kck	Ikalanga		j				
 	kck	Ikalanga		w				
-	kck	Ikalanga		wʱ				
+	kck	Ikalanga		w̤				
 	kck	Ikalanga		˦				
 	kck	Ikalanga		˨				
 	kck	Ikalanga		˨˦				
