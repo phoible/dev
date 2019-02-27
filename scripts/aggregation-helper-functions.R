@@ -413,7 +413,7 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     clicks <- c("ʘ", "ǀ", "ǁ", "ǃ", "ǂ", "‼")
     affricates <- c("ʦ", "ʣ", "ʧ", "ʤ")
     implosives <- c("ƥ", "ɓ", "ƭ", "ɗ", "ᶑ", "ƈ", "ʄ", "ƙ", "ɠ", "ʠ", "ʛ")
-    approximants <- c("ʋ", "ɹ", "ɻ", "j", "ɥ", "ɰ", "l", "ɭ", "ʎ", "ʟ", "ɫ",
+    approximants <- c("ʋ", "ɹ", "ɻ", "j", "ɥ", "ɰ", "l", "ȴ", "ɭ", "ʎ", "ʟ", "ɫ",
                       "w")
     archephonemes <- c("R", "N")  # R = tap/trill; N = placeless nasal
     ## assign variables to the specified environment
