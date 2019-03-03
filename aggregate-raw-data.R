@@ -249,9 +249,9 @@ all_data$GlyphID <- get_codepoints(all_data$Phoneme)
 all_data$InventoryID <- as.numeric(all_data$InventoryID)
 
 ## SAVE
-output_fields <- c("InventoryID", "Glottocode", "LanguageCode", "LanguageName",
+output_fields <- c("InventoryID", "Glottocode", "LanguageName",
                    "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
-                   "Marginal", "Source")
+                   "Marginal", "SegmentClass", "Source")
 phoible <- all_data[output_fields]
 write.csv(phoible, file=output_path, row.names=FALSE, quote=TRUE, eol="\n",
           fileEncoding="UTF-8")

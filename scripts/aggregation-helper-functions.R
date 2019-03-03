@@ -58,7 +58,7 @@ collapse_allophones <- function (dataframe, split_col="InventoryID") {
 
 validate_data <- function(dataframe, source_id,
                           output_cols=c("Phoneme", "Allophones", "Marginal",
-                                        "InventoryID", "Source",
+                                        "SegmentClass", "InventoryID", "Source",
                                         "LanguageCode", "LanguageName",
                                         "SpecificDialect", "FileNames"),
                           debug=FALSE) {
@@ -81,6 +81,7 @@ validate_data <- function(dataframe, source_id,
     }
     dataframe$Phoneme <- order_ipa(dataframe$Phoneme)
     dataframe$Allophones <- order_ipa(dataframe$Allophones)
+    dataframe$SegmentClass <- assign_seg_class(dataframe$Phoneme)
     if(debug) {
         phonemes_canonical <- table(nchar(dataframe$Phoneme))
         allophones_canonical <- table(nchar(dataframe$Allophones))
@@ -113,6 +114,34 @@ validate_data <- function(dataframe, source_id,
     dataframe <- dataframe[!is.na(dataframe$Phoneme), output_cols]
     ## trim whitespace
     dataframe <- data.frame(lapply(dataframe, stringi::stri_trim_both))
+}
+
+
+assign_seg_class <- function(segment) {
+    create_glyph_type_variables(envir=environment())
+    consonants <- c(stops, nasals, fricatives, flaps, affricates, implosives,
+                    approximants, clicks, archephonemes)
+    # make the regex patterns
+    tone_pattern <- paste0("[", paste(tones, collapse=""), "]")
+    vowel_pattern <- paste0("[", paste(vowels, collapse=""), "]")
+    consonant_pattern <- paste0("[", paste(consonants, collapse=""), "]")
+    # detect the segment classes
+    is_null <- stri_detect_fixed(segment, pattern="∅")
+    is_tone <- stri_detect_regex(segment, pattern=tone_pattern)
+    is_vowel <- stri_detect_regex(segment, pattern=vowel_pattern)
+    is_consonant <- stri_detect_regex(segment, pattern=consonant_pattern)
+    # make sure full coverage
+    stopifnot(all(is_null | is_consonant | is_vowel | is_tone))
+    # make sure no overlaps
+    stopifnot(all((is_null + is_consonant + is_vowel + is_tone) == 1))
+    # populate vector
+    segment_class <- character(length(segment))
+    segment_class[is_null] <- "null"
+    segment_class[is_tone] <- "tone"
+    segment_class[is_vowel] <- "vowel"
+    segment_class[is_consonant] <- "consonant"
+    # return
+    segment_class
 }
 
 
