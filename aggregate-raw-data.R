@@ -232,10 +232,10 @@ if (!debug) rm(saphon_raw, saphon_ipa)
 ## ## ## ## ## ## ## ## ##
 
 ## combine into one data frame
-data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data,
-                          ra_data, gm_data, saphon_data, uz_data, ea_data, er_data)
+data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data, ra_data,
+                          gm_data, saphon_data, uz_data, ea_data, er_data)
 all_data <- do.call(rbind, data_sources_list)
-all_data <- all_data[with(all_data, order(LanguageCode, Source, InventoryID)),]
+all_data <- all_data[order(all_data$InventoryID),]
 
 ## MERGE IN GLOTTOLOG CODES
 glotto_mapping <- read.csv(glotto_path)
