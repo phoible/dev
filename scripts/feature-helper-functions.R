@@ -75,10 +75,15 @@ initialize_feat_vec <- function(feat_mat, zero=FALSE) {
     feat_vec
 }
 
-find_valued_feats <- function(feat_vec, ignore_cols) {
+find_valued_feats <- function(feat_vec, ignore_cols, keep_zeros=FALSE) {
     nonzero <- !feat_vec %in% "0"
     nonmissing <- !is.na(feat_vec)
-    valued <- which(nonzero & nonmissing)[-ignore_cols]
+    if (keep_zeros) {
+        valued <- which(nonmissing)[-ignore_cols]
+    } else {
+        valued <- which(nonzero & nonmissing)[-ignore_cols]
+    }
+    valued
 }
 
 

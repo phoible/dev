@@ -80,9 +80,10 @@ make_feat_vec_from_mat <- function(feat_mat) {
     ## easiest case: only 1 row, nothing to combine
     if (nrow(feat_mat) == 1) return(feat_mat)
     ## next easiest case: if there are undefined features for some components
-    if (any(is.na(feat_mat[feature_cols]))) {
-        return(initialize_feat_vec(feat_mat, zero=TRUE))
-    }
+    # TODO: uncomment after debugging contextual diacritics
+    #if (any(is.na(feat_mat[feature_cols]))) {
+    #    return(initialize_feat_vec(feat_mat, zero=TRUE))
+    #}
 
     ## KEEP TRACK OF BASE GLYPHS
     ## which row numbers are base glyphs? (for iteration)
@@ -182,8 +183,16 @@ apply_diacritic_features <- function(feat_mat, feat_vec, ignore_cols,
     ## where there are multiple base glyphs that we don't want to combine
     ## algorithmically (affricates, doubly-articulated stops, etc)
 
+    ## contextual diacritics; value depends on base glyph
+    contextuals <- c("031D",  # uptack
+                     "031E",  # downtack
+                     "031F",  # advanced
+                     "0308",  # midcentralized
+                     "0353",  # frictionalized
+                     "0339",  # more rounded
+                     "031C")  # less rounded
     ## append/replace features based on diacritics/modifiers
-    for (row in 1:nrow(feat_mat)) {
+    for (row in row.names(feat_mat)) {
         vec <- feat_mat[row,]
         glyph_type <- vec["GlyphType"]
         ## which features are valued for this diacritic?
@@ -195,16 +204,24 @@ apply_diacritic_features <- function(feat_mat, feat_vec, ignore_cols,
         if (row < base_row_nums[1]) {
             feat_vec[feature_cols] <- paste(vec[feature_cols],
                                             feat_vec[feature_cols], sep=",")
-            ## diacritics & modifier letters (overwrite base feat vals)
+        ## diacritics & modifier letters (overwrite base feat vals)
         } else if (glyph_type %in% c("D", "M")) {
-            ## skip the retraction diacritic on t
+            ## get the most recent base row
             most_recent_base_row <- rev(base_row_nums[base_row_nums < row])[1]
-            most_recent_base <- feat_mat[most_recent_base_row, "segment"]
+            # convert it to a string because it's a row name, not an index
+            most_recent_base <- feat_mat[as.character(most_recent_base_row),
+                                         "segment"]
+            ## skip the retraction diacritic on t
             if (most_recent_base %in% "t" && vec$segment == "̠") next
+            ## handle contextual diacritics
+            if (vec$GlyphID %in% contextuals) {
+                vec <- handle_contextual_diacritics(vec, most_recent_base)
+                valued <- find_valued_feats(vec, ignore_cols, keep_zeros=TRUE)
+            }
             ## overwrite base feat vals
             feat_vec[valued] <- overwrite_last_feat_val(feat_vec[valued],
                                                         vec[valued])
-            ## contour modifier letters
+        ## contour modifier letters
         } else if (glyph_type %in% "C") {
             feat_vec[valued] <- paste(feat_vec[valued], vec[valued], sep=",")
         } else {
@@ -213,6 +230,202 @@ apply_diacritic_features <- function(feat_mat, feat_vec, ignore_cols,
         }
     }
     return(feat_vec)
+}
+
+
+handle_contextual_diacritics <- function(vec, base_glyph) {
+    create_glyph_type_variables(envir=environment())
+    # uptack
+    if (vec$GlyphID %in% "031D") {
+        if (base_glyph %in% c("ɹ", "r")) {
+            # make it fricative-like, but not strident
+            vec$delayedRelease <- "+"
+        }
+        else if (base_glyph %in% "ʕ") {
+            # TODO: here we make it a stop... that's supposed to be impossible
+            vec$continuant <- "-"
+            vec$delayedRelease <- "-"
+        }
+        else if (base_glyph %in% c("æ", "a", "ɶ", "ɑ", "ɒ")) {
+            # ambiguous between open and mid-open
+            vec$low <- "0"
+        }
+        else if (base_glyph %in% c("e", "o", "ɘ", "ɵ", "ø", "ɤ")) {
+            # TODO: this is not great
+            vec$high <- "0"
+        }
+        else if (base_glyph %in% c("ɪ", "ɛ", "ɔ", "œ", "ʌ")) {
+            # ambiguous between close and mid-close (ɪ)
+            # or between mid-close and mid-open (ɛ, ɔ, œ, ʌ)
+            vec$tense <- "0"
+        }
+        else if (base_glyph %in% c("i", "y", "ɨ", "ʉ", "ɯ", "u")) {
+            # TODO: this is vacuous
+            vec$high <- "+"
+        }
+    }
+    # downtack
+    else if (vec$GlyphID %in% "031E") {
+        if (base_glyph %in% c("ŋ", "d")) {
+            # downtack turns stop/nasal into "non-continuant fricative"
+            vec$delayedRelease <- "+"
+        }
+        else if (base_glyph %in% c("β", "ð", "z", "ʝ", "ʁ")) {
+            # downtack turns voiced fricative into approximant
+            vec$consonantal <- "-"
+            vec$sonorant <- "+"
+            vec$delayedRelease <- "0"
+            vec$approximant <- "+"
+        }
+        else if (base_glyph %in% c("ɸ", "ʃ")) {
+            # downtack turns voiceless fricative into non-sonorant-approximant?
+            vec$approximant <- "+"
+        }
+        else if (base_glyph %in% c("ɾ")) {
+            # assuming this means the flap doesn't hit the passive articulator
+            vec$tap <- "0"
+        }
+        else if (base_glyph %in% c("w")) {
+            # make it like an approximant version of ʊ
+            vec$tense <- "-"
+        }
+        else if (base_glyph %in% c("e", "o", "ɘ", "ɵ", "ø", "ɤ",
+                              "i", "u", "ɨ", "ʉ", "ɯ", "y")) {
+            # ambiguous between mid-close and mid-open (e o ɘ ɵ ø ɤ)
+            # or between close and mid-close (i u ɨ ʉ ɯ y)
+            vec$tense <- "0"
+        }
+        else if (base_glyph %in% c("ɪ", "ʊ")) {
+            # between ɪ and ɛ
+            vec$high <- "0"
+        }
+        else if (base_glyph %in% c("ɛ", "œ", "ə", "ɜ", "ɞ", "ʌ", "ɔ")) {
+            # between mid-open and open
+            vec$low <- "0"
+        }
+        else if (base_glyph %in% c("æ", "a")) {
+            # TODO: assigning +low is vacuous; little else makes sense ???
+            vec$low <- "+"
+        }
+    }
+    # advanced
+    else if (vec$GlyphID %in% "031F") {
+        if (base_glyph %in% "ⱱ") {
+            # presumably a bilabial flap?
+            vec$labiodental <- "-"
+        }
+        else if (base_glyph %in% c("ɨ", "ʉ", "ɘ", "ɵ", "ə", "ɐ", "a")) {
+            # in between central and front
+            vec$front <- "0"
+        }
+        else if (base_glyph %in% c("ɯ", "u", "ʊ", "ɤ", "o", "ʌ", "ɔ", "ɑ", "ɒ")) {
+            # in between back and central
+            vec$back <- "0"
+        }
+        else if (base_glyph %in% c("c", "ɟ", "ç", "ʝ", "ʎ", "ɲ")) {
+            # collapses c -> ȶ, ʎ -> ȴ, ɲ -> ȵ
+            vec$anterior <- "+"
+        }
+        else if (base_glyph %in% c("j")) {
+            # like the other palatals, but we need to add +coronal
+            # TODO: this leaves 0distributed and 0strident alone...
+            vec$coronal <- "+"
+            vec$anterior <- "+"
+        }
+        else if (base_glyph %in% c("ʈ", "ɖ", "ɳ", "ɭ", "ɻ")) {
+            # between retroflex and alveolar
+            vec$anterior <- "0"
+        }
+        else if (base_glyph %in% c("t", "d", "s", "z", "l", "r", "ɕ", "ʑ",
+                              "ʃ", "ʒ")) {
+            # TODO: assigning +anterior is vacuous; should this just be dental ???
+            # TODO: for ʃ and ʒ this yields the same as s̪ or z̪
+            vec$anterior <- "+"
+        }
+        else if (base_glyph %in% c("k", "ɡ", "x", "ɣ", "ŋ")) {
+            # fronted velar
+            vec$front <- "+"
+        }
+    }
+    # mid-centralized
+    else if (vec$GlyphID %in% "0308") {
+        if (base_glyph %in% c("ɪ")) {
+            vec$high <- "0"
+            vec$front <- "0"
+        }
+        else if (base_glyph %in% c("i")) {
+            vec$high <- "0"
+            vec$front <- "0"
+            vec$tense <- "0"
+        }
+        else if (base_glyph %in% "ʊ") {
+            vec$high <- "0"
+            vec$back <- "0"
+        }
+        else if (base_glyph %in% "o") {
+            vec$back <- "0"
+            vec$tense <- "0"
+        }
+        else if (base_glyph %in% c("u", "w")) {
+            vec$high <- "0"
+            vec$back <- "0"
+            vec$tense <- "0"
+        }
+        else if (base_glyph %in% "e") {
+            vec$front <- "0"
+            vec$tense <- "0"
+        }
+        else if (base_glyph %in% "a") {
+            vec$low <- "0"
+        }
+        else if (base_glyph %in% "ɑ") {
+            vec$low <- "0"
+            vec$back <- "0"
+        }
+    }
+    # frictionalized
+    else if (vec$GlyphID %in% "0353") {
+        if (base_glyph %in% c("ɭ", "ʟ", "r", "ɾ")) {
+            vec$delayedRelease <- "+"
+        }
+        else if (base_glyph %in% vowels) {
+            # TODO: not sure delrel is the right thing to do for vowels...
+            vec$delayedRelease <- "+"
+        }
+        else if (base_glyph %in% clicks) {
+            # TODO: is +strident better?
+            vec$delayedRelease <- "+"
+        }
+    }
+    # more rounded
+    else if (vec$GlyphID %in% "0339") {
+        if (base_glyph %in% c("i", "ɪ", "e", "ɛ", "æ", "a", "ɨ", "ɘ", "ɜ",
+                              "ɯ", "ɤ", "ʌ", "ɑ", "ə", "z", "ʐ")) {
+            # "more round" when unround means half-round, I guess
+            vec$round <- "0"
+        }
+        else if (base_glyph %in% c("y", "ʏ", "ø", "œ", "ɶ", "ʉ", "ɵ", "ɞ", "ɐ",
+                              "u", "ʊ", "o", "ɔ", "ɒ")) {
+            # TODO: "more round" when already round ???
+            vec$round <- "+"
+        }
+    }
+    # less rounded
+    else if (vec$GlyphID %in% "031C") {
+        if (base_glyph %in% c("i", "ɪ", "e", "ɛ", "æ", "a", "ɨ", "ɘ", "ɜ",
+                              "ɯ", "ɤ", "ʌ", "ɑ")) {
+            # "less round" when already unround must mean lip-compressed?
+            vec$labial <- "+"
+            vec$round <- "-"
+            vec$labiodental <- "-"
+        }
+        else if (base_glyph %in% c("y", "ʏ", "ø", "œ", "ɶ", "ʉ", "ɵ", "ɞ", "ɐ",
+                              "u", "ʊ", "o", "ɔ", "ɒ", "w")) {
+            # "less round" when round is ambiguously round
+            vec$round <- "0"
+        }
+    }
+    vec
 }
 
 
@@ -234,7 +447,10 @@ foo <- apply(is.na(all_feats[,feature_cols]), 1, any)
 missing_feats <- all_feats[which(foo),]
 
 missing_feats %>% distinct(segment, GlyphID, .keep_all=TRUE) %>%
-    select(segment, GlyphID, feature_cols) %>%
+    select(segment, GlyphID, feature_cols) -> missing_feats_summary
+
+# TODO: why are there NA segments that have legit GlyphIDs?
+missing_feats_summary %>% filter(!is.na(segment)) %>%
     write.csv(file=file.path("..", "data", "glyphs-with-na-feats.csv"),
               row.names=FALSE, quote=FALSE)
 
