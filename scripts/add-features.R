@@ -451,9 +451,9 @@ phoible <- merge(phoible_nofeats, unique_feats, by="GlyphID", all.x=TRUE,
 phoible <- phoible[with(phoible, order(InventoryID, Phoneme)),]
 
 ## CLEAN UP COLUMNS
-output_cols <- c("InventoryID", "Glottocode", "LanguageName", "SpecificDialect",
-                 "GlyphID", "Phoneme", "Allophones", "Marginal", "SegmentClass",
-                 "Source", feature_colnames)
+output_cols <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
+                 "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
+                 "Marginal", "SegmentClass", "Source", feature_colnames)
 phoible <- phoible[output_cols]
 
 ## SAVE

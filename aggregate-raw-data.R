@@ -239,7 +239,7 @@ all_data <- all_data[order(all_data$InventoryID),]
 
 ## MERGE IN GLOTTOLOG CODES
 glotto_mapping <- read.csv(glotto_path)
-glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode")]
+glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode", "ISO6393")]
 all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 
 ## ADD GLYPH IDs
@@ -249,7 +249,7 @@ all_data$GlyphID <- get_codepoints(all_data$Phoneme)
 all_data$InventoryID <- as.integer(all_data$InventoryID)
 
 ## SAVE
-output_fields <- c("InventoryID", "Glottocode", "LanguageName",
+output_fields <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
                    "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
                    "Marginal", "SegmentClass", "Source")
 phoible_nofeats <- all_data[output_fields]
