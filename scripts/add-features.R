@@ -187,7 +187,8 @@ apply_diacritic_features <- function(feat_mat, feat_vec, ignore_cols,
     contextuals <- c("031D",  # uptack
                      "031E",  # downtack
                      "031F",  # advanced
-                     "0308",  # midcentralized
+                     "0308",  # centralized
+                     "033D",  # midcentralized
                      "0353",  # frictionalized
                      "0339",  # more rounded
                      "031C")  # less rounded
@@ -348,39 +349,41 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
         }
     }
     # mid-centralized
+    else if (vec$GlyphID %in% "033D") {
+        if (base_glyph %in% "i") {
+            vec$high <- "0"
+            vec$front <- "0"
+            vec$tense <- "0"
+        } else if (base_glyph %in% c("u", "ɯ")) {
+            vec$high <- "0"
+            vec$back <- "0"
+            vec$tense <- "0"
+        } else if (base_glyph %in% "ʊ") {
+            vec$high <- "0"
+            vec$back <- "0"
+        } else if (base_glyph %in% "ɔ") {
+            vec$back <- "0"
+        }
+    }
+    # centralized
     else if (vec$GlyphID %in% "0308") {
         if (base_glyph %in% c("ɪ")) {
-            vec$high <- "0"
             vec$front <- "0"
         }
-        else if (base_glyph %in% c("i")) {
-            vec$high <- "0"
+        else if (base_glyph %in% c("ʊ", "ɑ")) {
+            vec$back <- "0"
+        }
+        else if (base_glyph %in% c("i", "e")) {
             vec$front <- "0"
             vec$tense <- "0"
         }
-        else if (base_glyph %in% "ʊ") {
-            vec$high <- "0"
+        else if (base_glyph %in% c("o", "u", "w")) {
             vec$back <- "0"
-        }
-        else if (base_glyph %in% "o") {
-            vec$back <- "0"
-            vec$tense <- "0"
-        }
-        else if (base_glyph %in% c("u", "w")) {
-            vec$high <- "0"
-            vec$back <- "0"
-            vec$tense <- "0"
-        }
-        else if (base_glyph %in% "e") {
-            vec$front <- "0"
             vec$tense <- "0"
         }
         else if (base_glyph %in% "a") {
-            vec$low <- "0"
-        }
-        else if (base_glyph %in% "ɑ") {
-            vec$low <- "0"
-            vec$back <- "0"
+            # vacuous; already central in our feat. sys.
+            vec$front <- "-"
         }
     }
     # frictionalized
