@@ -246,7 +246,7 @@ all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 all_data$GlyphID <- get_codepoints(all_data$Phoneme)
 
 ## CONVERT INVENTORY ID TO INTEGER
-all_data$InventoryID <- as.numeric(all_data$InventoryID)
+all_data$InventoryID <- as.integer(all_data$InventoryID)
 
 ## SAVE
 output_fields <- c("InventoryID", "Glottocode", "LanguageName",
