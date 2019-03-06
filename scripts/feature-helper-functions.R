@@ -64,16 +64,18 @@ merge_disjunct_feat_vecs <- function(feat_vec_list) {
 }
 
 
-initialize_feat_vec <- function(feat_mat, zero=FALSE) {
-    feat_vec <- feat_mat[1,]
+initialize_feat_vec <- function(feat_mat, feature_colnames, rownum=1,
+                                zero=FALSE) {
+    feat_vec <- feat_mat[rownum,]
     feat_vec$GlyphID <- paste(feat_mat$GlyphID, collapse="+")
     feat_vec$GlyphType <- paste(feat_mat$GlyphType, collapse="")
     feat_vec$segment <- paste(feat_mat$segment, collapse="")
     if (zero) {
-        feat_vec[which(colnames(feat_mat) == "tone"):ncol(feat_mat)] <- NA_character_
+        feat_vec[which(colnames(feat_mat) %in% feature_colnames)] <- NA_character_
     }
     feat_vec
 }
+
 
 find_valued_feats <- function(feat_vec, ignore_cols, keep_zeros=FALSE) {
     nonzero <- !feat_vec %in% "0"
