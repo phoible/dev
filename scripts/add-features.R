@@ -18,7 +18,7 @@ source("aggregation-helper-functions.R")
 source("feature-helper-functions.R")
 
 ## LOAD PHONEME DATA
-load(file.path("..", "data", "phoible-by-phoneme.RData"))
+load(file.path("..", "data", "phoible-nofeats.RData"))
 
 ## LOAD FEATURE TABLES
 feats <- read.csv(file.path("..", "raw-data", "FEATURES",
@@ -433,18 +433,25 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
 
 
 ## BUILD FEATURES
-unique_glyphs <- unique(phoible$GlyphID)
+unique_glyphs <- unique(phoible_nofeats$GlyphID)
 unique_feats <- do.call(rbind, lapply(unique_glyphs, build_features_from_id))
 ## MERGE IN FEATURES
-all_feats <- merge(phoible, unique_feats, by="GlyphID", all.x=TRUE, all.y=FALSE)
-all_feats <- all_feats[with(all_feats, order(InventoryID, Phoneme)),]
+phoible <- merge(phoible_nofeats, unique_feats, by="GlyphID", all.x=TRUE,
+                 all.y=FALSE)
+phoible <- phoible[with(phoible, order(InventoryID, Phoneme)),]
+
+## CLEAN UP COLUMNS
+output_cols <- c("InventoryID", "Glottocode", "LanguageName", "SpecificDialect",
+                 "GlyphID", "Phoneme", "Allophones", "Marginal", "SegmentClass",
+                 "Source", feature_colnames)
+phoible <- phoible[output_cols]
+
 ## SAVE
-basename <- "phoible-by-phoneme-with-feats"
-csv_path <- file.path("..", "data", "phoible-by-phoneme-with-feats.csv")
-rda_path <- file.path("..", "data", "phoible-by-phoneme-with-feats.RData")
-write.csv(all_feats, file=csv_path, row.names=FALSE, quote=TRUE, eol="\n",
+csv_path <- file.path("..", "data", "phoible.csv")
+rda_path <- file.path("..", "data", "phoible.RData")
+write.csv(phoible, file=csv_path, row.names=FALSE, quote=TRUE, eol="\n",
           fileEncoding="UTF-8")
-save(all_feats, file=rda_path)
+save(phoible, file=rda_path)
 
 ## RESET GLOBAL OPTIONS
 options(stringsAsFactors=saf)
