@@ -243,7 +243,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             vec$delayedRelease <- "+"
         }
         else if (base_glyph %in% "ʕ") {
-            # TODO: here we make it a stop... that's supposed to be impossible
+            # here we make it a stop... that's supposed to be impossible
             vec$continuant <- "-"
             vec$delayedRelease <- "-"
         }
@@ -252,7 +252,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             vec$low <- "0"
         }
         else if (base_glyph %in% c("e", "o", "ɘ", "ɵ", "ø", "ɤ")) {
-            # TODO: this is not great
+            # this is not great...
             vec$high <- "0"
         }
         else if (base_glyph %in% c("ɪ", "ɛ", "ɔ", "œ", "ʌ")) {
@@ -261,7 +261,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             vec$tense <- "0"
         }
         else if (base_glyph %in% c("i", "y", "ɨ", "ʉ", "ɯ", "u")) {
-            # TODO: this is vacuous
+            # this is vacuous
             vec$high <- "+"
         }
     }
@@ -305,7 +305,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             vec$low <- "0"
         }
         else if (base_glyph %in% c("æ", "a")) {
-            # TODO: assigning +low is vacuous; little else makes sense ???
+            # assigning +low is vacuous; little else makes sense ???
             vec$low <- "+"
         }
     }
@@ -329,7 +329,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
         }
         else if (base_glyph %in% c("j")) {
             # like the other palatals, but we need to add +coronal
-            # TODO: this leaves 0distributed and 0strident alone...
+            # this leaves 0distributed and 0strident alone...
             vec$coronal <- "+"
             vec$anterior <- "+"
         }
@@ -339,8 +339,8 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
         }
         else if (base_glyph %in% c("t", "d", "s", "z", "l", "r", "ɕ", "ʑ",
                               "ʃ", "ʒ")) {
-            # TODO: assigning +anterior is vacuous; should this just be dental ???
-            # TODO: for ʃ and ʒ this yields the same as s̪ or z̪
+            # assigning +anterior is vacuous; should this just be dental ???
+            # for ʃ and ʒ this yields the same as s̪ or z̪
             vec$anterior <- "+"
         }
         else if (base_glyph %in% c("k", "ɡ", "x", "ɣ", "ŋ")) {
@@ -392,11 +392,11 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             vec$delayedRelease <- "+"
         }
         else if (base_glyph %in% vowels) {
-            # TODO: not sure delrel is the right thing to do for vowels...
+            # not sure delrel is the right thing to do for vowels...
             vec$delayedRelease <- "+"
         }
         else if (base_glyph %in% clicks) {
-            # TODO: is +strident better?
+            # would +strident be better?
             vec$delayedRelease <- "+"
         }
     }
@@ -409,7 +409,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
         }
         else if (base_glyph %in% c("y", "ʏ", "ø", "œ", "ɶ", "ʉ", "ɵ", "ɞ", "ɐ",
                               "u", "ʊ", "o", "ɔ", "ɒ")) {
-            # TODO: "more round" when already round ???
+            # vacuous: "more round" when already round
             vec$round <- "+"
         }
     }
@@ -417,14 +417,14 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
     else if (vec$GlyphID %in% "031C") {
         if (base_glyph %in% c("i", "ɪ", "e", "ɛ", "æ", "a", "ɨ", "ɘ", "ɜ",
                               "ɯ", "ɤ", "ʌ", "ɑ")) {
-            # "less round" when already unround must mean lip-compressed?
+            # "less round" when already unround must mean lip-compressed (?)
             vec$labial <- "+"
             vec$round <- "-"
             vec$labiodental <- "-"
         }
         else if (base_glyph %in% c("y", "ʏ", "ø", "œ", "ɶ", "ʉ", "ɵ", "ɞ", "ɐ",
                               "u", "ʊ", "o", "ɔ", "ɒ", "w")) {
-            # "less round" when round is ambiguously round
+            # "less round" when round is "ambiguously round"
             vec$round <- "0"
         }
     }
