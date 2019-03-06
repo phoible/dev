@@ -6,6 +6,10 @@ This source is cited as:
 
 > Nikolaev, Dmitry; Andrey Nikulin; and Anton Kukhto. 2015. The database of Eurasian phonological inventories. Available online at [http://eurasianphonology.info/](http://eurasianphonology.info/).
 
+See also:
+
+> Nikolaev, Dmitry. 2018. The Database of Eurasian Phonological Inventories: A research tool for distributional phonological typology. _Linguistics Vanguard_, 4(1). DOI: [DOI: https://doi.org/10.1515/lingvan-2017-0050](DOI: https://doi.org/10.1515/lingvan-2017-0050).
+
 The raw data and source code are available at: [https://github.com/macleginn/eurasian-phonologies](https://github.com/macleginn/eurasian-phonologies).
 
 `EA` contains a fresh take on phonological inventories from Eurasia. The data were extracted from grammatical descriptions of individual language varieties. It contains only phonemes, with no information on allophones or linguistic tone.
