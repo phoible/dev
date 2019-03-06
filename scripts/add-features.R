@@ -429,61 +429,19 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
 }
 
 
+## BUILD FEATURES
 unique_glyphs <- unique(phoible$GlyphID)
 unique_feats <- do.call(rbind, lapply(unique_glyphs, build_features_from_id))
+## MERGE IN FEATURES
 all_feats <- merge(phoible, unique_feats, by="GlyphID", all.x=TRUE, all.y=FALSE)
 all_feats <- all_feats[with(all_feats, order(InventoryID, Phoneme)),]
-save(all_feats, file=file.path("..", "data", "phoible-by-phoneme-with-feats.RData"))
+## SAVE
+basename <- "phoible-by-phoneme-with-feats"
+csv_path <- file.path("..", "data", "phoible-by-phoneme-with-feats.csv")
+rda_path <- file.path("..", "data", "phoible-by-phoneme-with-feats.RData")
+write.csv(all_feats, file=csv_path, row.names=FALSE, quote=TRUE, eol="\n",
+          fileEncoding="UTF-8")
+save(all_feats, file=rda_path)
 
 ## RESET GLOBAL OPTIONS
 options(stringsAsFactors=saf)
-
-################################################################################
-## BASIC TEST
-################################################################################
-library(dplyr)
-feature_cols <- which(colnames(all_feats) == "tone"):ncol(all_feats)
-foo <- apply(is.na(all_feats[,feature_cols]), 1, any)
-missing_feats <- all_feats[which(foo),]
-
-missing_feats %>% distinct(segment, GlyphID, .keep_all=TRUE) %>%
-    select(segment, GlyphID, feature_cols) -> missing_feats_summary
-
-# TODO: why are there NA segments that have legit GlyphIDs?
-missing_feats_summary %>% filter(!is.na(segment)) %>%
-    write.csv(file=file.path("..", "data", "glyphs-with-na-feats.csv"),
-              row.names=FALSE, quote=FALSE)
-
-stop()
-################################################################################
-## OTHER TESTS
-################################################################################
-
-## COMPUTE MISMATCHES BETWEEN LOOKED-UP AND AUTOBUILT FEATURES
-segfeat <- read.delim(file.path("..", "raw-data", "FEATURES",
-                                "phoible-segments-features.tsv"))
-phoible %>% distinct(Phoneme, GlyphID) %>%
-            merge(segfeat, by.x="Phoneme", by.y="segment") -> orig
-all_feats %>% distinct(Phoneme=segment, GlyphID, .keep_all=TRUE) %>%
-              filter(!is.na(tone)) -> built
-
-baz <- intersect(orig$Phoneme, built$Phoneme)
-feat_cols <- colnames(orig)[(which(colnames(orig) == "tone")):ncol(orig)]
-feat_cols <- c("Phoneme", "GlyphID", feat_cols)
-
-orig %>% filter(Phoneme %in% baz) %>% arrange(Phoneme) %>% select(feat_cols) -> orig
-built %>% filter(segment %in% baz) %>% arrange(segment) %>% select(feat_cols) -> built
-
-#all.equal(orig, built)
-
-mismatch.orig <- orig[which(apply(orig != built, 1, all)),]
-mismatch.built <- built[which(apply(orig != built, 1, all)),]
-
-stop()
-
-for(diacr in c("031C", "O31D", "031E", "031F", "0353")) {
-    foo <- mismatch.built$Phoneme[stri_detect_fixed(mismatch.built$GlyphID, diacr)]
-    bar <- unique(phoible$Phoneme[stri_detect_fixed(phoible$GlyphID, diacr)])
-    cat(paste(foo, collapse=""), "/n")
-    cat(paste(bar, collapse=""), "/n")
-}
