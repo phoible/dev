@@ -30,6 +30,23 @@ get_glyph_type_from_codepoint <- function(codepoint) {
 }
 
 
+simplify_contour_feats <- function(feat_vec) {
+    feat_vec <- sapply(feat_vec, simplify_contour_feat)
+    vecs <- sapply(feat_vec, strsplit, ",")
+    lens <- sapply(vecs, length)
+    unique_lens <- sapply(vecs, function(i) length(unique(i)))
+    ## remove zeros from:
+    ## "0,-"  "-,0"  "0,0,-"  "-,0,0"  "0,-,0"  "0,-,-"  "-,-,0"  "-,0,-"
+    ## (and same for +)
+    to_simp <- (unique_lens == 2) & sapply(vecs, function(i) "0" %in% i)
+    if (any(to_simp)) {
+        simp <- sapply(vecs, function(i) paste(i[!i %in% "0"], collapse=","))
+        feat_vec[to_simp] <- sapply(simp[to_simp], simplify_contour_feat)
+    }
+    feat_vec
+}
+
+
 simplify_contour_feat <- function(feat_val) {
     if (length(unique(stri_split_fixed(feat_val, pattern=",")[[1]])) == 1) {
         return(stri_sub(feat_val, from=1, to=1))
@@ -81,11 +98,11 @@ find_valued_feats <- function(feat_vec, ignore_cols, keep_zeros=FALSE) {
     nonzero <- !feat_vec %in% "0"
     nonmissing <- !is.na(feat_vec)
     if (keep_zeros) {
-        valued <- which(nonmissing)[-ignore_cols]
+        valued <- which(nonmissing)
     } else {
-        valued <- which(nonzero & nonmissing)[-ignore_cols]
+        valued <- which(nonzero & nonmissing)
     }
-    valued
+    setdiff(valued, ignore_cols)
 }
 
 

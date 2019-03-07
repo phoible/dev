@@ -6,7 +6,7 @@ library(stringi)  # for proper string handling & (de)normalization
 
 ## GLOBAL OPTIONS (restored at end)
 saf <- getOption("stringsAsFactors")
-options(stringsAsFactors=FALSE, width=132)
+options(stringsAsFactors=FALSE, width=132, warn=2)
 
 ## LOAD EXTERNAL HELPER FUNCTIONS
 ## provides: denorm, get_codepoints, order_ipa, make_typestring,
@@ -27,10 +27,8 @@ feature_colnames <- colnames(feats[-2:-1])
 
 special_feats <- read.csv(file.path("..", "raw-data", "FEATURES",
                           "special-feature-table.csv"))
-## prepend glyph type column to special feature table
-old_colnames <- colnames(special_feats)
+## add glyph type column to special feature table
 special_feats$GlyphType <- strrep("B", nchar(special_feats$segment))
-special_feats <- special_feats[c("GlyphType", old_colnames)]
 
 
 build_features_from_id <- function(glyph_id) {
@@ -49,6 +47,9 @@ build_features_from_id <- function(glyph_id) {
     ## get matrix of feature vectors for each glyph, in order
     feat_mat_list <- lapply(codepoint_list, get_feat_matrix_from_codepoints,
                             table=feats)
+    if (glyph_id %in% "0272+031F+0064+0291") {
+        NULL
+    }
     ## apply the workhorse function
     feat_vec_list <- lapply(feat_mat_list, make_feat_vec_from_mat)
     ## handle disjuncts
@@ -99,8 +100,11 @@ make_feat_vec_from_mat <- function(feat_mat) {
         }
         ## populate the feature vector from the special table
         feat_vec[feature_cols] <- base_vec[feature_cols]
-        return(apply_diacritic_features(feat_mat, feat_vec, base_row_nums,
-                                        ignore_cols, feature_cols))
+        feat_vec <- apply_diacritic_features(feat_mat, feat_vec, base_row_nums,
+                                             ignore_cols, feature_cols)
+        ## simplify
+        feat_vec[feature_cols] <- simplify_contour_feats(feat_vec[feature_cols])
+        return(feat_vec)
     }
 
     ## HANDLE TONEMES
@@ -111,7 +115,8 @@ make_feat_vec_from_mat <- function(feat_mat) {
             ## handle mixed (tonemes + laryngeal diacritics)
             for (row_num in 2:nrow(feat_mat)) {
                 post_vec <- feat_mat[row_num,]
-                nonzero <- setdiff(which(!post_vec %in% "0"), ignore_cols)
+                nonzero <- which(!is.na(post_vec) & !post_vec %in% "0")
+                nonzero <- setdiff(nonzero, ignore_cols)
                 zero <- which(feat_vec %in% "0")
                 overwrite <- intersect(zero, nonzero)
                 conflict <- setdiff(nonzero, zero)
@@ -138,7 +143,8 @@ make_feat_vec_from_mat <- function(feat_mat) {
     ## THE BULK OF CASES: ONE OR MORE BASE GLYPHS (BUT NOT IN SPECIAL CASE TABLE)
     feat_vecs <- list()
     for (num in seq_along(base_row_nums)) {
-        vec <- initialize_feat_vec(feat_mat, feature_colnames, rownum=num)
+        vec <- initialize_feat_vec(feat_mat, feature_colnames,
+                                   rownum=base_row_nums[num])
         ## include pre-modifiers if first base isn't in first row
         start <- ifelse((num == 1) && (base_row_nums[num] > 1),
                         1, base_row_nums[num])
@@ -168,8 +174,7 @@ make_feat_vec_from_mat <- function(feat_mat) {
                                                    pattern=",", replacement="+")
     }
     ## simplify
-    feat_vec[feature_cols] <- lapply(feat_vec[feature_cols],
-                                     simplify_contour_feat)
+    feat_vec[feature_cols] <- simplify_contour_feats(feat_vec[feature_cols])
     feat_vec
 }
 
@@ -195,11 +200,11 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
     for (row in row.names(feat_mat)) {
         vec <- feat_mat[row,]
         glyph_type <- vec["GlyphType"]
-        ## which features are valued for this diacritic?
-        valued <- find_valued_feats(vec, ignore_cols)
         ## skip base glyph rows, they're already incorporated within the
         ## special_feats table entry
         if (glyph_type %in% "B") next
+        ## which features are valued for this diacritic?
+        valued <- find_valued_feats(vec, ignore_cols)
         ## pre-modifiers
         if (row < base_row_nums[1]) {
             feat_vec[feature_cols] <- paste(vec[feature_cols],
