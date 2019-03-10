@@ -1,4 +1,4 @@
-"InventoryID","LanguageCode","Glottocode","LanguageName","Source"
+"InventoryID","ISO6393","Glottocode","LanguageName","Source"
 1,"kor","kore1280","Korean","spa"
 2,"ket","kett1243","Ket","spa"
 3,"lbe","lakk1252","Lak","spa"

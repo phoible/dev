@@ -15,8 +15,8 @@ debug <- FALSE
 data_dir <- file.path("raw-data")
 output_dir <- file.path("data")
 glotto_path <- file.path("mappings", "InventoryID-LanguageCodes.csv")
-output_path <- file.path(output_dir, "phoible-by-phoneme.csv")
-output_path_rdata <- file.path(output_dir, "phoible-by-phoneme.RData")
+output_path <- file.path(output_dir, "phoible-nofeats.csv")
+output_path_rdata <- file.path(output_dir, "phoible-nofeats.RData")
 if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
 
 ## LOAD EXTERNAL FUNCTIONS
@@ -232,30 +232,30 @@ if (!debug) rm(saphon_raw, saphon_ipa)
 ## ## ## ## ## ## ## ## ##
 
 ## combine into one data frame
-data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data,
-                          ra_data, gm_data, saphon_data, uz_data, ea_data, er_data)
+data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data, ra_data,
+                          gm_data, saphon_data, uz_data, ea_data, er_data)
 all_data <- do.call(rbind, data_sources_list)
-all_data <- all_data[with(all_data, order(LanguageCode, Source, InventoryID)),]
+all_data <- all_data[order(all_data$InventoryID),]
 
 ## MERGE IN GLOTTOLOG CODES
 glotto_mapping <- read.csv(glotto_path)
-glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode")]
+glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode", "ISO6393")]
 all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 
 ## ADD GLYPH IDs
 all_data$GlyphID <- get_codepoints(all_data$Phoneme)
 
 ## CONVERT INVENTORY ID TO INTEGER
-all_data$InventoryID <- as.numeric(all_data$InventoryID)
+all_data$InventoryID <- as.integer(all_data$InventoryID)
 
 ## SAVE
-output_fields <- c("InventoryID", "Glottocode", "LanguageCode", "LanguageName",
+output_fields <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
                    "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
-                   "Marginal", "Source")
-phoible <- all_data[output_fields]
-write.csv(phoible, file=output_path, row.names=FALSE, quote=TRUE, eol="\n",
-          fileEncoding="UTF-8")
-save(phoible, file=output_path_rdata)
+                   "Marginal", "SegmentClass", "Source")
+phoible_nofeats <- all_data[output_fields]
+write.csv(phoible_nofeats, file=output_path, row.names=FALSE, quote=TRUE,
+          eol="\n", fileEncoding="UTF-8")
+save(phoible_nofeats, file=output_path_rdata)
 ## WRITE LOG FILE
 if(exists("unfamiliar_glyphs")) {
     log_path <- file.path(output_dir, "unfamiliar-glyphs.csv")
