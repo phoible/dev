@@ -286,19 +286,14 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
         typstr <- strsplit(typestring, "")[[1]]
         string <- strsplit(strings[i], "")[[1]]
         lenstr <- length(string)
-        ## move tones to end
+        ## move tones to beginning
         if (stri_detect_fixed(typestring, "T")) {
-            ix <- stri_locate_first_fixed(typestring, "T")[1]
-            rightedge <- typstr[ix:lenstr]
-            while (ix < lenstr && !all(rightedge %in% "T")) {
-                if (ix == 1) neworder <- c(2:lenstr, 1)
-                else neworder <- c(1:(ix-1), (ix+1):lenstr, ix)
-                string <- string[neworder]
-                typstr <- typstr[neworder]
-                typestring <- paste(typstr, collapse="")
-                ix <- stri_locate_first_fixed(typestring, "T")[1]
-                rightedge <- typstr[ix:lenstr]
-            }
+            indices <- seq_len(lenstr)
+            tone_indices <- stri_locate_all_fixed(typestring, "T")[[1]][,"start"]
+            neworder <- c(tone_indices, setdiff(indices, tone_indices))
+            string <- string[neworder]
+            typstr <- typstr[neworder]
+            typestring <- paste(typstr, collapse="")
         }
         ## If a diacritic comes right after a modifier letter, swap their order
         while (stri_detect_fixed(typestring, "MD")) {
