@@ -286,19 +286,14 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
         typstr <- strsplit(typestring, "")[[1]]
         string <- strsplit(strings[i], "")[[1]]
         lenstr <- length(string)
-        ## move tones to end
+        ## move tones to beginning
         if (stri_detect_fixed(typestring, "T")) {
-            ix <- stri_locate_first_fixed(typestring, "T")[1]
-            rightedge <- typstr[ix:lenstr]
-            while (ix < lenstr && !all(rightedge %in% "T")) {
-                if (ix == 1) neworder <- c(2:lenstr, 1)
-                else neworder <- c(1:(ix-1), (ix+1):lenstr, ix)
-                string <- string[neworder]
-                typstr <- typstr[neworder]
-                typestring <- paste(typstr, collapse="")
-                ix <- stri_locate_first_fixed(typestring, "T")[1]
-                rightedge <- typstr[ix:lenstr]
-            }
+            indices <- seq_len(lenstr)
+            tone_indices <- stri_locate_all_fixed(typestring, "T")[[1]][,"start"]
+            neworder <- c(tone_indices, setdiff(indices, tone_indices))
+            string <- string[neworder]
+            typstr <- typstr[neworder]
+            typestring <- paste(typstr, collapse="")
         }
         ## If a diacritic comes right after a modifier letter, swap their order
         while (stri_detect_fixed(typestring, "MD")) {
@@ -365,55 +360,55 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     ## Order of elements in "diacritics" and "modifiers" sets canonical order!!
     modifiers <- c(
         "˞",  # rhotic wing
-        "ː",  # long
-        "ˑ",  # half-long
-        "ᴱ",  # epilaryngeal source
         "ⁿ",  # nasal release
         "ˡ",  # lateral release
-        "ʱ",  # breathy aspirated
-        "ʰ",  # aspirated
-        "˭",  # unaspirated
-        "ˀ",  # glottalized
-        "ˤ",  # pharyngealized
-        "ˠ",  # velarized
-        "ʲ",  # palatalized
         "ʷ",  # labialized
-        "ᶣ",  # labial-palatalized  # TODO: should use labial+palatal?
-        "ᵊ",  # schwa-like release # TODO: check what this really is
-        "ʼ"   # ejective
+        "ʲ",  # palatalized
+        "ᶣ",  # labial-palatalized
+        "ˠ",  # velarized
+        "ˤ",  # pharyngealized
+        "ˀ",  # glottalized
+        "ᵊ",  # schwa-like release
+        "ᴱ",  # epilaryngeal source
+        "ʰ",  # aspirated
+        "ʱ",  # breathy aspirated
+        ## NOT USED "˭",  # unaspirated
+        "ʼ",  # ejective
+        "ː",  # long
+        "ˑ"   # half-long
     )
     diacritics <- c(
         "̴",  # velarized/pharyngealized (combining tilde overlay)
-        "̃",  # nasalized (combining tilde)
-        "͊",  # denasalized (combining not tilde above)
-        "͋",  # nasal emission (combining homothetic)
-        "̮",  # derhoticized (combining breve below)
-        "̤",  # breathy (combining diaresis below)
-        "̰",  # creaky (combining tilde below)
-        "̬",  # stiff (combining caron below)
-        "͓",  # frictionalized (combining x below)
         "̼",  # linguolabial (combining seagull below)
         "̪",  # dental (combining bridge below)
         "̺",  # apical (combining inverted bridge below)
         "̻",  # laminal (combining square below)
-        "͇",  # non-sibilant (combining equals sign below)
-        "͈",  # fortis (combining double vertical line below)
-        "͉",  # lenis (combining left angle below)
-        "̙",  # retracted tongue root (combining right tack below)
-        "̘",  # advanced tongue root (combining left tack below)
-        "̞",  # lowered (combining down tack below)
-        "̝",  # raised (combining up tack below)
         "̟",  # advanced (combining plus sign below)
         "̠",  # retracted (combining minus sign below)
-        "̈",  # centralized (combining diaresis)
-        "̽",  # mid-centralized (combining x above)
+        "͇",  # non-sibilant (combining equals sign below)
+        "̝",  # raised (combining up tack below)
+        "̞",  # lowered (combining down tack below)
+        "̘",  # advanced tongue root (combining left tack below)
+        "̙",  # retracted tongue root (combining right tack below)
+        "͓",  # frictionalized (combining x below)
         "̹",  # more round (combining right half ring)
         "̜",  # less round (combining left half ring)
-        "̩",  # syllabic (combining vertical line below)
-        "̯",  # non-syllabic (combining inverted breve below)
-        "̆",  # short (combining breve)
+        ## NOT USED "̮",  # derhoticized (combining breve below)
+        "̰",  # creaky (combining tilde below)
+        "̤",  # breathy (combining diaresis below)
+        "̬",  # stiff (combining caron below)
         "̥",  # devoiced (combining ring below)
         "̊",  # devoiced (combining ring above)
+        "͈",  # fortis (combining double vertical line below)
+        "͉",  # lenis (combining left angle below)
+        "̆",  # short (combining breve)
+        "̩",  # syllabic (combining vertical line below)
+        "̯",  # non-syllabic (combining inverted breve below)
+        "̃",  # nasalized (combining tilde)
+        "͊",  # denasalized (combining not tilde above)
+        ## NOT USED "͋",  # nasal emission (combining homothetic)
+        "̈",  # centralized (combining diaresis)
+        "̽",  # mid-centralized (combining x above)
         "̚"   # unreleased (combining left angle above)
     )
     ## "contour_glyphs" are the modifiers & diacritics that create a contour
