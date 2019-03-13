@@ -2377,14 +2377,11 @@ InventoryID	LanguageCode	LanguageName	Segment
 2296	azj	North Azerbaijani (Shirvan)	ɑ
 2296	azj	North Azerbaijani (Shirvan)	o̞
 2296	azj	North Azerbaijani (Shirvan)	iː
-2296	azj	North Azerbaijani (Shirvan)	y
-2296	azj	North Azerbaijani (Shirvan)	ɯ
 2296	azj	North Azerbaijani (Shirvan)	uː
 2296	azj	North Azerbaijani (Shirvan)	e̞ː
 2296	azj	North Azerbaijani (Shirvan)	æː
 2296	azj	North Azerbaijani (Shirvan)	œ̞ː
 2296	azj	North Azerbaijani (Shirvan)	ɑː
-2296	azj	North Azerbaijani (Shirvan)	o̞
 2297	itl	Itelmen	p
 2297	itl	Itelmen	pʼ
 2297	itl	Itelmen	t̺
@@ -3358,7 +3355,6 @@ InventoryID	LanguageCode	LanguageName	Segment
 2318	kaa	Karakalpak	æ
 2318	kaa	Karakalpak	y
 2318	kaa	Karakalpak	ø̞
-2318	kaa	Karakalpak	ɯ̙
 2318	kaa	Karakalpak	ii̯
 2318	kaa	Karakalpak	ɯ̙i̯
 2318	kaa	Karakalpak	uu̯
@@ -4407,7 +4403,6 @@ InventoryID	LanguageCode	LanguageName	Segment
 2343	rue	Rusyn (Lemko)	d̪z̪
 2343	rue	Rusyn (Lemko)	t̪s̪
 2343	rue	Rusyn (Lemko)	z̪
-2343	rue	Rusyn (Lemko)	s̪
 2343	rue	Rusyn (Lemko)	d̪ʲ
 2343	rue	Rusyn (Lemko)	t̪ʲ
 2343	rue	Rusyn (Lemko)	r
@@ -4479,10 +4474,6 @@ InventoryID	LanguageCode	LanguageName	Segment
 2344	gvr	Gurung (Western)	ṳ
 2344	gvr	Gurung (Western)	ɛ̤
 2344	gvr	Gurung (Western)	ʌ̤
-2344	gvr	Gurung (Western)	ɔ̤
-2344	gvr	Gurung (Western)	i̤
-2344	gvr	Gurung (Western)	ṳ
-2344	gvr	Gurung (Western)	ɛ̤
 2344	gvr	Gurung (Western)	ɔ̤
 2344	gvr	Gurung (Western)	ɛ̤ː
 2344	gvr	Gurung (Western)	ʌ̤ː
@@ -10573,7 +10564,6 @@ InventoryID	LanguageCode	LanguageName	Segment
 2489	NA	Nangchenpa Tibetan	ʼʃ
 2489	NA	Nangchenpa Tibetan	m̥
 2489	NA	Nangchenpa Tibetan	n̥
-2489	NA	Nangchenpa Tibetan	ŋ̊
 2489	NA	Nangchenpa Tibetan	ŋ̊
 2489	NA	Nangchenpa Tibetan	ʼm
 2489	NA	Nangchenpa Tibetan	ʼn
