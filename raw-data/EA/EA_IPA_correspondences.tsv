@@ -994,10 +994,10 @@ rˤ	rˤ	NA	TRUE
 ɾʲ	ɾʲ	NA	TRUE
 ɾ̪ʲ	ɾ̪ʲ	NA	TRUE
 ɾ̥ʲ	ɾ̥ʲ	NA	TRUE
-ɿ	z̩	NA	TRUE
-ɿ̰	z̰̩	NA	FALSE
-ɿ̹	z̹̩	NA	FALSE
-ɿˠ	z̩ˠ	NA	FALSE
+ɿ	ɹ̪̩	NA	TRUE
+ɿ̰	ɹ̪̰̩	NA	FALSE
+ɿ̹	ɹ̪̹̩	NA	FALSE
+ɿˠ	ɹ̪̩ˠ	NA	FALSE
 ʁ	ʁ	NA	TRUE
 ʁ̞	ʁ̞	NA	TRUE
 ʁː	ʁː	NA	TRUE
@@ -1050,8 +1050,8 @@ s̪ˤ	s̪ˤ	NA	TRUE
 ʃʷ	ʃʷ	NA	TRUE
 ʃʼ	ʃʼ	NA	TRUE
 ʃ̞ʼ	ʃ̞ʼ	NA	FALSE
-ʅ	ʐ̩	NA	FALSE
-ʅ̹	ʐ̹̩	NA	FALSE
+ʅ	ɻ̩	NA	FALSE
+ʅ̹	ɻ̹̩	NA	FALSE
 t	t	NA	TRUE
 t̪	t̪	NA	TRUE
 t̺	t̺	NA	TRUE
