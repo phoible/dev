@@ -201,7 +201,7 @@ d̥ʲ	d̥ʲ	NA	FALSE
 ðʲ	ðʲ	NA	TRUE
 dʷ	dʷ	NA	TRUE
 dz	dz	NA	TRUE
-dẑ	dʑ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
+dẑ	d̠ʓ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
 dz̻	dz̻	NA	FALSE
 dz̺	dz̺	NA	FALSE
 d̪z	d̪z	NA	FALSE
@@ -218,7 +218,7 @@ dzʲ	dzʲ	NA	TRUE
 d̪ᶻʲ	d̪ʲ	probably marks frication	TRUE
 d̪z̪ʲ	d̪z̪ʲ	NA	TRUE
 d̥z̥ʲ	d̥z̥ʲ	NA	FALSE
-dẑʷ	dʑʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
+dẑʷ	d̠ʓʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
 dʐ	ɖʐ	conventionalized	TRUE
 dʑ	dʑ	NA	TRUE
 d̻ʑ̻	d̻ʑ̻	NA	FALSE
@@ -1005,7 +1005,7 @@ rˤ	rˤ	NA	TRUE
 ʁʷ	ʁʷ	NA	TRUE
 ʁˤ	ʁˤ	NA	TRUE
 s	s	NA	TRUE
-ŝ	ɕ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
+ŝ	ʆ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
 s̻	s̻	NA	TRUE
 s̪	s̪	NA	TRUE
 s͇	s͇	NA	FALSE
@@ -1026,12 +1026,12 @@ s̪ʲ	s̪ʲ	NA	TRUE
 sʲː	sːʲ	NA	FALSE
 sʲʰ	sʰʲ	NA	FALSE
 sʷ	sʷ	NA	TRUE
-ŝʷ	ɕʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
+ŝʷ	ʆʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
 s̪ʷ	s̪ʷ	NA	TRUE
 s̪ʷʲ	s̪ʲʷ	new segment type added	FALSE
 sʼ	sʼ	NA	TRUE
-ŝʼ	ɕʼ	NA	TRUE
-ŝʼʷ	ɕʷʼ	NA	FALSE
+ŝʼ	ʆʼ	NA	TRUE
+ŝʼʷ	ʆʷʼ	NA	FALSE
 sˤ	sˤ	NA	TRUE
 s̪ˤ	s̪ˤ	NA	TRUE
 ʂ	ʂ	NA	TRUE
@@ -1113,7 +1113,7 @@ t̺s̺ː	t̺s̺ː	NA	FALSE
 tsːʰ	tsːʰ	NA	TRUE
 tsːʼ	tsːʼ	NA	TRUE
 tsʰ	tsʰ	NA	TRUE
-tŝʰ	tɕʰ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
+tŝʰ	t̠ʆʰ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
 t̺s̺ʰ	t̺s̺ʰ	NA	FALSE
 t͇s͇ʰ	t͇s͇ʰ	NA	FALSE
 t̪s̪ʰ	t̪s̪ʰ	NA	TRUE
@@ -1126,13 +1126,13 @@ tsʲ	tsʲ	NA	TRUE
 t̪ˢʲ	t̪ʲ	probably marks frication	TRUE
 t̪s̪ʲ	t̪s̪ʲ	NA	TRUE
 tsʲː	tsːʲ	NA	FALSE
-tŝʷ	tɕʷ	NA	TRUE
+tŝʷ	t̠ʆʷ	NA	TRUE
 t̪s̪ʷ	t̪s̪ʷ	conventionalized	FALSE
-tŝʷʰ	tɕʰʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
+tŝʷʰ	t̠ʆʰʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
 t̪s̪ʷʲ	t̪s̪ʲʷ	new segment type added	FALSE
-tŝʷʼ	tɕʷʼ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
+tŝʷʼ	t̠ʆʷʼ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
 tsʼ	tsʼ	NA	TRUE
-tŝʼ	tɕ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
+tŝʼ	t̠ʆ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
 t̪s̪ʼ	t̪s̪ʼ	NA	TRUE
 t̺s̺ʼ	t̺s̺ʼ	NA	FALSE
 tsʼː	tsːʼ	NA	TRUE
@@ -1412,7 +1412,7 @@ yu̯	yu̯	NA	FALSE
 ʏ̃ː	ʏ̃ː	NA	FALSE
 ʏi̯	ʏi̯	NA	FALSE
 z	z	NA	TRUE
-ẑ	ʑ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
+ẑ	ʓ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
 z̩	z̩	NA	TRUE
 z͇	z͇	NA	TRUE
 z̠	z̠	NA	FALSE
@@ -1426,7 +1426,7 @@ zʲ	zʲ	NA	TRUE
 z̪ʲ	z̪ʲ	NA	TRUE
 zʲː	zːʲ	NA	FALSE
 zʷ	zʷ	NA	TRUE
-ẑʷ	ʑʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
+ẑʷ	ʓʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
 z̪ʷ	z̪ʷ	NA	TRUE
 zˤ	zˤ	NA	TRUE
 z̪ˤ	z̪ˤ	NA	TRUE
