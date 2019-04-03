@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/19120525.svg)](https://zenodo.org/badge/latestdoi/19120525)
+
 # PHOIBLE
 
 PHOIBLE is a database of phonological inventories and distinctive features,
