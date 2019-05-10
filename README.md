@@ -71,15 +71,15 @@ developmental challenges:
 > Moran, Steven. 2012. Phonetics Information Base and Lexicon. PhD thesis,
   University of Washington. http://hdl.handle.net/1773/22452
 
-Here is a brief list of some publications that have used PHOIBLE data:
+Here is a brief list of some publications that we have used PHOIBLE data for:
 
 - Blasi, Damián, Steven Moran, Scott Moisik, Paul Widmer, Dan Dediu,
-  & Balthasar Bickel (2019). Human sound systems are shaped by post-Neolithic
+  & Balthasar Bickel. 2019. Human sound systems are shaped by post-Neolithic
   changes in bite configuration. *Science* 363(6432), eaav3218.
-  doi:10.1126/science.aav3218
+  [doi:10.1126/science.aav3218](http://dx.doi.org/10.1126/science.aav3218)
 
 - Cysouw, Michael, Dan Dediu and Steven Moran. 2012. Still No Evidence for an
-  Ancient Language Expansion from Africa. *Science*, 335(6069):657.
+  Ancient Language Expansion from Africa. *Science*, 335(6069):657. [doi:10.1126/science.1208841](https://doi.org/10.1126/science.1208841)
 
 - Moran, Steven. 2012. Using Linked Data to Create a Typological Knowledge
   Base. In Christian Chiarcos, Sebastian Nordhoff and Sebastian Hellmann
@@ -87,9 +87,11 @@ Here is a brief list of some publications that have used PHOIBLE data:
   Data and Language Metadata*. Springer, Heidelberg.
 
 - Moran, Steven, Daniel McCloy, and Richard Wright. 2012. Revisiting
-  Population Size vs. Phoneme Inventory Size. *Language* 88(4): 877-893.
+  Population Size vs. Phoneme Inventory Size. *Language* 88(4): 877-893. [doi:10.1353/lan.2012.0087](https://doi.org/10.1353/lan.2012.0087)
 
 - Moran, Steven and Damián Blasi. 2014. Cross-linguistic Comparison of
   Complexity Measures in Phonological Systems. In Frederick J. Newmeyer and
   Laurel Preston (eds), *Measuring Grammatical Complexity*. Oxford UP,
   Oxford.
+
+A more complete list of research papers using PHOIBLE can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576981116309388928&as_sdt=5).
