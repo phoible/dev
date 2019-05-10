@@ -71,10 +71,10 @@ developmental challenges:
 > Moran, Steven. 2012. Phonetics Information Base and Lexicon. PhD thesis,
   University of Washington. http://hdl.handle.net/1773/22452
 
-Here is a brief list of some publications that have used PHOIBLE data:
+Here is a brief list of some publications that we have used PHOIBLE data for:
 
 - Blasi, Damián, Steven Moran, Scott Moisik, Paul Widmer, Dan Dediu,
-  & Balthasar Bickel (2019). Human sound systems are shaped by post-Neolithic
+  & Balthasar Bickel. 2019. Human sound systems are shaped by post-Neolithic
   changes in bite configuration. *Science* 363(6432), eaav3218.
   [doi:10.1126/science.aav3218](http://dx.doi.org/10.1126/science.aav3218)
 
@@ -94,4 +94,4 @@ Here is a brief list of some publications that have used PHOIBLE data:
   Laurel Preston (eds), *Measuring Grammatical Complexity*. Oxford UP,
   Oxford.
 
-A more complete list can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576981116309388928&as_sdt=5).
+A more complete list of research papers using PHOIBLE can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576981116309388928&as_sdt=5).
