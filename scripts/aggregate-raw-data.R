@@ -12,9 +12,9 @@ options(stringsAsFactors=FALSE)
 debug <- FALSE
 
 ## FILE PATHS
-data_dir <- file.path("raw-data")
-output_dir <- file.path("data")
-glotto_path <- file.path("mappings", "InventoryID-LanguageCodes.csv")
+data_dir <- file.path("..", "raw-data")
+output_dir <- file.path("..", "data")
+glotto_path <- file.path("..", "mappings", "InventoryID-LanguageCodes.csv")
 output_path <- file.path(output_dir, "phoible-nofeats.csv")
 output_path_rdata <- file.path(output_dir, "phoible-nofeats.RData")
 if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
@@ -25,7 +25,7 @@ if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
 ## here but that are used internally by the functions used here: denorm,
 ## make_typestring, fill_cells, create_glyph_type_variables, add_arch_stars,
 ## and remove_arch_stars)
-source(file.path("scripts", "aggregation-helper-functions.R"))
+source(file.path("aggregation-helper-functions.R"))
 
 ## SOURCE DATA FILE PATHS
 features_path <- file.path(data_dir, "FEATURES", "phoible-segments-features.tsv")
