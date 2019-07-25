@@ -1,1487 +1,1487 @@
-Segment	Phoneme	Notes	in.phoible
- ʑ	ʑ	test	TRUE
-(ã)	<ã>	NA	FALSE
-(bʲ)	<bʲ>	NA	FALSE
-(ɕ)	<ɕ>	NA	FALSE
-(dʲ)	<dʲ>	NA	FALSE
-(dz̪)	<dz̪>	NA	FALSE
-(e̞ː)	<e̞ː>	NA	FALSE
-(ə)	<ə>	NA	FALSE
-(ɛ̃)	<ɛ̃>	NA	FALSE
-(ɛː)	<ɛː>	NA	FALSE
-(gʲ)	<ɡʲ>	NA	FALSE
-(iː)	<iː>	NA	FALSE
-(i̯e̞)	<i̯e̞>	NA	FALSE
-(lʲ)	<lʲ>	NA	FALSE
-(nʲ)	<nʲ>	NA	FALSE
-(œ)	<œ>	NA	FALSE
-(œː)	<œː>	NA	FALSE
-(ɔ̃)	<ɔ̃>	NA	FALSE
-(ɔː)	<ɔː>	NA	FALSE
-(sʲ)	<sʲ>	NA	FALSE
-(ʃ)	<ʃ>	NA	FALSE
-(uː)	<uː>	NA	FALSE
-(ɯ̯ɤ̞)	<ɯ̯ɤ̞>	NA	FALSE
-(ɯi̯)	<ɯi̯>	NA	FALSE
-(yː)	<yː>	NA	FALSE
-(z)	<z>	NA	FALSE
-(ʑ)	<ʑ>	NA	FALSE
-(ʒ)	<ʒ>	NA	FALSE
-a	a	NA	TRUE
-ä	ä	conventionalized	TRUE
-ä	ä	NA	TRUE
-ä̃	ã̈	NA	FALSE
-ä̠	ä̠	NA	FALSE
-ä̤	ä̤	NA	FALSE
-ã	ã	NA	TRUE
-ã̤	ã̤	NA	FALSE
-a̟	a̟	NA	TRUE
-a̤	a̤	NA	TRUE
-a̰	a̰	NA	TRUE
-a˞	a˞	NA	TRUE
-a˞ː	a˞ː	new segment type added	FALSE
-a˞ˤ	a˞ˤ	new segment type added	FALSE
-aː	aː	NA	TRUE
-äː	äː	new segment type added	FALSE
-äː	äː	new segment type added	FALSE
-äː̃	ã̈ː	NA	FALSE
-ä̃ː	ã̈ː	NA	FALSE
-ä̤̃ː	ã̤̈ː	NA	FALSE
-ä̠ː	ä̠ː	NA	FALSE
-ãː	ãː	NA	TRUE
-a̤ː	a̤ː	NA	TRUE
-aːi	aːi	NA	FALSE
-aːi̯	aːi̯	NA	FALSE
-aːɪ	aːɪ	NA	FALSE
-aːu	aːu	NA	FALSE
-aːu̯	aːu̯	NA	FALSE
-ae	ae	NA	TRUE
-ae̯	ae̯	NA	FALSE
-æ	æ	NA	TRUE
-æ̃	æ̃	NA	TRUE
-æ̰	æ̰	NA	FALSE
-æː	æː	NA	TRUE
-æːi	æːi	NA	FALSE
-æːʊ	æːʊ	NA	FALSE
-æˑ	æˑ	NA	FALSE
-æɛ	æɛ	NA	FALSE
-æi	æi	NA	TRUE
-æi̯	æi̯	NA	FALSE
-æɪ̯	æɪ̯	NA	FALSE
-æ̃ɪ̯̃	æ̃ɪ̯̃	NA	FALSE
-æu̯	æu̯	NA	FALSE
-aə	aə	NA	FALSE
-aɛ	aɛ	NA	TRUE
-ãɛ̃	ãɛ̃	NA	FALSE
-ai	ai	NA	TRUE
-ai̯	ai̯	NA	TRUE
-äi̯	äi̯	NA	FALSE
-ãĩ	ãĩ	NA	TRUE
-ai̯ː	ai̯ː	NA	FALSE
-aɪ	aɪ	NA	TRUE
-aɪ̃	aɪ̃	NA	FALSE
-a̰ɪ̰	a̰ɪ̰	NA	FALSE
-ãɪ̯ː	ãɪ̯ː	NA	FALSE
-aj	ai̯	conventionalized	TRUE
-ãj	ãi̯	conventionalized	FALSE
-ao	ao	NA	TRUE
-ãõ	ãõ	NA	FALSE
-aɵ̯	aɵ̯	NA	FALSE
-au	au	NA	TRUE
-au̯	au̯	NA	TRUE
-äu̯	äu̯	NA	FALSE
-ãũ	ãũ	NA	FALSE
-auː	auː	NA	FALSE
-aɯ̃	aɯ̃	NA	FALSE
-a̰ɯ̰	a̰ɯ̰	NA	FALSE
-aɰ	aɯ	guess	TRUE
-aʊ	aʊ	NA	TRUE
-aʊ̃	aʊ̃	NA	FALSE
-aw	au̯	conventionalized	TRUE
-ãw	ãu̯	conventionalized	FALSE
-ãw̃	ãũ̯	conventionalized	FALSE
-aˤ	aˤ	NA	TRUE
-aˤː	aːˤ	NA	TRUE
-ɐ	ɐ	NA	TRUE
-ɐ̆	ɐ̆	NA	TRUE
-ɐ̃	ɐ̃	NA	TRUE
-ɐ̹̆	ɐ̹̆	NA	TRUE
-ɐː	ɐː	NA	TRUE
-ɐi	ɐi	NA	TRUE
-ɐi̯	ɐi̯	NA	FALSE
-ɐɪ	ɐɪ	NA	FALSE
-ɐu	ɐu	NA	TRUE
-ɑ	ɑ	NA	TRUE
-ɑ̆	ɑ̆	NA	FALSE
-ɑ̃	ɑ̃	NA	TRUE
-ɑ̝	ɑ̝	NA	TRUE
-ɑ̙	ɑ̙	NA	FALSE
-ɑ̝̟	ɑ̝̟	NA	FALSE
-ɑ̝̹	ɑ̝̹	NA	FALSE
-ɑ̤	ɑ̤	NA	TRUE
-ɑ˞	ɑ˞	NA	FALSE
-ɑː	ɑː	NA	TRUE
-ɑ̃ː	ɑ̃ː	NA	TRUE
-ɑ̟ː	ɑ̟ː	NA	FALSE
-ɑ̝ː	ɑ̝ː	NA	FALSE
-ɑ̰ː	ɑ̰ː	NA	FALSE
-ɑːi̯	ɑːi̯	NA	FALSE
-ɑˑ	ɑˑ	NA	FALSE
-ɑ̟ˑ	ɑ̟ˑ	NA	FALSE
-ɑi	ɑi	NA	TRUE
-ɑi̯	ɑi̯	NA	FALSE
-ɑj	ɑy	guess	FALSE
-ɑu	ɑu	NA	TRUE
-ɑʊ	ɑʊ	NA	TRUE
-ɑʊ̯	ɑʊ̯	NA	FALSE
-ɑw	ɑɯ	guess	FALSE
-ɒ	ɒ	NA	TRUE
-ɒ̃	ɒ̃	NA	TRUE
-ɒː	ɒː	NA	TRUE
-ɒ̃ː	ɒ̃ː	NA	TRUE
-ɒːi̯	ɒːi̯	NA	FALSE
-b	b	NA	TRUE
-b̥	b̥	NA	FALSE
-b˞	b˞	NA	FALSE
-bː	bː	NA	TRUE
-b̥ː	b̥ː	NA	FALSE
-bˠ	bˠ	NA	TRUE
-bʰ	bʰ	NA	FALSE
-bʱ	bʱ	NA	TRUE
-b̤ʱ	b̤ʱ	NA	FALSE
-bʲ	bʲ	NA	TRUE
-bʲː	bːʲ	NA	FALSE
-bˤ	bˤ	NA	TRUE
-ɓ	ɓ	NA	TRUE
-c	c	NA	TRUE
-ç	ç	conventionalized	TRUE
-ç̟	ç̟	NA	TRUE
-c̟	c̟	NA	TRUE
-çː	çː	NA	TRUE
-cːʰ	cːʰ	NA	FALSE
-cç	cç	NA	TRUE
-cçː	cçː	NA	TRUE
-cçʰ	cçʰ	NA	TRUE
-cʰ	cʰ	NA	TRUE
-çʰ	çʰ	NA	FALSE
-cʼ	cʼ	NA	TRUE
-ɕ	ɕ	NA	TRUE
-ɕː	ɕː	NA	TRUE
-ɕʰ	ɕʰ	NA	FALSE
-ɕʼ	ɕʼ	NA	TRUE
-d	d	NA	TRUE
-d̻	d̻	NA	TRUE
-d̺	d̺	NA	TRUE
-d̪	d̪	NA	TRUE
-d̪̺	d̪̺	NA	FALSE
-d̪̻	d̪̻	NA	FALSE
-d̪̥	d̪̥	NA	FALSE
-d̺̥	d̺̥	NA	FALSE
-d̥	d̥	NA	FALSE
-ð	ð	NA	TRUE
-ð̞	ð̞	NA	TRUE
-ð̺̞	ð̺̞	NA	FALSE
-ð̺̪	ð̪̺	NA	FALSE
-dː	dː	NA	TRUE
-d̥ː	d̥ː	NA	FALSE
-ðː	ðː	NA	TRUE
-d̪ˠ	d̪ˠ	NA	FALSE
-ð͇ˠ	ð͇ˠ	NA	FALSE
-dʰ	dʰ	NA	FALSE
-d̪ʰ	d̪ʰ	NA	FALSE
-dʱ	dʱ	NA	TRUE
-d̺ʱ	d̺ʱ	NA	FALSE
-d̪ʱ	d̪ʱ	NA	TRUE
-d̻̤ʱ	d̤̻ʱ	NA	FALSE
-d̪̤ʱ	d̤̪ʱ	NA	FALSE
-dʲ	dʲ	NA	TRUE
-d̪ʲ	d̪ʲ	NA	TRUE
-d̠ʲ	d̠ʲ	NA	FALSE
-d̥ʲ	d̥ʲ	NA	FALSE
-ðʲ	ðʲ	NA	TRUE
-dʷ	dʷ	NA	TRUE
-dz	dz	NA	TRUE
-dẑ	d̠ʓ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
-dz̻	dz̻	NA	FALSE
-dz̺	dz̺	NA	FALSE
-d̪z	d̪z	NA	FALSE
-d͇z͇	d͇z͇	NA	FALSE
-d̺z̺	d̺z̺	NA	FALSE
-d̪z̪	d̪z̪	NA	TRUE
-d̺̥z̺̥	d̺̥z̺̥	NA	FALSE
-d̥z̥	d̥z̥	NA	FALSE
-dzː	dzː	NA	TRUE
-d̺z̺ː	d̺z̺ː	NA	FALSE
-dzʰ	dzʰ	NA	FALSE
-dzʱ	dzʱ	NA	TRUE
-dzʲ	dzʲ	NA	TRUE
-d̪ᶻʲ	d̪ʲ	probably marks frication	TRUE
-d̪z̪ʲ	d̪z̪ʲ	NA	TRUE
-d̥z̥ʲ	d̥z̥ʲ	NA	FALSE
-dẑʷ	d̠ʓʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
-dʐ	ɖʐ	conventionalized	TRUE
-dʑ	dʑ	NA	TRUE
-d̻ʑ̻	d̻ʑ̻	NA	FALSE
-d̥ʑ̥	d̥ʑ̥	NA	FALSE
-dʑʰ	dʑʰ	NA	FALSE
-d̻ʑ̻ʱ	d̻ʑ̻ʱ	NA	FALSE
-dʒ	d̠ʒ	NA	TRUE
-d̻ʒ̻	d̻ʒ̻	NA	FALSE
-d̺ʒ̺	d̺ʒ̺	NA	FALSE
-d̥ʒ̊	d̥ʒ̊	NA	FALSE
-d̥ʒ̥	d̥ʒ̥	NA	FALSE
-dʒː	d̠ʒː	NA	TRUE
-dʒʰ	d̠ʒʰ	NA	FALSE
-dʒʱ	d̠ʒʱ	NA	TRUE
-d̤ʒ̤ʱ	d̤ʒ̤ʱ	NA	FALSE
-dʒʲ	d̠ʒʲ	NA	TRUE
-d̺ʒ̺ʷ	d̺ʒ̺ʷ	NA	FALSE
-dʼ	dʼ	NA	TRUE
-ðʼ	ðʼ	NA	FALSE
-dˤ	dˤ	NA	TRUE
-d̪ˤ	d̪ˤ	NA	TRUE
-ðˤ	ðˤ	NA	TRUE
-ɖ	ɖ	NA	TRUE
-ɖː	ɖː	NA	TRUE
-ɖʰ	ɖʰ	NA	FALSE
-ɖʱ	ɖʱ	NA	TRUE
-ɖ̤ʱ	ɖ̤ʱ	NA	FALSE
-ɖɽ	ɖɽ	NA	TRUE
-ɖʐ	ɖʐ	NA	TRUE
-ɖ̻ʐ̻	ɖ̻ʐ̻	NA	FALSE
-ɖ̥ʐ̥	ɖ̥ʐ̥	NA	FALSE
-ɗ	ɗ	NA	TRUE
-ᶑ	ᶑ	NA	TRUE
-e	e	NA	TRUE
-ĕ	ĕ	NA	TRUE
-ẽ	ẽ	NA	TRUE
-ẽ̞	ẽ̞	NA	TRUE
-e̞	e̞	NA	TRUE
-e̠	e̠	NA	TRUE
-ẽ̞	ẽ̞	NA	TRUE
-e̞̰	ḛ̞	NA	TRUE
-e̤	e̤	NA	TRUE
-ḛ	ḛ	NA	TRUE
-e˞	e˞	new segment type added	FALSE
-eː	eː	NA	TRUE
-ẽː	ẽː	NA	TRUE
-e̞ː	e̞ː	NA	TRUE
-ẽ̞ː	ẽ̞ː	NA	TRUE
-e̤ː	e̤ː	NA	TRUE
-eːi̯	eːi̯	NA	FALSE
-eˑ	eˑ	NA	TRUE
-ea	ea	NA	TRUE
-e̯ä	e̯ä	NA	FALSE
-eə	eə	NA	TRUE
-eɛ	eɛ	NA	FALSE
-ei	ei	NA	TRUE
-ei̯	ei̯	NA	TRUE
-eɪ	eɪ	NA	TRUE
-eɪ̃	eɪ̃	NA	FALSE
-ẽɪ̃	ẽɪ̃	NA	FALSE
-ḛɪ̰	ḛɪ̰	NA	FALSE
-ej	ei̯	conventionalized	TRUE
-ẽj	ẽi̯	conventionalized	FALSE
-eo	eo	NA	TRUE
-eu	eu	NA	TRUE
-eu̯	eu̯	NA	TRUE
-e̞u̯	e̞u̯	NA	FALSE
-ew	ue	guess	TRUE
-ə	ə	NA	TRUE
-ə̆	ə̆	NA	TRUE
-ə̃	ə̃	NA	TRUE
-ə̟̆	ə̟̆	NA	FALSE
-ə̞̆	ə̞̆	NA	FALSE
-ə̤	ə̤	NA	TRUE
-ə̰	ə̰	NA	TRUE
-ə̹	ə̹	NA	FALSE
-ə˞	ə˞	NA	TRUE
-ə˞ː	ə˞ː	new segment type added	FALSE
-əː	əː	NA	TRUE
-əː̃	ə̃ː	NA	TRUE
-ə̤̃ː	ə̤̃ː	NA	FALSE
-əi	əi	NA	TRUE
-əĩ	əĩ	NA	FALSE
-əi̯	əi̯	NA	FALSE
-ə̃ĩ	ə̃ĩ	NA	FALSE
-əɨ	əɨ	NA	FALSE
-əj	əi̯	conventionalized	FALSE
-əo	əo	NA	FALSE
-əu	əu	NA	TRUE
-əũ	əũ	NA	FALSE
-əu̯	əu̯	NA	FALSE
-ə̃ũ	ə̃ũ	NA	FALSE
-əɯ̃	əɯ̃	NA	FALSE
-ə̰ɯ̰	ə̰ɯ̰	NA	FALSE
-əʊ	əʊ	NA	FALSE
-əw	əu̯	conventionalized	FALSE
-əy	əy	NA	TRUE
-əˤ	əˤ	new segment type added	FALSE
-ɛ	ɛ	NA	TRUE
-ɛ̃	ɛ̃	NA	TRUE
-ɛ̝	ɛ̝	NA	TRUE
-ɛ̞	ɛ̞	NA	TRUE
-ɛ̠	ɛ̠	NA	FALSE
-ɛ̤	ɛ̤	NA	TRUE
-ɛ̰	ɛ̰	NA	TRUE
-ɛː	ɛː	NA	TRUE
-ɛː̃	ɛ̃ː	NA	TRUE
-ɛ̃ː	ɛ̃ː	NA	TRUE
-ɛ̤̃ː	ɛ̤̃ː	NA	FALSE
-ɛ̞ː	ɛː	conventionalized; TODO: investigate	TRUE
-ɛ̠ː	ɛ̠ː	NA	FALSE
-ɛ̤ː	ɛ̤ː	NA	TRUE
-ɛ̰ː	ɛ̰ː	NA	TRUE
-ɛ̃ːi̯	ɛ̃ːi̯	NA	FALSE
-ɛˑ	ɛˑ	NA	TRUE
-ɛa	ɛa	NA	FALSE
-ɛa̟	ɛa̟	NA	FALSE
-ɛ̯æː	ɛ̯æː	NA	FALSE
-ɛɐ	ɛɐ	NA	FALSE
-ɛi	ɛi	NA	TRUE
-ɛi̯	ɛi̯	NA	FALSE
-ɛ̤i̤	ɛ̤i̤	NA	FALSE
-ɛɪ	ɛɪ	NA	TRUE
-ɛo	ɛo	NA	TRUE
-ɛu	ɛu	NA	TRUE
-ɛu̯	ɛu̯	NA	FALSE
-ɛ̃ũ	ɛ̃ũ	NA	FALSE
-ɛʉ	ɛʉ	NA	FALSE
-ɘ	ɘ	NA	TRUE
-ɘ̆	ɘ̆	NA	FALSE
-ɘ̃	ɘ̃	NA	TRUE
-ɘ̟	ɘ̟	NA	FALSE
-ɘ̠	ɘ̠	NA	FALSE
-ɘː	ɘː	NA	TRUE
-ɜ	ɜ	NA	TRUE
-ɜ̹	ɜ̹	NA	FALSE
-ɜː	ɜː	NA	TRUE
-ɜ̹ː	ɜ̹ː	NA	FALSE
-ɜi	ɜi	NA	TRUE
-ɜj	ɜi̯	conventionalized	FALSE
-ɞ	ɞ	NA	TRUE
-ɞ̜	ɞ̜	NA	FALSE
-ɞ̠	ɞ̠	NA	FALSE
-ɞ̜̰	ɞ̰̜	NA	FALSE
-ɞ̰	ɞ̰	NA	FALSE
-ɞː	ɞː	NA	FALSE
-ɞ̜̃ː	ɞ̜̃ː	NA	FALSE
-ɞ̠ː	ɞ̠ː	NA	FALSE
-ɞ̜ː	ɞ̜ː	NA	FALSE
-ɞe̯	ɞe̯	NA	FALSE
-ɞʏ̯	ɞʏ̯	NA	FALSE
-ɤ	ɤ	NA	TRUE
-ɤ̞̆	ɤ̞̆	NA	FALSE
-ɤ̟	ɤ̟	NA	TRUE
-ɤ̞	ɤ̞	NA	TRUE
-ɤ̝	ɤ̝	NA	FALSE
-ɤ̟̹	ɤ̟̹	NA	FALSE
-ɤː	ɤː	NA	TRUE
-ɤ̟ː	ɤː	conventionalized; TODO: investigate	TRUE
-ɤˑ	ɤˑ	NA	FALSE
-ɤi	ɤi	NA	TRUE
-f	f	NA	TRUE
-f̩	f̩	NA	FALSE
-fː	fː	NA	TRUE
-fˠ	fˠ	NA	FALSE
-fʲ	fʲ	NA	TRUE
-fʲː	fːʲ	NA	FALSE
-fʼ	fʼ	NA	TRUE
-g	ɡ	NA	TRUE
-g̊	ɡ̊	NA	FALSE
-g˞	ɡ˞	NA	FALSE
-gː	ɡː	NA	TRUE
-g̊ː	ɡ̊ː	NA	FALSE
-gːʷ	ɡːʷ	NA	FALSE
-gʰ	ɡʰ	NA	FALSE
-gʱ	ɡʱ	NA	TRUE
-g̤ʱ	ɡ̤ʱ	NA	FALSE
-gʲ	ɡʲ	conventionalized	TRUE
-gʲː	ɡːʲ	NA	FALSE
-gʷ	ɡʷ	conventionalized	TRUE
-g̊ʷ	ɡ̊ʷ	NA	FALSE
-ɡ	ɡ	NA	TRUE
-ɡʲ	ɡʲ	NA	TRUE
-ɡʷ	ɡʷ	NA	TRUE
-ɢ	ɢ	NA	TRUE
-ɢ̥	ɢ̥	NA	FALSE
-ɢʁ	ɢʁ	NA	FALSE
-ɢʷ	ɢʷ	NA	TRUE
-ɠ	ɠ	NA	TRUE
-ɣ	ɣ	NA	TRUE
-ɣ̊	ɣ̊	NA	FALSE
-ɣʲ	ɣʲ	NA	TRUE
-ɣʷ	ɣʷ	NA	TRUE
-h	h	NA	TRUE
-h̃	h̃	NA	TRUE
-ħ	ħ	NA	TRUE
-ʰc	ʰc	NA	TRUE
-hʲ	hʲ	NA	TRUE
-ħ̃ʲ	ħ̃ʲ	NA	FALSE
-ʰk	ʰk	NA	TRUE
-ʰkː	ʰkː	NA	FALSE
-ʰkʰ	ʰkʰ	NA	FALSE
-ʰkʲ	ʰkʲ	NA	FALSE
-ʰl̥	ʰl̥	NA	FALSE
-ʰp	ʰp	NA	TRUE
-ʰpː	ʰpː	NA	FALSE
-ʰpʰ	ʰpʰ	NA	FALSE
-ʰpʲ	ʰpʲ	NA	FALSE
-ʰqʰ	ʰqʰ	NA	FALSE
-ʰsʰ	ʰsʰ	NA	FALSE
-ʰt	ʰt	NA	TRUE
-ʰtː	ʰtː	NA	FALSE
-ʰtɕ	ʰtɕ	NA	FALSE
-ʰtɕʰ	ʰtɕʰ	NA	FALSE
-ʰtʰ	ʰtʰ	NA	FALSE
-ʰtʲ	ʰtʲ	NA	FALSE
-ʰts	ʰts	NA	TRUE
-ʰtsː	ʰtsː	NA	FALSE
-ʰtsʰ	ʰtsʰ	NA	FALSE
-ʰtsʲ	ʰtsʲ	NA	FALSE
-ʰtʃ	ʰt̠ʃ	NA	TRUE
-ʰtʃː	ʰt̠ʃː	NA	FALSE
-ʰtʃʰ	ʰt̠ʃʰ	NA	FALSE
-ʰʈ	ʰʈ	NA	FALSE
-ʰʈʂʰ	ʰʈʂʰ	NA	FALSE
-hʷ	hʷ	NA	TRUE
-ħʷ	ħʷ	NA	TRUE
-ʰʷɕʰ	ʰʷɕʰ	NA	FALSE
-ʰʷk	ʰʷk	NA	FALSE
-ʰʷs	ʰʷs	NA	FALSE
-ʰʷsʰ	ʰʷsʰ	NA	FALSE
-ʰʷʂʰ	ʰʷʂʰ	NA	FALSE
-ʰʷt	ʰʷt	NA	FALSE
-ʰʷtɕ	ʰʷtɕ	NA	FALSE
-ʰʷts	ʰʷts	NA	FALSE
-ʰʷʈ	ʰʷʈ	NA	FALSE
-ʜ	ʜ	NA	FALSE
-ʜʷ	ʜʷ	NA	FALSE
-ɦ	ɦ	NA	TRUE
-ʱb	ʱb	NA	FALSE
-ʱd	ʱd	NA	FALSE
-ʱdz	ʱdz	NA	FALSE
-ʱdʑ	ʱdʑ	NA	FALSE
-ʱɖ	ʱɖ	NA	FALSE
-ʱɡ	ʱɡ	NA	FALSE
-ʱj	ʱj	NA	FALSE
-ʱɟ	ʱɟ	NA	FALSE
-ʱl	ʱl	NA	TRUE
-ʱm	ʱm	NA	TRUE
-ʱn	ʱn	NA	FALSE
-ʱɲ	ʱɲ	NA	FALSE
-ʱŋ	ʱŋ	NA	TRUE
-ʱz	ʱz	NA	FALSE
-ʱʐ	ʱʐ	NA	FALSE
-ɧ	ɧ	NA	TRUE
-i	i	NA	TRUE
-ĩ	ĩ	NA	TRUE
-i̯	i̯	new segment type added	FALSE
-i̘	i̘	NA	TRUE
-i̞	i̞	NA	TRUE
-i̠	i̠	NA	FALSE
-ĩ̞	ĩ̞	NA	FALSE
-ĩ̯	ĩ̯	NA	FALSE
-i̤	i̤	NA	TRUE
-ḭ	ḭ	NA	TRUE
-i˞	i˞	new segment type added	FALSE
-i˞ˤ	i˞ˤ	new segment type added	FALSE
-i˞ˤː	i˞ːˤ	new segment type added	FALSE
-iː	iː	NA	TRUE
-ĩː	ĩː	NA	TRUE
-ĩ̤ː	ĩ̤ː	NA	FALSE
-i̞ː	i̞ː	NA	TRUE
-i̤ː	i̤ː	NA	TRUE
-ḭː	ḭː	NA	TRUE
-iːə	iːə	NA	FALSE
-iːɛ	iːɛ	NA	TRUE
-iˑ	iˑ	NA	TRUE
-ia	ia	NA	TRUE
-ĩã	ĩã	NA	FALSE
-i̯a	i̯a	NA	FALSE
-iæ	iæ	NA	TRUE
-iæ̃	iæ̃	NA	FALSE
-iau	iau	NA	TRUE
-iɐ	iɐ	NA	FALSE
-iɑ	iɑ	guess	FALSE
-iɑu	iɑu	NA	FALSE
-ie	ie	NA	TRUE
-iẽ	iẽ	NA	TRUE
-ie̞	ie̞	NA	TRUE
-ĩẽ	ĩẽ	NA	FALSE
-i̯e	i̯e	NA	FALSE
-i̯ẽ	i̯ẽ	NA	FALSE
-iẽː	iẽː	NA	FALSE
-iə	iə	NA	TRUE
-iə̯	iə̯	NA	FALSE
-iɛ	iɛ	NA	TRUE
-iɛ̃	iɛ̃	NA	FALSE
-iɛ̠	iɛ̠	NA	FALSE
-i̯ɛ	i̯ɛ	NA	FALSE
-iɛː	iɛː	NA	TRUE
-ĩɛ̃ː	ĩɛ̃ː	NA	FALSE
-iɛi̯	iɛi̯	NA	FALSE
-iɜ	iɜ	NA	FALSE
-ii	ii	NA	FALSE
-ii̯	ii̯	NA	FALSE
-iɪ̯	iɪ̯	NA	FALSE
-ij	ii̯	conventionalized	FALSE
-io	io	NA	TRUE
-iø	iø	NA	FALSE
-ĩõ	ĩõ	NA	FALSE
-iou	iou	NA	TRUE
-iɔ	iɔ	NA	TRUE
-iu	iu	NA	TRUE
-iu̯	iu̯	NA	FALSE
-i̯uo	i̯uo	NA	FALSE
-i̯ũo	i̯ũo	NA	FALSE
-iw	iu	guess	TRUE
-iˤ	iˤ	NA	TRUE
-iˤː	iːˤ	NA	TRUE
-iˤæ	iˤæ	NA	FALSE
-ɪ	ɪ	NA	TRUE
-ɪ̆	ɪ̆	NA	TRUE
-ɪ̈	ɪ̈	NA	TRUE
-ɪ̞̈	ɪ̞̈	NA	FALSE
-ɪ̃	ɪ̃	NA	TRUE
-ɪ̞	ɪ̞	NA	FALSE
-ɪ̯	ɪ̯	NA	TRUE
-ɪ̰	ɪ̰	NA	FALSE
-ɪː	ɪː	NA	TRUE
-ɪ̃ː	ɪ̃ː	NA	TRUE
-ɪ̯ä	ɪ̯ä	NA	FALSE
-ɪə	ɪə	NA	FALSE
-ɪ̃ə̃	ɪ̃ə̃	NA	FALSE
-ɪɛ	ɪɛ	NA	TRUE
-ɪ̃ɛ	ɪ̃ɛ	NA	FALSE
-ɪɛː	ɪɛː	NA	FALSE
-ɪ̃ɛː	ɪ̃ɛː	NA	FALSE
-ɪ̯ɔ	ɪ̯ɔ	NA	FALSE
-ɪu	ɪu	NA	FALSE
-ɪ̯u̞	ɪ̯u̞	NA	FALSE
-ɨ	ɨ	NA	TRUE
-ɨ̆	ɨ̆	NA	TRUE
-ɨ̞	ɨ̞	NA	TRUE
-ɨ̠	ɨ̠	NA	FALSE
-ɨ̞̰	ɨ̰̞	NA	FALSE
-ɨ̤	ɨ̤	NA	FALSE
-ɨ̹	ɨ̹	NA	FALSE
-ɨː	ɨː	NA	TRUE
-ɨ̞̃ː	ɨ̞̃ː	NA	FALSE
-ɨ̟ː	ɨː	conventionalized; TODO: investigate	TRUE
-ɨ̞ː	ɨ̞ː	NA	FALSE
-ɨ̹ː	ɨ̹ː	NA	FALSE
-ɨa	ɨa	NA	TRUE
-ɨä̠	ɨä̠	NA	FALSE
-ɨə	ɨə	NA	TRUE
-ɨɛ	ɨɛ	NA	FALSE
-ɨi	ɨi	NA	TRUE
-ɨi̯	ɨi̯	NA	FALSE
-ɨj	ɨi̯	conventionalized	FALSE
-j	j	NA	TRUE
-j̊	j̊	NA	FALSE
-j̃	j̃	NA	TRUE
-jː	jː	NA	TRUE
-ja	i̯a	conventionalized	TRUE
-jaː	i̯aː	conventionalized	FALSE
-jæ	i̯æ	conventionalized	FALSE
-jæi	i̯æi	conventionalized	FALSE
-jai	i̯ai	conventionalized	FALSE
-jau	i̯au	conventionalized	FALSE
-jau̯	i̯au̯	conventionalized	TRUE
-je	i̯e	conventionalized	TRUE
-jẽ	i̯ẽ	conventionalized	FALSE
-jei̯	i̯ei̯	conventionalized	FALSE
-jɛ	i̯ɛ	conventionalized	TRUE
-jɛ̃	i̯ɛ̃	conventionalized	FALSE
-jɛi	i̯ɛi	conventionalized	FALSE
-jɛi̯	i̯ɛi̯	conventionalized	FALSE
-jo	i̯o	conventionalized	TRUE
-joː	i̯oː	conventionalized	FALSE
-joi	i̯oi	conventionalized	FALSE
-jɔ	i̯ɔ	conventionalized	TRUE
-ju	i̯u	conventionalized	TRUE
-juː	i̯uː	conventionalized	FALSE
-juaː	i̯uaː	conventionalized	FALSE
-jui	i̯ui	conventionalized	FALSE
-ʝ	ʝ	NA	TRUE
-ʝː	ʝː	NA	FALSE
-ɟ	ɟ	NA	TRUE
-ɟ̟	ɟ̟	NA	FALSE
-ɟʰ	ɟʰ	NA	FALSE
-ɟʱ	ɟʱ	NA	TRUE
-ɟʝ	ɟʝ	NA	TRUE
-ɟʝ̞	ɟʝ̞	NA	FALSE
-ɟ̥ʝ̥	ɟ̥ʝ̥	NA	FALSE
-ʄ	ʄ	NA	TRUE
-k	k	NA	TRUE
-k˞	k˞	NA	FALSE
-kː	kː	NA	TRUE
-kːʰ	kːʰ	NA	TRUE
-kːʷ	kːʷ	NA	TRUE
-kːʷʰ	kːʰʷ	NA	TRUE
-kʰ	kʰ	NA	TRUE
-kʰ˞	k˞ʰ	NA	FALSE
-kʰʲ	kʰʲ	NA	TRUE
-kʰʷ	kʰʷ	NA	TRUE
-kʰʷʲ	kʰʲʷ	new segment type added	FALSE
-kʲ	kʲ	NA	TRUE
-kʲː	kːʲ	NA	FALSE
-kʲʰ	kʰʲ	NA	TRUE
-kʲʼ	kʲʼ	NA	TRUE
-kʷ	kʷ	NA	TRUE
-kʷʰ	kʰʷ	NA	TRUE
-kʷʲ	kʲʷ	new segment type added	FALSE
-kʷʼ	kʷʼ	NA	TRUE
-kx	kx	NA	TRUE
-kxːʰ	kxːʰ	NA	FALSE
-kxːʼ	kxːʼ	NA	TRUE
-kʼ	kʼ	NA	TRUE
-kʼː	kːʼ	NA	TRUE
-kʼːʷ	kːʷʼ	NA	TRUE
-kʼʲ	kʲʼ	NA	TRUE
-kʼʷ	kʷʼ	NA	TRUE
-kʼʷʲ	kʲʷʼ	new segment type added	FALSE
-kˤ	kˤ	NA	TRUE
-l	l	NA	TRUE
-l̩	l̩	NA	TRUE
-l̺	l̺	NA	FALSE
-l̻	l̻	NA	TRUE
-l̪	l̪	NA	TRUE
-l̪̊	l̪̊	NA	FALSE
-l̥	l̥	NA	TRUE
-lː	lː	NA	TRUE
-l̥ː	l̥ː	NA	TRUE
-lˠ	lˠ	NA	TRUE
-l̪ˠ	l̪ˠ	NA	TRUE
-lʰ	lʰ	NA	FALSE
-lʱ	lʱ	NA	TRUE
-l̪ʱ	l̪ʱ	NA	FALSE
-lʲ	lʲ	NA	TRUE
-l̪ʲ	l̪ʲ	NA	TRUE
-l̠ʲ	l̠ʲ	NA	FALSE
-l̥ʲ	l̥ʲ	NA	TRUE
-lʲː	lːʲ	NA	FALSE
-l̥ʲː	l̥ːʲ	NA	FALSE
-lˤ	lˤ	NA	TRUE
-ɫ	ɫ	NA	TRUE
-ɫ̪	ɫ̪	NA	FALSE
-ɫ̻	ɫ̻	NA	FALSE
-ɫ̺	ɫ̺	NA	FALSE
-ɫ̥	ɫ̥	NA	FALSE
-ɫː	ɫː	NA	FALSE
-ɬ	ɬ	NA	TRUE
-ɬ̪	ɬ̪	NA	TRUE
-ɬ̺̪	ɬ̪̺	NA	FALSE
-ɬː	ɬː	NA	TRUE
-ɬˠ	ɬˠ	NA	FALSE
-ɬʲ	ɬʲ	NA	TRUE
-ɬʷ	ɬʷ	NA	TRUE
-ɬʼ	ɬʼ	NA	TRUE
-ɭ	ɭ	NA	TRUE
-ɭ̥	ɭ̥	NA	TRUE
-ɮ	ɮ	NA	TRUE
-ɮ̺	ɮ̺	NA	FALSE
-ɮʲ	ɮʲ	NA	TRUE
-ɮʼ	ɮʼ	NA	FALSE
-ʎ	ʎ	NA	TRUE
-ʎ̟	ʎ̟	NA	TRUE
-m	m	NA	TRUE
-m̩	m̩	NA	TRUE
-m̥	m̥	NA	TRUE
-m 	m	conventionalized	TRUE
-mː	mː	NA	TRUE
-m̥ː	m̥ː	NA	FALSE
-mˠ	mˠ	NA	TRUE
-mʰ	mʰ	NA	FALSE
-mʱ	mʱ	NA	TRUE
-mʲ	mʲ	NA	TRUE
-m̥ʲ	m̥ʲ	NA	FALSE
-mʲː	mːʲ	NA	FALSE
-m̥ʲː	m̥ːʲ	NA	FALSE
-mʷ	mʷ	NA	TRUE
-mˤ	mˤ	NA	TRUE
-n	n	NA	TRUE
-n̩	n̩	NA	TRUE
-n̪	n̪	NA	TRUE
-n̻	n̻	NA	TRUE
-n̺	n̺	NA	TRUE
-n̪̊	n̪̊	NA	FALSE
-n̺̪	n̪̺	NA	FALSE
-n̪̩	n̪̩	NA	FALSE
-n̪̥	n̪̥	NA	TRUE
-n̥	n̥	NA	TRUE
-n̥̪	n̪̥	NA	TRUE
-nː	nː	NA	TRUE
-n̥ː	n̥ː	NA	FALSE
-ⁿb	ⁿb	NA	FALSE
-ⁿc	ɲc	conventionalized	TRUE
-ⁿcʰ	ɲcʰ	conventionalized	FALSE
-ⁿd	ⁿd	NA	FALSE
-ⁿd̪	ⁿd̪	NA	FALSE
-ⁿdz	ⁿdz	NA	FALSE
-ⁿd͇z͇	ⁿd͇z͇	NA	FALSE
-ⁿd̪z̪	ⁿd̪z̪	NA	FALSE
-ⁿdʑ	ⁿdʑ	NA	FALSE
-ⁿdʒ	ⁿd̠ʒ	NA	FALSE
-ⁿɖ	ⁿɖ	NA	FALSE
-ⁿɖɽ	ⁿɖɽ	NA	FALSE
-ⁿɖʐ	ⁿɖʐ	NA	FALSE
-ⁿg	ⁿɡ	NA	FALSE
-ⁿɡ	ⁿɡ	NA	FALSE
-ⁿɢ	ⁿɢ	NA	FALSE
-nˠ	nˠ	NA	TRUE
-n̪ˠ	n̪ˠ	NA	FALSE
-nʰ	nʰ	NA	FALSE
-nʱ	nʱ	NA	TRUE
-n̪ʱ	n̪ʱ	NA	FALSE
-nʲ	nʲ	NA	TRUE
-n̠ʲ	n̠ʲ	NA	FALSE
-n̪ʲ	n̪ʲ	NA	TRUE
-n̥ʲ	n̥ʲ	NA	TRUE
-nʲː	nːʲ	NA	FALSE
-n̥ʲː	n̥ːʲ	NA	FALSE
-ⁿɟ	ⁿɟ	NA	FALSE
-ⁿk	ŋk	conventionalized	TRUE
-ⁿkʰ	ŋkʰ	conventionalized	TRUE
-ⁿp	mp	conventionalized	TRUE
-ⁿpʰ	mpʰ	conventionalized	TRUE
-ⁿq	ɴq	conventionalized	TRUE
-ⁿqʰ	ɴqʰ	conventionalized	TRUE
-ⁿsʰ	ⁿsʰ	NA	FALSE
-ⁿt	nt	conventionalized	TRUE
-ⁿtɕʰ	ⁿtɕʰ	NA	FALSE
-ⁿtʰ	ntʰ	conventionalized	TRUE
-ⁿts	nts	conventionalized	TRUE
-ⁿtsʰ	ntsʰ	new segment type added	FALSE
-ⁿt͇s͇ʰ	ⁿt͇s͇ʰ	NA	FALSE
-ⁿt̪s̪ʰ	ⁿt̪s̪ʰ	NA	FALSE
-ⁿtʃ	n̠t̠ʃ	conventionalized	TRUE
-ⁿtʃʰ	n̠t̠ʃʰ	conventionalized	TRUE
-ⁿʈʰ	ⁿʈʰ	NA	FALSE
-ⁿʈɽʰ	ⁿʈɽʰ	NA	FALSE
-ⁿʈʂ	ɳʈʂ	conventionalized	TRUE
-ⁿʈʂʰ	ɳʈʂʰ	conventionalized	TRUE
-ⁿxʰ	ⁿxʰ	NA	FALSE
-nˤ	nˤ	NA	TRUE
-ɴ	ɴ	NA	TRUE
-ɲ	ɲ	NA	TRUE
-ɲ̊	ɲ̊	NA	FALSE
-ɲ̟	ɲ̟	NA	TRUE
-ɲ̥	ɲ̥	NA	TRUE
-ɲː	ɲː	NA	TRUE
-ɳ	ɳ	NA	TRUE
-ɳʱ	ɳʱ	NA	TRUE
-ŋ	ŋ	NA	TRUE
-ŋ̊	ŋ̊	NA	FALSE
-ŋ̟	ŋ̟	NA	FALSE
-ŋ̩	ŋ̩	NA	TRUE
-ŋ̥	ŋ̥	NA	TRUE
-ŋː	ŋː	NA	TRUE
-ŋʰ	ŋʰ	NA	FALSE
-ŋʱ	ŋʱ	NA	TRUE
-ŋʲ	ŋʲ	NA	TRUE
-ŋʲː	ŋːʲ	NA	FALSE
-ŋʷ	ŋʷ	NA	TRUE
-o	o	NA	TRUE
-ŏ	ŏ	NA	TRUE
-õ	õ	NA	TRUE
-ø	ø	NA	TRUE
-ø̃	ø̃	NA	FALSE
-ø̞	ø̞	NA	TRUE
-ø̠̞	ø̞̠	NA	FALSE
-ø̞̜	ø̞̜	NA	FALSE
-ø̤	ø̤	NA	FALSE
-ø̰	ø̰	NA	FALSE
-o̞	o̞	NA	TRUE
-õ̞	õ̞	NA	TRUE
-o̞̙	o̙̞	NA	FALSE
-o̞̜	o̞̜	NA	FALSE
-o̤	o̤	NA	TRUE
-o̰	o̰	NA	TRUE
-oː	oː	NA	TRUE
-õː	õː	NA	TRUE
-øː	øː	NA	TRUE
-ø̃ː	ø̃ː	NA	FALSE
-ø̞ː	ø̞ː	NA	TRUE
-ø̞̜ː	ø̞̜ː	NA	FALSE
-o̞ː	o̞ː	NA	TRUE
-o̞̜ː	o̞̜ː	NA	FALSE
-o̤ː	o̤ː	NA	TRUE
-oːu̯	oːu̯	NA	FALSE
-øːy̯	øːy̯	NA	FALSE
-oˑ	oˑ	NA	TRUE
-øˑ	øˑ	NA	FALSE
-o̟ˑ	o̟ˑ	NA	FALSE
-oa	oa	NA	TRUE
-oä	oä	NA	FALSE
-õã	õã	NA	FALSE
-o̞ä	o̞ä	NA	FALSE
-o̯ä	o̯ä	NA	FALSE
-oe	oe	NA	TRUE
-œ	œ	NA	TRUE
-œ̃	œ̃	NA	TRUE
-œ̞	œ̞	NA	FALSE
-œ̠	œ̠	NA	FALSE
-œ̜	œ̜	NA	FALSE
-œː	œː	NA	TRUE
-œ̃ː	œ̃ː	NA	FALSE
-œ̠ː	œ̠ː	NA	FALSE
-œ̞ː	œ̞ː	NA	FALSE
-œ̜ː	œ̜ː	NA	FALSE
-œ̰ː	œ̰ː	NA	FALSE
-œ̃ɛ̃	œ̃ɛ̃	NA	FALSE
-œ̞ɛ̞	œ̞ɛ̞	new segment type added; TODO: investigate	FALSE
-œi	œi	NA	TRUE
-œj	œi̯	conventionalized	FALSE
-œy	œy	NA	TRUE
-oə	oə	NA	FALSE
-øə	øə	NA	FALSE
-oi	oi	NA	TRUE
-oi̯	oi̯	NA	TRUE
-o̞i̯	o̞i̯	NA	FALSE
-øɪ̯	øɪ̯	NA	FALSE
-oj	oi̯	conventionalized	TRUE
-õj	õi̯	conventionalized	FALSE
-oɔ	oɔ	NA	FALSE
-ou	ou	NA	TRUE
-ou̯	ou̯	NA	TRUE
-øu	øu	NA	FALSE
-oʊ	oʊ	NA	TRUE
-oʊ̃	oʊ̃	NA	FALSE
-ow	ou̯	conventionalized	TRUE
-øy	øy	NA	TRUE
-øy̯	øy̯	NA	FALSE
-oˤ	oˤ	NA	TRUE
-oˤː	oːˤ	NA	FALSE
-ɶ	ɶ	NA	FALSE
-ɶː	ɶː	NA	FALSE
-ɔ	ɔ	NA	TRUE
-ɔ̃	ɔ̃	NA	TRUE
-ɔ̝	ɔ̝	NA	TRUE
-ɔ̞	ɔ̞	NA	FALSE
-ɔ̜	ɔ̜	NA	FALSE
-ɔ̞̃	ɔ̞̃	NA	FALSE
-ɔ̟̜	ɔ̟̜	NA	FALSE
-ɔ̟̜̰	ɔ̰̟̜	NA	FALSE
-ɔ̤	ɔ̤	NA	TRUE
-ɔ̰	ɔ̰	NA	TRUE
-ɔː	ɔː	NA	TRUE
-ɔː̃	ɔ̃ː	NA	TRUE
-ɔ̃ː	ɔ̃ː	NA	TRUE
-ɔ̟̜̃ː	ɔ̟̜̃ː	NA	FALSE
-ɔ̤̃ː	ɔ̤̃ː	NA	FALSE
-ɔ̞ː	ɔ̞ː	NA	FALSE
-ɔ̜ː	ɔ̜ː	NA	FALSE
-ɔ̞̃ː	ɔ̞̃ː	NA	FALSE
-ɔ̜̃ː	ɔ̜̃ː	NA	FALSE
-ɔ̟̜ː	ɔ̟̜ː	NA	FALSE
-ɔ̤ː	ɔ̤ː	NA	TRUE
-ɔ̰ː	ɔ̰ː	NA	TRUE
-ɔa	ɔa	NA	FALSE
-ɔaː	ɔaː	NA	FALSE
-ɔe	ɔe	NA	FALSE
-ɔi	ɔi	NA	TRUE
-ɔi̯	ɔi̯	NA	FALSE
-ɔɪ	ɔɪ	NA	TRUE
-ɔu	ɔu	NA	TRUE
-ɔu̯	ɔu̯	NA	FALSE
-ɔʊ	ɔʊ	NA	FALSE
-ɔʊ̯	ɔʊ̯	NA	FALSE
-ɔ̃ʊ̯̃	ɔ̃ʊ̯̃	NA	FALSE
-ɔw	ɔu̯	conventionalized	FALSE
-ɔy̯ː	ɔy̯ː	NA	FALSE
-ɔʏ	ɔʏ	NA	FALSE
-ɔˤː	ɔːˤ	NA	FALSE
-ɵ	ɵ	NA	TRUE
-ɵ̆	ɵ̆	NA	FALSE
-ɵ̃	ɵ̃	NA	TRUE
-ɵ̟	ɵ̟	NA	FALSE
-ɵ̞	ɵ̞	NA	TRUE
-ɵ̞̰	ɵ̰̞	NA	FALSE
-ɵː	ɵː	NA	TRUE
-ɵ̟ː	ɵː	conventionalized; TODO: investigate	TRUE
-ɵ̞ː	ɵ̞ː	NA	TRUE
-ɵə	ɵə	NA	FALSE
-ɵy	ɵy	NA	FALSE
-p	p	NA	TRUE
-p˞	p˞	NA	FALSE
-pː	pː	NA	TRUE
-pːʰ	pːʰ	NA	TRUE
-pf	pf	NA	TRUE
-pˠ	pˠ	NA	FALSE
-pˠʰ	pʰˠ	NA	FALSE
-pʰ	pʰ	NA	TRUE
-pʰ˞	p˞ʰ	NA	FALSE
-pʰʲ	pʰʲ	conventionalized	TRUE
-pʰʷ	pʰʷ	NA	TRUE
-pʰˤ	pʰˤ	NA	FALSE
-pʲ	pʲ	NA	TRUE
-pʲː	pːʲ	NA	FALSE
-pʲʰ	pʰʲ	NA	TRUE
-pʷ	pʷ	NA	TRUE
-pʼ	pʼ	NA	TRUE
-pʼʲ	pʲʼ	conventionalized	FALSE
-pʼʷ	pʷʼ	NA	FALSE
-pˤ	pˤ	NA	TRUE
-ɸ	ɸ	NA	TRUE
-q	q	NA	TRUE
-q̺	q̺	NA	FALSE
-qː	qː	NA	TRUE
-qːʷ	qːʷ	NA	TRUE
-qʰ	qʰ	NA	TRUE
-qʰʲ	qʰʲ	new segment type added	FALSE
-qʰʷ	qʰʷ	conventionalized	TRUE
-qʰʷʲ	qʰʲʷ	new segment type added	FALSE
-qʲ	qʲ	new segment type added	FALSE
-qʲʼ	qʲʼ	conventionalized	FALSE
-qʷ	qʷ	NA	TRUE
-qʷʰ	qʰʷ	NA	TRUE
-qʷʲ	qʲʷ	new segment type added	FALSE
-qʷʼ	qʷʼ	NA	TRUE
-qʼ	qʼ	NA	TRUE
-qʼː	qːʼ	NA	TRUE
-qʼːʷ	qːʷʼ	NA	FALSE
-qʼʲ	qʲʼ	new segment type added	FALSE
-qʼʷ	qʷʼ	NA	TRUE
-qʼʷʲ	qʲʷʼ	new segment type added	FALSE
-qˤ	qˤ	NA	FALSE
-qˤʼ	qˤʼ	NA	TRUE
-qχ	qχ	NA	TRUE
-qχːʰ	qχːʰ	NA	FALSE
-qχːʼ	qχːʼ	NA	TRUE
-qχʰ	qχʰ	NA	FALSE
-qχʼ	qχʼ	NA	TRUE
-r	r	NA	TRUE
-r̪	r̪	NA	TRUE
-r̺	r̺	NA	TRUE
-r̝	r̝	NA	TRUE
-r̩	r̩	NA	TRUE
-r̺̥	r̺̥	NA	FALSE
-r̥	r̥	NA	TRUE
-rː	rː	NA	TRUE
-r̥ː	r̥ː	NA	FALSE
-rʰ	rʰ	NA	FALSE
-rʱ	rʱ	NA	TRUE
-rʲ	rʲ	NA	TRUE
-r̺ʲ	r̺ʲ	new segment type added	FALSE
-r̥ʲ	r̥ʲ	NA	FALSE
-rʲː	rːʲ	NA	FALSE
-r̥ʲː	r̥ːʲ	NA	FALSE
-rˤ	rˤ	NA	TRUE
-ʀ	ʀ	NA	TRUE
-ɹ	ɹ	NA	TRUE
-ɹ̺	ɹ̺	NA	FALSE
-ɹ̥	ɹ̥	NA	FALSE
-ɺ	ɺ	NA	TRUE
-ɻ	ɻ	NA	TRUE
-ɻ̊	ɻ̊	NA	FALSE
-ɽ	ɽ	NA	TRUE
-ɽ̊	ɽ̊	NA	FALSE
-ɽ̃	ɽ̃	NA	TRUE
-ɽʰ	ɽʰ	NA	FALSE
-ɽʱ	ɽʱ	NA	TRUE
-ɽ̤ʱ	ɽ̤ʱ	NA	FALSE
-ɾ	ɾ	NA	TRUE
-ɾ̠	ɾ̠	NA	TRUE
-ɾ̪	ɾ̪	NA	TRUE
-ɾ̞	ɾ̞	NA	FALSE
-ɾ̻	ɾ̻	NA	FALSE
-ɾ̺	ɾ̺	NA	FALSE
-ɾ̥	ɾ̥	NA	TRUE
-ɾˠ	ɾˠ	NA	TRUE
-ɾ̪ˠ	ɾ̪ˠ	NA	TRUE
-ɾʲ	ɾʲ	NA	TRUE
-ɾ̪ʲ	ɾ̪ʲ	NA	TRUE
-ɾ̥ʲ	ɾ̥ʲ	NA	TRUE
-ɿ	ɹ̪̩	NA	TRUE
-ɿ̰	ɹ̪̰̩	NA	FALSE
-ɿ̹	ɹ̪̹̩	NA	FALSE
-ɿˠ	ɹ̪̩ˠ	NA	FALSE
-ʁ	ʁ	NA	TRUE
-ʁ̞	ʁ̞	NA	TRUE
-ʁː	ʁː	NA	TRUE
-ʁʲ	ʁʲ	new segment type added	FALSE
-ʁʷ	ʁʷ	NA	TRUE
-ʁˤ	ʁˤ	NA	TRUE
-s	s	NA	TRUE
-ŝ	ʆ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
-s̻	s̻	NA	TRUE
-s̪	s̪	NA	TRUE
-s͇	s͇	NA	FALSE
-s̺	s̺	NA	TRUE
-s̠	s̠	NA	FALSE
-s̩	s̩	NA	FALSE
-s̺̠	s̺̠	NA	FALSE
-s̪̻	s̪̻	NA	FALSE
-s̠̻	s̻̠	NA	FALSE
-sː	sː	NA	TRUE
-s̺ː	s̺ː	NA	FALSE
-s̪ː	s̪ː	NA	TRUE
-sːʼ	sːʼ	NA	TRUE
-sˠ	sˠ	NA	TRUE
-sʰ	sʰ	NA	TRUE
-sʲ	sʲ	NA	TRUE
-s̪ʲ	s̪ʲ	NA	TRUE
-sʲː	sːʲ	NA	FALSE
-sʲʰ	sʰʲ	NA	FALSE
-sʷ	sʷ	NA	TRUE
-ŝʷ	ʆʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
-s̪ʷ	s̪ʷ	NA	TRUE
-s̪ʷʲ	s̪ʲʷ	new segment type added	FALSE
-sʼ	sʼ	NA	TRUE
-ŝʼ	ʆʼ	NA	TRUE
-ŝʼʷ	ʆʷʼ	NA	FALSE
-sˤ	sˤ	NA	TRUE
-s̪ˤ	s̪ˤ	NA	TRUE
-ʂ	ʂ	NA	TRUE
-ʂ̻	ʂ̻	NA	FALSE
-ʂː	ʂː	NA	FALSE
-ʂʰ	ʂʰ	NA	FALSE
-ʃ	ʃ	NA	TRUE
-ʃ̺	ʃ̺	NA	TRUE
-ʃ̞	ʃ̞	NA	FALSE
-ʃː	ʃː	NA	TRUE
-ʃːʲ	ʃːʲ	NA	FALSE
-ʃːʷ	ʃːʷ	NA	TRUE
-ʃːʼ	ʃːʼ	NA	FALSE
-ʃʰ	ʃʰ	NA	TRUE
-ʃʲ	ʃʲ	NA	TRUE
-ʃʷ	ʃʷ	NA	TRUE
-ʃʼ	ʃʼ	NA	TRUE
-ʃ̞ʼ	ʃ̞ʼ	NA	FALSE
-ʅ	ɻ̩	NA	FALSE
-ʅ̹	ɻ̹̩	NA	FALSE
-t	t	NA	TRUE
-t̪	t̪	NA	TRUE
-t̺	t̺	NA	TRUE
-t̻	t̻	NA	TRUE
-t̪̺	t̪̺	NA	FALSE
-t̪̻	t̪̻	NA	FALSE
-t̺̪	t̪̺	NA	FALSE
-tː	tː	NA	TRUE
-t̪ː	t̪ː	NA	TRUE
-tɕ	tɕ	NA	TRUE
-t̻ɕ̻	t̻ɕ̻	NA	FALSE
-t̺ɕ̺	t̺ɕ̺	NA	FALSE
-tɕː	tɕː	NA	FALSE
-tɕʰ	tɕʰ	NA	TRUE
-t̻ɕ̻ʰ	t̻ɕ̻ʰ	NA	FALSE
-tɕʼ	tɕʼ	NA	FALSE
-t̺ɕ̺ʼ	t̺ɕ̺ʼ	NA	FALSE
-t̪ˠ	t̪ˠ	NA	FALSE
-t̪ˠʰ	t̪ʰˠ	NA	TRUE
-tʰ	tʰ	NA	TRUE
-t̺ʰ	t̺ʰ	new segment type added	FALSE
-t̻ʰ	t̻ʰ	NA	TRUE
-t̪ʰ	t̪ʰ	NA	TRUE
-tʰʲ	tʰʲ	NA	TRUE
-t̪ʰʲ	t̪ʰʲ	conventionalized	TRUE
-tʰʷ	tʰʷ	NA	TRUE
-t̪ʰʷ	t̪ʰʷ	conventionalized	TRUE
-t̪ʰʷʲ	t̪ʰʲʷ	new segment type added	FALSE
-t̪ʰˤ	t̪ʰˤ	NA	FALSE
-tʲ	tʲ	NA	TRUE
-t̪ʲ	t̪ʲ	NA	TRUE
-t̠ʲ	t̠ʲ	NA	FALSE
-tʲʰ	tʰʲ	NA	TRUE
-t̪ɬ	t̪ɬ	NA	FALSE
-tɬː	tɬː	NA	FALSE
-tɬːʰ	tɬːʰ	NA	FALSE
-tɬːʼ	tɬːʼ	NA	FALSE
-tɬʰ	tɬʰ	NA	TRUE
-tɬʰʷ	tɬʰʷ	NA	FALSE
-tɬʼ	tɬʼ	NA	TRUE
-t̪ɬʼ	t̪ɬʼ	NA	FALSE
-tɬʼː	tɬːʼ	NA	FALSE
-tɬʼʷ	tɬʷʼ	NA	FALSE
-ts	ts	NA	TRUE
-tˢ	tsʰ	aspirated and strongly affricated	TRUE
-ts̪	ts̪	NA	TRUE
-ts̻	ts̻	NA	FALSE
-ts̺	ts̺	NA	FALSE
-t̪s	t̪s	NA	TRUE
-t̺s̺	t̺s̺	NA	TRUE
-t̪s̪	t̪s̪	NA	TRUE
-t͇s͇	t͇s͇	NA	FALSE
-t̻s̻	t̻s̻	NA	TRUE
-t̻s̻̪	t̻s̪̻	NA	FALSE
-t̪̻s̪̻	t̪̻s̪̻	NA	FALSE
-tsː	tsː	NA	TRUE
-t̪s̪ː	t̪s̪ː	NA	TRUE
-t̺s̺ː	t̺s̺ː	NA	FALSE
-tsːʰ	tsːʰ	NA	TRUE
-tsːʼ	tsːʼ	NA	TRUE
-tsʰ	tsʰ	NA	TRUE
-tŝʰ	t̠ʆʰ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
-t̺s̺ʰ	t̺s̺ʰ	NA	FALSE
-t͇s͇ʰ	t͇s͇ʰ	NA	FALSE
-t̪s̪ʰ	t̪s̪ʰ	NA	TRUE
-t̪s̪ʰʲ	t̪s̪ʰʲ	new segment type added	FALSE
-tsʰʷ	tsʰʷ	NA	TRUE
-t̪s̪ʰʷ	t̪s̪ʰʷ	conventionalized	TRUE
-t̪s̪ʰʷʲ	t̪s̪ʰʲʷ	new segment type added	FALSE
-tsʰˤ	tsʰˤ	NA	FALSE
-tsʲ	tsʲ	NA	TRUE
-t̪ˢʲ	t̪ʲ	probably marks frication	TRUE
-t̪s̪ʲ	t̪s̪ʲ	NA	TRUE
-tsʲː	tsːʲ	NA	FALSE
-tŝʷ	t̠ʆʷ	NA	TRUE
-t̪s̪ʷ	t̪s̪ʷ	conventionalized	FALSE
-tŝʷʰ	t̠ʆʰʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
-t̪s̪ʷʲ	t̪s̪ʲʷ	new segment type added	FALSE
-tŝʷʼ	t̠ʆʷʼ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
-tsʼ	tsʼ	NA	TRUE
-tŝʼ	t̠ʆ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
-t̪s̪ʼ	t̪s̪ʼ	NA	TRUE
-t̺s̺ʼ	t̺s̺ʼ	NA	FALSE
-tsʼː	tsːʼ	NA	TRUE
-t̪s̪ʼʲ	t̪s̪ʲʼ	new segment type added	FALSE
-tsʼʷ	tsʷʼ	NA	TRUE
-t̪s̪ʼʷ	t̪s̪ʷʼ	conventionalized	TRUE
-t̪s̪ʼʷʲ	t̪s̪ʲʷʼ	new segment type added	FALSE
-tʂ	ʈʂ	conventionalized	TRUE
-tʂʰ	ʈʂʰ	conventionalized	TRUE
-tʃ	t̠ʃ	NA	TRUE
-tʃ̺	t̠ʃ̺	NA	FALSE
-t̺ʃ̺	t̺ʃ̺	NA	FALSE
-t̻ʃ̻	t̻ʃ̻	NA	FALSE
-tʃː	t̠ʃː	NA	TRUE
-tʃːʰ	t̠ʃːʰ	NA	TRUE
-tʃːʲ	t̠ʃːʲ	NA	FALSE
-tʃːʷ	t̠ʃːʷ	NA	TRUE
-tʃːʼ	t̠ʃːʼ	NA	TRUE
-tʃʰ	t̠ʃʰ	NA	TRUE
-tʃ̺ʰ	t̠ʃ̺ʰ	NA	TRUE
-tʃʰʷ	t̠ʃʰʷ	NA	TRUE
-tʃʰˤ	t̠ʃʰˤ	NA	FALSE
-tʃʲ	t̠ʃʲ	NA	TRUE
-tʃʷ	t̠ʃʷ	NA	TRUE
-t̺ʃ̺ʷ	t̺ʃ̺ʷ	NA	FALSE
-tʃʷʰ	t̠ʃʰʷ	NA	TRUE
-tʃʼ	t̠ʃʼ	NA	TRUE
-tʃʼː	t̠ʃːʼ	NA	TRUE
-tʃʼʷ	t̠ʃʷʼ	NA	TRUE
-tʃʼˤ	t̠ʃˤʼ	NA	FALSE
-tʃˤ	t̠ʃˤ	NA	FALSE
-tʷ	tʷ	NA	TRUE
-t̪ʷ	t̪ʷ	NA	TRUE
-tʷʰ	tʰʷ	NA	TRUE
-t̪ʷʲ	t̪ʲʷ	new segment type added	FALSE
-tʷʼ	tʷʼ	conventionalized	FALSE
-tʼ	tʼ	NA	TRUE
-t̪ʼ	t̪ʼ	NA	TRUE
-t̺ʼ	t̺ʼ	NA	FALSE
-t̪ʼʲ	t̪ʲʼ	conventionalized	FALSE
-tʼʷ	tʷʼ	NA	FALSE
-t̪ʼʷ	t̪ʷʼ	conventionalized	FALSE
-t̪ʼʷʲ	t̪ʲʷʼ	new segment type added	FALSE
-t̪ʼˤ	t̪ˤʼ	NA	FALSE
-tˤ	tˤ	NA	TRUE
-t̪ˤ	t̪ˤ	NA	TRUE
-ʈ	ʈ	NA	TRUE
-ʈʰ	ʈʰ	NA	TRUE
-ʈɽ	ʈɽ	NA	TRUE
-ʈɽʰ	ʈɽʰ	NA	FALSE
-ʈʂ	ʈʂ	NA	TRUE
-ʈ̻ʂ̻	ʈ̻ʂ̻	NA	FALSE
-ʈʂʰ	ʈʂʰ	NA	TRUE
-ʈʂʼ	ʈʂʼ	NA	TRUE
-u	u	NA	TRUE
-ŭ	ŭ	NA	TRUE
-ũ	ũ	NA	TRUE
-u̞	u̞	NA	TRUE
-u̜	u̜	NA	TRUE
-u̯	u̯	NA	FALSE
-u̙	u̙	NA	TRUE
-u̟	u̟	NA	FALSE
-ũ̯	ũ̯	NA	FALSE
-ṳ	ṳ	NA	TRUE
-ṵ	ṵ	NA	TRUE
-u˞	u˞	NA	TRUE
-u˞ˤ	u˞ˤ	new segment type added	FALSE
-u˞ˤː	u˞ːˤ	new segment type added	FALSE
-uː	uː	NA	TRUE
-uː̃	ũː	NA	TRUE
-ũː	ũː	NA	TRUE
-ṳ̃ː	ṳ̃ː	NA	FALSE
-u̞ː	u̞ː	NA	TRUE
-ṵː	ṵː	NA	FALSE
-uːe	uːe	NA	FALSE
-uːə	uːə	NA	FALSE
-uːʌ	uːʌ	NA	TRUE
-u̞ˑ	u̞ˑ	NA	FALSE
-ua	ua	NA	TRUE
-uä	uä	NA	FALSE
-uã	uã	NA	TRUE
-ua̟	ua̟	NA	FALSE
-ũã	ũã	NA	FALSE
-u̯a	u̯a	NA	FALSE
-uæ	uæ	NA	FALSE
-uai	uai	NA	TRUE
-uɐ	uɐ	NA	FALSE
-uɑ	uɑ	guess	FALSE
-uɑ̃	uɑ̃	NA	FALSE
-u̯ɑ	u̯ɑ	NA	FALSE
-uɑ˞	uɑ˞	NA	FALSE
-uɑi	uɑi	NA	FALSE
-ue	ue	NA	TRUE
-uẽ	uẽ	NA	TRUE
-ue̞	ue̞	NA	FALSE
-uei	uei	NA	TRUE
-uə	uə	NA	TRUE
-uə̯	uə̯	NA	FALSE
-uəi	uəi	new segment type added	FALSE
-uɛ	uɛ	NA	TRUE
-uɛ̃	uɛ̃	NA	FALSE
-uɜ	uɜ	NA	FALSE
-ui	ui	NA	TRUE
-ui̯	ui̯	NA	TRUE
-ũĩ	ũĩ	NA	TRUE
-uj	ui̯	conventionalized	TRUE
-uo	uo	NA	TRUE
-uo̞	uo̞	NA	FALSE
-ũo	ũo	NA	FALSE
-u̯o	u̯o	NA	FALSE
-u̯õ	u̯õ	NA	FALSE
-uoː	uoː	NA	FALSE
-ũoː	ũoː	NA	FALSE
-uœ	uœ	NA	FALSE
-uɔ	uɔ	NA	TRUE
-u̯ɔ	u̯ɔ	NA	FALSE
-uɔː	uɔː	NA	FALSE
-ũɔ̃ː	ũɔ̃ː	NA	FALSE
-uu̯	uu̯	NA	FALSE
-u̠u	u̠u	NA	FALSE
-uʌ	uʌ	NA	TRUE
-uˤ	uˤ	NA	TRUE
-uˤː	uːˤ	NA	TRUE
-ʉ	ʉ	NA	TRUE
-ʉ̃	ʉ̃	NA	TRUE
-ʉ̞	ʉ̞	NA	TRUE
-ʉ̟	ʉ̟	NA	TRUE
-ʉ̰	ʉ̰	NA	FALSE
-ʉː	ʉː	NA	TRUE
-ʉ̃ː	ʉ̃ː	NA	FALSE
-ʉ̟ː	ʉ̟ː	NA	FALSE
-ʉɞ̠	ʉɞ̠	NA	FALSE
-ʉi̯	ʉi̯	NA	FALSE
-ʉœ̠	ʉœ̠	NA	FALSE
-ʉu	ʉu	NA	FALSE
-ɥ	ɥ	NA	TRUE
-ɥ̊	ɥ̊	NA	FALSE
-ɥˤ	ɥˤ	new segment type added	FALSE
-ɯ	ɯ	NA	TRUE
-ɯ̃	ɯ̃	NA	TRUE
-ɯ̽	ɯ̽	NA	FALSE
-ɯ̞	ɯ̞	NA	TRUE
-ɯ̝	ɯ̝	NA	FALSE
-ɯ̟	ɯ̟	NA	FALSE
-ɯ̙	ɯ̙	NA	FALSE
-ɯ̤	ɯ̤	NA	TRUE
-ɯ̰	ɯ̰	NA	TRUE
-ɯː	ɯː	NA	TRUE
-ɯ̃ː	ɯ̃ː	NA	TRUE
-ɯ̽ː	ɯ̽ː	NA	FALSE
-ɯ̰̽ː	ɯ̰̽ː	NA	FALSE
-ɯˑ	ɯˑ	NA	FALSE
-ɯa	ɯa	NA	TRUE
-ɯɑ	ɯɑ	NA	FALSE
-ɯə	ɯə	NA	TRUE
-ɯ̙i̯	ɯ̙i̯	NA	FALSE
-ɯɪ̯	ɯɪ̯	NA	FALSE
-ɯo	ɯo	NA	FALSE
-ɰ	ɰ	NA	TRUE
-ʊ	ʊ	NA	TRUE
-ʊ̆	ʊ̆	NA	TRUE
-ʊ̈	ʊ̈	NA	TRUE
-ʊ̞̈	ʊ̞̈	NA	FALSE
-ʊ̜̈	ʊ̜̈	NA	FALSE
-ʊ̃	ʊ̃	NA	TRUE
-ʊ̞	ʊ̞	NA	FALSE
-ʊ̯	ʊ̯	NA	TRUE
-ʊ̜	ʊ̜	NA	FALSE
-ʊ̰	ʊ̰	NA	FALSE
-ʊː	ʊː	NA	TRUE
-ʊ̃ː	ʊ̃ː	NA	TRUE
-ʊa	ʊa	NA	TRUE
-ʊə	ʊə	NA	FALSE
-ʊi	ʊi	NA	TRUE
-ʊ̈i	ʊ̈i	NA	FALSE
-ʊɪ	ʊɪ	NA	TRUE
-ʊ̯ɔ	ʊ̯ɔ	NA	FALSE
-ʊˤː	ʊːˤ	NA	FALSE
-v	v	NA	TRUE
-v̩	v̩	NA	TRUE
-v̥	v̥	NA	FALSE
-vː	vː	NA	TRUE
-vˠ	vˠ	NA	FALSE
-vʲ	vʲ	NA	TRUE
-vˤ	vˤ	NA	FALSE
-ʋ	ʋ	NA	TRUE
-ʋ̩	ʋ̩	NA	FALSE
-ʋʲ	ʋʲ	NA	FALSE
-ʌ	ʌ	NA	TRUE
-ʌ̃	ʌ̃	NA	TRUE
-ʌ̤	ʌ̤	NA	TRUE
-ʌː	ʌː	NA	TRUE
-ʌ̤ː	ʌ̤ː	NA	TRUE
-ʌj	ʌy	guess	FALSE
-ʌu	ʌu	NA	FALSE
-ʌw	ʌɯ	guess	FALSE
-ʌˤː	ʌːˤ	NA	FALSE
-w	w	NA	TRUE
-w̜	w̜	NA	FALSE
-w̥	w̥	NA	TRUE
-wa	u̯a	conventionalized	TRUE
-wã	u̯ã	conventionalized	FALSE
-waː	u̯aː	conventionalized	FALSE
-wæi	u̯æi	conventionalized	FALSE
-wai	u̯ai	conventionalized	FALSE
-ʷd	ʷd	NA	FALSE
-we	u̯e	conventionalized	TRUE
-wei̯	u̯ei̯	conventionalized	TRUE
-weu̯	u̯eu̯	conventionalized	FALSE
-wə	u̯ə	conventionalized	TRUE
-wə̃	u̯ə̃	conventionalized	FALSE
-wɛ	u̯ɛ	NA	FALSE
-wɛ̃	u̯ɛ̃	conventionalized	FALSE
-wɛi	u̯ɛi	conventionalized	FALSE
-wɛi̯	u̯ɛi̯	conventionalized	FALSE
-wʰ	wʰ	NA	FALSE
-wi	u̯i	NA	TRUE
-wʲ	wʲ	NA	TRUE
-w̜ʲ	w̜ʲ	NA	FALSE
-ʷɟ	ʷɟ	NA	FALSE
-ʷl	ʷl	NA	FALSE
-ʷm	ʷm	NA	FALSE
-wo	u̯o	conventionalized	TRUE
-wõ	u̯õ	conventionalized	FALSE
-woː	u̯oː	conventionalized	FALSE
-wõː	u̯õː	conventionalized	FALSE
-wɔ	u̯ɔ	conventionalized	FALSE
-wɔ̃	u̯ɔ̃	conventionalized	FALSE
-wɔː	u̯ɔː	conventionalized	FALSE
-ʷr	ʷr	NA	FALSE
-ʷz	ʷz	NA	FALSE
-ʷʐ	ʷʐ	NA	FALSE
-ʷʑ	ʷʑ	NA	FALSE
-ʍ	ʍ	NA	TRUE
-x	x	NA	TRUE
-x̠	x̠	NA	FALSE
-xː	xː	NA	TRUE
-xːʷ	xːʷ	NA	TRUE
-xʰ	xʰ	NA	FALSE
-xʲ	xʲ	NA	TRUE
-xʲː	xːʲ	NA	FALSE
-xk	xk	NA	FALSE
-xʷ	xʷ	NA	TRUE
-y	y	NA	TRUE
-ỹ	ỹ	NA	TRUE
-y̠	y̠	NA	FALSE
-y̞	y̞	NA	FALSE
-y̤	y̤	NA	TRUE
-y̰	y̰	NA	FALSE
-yː	yː	NA	TRUE
-ỹː	ỹː	NA	FALSE
-y̰ː	y̰ː	NA	FALSE
-yˑ	yˑ	NA	FALSE
-ya	ya	NA	FALSE
-yæ	yæ	NA	FALSE
-ye	ye	NA	TRUE
-yə	yə	NA	TRUE
-yə̯	yə̯	NA	FALSE
-yɛ	yɛ	NA	FALSE
-yɜ	yɜ	NA	FALSE
-yi	yi	NA	FALSE
-yĩ	yĩ	NA	FALSE
-yi̯	yi̯	NA	FALSE
-yo	yo	NA	FALSE
-yø	yø	NA	FALSE
-yø̞	yø̞	NA	TRUE
-y̯ø	y̯ø	NA	FALSE
-yœ	yœ	NA	FALSE
-ỹœ	ỹœ	NA	FALSE
-yœː	yœː	NA	FALSE
-ỹœː	ỹœː	NA	FALSE
-yu	yu	NA	FALSE
-yu̯	yu̯	NA	FALSE
-ʏ	ʏ	NA	TRUE
-ʏ̃	ʏ̃	NA	FALSE
-ʏː	ʏː	NA	FALSE
-ʏ̃ː	ʏ̃ː	NA	FALSE
-ʏi̯	ʏi̯	NA	FALSE
-z	z	NA	TRUE
-ẑ	ʓ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	TRUE
-z̩	z̩	NA	TRUE
-z͇	z͇	NA	TRUE
-z̠	z̠	NA	FALSE
-z̻	z̻	NA	TRUE
-z̪	z̪	NA	TRUE
-z̺	z̺	NA	TRUE
-z̪̻	z̪̻	NA	FALSE
-z̥	z̥	NA	TRUE
-zː	zː	NA	TRUE
-zʲ	zʲ	NA	TRUE
-z̪ʲ	z̪ʲ	NA	TRUE
-zʲː	zːʲ	NA	FALSE
-zʷ	zʷ	NA	TRUE
-ẑʷ	ʓʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants	FALSE
-z̪ʷ	z̪ʷ	NA	TRUE
-zˤ	zˤ	NA	TRUE
-z̪ˤ	z̪ˤ	NA	TRUE
-ʐ	ʐ	NA	TRUE
-ʐ̻	ʐ̻	NA	FALSE
-ʐʲ	ʐʲ	NA	FALSE
-ʑ	ʑ	NA	TRUE
-ʒ	ʒ	NA	TRUE
-ʒ̊	ʒ̊	NA	FALSE
-ʒ̩	ʒ̩	NA	FALSE
-ʒ̺	ʒ̺	NA	TRUE
-ʒːʲ	ʒːʲ	NA	FALSE
-ʒʲ	ʒʲ	NA	TRUE
-ʒʷ	ʒʷ	NA	TRUE
-ʒˤ	ʒˤ	NA	FALSE
-ʔ	ʔ	NA	TRUE
-ʔ̃	ʔ̃	NA	FALSE
-ʔː	ʔː	NA	TRUE
-ʔʷ	ʔʷ	NA	TRUE
-ʔʼ	ʔʼ	NA	FALSE
-ʔʼʷ	ʔʷʼ	NA	FALSE
-ʔˤ	ʔˤ	NA	TRUE
-ʼb	ʼb	NA	FALSE
-ʼd	ʼd	NA	FALSE
-ʼɡ	ʼɡ	NA	FALSE
-ʼɣ	ʼɣ	NA	FALSE
-ʼj	ʼj	NA	FALSE
-ʼl	ʼl	NA	FALSE
-ʼm	ʼm	NA	TRUE
-ʼn	ʼn	NA	TRUE
-ʼɲ	ʼɲ	NA	FALSE
-ʼŋ	ʼŋ	NA	FALSE
-ʼs	ʼs	NA	FALSE
-ʼʃ	ʼʃ	NA	FALSE
-ʼw	ʼw	NA	FALSE
-ʕ	ʕ	NA	TRUE
-ʡ	ʡ	NA	TRUE
-ʡˤ	ʡˤ	NA	FALSE
-ʢ	ʢ	NA	FALSE
-ʢʷ	ʢʷ	NA	FALSE
-β	β	NA	TRUE
-β̞	β̞	NA	TRUE
-βː	βː	NA	FALSE
-βʲ	βʲ	NA	TRUE
-βʲː	βːʲ	NA	FALSE
-θ	θ	NA	TRUE
-θ̪	θ̪	NA	FALSE
-θ̻	θ̻	NA	FALSE
-θʼ	θʼ	NA	FALSE
-χ	χ	NA	TRUE
-χː	χː	NA	TRUE
-χːʷ	χːʷ	NA	TRUE
-χːʼ	χːʼ	NA	FALSE
-χʲ	χʲ	new segment type added	FALSE
-χʷ	χʷ	NA	TRUE
-χʷʲ	χʲʷ	new segment type added	FALSE
-χˤ	χˤ	NA	TRUE
-χˤʷ	χˤʷ	new segment type added	TRUE
+Segment	Phoneme	Notes
+ ʑ	ʑ	test
+(ã)	<ã>	NA
+(bʲ)	<bʲ>	NA
+(ɕ)	<ɕ>	NA
+(dʲ)	<dʲ>	NA
+(dz̪)	<dz̪>	NA
+(e̞ː)	<e̞ː>	NA
+(ə)	<ə>	NA
+(ɛ̃)	<ɛ̃>	NA
+(ɛː)	<ɛː>	NA
+(gʲ)	<ɡʲ>	NA
+(iː)	<iː>	NA
+(i̯e̞)	<i̯e̞>	NA
+(lʲ)	<lʲ>	NA
+(nʲ)	<nʲ>	NA
+(œ)	<œ>	NA
+(œː)	<œː>	NA
+(ɔ̃)	<ɔ̃>	NA
+(ɔː)	<ɔː>	NA
+(sʲ)	<sʲ>	NA
+(ʃ)	<ʃ>	NA
+(uː)	<uː>	NA
+(ɯ̯ɤ̞)	<ɯ̯ɤ̞>	NA
+(ɯi̯)	<ɯi̯>	NA
+(yː)	<yː>	NA
+(z)	<z>	NA
+(ʑ)	<ʑ>	NA
+(ʒ)	<ʒ>	NA
+a	a	NA
+ä	ä	conventionalized
+ä	ä	NA
+ä̃	ã̈	NA
+ä̠	ä̠	NA
+ä̤	ä̤	NA
+ã	ã	NA
+ã̤	ã̤	NA
+a̟	a̟	NA
+a̤	a̤	NA
+a̰	a̰	NA
+a˞	a˞	NA
+a˞ː	a˞ː	new segment type added
+a˞ˤ	a˞ˤ	new segment type added
+aː	aː	NA
+äː	äː	new segment type added
+äː	äː	new segment type added
+äː̃	ã̈ː	NA
+ä̃ː	ã̈ː	NA
+ä̤̃ː	ã̤̈ː	NA
+ä̠ː	ä̠ː	NA
+ãː	ãː	NA
+a̤ː	a̤ː	NA
+aːi	aːi	NA
+aːi̯	aːi̯	NA
+aːɪ	aːɪ	NA
+aːu	aːu	NA
+aːu̯	aːu̯	NA
+ae	ae	NA
+ae̯	ae̯	NA
+æ	æ	NA
+æ̃	æ̃	NA
+æ̰	æ̰	NA
+æː	æː	NA
+æːi	æːi	NA
+æːʊ	æːʊ	NA
+æˑ	æˑ	NA
+æɛ	æɛ	NA
+æi	æi	NA
+æi̯	æi̯	NA
+æɪ̯	æɪ̯	NA
+æ̃ɪ̯̃	æ̃ɪ̯̃	NA
+æu̯	æu̯	NA
+aə	aə	NA
+aɛ	aɛ	NA
+ãɛ̃	ãɛ̃	NA
+ai	ai	NA
+ai̯	ai̯	NA
+äi̯	äi̯	NA
+ãĩ	ãĩ	NA
+ai̯ː	ai̯ː	NA
+aɪ	aɪ	NA
+aɪ̃	aɪ̃	NA
+a̰ɪ̰	a̰ɪ̰	NA
+ãɪ̯ː	ãɪ̯ː	NA
+aj	ai̯	conventionalized
+ãj	ãi̯	conventionalized
+ao	ao	NA
+ãõ	ãõ	NA
+aɵ̯	aɵ̯	NA
+au	au	NA
+au̯	au̯	NA
+äu̯	äu̯	NA
+ãũ	ãũ	NA
+auː	auː	NA
+aɯ̃	aɯ̃	NA
+a̰ɯ̰	a̰ɯ̰	NA
+aɰ	aɯ	guess
+aʊ	aʊ	NA
+aʊ̃	aʊ̃	NA
+aw	au̯	conventionalized
+ãw	ãu̯	conventionalized
+ãw̃	ãũ̯	conventionalized
+aˤ	aˤ	NA
+aˤː	aːˤ	NA
+ɐ	ɐ	NA
+ɐ̆	ɐ̆	NA
+ɐ̃	ɐ̃	NA
+ɐ̹̆	ɐ̹̆	NA
+ɐː	ɐː	NA
+ɐi	ɐi	NA
+ɐi̯	ɐi̯	NA
+ɐɪ	ɐɪ	NA
+ɐu	ɐu	NA
+ɑ	ɑ	NA
+ɑ̆	ɑ̆	NA
+ɑ̃	ɑ̃	NA
+ɑ̝	ɑ̝	NA
+ɑ̙	ɑ̙	NA
+ɑ̝̟	ɑ̝̟	NA
+ɑ̝̹	ɑ̝̹	NA
+ɑ̤	ɑ̤	NA
+ɑ˞	ɑ˞	NA
+ɑː	ɑː	NA
+ɑ̃ː	ɑ̃ː	NA
+ɑ̟ː	ɑ̟ː	NA
+ɑ̝ː	ɑ̝ː	NA
+ɑ̰ː	ɑ̰ː	NA
+ɑːi̯	ɑːi̯	NA
+ɑˑ	ɑˑ	NA
+ɑ̟ˑ	ɑ̟ˑ	NA
+ɑi	ɑi	NA
+ɑi̯	ɑi̯	NA
+ɑj	ɑy	guess
+ɑu	ɑu	NA
+ɑʊ	ɑʊ	NA
+ɑʊ̯	ɑʊ̯	NA
+ɑw	ɑɯ	guess
+ɒ	ɒ	NA
+ɒ̃	ɒ̃	NA
+ɒː	ɒː	NA
+ɒ̃ː	ɒ̃ː	NA
+ɒːi̯	ɒːi̯	NA
+b	b	NA
+b̥	b̥	NA
+b˞	b˞	NA
+bː	bː	NA
+b̥ː	b̥ː	NA
+bˠ	bˠ	NA
+bʰ	bʰ	NA
+bʱ	bʱ	NA
+b̤ʱ	b̤ʱ	NA
+bʲ	bʲ	NA
+bʲː	bːʲ	NA
+bˤ	bˤ	NA
+ɓ	ɓ	NA
+c	c	NA
+ç	ç	conventionalized
+ç̟	ç̟	NA
+c̟	c̟	NA
+çː	çː	NA
+cːʰ	cːʰ	NA
+cç	cç	NA
+cçː	cçː	NA
+cçʰ	cçʰ	NA
+cʰ	cʰ	NA
+çʰ	çʰ	NA
+cʼ	cʼ	NA
+ɕ	ɕ	NA
+ɕː	ɕː	NA
+ɕʰ	ɕʰ	NA
+ɕʼ	ɕʼ	NA
+d	d	NA
+d̻	d̻	NA
+d̺	d̺	NA
+d̪	d̪	NA
+d̪̺	d̪̺	NA
+d̪̻	d̪̻	NA
+d̪̥	d̪̥	NA
+d̺̥	d̺̥	NA
+d̥	d̥	NA
+ð	ð	NA
+ð̞	ð̞	NA
+ð̺̞	ð̺̞	NA
+ð̺̪	ð̪̺	NA
+dː	dː	NA
+d̥ː	d̥ː	NA
+ðː	ðː	NA
+d̪ˠ	d̪ˠ	NA
+ð͇ˠ	ð͇ˠ	NA
+dʰ	dʰ	NA
+d̪ʰ	d̪ʰ	NA
+dʱ	dʱ	NA
+d̺ʱ	d̺ʱ	NA
+d̪ʱ	d̪ʱ	NA
+d̻̤ʱ	d̤̻ʱ	NA
+d̪̤ʱ	d̤̪ʱ	NA
+dʲ	dʲ	NA
+d̪ʲ	d̪ʲ	NA
+d̠ʲ	d̠ʲ	NA
+d̥ʲ	d̥ʲ	NA
+ðʲ	ðʲ	NA
+dʷ	dʷ	NA
+dz	dz	NA
+dẑ	d̠ʓ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+dz̻	dz̻	NA
+dz̺	dz̺	NA
+d̪z	d̪z	NA
+d͇z͇	d͇z͇	NA
+d̺z̺	d̺z̺	NA
+d̪z̪	d̪z̪	NA
+d̺̥z̺̥	d̺̥z̺̥	NA
+d̥z̥	d̥z̥	NA
+dzː	dzː	NA
+d̺z̺ː	d̺z̺ː	NA
+dzʰ	dzʰ	NA
+dzʱ	dzʱ	NA
+dzʲ	dzʲ	NA
+d̪ᶻʲ	d̪ʲ	probably marks frication
+d̪z̪ʲ	d̪z̪ʲ	NA
+d̥z̥ʲ	d̥z̥ʲ	NA
+dẑʷ	d̠ʓʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+dʐ	ɖʐ	conventionalized
+dʑ	dʑ	NA
+d̻ʑ̻	d̻ʑ̻	NA
+d̥ʑ̥	d̥ʑ̥	NA
+dʑʰ	dʑʰ	NA
+d̻ʑ̻ʱ	d̻ʑ̻ʱ	NA
+dʒ	d̠ʒ	NA
+d̻ʒ̻	d̻ʒ̻	NA
+d̺ʒ̺	d̺ʒ̺	NA
+d̥ʒ̊	d̥ʒ̊	NA
+d̥ʒ̥	d̥ʒ̥	NA
+dʒː	d̠ʒː	NA
+dʒʰ	d̠ʒʰ	NA
+dʒʱ	d̠ʒʱ	NA
+d̤ʒ̤ʱ	d̤ʒ̤ʱ	NA
+dʒʲ	d̠ʒʲ	NA
+d̺ʒ̺ʷ	d̺ʒ̺ʷ	NA
+dʼ	dʼ	NA
+ðʼ	ðʼ	NA
+dˤ	dˤ	NA
+d̪ˤ	d̪ˤ	NA
+ðˤ	ðˤ	NA
+ɖ	ɖ	NA
+ɖː	ɖː	NA
+ɖʰ	ɖʰ	NA
+ɖʱ	ɖʱ	NA
+ɖ̤ʱ	ɖ̤ʱ	NA
+ɖɽ	ɖɽ	NA
+ɖʐ	ɖʐ	NA
+ɖ̻ʐ̻	ɖ̻ʐ̻	NA
+ɖ̥ʐ̥	ɖ̥ʐ̥	NA
+ɗ	ɗ	NA
+ᶑ	ᶑ	NA
+e	e	NA
+ĕ	ĕ	NA
+ẽ	ẽ	NA
+ẽ̞	ẽ̞	NA
+e̞	e̞	NA
+e̠	e̠	NA
+ẽ̞	ẽ̞	NA
+e̞̰	ḛ̞	NA
+e̤	e̤	NA
+ḛ	ḛ	NA
+e˞	e˞	new segment type added
+eː	eː	NA
+ẽː	ẽː	NA
+e̞ː	e̞ː	NA
+ẽ̞ː	ẽ̞ː	NA
+e̤ː	e̤ː	NA
+eːi̯	eːi̯	NA
+eˑ	eˑ	NA
+ea	ea	NA
+e̯ä	e̯ä	NA
+eə	eə	NA
+eɛ	eɛ	NA
+ei	ei	NA
+ei̯	ei̯	NA
+eɪ	eɪ	NA
+eɪ̃	eɪ̃	NA
+ẽɪ̃	ẽɪ̃	NA
+ḛɪ̰	ḛɪ̰	NA
+ej	ei̯	conventionalized
+ẽj	ẽi̯	conventionalized
+eo	eo	NA
+eu	eu	NA
+eu̯	eu̯	NA
+e̞u̯	e̞u̯	NA
+ew	ue	guess
+ə	ə	NA
+ə̆	ə̆	NA
+ə̃	ə̃	NA
+ə̟̆	ə̟̆	NA
+ə̞̆	ə̞̆	NA
+ə̤	ə̤	NA
+ə̰	ə̰	NA
+ə̹	ə̹	NA
+ə˞	ə˞	NA
+ə˞ː	ə˞ː	new segment type added
+əː	əː	NA
+əː̃	ə̃ː	NA
+ə̤̃ː	ə̤̃ː	NA
+əi	əi	NA
+əĩ	əĩ	NA
+əi̯	əi̯	NA
+ə̃ĩ	ə̃ĩ	NA
+əɨ	əɨ	NA
+əj	əi̯	conventionalized
+əo	əo	NA
+əu	əu	NA
+əũ	əũ	NA
+əu̯	əu̯	NA
+ə̃ũ	ə̃ũ	NA
+əɯ̃	əɯ̃	NA
+ə̰ɯ̰	ə̰ɯ̰	NA
+əʊ	əʊ	NA
+əw	əu̯	conventionalized
+əy	əy	NA
+əˤ	əˤ	new segment type added
+ɛ	ɛ	NA
+ɛ̃	ɛ̃	NA
+ɛ̝	ɛ̝	NA
+ɛ̞	ɛ̞	NA
+ɛ̠	ɛ̠	NA
+ɛ̤	ɛ̤	NA
+ɛ̰	ɛ̰	NA
+ɛː	ɛː	NA
+ɛː̃	ɛ̃ː	NA
+ɛ̃ː	ɛ̃ː	NA
+ɛ̤̃ː	ɛ̤̃ː	NA
+ɛ̞ː	ɛː	conventionalized; TODO: investigate
+ɛ̠ː	ɛ̠ː	NA
+ɛ̤ː	ɛ̤ː	NA
+ɛ̰ː	ɛ̰ː	NA
+ɛ̃ːi̯	ɛ̃ːi̯	NA
+ɛˑ	ɛˑ	NA
+ɛa	ɛa	NA
+ɛa̟	ɛa̟	NA
+ɛ̯æː	ɛ̯æː	NA
+ɛɐ	ɛɐ	NA
+ɛi	ɛi	NA
+ɛi̯	ɛi̯	NA
+ɛ̤i̤	ɛ̤i̤	NA
+ɛɪ	ɛɪ	NA
+ɛo	ɛo	NA
+ɛu	ɛu	NA
+ɛu̯	ɛu̯	NA
+ɛ̃ũ	ɛ̃ũ	NA
+ɛʉ	ɛʉ	NA
+ɘ	ɘ	NA
+ɘ̆	ɘ̆	NA
+ɘ̃	ɘ̃	NA
+ɘ̟	ɘ̟	NA
+ɘ̠	ɘ̠	NA
+ɘː	ɘː	NA
+ɜ	ɜ	NA
+ɜ̹	ɜ̹	NA
+ɜː	ɜː	NA
+ɜ̹ː	ɜ̹ː	NA
+ɜi	ɜi	NA
+ɜj	ɜi̯	conventionalized
+ɞ	ɞ	NA
+ɞ̜	ɞ̜	NA
+ɞ̠	ɞ̠	NA
+ɞ̜̰	ɞ̰̜	NA
+ɞ̰	ɞ̰	NA
+ɞː	ɞː	NA
+ɞ̜̃ː	ɞ̜̃ː	NA
+ɞ̠ː	ɞ̠ː	NA
+ɞ̜ː	ɞ̜ː	NA
+ɞe̯	ɞe̯	NA
+ɞʏ̯	ɞʏ̯	NA
+ɤ	ɤ	NA
+ɤ̞̆	ɤ̞̆	NA
+ɤ̟	ɤ̟	NA
+ɤ̞	ɤ̞	NA
+ɤ̝	ɤ̝	NA
+ɤ̟̹	ɤ̟̹	NA
+ɤː	ɤː	NA
+ɤ̟ː	ɤː	conventionalized; TODO: investigate
+ɤˑ	ɤˑ	NA
+ɤi	ɤi	NA
+f	f	NA
+f̩	f̩	NA
+fː	fː	NA
+fˠ	fˠ	NA
+fʲ	fʲ	NA
+fʲː	fːʲ	NA
+fʼ	fʼ	NA
+g	ɡ	NA
+g̊	ɡ̊	NA
+g˞	ɡ˞	NA
+gː	ɡː	NA
+g̊ː	ɡ̊ː	NA
+gːʷ	ɡːʷ	NA
+gʰ	ɡʰ	NA
+gʱ	ɡʱ	NA
+g̤ʱ	ɡ̤ʱ	NA
+gʲ	ɡʲ	conventionalized
+gʲː	ɡːʲ	NA
+gʷ	ɡʷ	conventionalized
+g̊ʷ	ɡ̊ʷ	NA
+ɡ	ɡ	NA
+ɡʲ	ɡʲ	NA
+ɡʷ	ɡʷ	NA
+ɢ	ɢ	NA
+ɢ̥	ɢ̥	NA
+ɢʁ	ɢʁ	NA
+ɢʷ	ɢʷ	NA
+ɠ	ɠ	NA
+ɣ	ɣ	NA
+ɣ̊	ɣ̊	NA
+ɣʲ	ɣʲ	NA
+ɣʷ	ɣʷ	NA
+h	h	NA
+h̃	h̃	NA
+ħ	ħ	NA
+ʰc	ʰc	NA
+hʲ	hʲ	NA
+ħ̃ʲ	ħ̃ʲ	NA
+ʰk	ʰk	NA
+ʰkː	ʰkː	NA
+ʰkʰ	ʰkʰ	NA
+ʰkʲ	ʰkʲ	NA
+ʰl̥	ʰl̥	NA
+ʰp	ʰp	NA
+ʰpː	ʰpː	NA
+ʰpʰ	ʰpʰ	NA
+ʰpʲ	ʰpʲ	NA
+ʰqʰ	ʰqʰ	NA
+ʰsʰ	ʰsʰ	NA
+ʰt	ʰt	NA
+ʰtː	ʰtː	NA
+ʰtɕ	ʰtɕ	NA
+ʰtɕʰ	ʰtɕʰ	NA
+ʰtʰ	ʰtʰ	NA
+ʰtʲ	ʰtʲ	NA
+ʰts	ʰts	NA
+ʰtsː	ʰtsː	NA
+ʰtsʰ	ʰtsʰ	NA
+ʰtsʲ	ʰtsʲ	NA
+ʰtʃ	ʰt̠ʃ	NA
+ʰtʃː	ʰt̠ʃː	NA
+ʰtʃʰ	ʰt̠ʃʰ	NA
+ʰʈ	ʰʈ	NA
+ʰʈʂʰ	ʰʈʂʰ	NA
+hʷ	hʷ	NA
+ħʷ	ħʷ	NA
+ʰʷɕʰ	ʰʷɕʰ	NA
+ʰʷk	ʰʷk	NA
+ʰʷs	ʰʷs	NA
+ʰʷsʰ	ʰʷsʰ	NA
+ʰʷʂʰ	ʰʷʂʰ	NA
+ʰʷt	ʰʷt	NA
+ʰʷtɕ	ʰʷtɕ	NA
+ʰʷts	ʰʷts	NA
+ʰʷʈ	ʰʷʈ	NA
+ʜ	ʜ	NA
+ʜʷ	ʜʷ	NA
+ɦ	ɦ	NA
+ʱb	ʱb	NA
+ʱd	ʱd	NA
+ʱdz	ʱdz	NA
+ʱdʑ	ʱdʑ	NA
+ʱɖ	ʱɖ	NA
+ʱɡ	ʱɡ	NA
+ʱj	ʱj	NA
+ʱɟ	ʱɟ	NA
+ʱl	ʱl	NA
+ʱm	ʱm	NA
+ʱn	ʱn	NA
+ʱɲ	ʱɲ	NA
+ʱŋ	ʱŋ	NA
+ʱz	ʱz	NA
+ʱʐ	ʱʐ	NA
+ɧ	ɧ	NA
+i	i	NA
+ĩ	ĩ	NA
+i̯	i̯	new segment type added
+i̘	i̘	NA
+i̞	i̞	NA
+i̠	i̠	NA
+ĩ̞	ĩ̞	NA
+ĩ̯	ĩ̯	NA
+i̤	i̤	NA
+ḭ	ḭ	NA
+i˞	i˞	new segment type added
+i˞ˤ	i˞ˤ	new segment type added
+i˞ˤː	i˞ːˤ	new segment type added
+iː	iː	NA
+ĩː	ĩː	NA
+ĩ̤ː	ĩ̤ː	NA
+i̞ː	i̞ː	NA
+i̤ː	i̤ː	NA
+ḭː	ḭː	NA
+iːə	iːə	NA
+iːɛ	iːɛ	NA
+iˑ	iˑ	NA
+ia	ia	NA
+ĩã	ĩã	NA
+i̯a	i̯a	NA
+iæ	iæ	NA
+iæ̃	iæ̃	NA
+iau	iau	NA
+iɐ	iɐ	NA
+iɑ	iɑ	guess
+iɑu	iɑu	NA
+ie	ie	NA
+iẽ	iẽ	NA
+ie̞	ie̞	NA
+ĩẽ	ĩẽ	NA
+i̯e	i̯e	NA
+i̯ẽ	i̯ẽ	NA
+iẽː	iẽː	NA
+iə	iə	NA
+iə̯	iə̯	NA
+iɛ	iɛ	NA
+iɛ̃	iɛ̃	NA
+iɛ̠	iɛ̠	NA
+i̯ɛ	i̯ɛ	NA
+iɛː	iɛː	NA
+ĩɛ̃ː	ĩɛ̃ː	NA
+iɛi̯	iɛi̯	NA
+iɜ	iɜ	NA
+ii	ii	NA
+ii̯	ii̯	NA
+iɪ̯	iɪ̯	NA
+ij	ii̯	conventionalized
+io	io	NA
+iø	iø	NA
+ĩõ	ĩõ	NA
+iou	iou	NA
+iɔ	iɔ	NA
+iu	iu	NA
+iu̯	iu̯	NA
+i̯uo	i̯uo	NA
+i̯ũo	i̯ũo	NA
+iw	iu	guess
+iˤ	iˤ	NA
+iˤː	iːˤ	NA
+iˤæ	iˤæ	NA
+ɪ	ɪ	NA
+ɪ̆	ɪ̆	NA
+ɪ̈	ɪ̈	NA
+ɪ̞̈	ɪ̞̈	NA
+ɪ̃	ɪ̃	NA
+ɪ̞	ɪ̞	NA
+ɪ̯	ɪ̯	NA
+ɪ̰	ɪ̰	NA
+ɪː	ɪː	NA
+ɪ̃ː	ɪ̃ː	NA
+ɪ̯ä	ɪ̯ä	NA
+ɪə	ɪə	NA
+ɪ̃ə̃	ɪ̃ə̃	NA
+ɪɛ	ɪɛ	NA
+ɪ̃ɛ	ɪ̃ɛ	NA
+ɪɛː	ɪɛː	NA
+ɪ̃ɛː	ɪ̃ɛː	NA
+ɪ̯ɔ	ɪ̯ɔ	NA
+ɪu	ɪu	NA
+ɪ̯u̞	ɪ̯u̞	NA
+ɨ	ɨ	NA
+ɨ̆	ɨ̆	NA
+ɨ̞	ɨ̞	NA
+ɨ̠	ɨ̠	NA
+ɨ̞̰	ɨ̰̞	NA
+ɨ̤	ɨ̤	NA
+ɨ̹	ɨ̹	NA
+ɨː	ɨː	NA
+ɨ̞̃ː	ɨ̞̃ː	NA
+ɨ̟ː	ɨː	conventionalized; TODO: investigate
+ɨ̞ː	ɨ̞ː	NA
+ɨ̹ː	ɨ̹ː	NA
+ɨa	ɨa	NA
+ɨä̠	ɨä̠	NA
+ɨə	ɨə	NA
+ɨɛ	ɨɛ	NA
+ɨi	ɨi	NA
+ɨi̯	ɨi̯	NA
+ɨj	ɨi̯	conventionalized
+j	j	NA
+j̊	j̊	NA
+j̃	j̃	NA
+jː	jː	NA
+ja	i̯a	conventionalized
+jaː	i̯aː	conventionalized
+jæ	i̯æ	conventionalized
+jæi	i̯æi	conventionalized
+jai	i̯ai	conventionalized
+jau	i̯au	conventionalized
+jau̯	i̯au̯	conventionalized
+je	i̯e	conventionalized
+jẽ	i̯ẽ	conventionalized
+jei̯	i̯ei̯	conventionalized
+jɛ	i̯ɛ	conventionalized
+jɛ̃	i̯ɛ̃	conventionalized
+jɛi	i̯ɛi	conventionalized
+jɛi̯	i̯ɛi̯	conventionalized
+jo	i̯o	conventionalized
+joː	i̯oː	conventionalized
+joi	i̯oi	conventionalized
+jɔ	i̯ɔ	conventionalized
+ju	i̯u	conventionalized
+juː	i̯uː	conventionalized
+juaː	i̯uaː	conventionalized
+jui	i̯ui	conventionalized
+ʝ	ʝ	NA
+ʝː	ʝː	NA
+ɟ	ɟ	NA
+ɟ̟	ɟ̟	NA
+ɟʰ	ɟʰ	NA
+ɟʱ	ɟʱ	NA
+ɟʝ	ɟʝ	NA
+ɟʝ̞	ɟʝ̞	NA
+ɟ̥ʝ̥	ɟ̥ʝ̥	NA
+ʄ	ʄ	NA
+k	k	NA
+k˞	k˞	NA
+kː	kː	NA
+kːʰ	kːʰ	NA
+kːʷ	kːʷ	NA
+kːʷʰ	kːʰʷ	NA
+kʰ	kʰ	NA
+kʰ˞	k˞ʰ	NA
+kʰʲ	kʰʲ	NA
+kʰʷ	kʰʷ	NA
+kʰʷʲ	kʰʲʷ	new segment type added
+kʲ	kʲ	NA
+kʲː	kːʲ	NA
+kʲʰ	kʰʲ	NA
+kʲʼ	kʲʼ	NA
+kʷ	kʷ	NA
+kʷʰ	kʰʷ	NA
+kʷʲ	kʲʷ	new segment type added
+kʷʼ	kʷʼ	NA
+kx	kx	NA
+kxːʰ	kxːʰ	NA
+kxːʼ	kxːʼ	NA
+kʼ	kʼ	NA
+kʼː	kːʼ	NA
+kʼːʷ	kːʷʼ	NA
+kʼʲ	kʲʼ	NA
+kʼʷ	kʷʼ	NA
+kʼʷʲ	kʲʷʼ	new segment type added
+kˤ	kˤ	NA
+l	l	NA
+l̩	l̩	NA
+l̺	l̺	NA
+l̻	l̻	NA
+l̪	l̪	NA
+l̪̊	l̪̊	NA
+l̥	l̥	NA
+lː	lː	NA
+l̥ː	l̥ː	NA
+lˠ	lˠ	NA
+l̪ˠ	l̪ˠ	NA
+lʰ	lʰ	NA
+lʱ	lʱ	NA
+l̪ʱ	l̪ʱ	NA
+lʲ	lʲ	NA
+l̪ʲ	l̪ʲ	NA
+l̠ʲ	l̠ʲ	NA
+l̥ʲ	l̥ʲ	NA
+lʲː	lːʲ	NA
+l̥ʲː	l̥ːʲ	NA
+lˤ	lˤ	NA
+ɫ	ɫ	NA
+ɫ̪	ɫ̪	NA
+ɫ̻	ɫ̻	NA
+ɫ̺	ɫ̺	NA
+ɫ̥	ɫ̥	NA
+ɫː	ɫː	NA
+ɬ	ɬ	NA
+ɬ̪	ɬ̪	NA
+ɬ̺̪	ɬ̪̺	NA
+ɬː	ɬː	NA
+ɬˠ	ɬˠ	NA
+ɬʲ	ɬʲ	NA
+ɬʷ	ɬʷ	NA
+ɬʼ	ɬʼ	NA
+ɭ	ɭ	NA
+ɭ̥	ɭ̥	NA
+ɮ	ɮ	NA
+ɮ̺	ɮ̺	NA
+ɮʲ	ɮʲ	NA
+ɮʼ	ɮʼ	NA
+ʎ	ʎ	NA
+ʎ̟	ʎ̟	NA
+m	m	NA
+m̩	m̩	NA
+m̥	m̥	NA
+m 	m	conventionalized
+mː	mː	NA
+m̥ː	m̥ː	NA
+mˠ	mˠ	NA
+mʰ	mʰ	NA
+mʱ	mʱ	NA
+mʲ	mʲ	NA
+m̥ʲ	m̥ʲ	NA
+mʲː	mːʲ	NA
+m̥ʲː	m̥ːʲ	NA
+mʷ	mʷ	NA
+mˤ	mˤ	NA
+n	n	NA
+n̩	n̩	NA
+n̪	n̪	NA
+n̻	n̻	NA
+n̺	n̺	NA
+n̪̊	n̪̊	NA
+n̺̪	n̪̺	NA
+n̪̩	n̪̩	NA
+n̪̥	n̪̥	NA
+n̥	n̥	NA
+n̥̪	n̪̥	NA
+nː	nː	NA
+n̥ː	n̥ː	NA
+ⁿb	mb	conventionalized
+ⁿc	ɲc	conventionalized
+ⁿcʰ	ɲcʰ	conventionalized
+ⁿd	nd	conventionalized
+ⁿd̪	n̪d̪	conventionalized
+ⁿdz	ndz	conventionalized
+ⁿd͇z͇	nd͇z͇	conventionalized
+ⁿd̪z̪	n̪d̪z̪	conventionalized
+ⁿdʑ	ndʑ	conventionalized
+ⁿdʒ	n̠d̠ʒ	conventionalized
+ⁿɖ	ɳɖ	conventionalized
+ⁿɖɽ	ɳɖɽ	conventionalized
+ⁿɖʐ	ɳɖʐ	conventionalized
+ⁿg	ŋɡ	conventionalized
+ⁿɡ	ŋɡ	conventionalized
+ⁿɢ	ɴɢ	conventionalized
+nˠ	nˠ	NA
+n̪ˠ	n̪ˠ	NA
+nʰ	nʰ	NA
+nʱ	nʱ	NA
+n̪ʱ	n̪ʱ	NA
+nʲ	nʲ	NA
+n̠ʲ	n̠ʲ	NA
+n̪ʲ	n̪ʲ	NA
+n̥ʲ	n̥ʲ	NA
+nʲː	nːʲ	NA
+n̥ʲː	n̥ːʲ	NA
+ⁿɟ	ɲɟ	conventionalized
+ⁿk	ŋk	conventionalized
+ⁿkʰ	ŋkʰ	conventionalized
+ⁿp	mp	conventionalized
+ⁿpʰ	mpʰ	conventionalized
+ⁿq	ɴq	conventionalized
+ⁿqʰ	ɴqʰ	conventionalized
+ⁿsʰ	nsʰ	conventionalized
+ⁿt	nt	conventionalized
+ⁿtɕʰ	ntɕʰ	conventionalized
+ⁿtʰ	ntʰ	conventionalized
+ⁿts	nts	conventionalized
+ⁿtsʰ	ntsʰ	new segment type added
+ⁿt͇s͇ʰ	nt͇s͇ʰ	conventionalized
+ⁿt̪s̪ʰ	n̪t̪s̪ʰ	conventionalized
+ⁿtʃ	n̠t̠ʃ	conventionalized
+ⁿtʃʰ	n̠t̠ʃʰ	conventionalized
+ⁿʈʰ	ɳʈʰ	conventionalized
+ⁿʈɽʰ	ɳʈɽʰ	conventionalized
+ⁿʈʂ	ɳʈʂ	conventionalized
+ⁿʈʂʰ	ɳʈʂʰ	conventionalized
+ⁿxʰ	ŋxʰ	conventionalized
+nˤ	nˤ	NA
+ɴ	ɴ	NA
+ɲ	ɲ	NA
+ɲ̊	ɲ̊	NA
+ɲ̟	ɲ̟	NA
+ɲ̥	ɲ̥	NA
+ɲː	ɲː	NA
+ɳ	ɳ	NA
+ɳʱ	ɳʱ	NA
+ŋ	ŋ	NA
+ŋ̊	ŋ̊	NA
+ŋ̟	ŋ̟	NA
+ŋ̩	ŋ̩	NA
+ŋ̥	ŋ̥	NA
+ŋː	ŋː	NA
+ŋʰ	ŋʰ	NA
+ŋʱ	ŋʱ	NA
+ŋʲ	ŋʲ	NA
+ŋʲː	ŋːʲ	NA
+ŋʷ	ŋʷ	NA
+o	o	NA
+ŏ	ŏ	NA
+õ	õ	NA
+ø	ø	NA
+ø̃	ø̃	NA
+ø̞	ø̞	NA
+ø̠̞	ø̞̠	NA
+ø̞̜	ø̞̜	NA
+ø̤	ø̤	NA
+ø̰	ø̰	NA
+o̞	o̞	NA
+õ̞	õ̞	NA
+o̞̙	o̙̞	NA
+o̞̜	o̞̜	NA
+o̤	o̤	NA
+o̰	o̰	NA
+oː	oː	NA
+õː	õː	NA
+øː	øː	NA
+ø̃ː	ø̃ː	NA
+ø̞ː	ø̞ː	NA
+ø̞̜ː	ø̞̜ː	NA
+o̞ː	o̞ː	NA
+o̞̜ː	o̞̜ː	NA
+o̤ː	o̤ː	NA
+oːu̯	oːu̯	NA
+øːy̯	øːy̯	NA
+oˑ	oˑ	NA
+øˑ	øˑ	NA
+o̟ˑ	o̟ˑ	NA
+oa	oa	NA
+oä	oä	NA
+õã	õã	NA
+o̞ä	o̞ä	NA
+o̯ä	o̯ä	NA
+oe	oe	NA
+œ	œ	NA
+œ̃	œ̃	NA
+œ̞	œ̞	NA
+œ̠	œ̠	NA
+œ̜	œ̜	NA
+œː	œː	NA
+œ̃ː	œ̃ː	NA
+œ̠ː	œ̠ː	NA
+œ̞ː	œ̞ː	NA
+œ̜ː	œ̜ː	NA
+œ̰ː	œ̰ː	NA
+œ̃ɛ̃	œ̃ɛ̃	NA
+œ̞ɛ̞	œ̞ɛ̞	new segment type added; TODO: investigate
+œi	œi	NA
+œj	œi̯	conventionalized
+œy	œy	NA
+oə	oə	NA
+øə	øə	NA
+oi	oi	NA
+oi̯	oi̯	NA
+o̞i̯	o̞i̯	NA
+øɪ̯	øɪ̯	NA
+oj	oi̯	conventionalized
+õj	õi̯	conventionalized
+oɔ	oɔ	NA
+ou	ou	NA
+ou̯	ou̯	NA
+øu	øu	NA
+oʊ	oʊ	NA
+oʊ̃	oʊ̃	NA
+ow	ou̯	conventionalized
+øy	øy	NA
+øy̯	øy̯	NA
+oˤ	oˤ	NA
+oˤː	oːˤ	NA
+ɶ	ɶ	NA
+ɶː	ɶː	NA
+ɔ	ɔ	NA
+ɔ̃	ɔ̃	NA
+ɔ̝	ɔ̝	NA
+ɔ̞	ɔ̞	NA
+ɔ̜	ɔ̜	NA
+ɔ̞̃	ɔ̞̃	NA
+ɔ̟̜	ɔ̟̜	NA
+ɔ̟̜̰	ɔ̰̟̜	NA
+ɔ̤	ɔ̤	NA
+ɔ̰	ɔ̰	NA
+ɔː	ɔː	NA
+ɔː̃	ɔ̃ː	NA
+ɔ̃ː	ɔ̃ː	NA
+ɔ̟̜̃ː	ɔ̟̜̃ː	NA
+ɔ̤̃ː	ɔ̤̃ː	NA
+ɔ̞ː	ɔ̞ː	NA
+ɔ̜ː	ɔ̜ː	NA
+ɔ̞̃ː	ɔ̞̃ː	NA
+ɔ̜̃ː	ɔ̜̃ː	NA
+ɔ̟̜ː	ɔ̟̜ː	NA
+ɔ̤ː	ɔ̤ː	NA
+ɔ̰ː	ɔ̰ː	NA
+ɔa	ɔa	NA
+ɔaː	ɔaː	NA
+ɔe	ɔe	NA
+ɔi	ɔi	NA
+ɔi̯	ɔi̯	NA
+ɔɪ	ɔɪ	NA
+ɔu	ɔu	NA
+ɔu̯	ɔu̯	NA
+ɔʊ	ɔʊ	NA
+ɔʊ̯	ɔʊ̯	NA
+ɔ̃ʊ̯̃	ɔ̃ʊ̯̃	NA
+ɔw	ɔu̯	conventionalized
+ɔy̯ː	ɔy̯ː	NA
+ɔʏ	ɔʏ	NA
+ɔˤː	ɔːˤ	NA
+ɵ	ɵ	NA
+ɵ̆	ɵ̆	NA
+ɵ̃	ɵ̃	NA
+ɵ̟	ɵ̟	NA
+ɵ̞	ɵ̞	NA
+ɵ̞̰	ɵ̰̞	NA
+ɵː	ɵː	NA
+ɵ̟ː	ɵː	conventionalized; TODO: investigate
+ɵ̞ː	ɵ̞ː	NA
+ɵə	ɵə	NA
+ɵy	ɵy	NA
+p	p	NA
+p˞	p˞	NA
+pː	pː	NA
+pːʰ	pːʰ	NA
+pf	pf	NA
+pˠ	pˠ	NA
+pˠʰ	pʰˠ	NA
+pʰ	pʰ	NA
+pʰ˞	p˞ʰ	NA
+pʰʲ	pʰʲ	conventionalized
+pʰʷ	pʰʷ	NA
+pʰˤ	pʰˤ	NA
+pʲ	pʲ	NA
+pʲː	pːʲ	NA
+pʲʰ	pʰʲ	NA
+pʷ	pʷ	NA
+pʼ	pʼ	NA
+pʼʲ	pʲʼ	conventionalized
+pʼʷ	pʷʼ	NA
+pˤ	pˤ	NA
+ɸ	ɸ	NA
+q	q	NA
+q̺	q̺	NA
+qː	qː	NA
+qːʷ	qːʷ	NA
+qʰ	qʰ	NA
+qʰʲ	qʰʲ	new segment type added
+qʰʷ	qʰʷ	conventionalized
+qʰʷʲ	qʰʲʷ	new segment type added
+qʲ	qʲ	new segment type added
+qʲʼ	qʲʼ	conventionalized
+qʷ	qʷ	NA
+qʷʰ	qʰʷ	NA
+qʷʲ	qʲʷ	new segment type added
+qʷʼ	qʷʼ	NA
+qʼ	qʼ	NA
+qʼː	qːʼ	NA
+qʼːʷ	qːʷʼ	NA
+qʼʲ	qʲʼ	new segment type added
+qʼʷ	qʷʼ	NA
+qʼʷʲ	qʲʷʼ	new segment type added
+qˤ	qˤ	NA
+qˤʼ	qˤʼ	NA
+qχ	qχ	NA
+qχːʰ	qχːʰ	NA
+qχːʼ	qχːʼ	NA
+qχʰ	qχʰ	NA
+qχʼ	qχʼ	NA
+r	r	NA
+r̪	r̪	NA
+r̺	r̺	NA
+r̝	r̝	NA
+r̩	r̩	NA
+r̺̥	r̺̥	NA
+r̥	r̥	NA
+rː	rː	NA
+r̥ː	r̥ː	NA
+rʰ	rʰ	NA
+rʱ	rʱ	NA
+rʲ	rʲ	NA
+r̺ʲ	r̺ʲ	new segment type added
+r̥ʲ	r̥ʲ	NA
+rʲː	rːʲ	NA
+r̥ʲː	r̥ːʲ	NA
+rˤ	rˤ	NA
+ʀ	ʀ	NA
+ɹ	ɹ	NA
+ɹ̺	ɹ̺	NA
+ɹ̥	ɹ̥	NA
+ɺ	ɺ	NA
+ɻ	ɻ	NA
+ɻ̊	ɻ̊	NA
+ɽ	ɽ	NA
+ɽ̊	ɽ̊	NA
+ɽ̃	ɽ̃	NA
+ɽʰ	ɽʰ	NA
+ɽʱ	ɽʱ	NA
+ɽ̤ʱ	ɽ̤ʱ	NA
+ɾ	ɾ	NA
+ɾ̠	ɾ̠	NA
+ɾ̪	ɾ̪	NA
+ɾ̞	ɾ̞	NA
+ɾ̻	ɾ̻	NA
+ɾ̺	ɾ̺	NA
+ɾ̥	ɾ̥	NA
+ɾˠ	ɾˠ	NA
+ɾ̪ˠ	ɾ̪ˠ	NA
+ɾʲ	ɾʲ	NA
+ɾ̪ʲ	ɾ̪ʲ	NA
+ɾ̥ʲ	ɾ̥ʲ	NA
+ɿ	ɹ̪̩	NA
+ɿ̰	ɹ̪̰̩	NA
+ɿ̹	ɹ̪̹̩	NA
+ɿˠ	ɹ̪̩ˠ	NA
+ʁ	ʁ	NA
+ʁ̞	ʁ̞	NA
+ʁː	ʁː	NA
+ʁʲ	ʁʲ	new segment type added
+ʁʷ	ʁʷ	NA
+ʁˤ	ʁˤ	NA
+s	s	NA
+ŝ	ʆ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+s̻	s̻	NA
+s̪	s̪	NA
+s͇	s͇	NA
+s̺	s̺	NA
+s̠	s̠	NA
+s̩	s̩	NA
+s̺̠	s̺̠	NA
+s̪̻	s̪̻	NA
+s̠̻	s̻̠	NA
+sː	sː	NA
+s̺ː	s̺ː	NA
+s̪ː	s̪ː	NA
+sːʼ	sːʼ	NA
+sˠ	sˠ	NA
+sʰ	sʰ	NA
+sʲ	sʲ	NA
+s̪ʲ	s̪ʲ	NA
+sʲː	sːʲ	NA
+sʲʰ	sʰʲ	NA
+sʷ	sʷ	NA
+ŝʷ	ʆʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+s̪ʷ	s̪ʷ	NA
+s̪ʷʲ	s̪ʲʷ	new segment type added
+sʼ	sʼ	NA
+ŝʼ	ʆʼ	NA
+ŝʼʷ	ʆʷʼ	NA
+sˤ	sˤ	NA
+s̪ˤ	s̪ˤ	NA
+ʂ	ʂ	NA
+ʂ̻	ʂ̻	NA
+ʂː	ʂː	NA
+ʂʰ	ʂʰ	NA
+ʃ	ʃ	NA
+ʃ̺	ʃ̺	NA
+ʃ̞	ʃ̞	NA
+ʃː	ʃː	NA
+ʃːʲ	ʃːʲ	NA
+ʃːʷ	ʃːʷ	NA
+ʃːʼ	ʃːʼ	NA
+ʃʰ	ʃʰ	NA
+ʃʲ	ʃʲ	NA
+ʃʷ	ʃʷ	NA
+ʃʼ	ʃʼ	NA
+ʃ̞ʼ	ʃ̞ʼ	NA
+ʅ	ɻ̩	NA
+ʅ̹	ɻ̹̩	NA
+t	t	NA
+t̪	t̪	NA
+t̺	t̺	NA
+t̻	t̻	NA
+t̪̺	t̪̺	NA
+t̪̻	t̪̻	NA
+t̺̪	t̪̺	NA
+tː	tː	NA
+t̪ː	t̪ː	NA
+tɕ	tɕ	NA
+t̻ɕ̻	t̻ɕ̻	NA
+t̺ɕ̺	t̺ɕ̺	NA
+tɕː	tɕː	NA
+tɕʰ	tɕʰ	NA
+t̻ɕ̻ʰ	t̻ɕ̻ʰ	NA
+tɕʼ	tɕʼ	NA
+t̺ɕ̺ʼ	t̺ɕ̺ʼ	NA
+t̪ˠ	t̪ˠ	NA
+t̪ˠʰ	t̪ʰˠ	NA
+tʰ	tʰ	NA
+t̺ʰ	t̺ʰ	new segment type added
+t̻ʰ	t̻ʰ	NA
+t̪ʰ	t̪ʰ	NA
+tʰʲ	tʰʲ	NA
+t̪ʰʲ	t̪ʰʲ	conventionalized
+tʰʷ	tʰʷ	NA
+t̪ʰʷ	t̪ʰʷ	conventionalized
+t̪ʰʷʲ	t̪ʰʲʷ	new segment type added
+t̪ʰˤ	t̪ʰˤ	NA
+tʲ	tʲ	NA
+t̪ʲ	t̪ʲ	NA
+t̠ʲ	t̠ʲ	NA
+tʲʰ	tʰʲ	NA
+t̪ɬ	t̪ɬ	NA
+tɬː	tɬː	NA
+tɬːʰ	tɬːʰ	NA
+tɬːʼ	tɬːʼ	NA
+tɬʰ	tɬʰ	NA
+tɬʰʷ	tɬʰʷ	NA
+tɬʼ	tɬʼ	NA
+t̪ɬʼ	t̪ɬʼ	NA
+tɬʼː	tɬːʼ	NA
+tɬʼʷ	tɬʷʼ	NA
+ts	ts	NA
+tˢ	tsʰ	aspirated and strongly affricated
+ts̪	ts̪	NA
+ts̻	ts̻	NA
+ts̺	ts̺	NA
+t̪s	t̪s	NA
+t̺s̺	t̺s̺	NA
+t̪s̪	t̪s̪	NA
+t͇s͇	t͇s͇	NA
+t̻s̻	t̻s̻	NA
+t̻s̻̪	t̻s̪̻	NA
+t̪̻s̪̻	t̪̻s̪̻	NA
+tsː	tsː	NA
+t̪s̪ː	t̪s̪ː	NA
+t̺s̺ː	t̺s̺ː	NA
+tsːʰ	tsːʰ	NA
+tsːʼ	tsːʼ	NA
+tsʰ	tsʰ	NA
+tŝʰ	t̠ʆʰ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+t̺s̺ʰ	t̺s̺ʰ	NA
+t͇s͇ʰ	t͇s͇ʰ	NA
+t̪s̪ʰ	t̪s̪ʰ	NA
+t̪s̪ʰʲ	t̪s̪ʰʲ	new segment type added
+tsʰʷ	tsʰʷ	NA
+t̪s̪ʰʷ	t̪s̪ʰʷ	conventionalized
+t̪s̪ʰʷʲ	t̪s̪ʰʲʷ	new segment type added
+tsʰˤ	tsʰˤ	NA
+tsʲ	tsʲ	NA
+t̪ˢʲ	t̪ʲ	probably marks frication
+t̪s̪ʲ	t̪s̪ʲ	NA
+tsʲː	tsːʲ	NA
+tŝʷ	t̠ʆʷ	NA
+t̪s̪ʷ	t̪s̪ʷ	conventionalized
+tŝʷʰ	t̠ʆʰʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+t̪s̪ʷʲ	t̪s̪ʲʷ	new segment type added
+tŝʷʼ	t̠ʆʷʼ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+tsʼ	tsʼ	NA
+tŝʼ	t̠ʆ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+t̪s̪ʼ	t̪s̪ʼ	NA
+t̺s̺ʼ	t̺s̺ʼ	NA
+tsʼː	tsːʼ	NA
+t̪s̪ʼʲ	t̪s̪ʲʼ	new segment type added
+tsʼʷ	tsʷʼ	NA
+t̪s̪ʼʷ	t̪s̪ʷʼ	conventionalized
+t̪s̪ʼʷʲ	t̪s̪ʲʷʼ	new segment type added
+tʂ	ʈʂ	conventionalized
+tʂʰ	ʈʂʰ	conventionalized
+tʃ	t̠ʃ	NA
+tʃ̺	t̠ʃ̺	NA
+t̺ʃ̺	t̺ʃ̺	NA
+t̻ʃ̻	t̻ʃ̻	NA
+tʃː	t̠ʃː	NA
+tʃːʰ	t̠ʃːʰ	NA
+tʃːʲ	t̠ʃːʲ	NA
+tʃːʷ	t̠ʃːʷ	NA
+tʃːʼ	t̠ʃːʼ	NA
+tʃʰ	t̠ʃʰ	NA
+tʃ̺ʰ	t̠ʃ̺ʰ	NA
+tʃʰʷ	t̠ʃʰʷ	NA
+tʃʰˤ	t̠ʃʰˤ	NA
+tʃʲ	t̠ʃʲ	NA
+tʃʷ	t̠ʃʷ	NA
+t̺ʃ̺ʷ	t̺ʃ̺ʷ	NA
+tʃʷʰ	t̠ʃʰʷ	NA
+tʃʼ	t̠ʃʼ	NA
+tʃʼː	t̠ʃːʼ	NA
+tʃʼʷ	t̠ʃʷʼ	NA
+tʃʼˤ	t̠ʃˤʼ	NA
+tʃˤ	t̠ʃˤ	NA
+tʷ	tʷ	NA
+t̪ʷ	t̪ʷ	NA
+tʷʰ	tʰʷ	NA
+t̪ʷʲ	t̪ʲʷ	new segment type added
+tʷʼ	tʷʼ	conventionalized
+tʼ	tʼ	NA
+t̪ʼ	t̪ʼ	NA
+t̺ʼ	t̺ʼ	NA
+t̪ʼʲ	t̪ʲʼ	conventionalized
+tʼʷ	tʷʼ	NA
+t̪ʼʷ	t̪ʷʼ	conventionalized
+t̪ʼʷʲ	t̪ʲʷʼ	new segment type added
+t̪ʼˤ	t̪ˤʼ	NA
+tˤ	tˤ	NA
+t̪ˤ	t̪ˤ	NA
+ʈ	ʈ	NA
+ʈʰ	ʈʰ	NA
+ʈɽ	ʈɽ	NA
+ʈɽʰ	ʈɽʰ	NA
+ʈʂ	ʈʂ	NA
+ʈ̻ʂ̻	ʈ̻ʂ̻	NA
+ʈʂʰ	ʈʂʰ	NA
+ʈʂʼ	ʈʂʼ	NA
+u	u	NA
+ŭ	ŭ	NA
+ũ	ũ	NA
+u̞	u̞	NA
+u̜	u̜	NA
+u̯	u̯	NA
+u̙	u̙	NA
+u̟	u̟	NA
+ũ̯	ũ̯	NA
+ṳ	ṳ	NA
+ṵ	ṵ	NA
+u˞	u˞	NA
+u˞ˤ	u˞ˤ	new segment type added
+u˞ˤː	u˞ːˤ	new segment type added
+uː	uː	NA
+uː̃	ũː	NA
+ũː	ũː	NA
+ṳ̃ː	ṳ̃ː	NA
+u̞ː	u̞ː	NA
+ṵː	ṵː	NA
+uːe	uːe	NA
+uːə	uːə	NA
+uːʌ	uːʌ	NA
+u̞ˑ	u̞ˑ	NA
+ua	ua	NA
+uä	uä	NA
+uã	uã	NA
+ua̟	ua̟	NA
+ũã	ũã	NA
+u̯a	u̯a	NA
+uæ	uæ	NA
+uai	uai	NA
+uɐ	uɐ	NA
+uɑ	uɑ	guess
+uɑ̃	uɑ̃	NA
+u̯ɑ	u̯ɑ	NA
+uɑ˞	uɑ˞	NA
+uɑi	uɑi	NA
+ue	ue	NA
+uẽ	uẽ	NA
+ue̞	ue̞	NA
+uei	uei	NA
+uə	uə	NA
+uə̯	uə̯	NA
+uəi	uəi	new segment type added
+uɛ	uɛ	NA
+uɛ̃	uɛ̃	NA
+uɜ	uɜ	NA
+ui	ui	NA
+ui̯	ui̯	NA
+ũĩ	ũĩ	NA
+uj	ui̯	conventionalized
+uo	uo	NA
+uo̞	uo̞	NA
+ũo	ũo	NA
+u̯o	u̯o	NA
+u̯õ	u̯õ	NA
+uoː	uoː	NA
+ũoː	ũoː	NA
+uœ	uœ	NA
+uɔ	uɔ	NA
+u̯ɔ	u̯ɔ	NA
+uɔː	uɔː	NA
+ũɔ̃ː	ũɔ̃ː	NA
+uu̯	uu̯	NA
+u̠u	u̠u	NA
+uʌ	uʌ	NA
+uˤ	uˤ	NA
+uˤː	uːˤ	NA
+ʉ	ʉ	NA
+ʉ̃	ʉ̃	NA
+ʉ̞	ʉ̞	NA
+ʉ̟	ʉ̟	NA
+ʉ̰	ʉ̰	NA
+ʉː	ʉː	NA
+ʉ̃ː	ʉ̃ː	NA
+ʉ̟ː	ʉ̟ː	NA
+ʉɞ̠	ʉɞ̠	NA
+ʉi̯	ʉi̯	NA
+ʉœ̠	ʉœ̠	NA
+ʉu	ʉu	NA
+ɥ	ɥ	NA
+ɥ̊	ɥ̊	NA
+ɥˤ	ɥˤ	new segment type added
+ɯ	ɯ	NA
+ɯ̃	ɯ̃	NA
+ɯ̽	ɯ̽	NA
+ɯ̞	ɯ̞	NA
+ɯ̝	ɯ̝	NA
+ɯ̟	ɯ̟	NA
+ɯ̙	ɯ̙	NA
+ɯ̤	ɯ̤	NA
+ɯ̰	ɯ̰	NA
+ɯː	ɯː	NA
+ɯ̃ː	ɯ̃ː	NA
+ɯ̽ː	ɯ̽ː	NA
+ɯ̰̽ː	ɯ̰̽ː	NA
+ɯˑ	ɯˑ	NA
+ɯa	ɯa	NA
+ɯɑ	ɯɑ	NA
+ɯə	ɯə	NA
+ɯ̙i̯	ɯ̙i̯	NA
+ɯɪ̯	ɯɪ̯	NA
+ɯo	ɯo	NA
+ɰ	ɰ	NA
+ʊ	ʊ	NA
+ʊ̆	ʊ̆	NA
+ʊ̈	ʊ̈	NA
+ʊ̞̈	ʊ̞̈	NA
+ʊ̜̈	ʊ̜̈	NA
+ʊ̃	ʊ̃	NA
+ʊ̞	ʊ̞	NA
+ʊ̯	ʊ̯	NA
+ʊ̜	ʊ̜	NA
+ʊ̰	ʊ̰	NA
+ʊː	ʊː	NA
+ʊ̃ː	ʊ̃ː	NA
+ʊa	ʊa	NA
+ʊə	ʊə	NA
+ʊi	ʊi	NA
+ʊ̈i	ʊ̈i	NA
+ʊɪ	ʊɪ	NA
+ʊ̯ɔ	ʊ̯ɔ	NA
+ʊˤː	ʊːˤ	NA
+v	v	NA
+v̩	v̩	NA
+v̥	v̥	NA
+vː	vː	NA
+vˠ	vˠ	NA
+vʲ	vʲ	NA
+vˤ	vˤ	NA
+ʋ	ʋ	NA
+ʋ̩	ʋ̩	NA
+ʋʲ	ʋʲ	NA
+ʌ	ʌ	NA
+ʌ̃	ʌ̃	NA
+ʌ̤	ʌ̤	NA
+ʌː	ʌː	NA
+ʌ̤ː	ʌ̤ː	NA
+ʌj	ʌy	guess
+ʌu	ʌu	NA
+ʌw	ʌɯ	guess
+ʌˤː	ʌːˤ	NA
+w	w	NA
+w̜	w̜	NA
+w̥	w̥	NA
+wa	u̯a	conventionalized
+wã	u̯ã	conventionalized
+waː	u̯aː	conventionalized
+wæi	u̯æi	conventionalized
+wai	u̯ai	conventionalized
+ʷd	ʷd	NA
+we	u̯e	conventionalized
+wei̯	u̯ei̯	conventionalized
+weu̯	u̯eu̯	conventionalized
+wə	u̯ə	conventionalized
+wə̃	u̯ə̃	conventionalized
+wɛ	u̯ɛ	NA
+wɛ̃	u̯ɛ̃	conventionalized
+wɛi	u̯ɛi	conventionalized
+wɛi̯	u̯ɛi̯	conventionalized
+wʰ	wʰ	NA
+wi	u̯i	NA
+wʲ	wʲ	NA
+w̜ʲ	w̜ʲ	NA
+ʷɟ	ʷɟ	NA
+ʷl	ʷl	NA
+ʷm	ʷm	NA
+wo	u̯o	conventionalized
+wõ	u̯õ	conventionalized
+woː	u̯oː	conventionalized
+wõː	u̯õː	conventionalized
+wɔ	u̯ɔ	conventionalized
+wɔ̃	u̯ɔ̃	conventionalized
+wɔː	u̯ɔː	conventionalized
+ʷr	ʷr	NA
+ʷz	ʷz	NA
+ʷʐ	ʷʐ	NA
+ʷʑ	ʷʑ	NA
+ʍ	ʍ	NA
+x	x	NA
+x̠	x̠	NA
+xː	xː	NA
+xːʷ	xːʷ	NA
+xʰ	xʰ	NA
+xʲ	xʲ	NA
+xʲː	xːʲ	NA
+xk	xk	NA
+xʷ	xʷ	NA
+y	y	NA
+ỹ	ỹ	NA
+y̠	y̠	NA
+y̞	y̞	NA
+y̤	y̤	NA
+y̰	y̰	NA
+yː	yː	NA
+ỹː	ỹː	NA
+y̰ː	y̰ː	NA
+yˑ	yˑ	NA
+ya	ya	NA
+yæ	yæ	NA
+ye	ye	NA
+yə	yə	NA
+yə̯	yə̯	NA
+yɛ	yɛ	NA
+yɜ	yɜ	NA
+yi	yi	NA
+yĩ	yĩ	NA
+yi̯	yi̯	NA
+yo	yo	NA
+yø	yø	NA
+yø̞	yø̞	NA
+y̯ø	y̯ø	NA
+yœ	yœ	NA
+ỹœ	ỹœ	NA
+yœː	yœː	NA
+ỹœː	ỹœː	NA
+yu	yu	NA
+yu̯	yu̯	NA
+ʏ	ʏ	NA
+ʏ̃	ʏ̃	NA
+ʏː	ʏː	NA
+ʏ̃ː	ʏ̃ː	NA
+ʏi̯	ʏi̯	NA
+z	z	NA
+ẑ	ʓ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+z̩	z̩	NA
+z͇	z͇	NA
+z̠	z̠	NA
+z̻	z̻	NA
+z̪	z̪	NA
+z̺	z̺	NA
+z̪̻	z̪̻	NA
+z̥	z̥	NA
+zː	zː	NA
+zʲ	zʲ	NA
+z̪ʲ	z̪ʲ	NA
+zʲː	zːʲ	NA
+zʷ	zʷ	NA
+ẑʷ	ʓʷ	Ladefoged & Maddieson 1996:138: laminal closed postalevolar sibilants
+z̪ʷ	z̪ʷ	NA
+zˤ	zˤ	NA
+z̪ˤ	z̪ˤ	NA
+ʐ	ʐ	NA
+ʐ̻	ʐ̻	NA
+ʐʲ	ʐʲ	NA
+ʑ	ʑ	NA
+ʒ	ʒ	NA
+ʒ̊	ʒ̊	NA
+ʒ̩	ʒ̩	NA
+ʒ̺	ʒ̺	NA
+ʒːʲ	ʒːʲ	NA
+ʒʲ	ʒʲ	NA
+ʒʷ	ʒʷ	NA
+ʒˤ	ʒˤ	NA
+ʔ	ʔ	NA
+ʔ̃	ʔ̃	NA
+ʔː	ʔː	NA
+ʔʷ	ʔʷ	NA
+ʔʼ	ʔʼ	NA
+ʔʼʷ	ʔʷʼ	NA
+ʔˤ	ʔˤ	NA
+ʼb	ʼb	NA
+ʼd	ʼd	NA
+ʼɡ	ʼɡ	NA
+ʼɣ	ʼɣ	NA
+ʼj	ʼj	NA
+ʼl	ʼl	NA
+ʼm	ʼm	NA
+ʼn	ʼn	NA
+ʼɲ	ʼɲ	NA
+ʼŋ	ʼŋ	NA
+ʼs	ʼs	NA
+ʼʃ	ʼʃ	NA
+ʼw	ʼw	NA
+ʕ	ʕ	NA
+ʡ	ʡ	NA
+ʡˤ	ʡˤ	NA
+ʢ	ʢ	NA
+ʢʷ	ʢʷ	NA
+β	β	NA
+β̞	β̞	NA
+βː	βː	NA
+βʲ	βʲ	NA
+βʲː	βːʲ	NA
+θ	θ	NA
+θ̪	θ̪	NA
+θ̻	θ̻	NA
+θʼ	θʼ	NA
+χ	χ	NA
+χː	χː	NA
+χːʷ	χːʷ	NA
+χːʼ	χːʼ	NA
+χʲ	χʲ	new segment type added
+χʷ	χʷ	NA
+χʷʲ	χʲʷ	new segment type added
+χˤ	χˤ	NA
+χˤʷ	χˤʷ	new segment type added
