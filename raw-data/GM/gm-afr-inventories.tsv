@@ -300,7 +300,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cko	anufɔ		ũ				
 	cko	anufɔ		ɔ̃				
 	cko	anufɔ		ã				
-1247	bvx	babole		i				babole.pdf
+1247	bvx	babole		i				bvx_Leitch2003.pdf
 	bvx	babole		u				
 	bvx	babole		e				
 	bvx	babole		ɛ				
@@ -333,7 +333,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bvx	babole		˨				
 	bvx	babole		˦˨				
 	bvx	babole		˨˦				
-1248	bcw	bana		p		[p]	before vowels	bana_hofmann1990_o.pdf
+1248	bcw	bana		p		[p]	before vowels	bcw_Hofmann1990.pdf
 	bcw	bana		p		[pʰ]	before vowels	
 	bcw	bana		b				
 	bcw	bana		t		[t]	before vowels	
@@ -522,7 +522,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bip	bila		˨				
 	bip	bila		˨˧				
 	bip	bila		˨˦				
-1252	bqp	busa		i				busa.pdf
+1252	bqp	busa		i				bqp_Wedekind1972.pdf
 	bqp	busa		e				
 	bqp	busa		a				
 	bqp	busa		o				
@@ -555,7 +555,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bqp	busa		˦				
 	bqp	busa		˧				
 	bqp	busa		˨				
-1253	fub	fulfulde (fuunaangere)	fuunaangere	ʔ				fulfulde_bickoe2000_o.pdf
+1253	fub	fulfulde (fuunaangere)	fuunaangere	ʔ				fub_Bickoe2000.pdf
 	fub	fulfulde (fuunaangere)	fuunaangere	r				
 	fub	fulfulde (fuunaangere)	fuunaangere	ʔʲ				
 	fub	fulfulde (fuunaangere)	fuunaangere	ŋ				
@@ -594,7 +594,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fub	fulfulde (fuunaangere)	fuunaangere	uː				
 	fub	fulfulde (fuunaangere)	fuunaangere	oː				
 	fub	fulfulde (fuunaangere)	fuunaangere	aː				
-1254	fuv	fulfulde (NGA)	Kaceccereere	a				fulfulde_mcintosh1984_o.pdf
+1254	fuv	fulfulde (NGA)	Kaceccereere	a				fuv_McIntosh1984.pdf
 	fuv	fulfulde (NGA)	Kaceccereere	ɑː				
 	fuv	fulfulde (NGA)	Kaceccereere	ɛ				
 	fuv	fulfulde (NGA)	Kaceccereere	eː				
@@ -651,7 +651,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fuv	fulfulde (NGA)	Kaceccereere	n̠d̠ʒ	updated from ɲdʒ			
 	fuv	fulfulde (NGA)	Kaceccereere	ŋɡ				
 	fuv	fulfulde (NGA)	Kaceccereere	ŋɡː				
-1255	her	herero		θ				herero.pdf
+1255	her	herero		θ				her_Elderkin2003.pdf
 	her	herero		h				
 	her	herero		p				
 	her	herero		t̪				
@@ -679,7 +679,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	her	herero		a				
 	her	herero		u				
 	her	herero		o				
-1256	sef	Senoufo-Cebaara	Tangari	˦				Herington_etal2009-TanagriPhonology.pdf
+1256	sef	Senoufo-Cebaara	Tangari	˦				sef_Herington_etal2009.pdf
 	sef	Senoufo-Cebaara	Tangari	˧				
 	sef	Senoufo-Cebaara	Tangari	˨				
 	sef	Senoufo-Cebaara	Tangari	p		[p]	free variation	
@@ -723,7 +723,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sef	Senoufo-Cebaara	Tangari	ã				
 	sef	Senoufo-Cebaara	Tangari	ãː				
 	sef	Senoufo-Cebaara	Tangari	aː				
-1257	khq	songhoy		˦				khq.pdf
+1257	khq	songhoy		˦				khq_Heath2005.pdf
 	khq	songhoy		˨				
 	khq	songhoy		˦˨				
 	khq	songhoy		˨˦				
@@ -781,7 +781,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	khq	songhoy		j̃				
 	khq	songhoy		h				
 	khq	songhoy		ʔ				
-1258	ksf	kpaʔ		ɓ				kpa.pdf
+1258	ksf	kpaʔ		ɓ				ksf_Guarisma2003.pdf
 	ksf	kpaʔ		ɗ				
 	ksf	kpaʔ		p				
 	ksf	kpaʔ		b				
@@ -829,7 +829,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ksf	kpaʔ		˨				
 	ksf	kpaʔ		˦˨	only long vowels			
 	ksf	kpaʔ		˨˦	only long vowels			
-1259	lea	lega-shabunda	beya	i				lega.pdf
+1259	lea	lega-shabunda	beya	i				lea_Botne2003.pdf
 	lea	lega-shabunda	beya	ɪ				
 	lea	lega-shabunda	beya	u				
 	lea	lega-shabunda	beya	ʊ				
@@ -881,7 +881,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lea	lega-shabunda	beya	↓˦				
 	lea	lega-shabunda	beya	˦˨				
 	lea	lega-shabunda	beya	˨˦				
-1260	lmp	limbum (southern)	southern	b		[b]	before vls consonants and word final	limbum_bah2004_o.pdf
+1260	lmp	limbum (southern)	southern	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
 	lmp	limbum (southern)	southern	b		[p]	before vls consonants and word final	
 	lmp	limbum (southern)	southern	t				
 	lmp	limbum (southern)	southern	d				
@@ -934,7 +934,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmp	limbum (southern)	southern	ũ				
 	lmp	limbum (southern)	southern	ɨ̃				
 	lmp	limbum (southern)	southern	ɛ̃				
-1261	lmp	limbum (central)	central	b		[b]	before vls consonants and word final	limbum_bah2004_o.pdf
+1261	lmp	limbum (central)	central	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
 	lmp	limbum (central)	central	b		[p]	before vls consonants and word final	
 	lmp	limbum (central)	central	b		[bʲ]	before vls consonants and word final	
 	lmp	limbum (central)	central	t		[t]		
@@ -991,7 +991,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmp	limbum (central)	central	ɛ̃				
 	lmp	limbum (central)	central	ɔ̃				
 	lmp	limbum (central)	central	ũ				
-1262	lmp	limbum (northern)	northern	b		[b]	before vls consonants and word final	limbum_bah2004_o.pdf
+1262	lmp	limbum (northern)	northern	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
 	lmp	limbum (northern)	northern	b		[p]	before vls consonants and word final	
 	lmp	limbum (northern)	northern	b		[bʲ]	before vls consonants and word final	
 	lmp	limbum (northern)	northern	t		[t]		
@@ -1037,7 +1037,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmp	limbum (northern)	northern	aː				
 	lmp	limbum (northern)	northern	eː				
 	lmp	limbum (northern)	northern	oː				
-1263	mye	myene		p				mye.pdf
+1263	mye	myene		p				mye_Jacquot_etal1976.pdf
 	mye	myene		ɓ				
 	mye	myene		mp				
 	mye	myene		s				
@@ -1132,7 +1132,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bud	N'cam		˦				
 	bud	N'cam		˧				
 	bud	N'cam		˨				
-1265	tvu	Nen		b		[b]	before schwa	nen.pdf
+1265	tvu	Nen		b		[b]	before schwa	baz_Mous2003.pdf
 	tvu	Nen		b		[bʷ]	before schwa	
 	tvu	Nen		f				
 	tvu	Nen		t				
@@ -1162,7 +1162,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tvu	Nen		ɔ				
 	tvu	Nen		˦				
 	tvu	Nen		˨				
-1266	mgw	matuumbi		i				rufiji.pdf
+1266	mgw	matuumbi		i				mgw_Odden2003.pdf
 	mgw	matuumbi		e				
 	mgw	matuumbi		a				
 	mgw	matuumbi		o				
@@ -1185,7 +1185,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mgw	matuumbi		˨				
 	mgw	matuumbi		˨˦				
 	mgw	matuumbi		˦˨				
-1267	yao	yao		i		[i]		rufiji.pdf
+1267	yao	yao		i		[i]		yao_Odden2003.pdf
 	yao	yao		i		[iː]		
 	yao	yao		ɪ		[ɪ]		
 	yao	yao		ɪ		[ɪː]		
@@ -2622,7 +2622,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	abn	Abua		˦				
 	abn	Abua		˨				
 	abn	Abua		↓˦				
-1298	any	Anyi		p		[p]		any.pdf
+1298	any	Anyi		p		[p]		any_Pyne1972.pdf
 	any	Anyi		p		[pᶣ]		
 	any	Anyi		b				
 	any	Anyi		m				
