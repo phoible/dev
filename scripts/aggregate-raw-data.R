@@ -179,7 +179,7 @@ if (!debug) rm(ra_raw)
 ## SAPHON is a wide-format data source: 1 row per language, phonemes as column
 ## headers, with boolean presence indicators in the cells (absence = "").
 ## NOTE: this code is fragile, and is built for saphon20121031.tsv, which was
-## hand-corrected from the original CSV version to remove extraneous line 
+## hand-corrected from the original CSV version to remove extraneous line
 ## breaks and quotes, and convert delimiters from comma to tab (several cells
 ## had internal commas). Future releases of SAPHON may break this code.
 cat("processing SAPHON\n")
@@ -247,6 +247,10 @@ all_data$GlyphID <- get_codepoints(all_data$Phoneme)
 
 ## CONVERT INVENTORY ID TO INTEGER
 all_data$InventoryID <- as.integer(all_data$InventoryID)
+
+## SORT BEFORE SAVING TO ELIMINATE SPURIOUS GIT DIFFS
+sort_order <- with(all_data, order(InventoryID, SegmentClass, GlyphID))
+all_data <- all_data[sort_order,]
 
 ## SAVE
 output_fields <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
