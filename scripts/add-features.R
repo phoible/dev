@@ -462,6 +462,9 @@ output_cols <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
                  "Marginal", "SegmentClass", "Source", feature_colnames)
 phoible <- phoible[output_cols]
 
+## CLEAN UP ROW NAMES
+rownames(phoible) <- NULL
+
 ## SAVE
 csv_path <- file.path("..", "data", "phoible.csv")
 rda_path <- file.path("..", "data", "phoible.RData")
