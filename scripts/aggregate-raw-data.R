@@ -249,8 +249,11 @@ all_data$GlyphID <- get_codepoints(all_data$Phoneme)
 all_data$InventoryID <- as.integer(all_data$InventoryID)
 
 ## SORT BEFORE SAVING TO ELIMINATE SPURIOUS GIT DIFFS
-sort_order <- with(all_data, order(InventoryID, SegmentClass, GlyphID))
+sort_order <- with(all_data, order(InventoryID, SegmentClass, Phoneme))
 all_data <- all_data[sort_order,]
+
+## RESET ROW LABELS
+rownames(all_data) <- NULL
 
 ## SAVE
 output_fields <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
