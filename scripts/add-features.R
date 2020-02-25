@@ -85,7 +85,7 @@ make_feat_vec_from_mat <- function(feat_mat) {
     ## collapse just the base glyphs into a string
     bases <- paste(feat_mat[feat_mat$GlyphType %in% "B", "segment"],
                    collapse="")
-    
+
     ## HANDLE SPECIAL CASES (AFFRICATES, DOUBLE-ARTICULATIONS, ETC)
     special_cases <- c("pɸ", "pf", "tθ", "ts", "tʃ", "ʈʂ", "c\u00E7", "kx",
                        "qχ", "bβ", "bv", "dð", "dz", "dʒ", "ɖʐ", "ɟʝ", "ɡɣ",
@@ -139,7 +139,7 @@ make_feat_vec_from_mat <- function(feat_mat) {
             return(initialize_feat_vec(feat_mat, feature_colnames, zero=TRUE))
         }
     }
-    
+
     ## THE BULK OF CASES: ONE OR MORE BASE GLYPHS (BUT NOT IN SPECIAL CASE TABLE)
     feat_vecs <- list()
     for (num in seq_along(base_row_nums)) {
@@ -452,14 +452,18 @@ stopifnot(all(sort(unique(phoible_nofeats$GlyphID)) ==
 
 ## MERGE IN FEATURES
 phoible <- merge(phoible_nofeats, unique_feats, by="GlyphID", all.x=TRUE,
-                 all.y=FALSE)
-phoible <- phoible[with(phoible, order(InventoryID, Phoneme)),]
+                 all.y=FALSE, sort=FALSE)
+sort_order <- with(phoible, order(InventoryID, SegmentClass, GlyphID))
+phoible <- phoible[sort_order,]
 
 ## CLEAN UP COLUMNS
 output_cols <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
                  "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
                  "Marginal", "SegmentClass", "Source", feature_colnames)
 phoible <- phoible[output_cols]
+
+## CLEAN UP ROW NAMES
+rownames(phoible) <- NULL
 
 ## SAVE
 csv_path <- file.path("..", "data", "phoible.csv")
