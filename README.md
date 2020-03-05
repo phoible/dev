@@ -41,7 +41,7 @@ distinctive feature systems in PHOIBLE, please cite as follows:
 
 > Moran, Steven & McCloy, Daniel (eds.) 2019. PHOIBLE 2.0. Jena: Max Planck
   Institute for the Science of Human History. (Available online at
-  http://phoible.org)
+  http://phoible.org). DOI: 10.5281/zenodo.2626687
 
 If you are citing phoneme inventory data for a particular language or
 languages, please use the name of the language as the title, and include the
