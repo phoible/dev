@@ -112,7 +112,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 65,Golla1970,spa,hup_SPA1979_phon.pdf,https://archive.org/details/hup_SPA1979_phon
 65,Woodward1964,spa,hup_SPA1979_phon.pdf,https://archive.org/details/hup_SPA1979_phon
 66,SapirHoijer1967,spa,nav_SPA1979_phon.pdf,https://archive.org/details/nav_SPA1979_phon
-67,Sapir1923,spa,hdn_SPA1979_phon.pdf,https://archive.org/details/hdn_SPA1979_phon
+67,Sapir1923,spa,hax_SPA1979_phon.pdf,https://archive.org/details/hdn_SPA1979_phon
 68,Kuipers1967,spa,squ_SPA1979_phon.pdf,https://archive.org/details/squ_SPA1979_phon
 69,Snyder1968,spa,str_SPA1979_phon.pdf,https://archive.org/details/str_SPA1979_phon
 70,SapirMorris1939,spa,noo_SPA1979_phon.pdf,https://archive.org/details/noo_SPA1979_phon
@@ -1669,7 +1669,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 995,sae_antunes2004,ph,sae_antunes2004_phon.pdf,NA
 996,str_montler2005,ph,str_montler2005_phon.pdf,NA
 997,sas_austin1998,ph,sas_austin1998_phon.pdf,NA
-998,svr_anonymous1927,ph,svr_anonymous1927_phon.pdf,NA
+998,srb_anonymous1927,ph,srb_anonymous1927_phon.pdf,NA
 999,pos_clark1995,ph,pos_clark1995_phon.pdf,NA
 1000,sey_levinson1990,ph,sey_levinson1990_phon.pdf,NA
 1001,trv_asal1969,ph,trv_asal1969_phon.pdf,NA
@@ -1688,7 +1688,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 1014,thm_migliazza1998,ph,thm_migliazza1998_phon.pdf,NA
 1015,erk_thieberger2004,ph,erk_thieberger2004_phon.pdf,NA
 1016,spo_carlson1972,ph,spo_carlson1972_phon.pdf,NA
-1017,sso_demuth1992,ph,sso_demuth1992_phon.pdf,NA
+1017,sot_demuth1992,ph,sot_demuth1992_phon.pdf,NA
 1018,stw_roddy2007,ph,stw_roddy2007_phon.pdf,NA
 1019,ulw_green1999,ph,ulw_green1999_phon.pdf,NA
 1020,jup_epps2005,ph,jup_epps2005_phon.pdf,NA
@@ -1709,7 +1709,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 1035,ukr_pugh1999,ph,ukr_pugh1999_phon.pdf,NA
 1036,phl_liljegren2008,ph,phl_liljegren2008_phon.pdf,NA
 1037,mky_bowden1997,ph,mky_Bowden1997_phon.pdf,NA
-1038,tpi_gonzalez2005,ph,tpi_gonzalez2005_phon.pdf,NA
+1038,tpj_gonzalez2005,ph,tpj_gonzalez2005_phon.pdf,NA
 1039,bjz_farr,ph,bjz_farr_phon.pdf,NA
 1040,tav_bostrom1998,ph,tav_bostrom1998_phon.pdf,NA
 1041,tgw_casimir1998,ph,tgw_casimir1998_phon.pdf,NA
@@ -2212,7 +2212,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 1527,1527_adj_herault,gm,adj_Herault1971.pdf,NA
 1528,1528_ahi,gm,ahi_Herault1971.pdf,NA
 1529,1529_ald_duponchel,gm,ald_Duponchel1974.pdf,NA
-1530,1530_ahs_tinor,gm,ahs_Blench2009.pdf,NA
+1530,1530_bqv_tinor,gm,bqv_Blench2009.pdf,NA
 1531,1531_zdj_patin,gm,zdj_patin2011.pdf,NA
 1531,1531_zdj_patin,gm,zdj_Lafon-Ould-Aoudia1937.pdf,NA
 1532,1532_akpes,gm,ibe_Blench_workinprograss.pdf,NA
@@ -3000,7 +3000,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 2216,trq_dicanio2010,uz,trq_dicanio2010.pdf,NA
 2217,tur_zimmer-orgun1992,uz,tur_zimmer-orgun1992.pdf,NA
 2218,zai_pickett2010,uz,zai_pickett2010.pdf,NA
-2219,bhh_ido2014,uz,bhh_ido2014.pdf,NA
+2219,tgk_ido2014,uz,tgk_ido2014.pdf,NA
 2220,ker_pearce2011,uz,ker_pearce2011.pdf,NA
 2221,zum_anonby2011,uz,zum_anonby2011.pdf,NA
 2222,coa_soderberg2014,uz,coa_soderberg2014.pdf,NA
