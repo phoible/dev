@@ -11495,7 +11495,7 @@
 						"[s]"	"Preceeding a voiceless consonant"	
 				"ts"				
 				"r"		"[r̩]"	"Between two consonants; Between word boundary and a consonant"	
-				"r̝"	"alveolar fricative trill, no appropriate symbol"			
+				"r̝"	"""This sound often starts as a trill but continues as a fricative and thus probably the best term for it is 'alveolar fricative trill' with the symbol /r̝/. (The laminal diacritic /r̻/ used in Ladefoged & Maddieson (1996) does not capture the sound's defining property)."""	"[r̥̞]"	"""A voiceless allophone of /r̝/ occurs in places where voicing assimilation applies."""	
 				"l"		"[l̩]"	"Between two consonants; Between word boundary and a consonant"	
 				"ʃ"		"[ʒ]"	"Preceeding a voiced consonant"	
 				"ʒ"		"[ʒ̥]"	"""At the end of the word before a pause"""	
