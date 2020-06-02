@@ -4470,6 +4470,10 @@
 						"[j]"	"After a nasal"	
 				"w"		"[w]"	"Before anterior vowels and sometimes before a and after an aspirated consonant"	
 						"[w]"	"Elsewhere"	
+				"˦"				
+				"˨"				
+				"˨˦"	"Le tonème bas-haut"			
+				"˦˨"	"Le tonème haut-bas"			
 
 963	"nla"	"Ngombale"		"p"				"nla_voutsa2003.pdf"
 				"b"				
