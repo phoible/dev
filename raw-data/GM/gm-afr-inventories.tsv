@@ -8604,7 +8604,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	muy	Muyang		˧				
 	muy	Muyang		˨˦				
 	muy	Muyang		˦˨				
-1411	jgo	Ngomba		p		[p]		jgo.pdf
+1411	jgo	Ngomba		p		[p]		jgo_Satre1997.pdf
 	jgo	Ngomba		p		[b]		
 	jgo	Ngomba		p		[p̚]		
 	jgo	Ngomba		p		[bʲ]		
@@ -8673,8 +8673,6 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jgo	Ngomba		˦		[˦]		
 	jgo	Ngomba		˦		[↓˦]		
 	jgo	Ngomba		˨				
-	jgo	Ngomba		q̚	listed in phone inventory, not in phoneme inventory, but no explanation of its properties/relation to some phoneme			
-	jgo	Ngomba		ʁ	listed in phone inventory, not in phoneme inventory, but no explanation of its properties/relation to some phoneme			
 1412	dmo	Kemezung		˦				dmo.pdf
 	dmo	Kemezung		˨		[˨]		
 	dmo	Kemezung		˨		[˩		
