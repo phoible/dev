@@ -18,7 +18,7 @@ source("aggregation-helper-functions.R")
 source("feature-helper-functions.R")
 
 ## LOAD PHONEME DATA
-load(file.path("..", "data", "phoible-nofeats.RData"))
+phoible_nofeats <- read.csv(file.path("..", "data", "phoible-nofeats.csv"))
 
 ## LOAD FEATURE TABLES
 feats <- read.csv(file.path("..", "raw-data", "FEATURES",
@@ -467,10 +467,8 @@ rownames(phoible) <- NULL
 
 ## SAVE
 csv_path <- file.path("..", "data", "phoible.csv")
-rda_path <- file.path("..", "data", "phoible.RData")
 write.csv(phoible, file=csv_path, row.names=FALSE, quote=TRUE, eol="\n",
           fileEncoding="UTF-8")
-save(phoible, file=rda_path)
 
 ## RESET GLOBAL OPTIONS
 options(stringsAsFactors=saf)
