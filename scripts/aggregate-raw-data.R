@@ -16,7 +16,6 @@ data_dir <- file.path("..", "raw-data")
 output_dir <- file.path("..", "data")
 glotto_path <- file.path("..", "mappings", "InventoryID-LanguageCodes.csv")
 output_path <- file.path(output_dir, "phoible-nofeats.csv")
-output_path_rdata <- file.path(output_dir, "phoible-nofeats.RData")
 if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
 
 ## LOAD EXTERNAL FUNCTIONS
@@ -262,7 +261,6 @@ output_fields <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
 phoible_nofeats <- all_data[output_fields]
 write.csv(phoible_nofeats, file=output_path, row.names=FALSE, quote=TRUE,
           eol="\n", fileEncoding="UTF-8")
-save(phoible_nofeats, file=output_path_rdata)
 ## WRITE LOG FILE
 if(exists("unfamiliar_glyphs")) {
     log_path <- file.path(output_dir, "unfamiliar-glyphs.csv")
