@@ -14,31 +14,36 @@
 saf <- getOption("stringsAsFactors")
 options(stringsAsFactors=FALSE)
 
-## file I/O
-root.dir <- file.path("..")
-results.dir <- file.path(root.dir, "results")
-in.file  <- file.path(root.dir, "data", "phoible-by-phoneme.RData")
-out.file <- file.path(results.dir, "bad-iso-codes.tsv")
+def_char_cols <- readr::cols(.default="c")
 
-## URLs
-iso.url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
+## load official ISO table
+iso_url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
+iso_table <- readr::read_tsv(iso_url, col_types=def_char_cols)
+iso_valid <- dplyr::pull(iso_table, Id)
 
-## load data
-load(in.file)  # final.data
-iso639.3 <- read.delim(iso.url, stringsAsFactors=FALSE)
+## load glottolog
+glotto_url <- "https://github.com/glottolog/glottolog-cldf/blob/master/cldf/languages.csv?raw=true"
+glotto_table <- readr::read_csv(glotto_url, col_types=def_char_cols)
+glotto_valid <- dplyr::pull(glotto_table, ID)
 
-## pull out language codes
-iso.codes <- iso639.3[,1]
-phoible.codes <- final.data$LanguageCode
+## load PHOIBLE data
+phoible_data_file  <- file.path("..", "data", "phoible.csv")
+phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
+phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
 
-## filter phoible data on bad codes
-bad.isos <- final.data[!phoible.codes %in% iso.codes,]
-bad.isos <- bad.isos[!duplicated(bad.isos$InventoryID),
-                     c("LanguageCode", "LanguageName", "Source")]
+## pull out the relevant columns and compare to reference lists
+iso_phoible <- dplyr::pull(phoible, ISO6393)
+iso_invalid <- dplyr::setdiff(iso_phoible, iso_valid)
 
-## write results
-write.table(bad.isos, out.file, row.names=FALSE, col.names=TRUE,
-            sep="\t", eol="\n")
+glotto_phoible <- dplyr::pull(phoible, Glottocode)
+glotto_invalid <- dplyr::setdiff(glotto_phoible, glotto_valid)
+
+## only one invalid value is expected: NA
+testthat::expect_length(iso_invalid, 1)
+testthat::expect_length(glotto_invalid, 1)
+
+testthat::expect_length(is.na(iso_invalid), 1)
+testthat::expect_length(is.na(glotto_invalid), 1)
 
 ## reset options
 options(stringsAsFactors=saf)
