@@ -489,7 +489,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	apd	Arabe	rː	rː			apparently all consonants can be geminate
 	apd	Arabe	tː	tː			apparently all consonants can be geminate
 	apd	Arabe	wː	wː			apparently all consonants can be geminate
-	apd	Arabe	vː	vː			apparently all consonants can be geminate; only in borrowed words	marginal phoneme
+	apd	Arabe	<vː>	vː			apparently all consonants can be geminate; only in borrowed words	marginal phoneme
 	apd	Arabe	zː	zː			apparently all consonants can be geminate
 	apd	Arabe	sˤː	sˤː			apparently all consonants can be geminate
 
@@ -778,7 +778,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bam	Bambara	u	u
 	bam	Bambara	t	t
 	bam	Bambara	w	w
-	bam	Bambara	z	z				only in borrowed words
+	bam	Bambara	<z>	z				only in borrowed words
 	bam	Bambara	ĩ	ĩ
 	bam	Bambara	ẽ	ẽ
 	bam	Bambara	ɛ̃	ɛ̃
@@ -2384,7 +2384,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	igb	Ebira	z	z
 
 703	ewe	Eʋe	˦	˦
-	ewe	Eʋe	˨	˨			AA describes as 'non-high'	describes?
+	ewe	Eʋe	˨	˨			AA described as 'non-high'	
 	ewe	Eʋe	β	β			corrected to IPA
 	ewe	Eʋe	˨˦	˨˦
 	ewe	Eʋe	ɡb	ɡb
@@ -4507,7 +4507,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kmw	Komo	i	i
 	kmw	Komo	k	k
 	kmw	Komo	m	m
-	kmw	Komo	l	l			rare phoneme	marginal phoneme
+	kmw	Komo	<l>	l			rare phoneme	marginal phoneme
 	kmw	Komo	o	o
 	kmw	Komo	n	n
 	kmw	Komo	p	p
@@ -4905,8 +4905,8 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 761	lln	Lele	˦	˦
 	lln	Lele	˧	˧
 	lln	Lele	˨	˨
-	lln	Lele	kp	kp			found only in ideophones, added from AA	marginal phoneme
-	lln	Lele	ɡb	ɡb			found only in ideophones, added from AA	marginal phoneme
+	lln	Lele	<kp>	kp			found only in ideophones, added from AA	marginal phoneme
+	lln	Lele	<ɡb>	ɡb			found only in ideophones, added from AA	marginal phoneme
 	lln	Lele	d̠ʒ	ʤ				discrepancies in 3 sources, but seems to be consensus
 	lln	Lele	t̠ʃ	ʧ				discrepancies in 3 sources, but seems to be consensus
 	lln	Lele	ŋ	ŋ
@@ -4979,7 +4979,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	led	Lendu	i	i
 	led	Lendu	h	h
 	led	Lendu	k	k
-	led	Lendu	j	j			rare phoneme	marginal phoneme
+	led	Lendu	<j>	j			rare phoneme	marginal phoneme
 	led	Lendu	m	m
 	led	Lendu	l	l
 	led	Lendu	n	n
@@ -8114,7 +8114,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 838	wwa	Waama	˥	˥
 	wwa	Waama	˦	˦
 	wwa	Waama	˨	˨
-	wwa	Waama	kp	kp			changed from /kw/	double-check
+	wwa	Waama	kp	kp			changed from /kw/ (as per Bremicker 1990; see bremicker_waama1990_o.pdf)	
 	wwa	Waama	ɔ	ɔ
 	wwa	Waama	ɛ	ɛ
 	wwa	Waama	a	a
