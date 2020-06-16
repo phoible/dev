@@ -21,8 +21,4 @@ jobs:
     - name: test-data
       working-directory: tests
       run: |
-        echo $PS1
-        echo $GITHUB_WORKSPACE
-        pwd
-        which Rscript
         Rscript -e "testthat::test_dir('.')"
