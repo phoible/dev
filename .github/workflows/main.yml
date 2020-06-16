@@ -15,7 +15,8 @@ jobs:
       run: |
         curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
         bash Miniconda3-latest-Linux-x86_64.sh -b
-        eval "$(conda shell.bash hook)"
+        #eval "$(conda shell.bash hook)"
+        source $HOME/miniconda3/etc/profile.d/conda.sh
     - name: update conda
       run: |
         conda update -n base conda
