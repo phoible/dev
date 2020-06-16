@@ -19,7 +19,7 @@ jobs:
         #eval "$(conda shell.bash hook)"
         #conda activate phoible
         sudo apt install -y r-base r-base-core
-        Rscript --verbose -e "install.packages(c('testthat', 'knitr', 'tidyverse'))"
+        sudo Rscript --verbose -e "install.packages(c('testthat', 'knitr', 'tidyverse'))"
     - name: test-data
       working-directory: tests
       run: |
