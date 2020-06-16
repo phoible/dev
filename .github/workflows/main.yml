@@ -19,6 +19,8 @@ jobs:
         #eval "$(conda shell.bash hook)"
         #conda init bash
         #conda activate phoible
+        echo "deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/" | sudo tee -a /etc/apt/sources.list > /dev/null
+        sudo apt update
         sudo apt install -y r-base r-cran-dplyr r-cran-readr r-cran-testthat r-cran-knitr
         #sudo Rscript --verbose -e "install.packages(c('testthat', 'knitr', 'readr', 'dplyr'))"
     - name: test-data
