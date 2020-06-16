@@ -19,7 +19,10 @@ jobs:
         eval "$(conda shell.bash hook)"
         conda activate phoible
     - name: test-data
-      working-directory: $GITHUB_WORKSPACE/dev/tests/
+      working-directory: tests
       run: |
+        echo $PS1
+        echo $GITHUB_WORKSPACE
+        pwd
+        which Rscript
         Rscript -e "testthat::test_dir('.')"
-
