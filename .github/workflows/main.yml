@@ -18,7 +18,7 @@ jobs:
         #conda create -n phoible -c conda-forge r=4 r-tidyverse r-testthat r-knitr
         #eval "$(conda shell.bash hook)"
         #conda activate phoible
-        apt install r-base r-base-core
+        sudo apt install -y r-base r-base-core
         Rscript --verbose -e "install.packages(c('testthat', 'knitr', 'tidyverse'))"
     - name: test-data
       working-directory: tests
