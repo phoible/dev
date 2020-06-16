@@ -17,6 +17,7 @@ jobs:
         bash Miniconda3-latest-Linux-x86_64.sh -b
         conda create -n phoible -c conda-forge r=4 r-tidyverse r-testthat r-knitr
         conda init bash
+        bash /home/runner/.bashrc
         conda activate phoible
     - name: test-data
       working-directory: $GITHUB_WORKSPACE/tests/
