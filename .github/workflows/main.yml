@@ -1,0 +1,24 @@
+name: test data
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test-data:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2  # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: setup
+      run: |
+        curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+        bash Miniconda3-latest-Linux-x86_64.sh -b
+        conda create -n phoible -c conda-forge r=4 r-tidyverse r-testthat r-knitr
+        conda activate phoible
+    - name: test-data
+      working-directory: $GITHUB_WORKSPACE/tests/
+      run: |
+        Rscript -e "testthat::test_dir('.')"
+
