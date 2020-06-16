@@ -18,6 +18,7 @@ jobs:
         conda create -n phoible -c conda-forge r=4 r-readr r-dplyr r-testthat r-knitr
         eval "$(conda shell.bash hook)"
         conda init bash
+        bash $HOME/.bashrc
         conda activate phoible
         #sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
         #sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
@@ -27,4 +28,5 @@ jobs:
     - name: test-data
       working-directory: tests
       run: |
+        conda activate phoible
         Rscript --verbose -e "testthat::test_dir('.')"
