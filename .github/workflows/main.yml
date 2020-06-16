@@ -21,4 +21,4 @@ jobs:
     - name: test-data
       working-directory: tests
       run: |
-        Rscript -e "testthat::test_dir('.')"
+        Rscript --verbose -e "testthat::test_dir('.')"
