@@ -4,12 +4,17 @@ The `ER` source data comes from [Erich
 Round](https://languages-cultures.uq.edu.au/profile/1160/erich-round) and
 should be cited as:
 
-> Round, Erich R. 2019. Phonemic inventories of Australia.
+> Round, Erich R. 2019. Phonemic inventories of Australia (database of 392 languages). In Steven Moran & Daniel McCloy (Eds.), PHOIBLE 2.0. Jena: Max Planck Institute for the Science of Human History.
 
-Notes on the inventories and their compilation from Erich are below. The data
+Notes on the inventories and their compilation from Erich are below. See also:
+
+> Round, Erich. (2019, September 29). Australian phonemic inventories contributed to PHOIBLE 2.0: Essential explanatory notes (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3464333
+
+The data
 are available in phoible long format in
 [ER_inventories.tsv](ER_inventories.tsv) and contain only phonemes, with no
-information on allophones or linguistic tone.
+information on allophones or linguistic tone. We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details. For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
 
 
 ## OVERVIEW

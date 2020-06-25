@@ -11,4 +11,4 @@ We have converted IPA symbols in the raw data in line with the [phoible conventi
 Note that the ISO 639-3 codes in the RA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
 
 For up-to-date language codes for each inventory, we maintain a phoible index here:
-[InventoryID-LanguageCodes.tsv](../../mappings/InventoryID-LanguageCodes.csv).
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
