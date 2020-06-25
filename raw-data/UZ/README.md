@@ -7,7 +7,9 @@ The inventory data are available in phoible long format in [UZ_inventories.tsv](
 
 The data adhere to the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176).
 
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
 Note that the ISO 639-3 codes in the UZ source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
 
 For up-to-date language codes for each inventory, we maintain a phoible index here:
-[InventoryID-LanguageCodes.tsv](../../mappings/InventoryID-LanguageCodes.tsv).
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
