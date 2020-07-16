@@ -3,6 +3,8 @@
 ## This script tests to make sure that each ISO code in the aggregated data file
 ## has fully unique phoneme entries (i.e., no duplicate records).
 
+testthat::context("Phoneme uniqueness")
+
 library(dplyr)
 
 ## set global options (restored at end)

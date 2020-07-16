@@ -3,6 +3,8 @@
 ## This script checks that each metadata field associated with each inventory
 ## has only one value within each inventory.
 
+testthat::context("Metadata consistency")
+
 library(dplyr)
 
 ## load PHOIBLE data

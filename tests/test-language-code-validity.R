@@ -10,6 +10,8 @@
 ## Full list of retired codes:
 ## http://www-01.sil.org/iso639-3/codes_retired.asp
 
+testthat::context("Language code validity")
+
 ## set global options (restored at end)
 saf <- getOption("stringsAsFactors")
 options(stringsAsFactors=FALSE)
@@ -38,12 +40,8 @@ iso_invalid <- dplyr::setdiff(iso_phoible, iso_valid)
 glotto_phoible <- dplyr::pull(phoible, Glottocode)
 glotto_invalid <- dplyr::setdiff(glotto_phoible, glotto_valid)
 
-## only one invalid value is expected: NA
-testthat::expect_length(iso_invalid, 1)
-testthat::expect_length(glotto_invalid, 1)
-
-testthat::expect_length(is.na(iso_invalid), 1)
-testthat::expect_length(is.na(glotto_invalid), 1)
+testthat::expect_length(iso_invalid, 0)
+testthat::expect_length(glotto_invalid, 0)
 
 ## reset options
 options(stringsAsFactors=saf)
