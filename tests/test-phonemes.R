@@ -23,11 +23,17 @@ test_that("inventories don't have duplicate phonemes", {
         summarise(all_unique=n() == n_distinct(Phoneme), .groups="drop") ->
         results_table
     ## show the failures
-    withr::deferred_run({
-        results_table %>%
-            filter(!all_unique) %>%
-            knitr::kable()
+    if(any(!results_table$all_unique)) {
+        withr::deferred_run({
+            cat("\n\n====================================")
+            cat("\nINVENTORIES WITH DUPLICATE PHONEMES:\n")
+            results_table %>%
+                filter(!all_unique) %>%
+                pull(InventoryID) %>%
+                print()
+            cat("\n====================================\n")
         })
+    }
 
     expect_true(all(pull(results_table, all_unique)))
     })
