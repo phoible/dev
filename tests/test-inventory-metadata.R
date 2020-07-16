@@ -10,9 +10,10 @@
 ## Full list of retired codes:
 ## http://www-01.sil.org/iso639-3/codes_retired.asp
 
-library(dplyr)
+library(dplyr, warn.conflicts=FALSE)
+library(testthat)
 
-testthat::context("Inventory metadata")
+context("Inventory metadata")
 
 ## load PHOIBLE data
 phoible_data_file  <- file.path("..", "data", "phoible.csv")
@@ -20,7 +21,7 @@ phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
 phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
 
 
-testthat::test_that("all language codes are valid", {
+test_that("all language codes are valid", {
     ## set global options (restored automatically on exit)
     withr::local_options(list(stringsAsFactors=FALSE))
 
@@ -43,12 +44,12 @@ testthat::test_that("all language codes are valid", {
     glotto_phoible <- pull(phoible, Glottocode)
     glotto_invalid <- setdiff(glotto_phoible, glotto_valid)
 
-    testthat::expect_length(iso_invalid, 0)
-    testthat::expect_length(glotto_invalid, 0)
+    expect_length(iso_invalid, 0)
+    expect_length(glotto_invalid, 0)
     })
 
 
-testthat::test_that("metadata is unique within each inventory", {
+test_that("metadata is unique within each inventory", {
     ## extract metadata columns and count unique rows
     phoible %>%
         group_by(InventoryID) %>%
@@ -61,5 +62,5 @@ testthat::test_that("metadata is unique within each inventory", {
         n_distinct() ->
         n_inventories
     ## test
-    testthat::expect_equal(n_distinct_metadata_rows, n_inventories)
+    expect_equal(n_distinct_metadata_rows, n_inventories)
     })
