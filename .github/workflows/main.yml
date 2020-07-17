@@ -18,7 +18,7 @@ jobs:
     - name: update conda
       run: conda update -n base conda
     - name: make new environment
-      run: conda create -n phoible -c conda-forge r=4 r-readr r-dplyr r-testthat r-knitr
+      run: conda create -n phoible -c conda-forge r=4 r-readr r-dplyr r-testthat r-withr r-knitr
     - name: run tests
       working-directory: tests
       run: |
