@@ -10297,11 +10297,12 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	djm	Jamsay, Dogon		b				
 	djm	Jamsay, Dogon		t̠ʃ				
 	djm	Jamsay, Dogon		k				
-	djm	Jamsay, Dogon		b				
 	djm	Jamsay, Dogon		d				
+	djm	Jamsay, Dogon		t				
 	djm	Jamsay, Dogon		d̠ʒ				
 	djm	Jamsay, Dogon		ɡ		[ɡ]		
 	djm	Jamsay, Dogon		ɡ		[ɣ]		
+	djm	Jamsay, Dogon		ɡ		[ŋ]		
 	djm	Jamsay, Dogon		m				
 	djm	Jamsay, Dogon		n				
 	djm	Jamsay, Dogon		ɲ				
@@ -10310,35 +10311,32 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	djm	Jamsay, Dogon		s				
 	djm	Jamsay, Dogon		<ʃ>	marɡinal			
 	djm	Jamsay, Dogon		l				
-	djm	Jamsay, Dogon		w				
-	djm	Jamsay, Dogon		r				
-	djm	Jamsay, Dogon		j				
-	djm	Jamsay, Dogon		w̃				
-	djm	Jamsay, Dogon		r̃				
+	djm	Jamsay, Dogon		w		[w]		
+	djm	Jamsay, Dogon		w		[w̃]		
+	djm	Jamsay, Dogon		r		[r]		
+	djm	Jamsay, Dogon		r		[r̃]		
+	djm	Jamsay, Dogon		j		[j]		
+	djm	Jamsay, Dogon		j		[j̃]		
 	djm	Jamsay, Dogon		j̃				
+	djm	Jamsay, Dogon		w̃				
+	djm	Jamsay, Dogon		r̃		[r̃]		
+	djm	Jamsay, Dogon		r̃		[n]		
 	djm	Jamsay, Dogon		<h>	loanwords			
 	djm	Jamsay, Dogon		<ʔ>	marɡinal			
-	djm	Jamsay, Dogon		bː				
-	djm	Jamsay, Dogon		t̠ʃː				
-	djm	Jamsay, Dogon		dː				
-	djm	Jamsay, Dogon		ɡː				
-	djm	Jamsay, Dogon		d̠ʒː				
-	djm	Jamsay, Dogon		kː				
-	djm	Jamsay, Dogon		lː				
-	djm	Jamsay, Dogon		mː				
-	djm	Jamsay, Dogon		nː				
-	djm	Jamsay, Dogon		ŋː				
-	djm	Jamsay, Dogon		pː				
-	djm	Jamsay, Dogon		rː				
-	djm	Jamsay, Dogon		tː				
-	djm	Jamsay, Dogon		jː				
-	djm	Jamsay, Dogon		u				
-	djm	Jamsay, Dogon		o				
-	djm	Jamsay, Dogon		ɔ				
-	djm	Jamsay, Dogon		a				
-	djm	Jamsay, Dogon		ɛ				
-	djm	Jamsay, Dogon		e				
-	djm	Jamsay, Dogon		i				
+	djm	Jamsay, Dogon		u		[u]		
+	djm	Jamsay, Dogon		u		[ũ]		
+	djm	Jamsay, Dogon		o		[o]		
+	djm	Jamsay, Dogon		o		[õ]		
+	djm	Jamsay, Dogon		ɔ		[ɔ]		
+	djm	Jamsay, Dogon		ɔ		[ɔ̃]		
+	djm	Jamsay, Dogon		a		[a]		
+	djm	Jamsay, Dogon		a		[ã]		
+	djm	Jamsay, Dogon		ɛ		[ɛ]		
+	djm	Jamsay, Dogon		ɛ		[ɛ̃]		
+	djm	Jamsay, Dogon		e		[e]		
+	djm	Jamsay, Dogon		e		[ẽ]		
+	djm	Jamsay, Dogon		i		[i]		
+	djm	Jamsay, Dogon		i		[ĩ]		
 	djm	Jamsay, Dogon		uː				
 	djm	Jamsay, Dogon		oː				
 	djm	Jamsay, Dogon		ɔː				
@@ -10347,7 +10345,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	djm	Jamsay, Dogon		eː				
 	djm	Jamsay, Dogon		iː				
 	djm	Jamsay, Dogon		ũː				
-	djm	Jamsay, Dogon		<õː>	loanwords			
+	djm	Jamsay, Dogon		õː				
 	djm	Jamsay, Dogon		ɔ̃ː				
 	djm	Jamsay, Dogon		ãː				
 	djm	Jamsay, Dogon		ɛ̃ː				
