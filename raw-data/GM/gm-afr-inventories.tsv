@@ -6700,11 +6700,6 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mcw	Mawa		k				
 	mcw	Mawa		ɡ				
 	mcw	Mawa		ŋ				
-	mcw	Mawa		ʔ	ʔ ...the glottal stop only occurs phonetically at the beginning of vowel-initial words, and for that reason need not be recognized as a phoneme			
-	mcw	Mawa		<ʔw>	marɡinal			
-	mcw	Mawa		<h>	loanwords only			
-	mcw	Mawa		<f>	loanwords only			
-	mcw	Mawa		<z>	loanwords only			
 	mcw	Mawa		i				
 	mcw	Mawa		e				
 	mcw	Mawa		ɘ				
