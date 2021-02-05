@@ -4359,6 +4359,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xan	Xamtanga		q				
 	xan	Xamtanga		kʼ				
 	xan	Xamtanga		kʷ				
+	xan	Xamtanga		kʷʼ				
 	xan	Xamtanga		χ				
 	xan	Xamtanga		χʷ				
 	xan	Xamtanga		qʷ				
@@ -5130,68 +5131,68 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tir	Tigrinya		o				
 	tir	Tigrinya		h				
 	tir	Tigrinya		l		[l]		
-	tir	Tigrinya		l		[lː]		
+	tir	Tigrinya		lː		[lː]		
 	tir	Tigrinya		ħ		[ħ]		
 	tir	Tigrinya		ħ		[ħʷ]		
 	tir	Tigrinya		m		[m]		
-	tir	Tigrinya		m		[mː]		
+	tir	Tigrinya		mː		[mː]		
 	tir	Tigrinya		s		[s]		
-	tir	Tigrinya		s		[sː]		
+	tir	Tigrinya		sː		[sː]		
 	tir	Tigrinya		ɾ		[ɾ]		
-	tir	Tigrinya		ɾ		[ɾː]		
+	tir	Tigrinya		ɾː		[ɾː]		
 	tir	Tigrinya		ʃ		[ʃ]		
-	tir	Tigrinya		ʃ		[ʃː]		
+	tir	Tigrinya		ʃː		[ʃː]		
 	tir	Tigrinya		q		[q]		
 	tir	Tigrinya		q		[qʷ]		
-	tir	Tigrinya		q		[qː]		
+	tir	Tigrinya		qː		[qː]		
 	tir	Tigrinya		qʼ		[qʼ̪]		
 	tir	Tigrinya		qʼ		[qʷʼ]		
-	tir	Tigrinya		qʼ		[qʼː]		
+	tir	Tigrinya		qʼː		[qʼː]		
 	tir	Tigrinya		b		[b]		
-	tir	Tigrinya		b		[bː]		
+	tir	Tigrinya		bː		[bː]		
 	tir	Tigrinya		t		[t]		
-	tir	Tigrinya		t		[tː]		
+	tir	Tigrinya		tː		[tː]		
 	tir	Tigrinya		t̠ʃ		[t̠ʃ]		
-	tir	Tigrinya		t̠ʃ		[t̠ʃː]		
+	tir	Tigrinya		t̠ʃː		[t̠ʃː]		
 	tir	Tigrinya		n		[n]		
-	tir	Tigrinya		n		[nː]		
+	tir	Tigrinya		nː		[nː]		
 	tir	Tigrinya		ɲ		[ɲ]		
-	tir	Tigrinya		ɲ		[ɲː]		
+	tir	Tigrinya		ɲː		[ɲː]		
 	tir	Tigrinya		ʔ				
 	tir	Tigrinya		k		[k]		
 	tir	Tigrinya		k		[kʷ]		
-	tir	Tigrinya		k		[kː]		
+	tir	Tigrinya		kː		[kː]		
 	tir	Tigrinya		x		[x]		
 	tir	Tigrinya		x		[xʷ]		
-	tir	Tigrinya		x		[xː]		
+	tir	Tigrinya		xː		[xː]		
 	tir	Tigrinya		w		[w]		
-	tir	Tigrinya		w		[wː]		
+	tir	Tigrinya		wː		[wː]		
 	tir	Tigrinya		ʕ				
 	tir	Tigrinya		z		[z]		
-	tir	Tigrinya		z		[zː]		
+	tir	Tigrinya		zː		[zː]		
 	tir	Tigrinya		ʒ		[ʒ]		
-	tir	Tigrinya		ʒ		[ʒː]		
+	tir	Tigrinya		ʒː		[ʒː]		
 	tir	Tigrinya		j		[j]		
-	tir	Tigrinya		j		[jː]		
+	tir	Tigrinya		jː		[jː]		
 	tir	Tigrinya		d		[d]		
-	tir	Tigrinya		d		[dː]		
+	tir	Tigrinya		dː		[dː]		
 	tir	Tigrinya		d̠ʒ		[d̠ʒ]		
-	tir	Tigrinya		d̠ʒ		[d̠ʒː]		
+	tir	Tigrinya		d̠ʒː		[d̠ʒː]		
 	tir	Tigrinya		ɡ		[ɡ]		
 	tir	Tigrinya		ɡ		[ɡʷ]		
-	tir	Tigrinya		ɡ		[ɡː]		
+	tir	Tigrinya		ɡː		[ɡː]		
 	tir	Tigrinya		tʼ		[tʼ]		
-	tir	Tigrinya		tʼ		[tʼː]		
+	tir	Tigrinya		tʼː		[tʼː]		
 	tir	Tigrinya		cʼ		[cʼ]		
-	tir	Tigrinya		cʼ		[cʼː]		
+	tir	Tigrinya		cʼː		[cʼː]		
 	tir	Tigrinya		pʼ		[pʼ]		
-	tir	Tigrinya		pʼ		[pʼː]		
+	tir	Tigrinya		pʼː		[pʼː]		
 	tir	Tigrinya		sʼ		[sʼ]		
-	tir	Tigrinya		sʼ		[sʼː]		
-	tir	Tigrinya		f		[fː]		
+	tir	Tigrinya		sʼː		[sʼː]		
+	tir	Tigrinya		fː		[fː]		
 	tir	Tigrinya		f		[f]		
 	tir	Tigrinya		p		[p]		
-	tir	Tigrinya		p		[pː]		
+	tir	Tigrinya		pː		[pː]		
 	tir	Tigrinya		<v>	loanwords from English			
 1351	kdj	Karimojong		i				kdj.pdf
 	kdj	Karimojong		y				
@@ -12280,7 +12281,10 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aiw	Aari		k		[k]		
 	aiw	Aari		k		[kʰ]		
 	aiw	Aari		ɡ				
-	aiw	Aari		q				
+	aiw	Aari		q		[q]				
+	aiw	Aari		q		[χ]		
+	aiw	Aari		q		[qχ]		
+	aiw	Aari		q		[ʁ]		
 	aiw	Aari		ʔ				
 	aiw	Aari		ɦ				
 	aiw	Aari		i̞		[i̞]		
@@ -13328,7 +13332,8 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zwa	Zway		j				
 	zwa	Zway		ɡ				
 	zwa	Zway		k				
-	zwa	Zway		q				
+	zwa	Zway		q		[q]				
+	zwa	Zway		q		[ʔ]		
 	zwa	Zway		ʔ				
 	zwa	Zway		h				
 	zwa	Zway		i				
