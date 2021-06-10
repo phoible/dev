@@ -12281,7 +12281,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aiw	Aari		k		[k]		
 	aiw	Aari		k		[kʰ]		
 	aiw	Aari		ɡ				
-	aiw	Aari		q		[q]				
+	aiw	Aari		q		[q]		
 	aiw	Aari		q		[χ]		
 	aiw	Aari		q		[qχ]		
 	aiw	Aari		q		[ʁ]		
@@ -13332,7 +13332,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zwa	Zway		j				
 	zwa	Zway		ɡ				
 	zwa	Zway		k				
-	zwa	Zway		q		[q]				
+	zwa	Zway		q		[q]		
 	zwa	Zway		q		[ʔ]		
 	zwa	Zway		ʔ				
 	zwa	Zway		h				
