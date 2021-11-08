@@ -11,7 +11,7 @@
 ## http://www-01.sil.org/iso639-3/codes_retired.asp
 
 library(dplyr, warn.conflicts=FALSE)
-library(testthat)
+library(testthat, warn.conflicts=FALSE)
 
 context("Inventory metadata")
 
@@ -29,13 +29,18 @@ test_that("language codes are valid", {
 
     ## load official ISO table
     iso_url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
-    iso_table <- readr::read_tsv(iso_url, col_types=default_char_cols)
+    iso_table <- readr::read_tsv(iso_url, col_types=default_char_cols, trim_ws=FALSE)
     iso_valid <- pull(iso_table, Id)
 
     ## load glottolog
     glotto_url <- "https://github.com/glottolog/glottolog-cldf/blob/master/cldf/languages.csv?raw=true"
     glotto_table <- readr::read_csv(glotto_url, col_types=default_char_cols)
     glotto_valid <- pull(glotto_table, ID)
+
+    ## list exceptions (invalid isocodes that we don't consider errors)
+    iso_exceptions <- c(
+        "daf"  # Dan/Kla-Dan; split in 2013; not clear which lx. the source article describes
+    )
 
     ## pull out the relevant columns and compare to reference list
     iso_phoible <- pull(phoible, ISO6393)
@@ -44,10 +49,18 @@ test_that("language codes are valid", {
     glotto_invalid <- setdiff(glotto_phoible, glotto_valid)
 
     ## test
-    expect(length(iso_invalid) == 0,
-           paste("INVALID ISO CODES:", paste(iso_invalid, collapse=" "),
+    iso_invalids_not_caught <- setdiff(iso_invalid, iso_exceptions)
+    iso_exceptions_not_needed <- setdiff(iso_exceptions, iso_invalid)
+    expect(length(iso_invalids_not_caught) == 0,
+           paste("INVALID ISO CODES NOT HANDLED:",
+                 paste(iso_invalids_not_caught, collapse=" "),
                  sep="\n")
            )
+    expect(length(iso_exceptions_not_needed) == 0,
+           paste("UNNECESSARY ISO CODE EXCEPTIONS:",
+                 paste(iso_exceptions_not_needed, collapse=" "),
+                 sep="\n")
+    )
 
     expect(length(glotto_invalid) == 0,
            paste("INVALID GLOTTOCODES:", paste(glotto_invalid, collapse=" "),
