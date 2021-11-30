@@ -1,6 +1,6 @@
 # PH
 
-The `PH` folder contains phonological inventory data (phonemes, allophones, and tones) drawn from journal articles, theses, and published grammars. Collectively, they represent a convenience sample of languages and they were selected to improve worldwide coverage of the aggregated phoible data. Their source is tagged `phoible`.
+The `PH` folder contains phonological inventory data (phonemes, allophones, and tones) drawn from journal articles, theses, and published grammars. Collectively, they represent a convenience sample of languages and they were selected to improve worldwide coverage of the aggregated phoible data. Their source is tagged `ph` in the aggregated [phoible.csv](../../data/phoible.csv) file.
 
 The inventory data in [phoible_inventories.tsv](phoible_inventories.tsv) were added by members of the Linguistic Phonetics Laboratory at the University of Washington. The contents are described in:
 
