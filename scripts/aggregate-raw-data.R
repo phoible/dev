@@ -32,9 +32,9 @@ er_path <- file.path(data_dir, "ER", "ER_inventories.tsv")
 ea_path <- file.path(data_dir, "EA", "EA_inventories.tsv")
 ea_ipa_path <- file.path(data_dir, "EA", "EA_IPA_correspondences.tsv")
 ph_path <- file.path(data_dir, "PH", "phoible_inventories.tsv")
-uz_path <- file.path(data_dir, "UZ", "UZ_inventories.tsv")
-gm_afr_path <- file.path(data_dir, "GM", "gm-afr-inventories.tsv")
-gm_sea_path <- file.path(data_dir, "GM", "gm-sea-inventories.tsv")
+uz_path <- file.path(data_dir, "PH", "UZ_inventories.tsv")
+gm_afr_path <- file.path(data_dir, "PH", "gm-afr-inventories.tsv")
+gm_sea_path <- file.path(data_dir, "PH", "gm-sea-inventories.tsv")
 aa_path <- file.path(data_dir, "AA", "AA_inventories.tsv")
 spa_path <- file.path(data_dir, "SPA", "SPA_Phones.tsv")
 spa_ipa_path <- file.path(data_dir, "SPA", "SPA_IPA_correspondences.tsv")
@@ -92,7 +92,7 @@ sparse_cols <- c("InventoryID", "LanguageCode", "LanguageName", "Phoneme",
                  "SpecificDialect", "FileNames")
 uz_data <- parse_sparse(uz_raw, id_col="FileNames", fill_cols=sparse_cols)
 ## clean up
-uz_data <- validate_data(uz_data, "uz", debug=debug)
+uz_data <- validate_data(uz_data, "ph", debug=debug)
 if (!debug) rm(uz_raw)
 
 ## GM has dense lx.code, name, and dialect columns, but sparse FileNames column.
@@ -105,7 +105,7 @@ gm_sea_raw <- read.delim(gm_sea_path, na.strings="", quote="",
 gm_raw <- rbind(gm_afr_raw, gm_sea_raw)
 gm_data <- parse_sparse(gm_raw, id_col="InventoryID", fill_cols="FileNames")
 ## clean up
-gm_data <- validate_data(gm_data, "gm", debug=debug)
+gm_data <- validate_data(gm_data, "ph", debug=debug)
 if (!debug) rm(gm_raw, gm_afr_raw, gm_sea_raw)
 
 ## AA has blank lines between languages; InventoryID is sparse and unique; all
