@@ -39,7 +39,85 @@ test_that("language codes are valid", {
 
     ## list exceptions (invalid isocodes that we don't consider errors)
     iso_exceptions <- c(
-        "daf"  # Dan/Kla-Dan; split in 2013; not clear which lx. the source article describes
+        "daf",  # split: https://iso639-3.sil.org/request/2012-083
+                # checked; not clear which lx. the source describes
+
+        "duj",  # split: https://iso639-3.sil.org/request/2015-053
+                # source: https://glottolog.org/resource/reference/id/136243
+                # langoid: https://glottolog.org/resource/languoid/id/dhuw1249
+                # TODO: source title suggests this is `dwu`, but current
+                #     glottocode indicates that the source isn't actually that
+                #     specific. Check source to disambiguate if possible.
+
+        "ggr",  # split: https://iso639-3.sil.org/request/2012-138
+                # source: https://glottolog.org/resource/reference/id/73578
+                # langoid: https://glottolog.org/resource/languoid/id/aghu1254
+                # TODO: source title suggests this is `gtu` (one of the 3
+                #     possibilities from the split). Check source to
+                #     disambiguate if possible.
+
+        "kxu",  # split: http://www.iso639-3.sil.org/code/kxu
+                # source: https://glottolog.org/resource/reference/id/579765
+                # langoid: https://glottolog.org/resource/languoid/id/kuii1252
+                # TODO: see if source disambiguates: does it specifically
+                #     mention "Dawik region of Gajapati district"? -> `dwk`.
+                #     if it excludes that region, then `uki`.
+
+        "lno",  # split: https://iso639-3.sil.org/request/2021-027
+                # source: https://glottolog.org/resource/reference/id/13298
+                # source langoid:
+                #     https://glottolog.org/resource/languoid/id/lang1324
+                # our glottocode:
+                #     https://glottolog.org/resource/languoid/id/lang1322
+                # TODO: where did we get `lang1322`? If it's correct then we're
+                #     probably stuck with `lno` (unless the source
+                #     disambiguates); if glottolog is right then the ISO should
+                #     be `laj`
+
+        "mwd",  # split: http://www.iso639-3.sil.org/code/mwd
+                # source: https://glottolog.org/resource/reference/id/1921
+                # langoid: none associated with source nor current ISO code:
+                #     https://glottolog.org/glottolog?iso=mwd
+                # our current glottocode `mudb1240` is associated with one half
+                # of the split (`dmw`). The other half `xrq` (Karranga) has no
+                # associated langoid:
+                #     https://glottolog.org/glottolog?iso=xrq
+                # TODO: Double-check that the source really describes Mudburra
+                #     and not Karranga. If it describes both, change nothing
+                #     and keep this exception. If it describes only one, change
+                #     ISO (and possibly glottocode) accordingly.
+
+        "qgu",  # Extinct. https://glottolog.org/resource/languoid/id/wulg1239
+
+        "wit",  # split; https://iso639-3.sil.org/request/2012-144
+                # no glottocode for source:
+                #     https://glottolog.org/resource/reference/id/468848
+                # TODO check if source disambiguates
+
+        "wya",  # split: https://iso639-3.sil.org/request/2021-041
+                # source: https://glottolog.org/resource/reference/id/67646
+                # source languoid:
+                #     https://glottolog.org/resource/languoid/id/wyan1247
+                # our glottocode:
+                #     https://glottolog.org/resource/languoid/id/huro1249
+                # TODO: where did we get `huro1249`? If it's correct, then we
+                #     should update the ISO to `wdt`
+
+        "yiy"   # split: https://iso639-3.sil.org/request/2012-117
+                # source: https://glottolog.org/resource/reference/id/151393
+                # langoid: https://glottolog.org/resource/languoid/id/yiry1245
+                #
+                # NOTE: see note box on these two pages
+                #     https://glottolog.org/resource/languoid/id/jirj1239
+                #     https://glottolog.org/resource/languoid/id/dang1262
+                #     stating that according to *our source* the two lects that
+                #     this ISO was split into are "easily intelligible". It
+                #     might be worth looking at the source to see if it
+                #     actually reports data from both communities; if not then
+                #     we could justifiably update the ISO to one of the new
+                #     splits (`yyr` or `yrm`) and update the glottocode
+                #     accordingly. But it's likely that Glottolog already
+                #     checked this, so low priority.
     )
 
     ## pull out the relevant columns and compare to reference list
