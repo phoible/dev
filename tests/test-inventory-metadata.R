@@ -20,22 +20,17 @@ phoible_data_file  <- file.path("..", "data", "phoible.csv")
 phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
 phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
 
+default_char_cols <- readr::cols(.default="c")
 
-test_that("language codes are valid", {
+test_that("ISO codes are valid", {
     ## set global options (restored automatically on exit)
     withr::local_options(list(stringsAsFactors=FALSE))
 
-    default_char_cols <- readr::cols(.default="c")
-
     ## load official ISO table
     iso_url <- "http://www-01.sil.org/iso639-3/iso-639-3.tab"
-    iso_table <- readr::read_tsv(iso_url, col_types=default_char_cols, trim_ws=FALSE)
+    iso_table <- readr::read_tsv(iso_url, col_types=default_char_cols,
+                                 trim_ws=FALSE)
     iso_valid <- pull(iso_table, Id)
-
-    ## load glottolog
-    glotto_url <- "https://github.com/glottolog/glottolog-cldf/blob/master/cldf/languages.csv?raw=true"
-    glotto_table <- readr::read_csv(glotto_url, col_types=default_char_cols)
-    glotto_valid <- pull(glotto_table, ID)
 
     ## list exceptions (invalid isocodes that we don't consider errors)
     iso_exceptions <- c(
@@ -123,8 +118,6 @@ test_that("language codes are valid", {
     ## pull out the relevant columns and compare to reference list
     iso_phoible <- pull(phoible, ISO6393)
     iso_invalid <- setdiff(iso_phoible, iso_valid)
-    glotto_phoible <- pull(phoible, Glottocode)
-    glotto_invalid <- setdiff(glotto_phoible, glotto_valid)
 
     ## test
     iso_invalids_not_caught <- setdiff(iso_invalid, iso_exceptions)
@@ -138,10 +131,39 @@ test_that("language codes are valid", {
            paste("UNNECESSARY ISO CODE EXCEPTIONS:",
                  paste(iso_exceptions_not_needed, collapse=" "),
                  sep="\n")
-    )
+           )
+    }
+)
 
-    expect(length(glotto_invalid) == 0,
+
+test_that("glottocodes are valid", {
+    ## load glottolog
+    glotto_url <- "https://github.com/glottolog/glottolog-cldf/blob/master/cldf/languages.csv?raw=true"
+    glotto_table <- readr::read_csv(glotto_url, col_types=default_char_cols)
+    glotto_valid <- pull(glotto_table, ID)
+
+    glotto_phoible <- pull(phoible, Glottocode)
+    glotto_invalid <- setdiff(glotto_phoible, glotto_valid)
+
+    ## test
+    expect(length(glotto_invalid) == 1 && all(is.na(glotto_invalid)),
            paste("INVALID GLOTTOCODES:", paste(glotto_invalid, collapse=" "),
+                 sep="\n")
+           )
+
+    ## Djindewal is our one missing glottocode
+    2729 -> djindewal_inventory_id
+    phoible %>%
+        filter(is.na(.$Glottocode)) %>%
+        select(InventoryID) %>%
+        distinct() %>%
+        pull() ->
+        na_glottocode_inventories
+    expect(length(na_glottocode_inventories) == 1 &&
+               na_glottocode_inventories == djindewal_inventory_id,
+           paste("UNEXPECTED NA GLOTTOCODES:",
+                 paste(setdiff(glotto_invalid, djindewal_inventory_id),
+                       collapse=" "),
                  sep="\n")
            )
     }
