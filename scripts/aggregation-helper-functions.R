@@ -235,8 +235,8 @@ make_typestring <- function(strings, ...) {
         codepts <- get_codepoints(chars)
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
-        codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
         codepts[codepts %in% get_codepoints(diacritics)] <- "D"
+        codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
         codepts[codepts %in% get_codepoints(tones)] <- "T"
         codepts[codepts %in% get_codepoints(null_phone)] <- "N"
         codepts[codepts %in% get_codepoints(disjunct)] <- "|"
@@ -415,7 +415,7 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     ## with their base glyph's feature values, rather than overwriting them.
     ## This grouping is not used for canonical ordering, but for feature vector
     ## construction.
-    contour_glyphs <- c("ⁿ", "ˡ")  # nasal release, lateral release
+    contour_glyphs <- c("ʷ", "ⁿ", "ˡ", "ʲ", "ˠ", "ᶣ", "ˤ")
     ## the null phone *should* only occur in allophones
     null_phone <- "∅"
     ## disjunct is used in UPSID to signify insufficient information to
