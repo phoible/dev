@@ -460,7 +460,7 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
     if ("contour_glyphs" %in% inputs) assign("contour_glyphs", contour_glyphs,
                                              envir)
     if ("base_glyphs" %in% inputs) {
-        assign("base_glyphs", c(vowels, stops, implosives, flaps, nasals, 
+        assign("base_glyphs", c(vowels, stops, implosives, flaps, nasals,
                                 clicks, fricatives, affricates, approximants,
                                 archephonemes), envir)
     }
