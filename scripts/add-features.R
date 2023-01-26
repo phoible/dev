@@ -440,6 +440,11 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # "more round" when unround means half-round, I guess
             vec$round <- "0"
         }
+        else if (base_glyph %in% c("ɹ", "ɻ")) {
+            # this will be indistinguishable from ɹʷ
+            vec$labial <- "+"
+            vec$round <- "+"
+        }
         else if (base_glyph %in% c("y", "ʏ", "ø", "œ", "ɶ", "ʉ", "ɵ", "ɞ", "ɐ",
                               "u", "ʊ", "o", "ɔ", "ɒ")) {
             # vacuous: "more round" when already round
