@@ -273,6 +273,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # this is vacuous
             vec$high <- "+"
         }
+        else {
+            warning(paste("GlyphID 031D (uptack) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
+        }
     }
     # downtack
     else if (vec$GlyphID %in% "031E") {
@@ -317,6 +321,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # assigning +low is vacuous; little else makes sense ???
             vec$low <- "+"
         }
+        else {
+            warning(paste("GlyphID 031E (downtack) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
+        }
     }
     # advanced
     else if (vec$GlyphID %in% "031F") {
@@ -356,6 +364,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # fronted velar
             vec$front <- "+"
         }
+        else {
+            warning(paste("GlyphID 031F (advanced) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
+        }
     }
     # mid-centralized
     else if (vec$GlyphID %in% "033D") {
@@ -372,6 +384,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             vec$back <- "0"
         } else if (base_glyph %in% "ɔ") {
             vec$back <- "0"
+        }
+        else {
+            warning(paste("GlyphID 033D (mid-centralized) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
         }
     }
     # centralized
@@ -394,6 +410,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # vacuous; already central in our feat. sys.
             vec$front <- "-"
         }
+        else {
+            warning(paste("GlyphID 0308 (centralized) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
+        }
     }
     # frictionalized
     else if (vec$GlyphID %in% "0353") {
@@ -408,6 +428,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # would +strident be better?
             vec$delayedRelease <- "+"
         }
+        else {
+            warning(paste("GlyphID 0353 (frictionalized) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
+        }
     }
     # more rounded
     else if (vec$GlyphID %in% "0339") {
@@ -420,6 +444,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
                               "u", "ʊ", "o", "ɔ", "ɒ")) {
             # vacuous: "more round" when already round
             vec$round <- "+"
+        }
+        else {
+            warning(paste("GlyphID 0339 (more-round) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
         }
     }
     # less rounded
@@ -435,6 +463,10 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
                               "u", "ʊ", "o", "ɔ", "ɒ", "w")) {
             # "less round" when round is "ambiguously round"
             vec$round <- "0"
+        }
+        else {
+            warning(paste("GlyphID 031C (less-round) used on base glyph",
+                          base_glyph, "was not handled."), immediate.=TRUE)
         }
     }
     vec
