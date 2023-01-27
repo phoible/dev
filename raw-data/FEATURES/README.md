@@ -101,9 +101,12 @@ the plain vowels in such a language are +ATR, and the pharyngealized vowels are
 -ATR (which works fine within a single language, but is not ideal for
 cross-linguistic comparison purposes).  Worse is to use dorsal features to
 represent pharyngealization: overwriting the dorsal features would lead a
-pharyngealized [i] to be the same as an [ɑ], for instance.  To deal with this
-problem we have introduced an RTR feature to complement the ATR feature.  We
-acknowledge, following M&E, that in many cases pharyngealization does not
+pharyngealized [i] to be the same as an [ɑ], for instance.  
+
+To deal with this problem we have introduced an RTR feature to complement the
+ATR feature. The “default” value for non-pharyngeal(ized) consonants and vowels
+is -atr,-rtr.
+We acknowledge, following M&E, that in many cases pharyngealization does not
 actually involve tongue backing, and does not have expected coarticulatory
 effects that tongue backing would entail.  However, for now, we settle for a
 featurally adequate if phonetically imperfect solution.  Note that the feature
