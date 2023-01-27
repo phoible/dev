@@ -41,6 +41,17 @@ explicitly described in Hayes nor included in his charts, but by inference ɧ
 has also been changed from 0front 0back to -front -back (by analogy with x),
 and ɰ changed to -front +back (by analogy with ɯ).
 
+## contour features
+
+The PHOIBLE feature system allows a *sequence* of feature values for a given
+phoneme. The most straightforward example is perhaps [ˡ] (lateral release),
+where when modifying a non-lateral base glyph, the feature value for lateral
+will be the sequence -,+. Only the feature values that change will appear this
+way (i.e., there are no +,+ contours). The modifier diacritics that are treated
+as contour-forming are ʷ ⁿ ˡ ʲ ˠ ᶣ ˤ. Additionally, the superscript glottal
+stop ˀ is contour-forming when it precedes the base glyph, in which case it
+denotes “pre-glottalization”.
+
 ## voicing
 
 M&E give two voicing features “glottal source” and “epilaryngeal source.”
