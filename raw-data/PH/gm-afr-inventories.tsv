@@ -3072,60 +3072,60 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kye	Krache		õ				
 	kye	Krache		ũ				
 	kye	Krache		ɜ̃				
-1307	krm	Krim		p		[p]		krm.pdf
-	krm	Krim		p		[pʲ]		
-	krm	Krim		p		[pfʷ]		
-	krm	Krim		t̪				
-	krm	Krim		t		[t]		
-	krm	Krim		t		[ts]		
-	krm	Krim		t		[t̠ʃ]		
-	krm	Krim		b		[b]		
-	krm	Krim		b		[bʷ]		
-	krm	Krim		ɡb		[ɡb]		
-	krm	Krim		ɡb		[ɡbʷ]		
-	krm	Krim		d				
-	krm	Krim		t̠ʃ				
-	krm	Krim		d̠ʒ				
-	krm	Krim		k		[k]		
-	krm	Krim		k		[ɡ]		
-	krm	Krim		k		[ɣ]		
-	krm	Krim		w		[w]		
-	krm	Krim		w		[ʋ]		
-	krm	Krim		s		[ʃ]		
-	krm	Krim		s		[s]		
-	krm	Krim		m				
-	krm	Krim		n				
-	krm	Krim		ɲ				
-	krm	Krim		ŋ				
-	krm	Krim		f				
-	krm	Krim		h				
-	krm	Krim		j				
-	krm	Krim		l				
-	krm	Krim		mp				
-	krm	Krim		n̪t̪				
-	krm	Krim		nt				
-	krm	Krim		i		[i]		
-	krm	Krim		i		[ɪ]		
-	krm	Krim		i		[ɨ]		
-	krm	Krim		e				
-	krm	Krim		ɛ		[ɛ]		
-	krm	Krim		ɛ		[ə]		
-	krm	Krim		a		[a]		
-	krm	Krim		a		[æ]		
-	krm	Krim		u		[u]		
-	krm	Krim		u		[ʊ]		
-	krm	Krim		u		[ʉ]		
-	krm	Krim		o				
-	krm	Krim		ɔ				
-	krm	Krim		iː				
-	krm	Krim		eː				
-	krm	Krim		ɛː				
-	krm	Krim		aː				
-	krm	Krim		uː				
-	krm	Krim		oː				
-	krm	Krim		ɔː				
-	krm	Krim		o̝				
-	krm	Krim		e̝				
+1307	bmf	Krim		p		[p]		krm.pdf
+	bmf	Krim		p		[pʲ]		
+	bmf	Krim		p		[pfʷ]		
+	bmf	Krim		t̪				
+	bmf	Krim		t		[t]		
+	bmf	Krim		t		[ts]		
+	bmf	Krim		t		[t̠ʃ]		
+	bmf	Krim		b		[b]		
+	bmf	Krim		b		[bʷ]		
+	bmf	Krim		ɡb		[ɡb]		
+	bmf	Krim		ɡb		[ɡbʷ]		
+	bmf	Krim		d				
+	bmf	Krim		t̠ʃ				
+	bmf	Krim		d̠ʒ				
+	bmf	Krim		k		[k]		
+	bmf	Krim		k		[ɡ]		
+	bmf	Krim		k		[ɣ]		
+	bmf	Krim		w		[w]		
+	bmf	Krim		w		[ʋ]		
+	bmf	Krim		s		[ʃ]		
+	bmf	Krim		s		[s]		
+	bmf	Krim		m				
+	bmf	Krim		n				
+	bmf	Krim		ɲ				
+	bmf	Krim		ŋ				
+	bmf	Krim		f				
+	bmf	Krim		h				
+	bmf	Krim		j				
+	bmf	Krim		l				
+	bmf	Krim		mp				
+	bmf	Krim		n̪t̪				
+	bmf	Krim		nt				
+	bmf	Krim		i		[i]		
+	bmf	Krim		i		[ɪ]		
+	bmf	Krim		i		[ɨ]		
+	bmf	Krim		e				
+	bmf	Krim		ɛ		[ɛ]		
+	bmf	Krim		ɛ		[ə]		
+	bmf	Krim		a		[a]		
+	bmf	Krim		a		[æ]		
+	bmf	Krim		u		[u]		
+	bmf	Krim		u		[ʊ]		
+	bmf	Krim		u		[ʉ]		
+	bmf	Krim		o				
+	bmf	Krim		ɔ				
+	bmf	Krim		iː				
+	bmf	Krim		eː				
+	bmf	Krim		ɛː				
+	bmf	Krim		aː				
+	bmf	Krim		uː				
+	bmf	Krim		oː				
+	bmf	Krim		ɔː				
+	bmf	Krim		o̝				
+	bmf	Krim		e̝				
 1308	bbp	Banda, West Central	Tangbago	p				banda_sampson.pdf
 	bbp	Banda, West Central	Tangbago	t				
 	bbp	Banda, West Central	Tangbago	c				

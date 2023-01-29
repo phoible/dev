@@ -1539,7 +1539,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 865,cup_hill2005,ph,cup_hill2005_phon.pdf,NA
 866,cuv_ndokobai2003,ph,cuv_ndokobai2003_phon.pdf,NA
 867,anv_mbuagbaw1996,ph,anv_mbuagbaw1996_phon.pdf,NA
-868,kxl_yadava2000,ph,kxl_yadava2000_phon.pdf,NA
+868,kru_yadava2000,ph,kxl_yadava2000_phon.pdf,NA
 869,aoj_conrad1978,ph,aoj_Loving1978_phon.pdf,NA
 870,usa_bee1965,ph,usa_bee1965_phon.pdf,NA
 871,kpr_farr1974,ph,kpr_farr1974_phon.pdf,NA
@@ -1982,7 +1982,7 @@ InventoryID,BibtexKey,Source,Filename,URI
 1304,1304_hbb,gm,hbb_Grieve1973.pdf,NA
 1305,1305_kwl,gm,kwl_Netting1973.pdf,NA
 1306,1306_kye,gm,kye_Cleal1973.pdf,NA
-1307,1307_krm,gm,krm_Pichl1973.pdf,NA
+1307,1307_bmf,gm,krm_Pichl1973.pdf,NA
 1308,1308_banda_sampson,gm,bbp_Sampson1985.pdf,NA
 1309,1309_dib,gm,dib_Andersen1987.pdf,NA
 1310,1310_foodo,gm,fod_Plunkett2009.pdf,NA
