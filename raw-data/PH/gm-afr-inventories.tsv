@@ -1974,8 +1974,9 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mda	mada		i		[i]		
 	mda	mada		i		[ɪ]		
 	mda	mada		ĩ				
-	mda	mada		eʲ		[eʲ]		
-	mda	mada		eʲ		[ẽʲ]		
+	mda	mada		e		[e]		
+	mda	mada		e		[eʲ]		
+	mda	mada		e		[ẽʲ]		
 	mda	mada		ɛ		[ɛ]		
 	mda	mada		ɛ		[aʲ]		
 	mda	mada		ɛ̃		[ɛ̃]		
