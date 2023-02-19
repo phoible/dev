@@ -819,14 +819,13 @@ heath2015togokan	togo1254	Togo Kan Dogon	Koporo-Pe	p	"obstruents... occur predom
 						˦	"[T]he simplification is from either Cv̂ or Cv̌ to Cv́.... [F]or <LH> tones the disallowed position is not 'nonfinal' but 'medial'"	
 
 guzzo2022talian	tali1266	Venetian	Talian	p		p		
-				b		b		
 				t		t		
 				d		d		
 				k		k		
 				ɡ		g		
-				tʃ		tʃ		
+				t̠ʃ		t̠ʃ		
 				<ʃ>	"However, Talian speakers who are dominant in Portuguese or use Portuguese on a regular basis employ target /ʃ ʒ/ in such loanwords"	<ʃ>		
-				dʒ		dʒ		
+				d̠ʒ		d̠ʒ		
 				<ʒ>	"However, Talian speakers who are dominant in Portuguese or use Portuguese on a regular basis employ target /ʃ ʒ/ in such loanwords"	<dʒ>			
 				m		m		
 				n		n		
@@ -839,27 +838,18 @@ guzzo2022talian	tali1266	Venetian	Talian	p		p
 				v		v		
 				s		s		
 				z		z		
-				w		w		
-				j		j		
+				w	"It is open to discussion whether /j w/ are phonemes in Talian"	w		
+				j	"It is open to discussion whether /j w/ are phonemes in Talian"	j		
 				l		l		
-				i		i		
+				i		i		"[O]bservations suggest that [Vi] diphthongs are VV sequences where the second vowel is diphthongized"
 				e	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	e		
 						i	"Stressed upper mid vowels /e o/ raise to /i u/ when there is an unstressed final /i/"	
 				ɛ	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	ɛ		
 				a	low central vowel	a		
 				ɔ	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	ɔ		
-				o	"word-final unstressed /o/ may be variably deleted","the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	o		
+				o	"word-final unstressed /o/ may be variably deleted","the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	o		"[O]bservations suggest that [Vo] diphthongs are VV sequences where the second vowel is diphthongized"
 						u	"Stressed upper mid vowels /e o/ raise to /i u/ when there is an unstressed final /i/"	
 				u		u		
-				ai		ai		
-				ɛi		ɛi		
-				ei 		ei		
-				ɔi		ɔi		
-				oi		oi		
-				ui		ui		
-				ao		ao		
-				eo		eo		
-				io		io		
 
 rose2021mojenotrinitario.pdf	trin1274	Mojeño	Trinitario	p		p		
 				pʲ		pʲ		
@@ -881,7 +871,7 @@ rose2021mojenotrinitario.pdf	trin1274	Mojeño	Trinitario	p		p
 				ç		ç		
 						çʲ	"The phoneme /ç/ is [realized] as either [ç] or [çʲ] before vowels other than /i/, with inter-speaker and intra-speaker free variation."	
 				h		h		
-						ɦ	"The glottal fricative /h/ is often realized voiced [ç] between vowels (and occasionally between a vowel and a consonant)"	
+						ɦ	"The glottal fricative /h/ is often realized voiced [ɦ] between vowels (and occasionally between a vowel and a consonant)"	
 				hʲ		hʲ		
 				hʷ		hʷ		
 				ts		ts		
