@@ -154,6 +154,12 @@ relationship between “fortis”, “stiff vocal folds”, “constricted glott
 “raised larynx”, etc.  Given the addition of raised larynx, it also made sense
 to include “lowered larynx” to replace the “implosive” feature used by Hayes.
 
+Regarding fortis/lenis, there are a handful of inventories in PHOIBLE that mark
+a distinction between plain and lenis consonants (plain vs fortis is more
+common). To faithfully encode these, we include a lenis feature. All plain
+consonants are -for,-len and all vowels are 0for,0len. The diacritics for 
+marking fortis and lenis are unicode points 0348 and 0349, respectively.
+
 ## mid-centralization
 
 the mid-centralized diacritic is defined as imparting the values of schwa on
