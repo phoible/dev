@@ -41,6 +41,17 @@ explicitly described in Hayes nor included in his charts, but by inference ɧ
 has also been changed from 0front 0back to -front -back (by analogy with x),
 and ɰ changed to -front +back (by analogy with ɯ).
 
+## contour features
+
+The PHOIBLE feature system allows a *sequence* of feature values for a given
+phoneme. The most straightforward example is perhaps [ˡ] (lateral release),
+where when modifying a non-lateral base glyph, the feature value for lateral
+will be the sequence -,+. Only the feature values that change will appear this
+way (i.e., there are no +,+ contours). The modifier diacritics that are treated
+as contour-forming are ʷ ⁿ ˡ ʲ ˠ ᶣ ˤ. Additionally, the superscript glottal
+stop ˀ is contour-forming when it precedes the base glyph, in which case it
+denotes “pre-glottalization”.
+
 ## voicing
 
 M&E give two voicing features “glottal source” and “epilaryngeal source.”
@@ -101,9 +112,12 @@ the plain vowels in such a language are +ATR, and the pharyngealized vowels are
 -ATR (which works fine within a single language, but is not ideal for
 cross-linguistic comparison purposes).  Worse is to use dorsal features to
 represent pharyngealization: overwriting the dorsal features would lead a
-pharyngealized [i] to be the same as an [ɑ], for instance.  To deal with this
-problem we have introduced an RTR feature to complement the ATR feature.  We
-acknowledge, following M&E, that in many cases pharyngealization does not
+pharyngealized [i] to be the same as an [ɑ], for instance.  
+
+To deal with this problem we have introduced an RTR feature to complement the
+ATR feature. The “default” value for non-pharyngeal(ized) consonants and vowels
+is -atr,-rtr.
+We acknowledge, following M&E, that in many cases pharyngealization does not
 actually involve tongue backing, and does not have expected coarticulatory
 effects that tongue backing would entail.  However, for now, we settle for a
 featurally adequate if phonetically imperfect solution.  Note that the feature
