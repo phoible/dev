@@ -90,11 +90,16 @@ make_feat_vec_from_mat <- function(feat_mat) {
     special_cases <- c("pɸ", "pf", "tθ", "ts", "tʃ", "ʈʂ", "c\u00E7", "kx",
                        "qχ", "bβ", "bv", "dð", "dz", "dʒ", "ɖʐ", "ɟʝ", "ɡɣ",
                        "ɢʁ", "kp", "ɡb")
-    if (any(stri_detect_fixed(bases, pattern=special_cases))) {
+    matches <- stri_detect_fixed(bases, pattern=special_cases)
+    if (any(matches)) {
+        if (sum(matches) > 1) {
+            warning("multiple special-case sequences:", special_cases[matches],
+                    "this situation is currently not handled.", immediate.=TRUE)
+        }
         ## create dummy feature vector
         feat_vec <- initialize_feat_vec(feat_mat, feature_colnames, zero=TRUE)
         ## look up the combined base glyphs in the special_feats table
-        base_vec <- special_feats[special_feats$segment == bases,]
+        base_vec <- special_feats[special_feats$segment == special_cases[matches], ]
         if (nrow(base_vec) == 0) {
             warning(bases, " is not in special_feats table.", immediate.=TRUE)
         }
@@ -186,6 +191,7 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
     ## glyph(s) in feat_mat. It's done this way to accommodate "special cases"
     ## where there are multiple base glyphs that we don't want to combine
     ## algorithmically (affricates, doubly-articulated stops, etc)
+    create_glyph_type_variables("clicks", envir=environment())
 
     ## contextual diacritics; value depends on base glyph
     contextuals <- c("031D",  # uptack
@@ -198,6 +204,7 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
                      "031C")  # less rounded
     ## append/replace features based on diacritics/modifiers
     for (row in row.names(feat_mat)) {
+        row_int <- as.integer(row)  # `row` is a row name (therefore a string)
         vec <- feat_mat[row,]
         glyph_type <- vec["GlyphType"]
         ## skip base glyph rows, they're already incorporated within the
@@ -206,21 +213,26 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
         ## which features are valued for this diacritic?
         valued <- find_valued_feats(vec, ignore_cols)
         ## pre-modifiers
-        if (row < base_row_nums[1]) {
+        if (row_int < base_row_nums[1]) {
             feat_vec[feature_cols] <- paste(vec[feature_cols],
                                             feat_vec[feature_cols], sep=",")
         ## diacritics & modifier letters (overwrite base feat vals)
         } else if (glyph_type %in% c("D", "M")) {
             ## get the most recent base row
-            most_recent_base_row <- rev(base_row_nums[base_row_nums < row])[1]
-            # convert it to a string because it's a row name, not an index
+            most_recent_base_row <- rev(base_row_nums[base_row_nums < row_int])[1]
+            next_base_row <- base_row_nums[base_row_nums > row_int][1]
+            # `as.character` because it's a row name, not an index
             most_recent_base <- feat_mat[as.character(most_recent_base_row),
                                          "segment"]
             ## skip the retraction diacritic on t, d
             if (most_recent_base %in% c("t", "d") && vec$segment == "̠") next
             ## handle contextual diacritics
             if (vec$GlyphID %in% contextuals) {
-                vec <- handle_contextual_diacritics(vec, most_recent_base)
+                row_span <- most_recent_base_row:(next_base_row - 1)
+                current_base_and_mods <- feat_mat[row_span, "segment"]
+                is_click <- any(current_base_and_mods %in% clicks)
+                vec <- handle_contextual_diacritics(vec, most_recent_base,
+                                                    is_click=is_click)
                 valued <- find_valued_feats(vec, ignore_cols, keep_zeros=TRUE)
             }
             ## test if there are undefined features for some components
@@ -243,7 +255,7 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
 }
 
 
-handle_contextual_diacritics <- function(vec, base_glyph) {
+handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
     create_glyph_type_variables(envir=environment())
     # uptack
     if (vec$GlyphID %in% "031D") {
@@ -424,7 +436,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # not sure delrel is the right thing to do for vowels...
             vec$delayedRelease <- "+"
         }
-        else if (base_glyph %in% clicks) {
+        else if (is_click) {
             # would +strident be better?
             vec$delayedRelease <- "+"
         }
