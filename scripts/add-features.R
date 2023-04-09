@@ -201,7 +201,7 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
     ## append/replace features based on diacritics/modifiers
     for (row in row.names(feat_mat)) {
         row_int <- as.integer(row)  # `row` is a row name (therefore a string)
-        vec <- feat_mat[row,]
+        vec <- feat_mat[row, ]
         glyph_type <- vec["GlyphType"]
         ## skip base glyph rows, they're already incorporated within the
         ## special_feats table entry
@@ -501,7 +501,7 @@ stopifnot(all(sort(unique(phoible_nofeats$GlyphID)) ==
 phoible <- merge(phoible_nofeats, unique_feats, by="GlyphID", all.x=TRUE,
                  all.y=FALSE, sort=FALSE)
 sort_order <- with(phoible, order(InventoryID, SegmentClass, GlyphID))
-phoible <- phoible[sort_order,]
+phoible <- phoible[sort_order, ]
 
 ## CLEAN UP COLUMNS
 output_cols <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",

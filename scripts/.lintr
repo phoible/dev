@@ -1,0 +1,8 @@
+linters: with_defaults(
+  brace_linter = NULL,
+  commented_code_linter = NULL,
+  infix_spaces_linter = NULL,
+  object_usage_linter = NULL,
+  line_length_linter = line_length_linter(88L),
+  assignment_linter = assignment_linter(allow_right_assign=TRUE)
+  )
