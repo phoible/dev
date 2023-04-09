@@ -79,6 +79,11 @@ make_feat_vec_from_mat <- function(feat_mat) {
     ## DISPATCH EASIEST CASE: only 1 row, nothing to combine
     if (nrow(feat_mat) == 1) return(feat_mat)
 
+    ## NEXT EASIEST CASE: entire phoneme is in special features table
+    glyph_id <- paste(feat_mat$GlyphID, collapse="+")
+    if (glyph_id %in% special_feats$GlyphID) {
+        return(special_feats[special_feats$GlyphID == glyph_id, ])
+    }
     ## KEEP TRACK OF BASE GLYPHS
     ## which row numbers are base glyphs?
     base_row_nums <- which(feat_mat$GlyphType %in% "B")
