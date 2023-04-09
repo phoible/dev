@@ -222,8 +222,6 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
             # `as.character` because it's a row name, not an index
             most_recent_base <- feat_mat[as.character(most_recent_base_row_num),
                                          "segment"]
-            ## skip the retraction diacritic on t, d
-            if (most_recent_base %in% c("t", "d") && vec$segment == "̠") next
             ## handle contextual diacritics
             if (vec$GlyphID %in% contextuals) {
                 current_base_and_mods <- feat_mat[most_recent_base_row_num:end,
