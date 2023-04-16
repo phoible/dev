@@ -24,6 +24,8 @@ jobs:
     - name: run tests
       working-directory: tests
       run: |
+        source "${HOME}/mambaforge/etc/profile.d/conda.sh"
+        source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
         conda activate
         mamba activate phoible
         Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"
