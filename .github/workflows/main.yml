@@ -20,7 +20,7 @@ jobs:
         source "${HOME}/mambaforge/etc/profile.d/conda.sh"
         source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
         conda activate
-        mamba create -n phoible r=4 r-readr r-dplyr==1.1.1 r-testthat r-withr r-knitr r-purrr
+        mamba create -n phoible r=4 r-dplyr==1.1.1 r-knitr r-purrr r-readr r-stringr r-testthat r-withr
     - name: run tests
       working-directory: tests
       run: |
