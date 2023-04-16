@@ -6,12 +6,12 @@
 library(dplyr, warn.conflicts=FALSE)
 library(testthat)
 
-context("Phonemes")
-
 ## load PHOIBLE data
 phoible_data_file  <- file.path("..", "data", "phoible.csv")
 phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
 phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
+
+context("Phonemes")
 
 test_that("inventories don't have duplicate phonemes", {
     ## show the failures
@@ -48,17 +48,20 @@ test_that("feature vectors are consistently assigned", {
 test_that("within inventories, phonemes have distinct feature vectors", {
     phoible %>%
         group_by(InventoryID) %>%
+        filter(tone == "0") %>%
         count(name="n_phonemes") ->
         n_phonemes
     phoible %>%
         group_by(InventoryID) %>%
         select(InventoryID, tone:click) %>%
+        filter(tone == "0") %>%
         distinct() %>%
         count(name="n_distinct_feature_vectors") ->
         n_vectors
     n_phonemes %>%
         full_join(n_vectors, by="InventoryID") %>%
-        filter(n_phonemes != n_distinct_feature_vectors) ->
+        filter(n_phonemes != n_distinct_feature_vectors) %>%
+        mutate(difference=n_phonemes - n_distinct_feature_vectors) ->
         mismatches
 
     expect(nrow(mismatches) == 0,

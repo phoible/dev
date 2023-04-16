@@ -235,6 +235,7 @@ make_typestring <- function(strings, ...) {
         codepts <- get_codepoints(chars)
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
+        codepts[codepts %in% get_codepoints(clicks)] <- "M"
         codepts[codepts %in% get_codepoints(diacritics)] <- "D"
         codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
         codepts[codepts %in% get_codepoints(tones)] <- "T"
@@ -461,7 +462,7 @@ create_glyph_type_variables <- function(..., envir=.GlobalEnv) {
                                              envir)
     if ("base_glyphs" %in% inputs) {
         assign("base_glyphs", c(vowels, stops, implosives, flaps, nasals,
-                                clicks, fricatives, affricates, approximants,
+                                fricatives, affricates, approximants,
                                 archephonemes), envir)
     }
 }

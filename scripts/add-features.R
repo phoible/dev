@@ -79,33 +79,17 @@ make_feat_vec_from_mat <- function(feat_mat) {
     ## DISPATCH EASIEST CASE: only 1 row, nothing to combine
     if (nrow(feat_mat) == 1) return(feat_mat)
 
+    ## NEXT EASIEST CASE: entire phoneme is in special features table
+    glyph_id <- paste(feat_mat$GlyphID, collapse="+")
+    if (glyph_id %in% special_feats$GlyphID) {
+        return(special_feats[special_feats$GlyphID == glyph_id, ])
+    }
     ## KEEP TRACK OF BASE GLYPHS
-    ## which row numbers are base glyphs? (for iteration)
+    ## which row numbers are base glyphs?
     base_row_nums <- which(feat_mat$GlyphType %in% "B")
     ## collapse just the base glyphs into a string
     bases <- paste(feat_mat[feat_mat$GlyphType %in% "B", "segment"],
                    collapse="")
-
-    ## HANDLE SPECIAL CASES (AFFRICATES, DOUBLE-ARTICULATIONS, ETC)
-    special_cases <- c("pɸ", "pf", "tθ", "ts", "tʃ", "ʈʂ", "c\u00E7", "kx",
-                       "qχ", "bβ", "bv", "dð", "dz", "dʒ", "ɖʐ", "ɟʝ", "ɡɣ",
-                       "ɢʁ", "kp", "ɡb")
-    if (any(stri_detect_fixed(bases, pattern=special_cases))) {
-        ## create dummy feature vector
-        feat_vec <- initialize_feat_vec(feat_mat, feature_colnames, zero=TRUE)
-        ## look up the combined base glyphs in the special_feats table
-        base_vec <- special_feats[special_feats$segment == bases,]
-        if (nrow(base_vec) == 0) {
-            warning(bases, " is not in special_feats table.", immediate.=TRUE)
-        }
-        ## populate the feature vector from the special table
-        feat_vec[feature_cols] <- base_vec[feature_cols]
-        feat_vec <- apply_diacritic_features(feat_mat, feat_vec, base_row_nums,
-                                             ignore_cols, feature_cols)
-        ## simplify
-        feat_vec[feature_cols] <- simplify_contour_feats(feat_vec[feature_cols])
-        return(feat_vec)
-    }
 
     ## HANDLE TONEMES
     if (nchar(bases) == 0) {
@@ -114,14 +98,14 @@ make_feat_vec_from_mat <- function(feat_mat) {
             feat_vec <- initialize_feat_vec(feat_mat, feature_colnames)
             ## handle mixed (tonemes + laryngeal diacritics)
             for (row_num in 2:nrow(feat_mat)) {
-                post_vec <- feat_mat[row_num,]
+                post_vec <- feat_mat[row_num, ]
                 nonzero <- which(!is.na(post_vec) & !post_vec %in% "0")
                 nonzero <- setdiff(nonzero, ignore_cols)
                 zero <- which(feat_vec %in% "0")
                 overwrite <- intersect(zero, nonzero)
                 conflict <- setdiff(nonzero, zero)
                 feat_vec[overwrite] <- post_vec[overwrite]
-                ## check if mismatch between valued feats in current post_vec and
+                ## check for match between valued feats in current post_vec and
                 ## valued feats in feat_vec (if they match, no action needed)
                 for (col_num in conflict) {
                     if (feat_vec[col_num] != post_vec[col_num]) {
@@ -133,6 +117,7 @@ make_feat_vec_from_mat <- function(feat_mat) {
             }
             return(feat_vec)
         } else {
+            glyph_id <- paste(feat_mat$GlyphID, collapse="+")
             warning("Glyph ", glyph_id, " has no base glyph and is not a ",
                     "toneme, I don't know how handle it. Its feature ",
                     "vector will be all NAs.")
@@ -140,20 +125,41 @@ make_feat_vec_from_mat <- function(feat_mat) {
         }
     }
 
-    ## THE BULK OF CASES: ONE OR MORE BASE GLYPHS (BUT NOT IN SPECIAL CASE TABLE)
+    ## THE BULK OF CASES: ONE OR MORE BASE GLYPHS
     feat_vecs <- list()
-    for (num in seq_along(base_row_nums)) {
-        vec <- initialize_feat_vec(feat_mat, feature_colnames,
-                                   rownum=base_row_nums[num])
-        ## include pre-modifiers if first base isn't in first row
-        start <- ifelse((num == 1) && (base_row_nums[num] > 1),
-                        1, base_row_nums[num])
-        ## include until end, if this is last base;
-        ## otherwise include up to just before next base
-        end <- ifelse(num == length(base_row_nums),
-                      nrow(feat_mat), base_row_nums[num + 1] - 1)
-        ## populate the feature vector from the base glyph
-        vec <- apply_diacritic_features(feat_mat[start:end,], vec,
+    remaining_base_row_nums <- base_row_nums
+    while (length(remaining_base_row_nums)) {
+        current_base_row_num <- remaining_base_row_nums[1]
+        ## HANDLE SPECIAL CASES (AFFRICATES, DOUBLE-ARTICULATIONS, ETC)
+        special_cases <- c("pɸ", "pf", "tθ", "ts", "tʃ", "ʈʂ", "c\u00E7", "kx",
+                           "qχ", "bβ", "bv", "dð", "dz", "dʒ", "ɖʐ", "ɟʝ", "ɡɣ",
+                           "ɢʁ", "kp", "ɡb")
+        # check if this base and the next base are in `special_cases`
+        base_pair <- paste(feat_mat[remaining_base_row_nums[1:2], "segment"],
+                           collapse="")
+        match <- any(special_cases == base_pair)
+        if (match) {
+            ## create dummy feature vector
+            feat_vec <- initialize_feat_vec(feat_mat, feature_colnames,
+                                            zero=TRUE)
+            ## look up the combined base glyphs in the special_feats table
+            base_vec <- special_feats[special_feats$segment == base_pair, ]
+            ## populate the feature vector from the special_feats table
+            feat_vec[feature_cols] <- base_vec[feature_cols]
+            # delete two bases
+            remaining_base_row_nums <- remaining_base_row_nums[-1:-2]
+        } else {
+            feat_vec <- initialize_feat_vec(feat_mat, feature_colnames,
+                                            rownum=current_base_row_num)
+            # delete one base
+            remaining_base_row_nums <- remaining_base_row_nums[-1]
+        }
+        next_base_row_num <- remaining_base_row_nums[1]
+        is_first_iteration <- current_base_row_num == base_row_nums[1]
+        start <- ifelse(is_first_iteration, 1, current_base_row_num)
+        end <- ifelse(is.na(next_base_row_num), nrow(feat_mat),
+                      next_base_row_num - 1)
+        vec <- apply_diacritic_features(feat_mat[start:end, ], feat_vec,
                                         base_row_nums, ignore_cols,
                                         feature_cols)
         feat_vecs <- c(feat_vecs, list(vec))
@@ -186,6 +192,7 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
     ## glyph(s) in feat_mat. It's done this way to accommodate "special cases"
     ## where there are multiple base glyphs that we don't want to combine
     ## algorithmically (affricates, doubly-articulated stops, etc)
+    create_glyph_type_variables("clicks", envir=environment())
 
     ## contextual diacritics; value depends on base glyph
     contextuals <- c("031D",  # uptack
@@ -198,7 +205,8 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
                      "031C")  # less rounded
     ## append/replace features based on diacritics/modifiers
     for (row in row.names(feat_mat)) {
-        vec <- feat_mat[row,]
+        row_int <- as.integer(row)  # `row` is a row name (therefore a string)
+        vec <- feat_mat[row, ]
         glyph_type <- vec["GlyphType"]
         ## skip base glyph rows, they're already incorporated within the
         ## special_feats table entry
@@ -206,21 +214,26 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
         ## which features are valued for this diacritic?
         valued <- find_valued_feats(vec, ignore_cols)
         ## pre-modifiers
-        if (row < base_row_nums[1]) {
+        if (row_int < base_row_nums[1]) {
             feat_vec[feature_cols] <- paste(vec[feature_cols],
                                             feat_vec[feature_cols], sep=",")
         ## diacritics & modifier letters (overwrite base feat vals)
         } else if (glyph_type %in% c("D", "M")) {
             ## get the most recent base row
-            most_recent_base_row <- rev(base_row_nums[base_row_nums < row])[1]
-            # convert it to a string because it's a row name, not an index
-            most_recent_base <- feat_mat[as.character(most_recent_base_row),
+            most_recent_base_row_num <- rev(base_row_nums[base_row_nums < row_int])[1]
+            next_base_row_num <- base_row_nums[base_row_nums > row_int][1]
+            end <- ifelse(is.na(next_base_row_num), nrow(feat_mat),
+                          next_base_row_num - 1)
+            # `as.character` because it's a row name, not an index
+            most_recent_base <- feat_mat[as.character(most_recent_base_row_num),
                                          "segment"]
-            ## skip the retraction diacritic on t, d
-            if (most_recent_base %in% c("t", "d") && vec$segment == "̠") next
             ## handle contextual diacritics
             if (vec$GlyphID %in% contextuals) {
-                vec <- handle_contextual_diacritics(vec, most_recent_base)
+                current_base_and_mods <- feat_mat[most_recent_base_row_num:end,
+                                                  "segment"]
+                is_click <- any(current_base_and_mods %in% clicks)
+                vec <- handle_contextual_diacritics(vec, most_recent_base,
+                                                    is_click=is_click)
                 valued <- find_valued_feats(vec, ignore_cols, keep_zeros=TRUE)
             }
             ## test if there are undefined features for some components
@@ -243,7 +256,7 @@ apply_diacritic_features <- function(feat_mat, feat_vec, base_row_nums,
 }
 
 
-handle_contextual_diacritics <- function(vec, base_glyph) {
+handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
     create_glyph_type_variables(envir=environment())
     # uptack
     if (vec$GlyphID %in% "031D") {
@@ -424,7 +437,7 @@ handle_contextual_diacritics <- function(vec, base_glyph) {
             # not sure delrel is the right thing to do for vowels...
             vec$delayedRelease <- "+"
         }
-        else if (base_glyph %in% clicks) {
+        else if (is_click) {
             # would +strident be better?
             vec$delayedRelease <- "+"
         }
@@ -491,7 +504,7 @@ stopifnot(all(sort(unique(phoible_nofeats$GlyphID)) ==
 phoible <- merge(phoible_nofeats, unique_feats, by="GlyphID", all.x=TRUE,
                  all.y=FALSE, sort=FALSE)
 sort_order <- with(phoible, order(InventoryID, SegmentClass, GlyphID))
-phoible <- phoible[sort_order,]
+phoible <- phoible[sort_order, ]
 
 ## CLEAN UP COLUMNS
 output_cols <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",

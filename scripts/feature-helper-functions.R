@@ -15,7 +15,8 @@ get_glyph_type_from_codepoint <- function(codepoint) {
     create_glyph_type_variables(envir=environment())
     glyph_types <- list(base=base_glyphs, tone=tones, modifier=modifiers,
                         diacritic=diacritics, null_phone=null_phone,
-                        disjunct=disjunct, contour=contour_glyphs)
+                        disjunct=disjunct, contour=contour_glyphs,
+                        click=clicks)
     matches <- sapply(glyph_types, function(gtype) glyph %in% gtype)
     n_matches <- sum(as.numeric(matches))
     if (n_matches > 1 && !matches["contour"]) {
@@ -24,7 +25,7 @@ get_glyph_type_from_codepoint <- function(codepoint) {
     } else if (n_matches == 0) {
         stop("Glyph ", glyph, " (", codepoint, ") matched no glyph types")
     }
-    glyph_codes <- c(base="B", tone="T", modifier="M", diacritic="D",
+    glyph_codes <- c(base="B", tone="T", modifier="M", click="M", diacritic="D",
                      null_phone="N", disjunct="|")
     if (matches["contour"]) {
         return("C")
