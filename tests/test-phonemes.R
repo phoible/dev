@@ -11,6 +11,10 @@ phoible_data_file  <- file.path("..", "data", "phoible.csv")
 phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
 phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
 
+## utility function
+purrr::partial(stringr::str_c, collapse=" ") -> stringify
+
+
 context("Phonemes")
 
 test_that("inventories don't have duplicate phonemes", {
@@ -66,75 +70,76 @@ test_that("within inventories, phonemes have distinct feature vectors", {
         mutate(difference=n_phonemes - n_distinct_feature_vectors) ->
         mismatches
 
+    # get DF with one row per collapsed phoneme contrast per inventory
+    phoible %>%
+        filter(tone == "0", InventoryID %in% mismatches$InventoryID) %>%
+        group_by(pick(InventoryID, tone:click)) %>%
+        filter(n() > 1) %>%
+        mutate(PhonemeList=list(stringr::str_sort(Phoneme))) %>%
+        ungroup() %>%
+        distinct(pick(InventoryID, PhonemeList, tone:click)) ->
+        indistinct_phoneme_sets
+
+    # collapse across inventories to see just which contrasts need fixing
+    indistinct_phoneme_sets %>%
+        group_by(PhonemeList) %>%
+        mutate(InventoryIDs=list(InventoryID)) %>%
+        ungroup() %>%
+        relocate(InventoryIDs) %>%
+        select(-InventoryID) %>%
+        arrange(PhonemeList) %>%
+        distinct() ->
+        unique_indistinct_phoneme_sets
+
+    # list "known bugs" (contrasts that can't or shouldn't be fixed without
+    # consulting the source material first).
+    list(
+        # voiced ejectives (check sources)
+        c("dʼ", "tʼ"),
+        c("dʼ", "tʰʼ"),
+        c("dzʼ", "tsʼ"),
+        c("d̠ʒʼ", "t̠ʃʼ"),
+        c("dʼkxʼ", "tʼkxʼ"),
+        c("d̪ʼkxʼ", "t̪ʼkxʼ"),
+        c("ɡʼ", "kʼ"),
+        # diacritic redundant / collapses contrast (check source)
+        c("kǀ", "kǀ̪", "kǃ̪"),
+        # doubled vowel (check source)
+        c("o", "oo"),
+        c("i", "ii"),
+        # glottalized vs creaky (check sources)
+        c("a̰", "aˀ"),
+        c("ḛ", "eˀ"),
+        c("ḭ", "iˀ"),
+        c("o̰", "oˀ"),
+        c("ṵ", "uˀ"),
+        # palatalized palatal (check sources)
+        c("c", "cʲ"),
+        c("ɟ", "ɟʲ")
+    ) -> known_bugs
+
+    # make sure we don't have extraneous entries in `known_bugs`
+    known_bugs[!known_bugs %in% unique_indistinct_phoneme_sets$PhonemeList] ->
+        extraneous_bugs
+    expect(length(extraneous_bugs) == 0,
+           paste(c("EXTRANEOUS ENTRIES IN KNOWN_BUGS LIST:",
+                   capture.output(purrr::map_chr(extraneous_bugs, stringify))),
+                 sep="\n")
+           )
+
+    # make print-friendly output
     if (nrow(mismatches)) {
-        # get DF with one row per collapsed phoneme contrast per inventory
-        "Phoneme" -> prefix
-        phoible %>%
-            filter(tone == "0", InventoryID %in% mismatches$InventoryID) %>%
-            group_by(pick(InventoryID, tone:click)) %>%
-            filter(n() > 1) %>%
-            mutate(id=row_number(),
-                   PhonemeList=list(stringr::str_sort(Phoneme))) %>%
-            tidyr::pivot_wider(
-                id_cols=c(InventoryID, tone:click, PhonemeList),
-                names_from=id, names_prefix=prefix, values_from=Phoneme) %>%
-            ungroup() %>%
-            select(InventoryID, starts_with(prefix), tone:click) ->
-            indistinct_phoneme_sets
-
-        # collapse across inventories to see just which contrasts need fixing
-        indistinct_phoneme_sets %>%
-            group_by(PhonemeList) %>%
-            mutate(InventoryIDs=list(InventoryID)) %>%
-            select(-InventoryID) %>%
-            distinct() %>%
-            ungroup() %>%
-            arrange(pick(starts_with(prefix))) %>%
-            relocate(InventoryIDs) ->
-            unique_indistinct_phoneme_sets
-
-        # ignore "known bugs"
-        list(
-            # voiced ejectives (check sources)
-            c("dʼ", "tʼ"),
-            c("dʼ", "tʰʼ"),
-            c("dzʼ", "tsʼ"),
-            c("d̠ʒʼ", "t̠ʃʼ"),
-            c("dʼkxʼ", "tʼkxʼ"),
-            c("d̪ʼkxʼ", "t̪ʼkxʼ"),
-            c("ɡʼ", "kʼ"),
-            # diacritic redundant / collapses contrast (check source)
-            c("kǀ", "kǀ̪", "kǃ̪"),
-            # doubled vowel (check source)
-            c("o", "oo"),
-            c("i", "ii"),
-            # glottalized vs creaky (check sources)
-            c("aˀ", "a̰"),
-            c("eˀ", "ḛ "),
-            c("iˀ", "ḭ"),
-            c("oˀ", "o̰"),
-            c("uˀ", "ṵ"),
-            # palatalized palatal (check sources)
-            c("c", "cʲ"),
-            c("ɟ", "ɟʲ"),
-            # voiceles aspiration on voiced glyph (fix)
-            c("d̠ʒʰ", "t̠ʃʰ")
-        ) -> known_bugs
-
-        # make print-friendly output
-        purrr::partial(stringr::str_c, collapse=" ") -> stringify
         unique_indistinct_phoneme_sets %>%
             filter(!PhonemeList %in% known_bugs) %>%
-            mutate(InventoryIDs=purrr::map_chr(InventoryIDs, stringify),
-                   Phonemes=purrr::map_chr(PhonemeList, stringify)) %>%
-            select(Phonemes, InventoryIDs) ->
-            unhandled_indistinct_phoneme_sets
+            mutate(across(c(InventoryIDs, PhonemeList),
+                          ~ purrr::map_chr(.x, stringify))) %>%
+            select(Phonemes=PhonemeList, InventoryIDs) ->
+            output
     }
 
     expect(nrow(mismatches) == 0,
            paste(c("PHONEMES WITH INDISTINCT FEATURE VECTORS:",
-                   capture.output(print(unhandled_indistinct_phoneme_sets,
-                                        n=Inf))),
+                   capture.output(print(output, n=Inf))),
                  sep="\n")
            )
     }
