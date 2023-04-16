@@ -11,17 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2  # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: install conda
+    - name: install mamba
       run: |
-        curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-        bash Miniconda3-latest-Linux-x86_64.sh -b
-    - name: update conda
-      run: conda update -n base conda
+        curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+        bash Mambaforge-$(uname)-$(uname -m).sh
     - name: make new environment
-      run: conda create -n phoible -c conda-forge r=4 r-readr r-dplyr r-testthat r-withr r-knitr
+      run: mamba create -n phoible r=4 r-readr r-dplyr==1.1.1 r-testthat r-withr r-knitr r-purrr
     - name: run tests
       working-directory: tests
       run: |
-        eval "$(conda shell.bash hook)"
-        conda activate phoible
+        eval "$(mamba shell.bash hook)"
+        mamba activate phoible
         Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"
