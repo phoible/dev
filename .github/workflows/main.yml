@@ -9,16 +9,14 @@ on:
 jobs:
   test-data:
     runs-on: ubuntu-latest
-    env:
-      MAMBA_ROOT_PREFIX: "${HOME}/conda"
     steps:
     - uses: actions/checkout@v2  # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: install mamba
       run: |
         wget -O Mambaforge.sh  "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
         bash Mambaforge.sh -b
-        source "${MAMBA_ROOT_PREFIX}/etc/profile.d/conda.sh"
-        source "${MAMBA_ROOT_PREFIX}/etc/profile.d/mamba.sh"
+        source "${HOME}/mambaforge/etc/profile.d/conda.sh"
+        source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
         conda activate
     - name: make new environment
       run: |
