@@ -17,11 +17,13 @@ jobs:
         bash Mambaforge.sh -b -p "${HOME}/conda"
         source "${HOME}/conda/etc/profile.d/conda.sh"
         source "${HOME}/conda/etc/profile.d/mamba.sh"
+        eval "$(mamba shell.bash hook)"
     - name: make new environment
-      run: mamba create -n phoible r=4 r-readr r-dplyr==1.1.1 r-testthat r-withr r-knitr r-purrr
+      run: |
+        eval "$(mamba shell.bash hook)"
+        mamba create -n phoible r=4 r-readr r-dplyr==1.1.1 r-testthat r-withr r-knitr r-purrr
     - name: run tests
       working-directory: tests
       run: |
-        eval "$(mamba shell.bash hook)"
         mamba activate phoible
         Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"
