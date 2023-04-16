@@ -15,10 +15,10 @@ jobs:
       run: |
         wget -O Mambaforge.sh  "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
         bash Mambaforge.sh -b
-        source "${HOME}/mambaforge/etc/profile.d/conda.sh"
-        source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
     - name: make new environment
       run: |
+        source "${HOME}/mambaforge/etc/profile.d/conda.sh"
+        source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
         conda activate
         mamba create -n phoible r=4 r-readr r-dplyr==1.1.1 r-testthat r-withr r-knitr r-purrr
     - name: run tests
