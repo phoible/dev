@@ -14,7 +14,7 @@ jobs:
       - uses: prefix-dev/setup-pixi@v0.10.0
         with:
           pixi-version: v0.66.0
-          activate-environment: true
+          activate-environment: "ci"
       - name: run tests
         working-directory: tests
         run: |

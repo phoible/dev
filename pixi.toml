@@ -1,7 +1,7 @@
 [workspace]
 authors = ["Daniel McCloy <dan@mccloy.info>"]
 channels = ["conda-forge"]
-name = "dev"
+name = "phoible"
 platforms = ["linux-64"]
 version = "0.1.0"
 
@@ -9,6 +9,15 @@ version = "0.1.0"
 
 [dependencies]
 r = "4.*"
+
+[feature.agg.dependencies]
+r-zoo = ">=1.8_15,<2"
+r-stringi = ">=1.8.7,<2"
+
+[feature.agg.tasks]
+aggregate = { cmd = "Rscript aggregate-raw-data.R", cwd = "scripts" }
+
+[feature.ci.dependencies]
 r-dplyr = "1.1.1.*"
 r-knitr = ">=1.47,<2"
 r-purrr = ">=1.0.2,<2"
@@ -16,3 +25,7 @@ r-readr = ">=2.1.5,<3"
 r-stringr = ">=1.5.1,<2"
 r-testthat = ">=3.2.1.1,<4"
 r-withr = ">=3.0.0,<4"
+
+[environments]
+agg = { features = ["agg"] }
+ci = { features = ["ci"] }
