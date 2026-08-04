@@ -10,22 +10,12 @@ jobs:
   test-data:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2  # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: install mamba
-      run: |
-        wget -O Mambaforge.sh  "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
-        bash Mambaforge.sh -b
-    - name: make new environment
-      run: |
-        source "${HOME}/mambaforge/etc/profile.d/conda.sh"
-        source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
-        conda activate
-        mamba create -n phoible r=4 r-dplyr==1.1.1 r-knitr r-purrr r-readr r-stringr r-testthat r-withr
-    - name: run tests
-      working-directory: tests
-      run: |
-        source "${HOME}/mambaforge/etc/profile.d/conda.sh"
-        source "${HOME}/mambaforge/etc/profile.d/mamba.sh"
-        conda activate
-        mamba activate phoible
-        Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"
+      - uses: actions/checkout@v7
+      - uses: prefix-dev/setup-pixi@v0.10.0
+        with:
+          pixi-version: v0.66.0
+          activate-environment: true
+      - name: run tests
+        working-directory: tests
+        run: |
+          Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"

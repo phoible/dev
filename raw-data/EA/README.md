@@ -1,10 +1,10 @@
 # EA
 
-The `EA` source data comes from The database of Eurasian phonological inventories (beta version), online: [http://eurasianphonology.info/](http://eurasianphonology.info/).
+The `EA` source data comes from The database of Eurasian phonological inventories (beta version), online: [https://eurphon.info](https://eurphon.info).
 
 This source is cited as:
 
-> Nikolaev, Dmitry; Andrey Nikulin; and Anton Kukhto. 2015. The database of Eurasian phonological inventories. Available online at [http://eurasianphonology.info/](http://eurasianphonology.info/).
+> Nikolaev, Dmitry; Andrey Nikulin; and Anton Kukhto. 2015. The database of Eurasian phonological inventories. Available online at [https://eurphon.info](https://eurphon.info).
 
 See also:
 

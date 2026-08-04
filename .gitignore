@@ -1,2 +1,5 @@
 # file types
 .Rhistory
+# pixi environments
+.pixi/*
+!.pixi/config.toml
