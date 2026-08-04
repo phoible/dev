@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Daniel McCloy <dan@mccloy.info>"]
+channels = ["conda-forge"]
+name = "dev"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+r = "4.*"
+r-dplyr = "1.1.1.*"
+r-knitr = ">=1.47,<2"
+r-purrr = ">=1.0.2,<2"
+r-readr = ">=2.1.5,<3"
+r-stringr = ">=1.5.1,<2"
+r-testthat = ">=3.2.1.1,<4"
+r-withr = ">=3.0.0,<4"
