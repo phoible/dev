@@ -235,13 +235,13 @@ make_typestring <- function(strings, ...) {
         codepts <- get_codepoints(chars)
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
-        codepts[codepts %in% get_codepoints(clicks)] <- "M"
+        codepts[codepts %in% get_codepoints(clicks)] <- "K"
         codepts[codepts %in% get_codepoints(diacritics)] <- "D"
         codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
         codepts[codepts %in% get_codepoints(tones)] <- "T"
         codepts[codepts %in% get_codepoints(null_phone)] <- "N"
         codepts[codepts %in% get_codepoints(disjunct)] <- "|"
-        missed <- !codepts %in% c("B", "M", "C", "D", "T", "N", "|")
+        missed <- !codepts %in% c("B", "M", "K", "C", "D", "T", "N", "|")
         if (any(missed)) {
             warning(paste("Unfamiliar glyph components.", "Phone:", string,
                           "Codepoint:", codepts[missed]),
