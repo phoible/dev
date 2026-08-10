@@ -298,7 +298,14 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
             typestring <- paste(typstr, collapse="")
         }
         ## If a diacritic comes right after a modifier letter, swap their order
-        while (stri_detect_fixed(typestring, "MD")) {
+        if (stri_detect_fixed(typestring, "MD")) {
+          ixs <- stri_locate_all_fixed(typestring, "MD")[[1]]
+          for (row in seq_len(dim(ixs)[1])) {
+              ix <- ixs[row, 1]
+              if (string[ix] %in% clicks) next
+              # SWAP LOGIC REMAINS SAME
+          }   }
+
             ix <- stri_locate_first_fixed(typestring, "MD")[1]
             # If the modifier letter is a click, don't swap it with the diacritic
             if (string[ix] %in% clicks) break
