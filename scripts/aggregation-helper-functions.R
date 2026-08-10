@@ -235,13 +235,13 @@ make_typestring <- function(strings, ...) {
         codepts <- get_codepoints(chars)
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
-        codepts[codepts %in% get_codepoints(clicks)] <- "K"
+        codepts[codepts %in% get_codepoints(clicks)] <- "M"
         codepts[codepts %in% get_codepoints(diacritics)] <- "D"
         codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
         codepts[codepts %in% get_codepoints(tones)] <- "T"
         codepts[codepts %in% get_codepoints(null_phone)] <- "N"
         codepts[codepts %in% get_codepoints(disjunct)] <- "|"
-        missed <- !codepts %in% c("B", "M", "K", "C", "D", "T", "N", "|")
+        missed <- !codepts %in% c("B", "M", "C", "D", "T", "N", "|")
         if (any(missed)) {
             warning(paste("Unfamiliar glyph components.", "Phone:", string,
                           "Codepoint:", codepts[missed]),
@@ -299,6 +299,7 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
         ## If a diacritic comes right after a modifier letter, swap their order
         while (stri_detect_fixed(typestring, "MD")) {
             ix <- stri_locate_first_fixed(typestring, "MD")[1]
+            if (string[ix] %in% clicks) break
             if (ix == 1) neworder <- c(2, 1, 3:lenstr)
             else if (ix == lenstr-1) neworder <- c(1:(ix-1), ix+1, ix)
             else neworder <- c(1:(ix-1), ix+1, ix, (ix+2):lenstr)
@@ -312,7 +313,7 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
             for (row in seq_len(dim(ixs)[1])) {
                 span <- ixs[row,1]:ixs[row,2]
                 mods <- string[span]
-                string[span] <- modifiers[modifiers %in% mods]
+                string[span] <- c(clicks, modifiers)[c(clicks, modifiers) %in% mods]
         }   }
         ## Put sequences of diacritics in canonical order
         if (stri_detect_fixed(typestring, "DD")) {
