@@ -235,6 +235,7 @@ make_typestring <- function(strings, ...) {
         codepts <- get_codepoints(chars)
         codepts[codepts %in% get_codepoints(base_glyphs)] <- "B"
         codepts[codepts %in% get_codepoints(modifiers)] <- "M"
+        # Clicks are typed as "M" so they factor into feature-vector assignment the same way modifiers do.
         codepts[codepts %in% get_codepoints(clicks)] <- "M"
         codepts[codepts %in% get_codepoints(diacritics)] <- "D"
         codepts[codepts %in% get_codepoints(contour_glyphs)] <- "C"
@@ -297,8 +298,17 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
             typestring <- paste(typstr, collapse="")
         }
         ## If a diacritic comes right after a modifier letter, swap their order
-        while (stri_detect_fixed(typestring, "MD")) {
+        if (stri_detect_fixed(typestring, "MD")) {
+          ixs <- stri_locate_all_fixed(typestring, "MD")[[1]]
+          for (row in seq_len(dim(ixs)[1])) {
+              ix <- ixs[row, 1]
+              if (string[ix] %in% clicks) next
+              # SWAP LOGIC REMAINS SAME
+          }   }
+
             ix <- stri_locate_first_fixed(typestring, "MD")[1]
+            # If the modifier letter is a click, don't swap it with the diacritic
+            if (string[ix] %in% clicks) break
             if (ix == 1) neworder <- c(2, 1, 3:lenstr)
             else if (ix == lenstr-1) neworder <- c(1:(ix-1), ix+1, ix)
             else neworder <- c(1:(ix-1), ix+1, ix, (ix+2):lenstr)
@@ -312,7 +322,8 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
             for (row in seq_len(dim(ixs)[1])) {
                 span <- ixs[row,1]:ixs[row,2]
                 mods <- string[span]
-                string[span] <- modifiers[modifiers %in% mods]
+                # Clicks are included here as they are typed as "M" above. 
+                string[span] <- c(clicks, modifiers)[c(clicks, modifiers) %in% mods]
         }   }
         ## Put sequences of diacritics in canonical order
         if (stri_detect_fixed(typestring, "DD")) {
