@@ -299,23 +299,19 @@ order_ipa <- function(strings, keep_stars=FALSE, keep_brackets=TRUE) {
         }
         ## If a diacritic comes right after a modifier letter, swap their order
         if (stri_detect_fixed(typestring, "MD")) {
-          ixs <- stri_locate_all_fixed(typestring, "MD")[[1]]
-          for (row in seq_len(dim(ixs)[1])) {
-              ix <- ixs[row, 1]
-              if (string[ix] %in% clicks) next
-              # SWAP LOGIC REMAINS SAME
-          }   }
-
-            ix <- stri_locate_first_fixed(typestring, "MD")[1]
-            # If the modifier letter is a click, don't swap it with the diacritic
-            if (string[ix] %in% clicks) break
-            if (ix == 1) neworder <- c(2, 1, 3:lenstr)
-            else if (ix == lenstr-1) neworder <- c(1:(ix-1), ix+1, ix)
-            else neworder <- c(1:(ix-1), ix+1, ix, (ix+2):lenstr)
-            string <- string[neworder]
-            typstr <- typstr[neworder]
-            typestring <- paste(typstr, collapse="")
-        }
+            ixs <- stri_locate_all_fixed(typestring, "MD")[[1]]
+            # Iterate through the rows of the matrix of indices, swapping modifier and diacritic. 
+            for (row in seq_len(dim(ixs)[1])) {
+                ix <- ixs[row, 1]
+                # If the modifier letter is a click, don't swap it with the diacritic
+                if (string[ix] %in% clicks) next
+                if (ix == 1) neworder <- c(2, 1, 3:lenstr)
+                else if (ix == lenstr-1) neworder <- c(1:(ix-1), ix+1, ix)
+                else neworder <- c(1:(ix-1), ix+1, ix, (ix+2):lenstr)
+                string <- string[neworder]
+                typstr <- typstr[neworder]
+                typestring <- paste(typstr, collapse="")
+        }   }
         ## Put sequences of modifier letters in canonical order
         if (stri_detect_fixed(typestring, "MM")) {
             ixs <- stri_locate_all_regex(typestring, "M+")[[1]]
