@@ -6,7 +6,7 @@ The `RA` folder contains data from:
 
 and was compiled by the phoible developers. The data are available in phoible wide format in [Ramaswami1999.tsv](Ramaswami1999.tsv) and contain only phonemes, with no information on allophones or linguistic tone.
 
-We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176). We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176). We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../mappings/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
 
 Note that the ISO 639-3 codes in the RA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
 
