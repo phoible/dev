@@ -13,7 +13,7 @@ Notes on the inventories and their compilation from Erich are below. See also:
 The data
 are available in phoible long format in
 [ER_inventories.tsv](ER_inventories.tsv) and contain only phonemes, with no
-information on allophones or linguistic tone. We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details. For up-to-date language codes for each inventory, we maintain a phoible index here:
+information on allophones or linguistic tone. We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../mappings/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details. For up-to-date language codes for each inventory, we maintain a phoible index here:
 [InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
 
 
