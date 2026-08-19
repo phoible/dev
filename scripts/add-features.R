@@ -320,7 +320,8 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
                               "i", "u", "ɨ", "ʉ", "ɯ", "y")) {
             # ambiguous between mid-close and mid-open (e o ɘ ɵ ø ɤ)
             # or between close and mid-close (i u ɨ ʉ ɯ y)
-            vec$tense <- "0"
+            vec$tense <- "-"
+            vec$lax <- "-"
         }
         else if (base_glyph %in% c("ɪ", "ʊ")) {
             # between ɪ and ɛ
