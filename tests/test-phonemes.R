@@ -37,7 +37,7 @@ context("Features")
 test_that("feature vectors are consistently assigned", {
     phoible %>%
         group_by(Phoneme) %>%
-        distinct(pick(tone:click)) %>%
+        distinct(pick(tone:aspirated)) %>%
         filter(n() > 1) ->
         inconsistents
 
@@ -59,7 +59,7 @@ test_that("within inventories, phonemes have distinct feature vectors", {
 
     # count distinct feature vectors per inventory
     grouped %>%
-        distinct(pick(tone:click)) %>%
+        distinct(pick(tone:aspirated)) %>%
         count(name="n_distinct_feature_vectors") ->
         n_vectors
 
@@ -73,11 +73,11 @@ test_that("within inventories, phonemes have distinct feature vectors", {
     # get DF with one row per collapsed phoneme contrast per inventory
     phoible %>%
         filter(tone == "0", InventoryID %in% mismatches$InventoryID) %>%
-        group_by(pick(InventoryID, tone:click)) %>%
+        group_by(pick(InventoryID, tone:aspirated)) %>%
         filter(n() > 1) %>%
         mutate(PhonemeList=list(stringr::str_sort(Phoneme))) %>%
         ungroup() %>%
-        distinct(pick(InventoryID, PhonemeList, tone:click)) ->
+        distinct(pick(InventoryID, PhonemeList, tone:aspirated)) ->
         indistinct_phoneme_sets
 
     # collapse across inventories to see just which contrasts need fixing
@@ -96,7 +96,6 @@ test_that("within inventories, phonemes have distinct feature vectors", {
     list(
         # voiced ejectives (check sources)
         c("dʼ", "tʼ"),
-        c("dʼ", "tʰʼ"),
         c("dzʼ", "tsʼ"),
         c("d̠ʒʼ", "t̠ʃʼ"),
         c("dʼkxʼ", "tʼkxʼ"),
