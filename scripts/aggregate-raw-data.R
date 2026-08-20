@@ -234,11 +234,21 @@ if (!debug) rm(saphon_raw, saphon_ipa)
 data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data, ra_data,
                           gm_data, saphon_data, uz_data, ea_data, er_data)
 all_data <- do.call(rbind, data_sources_list)
+
+## Rename LanguageName and SpecificDialect to SourceLanguageName and SourceSpecificDialect
+## LanguageName and SpecificDialect will be added from the mapping file
+## and will be the "canonical" values for the language/dialect, 
+## while the source values will be preserved in SourceLanguageName and SourceSpecificDialect
+names(all_data)[names(all_data) == "LanguageName"] <- "SourceLanguageName"
+names(all_data)[names(all_data) == "SpecificDialect"] <- "SourceSpecificDialect"
+
 all_data <- all_data[order(all_data$InventoryID),]
+
+
 
 ## MERGE IN GLOTTOLOG CODES
 glotto_mapping <- read.csv(glotto_path)
-glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode", "ISO6393")]
+glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode", "ISO6393", "LanguageName", "SpecificDialect")]
 all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 
 ## ADD GLYPH IDs
@@ -256,7 +266,8 @@ rownames(all_data) <- NULL
 
 ## SAVE
 output_fields <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
-                   "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
+                   "SpecificDialect", "SourceLanguageName", "SourceSpecificDialect",
+                   "GlyphID", "Phoneme", "Allophones",
                    "Marginal", "SegmentClass", "Source")
 phoible_nofeats <- all_data[output_fields]
 write.csv(phoible_nofeats, file=output_path, row.names=FALSE, quote=TRUE,

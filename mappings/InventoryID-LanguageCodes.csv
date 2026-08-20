@@ -1,3021 +1,3021 @@
-InventoryID,Glottocode,ISO6393
-1,kore1280,kor
-2,kett1243,ket
-3,lakk1252,lbe
-4,kaba1278,kbd
-5,nucl1302,kat
-6,buru1296,bsk
-7,kuru1302,kru
-8,telu1262,tel
-9,kota1263,kfe
-10,mund1320,unr
-11,khar1287,khr
-12,khas1269,kha
-13,seda1262,sed
-14,cent1989,khm
-15,viet1252,vie
-16,mand1415,cmn
-17,wuch1236,wuu
-18,hakk1236,hak
-19,yuec1235,yue
-20,iumi1238,ium
-21,nyis1236,njz
-22,nucl1310,mya
-23,lahu1253,lhu
-24,garo1247,grt
-25,sgaw1245,ksw
-26,lakk1238,lbc
-27,thai1261,tha
-28,bouy1240,pcc
-29,east2563,cjm
-30,atay1247,tay
-31,plat1254,plt
-32,stan1306,zsm
-33,bata1289,bbc
-34,saba1265,snv
-35,sund1252,sun
-36,java1254,jav
-37,taga1270,tgl
-38,cham1312,cha
-39,iaai1238,iai
-40,kali1299,khl
-41,adze1240,adz
-42,maor1246,mri
-43,hawa1245,haw
-44,anta1253,ant
-45,nyan1301,nna
-46,kunj1245,kjn
-47,mara1386,zmr
-48,maun1240,mph
-49,nung1290,nuy
-50,alaw1244,alh
-51,wikm1247,wim
-52,nucl1632,set
-53,kwom1262,kmo
-54,tamn1235,tml
-55,tele1256,tlf
-56,gads1258,gaj
-57,awiy1238,auy
-58,kuni1267,kup
-59,sele1250,spl
-60,naas1242,nas
-61,aleu1260,ale
-62,kala1399,kal
-63,chip1261,chp
-64,tolo1259,tol
-65,hupa1239,hup
-66,nava1243,nav
-67,sout2956,hax
-68,squa1248,squ
-69,sout2965,slh
-70,nuuc1236,nuk
-71,kwak1269,kwk
-72,east2542,ojg
-73,unam1242,unm
-74,wich1260,wic
-75,lako1247,lkt
-76,sene1264,see
-77,onei1249,one
-78,yuch1247,yuc
-79,alab1237,akz
-80,tuni1252,tun
-81,nezp1238,nez
-82,nort2952,nmu
-83,copa1236,zoc
-84,papa1238,top
-85,taba1266,chf
-86,tzel1254,tzh
-87,pure1242,tsz
-88,karo1304,kyh
-89,sout2982,pom
-90,kumi1248,dih
-91,zuni1245,zun
-92,picu1248,twf
-93,tewa1260,tew
-94,luis1253,lui
-95,hopi1249,hop
-96,toho1245,ood
-97,tena1241,otn
-98,cent2144,maz
-99,chiq1250,maq
-100,sanm1295,mig
-101,chac1249,cbi
-102,paez1247,pbb
-103,iton1250,ito
-104,sout2991,quh
-105,jaqa1244,jqr
-106,mapu1245,arn
-107,isla1278,crb
-108,wapi1253,wap
-109,wayu1243,guc
-110,asha1243,cni
-111,igna1246,ign
-112,yane1238,ame
-113,shua1257,jiv
-114,waim1255,bao
-115,ticu1245,tca
-116,gali1262,car
-117,ocai1244,oca
-118,siri1273,srq
-119,para1311,gug
-120,amah1246,amc
-121,chac1251,cao
-122,apin1244,apn
-123,tach1250,shi
-124,haus1257,hau
-125,ngas1240,anc
-126,marg1265,mrt
-127,soma1255,som
-128,awng1244,awn
-129,iraq1241,irk
-130,tigr1270,tig
-131,amha1245,amh
-132,egyp1253,arz
-133,moro1292,ary
-134,malt1254,mlt
-135,hebr1245,heb
-136,katc1250,xtc
-137,libe1247,xpe
-138,nucl1347,wol
-139,dagb1246,dag
-140,akan1250,aka
-141,gaaa1244,gaa
-142,ewee1241,ewe
-143,nucl1417,ibo
-144,beem1239,beq
-145,swah1253,swh
-146,luva1239,lue
-147,zulu1248,zul
-148,gbay1287,gbp
-149,koyr1242,ses
-150,cent2050,knc
-151,lugb1240,lgg
-152,nobi1240,fia
-153,luok1236,luo
-154,masa1300,mas
-155,nama1265,naq
-156,iris1253,gle
-157,bret1244,bre
-158,icel1247,isl
-159,norw1259,nob
-160,stan1293,eng
-161,stan1295,deu
-162,stan1290,fra
-163,port1283,por
-164,stan1288,spa
-165,roma1327,ron
-166,russ1263,rus
-167,bulg1262,bul
-168,lith1251,lit
-169,tosk1239,als
-170,mode1248,ell
-171,nucl1235,hye
-172,west2369,pes
-173,cent1973,pst
-174,kash1277,kas
-175,panj1256,pan
-176,hind1269,hin
-177,beng1280,ben
-178,sinh1246,sin
-179,basq1248,eus
-180,finn1318,fin
-181,east2328,mhr
-182,komi1268,kpv
-183,hung1274,hun
-184,khan1273,kca
-185,nene1249,yrk
-186,nucl1301,tur
-187,nort2697,azj
-188,kirg1245,kir
-189,chuv1255,chv
-190,yaku1245,sah
-191,halh1238,khk
-192,even1260,eve
-193,nort2745,ykg
-194,gily1242,niv
-195,chuk1273,ckt
-196,ainu1240,ain
-197,nucl1643,jpn
-198,afad1236,aal
-199,achu1247,acv
-200,adze1240,adz
-201,east2379,aer
-202,amel1241,aey
-203,anga1290,agm
-204,aghe1239,agq
-205,apro1235,ahp
-206,ahte1237,aht
-207,ainu1240,ain
-208,akan1250,aka
-209,akaw1239,ake
-210,alab1237,akz
-211,qawa1238,alc
-212,alla1248,ald
-213,aleu1260,ale
-214,alaw1244,alh
-215,tosk1239,als
-216,amah1246,amc
-217,yane1238,ame
-218,hame1242,amf
-219,amha1245,amh
-220,amoo1242,amo
-221,alam1246,amp
-222,guer1243,amu
-223,ngas1240,anc
-224,ando1256,ano
-225,anta1253,ant
-226,apin1244,apn
-227,apuc1241,apq
-228,arch1244,aqc
-229,arab1268,arl
-230,mapu1245,arn
-231,egyp1253,arz
-232,waor1240,auc
-233,avar1256,ava
-234,awng1244,awn
-235,abip1241,axb
-236,nort2697,azj
-237,bash1264,bak
-238,bamb1269,bam
-239,waim1255,bao
-240,baat1238,bba
-241,bata1289,bbc
-242,bats1242,bbl
-243,nort2819,bbo
-244,cent2004,bca
-245,bard1255,bcj
-246,kohu1244,bcs
-247,indo1317,bdl
-248,twee1234,xjb
-249,beja1238,bej
-250,beng1280,ben
-251,beem1239,beq
-252,dalo1238,bev
-253,biss1248,bib
-254,baka1277,bkq
-255,bell1243,blc
-256,muin1242,bmr
-257,bero1242,bom
-258,boro1282,bor
-259,lave1249,brb
-260,bret1244,bre
-261,brah1256,brh
-262,west2397,brv
-263,bodo1269,brx
-264,buru1296,bsk
-265,bulg1262,bul
-266,bura1267,bvr
-267,qaqe1238,byx
-268,brib1243,bzd
-269,cadd1256,cad
-270,niva1238,cag
-271,carn1240,caq
-272,gali1262,car
-273,chac1249,cbi
-274,nyah1250,cbn
-275,cacu1241,cbv
-276,mind1253,cdo
-277,cham1312,cha
-278,chip1261,chp
-279,quio1240,chq
-280,cher1273,chr
-281,chuv1255,chv
-282,east2563,cjm
-283,uppe1439,cjh
-284,chua1250,cjv
-285,chuk1273,ckt
-286,mand1415,cmn
-287,haka1240,cnh
-288,asha1243,cni
-289,cofa1242,con
-290,wame1240,cou
-291,chua1256,cqd
-292,isla1278,crb
-293,tedi1235,ctd
-294,west2644,ctp
-295,cube1242,cub
-296,cayu1262,cyb
-297,dang1274,daa
-298,dann1241,daf
-299,dagb1246,dag
-300,darf1239,daj
-301,daha1245,dal
-302,nyis1236,njz
-303,dyir1250,dbl
-304,stan1295,deu
-305,dier1241,dif
-306,kumi1248,dih
-307,nort2815,dip
-308,lowe1415,dni
-309,nort2735,doc
-310,doya1240,dow
-311,ruka1240,dru
-312,daur1238,dta
-313,toro1252,dts
-314,dhuw1249,duj
-315,jola1263,dyo
-316,efik1245,efi
-317,ekar1243,ekg
-318,mode1248,ell
-319,cent2128,ess
-320,ejag1239,etu
-321,basq1248,eus
-322,even1260,eve
-323,ewee1241,ewe
-324,ewon1239,ewo
-325,eyak1241,eya
-326,fasu1242,faa
-327,nobi1240,fia
-328,fiji1243,fij
-329,finn1318,fin
-330,fefe1239,fmp
-331,stan1290,fra
-332,fuln1247,fun
-333,furr1244,fvr
-334,guib1244,zgn
-335,gaaa1244,gaa
-336,gads1258,gaj
-337,gara1269,wrk
-338,gbay1287,gbp
-339,gbag1258,gbr
-340,qaua1234,gqu
-341,nana1257,gld
-342,iris1253,gle
-343,dawr1236,dwr
-344,wayu1243,guc
-345,para1311,gug
-346,guah1255,guh
-347,guam1248,gum
-348,ache1246,guq
-349,kuku1273,gvn
-350,hakk1236,hak
-351,haus1257,hau
-352,hawa1245,haw
-353,sout2956,hax
-354,hind1269,hin
-355,hixk1239,hix
-356,hopi1249,hop
-357,hadz1240,hts
-358,hung1274,hun
-359,hupa1239,hup
-360,huas1242,hus
-361,sanm1287,huv
-362,nucl1235,hye
-363,iaai1238,iai
-364,iban1264,iba
-365,nucl1417,ibo
-366,igna1246,ign
-367,izon1238,ijc
-368,ikkk1242,ikx
-369,irar1238,irh
-370,iraq1241,irk
-371,iran1263,irn
-372,isok1239,iso
-373,itel1242,itl
-374,iton1250,ito
-375,iumi1238,ium
-376,ivat1242,ivv
-377,iwam1256,iwm
-378,popt1235,jac
-379,yany1243,jao
-380,java1254,jav
-381,jebe1250,jeb
-382,toll1241,jic
-383,shua1257,jiv
-384,nucl1643,jpn
-385,jaqa1244,jqr
-386,japr1238,jru
-387,kach1280,kac
-388,kala1399,kal
-389,kash1277,kas
-390,nucl1302,kat
-391,kaba1278,kbd
-392,cams1241,kbh
-393,gras1249,kbk
-394,kafa1242,kbr
-395,dera1245,kbv
-396,khan1273,kca
-397,kekc1242,kek
-398,kera1255,ker
-399,kett1243,ket
-400,kota1263,kfe
-401,koya1251,kff
-402,kain1272,kgp
-403,khas1269,kha
-404,luuu1242,khb
-405,halh1238,khk
-406,lusi1240,khl
-407,cent1989,khm
-408,khar1287,khr
-409,kiow1266,kio
-410,kirg1245,kir
-411,sout2949,kjd
-412,khmu1256,kjg
-413,west2632,kjq
-414,east2516,kjs
-415,teke1280,kkw
-416,klam1254,kla
-417,klao1243,klu
-418,kwom1262,kmo
-419,nort2641,kmr
-420,dera1248,kna
-421,cent2050,knc
-422,konk1267,knn
-423,kore1280,kor
-424,kpan1246,kpk
-425,koho1244,kpm
-426,komi1268,kpv
-427,kory1246,kpy
-428,kups1238,kpz
-429,kuru1302,kru
-430,sgaw1245,ksw
-431,kalk1246,ktg
-432,juho1239,ktz
-433,kuna1268,kun
-434,kuni1267,kup
-435,bord1248,kvn
-436,kwai1243,kwd
-437,kwak1269,kwk
-438,karo1304,kyh
-439,lakk1238,lbc
-440,lakk1252,lbe
-441,lele1264,lef
-442,lugb1240,lgg
-443,lahu1253,lhu
-444,lith1251,lit
-445,lako1247,lkt
-446,peve1243,lme
-447,luis1253,lui
-448,luok1236,luo
-449,sout2965,slh
-450,chiq1250,maq
-451,masa1300,mas
-452,cent2144,maz
-453,maxa1247,mbl
-454,came1252,mcu
-455,mbum1254,mdd
-456,maba1277,mde
-457,dizi1235,mdx
-458,mbaa1245,mfc
-459,mogh1245,mhj
-460,east2328,mhr
-461,sanm1295,mig
-462,tuuu1240,mjg
-463,manc1252,mnc
-464,morb1239,moq
-465,moro1285,mor
-466,mull1237,mpb
-467,maun1240,mph
-468,dadi1250,mps
-469,west2600,mqs
-470,marg1265,mrt
-471,mara1404,mrw
-472,toto1305,mto
-473,murs1242,muz
-474,murr1258,mwf
-475,kala1377,mwp
-476,nucl1310,mya
-477,pira1253,myp
-478,nucl1240,mzm
-479,movi1243,mzp
-480,sout2994,nab
-481,minn1241,nan
-482,nama1264,naq
-483,naas1242,nas
-484,nava1243,nav
-485,naxi1245,nxq
-486,nort2957,ncj
-487,ndut1239,ndv
-488,nepa1254,npi
-489,newa1246,new
-490,nezp1238,nez
-491,ngiz1242,ngi
-492,noon1243,nhu
-493,niel1243,nie
-494,ngan1291,nio
-495,nucl1633,nir
-496,gily1242,niv
-497,aona1235,njo
-498,nort2952,nmu
-499,norw1259,nob
-500,nuuc1236,nuk
-501,nara1262,nrb
-502,nung1283,nut
-503,nung1290,nuy
-504,amas1236,nyi
-505,nyan1313,nyp
-506,ocai1244,oca
-507,ogbi1239,ogb
-508,east2542,ojg
-509,toho1245,ood
-510,ormu1247,oru
-511,paco1243,pac
-512,pech1241,pay
-513,paez1247,pbb
-514,enap1235,pbh
-515,bouy1240,pcc
-516,west2369,pes
-517,plat1254,plt
-518,sout2982,pom
-519,pohn1238,pon
-520,para1301,prk
-521,cent1973,pst
-522,paiw1248,pwn
-523,pwon1235,pww
-524,sout2991,quh
-525,quil1240,qui
-526,resi1247,rgr
-527,roma1327,ron
-528,roto1249,roo
-529,waim1251,rro
-530,russ1263,rus
-531,rutu1240,rut
-532,sand1273,sad
-533,sang1328,sag
-534,yaku1245,sah
-535,seda1262,sed
-536,sene1264,see
-537,ceba1235,sef
-538,selk1253,sel
-539,koyr1242,ses
-540,nucl1632,set
-541,xiri1243,xir
-542,tach1250,shi
-543,shus1248,shs
-544,shas1239,sht
-545,sinh1246,sin
-546,epen1239,sja
-547,sout2985,skd
-548,sali1298,slc
-549,sout2674,sma
-550,sion1247,snn
-551,saba1265,snv
-552,soma1255,som
-553,stan1288,spa
-554,sele1250,spl
-555,soqo1240,sqt
-556,siri1273,srq
-557,natu1246,ntu
-558,suen1241,sue
-559,savo1255,svs
-560,suii1243,swi
-561,east2347,taj
-562,atay1247,tay
-563,aika1237,tba
-564,gaam1241,tbi
-565,ticu1245,tca
-566,tulu1258,tcy
-567,tehu1242,teh
-568,telu1262,tel
-569,timn1235,tem
-570,nucl1339,teq
-571,tetu1245,tet
-572,tiga1245,tgc
-573,taga1270,tgl
-574,thai1261,tha
-575,taha1241,thv
-576,tigr1270,tig
-577,tiwi1244,tiw
-578,tiru1241,tiy
-579,tlin1245,tli
-580,talo1250,tlo
-581,tama1331,tma
-582,tamn1235,tml
-583,taca1256,tna
-584,lena1238,tnl
-585,papa1238,top
-586,tamp1252,tpm
-587,acat1239,tpx
-588,trum1247,tpy
-589,toar1246,tqo
-590,tonk1249,tqw
-591,lish1246,trg
-592,nucl1649,tsi
-593,tsou1248,tsu
-594,pure1242,tsz
-595,tera1251,ttr
-596,tuni1252,tun
-597,nucl1301,tur
-598,picu1248,twf
-599,tuvi1240,tyv
-600,tzel1254,tzh
-601,ngar1284,ung
-602,mund1320,unr
-603,nort2690,uzn
-604,vani1248,vam
-605,viet1252,vie
-606,mbab1239,vmb
-607,wapp1239,wao
-608,wapi1253,wap
-609,wara1303,wba
-610,nucl1620,wgi
-611,wich1260,wic
-612,wikm1247,wim
-613,wint1259,wit
-614,wiyo1248,wiy
-615,want1252,wnc
-616,usan1239,wnu
-617,kama1365,woi
-618,nucl1347,wol
-619,wari1266,wrs
-620,wara1290,wrz
-621,bert1248,wti
-622,wuch1236,wuu
-623,wang1291,wyb
-624,kawa1283,xaw
-625,komo1258,xom
-626,libe1247,xpe
-627,katc1249,xtc
-628,yagu1244,yad
-629,yaqu1251,yaq
-630,yucu1253,ycn
-631,taro1263,yer
-632,yaga1260,ygr
-633,yidi1250,yii
-634,nort2745,ykg
-635,yana1271,ynn
-636,yoru1245,yor
-637,yare1248,yrb
-638,nene1249,yrk
-639,yess1239,yss
-640,yuca1254,yua
-641,yuch1247,yuc
-642,yuec1235,yue
-643,yulu1243,yul
-644,nucl1454,yva
-645,zand1248,zne
-646,copa1236,zoc
-647,zulu1248,zul
-648,zuni1245,zun
-649,abid1235,abi
-650,adio1239,adj
-651,ajab1235,ajg
-652,ajab1235,ajg
-653,anyi1244,mtb
-654,igoo1238,ahl
-655,akan1250,aka
-656,akoo1248,bss
-657,ngas1240,anc
-658,anuf1239,cko
-659,suda1236,apd
-660,avok1242,avu
-661,veng1238,bav
-662,bafu1246,bfd
-663,baka1272,bkc
-664,bamb1269,bam
-665,band1345,bfl
-666,band1345,bfl
-667,band1352,bza
-668,baou1238,bci
-669,baat1238,bba
-670,basa1284,bas
-671,nucl1418,bsq
-672,ntch1242,bud
-673,gagn1235,btg
-674,bekw1241,bkv
-675,bero1242,bom
-676,beng1286,nhb
-677,bhel1238,bhy
-678,bial1238,beh
-679,bimo1239,bim
-680,biss1248,bib
-681,nort2819,bbo
-682,boko1266,bqc
-683,hain1253,bzx
-684,bulu1251,bum
-685,cerm1238,cme
-686,chum1261,ncu
-687,nucl1683,dbq
-688,sout2789,dga
-689,nort2780,dgi
-690,dagb1246,dag
-691,dann1241,daf
-692,adan1247,ada
-693,daza1242,dzg
-694,luok1236,luo
-695,lako1244,dic
-696,dyul1238,dyu
-697,dita1238,tbz
-698,doya1240,dow
-699,toro1252,dts
-700,dual1243,dua
-701,duru1249,dug
-702,ebir1243,igb
-703,ewee1241,ewe
-704,bini1246,bin
-705,ezaa1238,eza
-706,ejag1239,etu
-707,emai1241,ema
-708,enge1239,enn
-709,ewon1239,ewo
-710,fefe1239,fmp
-711,fonn1241,fon
-712,adam1253,fub
-713,cent2018,fuq
-714,maas1239,ffm
-715,west2454,fuh
-716,fuli1240,flr
-717,gaaa1244,gaa
-718,ngan1299,gng
-719,nort2775,gya
-720,gbay1287,gbp
-721,genn1243,gej
-722,genn1243,gej
-723,godi1239,god
-724,gonj1241,gjn
-725,nort2810,gbo
-726,gude1246,gde
-727,gour1243,gux
-728,hang1258,hag
-729,haus1257,hau
-730,haus1257,hau
-731,ifee1241,ife
-732,nucl1417,ibo
-733,iged1239,ige
-734,sout2774,ijs
-735,ikwo1238,iqw
-736,izii1239,izz
-737,jola1263,dyo
-738,jurm1239,bex
-739,kabi1261,kbp
-740,kako1242,kkj
-741,baan1242,bqx
-742,cent2050,knc
-743,west2466,kza
-744,kara1478,kzr
-745,kase1253,xsm
-746,kase1253,xsm
-747,koon1245,ozm
-748,kiku1240,kik
-749,nort2765,kqs
-750,komc1235,bkm
-751,komo1260,kmw
-752,konk1269,xon
-753,libe1247,xpe
-754,guin1254,gkp
-755,gbay1288,krs
-756,krio1253,kri
-757,tepo1239,ted
-758,kuri1259,kuj
-759,kusa1250,kus
-760,lama1275,las
-761,lele1276,lln
-762,lend1245,led
-763,loma1260,lom
-764,loko1255,lok
-765,ligb1244,lig
-766,west2450,lia
-767,limb1268,lmp
-768,ling1263,lin
-769,lukp1238,dop
-770,gand1255,lug
-771,lugb1240,lgg
-772,lyel1241,lee
-773,came1252,mcu
-774,nige1255,mzk
-775,mamp1244,maw
-776,west2500,mlq
-777,east2426,emk
-778,mang1394,mdj
-779,kita1249,mwk
-780,mund1326,muh
-781,cros1244,mfn
-782,mboc1235,mbo
-783,maka1304,mcp
-784,mend1266,men
-785,meta1238,mgo
-786,mama1271,myk
-787,degg1238,mzw
-788,mofu1248,mif
-789,moss1236,mos
-790,mwan1250,moa
-791,mund1327,mnf
-792,kitu1245,mkw
-793,murl1244,mur
-794,mwag1236,sur
-795,nafa1258,nfr
-796,nawd1238,nmz
-797,nort2784,nuv
-798,noma1260,lem
-799,ngam1268,sba
-800,ngba1285,nga
-801,nort2774,ngb
-802,ngie1241,nnh
-803,nyab1255,nwb
-804,lamn1239,lns
-805,nugu1242,yas
-806,nupe1254,nup
-807,pand1265,mhi
-808,park1239,pbi
-809,pula1263,fuc
-810,pula1262,fuf
-811,rend1243,rel
-812,saba1262,spy
-813,sang1328,sag
-814,sang1328,sag
-815,sena1262,seq
-816,sere1260,srr
-817,siss1242,sld
-818,siss1242,sld
-819,koyr1240,khq
-820,soni1259,snk
-821,soni1259,snk
-822,susu1250,sus
-823,swah1253,swh
-824,tawa1286,ttq
-825,tama1365,taq
-826,taro1263,yer
-827,teen1242,lor
-828,teda1241,tuq
-829,temm1241,kdh
-830,tofi1235,tfi
-831,timn1235,tem
-832,tika1246,tik
-833,topo1242,toq
-834,tour1242,neb
-835,nort2787,tsp
-836,vagl1239,vag
-837,vute1244,vut
-838,waam1244,wwa
-839,wann1242,wan
-840,weno1238,wob
-841,nucl1347,wol
-842,yamb1251,yam
-843,yamb1252,yat
-844,yaou1238,yre
-845,yemb1246,ybb
-846,yomm1242,pil
-847,yoru1245,yor
-848,yoru1245,yor
-849,zand1248,zne
-850,zarm1239,dje
-851,zulg1242,gnd
-852,fwee1238,fwe
-853,yeyi1239,yey
-854,cavi1250,cav
-855,cham1318,ccc
-856,chec1245,che
-857,chep1245,cdm
-858,east2328,mhr
-859,leal1235,cle
-860,chol1282,ctu
-861,chra1242,crw
-862,barb1263,boi
-863,coeu1236,crd
-864,coma1245,com
-865,cupe1243,cup
-866,cuvo1236,cuv
-867,deny1238,anv
-868,nepa1253,kru
-869,mufi1238,aoj
-870,usar1243,usa
-871,kora1295,kpr
-872,binu1245,bjr
-873,eggo1239,ego
-874,ekpe1253,ekp
-875,endo1242,enb
-876,esim1238,ags
-877,fang1246,fan
-878,furu1242,fuu
-879,kara1476,gbd
-880,gbar1246,gby
-881,goli1247,gvf
-882,guaj1255,gub
-883,gunw1252,gup
-884,haya1250,hay
-885,huro1249,wya
-886,huic1243,hch
-887,huay1240,qwh
-888,sanm1287,huv
-889,jauj1238,qxw
-890,luya1241,lyn
-891,iban1261,iby
-892,imon1245,imn
-893,ingu1240,inh
-894,kris1246,ksi
-895,yalu1240,yal
-896,izer1241,izr
-897,jama1261,jaa
-898,jeme1245,tow
-899,liji1238,mgi
-900,kaby1243,kab
-901,gida1247,gid
-902,kaya1329,kyz
-903,kama1367,kms
-904,kano1245,kxo
-905,kens1251,ndb
-906,east2398,xrb
-907,kari1301,kmv
-908,keny1279,ken
-909,khar1287,khr
-910,chon1284,cog
-911,kiny1244,kin
-912,kiri1254,okr
-913,koko1269,kkk
-914,bako1250,kme
-915,konn1242,kma
-916,kuay1244,kdt
-917,kulu1253,kle
-918,kuot1243,kto
-919,kusu1250,kgg
-920,kuvi1243,kxv
-921,kwaz1243,xwa
-922,lada1244,lbj
-923,lang1320,lag
-924,laoo1244,lao
-925,lavu1241,lvk
-926,bafa1247,bwt
-927,lund1266,lun
-928,luch1239,lch
-929,orok1266,bdu
-930,mace1250,mkd
-931,mada1293,mxu
-932,madi1260,mhi
-933,mana1295,mva
-934,bame1260,bce
-935,mana1288,nmm
-936,ngem1255,nge
-937,mara1385,mec
-938,maib1239,ayz
-939,gbay1281,gmm
-940,medu1238,byv
-941,ming1252,xmf
-942,mmen1238,bfm
-943,moke1242,mwt
-944,mose1249,cas
-945,mpon1254,mgg
-946,mung1266,mhk
-947,mvum1238,nmg
-948,motl1237,mlv
-949,nami1256,nnm
-950,ndem1249,nml
-951,mesc1238,apm
-952,quec1382,yum
-953,nank1250,nnk
-954,nand1266,niq
-955,kima1246,kig
-956,naki1238,mff
-957,mich1245,ncl
-958,naga1394,nag
-959,ngos1238,nsh
-960,ngal1293,nig
-961,nang1259,nam
-962,ngom1272,jgo
-963,ngom1271,nla
-964,nuuc1236,nuk
-965,nort2684,kxm
-966,nort2954,pao
-967,nubi1253,kcn
-968,nuer1246,nus
-969,elip1238,ekm
-970,nyam1276,nym
-971,nyeu1238,nyl
-972,obol1243,ann
-973,mian1257,mpt
-974,faiw1243,fai
-975,okuu1243,oku
-976,osse1243,oss
-977,pala1344,pau
-978,orok1269,okv
-979,yill1241,yll
-980,ning1273,niz
-981,dobu1241,dob
-982,samo1303,smq
-983,urii1240,uvh
-984,boik1241,bzf
-985,phai1238,prt
-986,mall1246,mlf
-987,rama1270,rma
-988,matb1237,xmt
-989,rund1242,run
-990,nyan1307,nyn
-991,marw1260,rwr
-992,samb1305,ndi
-993,sout2844,sbd
-994,samr1245,sxm
-995,saba1268,sae
-996,saan1246,str
-997,sasa1249,sas
-998,sora1254,srb
-999,sayu1241,pos
-1000,seco1241,sey
-1001,taro1264,trv
-1002,seim1238,ssg
-1003,seme1247,sza
-1004,serr1255,ser
-1005,shab1252,sbf
-1006,yawa1260,ywn
-1007,mako1251,kde
-1008,shon1251,sna
-1009,bamu1253,bax
-1010,siar1238,sjr
-1011,sera1259,skr
-1012,shaw1249,sjw
-1013,nucl1634,skv
-1014,aheu1239,thm
-1015,sout2856,erk
-1016,spok1245,spo
-1017,sout2807,sot
-1018,sata1237,stw
-1019,ulwa1239,ulw
-1020,hupd1244,jup
-1021,chim1300,zoh
-1022,loxi1235,ztp
-1023,yuki1243,yuk
-1024,yape1248,yap
-1025,yuro1248,yur
-1026,yura1255,yuz
-1027,sout2750,yux
-1028,nucl1290,wbm
-1029,wamb1259,wms
-1030,wash1253,was
-1031,waya1269,way
-1032,woge1237,woc
-1033,huar1255,var
-1034,vaii1241,vai
-1035,ukra1253,ukr
-1036,phal1254,phl
-1037,east2440,mky
-1038,tapi1253,tpj
-1039,baru1269,bjz
-1040,tatu1247,tav
-1041,tagw1240,tgw
-1042,maza1291,mzn
-1043,paok1235,blk
-1044,tern1247,tft
-1045,toba1269,tob
-1046,poli1260,pol
-1047,mand1415,cmn
-1048,kala1381,ijn
-1049,east2295,ydd
-1050,dutc1256,nld
-1051,malo1243,mla
-1052,gayo1244,gay
-1053,jama1262,jam
-1054,mamb1294,mcs
-1055,arag1245,arg
-1056,tilq1235,zts
-1057,ibib1240,ibb
-1058,tami1289,tam
-1059,zoog1238,zpq
-1060,baga1273,bgo
-1061,sout2895,nxl
-1062,sela1259,slu
-1063,tsuv1239,tvd
-1064,hang1263,wos
-1065,blan1242,blr
-1066,tata1257,txx
-1067,tibe1272,bod
-1068,chee1238,ruk
-1069,tolo1259,tol
-1070,pagi1243,pae
-1071,choc1276,cho
-1072,mich1243,crg
-1073,pila1245,plg
-1074,yuch1247,yuc
-1075,bani1255,bwi
-1076,kari1311,ktn
-1077,nort2943,esi
-1078,sanj1284,zab
-1079,tzot1259,tzo
-1080,sida1246,sid
-1081,west2560,bdr
-1082,chim1301,cid
-1083,hueh1236,tee
-1084,utes1238,ute
-1085,dupa1235,duo
-1086,tong1325,ton
-1087,lake1258,lmw
-1088,lazz1240,lzz
-1089,juan1238,jun
-1090,adan1251,adn
-1091,ambe1247,ael
-1092,apur1254,apu
-1093,achi1257,ace
-1094,anti1245,aig
-1095,akla1241,akl
-1096,arhu1242,arh
-1097,karo1306,arr
-1098,liby1240,ayl
-1099,bata1289,bbc
-1100,baou1238,bci
-1101,bond1245,bfw
-1102,bike1242,biw
-1103,siks1238,bla
-1104,bilo1248,bll
-1105,beli1260,bzj
-1106,koas1236,cku
-1107,como1259,coo
-1108,soch1239,cso
-1109,diml1238,diq
-1110,yekh1238,ets
-1111,nort2626,frr
-1112,guja1253,gju
-1113,guan1269,gvc
-1114,hung1278,hum
-1115,halk1245,hur
-1116,huas1242,hus
-1117,ilok1237,ilo
-1118,kadi1248,kbc
-1119,kute1248,kub
-1120,awac1239,kwi
-1121,lisu1250,lis
-1122,loni1238,los
-1123,mola1238,mbe
-1124,mats1244,mcf
-1125,mani1292,mni
-1126,mand1436,mnk
-1127,moco1246,moc
-1128,mamm1241,mam
-1129,mund1330,myu
-1130,nisg1240,ncg
-1131,nort2627,nds
-1132,nort2984,pmq
-1133,pana1305,par
-1134,nige1257,pcm
-1135,nort2966,pej
-1136,texi1237,poq
-1137,khan1273,kca
-1138,stan1289,cat
-1139,croa1245,hrv
-1140,czec1258,ces
-1141,gali1258,glg
-1142,kabi1261,kbp
-1143,mono1270,mnh
-1144,indo1316,ind
-1145,ital1282,ita
-1146,sala1272,qxl
-1147,seri1257,sei
-1148,sind1272,snd
-1149,slov1268,slv
-1150,swed1254,swe
-1151,east2440,mky
-1152,tuka1248,khc
-1153,yine1238,pib
-1154,kich1262,quc
-1155,huam1248,qvh
-1156,sipa1247,qum
-1157,chim1302,qug
-1158,tlac1235,tpt
-1159,ambu1247,abt
-1160,abau1245,aau
-1161,qima1242,ahg
-1162,akha1245,ahk
-1163,alya1239,aly
-1164,aman1265,amn
-1165,anua1242,anu
-1166,aran1237,jbj
-1167,bumb1241,aon
-1168,tana1290,tcb
-1169,auuu1241,avt
-1170,tinp1237,tpz
-1171,peta1245,pex
-1172,pate1247,ptp
-1173,kela1255,kcl
-1174,surs1246,sgz
-1175,awar1248,awx
-1176,awin1248,azo
-1177,awtu1239,kmn
-1178,baba1264,bbw
-1179,baba1266,bbk
-1180,bako1249,bkh
-1181,nyon1241,muo
-1182,bamu1256,bvm
-1183,bang1356,bgj
-1184,bata1285,bnm
-1185,bari1286,bch
-1186,befa1241,bby
-1187,idaa1241,dbj
-1188,bemb1257,bem
-1189,berb1259,brc
-1190,bett1235,xub
-1191,biak1248,bhw
-1192,bili1250,nbj
-1193,bina1277,bhg
-1194,sout2840,bwq
-1195,nucl1695,bol
-1196,bong1285,bot
-1197,boro1277,bwo
-1198,brok1247,bkk
-1199,baga1272,bsp
-1200,bubi1249,bbx
-1201,buku1249,bxk
-1202,subi1246,sbs
-1203,tote1238,ttl
-1204,bamb1265,bmo
-1205,nort2845,mrq
-1206,onge1236,oon
-1207,olut1240,plo
-1208,jiar1240,jya
-1209,suri1267,suq
-1210,bilu1245,blb
-1211,hoav1238,hoa
-1212,fili1244,fil
-1213,ngad1261,nxg
-1214,muna1247,mnb
-1215,keoo1238,xxk
-1216,aheu1239,thm
-1217,saki1248,skf
-1218,tiwi1244,tiw
-1219,torw1241,trw
-1220,thul1246,tdh
-1221,tsha1245,tsj
-1222,colo1256,cof
-1223,tzut1248,tzj
-1224,pwon1235,pww
-1225,tuvi1240,tyv
-1226,kinn1249,kfk
-1227,mewa1250,wtm
-1228,anei1239,aty
-1229,zaiw1241,atb
-1230,chic1270,cic
-1231,friu1240,fur
-1232,jica1244,apj
-1233,egaa1242,ega
-1234,adam1253,fub
-1235,west2441,are
-1236,sanu1240,xsu
-1237,wari1268,pav
-1238,crow1244,cro
-1239,barb1263,boi
-1240,lyel1241,lee
-1241,adam1253,fub
-1242,anyi1245,any
-1243,anyi1245,any
-1244,anyi1244,mtb
-1245,akan1250,aka
-1246,anuf1239,cko
-1247,dibo1245,bvx
-1248,bana1305,bcw
-1249,baka1274,bdh
-1250,ajas1235,aja
-1251,bila1255,bip
-1252,busa1253,bqp
-1253,adam1253,fub
-1254,nige1253,fuv
-1255,here1253,her
-1256,ceba1235,sef
-1257,koyr1240,khq
-1258,bafi1243,ksf
-1259,lega1249,lea
-1260,limb1268,lmp
-1261,limb1268,lmp
-1262,limb1268,lmp
-1263,myen1241,mye
-1264,ntch1242,bud
-1265,tune1261,tvu
-1266,matu1259,mgw
-1267,yaoo1241,yao
-1268,umbu1257,umb
-1269,ndon1254,ndo
-1270,mbuk1240,mhw
-1271,diri1252,diu
-1272,kwan1273,kwn
-1273,soni1259,snk
-1274,koyr1242,ses
-1275,lele1276,lln
-1276,ikal1242,kck
-1277,mong1338,lol
-1278,long1387,wok
-1279,xwel1235,xwe
-1280,west2456,xwl
-1281,kota1272,kqk
-1282,gbes1238,gbs
-1283,mach1266,jmc
-1284,mada1282,mda
-1285,mbee1249,mfo
-1286,ngwe1238,nwe
-1287,jowu1238,jow
-1288,yala1263,yba
-1289,mamb1296,mgr
-1290,kete1252,kcv
-1291,kwes1244,kws
-1292,sout2828,snm
-1293,moru1253,mgd
-1294,logo1259,log
-1295,afit1238,aft
-1296,avat1244,avn
-1297,abua1244,abn
-1298,anyi1245,any
-1299,dghw1239,dgh
-1300,eloy1241,afo
-1301,nige1253,fuv
-1302,giky1238,acd
-1303,giny1241,ayg
-1304,huba1236,hbb
-1305,kofy1242,kwl
-1306,krac1238,kye
-1307,krim1238,bmf
-1308,west2458,bbp
-1309,sout2833,dib
-1310,food1238,fod
-1311,jola1262,csk
-1312,jumj1238,jum
-1313,buru1301,bdi
-1314,olub1238,lul
-1315,maay1238,ymm
-1316,maba1273,mfz
-1317,suga1248,sgi
-1318,copi1238,cce
-1319,xhos1239,xho
-1320,siwu1238,akp
-1321,sher1258,bun
-1322,mman1238,buy
-1323,cher1271,cpn
-1324,palo1243,fap
-1325,fraf1238,gur
-1326,sekp1241,lip
-1327,mamp1244,maw
-1328,tong1318,toi
-1329,bady1239,pbp
-1330,sele1249,snw
-1331,tivv1240,tiv
-1332,bili1260,byn
-1333,xamt1239,xan
-1334,lika1243,lik
-1335,yans1239,yns
-1336,budu1250,buu
-1337,kele1255,khy
-1338,leng1258,lej
-1339,keli1248,kbo
-1340,wong1247,won
-1341,mwal1237,wlc
-1342,afar1241,aar
-1343,mund1325,mua
-1344,mono1269,mru
-1345,tupu1244,tui
-1346,kuoo1238,xuo
-1347,kare1338,kbn
-1348,ndai1238,gke
-1349,bamb1262,myf
-1350,tigr1271,tir
-1351,kara1483,kdj
-1352,gwan1268,gwn
-1353,gwan1268,gwn
-1354,gwan1268,gwn
-1355,gwan1268,gwn
-1356,gwan1268,gwn
-1357,gwan1268,gwn
-1358,avik1243,avi
-1359,shil1265,shk
-1360,haio1238,hgm
-1361,pero1241,pip
-1362,bora1271,gax
-1363,hadi1240,hdy
-1364,wola1242,wal
-1365,kuny1238,njx
-1366,otuh1238,lot
-1367,masa1299,myx
-1368,kamw1239,hig
-1369,many1261,mzj
-1370,saya1246,say
-1371,njeb1242,nzb
-1372,tada1238,dsq
-1373,kamb1316,ktb
-1374,otor1240,otr
-1375,tira1254,tic
-1376,nyam1285,nmi
-1377,fali1285,fli
-1378,mawa1270,mcw
-1379,huaa1248,nmn
-1380,koal1240,kib
-1381,kagu1239,kki
-1382,okoo1245,oks
-1383,kung1261,knw
-1384,ghom1247,bbj
-1385,defa1248,afn
-1386,teee1242,tkq
-1387,kips1239,sgc
-1388,pang1287,pbr
-1389,holo1240,hoo
-1390,buli1254,bwu
-1391,bala1302,bjt
-1392,nyam1277,now
-1393,dann1241,daf
-1394,poko1263,pko
-1395,afri1274,afr
-1396,argo1244,agj
-1397,hara1271,har
-1398,dink1262,din
-1399,nzim1238,nzi
-1400,ahan1243,aha
-1401,besl1239,hna
-1402,buwa1243,bhs
-1403,hdii1240,xed
-1404,lama1288,hia
-1405,ikwe1242,ikw
-1406,lagw1237,kot
-1407,gbay1281,gmm
-1408,mbuk1243,mqb
-1409,molo1266,mlw
-1410,muya1243,muy
-1411,ngom1272,jgo
-1412,keme1240,dmo
-1413,nate1242,ntm
-1414,silt1240,stv
-1415,wehh1238,weh
-1416,tuli1249,tey
-1417,keig1242,kec
-1418,kron1241,kgo
-1419,kang1288,kcp
-1420,kang1288,kcp
-1421,katc1249,xtc
-1422,katc1249,xtc
-1423,katc1249,xtc
-1424,moro1284,mgc
-1425,arin1244,luc
-1426,tese1238,keg
-1427,lumu1239,lmd
-1428,ache1245,acz
-1429,toch1257,taz
-1430,dagi1241,dec
-1431,didi1258,did
-1432,luwo1239,lwo
-1433,acol1236,ach
-1434,bela1256,bxb
-1435,bela1255,bvi
-1436,ndog1248,ndz
-1437,bade1248,bde
-1438,fern1234,fpe
-1439,jita1239,jit
-1440,dime1235,dim
-1441,tsot1241,lto
-1442,jams1239,djm
-1443,kamb1297,kam
-1444,bafi1243,ksf
-1445,lang1324,laj
-1446,kisa1263,lks
-1447,nyol1238,nuj
-1448,mwan1247,wmw
-1449,kgal1244,xkv
-1450,tiey1235,boz
-1451,alab1254,alw
-1452,dege1246,deg
-1453,ntch1242,bud
-1454,prin1242,pre
-1455,nkon1248,nko
-1456,sodd1242,gru
-1457,kist1241,gru
-1458,mesq1240,mvz
-1459,seba1251,sgw
-1460,ezha1238,sgw
-1461,chah1248,sgw
-1462,gume1239,sgw
-1463,seba1251,sgw
-1464,seba1251,sgw
-1465,inor1238,ior
-1466,inor1238,ior
-1467,inor1238,ior
-1468,dzuu1241,dnn
-1469,bagi1246,bmi
-1470,ngit1239,niy
-1471,ndal1241,ndh
-1472,meen1242,mym
-1473,ngas1238,nsg
-1474,mbay1241,myb
-1475,gumu1244,guk
-1476,sooo1256,teu
-1477,benc1235,bcq
-1478,benc1235,bcq
-1479,yems1235,jnj
-1480,zays1236,zay
-1481,gamo1243,gmv
-1482,koor1239,kqy
-1483,aari1239,aiw
-1484,komo1258,xom
-1485,uduk1239,udu
-1486,opuu1239,lgn
-1487,kwam1249,kmq
-1488,mayo1261,mdm
-1489,saam1283,lsm
-1490,sout2795,nnw
-1491,nort2795,nde
-1492,saxw1241,sxw
-1493,nari1240,loh
-1494,bidy1244,bjg
-1495,domp1238,doy
-1496,bamb1269,bam
-1497,heib1243,hbn
-1498,koya1253,kga
-1499,shwa1239,shw
-1500,gaaa1245,ttb
-1501,kuan1247,kua
-1502,mbal1255,lnb
-1503,kwam1251,kwm
-1504,ngan1300,nne
-1505,ndon1254,ndo
-1506,ndon1254,ndo
-1507,ndon1254,ndo
-1508,konk1269,xon
-1509,zagh1240,zag
-1510,zayy1238,zwa
-1511,bomi1238,zmx
-1512,nort2819,bbo
-1513,bena1262,bez
-1514,guin1254,gkp
-1515,kaka1265,kke
-1516,lele1266,llc
-1517,loma1260,lom
-1518,mann1248,mev
-1519,kyen1242,tye
-1520,shan1282,sho
-1521,abur1243,abu
-1522,bank1256,abb
-1523,efut1241,afu
-1524,aghe1239,agq
-1525,arbo1245,arv
-1526,abid1235,abi
-1527,adio1239,adj
-1528,tiag1235,ahi
-1529,alla1248,ald
-1530,begb1241,bqv
-1531,ngaz1238,zdj
-1532,akpe1248,ibe
-1533,eten1239,etx
-1534,nuer1246,nus
-1535,kagf1238,gel
-1536,idom1241,idu
-1537,irig1241,iri
-1538,izer1241,izr
-1539,jere1244,jer
-1540,legb1242,agb
-1541,logb1245,lgq
-1542,awng1244,awn
-1543,glav1244,glw
-1544,ahan1244,ahn
-1545,ayer1245,aye
-1546,rong1268,rng
-1547,ndzw1235,wni
-1548,sout2790,biv
-1549,kuwa1246,cwt
-1550,atti1239,ati
-1551,ango1258,aoa
-1552,east2652,hae
-1553,uppe1455,pov
-1554,akoo1248,bss
-1555,baka1273,bqz
-1556,baka1273,bqz
-1557,baka1273,bqz
-1558,mboc1235,mbo
-1559,bass1260,bsi
-1560,mboc1235,mbo
-1561,libe1240,lir
-1562,gagu1242,ggu
-1563,eton1253,eto
-1564,reun1238,rcf
-1565,nucl1440,mls
-1566,saot1239,cri
-1567,nucl1696,tan
-1568,suku1261,suk
-1569,mori1278,mfe
-1570,krio1253,kri
-1571,kitu1246,ktu
-1572,akas1242,aks
-1573,tuki1240,bag
-1574,baka1272,bkc
-1575,bumm1238,bmv
-1576,nucl1683,dbq
-1577,gava1241,gou
-1578,gude1246,gde
-1579,lang1322,lno
-1580,igoo1238,ahl
-1581,kako1242,kkj
-1582,kwan1276,knp
-1583,came1252,mcu
-1584,mere1246,meq
-1585,wand1278,mfi
-1586,chon1287,coh
-1587,digo1243,dig
-1588,duru1249,dug
-1589,giry1241,nyf
-1590,giry1241,nyf
-1591,kamb1298,nyf
-1592,kaum1238,nyf
-1593,giry1241,nyf
-1594,giry1241,nyf
-1595,vame1236,mlr
-1596,mmaa1238,mmu
-1597,mpad1242,mpi
-1598,mofu1248,mif
-1599,mbee1249,mfo
-1600,ncan1245,ncr
-1601,mfum1238,nfu
-1602,njye1238,njy
-1603,buam1238,box
-1604,kwam1250,ktf
-1605,guro1248,goa
-1606,kabu1256,kea
-1607,boun1243,nku
-1608,tsam1247,tsb
-1609,cent2194,tzm
-1610,siwi1239,siz
-1611,ndam1239,ndj
-1612,bare1279,bva
-1613,bare1279,bva
-1614,bare1279,bva
-1615,bare1279,bva
-1616,gaam1241,tbi
-1617,abar1238,mij
-1618,mund1328,boe
-1619,mbuu1238,muc
-1620,kosh1246,kid
-1621,fang1248,fak
-1622,kura1250,knk
-1623,niel1243,nie
-1624,nort3047,gis
-1625,mogh1246,mgo
-1626,mokp1239,bri
-1627,siam1242,sif
-1628,ngie1241,nnh
-1629,nugu1242,yas
-1630,tigo1236,nza
-1631,orma1241,orc
-1632,piny1238,pny
-1633,pana1294,pnz
-1634,reel1238,atu
-1635,wuzl1236,udl
-1636,lese1243,les
-1637,tour1242,neb
-1638,gwen1239,gwe
-1639,sumb1240,suw
-1640,zinz1238,zin
-1641,meru1245,mer
-1642,kahe1238,hka
-1643,hang1260,han
-1644,moch1256,old
-1645,suba1252,ssc
-1646,kway1241,kya
-1647,wawa1246,www
-1648,tach1250,shi
-1649,tuni1251,tug
-1650,ceba1235,sef
-1651,fuli1240,flr
-1652,sand1273,sad
-1653,tsuv1239,tvd
-1654,ejag1239,etu
-1655,yemb1246,ybb
-1656,bafa1249,bfj
-1657,burj1242,bji
-1658,anii1245,blo
-1659,fipa1238,fip
-1660,nawu1242,naw
-1661,anfi1235,myo
-1662,ntom1248,nto
-1663,tumt1243,tbr
-1664,iyiv1238,uiv
-1665,bata1293,btx
-1666,taga1270,tgl
-1667,sout2918,ssb
-1668,kima1244,kqr
-1669,bela1260,beg
-1670,ilok1237,ilo
-1671,east2563,cjm
-1672,mokl1243,mkm
-1673,moke1242,mwt
-1674,nias1242,nia
-1675,java1254,jav
-1676,buol1237,blf
-1677,maka1311,mak
-1678,mori1268,xmz
-1679,kamb1299,xbr
-1680,tetu1245,tet
-1681,leti1246,lti
-1682,east2440,mky
-1683,biak1248,bhw
-1684,ambo1250,abs
-1685,band1353,bpq
-1686,mala1481,xmm
-1687,kupa1239,mkn
-1688,lara1260,lrt
-1689,nort2828,max
-1690,indo1316,ind
-1691,nucl1460,mad
-1692,cebu1242,ceb
-1693,bali1278,ban
-1694,bugi1244,bug
-1695,cent2087,bcl
-1696,hili1240,hil
-1697,pamp1243,pam
-1698,mina1268,min
-1699,pang1290,pag
-1700,teng1272,tes
-1701,abuj1237,mrr
-1702,apuc1241,apq
-1703,anga1288,njm
-1704,aona1235,njo
-1705,apat1240,apt
-1706,assa1263,asm
-1707,awad1243,awa
-1708,bada1257,bfq
-1709,balt1258,bft
-1710,lamb1269,lmn
-1711,beng1280,ben
-1712,bhil1251,bhb
-1713,mund1320,unr
-1714,boro1277,bwo
-1715,brok1247,bkk
-1716,bund1253,bns
-1717,chau1259,cdn
-1718,chok1243,nri
-1719,darm1243,drd
-1720,gata1239,gaq
-1721,gade1236,gda
-1722,galo1242,adl
-1723,garo1247,grt
-1724,guja1253,gju
-1725,guja1252,guj
-1726,bodo1267,gbj
-1727,halb1244,hlb
-1728,hind1269,hin
-1729,hooo1248,hoc
-1730,irul1243,iru
-1731,jaun1243,jns
-1732,juan1238,jun
-1733,kang1280,xnr
-1734,nucl1305,kan
-1735,saur1248,saz
-1736,karb1241,mjw
-1737,irul1243,iru
-1738,kash1277,kas
-1739,jenn1240,xuj
-1740,khar1287,khr
-1741,khas1269,kha
-1742,khez1235,nkh
-1743,koda1255,kfa
-1744,nort2699,kfb
-1745,kond1295,kfc
-1746,mudh1235,gau
-1747,konk1267,knn
-1748,korr1238,kfd
-1749,kork1243,kfq
-1750,kota1263,kfe
-1751,koya1251,kff
-1752,kuii1252,kxu
-1753,kuma1273,kfy
-1754,kuru1302,kru
-1755,kuvi1243,kxv
-1756,lada1244,lbj
-1757,lamb1269,lmn
-1758,lepc1244,lep
-1759,loth1237,njh
-1760,lush1249,lus
-1761,mait1250,mai
-1762,mala1464,mal
-1763,saur1249,mjt
-1764,mani1292,mni
-1765,maon1238,nbi
-1766,mara1378,mar
-1767,miju1243,mxj
-1768,miny1240,mrg
-1769,moyo1238,nmo
-1770,mund1320,unr
-1771,naik1250,nit
-1772,nepa1254,npi
-1773,cent1990,ncb
-1774,pott1240,gdb
-1775,oriy1255,ory
-1776,pait1244,pck
-1777,duru1236,pci
-1778,patt1248,lae
-1779,peng1244,peg
-1780,panj1256,pan
-1781,bond1245,bfw
-1782,sans1269,san
-1783,sant1410,sat
-1784,sumi1235,nsm
-1785,shin1264,scl
-1786,sind1272,snd
-1787,sora1254,srb
-1788,tami1289,tam
-1789,tang1336,nmf
-1790,tase1235,nst
-1791,telu1262,tel
-1792,thad1238,tcz
-1793,toda1252,tcx
-1794,kokb1239,trp
-1795,tulu1258,tcy
-1796,ural1274,url
-1797,urdu1245,urd
-1798,vaag1238,vaa
-1799,ravu1237,yea
-1800,yeru1240,yeu
-1801,qawa1238,alc
-1802,mapu1245,arn
-1803,acha1250,aca
-1804,apur1254,apu
-1805,araw1276,arw
-1806,asha1243,cni
-1807,ajyi1238,cpc
-1808,ashe1272,prq
-1809,pich1237,cpu
-1810,ucay1237,cpb
-1811,bani1255,bwi
-1812,bani1255,bwi
-1813,bare1276,bae
-1814,cabi1241,cbb
-1815,caqu1242,cot
-1816,cham1318,ccc
-1817,curr1243,kpc
-1818,enaw1238,unk
-1819,inap1243,inp
-1820,guan1270,gqn
-1821,mach1268,mpd
-1822,mach1267,mcb
-1823,mehi1240,mmh
-1824,nant1250,cox
-1825,noma1263,not
-1826,pali1279,plu
-1827,para1316,pbg
-1828,pare1272,pab
-1829,piap1246,pio
-1830,resi1247,rgr
-1831,tari1256,tae
-1832,tere1279,ter
-1833,wapi1253,wap
-1834,guar1293,gae
-1835,waur1244,wau
-1836,wayu1243,guc
-1837,xiri1243,xir
-1838,yane1238,ame
-1839,yavi1244,yvt
-1840,yawa1261,yaw
-1841,yine1238,pib
-1842,yucu1253,ycn
-1843,baur1253,brg
-1844,igna1246,ign
-1845,deni1241,dny
-1846,jama1261,jaa
-1847,jama1261,jaa
-1848,culi1244,cul
-1849,paum1247,pad
-1850,suru1263,swx
-1851,cent2142,ayr
-1852,jaqa1244,jqr
-1853,awac1239,kwi
-1854,chac1249,cbi
-1855,guam1248,gum
-1856,colo1256,cof
-1857,bora1263,boa
-1858,mira1254,boa
-1859,muin1242,bmr
-1860,jebe1250,jeb
-1861,chay1248,cbt
-1862,akur1238,ako
-1863,apal1257,apy
-1864,para1310,aap
-1865,baka1277,bkq
-1866,baka1277,bkq
-1867,gali1262,car
-1868,gali1262,car
-1869,gali1262,car
-1870,cari1279,cbd
-1871,hixk1239,hix
-1872,ikpe1245,txi
-1873,akaw1239,ake
-1874,japr1238,jru
-1875,kaxu1237,kbb
-1876,kuik1246,kui
-1877,macu1259,mbc
-1878,mapo1246,mcg
-1879,maqu1238,mch
-1880,enap1235,pbh
-1881,pemo1248,aoc
-1882,pemo1248,aoc
-1883,pemo1245,pev
-1884,trio1238,tri
-1885,waim1253,atr
-1886,waiw1244,waw
-1887,waya1269,way
-1888,yaba1248,yar
-1889,orow1243,orw
-1890,wari1268,pav
-1891,arhu1242,arh
-1892,bari1297,mot
-1893,chib1270,chb
-1894,chim1309,cbg
-1895,cofa1242,con
-1896,cogu1240,kog
-1897,bord1248,kvn
-1898,mala1522,mbp
-1899,cent2150,tuf
-1900,woun1238,noa
-1901,embe1259,bdc
-1902,embe1260,cto
-1903,embe1262,cmi
-1904,nort2972,emp
-1905,epen1239,sja
-1906,puel1244,pue
-1907,onaa1245,ona
-1908,tehu1242,teh
-1909,coca1259,cod
-1910,cuib1242,cui
-1911,guah1255,guh
-1912,guay1257,guo
-1913,maca1259,mbn
-1914,abip1241,axb
-1915,kadi1248,kbc
-1916,moco1246,moc
-1917,pila1245,plg
-1918,toba1269,tob
-1919,toba1269,tob
-1920,amar1274,amr
-1921,chol1284,cht
-1922,ando1256,ano
-1923,abis1238,ash
-1924,cams1241,kbh
-1925,cand1248,cbu
-1926,cayu1262,cyb
-1927,iran1263,irn
-1928,iton1250,ito
-1929,leco1242,lec
-1930,lule1238,ule
-1931,moch1259,omc
-1932,movi1243,mzp
-1933,muni1258,myr
-1934,paez1247,pbb
-1935,puin1248,pui
-1936,taus1253,trr
-1937,ticu1245,tca
-1938,tini1245,tit
-1939,trum1247,tpy
-1940,urar1246,ura
-1941,vile1241,vil
-1942,waor1240,auc
-1943,wara1303,wba
-1944,yama1264,yag
-1945,yura1255,yuz
-1946,achu1248,acu
-1947,agua1253,agr
-1948,huam1247,hub
-1949,shua1257,jiv
-1950,cacu1241,cbv
-1951,nuka1242,mbr
-1952,nucl1668,kav
-1953,apin1244,apn
-1954,arik1265,ark
-1955,boro1282,bor
-1956,cane1242,ram
-1957,chiq1248,cax
-1958,para1315,gvp
-1959,guat1253,gta
-1960,djeo1235,jbt
-1961,kain1272,kgp
-1962,kara1500,kpj
-1963,kaya1330,txu
-1964,krah1246,xra
-1965,kren1239,kqq
-1966,krik1239,xri
-1967,maxa1247,mbl
-1968,ofay1240,opy
-1969,pana1307,kre
-1970,para1315,gvp
-1971,puri1262,prr
-1972,rikb1245,rkb
-1973,suya1243,suy
-1974,suya1243,suy
-1975,umot1240,umo
-1976,xava1240,xav
-1977,xere1240,xer
-1978,xokl1240,xok
-1979,fuln1247,fun
-1980,saop1235,zkp
-1981,iyow1239,crq
-1982,maca1260,mca
-1983,niva1238,cag
-1984,wich1264,mtp
-1985,call1235,caw
-1986,mose1249,cas
-1987,mose1249,cas
-1988,mose1249,cas
-1989,pira1253,myp
-1990,daww1239,kwa
-1991,hupd1244,jup
-1992,nade1244,mbj
-1993,yuhu1238,yab
-1994,khit1238,nab
-1995,latu1238,ltn
-1996,mama1278,wmd
-1997,saba1268,sae
-1998,amah1246,amc
-1999,shar1245,mcd
-2000,capa1241,kaq
-2001,cash1251,cbr
-2002,chac1251,cao
-2003,cash1254,cbs
-2004,pano1254,knt
-2005,kaxa1239,ktx
-2006,koru1247,xor
-2007,mati1255,mpq
-2008,mats1244,mcf
-2009,nuku1263,nuc
-2010,pano1255,pno
-2011,poya1241,pyn
-2012,yami1256,yaa
-2013,shan1283,swo
-2014,shar1245,mcd
-2015,ship1255,shp
-2016,yami1256,yaa
-2017,yawa1260,ywn
-2018,yora1241,mts
-2019,yagu1244,yad
-2020,yame1242,yme
-2021,coro1247,qwa
-2022,caja1238,qvc
-2023,chac1250,quk
-2024,cusc1236,quz
-2025,lamb1276,quf
-2026,imba1240,qvi
-2027,inga1252,inb
-2028,jung1240,inj
-2029,jauj1238,qxw
-2030,nort2980,qvn
-2031,nort2980,qvn
-2032,ayac1239,quy
-2033,nort2976,qul
-2034,hual1241,qub
-2035,nort2979,qxn
-2036,sanm1289,qvs
-2037,nort2980,qvn
-2038,sant1432,qus
-2039,napo1242,qvo
-2040,sala1272,qxl
-2041,tena1240,quw
-2042,piar1243,pid
-2043,sali1298,slc
-2044,arao1248,aro
-2045,cavi1250,cav
-2046,esee1248,ese
-2047,esee1248,ese
-2048,reye1240,rey
-2049,taca1256,tna
-2050,bara1380,bsn
-2051,cube1242,cub
-2052,desa1247,des
-2053,guan1269,gvc
-2054,cara1272,cbc
-2055,kore1283,coe
-2056,macu1260,myy
-2057,orej1242,ore
-2058,pira1254,pir
-2059,seco1241,sey
-2060,sion1247,snn
-2061,siri1274,sri
-2062,tani1257,tnc
-2063,tatu1247,tav
-2064,tuca1252,tuo
-2065,tuyu1244,tue
-2066,waim1255,bao
-2067,yuru1263,yui
-2068,ache1246,guq
-2069,akun1241,aqz
-2070,amun1246,adw
-2071,apia1248,api
-2072,araw1273,awt
-2073,xing1248,asn
-2074,toca1235,asu
-2075,avac1239,avv
-2076,awet1244,awe
-2077,east2555,gui
-2078,east2555,gui
-2079,emer1243,eme
-2080,gavi1246,gvo
-2081,guaj1256,gvj
-2082,guaj1255,gub
-2083,mbya1239,gun
-2084,para1311,gug
-2085,guar1292,gyr
-2086,juma1249,jua
-2087,juru1256,jur
-2088,urub1250,urb
-2089,kaiw1246,kgk
-2090,kama1373,kay
-2091,kari1311,ktn
-2092,karo1306,arr
-2093,kaya1329,kyz
-2094,kuru1309,kyr
-2095,maku1278,mpu
-2096,mund1330,myu
-2097,nhen1239,yrl
-2098,omag1248,omg
-2099,pait1247,pta
-2100,para1312,pak
-2101,saki1248,skf
-2102,sate1243,mav
-2103,suru1262,sru
-2104,tapi1253,tpj
-2105,tapi1254,taf
-2106,temb1276,tqb
-2107,tenh1241,pah
-2108,tupa1250,tpr
-2109,tupi1273,tpn
-2110,urue1240,urz
-2111,waya1270,oym
-2112,waya1270,oym
-2113,xeta1241,xet
-2114,xipa1240,xiy
-2115,zoee1240,pto
-2116,siri1273,srq
-2117,yuqu1240,yuq
-2118,aika1237,tba
-2119,mato1253,axg
-2120,yuwa1244,yau
-2121,kano1245,kxo
-2122,kari1255,kzw
-2123,kunz1244,kuz
-2124,kwaz1243,xwa
-2125,pume1238,yae
-2126,chip1262,cap
-2127,uruu1244,ure
-2128,mini1256,hto
-2129,muru1274,huu
-2130,nonu1241,noj
-2131,ocai1244,oca
-2132,nina1238,shb
-2133,sanu1240,xsu
-2134,yano1262,wca
-2135,yano1261,guu
-2136,cham1315,ceg
-2137,ayor1240,ayo
-2138,ando1255,anb
-2139,arab1268,arl
-2140,iqui1243,iqu
-2141,zapa1253,zro
-2142,chir1286,nhd
-2143,pisa1245,mis
-2144,qawa1238,alc
-2145,cent2142,ayr
-2146,yano1262,wca
-2147,yano1262,wca
-2148,sanu1240,xsu
-2149,yano1261,guu
-2150,yaro1235,yro
-2151,yano1261,guu
-2152,paca1246,pcp
-2153,yukp1241,yup
-2154,yukp1241,yup
-2155,trin1274,trn
-2156,amha1245,amh
-2157,stan1318,arb
-2158,east2379,aer
-2159,assa1263,asm
-2160,bard1255,bcj
-2161,basq1248,eus
-2162,beng1280,ben
-2163,bulg1262,bul
-2164,nucl1310,mya
-2165,hakk1236,hak
-2166,yuec1235,yue
-2167,dani1285,dan
-2168,sout2832,dik
-2169,dutc1256,nld
-2170,dutc1256,nld
-2171,dutc1256,nld
-2172,dutc1256,nld
-2173,dutc1256,nld
-2174,dutc1256,nld
-2175,stan1293,eng
-2176,stan1293,eng
-2177,stan1293,eng
-2178,stan1293,eng
-2179,stan1293,eng
-2180,stan1293,eng
-2181,esto1258,ekk
-2182,stan1290,fra
-2183,nucl1302,kat
-2184,stan1295,deu
-2185,swis1247,gsw
-2186,mode1248,ell
-2187,mode1248,ell
-2188,haus1257,hau
-2189,hebr1245,heb
-2190,hind1269,hin
-2191,hung1274,hun
-2192,nucl1417,ibo
-2193,iris1253,gle
-2194,ladi1251,lad
-2195,ital1282,ita
-2196,nucl1643,jpn
-2197,kore1280,kor
-2198,kuna1268,kun
-2199,ersu1241,ers
-2200,luxe1241,ltz
-2201,besi1244,mhe
-2202,mafe1237,mkv
-2203,nara1262,nrb
-2204,nepa1254,npi
-2205,west2369,pes
-2206,port1283,por
-2207,port1283,por
-2208,cent2092,sml
-2209,slov1269,slk
-2210,stan1288,spa
-2211,sumi1235,nsm
-2212,taus1251,tsg
-2213,timn1235,tem
-2214,tera1251,ttr
-2215,thai1261,tha
-2216,sanm1298,trq
-2217,nucl1301,tur
-2218,isth1244,zai
-2219,taji1245,tgk
-2220,kera1255,ker
-2221,kumz1235,zum
-2222,coco1260,coa
-2223,stan1306,zsm
-2224,plau1238,pdt
-2225,keda1250,kxd
-2226,pitj1243,pjt
-2227,sout2672,psi
-2228,vlax1238,rmy
-2229,tach1250,shi
-2230,shix1238,sxg
-2231,shix1238,sxg
-2232,uppe1400,sxu
-2233,viet1252,vie
-2234,pite1240,sje
-2235,nort2671,sme
-2236,belh1239,byw
-2237,hunz1247,huz
-2238,even1259,evn
-2239,hmon1264,hnj
-2240,udmu1245,udm
-2241,east2328,mhr
-2242,east2337,yuy
-2243,moks1248,mdf
-2244,lith1251,lit
-2245,moks1248,mdf
-2246,laoo1244,lao
-2247,rajb1243,rjs
-2248,esto1258,ekk
-2249,bakh1245,bqi
-2250,cent1972,ckb
-2251,ingu1240,inh
-2252,stan1293,eng
-2253,dupa1235,duo
-2254,lazz1240,lzz
-2255,dolg1241,dlg
-2256,dark1243,khk
-2257,jiar1240,jya
-2258,juan1238,jun
-2259,sout2697,azb
-2260,kild1236,sjd
-2261,russ1263,rus
-2262,iris1253,gle
-2263,lowa1242,loy
-2264,stod1241,sbu
-2265,dani1285,dan
-2266,taji1245,tgk
-2267,yong1270,nru
-2268,bese1243,udm
-2269,stan1290,fra
-2270,ishk1246,isk
-2271,khan1273,kca
-2272,swis1247,gsw
-2273,west2392,mrj
-2274,czec1258,ces
-2275,malt1254,mlt
-2276,chec1245,che
-2277,nucl1305,kan
-2278,mira1251,mwl
-2279,khan1273,kca
-2280,tsha1245,tsj
-2281,chal1275,cld
-2282,lith1251,lit
-2283,osse1243,oss
-2284,jude1256,jdt
-2285,ladi1251,lad
-2286,nort2745,ykg
-2287,kore1280,kor
-2288,even1260,eve
-2289,munj1244,mnj
-2290,brah1256,brh
-2291,nauk1242,ynk
-2292,even1259,evn
-2293,kuvi1243,kxv
-2294,thak1245,ths
-2295,mund1320,unr
-2296,nort2697,azj
-2297,itel1242,itl
-2298,puxi1242,jih
-2299,bujh1238,byh
-2300,lazz1240,lzz
-2301,kang1281,kxs
-2302,mait1250,mai
-2303,stan1288,spa
-2304,roma1326,roh
-2305,bond1245,bfw
-2306,balt1258,bft
-2307,sher1255,xsr
-2308,stan1288,spa
-2309,yuec1235,yue
-2310,kaba1278,kbd
-2311,lezg1247,lez
-2312,daur1238,dta
-2313,huml1238,hut
-2314,nort2741,tts
-2315,dhiv1236,div
-2316,lith1251,lit
-2317,russ1264,bxr
-2318,kara1467,kaa
-2319,lahu1253,lhu
-2320,laoo1244,lao
-2321,nort2646,pbu
-2322,cent1973,pst
-2323,hakk1236,hak
-2324,osse1243,oss
-2325,ligu1248,lij
-2326,voti1245,vot
-2327,kham1282,khg
-2328,kham1282,khg
-2329,dido1241,ddo
-2330,wymy1235,wym
-2331,gaga1249,gag
-2332,nort2647,pbu
-2333,sout2746,sou
-2334,friu1240,fur
-2335,lakk1252,lbe
-2336,kuni1268,xug
-2337,luxe1241,ltz
-2338,nucl1310,mya
-2339,saur1249,mjt
-2340,basq1248,eus
-2341,lazz1240,lzz
-2342,nepa1254,npi
-2343,rusy1239,rue
-2344,guru1261,gvr
-2345,west2368,bgn
-2346,baim1244,bqh
-2347,besi1244,mhe
-2348,west2368,bgn
-2349,adyg1241,ady
-2350,dakp1242,dka
-2351,osse1243,oss
-2352,lizu1234,mis
-2353,udmu1245,udm
-2354,bett1235,xub
-2355,kumy1244,kum
-2356,chan1310,chx
-2357,bhoj1244,bho
-2358,gheg1238,aln
-2359,hooo1248,hoc
-2360,rawa1265,raw
-2361,saek1240,skb
-2362,chuk1273,ckt
-2363,mace1250,mkd
-2364,pare1266,pcj
-2365,taus1251,tsg
-2366,lada1244,lbj
-2367,shan1277,shn
-2368,bulg1262,bul
-2369,spit1240,spt
-2370,gily1242,niv
-2371,lazz1240,lzz
-2372,nort2686,atv
-2373,atay1247,tay
-2374,luuu1242,khb
-2375,arag1245,arg
-2376,khan1273,kca
-2377,brah1256,brh
-2378,faro1244,fao
-2379,dzal1238,dzl
-2380,tibe1272,bod
-2381,basq1250,eus
-2382,kirg1245,kir
-2383,darm1243,drd
-2384,komi1277,kom
-2385,laoo1244,lao
-2386,puoc1238,puo
-2387,telu1262,tel
-2388,east2773,mis
-2389,osse1243,oss
-2390,bats1242,bbl
-2391,hela1238,scp
-2392,svan1243,sva
-2393,kyer1238,kgy
-2394,dzon1239,dzo
-2395,kett1243,ket
-2396,wayu1241,vay
-2397,paiw1248,pwn
-2398,stan1295,deu
-2399,east2295,ydd
-2400,udmu1245,udm
-2401,kaba1278,kbd
-2402,nene1249,yrk
-2403,kara1464,kdr
-2404,varl1238,vav
-2405,dutc1256,nld
-2406,wels1247,cym
-2407,japh1234,jya
-2408,osse1243,oss
-2409,ming1252,xmf
-2410,lazz1240,lzz
-2411,tibe1272,bod
-2412,alut1245,alr
-2413,east2328,mhr
-2414,nort2741,tts
-2415,sikk1242,sip
-2416,nucl1301,tur
-2417,ming1252,xmf
-2418,yagn1238,yai
-2419,basq1248,eus
-2420,zhon1235,mis
-2421,tibe1272,bod
-2422,nort2741,tts
-2423,shan1277,shn
-2424,osse1243,oss
-2425,stan1289,cat
-2426,nyaw1245,nyw
-2427,ital1282,ita
-2428,nucl1302,kat
-2429,nort2722,cng
-2430,cebu1242,ceb
-2431,cent1973,pst
-2432,osse1243,oss
-2433,khak1248,kjh
-2434,vach1239,mis
-2435,gata1239,gaq
-2436,ming1252,xmf
-2437,sind1272,snd
-2438,arbe1236,aae
-2439,kurt1248,xkz
-2440,kara1474,kpt
-2441,norw1258,nor
-2442,sout2679,vro
-2443,roma1327,ron
-2444,yaku1245,sah
-2445,nort2699,kfb
-2446,kare1335,krl
-2447,slov1269,slk
-2448,livv1244,liv
-2449,hebr1245,heb
-2450,fore1274,mis
-2451,east2347,taj
-2452,guja1252,guj
-2453,miya1259,mvi
-2454,maga1260,mag
-2455,slov1268,slv
-2456,puri1258,prx
-2457,mand1415,cmn
-2458,mode1248,ell
-2459,kama1351,xas
-2460,komi1268,kpv
-2461,ngan1291,nio
-2462,viet1252,vie
-2463,dhim1246,dhi
-2464,mong1331,mon
-2465,andi1255,ani
-2466,urdu1245,urd
-2467,avar1256,ava
-2468,abkh1244,abk
-2469,fore1265,enf
-2470,west2354,fry
-2471,taid1249,tyr
-2472,sout2746,sou
-2473,elfd1234,ovd
-2474,chen1255,cde
-2475,mans1258,mns
-2476,osse1243,oss
-2477,dong1285,sce
-2478,occi1239,oci
-2479,panj1256,pan
-2480,czec1258,ces
-2481,kond1303,knd
-2482,nene1249,yrk
-2483,sich1238,iii
-2484,nort2641,kmr
-2485,selk1253,sel
-2486,nort2722,cng
-2487,arbe1236,aae
-2488,lith1251,lit
-2489,kham1282,khg
-2490,veps1250,vep
-2491,merg1238,tvn
-2492,nort2741,tts
-2493,stan1325,lvs
-2494,ters1235,sjt
-2495,oriy1255,ory
-2496,nort2741,tts
-2497,pite1240,sje
-2498,east2304,bgp
-2499,serb1264,srp
-2500,bash1264,bak
-2501,tuuu1240,mjg
-2502,shum1243,scu
-2503,ukra1253,ukr
-2504,lowa1242,loy
-2505,scot1243,sco
-2506,east2328,mhr
-2507,shan1277,shn
-2508,sind1272,snd
-2509,osse1243,oss
-2510,mehr1241,gdq
-2511,khar1287,khr
-2512,chec1245,che
-2513,taga1270,tgl
-2514,wakh1245,wbl
-2515,stan1293,eng
-2516,astu1245,ast
-2517,phut1244,pht
-2518,nort2740,nod
-2519,kham1282,khg
-2520,west2369,pes
-2521,iris1253,gle
-2522,sher1255,xsr
-2523,sala1264,slr
-2524,lezg1247,lez
-2525,kham1282,khg
-2526,sora1254,srb
-2527,walu1241,ola
-2528,kork1243,kfq
-2529,pamp1243,pam
-2530,doma1258,rmt
-2531,phut1244,pht
-2532,east2328,mhr
-2533,ersu1241,ers
-2534,amdo1237,adx
-2535,finn1318,fin
-2536,udmu1245,udm
-2537,khal1271,tks
-2538,west2408,mut
-2539,shix1238,sxg
-2540,kara1462,kim
-2541,uppe1395,hsb
-2542,hind1269,hin
-2543,pott1240,gdb
-2544,east2347,taj
-2545,sout2642,bcc
-2546,camp1261,sro
-2547,tulu1258,tcy
-2548,acha1249,acn
-2549,chec1245,che
-2550,sant1410,sat
-2551,shan1277,shn
-2552,abkh1244,abk
-2553,amdo1237,adx
-2554,swed1254,swe
-2555,stan1289,cat
-2556,tuuu1240,mjg
-2557,hung1274,hun
-2558,tibe1272,bod
-2559,mala1464,mal
-2560,axiy1235,yix
-2561,buru1296,bsk
-2562,mind1253,cdo
-2563,temi1246,tea
-2564,uppe1400,sxu
-2565,ghod1238,gdo
-2566,skol1241,sms
-2567,jahh1242,jah
-2568,icel1247,isl
-2569,vlax1238,rmy
-2570,udih1248,ude
-2571,astu1245,ast
-2572,tain1252,tdd
-2573,sout2746,sou
-2574,chec1245,che
-2575,komi1269,koi
-2576,bodo1267,gbj
-2577,buru1296,bsk
-2578,lisu1250,lis
-2579,tuvi1240,tyv
-2580,kara1474,kpt
-2581,west2392,mrj
-2582,taid1248,tyj
-2583,basq1248,eus
-2584,bret1244,bre
-2585,sout2729,pmj
-2586,sout2436,pbt
-2587,kham1282,khg
-2588,bona1250,peh
-2589,wane1241,wne
-2590,digo1242,oss
-2591,kham1282,khg
-2592,tosk1239,als
-2593,east2282,ltg
-2594,stan1289,cat
-2595,turk1304,tuk
-2596,jerr1238,nrf
-2597,cent1989,khm
-2598,assa1263,asm
-2599,kalm1243,xal
-2600,kham1282,khg
-2601,scot1245,gla
-2602,lowe1385,dsb
-2603,nene1249,yrk
-2604,poli1260,pol
-2605,suii1243,swi
-2606,ilok1237,ilo
-2607,najd1235,ars
-2608,akha1245,ahk
-2609,tata1255,tat
-2610,kaba1278,kbd
-2611,tami1289,tam
-2612,uigh1240,uig
-2613,buru1296,bsk
-2614,amdo1237,adx
-2615,basq1248,eus
-2616,erzy1239,myv
-2617,narp1239,npa
-2618,west2368,bgn
-2619,gali1258,glg
-2620,mana1288,nmm
-2621,sheh1240,shv
-2622,west2368,bgn
-2623,port1283,por
-2624,beng1280,ben
-2625,sout2750,yux
-2626,osse1243,oss
-2627,pnar1238,pbv
-2628,nyaw1245,nyw
-2629,bura1267,bvr
-2630,buna1275,bck
-2631,goon1238,gni
-2632,madn1237,zml
-2633,mull1237,mpb
-2634,murr1259,mwf
-2635,nang1259,nam
-2636,wadj1254,wdj
-2637,mari1417,zmm
-2638,mari1419,zmt
-2639,mari1424,mfr
-2640,mart1254,zmg
-2641,amii1238,amy
-2642,lara1258,lrg
-2643,nucl1327,lmc
-2644,umbu1235,umr
-2645,gara1269,wrk
-2646,wany1247,wny
-2647,gara1269,wrk
-2648,erre1238,err
-2649,mang1382,zme
-2650,urni1239,urc
-2651,anin1240,aoi
-2652,ngal1292,ngk
-2653,gaga1251,gbu
-2654,ngal1293,nig
-2655,ngan1295,nid
-2656,gund1246,gup
-2657,gund1246,gup
-2658,gune1238,gup
-2659,mura1269,gup
-2660,guma1252,gup
-2661,naia1238,gup
-2662,djau1244,djn
-2663,remb1249,rmb
-2664,wara1290,wrz
-2665,nung1290,nuy
-2666,amar1271,amg
-2667,marg1251,mhg
-2668,wurr1238,wur
-2669,maun1240,mph
-2670,gari1254,ilg
-2671,ilga1238,ilg
-2672,iwai1244,ibd
-2673,miri1266,mep
-2674,kitj1240,gia
-2675,kung1259,ggk
-2676,djee1236,djj
-2677,gura1252,gge
-2678,naka1260,nck
-2679,mara1385,mec
-2680,wand1263,wnd
-2681,alaw1244,alh
-2682,mang1381,mpc
-2683,djam1255,djd
-2684,ngal1294,djd
-2685,nung1291,nug
-2686,ngar1283,nji
-2687,djin1251,jig
-2688,binb1242,wmb
-2689,guda1243,wmb
-2690,wamb1258,wmb
-2691,mink1237,mis
-2692,ngum1253,xnm
-2693,nyig1240,nyh
-2694,warr1258,wwr
-2695,dyug1238,dyd
-2696,yawu1244,ywr
-2697,bard1255,bcj
-2698,nima1245,nmp
-2699,dyab1238,dyb
-2700,djaw1238,djw
-2701,nyul1247,nyv
-2702,alya1239,aly
-2703,east2380,amx
-2704,west2442,amx
-2705,ande1247,adg
-2706,mpar1238,aer
-2707,ayer1246,axe
-2708,east2379,aer
-2709,lowe1436,axl
-2710,west2441,are
-2711,kayt1238,gbb
-2712,yugu1249,xjb
-2713,gida1240,gih
-2714,guwa1244,mis
-2715,minj1242,xjb
-2716,waal1238,bdy
-2717,bung1264,xbg
-2718,warr1257,gjm
-2719,gami1243,kld
-2720,muru1266,zmu
-2721,wang1291,wyb
-2722,wayi1238,wyb
-2723,wira1262,wrh
-2724,wirr1237,kld
-2725,yuwa1242,kld
-2726,yuwa1243,kld
-2727,dhud1236,ddr
-2728,jand1248,jan
-2729,NA,mis
-2730,yaga1262,yxg
-2731,yaga1262,yxg
-2732,dyir1250,dbl
-2733,warr1255,wgy
-2734,kumb1268,kgs
-2735,kumb1268,kgs
-2736,yayg1236,xya
-2737,guwa1242,xgw
-2738,yand1251,yda
-2739,kalk1246,ktg
-2740,yala1262,ylr
-2741,bayu1240,bxj
-2742,burd1238,bxn
-2743,dhal1245,dhl
-2744,djiw1241,dze
-2745,dhar1247,dhr
-2746,thii1234,iin
-2747,wari1262,wri
-2748,mith1236,mis
-2749,dier1241,dif
-2750,dira1238,dif
-2751,kara1508,nmv
-2752,ngam1284,nmv
-2753,pirl1238,bxi
-2754,yand1253,ynd
-2755,nhir1234,hrp
-2756,yawa1258,yww
-2757,dier1241,dif
-2758,punt1240,xpt
-2759,wong1246,xwk
-2760,wong1246,xwk
-2761,arab1267,ard
-2762,wang1290,wgg
-2763,pitt1247,pit
-2764,wang1289,wnm
-2765,kuun1236,lku
-2766,pirr1240,xpa
-2767,kala1380,gll
-2768,badi1246,bia
-2769,malg1242,vml
-2770,nhan1238,nha
-2771,waja1257,wbv
-2772,ying1247,yia
-2773,cola1237,mis
-2774,daun1234,dgw
-2775,woiw1237,wyi
-2776,wath1238,wth
-2777,woiw1237,wyi
-2778,yari1243,mis
-2779,ladj1234,llj
-2780,madh1244,dmd
-2781,wadi1260,xwd
-2782,west2443,mis
-2783,djad1246,mis
-2784,nari1241,rnr
-2785,djab1234,tjw
-2786,wemb1241,xww
-2787,wotj1234,xwt
-2788,gana1268,ihw
-2789,gana1278,unn
-2790,gana1278,unn
-2791,gana1278,unn
-2792,kera1256,mis
-2793,lowe1402,mis
-2794,ngin1247,mis
-2795,narr1259,nay
-2796,yith1234,xth
-2797,bidy1243,bym
-2798,gang1268,gnl
-2799,biri1256,bzr
-2800,biri1256,bzr
-2801,gang1268,gnl
-2802,gang1268,gnl
-2803,gang1268,gnl
-2804,biri1256,bzr
-2805,biri1256,bzr
-2806,biri1256,bzr
-2807,biri1256,bzr
-2808,biri1256,bzr
-2809,gang1268,gnl
-2810,biri1256,bzr
-2811,biri1256,bzr
-2812,bidy1243,bym
-2813,dhar1248,xgm
-2814,gung1248,gyf
-2815,kung1258,kgl
-2816,guny1241,gyy
-2817,marg1253,zmc
-2818,gudj1237,mis
-2819,gugu1253,gdc
-2820,waru1264,wrg
-2821,bidy1243,bym
-2822,biri1256,bzr
-2823,bidy1243,bym
-2824,bidy1243,bym
-2825,kara1476,gbd
-2826,mang1383,mem
-2827,nyan1301,nna
-2828,guga1239,ggd
-2829,mayi1236,xyk
-2830,maya1280,xmy
-2831,ngaw1240,nxn
-2832,mayi1235,xyj
-2833,ngaw1240,nxn
-2834,ngaw1240,nxn
-2835,kala1379,kba
-2836,kala1401,lkm
-2837,ngad1258,nju
-2838,ngad1258,nju
-2839,kari1304,vka
-2840,kurr1243,vku
-2841,mart1255,vma
-2842,yinh1234,ywg
-2843,ngar1287,nrl
-2844,nhuw1239,nhf
-2845,nyam1271,nly
-2846,nija1241,xny
-2847,nija1241,xny
-2848,pany1241,pnw
-2849,yind1247,yij
-2850,yind1247,yij
-2851,bili1250,nbj
-2852,wany1244,gue
-2853,guri1247,gue
-2854,jaru1254,ddj
-2855,maln1239,gue
-2856,mudb1240,mwd
-2857,ngar1288,rxd
-2858,ngar1235,nbj
-2859,walm1241,wmt
-2860,warl1255,wrl
-2861,warl1254,wbp
-2862,nyaw1247,nyt
-2863,wulg1239,qgu
-2864,nyun1247,nys
-2865,bibb1234,xbp
-2866,gore1235,xgg
-2867,kani1276,nys
-2868,nyun1247,nys
-2869,pinj1244,pnj
-2870,ward1248,wxw
-2871,waju1234,xwj
-2872,nyun1247,nys
-2873,nyun1247,nys
-2874,nyun1247,nys
-2875,band1337,drl
-2876,darl1243,drl
-2877,pall1243,pmd
-2878,ikar1243,ikr
-2879,ikar1243,ikr
-2880,aghu1254,ggr
-2881,thay1248,typ
-2882,kawa1290,mis
-2883,kawa1290,mis
-2884,angu1242,awg
-2885,kuku1273,gvn
-2886,gugu1255,kky
-2887,kuku1273,gvn
-2888,mulu1243,vmu
-2889,kuku1273,gvn
-2890,dyaa1242,dyy
-2891,yidi1250,yii
-2892,barr1247,bpt
-2893,djan1238,djf
-2894,lamu1254,lby
-2895,mbar1253,zmv
-2896,wikm1247,wim
-2897,wikn1245,wig
-2898,ayab1239,ayd
-2899,wikn1246,wua
-2900,kuuk1238,kuy
-2901,paka1251,pkn
-2902,umpi1239,ump
-2903,ayab1239,ayd
-2904,kokn1236,gko
-2905,gurd1238,gdj
-2906,kuth1240,xut
-2907,wala1263,mis
-2908,alng1239,aid
-2909,arit1239,dth
-2910,ndra1239,dgt
-2911,tyan1235,mis
-2912,leni1238,lnj
-2913,luth1234,mis
-2914,mbiy1238,mis
-2915,mpal1238,xpj
-2916,ngko1236,mis
-2917,atam1239,amz
-2918,angg1238,avm
-2919,atam1239,amz
-2920,yadh1237,mis
-2921,yinw1236,yxm
-2922,gugu1254,kkp
-2923,thay1249,thd
-2924,ulku1238,kjn
-2925,yiry1245,yiy
-2926,wami1239,wmi
-2927,mbar1254,mvl
-2928,mbab1239,vmb
-2929,umbu1256,umg
-2930,oyka1239,kjn
-2931,adny1235,adt
-2932,kaur1267,zku
-2933,nugu1241,nnv
-2934,wira1265,wgu
-2935,bang1339,bjb
-2936,naru1238,nnr
-2937,koka1244,ktd
-2938,gure1255,gnr
-2939,gure1255,gnr
-2940,kabi1260,gbw
-2941,gabi1248,gbw
-2942,kabi1260,gbw
-2943,duun1241,wkw
-2944,waka1274,wkw
-2945,wuli1242,wlu
-2946,bula1255,mis
-2947,waga1260,wga
-2948,warl1256,wrb
-2949,waga1260,wga
-2950,yany1243,jao
-2951,waru1265,wrm
-2952,kart1247,mpj
-2953,many1256,mpj
-2954,pudi1238,mpj
-2955,wang1288,mpj
-2956,yulp1239,mis
-2957,wanm1242,wbt
-2958,anta1253,ant
-2959,kuka1246,kux
-2960,pitj1243,pjt
-2961,ngar1296,nrk
-2962,ngaa1240,ntj
-2963,pint1250,piu
-2964,pitj1243,pjt
-2965,yank1247,kdd
-2966,kala1378,mwp
-2967,kala1377,mwp
-2968,maly1234,yga
-2969,wadi1261,wdk
-2970,yard1234,yxl
-2971,dhan1270,dhg
-2972,gupa1247,guf
-2973,dhal1246,dax
-2974,djam1256,djr
-2975,guma1253,gnn
-2976,djin1253,dji
-2977,djin1252,djb
-2978,yann1237,jay
-2979,rita1239,rit
-2980,yort1237,xyy
-2981,yort1237,xyy
-2982,biga1237,xbe
-2983,yuga1244,yub
-2984,hawk1239,xda
-2985,sydn1236,xdk
-2986,sydn1236,xdk
-2987,awab1243,awk
-2988,west2443,mis
-2989,wori1245,kda
-2990,ngan1296,nyx
-2991,dyan1250,dyn
-2992,djap1238,duj
-2993,thur1254,tbh
-2994,thur1254,tbh
-2995,dhur1239,dhu
-2996,sout2771,xtv
-2997,gund1248,xrd
-2998,ngar1297,xni
-2999,sout2770,mis
-3000,sout2771,xtv
-3001,gang1267,gcd
-3002,kaya1319,gyd
-3003,lard1243,lbz
-3004,kaya1319,gyd
-3005,tiwi1244,tiw
-3006,wage1238,waq
-3007,ngar1284,ung
-3008,gamb1251,gma
-3009,kwin1241,gww
-3010,wuna1249,wub
-3011,umii1236,xud
-3012,ungg1243,xgu
-3013,worr1237,wro
-3014,yawi1239,jbw
-3015,ward1246,wrr
-3016,yang1288,jng
-3017,guwa1243,gwu
-3018,west2437,wbp
-3019,werg1234,weg
-3020,lamu1254,lby
+InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
+1,kore1280,kor,Korean,NA
+2,kett1243,ket,Ket,NA
+3,lakk1252,lbe,Lak,NA
+4,kaba1278,kbd,Kabardian,NA
+5,nucl1302,kat,Georgian,NA
+6,buru1296,bsk,Burushaski,NA
+7,kuru1302,kru,Kurukh,NA
+8,telu1262,tel,Telugu,NA
+9,kota1263,kfe,Kota,NA
+10,mund1320,unr,Mundari,NA
+11,khar1287,khr,Kharia,NA
+12,khas1269,kha,Khasi,NA
+13,seda1262,sed,Sedang,NA
+14,cent1989,khm,Cambodian,NA
+15,viet1252,vie,Vietnamese,NA
+16,mand1415,cmn,Mandarin Chinese,NA
+17,wuch1236,wuu,Wu,NA
+18,hakk1236,hak,Hakka,NA
+19,yuec1235,yue,Cantonese,NA
+20,iumi1238,ium,Yao,NA
+21,nyis1236,njz,Dafla,NA
+22,nucl1310,mya,Burmese,NA
+23,lahu1253,lhu,Lahu,NA
+24,garo1247,grt,Garo,NA
+25,sgaw1245,ksw,Karen,NA
+26,lakk1238,lbc,Lakkia,NA
+27,thai1261,tha,Thai,NA
+28,bouy1240,pcc,Yay,NA
+29,east2563,cjm,Cham,NA
+30,atay1247,tay,Atayal,NA
+31,plat1254,plt,Malagasy,NA
+32,stan1306,zsm,Malay,NA
+33,bata1289,bbc,Batak,NA
+34,saba1265,snv,Sa'ban,NA
+35,sund1252,sun,Sundanese,NA
+36,java1254,jav,Javanese,NA
+37,taga1270,tgl,Tagalog,NA
+38,cham1312,cha,Chamorro,NA
+39,iaai1238,iai,Iai,NA
+40,kali1299,khl,Kaliai,NA
+41,adze1240,adz,Adzera,NA
+42,maor1246,mri,Maori,NA
+43,hawa1245,haw,Hawaiian,NA
+44,anta1253,ant,Western Desert,NA
+45,nyan1301,nna,Nyangumata,NA
+46,kunj1245,kjn,Kunjen,NA
+47,mara1386,zmr,Maranungku,NA
+48,maun1240,mph,Maung,NA
+49,nung1290,nuy,Nunggubuyu,NA
+50,alaw1244,alh,Alawa,NA
+51,wikm1247,wim,Wik-Munkan,NA
+52,nucl1632,set,Sentani,NA
+53,kwom1262,kmo,Washkuk,NA
+54,tamn1235,tml,Asmat,NA
+55,tele1256,tlf,Telefol,NA
+56,gads1258,gaj,Gadsup,NA
+57,awiy1238,auy,Auyana,NA
+58,kuni1267,kup,Kunimaipa,NA
+59,sele1250,spl,Selepet,NA
+60,naas1242,nas,Nasioi,NA
+61,aleu1260,ale,Aleut,NA
+62,kala1399,kal,Inuit,NA
+63,chip1261,chp,Chipewyan,NA
+64,tolo1259,tol,Chasta Costa,NA
+65,hupa1239,hup,Hupa,NA
+66,nava1243,nav,Navaho,NA
+67,sout2956,hax,Haida,NA
+68,squa1248,squ,Squamish,NA
+69,sout2965,slh,Salish,NA
+70,nuuc1236,nuk,Nootka,NA
+71,kwak1269,kwk,Kwakiutl,NA
+72,east2542,ojg,Ojibwa,NA
+73,unam1242,unm,Delaware,NA
+74,wich1260,wic,Wichita,NA
+75,lako1247,lkt,Dakota,NA
+76,sene1264,see,Seneca,NA
+77,onei1249,one,Oneida,NA
+78,yuch1247,yuc,Yuchi,NA
+79,alab1237,akz,Alabama,NA
+80,tuni1252,tun,Tunica,NA
+81,nezp1238,nez,Nez Perce,NA
+82,nort2952,nmu,Maidu,NA
+83,copa1236,zoc,Zoque,NA
+84,papa1238,top,Totonac,NA
+85,taba1266,chf,Chontal,NA
+86,tzel1254,tzh,Tzeltal,NA
+87,pure1242,tsz,Tarascan,NA
+88,karo1304,kyh,Karok,NA
+89,sout2982,pom,Pomo,NA
+90,kumi1248,dih,Digueno,NA
+91,zuni1245,zun,Zuni,NA
+92,picu1248,twf,Tiwa,NA
+93,tewa1260,tew,Tewa,NA
+94,luis1253,lui,Luiseno,NA
+95,hopi1249,hop,Hopi,NA
+96,toho1245,ood,Pima,NA
+97,tena1241,otn,Otomi,NA
+98,cent2144,maz,Mazahua,NA
+99,chiq1250,maq,Mazateco,NA
+100,sanm1295,mig,Mixtec,NA
+101,chac1249,cbi,Cayapa,NA
+102,paez1247,pbb,Paez,NA
+103,iton1250,ito,Itonama,NA
+104,sout2991,quh,Quechua,NA
+105,jaqa1244,jqr,Aymara,NA
+106,mapu1245,arn,Araucanian,NA
+107,isla1278,crb,Island Carib,NA
+108,wapi1253,wap,Wapishana,NA
+109,wayu1243,guc,Goajiro,NA
+110,asha1243,cni,Campa,NA
+111,igna1246,ign,Moxo,NA
+112,yane1238,ame,Amuesha,NA
+113,shua1257,jiv,Jivaro,NA
+114,waim1255,bao,Barasano,NA
+115,ticu1245,tca,Ticuna,NA
+116,gali1262,car,Carib,NA
+117,ocai1244,oca,Ocaina,NA
+118,siri1273,srq,Siriono,NA
+119,para1311,gug,Guarani,NA
+120,amah1246,amc,Amahuaca,NA
+121,chac1251,cao,Chacobo,NA
+122,apin1244,apn,Apinaye,NA
+123,tach1250,shi,Shilha,NA
+124,haus1257,hau,Hausa,NA
+125,ngas1240,anc,Angas,NA
+126,marg1265,mrt,Margi,NA
+127,soma1255,som,Somali,NA
+128,awng1244,awn,Awiya,NA
+129,iraq1241,irk,Iraqw,NA
+130,tigr1270,tig,Tigre,NA
+131,amha1245,amh,Amharic,NA
+132,egyp1253,arz,Egyptian Arabic,NA
+133,moro1292,ary,Moroccan Arabic,NA
+134,malt1254,mlt,Maltese,NA
+135,hebr1245,heb,Modern Hebrew,NA
+136,katc1250,xtc,Katcha,NA
+137,libe1247,xpe,Kpelle,NA
+138,nucl1347,wol,Wolof,NA
+139,dagb1246,dag,Dagbani,NA
+140,akan1250,aka,Akan,NA
+141,gaaa1244,gaa,Ga,NA
+142,ewee1241,ewe,Ewe,NA
+143,nucl1417,ibo,Igbo,NA
+144,beem1239,beq,Beembe,NA
+145,swah1253,swh,Swahili,NA
+146,luva1239,lue,Luvale,NA
+147,zulu1248,zul,Zulu,NA
+148,gbay1287,gbp,Gbeya,NA
+149,koyr1242,ses,Songhai,NA
+150,cent2050,knc,Kanuri,NA
+151,lugb1240,lgg,Logbara,NA
+152,nobi1240,fia,Mahas-Fiyadikka,NA
+153,luok1236,luo,Luo,NA
+154,masa1300,mas,Maasai,NA
+155,nama1265,naq,Nama,NA
+156,iris1253,gle,Irish Gaelic,NA
+157,bret1244,bre,Breton,NA
+158,icel1247,isl,Icelandic,NA
+159,norw1259,nob,Norwegian,NA
+160,stan1293,eng,English,NA
+161,stan1295,deu,German,NA
+162,stan1290,fra,French,NA
+163,port1283,por,Portuguese,NA
+164,stan1288,spa,Spanish,NA
+165,roma1327,ron,Rumanian,NA
+166,russ1263,rus,Russian,NA
+167,bulg1262,bul,Bulgarian,NA
+168,lith1251,lit,Lithuanian,NA
+169,tosk1239,als,Albanian,NA
+170,mode1248,ell,Modern Greek,NA
+171,nucl1235,hye,Armenian,NA
+172,west2369,pes,Persian,NA
+173,cent1973,pst,Pashto,NA
+174,kash1277,kas,Kashimiri,NA
+175,panj1256,pan,Punjabi,NA
+176,hind1269,hin,Hindi-Urdu,NA
+177,beng1280,ben,Bengali,NA
+178,sinh1246,sin,Sinhalese,NA
+179,basq1248,eus,Basque,NA
+180,finn1318,fin,Finnish,NA
+181,east2328,mhr,Cheremis,NA
+182,komi1268,kpv,Komi,NA
+183,hung1274,hun,Hungarian,NA
+184,khan1273,kca,Ostyak,NA
+185,nene1249,yrk,Yurak,NA
+186,nucl1301,tur,Turkish,NA
+187,nort2697,azj,Azerbaijani,NA
+188,kirg1245,kir,Kirghiz,NA
+189,chuv1255,chv,Chuvash,NA
+190,yaku1245,sah,Yakut,NA
+191,halh1238,khk,Khalkha,NA
+192,even1260,eve,Even,NA
+193,nort2745,ykg,Yukaghir,NA
+194,gily1242,niv,Gilyak,NA
+195,chuk1273,ckt,Chukchi,NA
+196,ainu1240,ain,Ainu,NA
+197,nucl1643,jpn,Japanese,NA
+198,afad1236,aal,KOTOKO,NA
+199,achu1247,acv,ACHUMAWI,NA
+200,adze1240,adz,ADZERA,NA
+201,east2379,aer,ARRERNTE,NA
+202,amel1241,aey,AMELE,NA
+203,anga1290,agm,ANGAATIHA,NA
+204,aghe1239,agq,AGHEM,NA
+205,apro1235,ahp,AIZI,NA
+206,ahte1237,aht,AHTNA,NA
+207,ainu1240,ain,AINU,NA
+208,akan1250,aka,AKAN,NA
+209,akaw1239,ake,AKAWAIO,NA
+210,alab1237,akz,ALABAMA,NA
+211,qawa1238,alc,QAWASQAR,NA
+212,alla1248,ald,ALLADIAN,NA
+213,aleu1260,ale,ALEUT,NA
+214,alaw1244,alh,ALAWA,NA
+215,tosk1239,als,ALBANIAN,NA
+216,amah1246,amc,AMAHUACA,NA
+217,yane1238,ame,AMUESHA,NA
+218,hame1242,amf,HAMER,NA
+219,amha1245,amh,AMHARIC,NA
+220,amoo1242,amo,AMO,NA
+221,alam1246,amp,ALAMBLAK,NA
+222,guer1243,amu,AMUZGO,NA
+223,ngas1240,anc,ANGAS,NA
+224,ando1256,ano,ANDOKE,NA
+225,anta1253,ant,WESTERN DESERT,NA
+226,apin1244,apn,APINAYE,NA
+227,apuc1241,apq,ANDAMANESE,NA
+228,arch1244,aqc,ARCHI,NA
+229,arab1268,arl,ARABELA,NA
+230,mapu1245,arn,ARAUCANIAN,NA
+231,egyp1253,arz,ARABIC,NA
+232,waor1240,auc,AUCA,NA
+233,avar1256,ava,AVAR,NA
+234,awng1244,awn,AWIYA,NA
+235,abip1241,axb,ABIPON,NA
+236,nort2697,azj,AZERBAIJANI,NA
+237,bash1264,bak,BASHKIR,NA
+238,bamb1269,bam,BAMBARA,NA
+239,waim1255,bao,BARASANO,NA
+240,baat1238,bba,BARIBA,NA
+241,bata1289,bbc,BATAK,NA
+242,bats1242,bbl,BATS,NA
+243,nort2819,bbo,BOBO-FING,NA
+244,cent2004,bca,BAI,NA
+245,bard1255,bcj,BARDI,NA
+246,kohu1244,bcs,KOHUMONO,NA
+247,indo1317,bdl,SAMA,NA
+248,twee1234,xjb,BANDJALANG,NA
+249,beja1238,bej,BEJA,NA
+250,beng1280,ben,BENGALI,NA
+251,beem1239,beq,BEEMBE,NA
+252,dalo1238,bev,BETE,NA
+253,biss1248,bib,BISA,NA
+254,baka1277,bkq,BAKAIRI,NA
+255,bell1243,blc,BELLA COOLA,NA
+256,muin1242,bmr,MUINANE,NA
+257,bero1242,bom,BIROM,NA
+258,boro1282,bor,BORORO,NA
+259,lave1249,brb,BRAO,NA
+260,bret1244,bre,BRETON,NA
+261,brah1256,brh,BRAHUI,NA
+262,west2397,brv,BRUU,NA
+263,bodo1269,brx,BODO,NA
+264,buru1296,bsk,BURUSHASKI,NA
+265,bulg1262,bul,BULGARIAN,NA
+266,bura1267,bvr,BURARRA,NA
+267,qaqe1238,byx,BAINING,NA
+268,brib1243,bzd,BRIBRI,NA
+269,cadd1256,cad,CADDO,NA
+270,niva1238,cag,ASHUSLAY,NA
+271,carn1240,caq,NICOBARESE,NA
+272,gali1262,car,CARIB,NA
+273,chac1249,cbi,CAYAPA,NA
+274,nyah1250,cbn,NYAH KUR,NA
+275,cacu1241,cbv,CACUA,NA
+276,mind1253,cdo,FUZHOU,NA
+277,cham1312,cha,CHAMORRO,NA
+278,chip1261,chp,CHIPEWYAN,NA
+279,quio1240,chq,HIGHLAND CHINANTEC,NA
+280,cher1273,chr,CHEROKEE,NA
+281,chuv1255,chv,CHUVASH,NA
+282,east2563,cjm,CHAM,NA
+283,uppe1439,cjh,UPPER CHEHALIS,NA
+284,chua1250,cjv,CHUAVE,NA
+285,chuk1273,ckt,CHUKCHI,NA
+286,mand1415,cmn,MANDARIN,NA
+287,haka1240,cnh,LAI,NA
+288,asha1243,cni,CAMPA,NA
+289,cofa1242,con,COFAN,NA
+290,wame1240,cou,KONYAGI,NA
+291,chua1256,cqd,HMONG,NA
+292,isla1278,crb,ISLAND CARIB,NA
+293,tedi1235,ctd,TIDDIM CHIN,NA
+294,west2644,ctp,CHATINO,NA
+295,cube1242,cub,CUBEO,NA
+296,cayu1262,cyb,CAYUVAVA,NA
+297,dang1274,daa,DANGALEAT,NA
+298,dann1241,daf,DAN,NA
+299,dagb1246,dag,DAGBANI,NA
+300,darf1239,daj,DAJU,NA
+301,daha1245,dal,DAHALO,NA
+302,nyis1236,njz,DAFLA,NA
+303,dyir1250,dbl,DYIRBAL,NA
+304,stan1295,deu,GERMAN,NA
+305,dier1241,dif,DIYARI,NA
+306,kumi1248,dih,DIEGUENO,NA
+307,nort2815,dip,DINKA,NA
+308,lowe1415,dni,DANI,NA
+309,nort2735,doc,KAM,NA
+310,doya1240,dow,DOAYO,NA
+311,ruka1240,dru,RUKAI,NA
+312,daur1238,dta,DAGUR,NA
+313,toro1252,dts,DOGON,NA
+314,dhuw1249,duj,YOLNGU,NA
+315,jola1263,dyo,DIOLA,NA
+316,efik1245,efi,EFIK,NA
+317,ekar1243,ekg,EKARI,NA
+318,mode1248,ell,GREEK,NA
+319,cent2128,ess,YUPIK,NA
+320,ejag1239,etu,EJAGHAM,NA
+321,basq1248,eus,BASQUE,NA
+322,even1260,eve,EVEN,NA
+323,ewee1241,ewe,EWE,NA
+324,ewon1239,ewo,EWONDO,NA
+325,eyak1241,eya,EYAK,NA
+326,fasu1242,faa,FASU,NA
+327,nobi1240,fia,NUBIAN,NA
+328,fiji1243,fij,FIJIAN,NA
+329,finn1318,fin,FINNISH,NA
+330,fefe1239,fmp,FE?FE?,NA
+331,stan1290,fra,FRENCH,NA
+332,fuln1247,fun,IATE,NA
+333,furr1244,fvr,FUR,NA
+334,guib1244,zgn,PO-AI,NA
+335,gaaa1244,gaa,GA,NA
+336,gads1258,gaj,GADSUP,NA
+337,gara1269,wrk,GARAWA,NA
+338,gbay1287,gbp,GBEYA,NA
+339,gbag1258,gbr,GWARI,NA
+340,qaua1234,gqu,GELAO,NA
+341,nana1257,gld,NANAI,NA
+342,iris1253,gle,IRISH,NA
+343,dawr1236,dwr,KULLO,NA
+344,wayu1243,guc,GUAJIRO,NA
+345,para1311,gug,GUARANI,NA
+346,guah1255,guh,GUAHIBO,NA
+347,guam1248,gum,GUAMBIANO,NA
+348,ache1246,guq,ACHE,NA
+349,kuku1273,gvn,GUGU-YALANDYI,NA
+350,hakk1236,hak,HAKKA,NA
+351,haus1257,hau,HAUSA,NA
+352,hawa1245,haw,HAWAIIAN,NA
+353,sout2956,hax,HAIDA,NA
+354,hind1269,hin,HINDI-URDU,NA
+355,hixk1239,hix,HIXKARYANA,NA
+356,hopi1249,hop,HOPI,NA
+357,hadz1240,hts,HADZA,NA
+358,hung1274,hun,HUNGARIAN,NA
+359,hupa1239,hup,HUPA,NA
+360,huas1242,hus,HUASTECO,NA
+361,sanm1287,huv,HUAVE,NA
+362,nucl1235,hye,ARMENIAN,NA
+363,iaai1238,iai,IAI,NA
+364,iban1264,iba,IBAN,NA
+365,nucl1417,ibo,IGBO,NA
+366,igna1246,ign,MOXO,NA
+367,izon1238,ijc,KOLOKUMA IJO,NA
+368,ikkk1242,ikx,IK,NA
+369,irar1238,irh,IRARUTU,NA
+370,iraq1241,irk,IRAQW,NA
+371,iran1263,irn,IRANXE,NA
+372,isok1239,iso,ISOKO,NA
+373,itel1242,itl,ITELMEN,NA
+374,iton1250,ito,ITONAMA,NA
+375,iumi1238,ium,MIEN,NA
+376,ivat1242,ivv,IVATAN,NA
+377,iwam1256,iwm,IWAM,NA
+378,popt1235,jac,JACALTEC,NA
+379,yany1243,jao,YANYUWA,NA
+380,java1254,jav,JAVANESE,NA
+381,jebe1250,jeb,JEBERO,NA
+382,toll1241,jic,TOL,NA
+383,shua1257,jiv,JIVARO,NA
+384,nucl1643,jpn,JAPANESE,NA
+385,jaqa1244,jqr,JAQARU,NA
+386,japr1238,jru,JAPRERIA,NA
+387,kach1280,kac,JINGPHO,NA
+388,kala1399,kal,INUIT,NA
+389,kash1277,kas,KASHMIRI,NA
+390,nucl1302,kat,GEORGIAN,NA
+391,kaba1278,kbd,KABARDIAN,NA
+392,cams1241,kbh,CAMSA,NA
+393,gras1249,kbk,KOIARI,NA
+394,kafa1242,kbr,KEFA,NA
+395,dera1245,kbv,DERA,NA
+396,khan1273,kca,KHANTY,NA
+397,kekc1242,kek,K'EKCHI,NA
+398,kera1255,ker,KERA,NA
+399,kett1243,ket,KET,NA
+400,kota1263,kfe,KOTA,NA
+401,koya1251,kff,KOYA,NA
+402,kain1272,kgp,KAINGANG,NA
+403,khas1269,kha,KHASI,NA
+404,luuu1242,khb,LUE,NA
+405,halh1238,khk,KHALKHA,NA
+406,lusi1240,khl,KALIAI,NA
+407,cent1989,khm,KHMER,NA
+408,khar1287,khr,KHARIA,NA
+409,kiow1266,kio,KIOWA,NA
+410,kirg1245,kir,KIRGHIZ,NA
+411,sout2949,kjd,SOUTHERN KIWAI,NA
+412,khmu1256,kjg,KHMU?,NA
+413,west2632,kjq,ACOMA,NA
+414,east2516,kjs,KEWA,NA
+415,teke1280,kkw,TEKE,NA
+416,klam1254,kla,KLAMATH,NA
+417,klao1243,klu,KLAO,NA
+418,kwom1262,kmo,KWOMA,NA
+419,nort2641,kmr,KURDISH,NA
+420,dera1248,kna,KANAKURU,NA
+421,cent2050,knc,KANURI,NA
+422,konk1267,knn,KONKANI,NA
+423,kore1280,kor,KOREAN,NA
+424,kpan1246,kpk,KPAN,NA
+425,koho1244,kpm,SRE,NA
+426,komi1268,kpv,KOMI,NA
+427,kory1246,kpy,KORYAK,NA
+428,kups1238,kpz,SEBEI,NA
+429,kuru1302,kru,KURUKH,NA
+430,sgaw1245,ksw,KAREN,NA
+431,kalk1246,ktg,KALKATUNGU,NA
+432,juho1239,ktz,!XU,NA
+433,kuna1268,kun,KUNAMA,NA
+434,kuni1267,kup,KUNIMAIPA,NA
+435,bord1248,kvn,CUNA,NA
+436,kwai1243,kwd,KWAIO,NA
+437,kwak1269,kwk,KWAKW'ALA,NA
+438,karo1304,kyh,KAROK,NA
+439,lakk1238,lbc,LAKKIA,NA
+440,lakk1252,lbe,LAK,NA
+441,lele1264,lef,LELEMI,NA
+442,lugb1240,lgg,LUGBARA,NA
+443,lahu1253,lhu,LAHU,NA
+444,lith1251,lit,LITHUANIAN,NA
+445,lako1247,lkt,DAKOTA,NA
+446,peve1243,lme,LAME,NA
+447,luis1253,lui,LUISENO,NA
+448,luok1236,luo,LUO,NA
+449,sout2965,slh,LUSHOOTSEED,NA
+450,chiq1250,maq,MAZATEC,NA
+451,masa1300,mas,MAASAI,NA
+452,cent2144,maz,MAZAHUA,NA
+453,maxa1247,mbl,MAXAKALI,NA
+454,came1252,mcu,MAMBILA,NA
+455,mbum1254,mdd,MBUM,NA
+456,maba1277,mde,MABA,NA
+457,dizi1235,mdx,DIZI,NA
+458,mbaa1245,mfc,MBA-NE,NA
+459,mogh1245,mhj,MOGHOL,NA
+460,east2328,mhr,MARI,NA
+461,sanm1295,mig,MIXTEC,NA
+462,tuuu1240,mjg,MONGUOR,NA
+463,manc1252,mnc,MANCHU,NA
+464,morb1239,moq,MOR,NA
+465,moro1285,mor,MORO,NA
+466,mull1237,mpb,MALAKMALAK,NA
+467,maun1240,mph,MAUNG,NA
+468,dadi1250,mps,DADIBI,NA
+469,west2600,mqs,WEST MAKIAN,NA
+470,marg1265,mrt,MARGI,NA
+471,mara1404,mrw,MARANAO,NA
+472,toto1305,mto,MIXE,NA
+473,murs1242,muz,MURSI,NA
+474,murr1258,mwf,MURINHPATHA,NA
+475,kala1377,mwp,KALA LAGAW YA,NA
+476,nucl1310,mya,BURMESE,NA
+477,pira1253,myp,PIRAHA,NA
+478,nucl1240,mzm,MUMUYE,NA
+479,movi1243,mzp,MOVIMA,NA
+480,sout2994,nab,SOUTHERN NAMBIQUARA,NA
+481,minn1241,nan,XIAMEN,NA
+482,nama1264,naq,NAMA,NA
+483,naas1242,nas,NASIOI,NA
+484,nava1243,nav,NAVAJO,NA
+485,naxi1245,nxq,NAXI,NA
+486,nort2957,ncj,NAHUATL,NA
+487,ndut1239,ndv,NDUT,NA
+488,nepa1254,npi,NEPALI,NA
+489,newa1246,new,NEWARI,NA
+490,nezp1238,nez,NEZ PERCE,NA
+491,ngiz1242,ngi,NGIZIM,NA
+492,noon1243,nhu,NONI,NA
+493,niel1243,nie,LUA,NA
+494,ngan1291,nio,NGANASAN,NA
+495,nucl1633,nir,NIMBORAN,NA
+496,gily1242,niv,NIVKH,NA
+497,aona1235,njo,AO,NA
+498,nort2952,nmu,MAIDU,NA
+499,norw1259,nob,NORWEGIAN,NA
+500,nuuc1236,nuk,TSESHAHT,NA
+501,nara1262,nrb,NERA,NA
+502,nung1283,nut,LUNGCHOW,NA
+503,nung1290,nuy,NUNGGUBUYU,NA
+504,amas1236,nyi,NYIMANG,NA
+505,nyan1313,nyp,NYANGI,NA
+506,ocai1244,oca,OCAINA,NA
+507,ogbi1239,ogb,OGBIA,NA
+508,east2542,ojg,OJIBWA,NA
+509,toho1245,ood,PAPAGO,NA
+510,ormu1247,oru,ORMURI,NA
+511,paco1243,pac,PACOH,NA
+512,pech1241,pay,PAYA,NA
+513,paez1247,pbb,PAEZ,NA
+514,enap1235,pbh,PANARE,NA
+515,bouy1240,pcc,YAY,NA
+516,west2369,pes,FARSI,NA
+517,plat1254,plt,MALAGASY,NA
+518,sout2982,pom,POMO,NA
+519,pohn1238,pon,POHNPEIAN,NA
+520,para1301,prk,PARAUK,NA
+521,cent1973,pst,PASHTO,NA
+522,paiw1248,pwn,PAIWAN,NA
+523,pwon1235,pww,PHLONG,NA
+524,sout2991,quh,QUECHUA,NA
+525,quil1240,qui,QUILEUTE,NA
+526,resi1247,rgr,RESIGARO,NA
+527,roma1327,ron,ROMANIAN,NA
+528,roto1249,roo,ROTOKAS,NA
+529,waim1251,rro,RORO,NA
+530,russ1263,rus,RUSSIAN,NA
+531,rutu1240,rut,RUTUL,NA
+532,sand1273,sad,SANDAWE,NA
+533,sang1328,sag,SANGO,NA
+534,yaku1245,sah,YAKUT,NA
+535,seda1262,sed,SEDANG,NA
+536,sene1264,see,SENECA,NA
+537,ceba1235,sef,SENADI,NA
+538,selk1253,sel,SELKUP,NA
+539,koyr1242,ses,SONGHAI,NA
+540,nucl1632,set,SENTANI,NA
+541,xiri1243,xir,SHIRIANA,NA
+542,tach1250,shi,SHILHA,NA
+543,shus1248,shs,SHUSWAP,NA
+544,shas1239,sht,SHASTA,NA
+545,sinh1246,sin,SINHALESE,NA
+546,epen1239,sja,EPENA PEDEE,NA
+547,sout2985,skd,SIERRA MIWOK,NA
+548,sali1298,slc,SALIBA,NA
+549,sout2674,sma,SAAMI,NA
+550,sion1247,snn,SIONA,NA
+551,saba1265,snv,SA'BAN,NA
+552,soma1255,som,SOMALI,NA
+553,stan1288,spa,SPANISH,NA
+554,sele1250,spl,SELEPET,NA
+555,soqo1240,sqt,SOCOTRI,NA
+556,siri1273,srq,SIRIONO,NA
+557,natu1246,ntu,NAMBAKAENGO,NA
+558,suen1241,sue,SUENA,NA
+559,savo1255,svs,SAVOSAVO,NA
+560,suii1243,swi,SUI,NA
+561,east2347,taj,TAMANG,NA
+562,atay1247,tay,ATAYAL,NA
+563,aika1237,tba,HUARI,NA
+564,gaam1241,tbi,TABI,NA
+565,ticu1245,tca,TICUNA,NA
+566,tulu1258,tcy,TULU,NA
+567,tehu1242,teh,TEHUELCHE,NA
+568,telu1262,tel,TELUGU,NA
+569,timn1235,tem,TEMNE,NA
+570,nucl1339,teq,TEMEIN,NA
+571,tetu1245,tet,TETUN,NA
+572,tiga1245,tgc,TIGAK,NA
+573,taga1270,tgl,TAGALOG,NA
+574,thai1261,tha,THAI,NA
+575,taha1241,thv,TAMASHEQ,NA
+576,tigr1270,tig,TIGRE,NA
+577,tiwi1244,tiw,TIWI,NA
+578,tiru1241,tiy,TIRURAY,NA
+579,tlin1245,tli,TLINGIT,NA
+580,talo1250,tlo,JOMANG,NA
+581,tama1331,tma,TAMA,NA
+582,tamn1235,tml,ASMAT,NA
+583,taca1256,tna,TACANA,NA
+584,lena1238,tnl,LENAKEL,NA
+585,papa1238,top,TOTONAC,NA
+586,tamp1252,tpm,TAMPULMA,NA
+587,acat1239,tpx,TLAPANEC,NA
+588,trum1247,tpy,TRUMAI,NA
+589,toar1246,tqo,TAORIPI,NA
+590,tonk1249,tqw,TONKAWA,NA
+591,lish1246,trg,NEO-ARAMAIC,NA
+592,nucl1649,tsi,TSIMSHIAN,NA
+593,tsou1248,tsu,TSOU,NA
+594,pure1242,tsz,TARASCAN,NA
+595,tera1251,ttr,TERA,NA
+596,tuni1252,tun,TUNICA,NA
+597,nucl1301,tur,TURKISH,NA
+598,picu1248,twf,PICURIS,NA
+599,tuvi1240,tyv,TUVA,NA
+600,tzel1254,tzh,TZELTAL,NA
+601,ngar1284,ung,NGARINJIN,NA
+602,mund1320,unr,MUNDARI,NA
+603,nort2690,uzn,UZBEK,NA
+604,vani1248,vam,VANIMO,NA
+605,viet1252,vie,VIETNAMESE,NA
+606,mbab1239,vmb,MBABARAM,NA
+607,wapp1239,wao,WAPPO,NA
+608,wapi1253,wap,WAPISHANA,NA
+609,wara1303,wba,WARAO,NA
+610,nucl1620,wgi,WAHGI,NA
+611,wich1260,wic,WICHITA,NA
+612,wikm1247,wim,WIK-MUNKAN,NA
+613,wint1259,wit,WINTU,NA
+614,wiyo1248,wiy,WIYOT,NA
+615,want1252,wnc,WANTOAT,NA
+616,usan1239,wnu,USAN,NA
+617,kama1365,woi,WOISIKA,NA
+618,nucl1347,wol,WOLOF,NA
+619,wari1266,wrs,WARIS,NA
+620,wara1290,wrz,WARAY,NA
+621,bert1248,wti,BERTA,NA
+622,wuch1236,wuu,CHANGZHOU,NA
+623,wang1291,wyb,NGIYAMBAA,NA
+624,kawa1283,xaw,KAWAIISU,NA
+625,komo1258,xom,KOMA,NA
+626,libe1247,xpe,KPELLE,NA
+627,katc1249,xtc,KADUGLI,NA
+628,yagu1244,yad,YAGUA,NA
+629,yaqu1251,yaq,YAQUI,NA
+630,yucu1253,ycn,YUCUNA,NA
+631,taro1263,yer,TAROK,NA
+632,yaga1260,ygr,YAGARIA,NA
+633,yidi1250,yii,YIDINY,NA
+634,nort2745,ykg,YUKAGHIR,NA
+635,yana1271,ynn,YANA,NA
+636,yoru1245,yor,YORUBA,NA
+637,yare1248,yrb,YAREBA,NA
+638,nene1249,yrk,NENETS,NA
+639,yess1239,yss,YESSAN-MAYO,NA
+640,yuca1254,yua,YUCATEC,NA
+641,yuch1247,yuc,YUCHI,NA
+642,yuec1235,yue,TAISHAN,NA
+643,yulu1243,yul,YULU,NA
+644,nucl1454,yva,YAWA,NA
+645,zand1248,zne,AZANDE,NA
+646,copa1236,zoc,ZOQUE,NA
+647,zulu1248,zul,ZULU,NA
+648,zuni1245,zun,ZUNI,NA
+649,abid1235,abi,Abidji,NA
+650,adio1239,adj,Adioukrou,NA
+651,ajab1235,ajg,Adja,Adja (Bénin)
+652,ajab1235,ajg,Adja,Adja (Togo)
+653,anyi1244,mtb,Agni Sanvi,NA
+654,igoo1238,ahl,Ahlõ,NA
+655,akan1250,aka,Akan,NA
+656,akoo1248,bss,Akɔɔse,Akɔɔse (Bakossi)
+657,ngas1240,anc,Angas,NA
+658,anuf1239,cko,Anufɔ,NA
+659,suda1236,apd,Arabe,NA
+660,avok1242,avu,Avokaya,NA
+661,veng1238,bav,Babungo,"Babungo (Grassfields Bantu, Ring)"
+662,bafu1246,bfd,Bafut,NA
+663,baka1272,bkc,Baka,NA
+664,bamb1269,bam,Bambara,NA
+665,band1345,bfl,Banda,Banda (CAF)
+666,band1345,bfl,Banda,Banda (Sudan)
+667,band1352,bza,Bandi,Bandi (Gbande)
+668,baou1238,bci,Baoulé,Baoulé (Baule; Baulé)
+669,baat1238,bba,Bariba,NA
+670,basa1284,bas,Basaa,NA
+671,nucl1418,bsq,Bassa,NA
+672,ntch1242,bud,Bassar,NA
+673,gagn1235,btg,Bété,NA
+674,bekw1241,bkv,Bekwarra,NA
+675,bero1242,bom,Berom,NA
+676,beng1286,nhb,Bɛ̀ŋ,Bɛ̀ŋ (Ngain)
+677,bhel1238,bhy,Bhele,NA
+678,bial1238,beh,Biali,NA
+679,bimo1239,bim,Bimoba,NA
+680,biss1248,bib,Bisa,NA
+681,nort2819,bbo,Bobo,Bobo (Boomu)
+682,boko1266,bqc,Boussa,Boussa (Boko)
+683,hain1253,bzx,Bozo,NA
+684,bulu1251,bum,Bulu,NA
+685,cerm1238,cme,Cerma,NA
+686,chum1261,ncu,Chumburung,NA
+687,nucl1683,dbq,Daba,NA
+688,sout2789,dga,Dagaare,NA
+689,nort2780,dgi,Dagara,NA
+690,dagb1246,dag,Dagbani,NA
+691,dann1241,daf,Dan,NA
+692,adan1247,ada,Dangme,NA
+693,daza1242,dzg,Daza,NA
+694,luok1236,luo,Dholuo,NA
+695,lako1244,dic,Dida,NA
+696,dyul1238,dyu,Dioula,NA
+697,dita1238,tbz,Ditammari,NA
+698,doya1240,dow,Doayo,NA
+699,toro1252,dts,Dogon,NA
+700,dual1243,dua,Duala,NA
+701,duru1249,dug,Duruma,NA
+702,ebir1243,igb,Ebira,NA
+703,ewee1241,ewe,Eʋe,NA
+704,bini1246,bin,Ẹdo,NA
+705,ezaa1238,eza,Ẹzaa,NA
+706,ejag1239,etu,Ejagham de l'ouest,NA
+707,emai1241,ema,Emai,NA
+708,enge1239,enn,Engenni,NA
+709,ewon1239,ewo,Ewondo,NA
+710,fefe1239,fmp,Fe'efe'fe,NA
+711,fonn1241,fon,Fɔn,NA
+712,adam1253,fub,Fulfulde,Fulfulde (Cameroon)
+713,cent2018,fuq,Fulfulde,Fulfulde (Niger)
+714,maas1239,ffm,Fulfulde,Fulfulde (Mali)
+715,west2454,fuh,Fulfulde,Fulfulde (Burkina Faso)
+716,fuli1240,flr,Fuliru,NA
+717,gaaa1244,gaa,Ga,NA
+718,ngan1299,gng,Gangam,NA
+719,nort2775,gya,Gbaya,"Gbaya (Northwest, CAR)"
+720,gbay1287,gbp,Gbaya,"Gbaya (Bossangoa, CAR)"
+721,genn1243,gej,Gɛn-mina,Gɛn-mina (Benin)
+722,genn1243,gej,Gɛn-mina,Gɛn-mina (Togo)
+723,godi1239,god,Godié,NA
+724,gonj1241,gjn,Gonja,NA
+725,nort2810,gbo,Grebo,NA
+726,gude1246,gde,Guɗe,NA
+727,gour1243,gux,Gulmancema,NA
+728,hang1258,hag,Hanga,NA
+729,haus1257,hau,Hausa,Hausa (Niger)
+730,haus1257,hau,Hausa,Hausa (Nigeria)
+731,ifee1241,ife,Ifɛ̀,NA
+732,nucl1417,ibo,Igbo,NA
+733,iged1239,ige,Igede,NA
+734,sout2774,ijs,Ijo de l'est; Eastern Ijo,Ijo de l'est; Eastern Ijo (Okrika)
+735,ikwo1238,iqw,Ikwo,NA
+736,izii1239,izz,Izi,NA
+737,jola1263,dyo,Joola,NA
+738,jurm1239,bex,Jur mödö,NA
+739,kabi1261,kbp,Kabiyɛ,NA
+740,kako1242,kkj,Kakɔ,NA
+741,baan1242,bqx,Kambari,NA
+742,cent2050,knc,Kanuri,NA
+743,west2466,kza,Karaboro,NA
+744,kara1478,kzr,Karaŋ,NA
+745,kase1253,xsm,Kasem,NA
+746,kase1253,xsm,Kasɩm,NA
+747,koon1245,ozm,Kɔɔzime,NA
+748,kiku1240,kik,Kikuyu,NA
+749,nort2765,kqs,Kisiei,NA
+750,komc1235,bkm,Kom,NA
+751,komo1260,kmw,Komo,NA
+752,konk1269,xon,Konkomba,NA
+753,libe1247,xpe,Kpelle,NA
+754,guin1254,gkp,Kpɛlɛwoo,NA
+755,gbay1288,krs,Kresh,NA
+756,krio1253,kri,Krio,NA
+757,tepo1239,ted,Kroumen Tépo,NA
+758,kuri1259,kuj,Kuria,NA
+759,kusa1250,kus,Kusal,NA
+760,lama1275,las,Lama,NA
+761,lele1276,lln,Lele,NA
+762,lend1245,led,Lendu,NA
+763,loma1260,lom,Lɔgɔmagooi,NA
+764,loko1255,lok,Lɔkɔ,NA
+765,ligb1244,lig,Ligbi,NA
+766,west2450,lia,Limba,NA
+767,limb1268,lmp,Limbum,NA
+768,ling1263,lin,Lingala,NA
+769,lukp1238,dop,Lokpa,NA
+770,gand1255,lug,Luganda,NA
+771,lugb1240,lgg,Lugbara,NA
+772,lyel1241,lee,Lyélé,NA
+773,came1252,mcu,Mambila,Mambila (Cameroon)
+774,nige1255,mzk,Mambila,Mambila (Nigeria)
+775,mamp1244,maw,Mampruli,NA
+776,west2500,mlq,Mande,NA
+777,east2426,emk,Manding,NA
+778,mang1394,mdj,Mangbetu,Mangbetu (Meje)
+779,kita1249,mwk,Maninka-kan,NA
+780,mund1326,muh,Mündü,NA
+781,cros1244,mfn,Mbembe,NA
+782,mboc1235,mbo,Mboó,NA
+783,maka1304,mcp,Mekaa,NA
+784,mend1266,men,Mende,NA
+785,meta1238,mgo,Metta,NA
+786,mama1271,myk,Minyanka,NA
+787,degg1238,mzw,Mo,Mo (Deg)
+788,mofu1248,mif,Mofu-gudur,NA
+789,moss1236,mos,Moore,NA
+790,mwan1250,moa,Muan,NA
+791,mund1327,mnf,Mundani,NA
+792,kitu1245,mkw,Munukutuba,NA
+793,murl1244,mur,Murle,NA
+794,mwag1236,sur,Mwaghavul,NA
+795,nafa1258,nfr,Nafaanra,NA
+796,nawd1238,nmz,Nawdm,NA
+797,nort2784,nuv,Nʋni,NA
+798,noma1260,lem,Nɔmaa,Nɔmaa (Nɔmaándɛ́)
+799,ngam1268,sba,Ngambai,NA
+800,ngba1285,nga,Ngbaka,NA
+801,nort2774,ngb,Ngbandi,NA
+802,ngie1241,nnh,Ngyembɔɔn,NA
+803,nyab1255,nwb,Niaboua,NA
+804,lamn1239,lns,Nsoʼ,NA
+805,nugu1242,yas,Nugunu,NA
+806,nupe1254,nup,Nupe,NA
+807,pand1265,mhi,Pandikeri,NA
+808,park1239,pbi,Podoko,NA
+809,pula1263,fuc,Pulaar,NA
+810,pula1262,fuf,Pular,NA
+811,rend1243,rel,Rendille,NA
+812,saba1262,spy,Sabaot,NA
+813,sang1328,sag,Sango,Sango (CAF)
+814,sang1328,sag,Sango,Sango (COD)
+815,sena1262,seq,Senoufo,NA
+816,sere1260,srr,Sereer,NA
+817,siss1242,sld,Sissala,Sissala (Burkina)
+818,siss1242,sld,Sissala,Sissala (Ghana)
+819,koyr1240,khq,Songhoy,NA
+820,soni1259,snk,Soninke,Soninke (Mali)
+821,soni1259,snk,Sooninke,Sooninke (Senegal)
+822,susu1250,sus,Soso,NA
+823,swah1253,swh,Swahili,NA
+824,tawa1286,ttq,Tamajaq,NA
+825,tama1365,taq,Tamasheq,NA
+826,taro1263,yer,Tarok,NA
+827,teen1242,lor,Téén,NA
+828,teda1241,tuq,Teda,NA
+829,temm1241,kdh,Tem,NA
+830,tofi1235,tfi,Tɔfin,NA
+831,timn1235,tem,Themne,NA
+832,tika1246,tik,Tikar,NA
+833,topo1242,toq,Toposa,NA
+834,tour1242,neb,Toura,NA
+835,nort2787,tsp,Toussian,NA
+836,vagl1239,vag,Vagala,NA
+837,vute1244,vut,Vute,NA
+838,waam1244,wwa,Waama,NA
+839,wann1242,wan,Wan,NA
+840,weno1238,wob,Wobé,NA
+841,nucl1347,wol,Wolof,NA
+842,yamb1251,yam,Yamba,NA
+843,yamb1252,yat,Yambɛta,NA
+844,yaou1238,yre,Yaouré,NA
+845,yemb1246,ybb,Yemba,NA
+846,yomm1242,pil,Yom,NA
+847,yoru1245,yor,Yorouba,Yorouba (Benin)
+848,yoru1245,yor,Yorouba,Yorouba (Nigeria)
+849,zand1248,zne,Zande,NA
+850,zarm1239,dje,Zarma,NA
+851,zulg1242,gnd,Zulgo,NA
+852,fwee1238,fwe,Fwe,NA
+853,yeyi1239,yey,Yeyi,NA
+854,cavi1250,cav,Cavinena,NA
+855,cham1318,ccc,Chamicuro,NA
+856,chec1245,che,Chechen,NA
+857,chep1245,cdm,Chepang,NA
+858,east2328,mhr,Cheremis,NA
+859,leal1235,cle,Chinanteco,NA
+860,chol1282,ctu,"Tila, Chiapas",NA
+861,chra1242,crw,Chrau,NA
+862,barb1263,boi,Barbareño,NA
+863,coeu1236,crd,Coeur d''Alene',NA
+864,coma1245,com,Comanche,NA
+865,cupe1243,cup,Cupeno,NA
+866,cuvo1236,cuv,Cuvok,NA
+867,deny1238,anv,Denya,NA
+868,nepa1253,kru,Dhangar,NA
+869,mufi1238,aoj,Muhiang,NA
+870,usar1243,usa,Usarufa,NA
+871,kora1295,kpr,Korafe,NA
+872,binu1245,bjr,Binumarien,NA
+873,eggo1239,ego,Eggon,NA
+874,ekpe1253,ekp,Ekpeye,NA
+875,endo1242,enb,Endo,NA
+876,esim1238,ags,Esimbi,NA
+877,fang1246,fan,Fan,NA
+878,furu1242,fuu,Furu,NA
+879,kara1476,gbd,Garadjari,NA
+880,gbar1246,gby,Gbari,NA
+881,goli1247,gvf,Golin,NA
+882,guaj1255,gub,Guajajara,NA
+883,gunw1252,gup,Gunwinggu,NA
+884,haya1250,hay,Haya,NA
+885,huro1249,wya,Huron,NA
+886,huic1243,hch,Huichol,NA
+887,huay1240,qwh,Huaylas,NA
+888,sanm1287,huv,"Huave, San Mateo del Mar",NA
+889,jauj1238,qxw,Huanca,NA
+890,luya1241,lyn,Louyi,NA
+891,iban1261,iby,Ibani,NA
+892,imon1245,imn,Imonda,NA
+893,ingu1240,inh,Ingush,NA
+894,kris1246,ksi,Isaka,NA
+895,yalu1240,yal,Jalonke,NA
+896,izer1241,izr,Hill Jarawa,NA
+897,jama1261,jaa,Jarawara,NA
+898,jeme1245,tow,Jemez,NA
+899,liji1238,mgi,Jili,NA
+900,kaby1243,kab,Kabyle,NA
+901,gida1247,gid,Kada,Guidar
+902,kaya1329,kyz,Kaiabi,NA
+903,kama1367,kms,Kamasau,NA
+904,kano1245,kxo,Kanoe,NA
+905,kens1251,ndb,Kensei Nsei,NA
+906,east2398,xrb,Kar,NA
+907,kari1301,kmv,Karipuna Creole,NA
+908,keny1279,ken,Kenyang,NA
+909,khar1287,khr,Kharia,NA
+910,chon1284,cog,Chong,Khlong Phlu and Wang Kraphrae Dialects
+911,kiny1244,kin,Kinyarwanda,NA
+912,kiri1254,okr,Kirike,NA
+913,koko1269,kkk,Kokota,NA
+914,bako1250,kme,Kole,NA
+915,konn1242,kma,Konni,NA
+916,kuay1244,kdt,Kuay,Surin
+917,kulu1253,kle,Kulung,NA
+918,kuot1243,kto,Kuot,NA
+919,kusu1250,kgg,Kusunda,NA
+920,kuvi1243,kxv,Kuvi,NA
+921,kwaz1243,xwa,Kwaza,NA
+922,lada1244,lbj,Ladakhi,NA
+923,lang1320,lag,Langi,NA
+924,laoo1244,lao,Lao,NA
+925,lavu1241,lvk,Lavukaleve,NA
+926,bafa1247,bwt,Bafo,Lefo
+927,lund1266,lun,Lunda,NA
+928,luch1239,lch,Lucazi,NA
+929,orok1266,bdu,Lukundu,NA
+930,mace1250,mkd,Macedonian,NA
+931,mada1293,mxu,Mada,Rija
+932,madi1260,mhi,Ma'di,NA
+933,mana1295,mva,Manam,NA
+934,bame1260,bce,Mamenyan,NA
+935,mana1288,nmm,Manange,NA
+936,ngem1255,nge,Ngemba,Mankon
+937,mara1385,mec,Mara,NA
+938,maib1239,ayz,Maybrat,NA
+939,gbay1281,gmm,Mbodomo; Mbódɔ̀mɔ́,NA
+940,medu1238,byv,Medumba,NA
+941,ming1252,xmf,Mingrelian,Senak
+942,mmen1238,bfm,Mmen,NA
+943,moke1242,mwt,Moken,NA
+944,mose1249,cas,Moseten,NA
+945,mpon1254,mgg,Mpumpun,Yokadouma
+946,mung1266,mhk,Mungaka,NA
+947,mvum1238,nmg,Mvumbo,NA
+948,motl1237,mlv,Mwotlap,NA
+949,nami1256,nnm,Namia,NA
+950,ndem1249,nml,Ndemli,NA
+951,mesc1238,apm,Chiricahua Apache,NA
+952,quec1382,yum,Yuma,NA
+953,nank1250,nnk,Nankina,NA
+954,nand1266,niq,Nandi,NA
+955,kima1246,kig,Khmu,NA
+956,naki1238,mff,Naki,NA
+957,mich1245,ncl,Michoacan Nahual,NA
+958,naga1394,nag,Nagamese,NA
+959,ngos1238,nsh,Ngishe,NA
+960,ngal1293,nig,Ngalakan,NA
+961,nang1259,nam,Nganikurungkurr,"Daly River Area, Northern Territory"
+962,ngom1272,jgo,Ngomba,NA
+963,ngom1271,nla,Ngombale,NA
+964,nuuc1236,nuk,Nootka,Nuuchahnulth
+965,nort2684,kxm,Northern Khmer,Buriram
+966,nort2954,pao,Northern Paiute,NA
+967,nubi1253,kcn,Nubi,NA
+968,nuer1246,nus,Nuer,NA
+969,elip1238,ekm,Nulibie,Yambassa
+970,nyam1276,nym,Kinyamwezi,NA
+971,nyeu1238,nyl,Nyeu,NA
+972,obol1243,ann,Obolo,NA
+973,mian1257,mpt,Mianmin,NA
+974,faiw1243,fai,Faiwol,NA
+975,okuu1243,oku,Oku,NA
+976,osse1243,oss,Ossetian,NA
+977,pala1344,pau,Palauan,NA
+978,orok1269,okv,Orokaiva,NA
+979,yill1241,yll,Yil,NA
+980,ning1273,niz,Ningil,NA
+981,dobu1241,dob,Dobu,NA
+982,samo1303,smq,Samo,NA
+983,urii1240,uvh,Urii,NA
+984,boik1241,bzf,Boiken,NA
+985,phai1238,prt,Pray,Ban Wang Saw
+986,mall1246,mlf,Mal,NA
+987,rama1270,rma,Rama,NA
+988,matb1237,xmt,Matbat,NA
+989,rund1242,run,Rundi,NA
+990,nyan1307,nyn,Runyankore,NA
+991,marw1260,rwr,Marwari,NA
+992,samb1305,ndi,Samba Leko,NA
+993,sout2844,sbd,Samo de Toma,NA
+994,samr1245,sxm,Samre,NA
+995,saba1268,sae,Sabane,NA
+996,saan1246,str,Saanich,NA
+997,sasa1249,sas,Sasak,Puyang
+998,sora1254,srb,Savara,NA
+999,sayu1241,pos,Popoluca de Sayula,NA
+1000,seco1241,sey,Secoya,NA
+1001,taro1264,trv,Sedik,NA
+1002,seim1238,ssg,Seimat,NA
+1003,seme1247,sza,Semelai,NA
+1004,serr1255,ser,Serrano,NA
+1005,shab1252,sbf,Shabo,NA
+1006,yawa1260,ywn,Shanenawa,NA
+1007,mako1251,kde,Shimakonde,NA
+1008,shon1251,sna,Shona,NA
+1009,bamu1253,bax,Shupamem,NA
+1010,siar1238,sjr,Siar-Lak,NA
+1011,sera1259,skr,Siraiki,Central Pakistan
+1012,shaw1249,sjw,Shawnee,NA
+1013,nucl1634,skv,Skou,NA
+1014,aheu1239,thm,So,NA
+1015,sout2856,erk,South Efate,NA
+1016,spok1245,spo,Spokan,NA
+1017,sout2807,sot,Sesotho,NA
+1018,sata1237,stw,Satawalese,NA
+1019,ulwa1239,ulw,Sumo,Ulwa
+1020,hupd1244,jup,Hup,NA
+1021,chim1300,zoh,San Miguel Chimalapa Zoque,NA
+1022,loxi1235,ztp,Zapotec,Loxicha
+1023,yuki1243,yuk,Yuki,NA
+1024,yape1248,yap,Yapese,NA
+1025,yuro1248,yur,Yurok,NA
+1026,yura1255,yuz,Yuracure,NA
+1027,sout2750,yux,Yukaghir (Kolyma),Southern
+1028,nucl1290,wbm,Wa,Ban Santisuk Moo
+1029,wamb1259,wms,Wambon,NA
+1030,wash1253,was,Washo,NA
+1031,waya1269,way,Wayana,NA
+1032,woge1237,woc,Wogeo,NA
+1033,huar1255,var,Warihio,NA
+1034,vaii1241,vai,Vai,NA
+1035,ukra1253,ukr,Ukrainian,NA
+1036,phal1254,phl,Palula (Phalura),NA
+1037,east2440,mky,East Makian,NA
+1038,tapi1253,tpj,Tapiete,NA
+1039,baru1269,bjz,Baruga,NA
+1040,tatu1247,tav,Tatuyo,NA
+1041,tagw1240,tgw,Tagwana,NA
+1042,maza1291,mzn,Mazanderani,NA
+1043,paok1235,blk,"Pa-O, Taungthu",Huay Salop
+1044,tern1247,tft,Ternate,NA
+1045,toba1269,tob,Toba (Argentina),NA
+1046,poli1260,pol,Polish,NA
+1047,mand1415,cmn,Standard Chinese; Mandarin,Beijing
+1048,kala1381,ijn,Kalabari; Kirike; Kalabari-Ijo,Kalabari-Ijo
+1049,east2295,ydd,Standard Yiddish,NA
+1050,dutc1256,nld,Dutch,Belgian Standard
+1051,malo1243,mla,Tamambo; Malo,NA
+1052,gayo1244,gay,Gayo,NA
+1053,jama1262,jam,Jamaican Creole,NA
+1054,mamb1294,mcs,Mambay; Mambai,NA
+1055,arag1245,arg,Aragonese,Chistabino
+1056,tilq1235,zts,Tilquiapan Zapotec,NA
+1057,ibib1240,ibb,Ibibio,Uruan area and Uyo
+1058,tami1289,tam,Tamil,Standard Spoken Tamil
+1059,zoog1238,zpq,San Bartolomé Zoogocho Zapotec,zxon
+1060,baga1273,bgo,Baga Koga; Koba; Barka,NA
+1061,sout2895,nxl,Southern Nuautl,NA
+1062,sela1259,slu,Selaru,NA
+1063,tsuv1239,tvd,Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto,NA
+1064,hang1263,wos,Hanga Hundi; Kwasengen; West Wosera,NA
+1065,blan1242,blr,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi',NA
+1066,tata1257,txx,Tatana''; Tatanaq; Tatana',NA
+1067,tibe1272,bod,Tibetan,Lhasa
+1068,chee1238,ruk,Che; Rukuba; Kuche; Bache; Inchazi; Sale,NA
+1069,tolo1259,tol,Tolowa; Tolowa-Chetco,NA
+1070,pagi1243,pae,Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete,NA
+1071,choc1276,cho,Choctaw,NA
+1072,mich1243,crg,Michif,NA
+1073,pila1245,plg,Pilaga; Pilagá,NA
+1074,yuch1247,yuc,Euchee; Yuchi,NA
+1075,bani1255,bwi,Kurripako; Baniwa; Baniwa (Icana),Ehe-Khenim
+1076,kari1311,ktn,Karitiana; Karitiâna,NA
+1077,nort2943,esi,Iñupiaq; Iñupiat; Inupiat; Inupiaq,NA
+1078,sanj1284,zab,"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía",NA
+1079,tzot1259,tzo,"Tzotzil, Chamula",Petalcingo
+1080,sida1246,sid,Sidaama; Sidamo; Sidamic,NA
+1081,west2560,bdr,"Bajau, West Coast; Land Bajaw; West Coast Bajao",NA
+1082,chim1301,cid,Chimariko,NA
+1083,hueh1236,tee,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",NA
+1084,utes1238,ute,Southern Ute; Ute; Ute-Southern Paiute,NA
+1085,dupa1235,duo,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta,NA
+1086,tong1325,ton,Tongan; Tonga,NA
+1087,lake1258,lmw,Lake Miwok; Miwok (Lake),NA
+1088,lazz1240,lzz,Laz,NA
+1089,juan1238,jun,Juang,NA
+1090,adan1251,adn,Adang,NA
+1091,ambe1247,ael,Ambele,NA
+1092,apur1254,apu,Apurinã,Japiim
+1093,achi1257,ace,Acehnese,NA
+1094,anti1245,aig,Antiguan Creole,NA
+1095,akla1241,akl,Aklan,NA
+1096,arhu1242,arh,Ika,NA
+1097,karo1306,arr,Karo,NA
+1098,liby1240,ayl,Lebanese Arabic,NA
+1099,bata1289,bbc,Toba-Batak,NA
+1100,baou1238,bci,Baule,Kobe
+1101,bond1245,bfw,Remo,NA
+1102,bike1242,biw,Bikele,NA
+1103,siks1238,bla,Blackfoot,NA
+1104,bilo1248,bll,Biloxi,NA
+1105,beli1260,bzj,Belizean Creole,NA
+1106,koas1236,cku,Koasati,NA
+1107,como1259,coo,Comox,NA
+1108,soch1239,cso,Sochiapan Chinantec,NA
+1109,diml1238,diq,Dimili,NA
+1110,yekh1238,ets,Etsako,NA
+1111,nort2626,frr,Frisian,Sölring North
+1112,guja1253,gju,Gojri; Gujari; Gujar,NA
+1113,guan1269,gvc,Wanano,NA
+1114,hung1278,hum,Kihungan,NA
+1115,halk1245,hur,Chilliwak Halkomelem,NA
+1116,huas1242,hus,Huastec,Potosino dialect
+1117,ilok1237,ilo,Ilocano,Northern
+1118,kadi1248,kbc,Kadiweu,NA
+1119,kute1248,kub,Kuteb,NA
+1120,awac1239,kwi,Awa Pit,NA
+1121,lisu1250,lis,Lisu,NA
+1122,loni1238,los,Loniu,NA
+1123,mola1238,mbe,Molalla,NA
+1124,mats1244,mcf,Matses,NA
+1125,mani1292,mni,Manipuri,NA
+1126,mand1436,mnk,Mandingo,NA
+1127,moco1246,moc,Mocovi,NA
+1128,mamm1241,mam,Western Mam; Tacanec,Tacaná
+1129,mund1330,myu,Mundurukú,NA
+1130,nisg1240,ncg,Nishgha,NA
+1131,nort2627,nds,Low German,Ukrainian
+1132,nort2984,pmq,Northern Pame,NA
+1133,pana1305,par,Panamint,NA
+1134,nige1257,pcm,Nigerian Pidgin,NA
+1135,nort2966,pej,Northern Pomo,NA
+1136,texi1237,poq,Texistepec Popoluca,NA
+1137,khan1273,kca,Eastern Khanty,NA
+1138,stan1289,cat,Catalan,Barcelona
+1139,croa1245,hrv,Croatian,NA
+1140,czec1258,ces,Czech,Prague
+1141,gali1258,glg,Galician,NA
+1142,kabi1261,kbp,Kabiye,Somdina
+1143,mono1270,mnh,Mono,"Bili, Bosobolo Zone, DRC"
+1144,indo1316,ind,Indonesian,Central Java
+1145,ital1282,ita,Italian,Mainstream Italian'''
+1146,sala1272,qxl,Salasaca Quichua,NA
+1147,seri1257,sei,Seri,NA
+1148,sind1272,snd,Sindhi,Vicholi
+1149,slov1268,slv,Slovene,Standard Slovene
+1150,swed1254,swe,Swedish,Stockholm
+1151,east2440,mky,Taba,Makian Island
+1152,tuka1248,khc,Tukang Besi,"Wanci, Kaledupa"
+1153,yine1238,pib,Yine,NA
+1154,kich1262,quc,Quiche,NA
+1155,huam1248,qvh,Huallaga (Huanuco) Quechua,NA
+1156,sipa1247,qum,Sipakapense Maya,NA
+1157,chim1302,qug,Chimborazo Quichua,NA
+1158,tlac1235,tpt,Tepehua,NA
+1159,ambu1247,abt,Abulas,NA
+1160,abau1245,aau,Abau,NA
+1161,qima1242,ahg,Agaw,NA
+1162,akha1245,ahk,Akha,NA
+1163,alya1239,aly,Alyawarra,NA
+1164,aman1265,amn,Amanab,NA
+1165,anua1242,anu,Anywa,NA
+1166,aran1237,jbj,Arandai,NA
+1167,bumb1241,aon,Arapesh,NA
+1168,tana1290,tcb,Tanacross,NA
+1169,auuu1241,avt,Au,NA
+1170,tinp1237,tpz,Tinputz,NA
+1171,peta1245,pex,Petats,Petats central
+1172,pate1247,ptp,Patep,Mahomba
+1173,kela1255,kcl,Kela,Apoze
+1174,surs1246,sgz,Sursurunga,East Coast
+1175,awar1248,awx,Awara,NA
+1176,awin1248,azo,Awing,NA
+1177,awtu1239,kmn,Awtuw,NA
+1178,baba1264,bbw,Baba,NA
+1179,baba1266,bbk,Babanki,NA
+1180,bako1249,bkh,Bakoko,NA
+1181,nyon1241,muo,Bali-Kumbat,NA
+1182,bamu1256,bvm,Bamunka,NA
+1183,bang1356,bgj,Bangolan,NA
+1184,bata1285,bnm,Banoo,NA
+1185,bari1286,bch,Bariai,NA
+1186,befa1241,bby,Befang,NA
+1187,idaa1241,dbj,Ida''an',Begak
+1188,bemb1257,bem,Bemba,NA
+1189,berb1259,brc,Berbice Dutch,NA
+1190,bett1235,xub,Betta Kurumba,NA
+1191,biak1248,bhw,Biak,NA
+1192,bili1250,nbj,Bilinara,NA
+1193,bina1277,bhg,Binandere,NA
+1194,sout2840,bwq,Bobo,"Bobo-Dioulasso, Haute-Volta"
+1195,nucl1695,bol,Bole,NA
+1196,bong1285,bot,Bongo,NA
+1197,boro1277,bwo,Boro,NA
+1198,brok1247,bkk,Brokskat,NA
+1199,baga1272,bsp,Baga Sitem,NA
+1200,bubi1249,bbx,Bubia,NA
+1201,buku1249,bxk,Bukusu,NA
+1202,subi1246,sbs,Subiya,NA
+1203,tote1238,ttl,Totela,NA
+1204,bamb1265,bmo,Bambalang; Círàmbɔ́,NA
+1205,nort2845,mrq,North Marquesan,Nuku Hiva
+1206,onge1236,oon,Öñge; Ong; Onge,NA
+1207,olut1240,plo,Oluta Popoluca; Olutec,NA
+1208,jiar1240,jya,Jiarong,Chabao; Japhug
+1209,suri1267,suq,Suri,Tirmaga
+1210,bilu1245,blb,Bilua,NA
+1211,hoav1238,hoa,Hoava,NA
+1212,fili1244,fil,Filipino,NA
+1213,ngad1261,nxg,Ngad''a; Ngadha',NA
+1214,muna1247,mnb,Muna,NA
+1215,keoo1238,xxk,Ke''o; Kéo',Udiworowatu
+1216,aheu1239,thm,Aheu; Thavung,Samhing
+1217,saki1248,skf,Sakirabiá; Mekens,NA
+1218,tiwi1244,tiw,Tiwi,NA
+1219,torw1241,trw,Torwali,NA
+1220,thul1246,tdh,Thulung; Thulung Rai,NA
+1221,tsha1245,tsj,Tshangla,NA
+1222,colo1256,cof,Colorado; Tsafiki,NA
+1223,tzut1248,tzj,Tzutujil,San Juan
+1224,pwon1235,pww,Pwo Karen,NA
+1225,tuvi1240,tyv,Tuva; Tuvan,NA
+1226,kinn1249,kfk,Kinnauri; Kanauri,"Himachal Pradesh; Kalpa, Nichar, and Pooh areas"
+1227,mewa1250,wtm,Mewati,NA
+1228,anei1239,aty,Aneityum; Anejom̃,NA
+1229,zaiw1241,atb,Zaiwa,NA
+1230,chic1270,cic,Chickasaw,NA
+1231,friu1240,fur,Friulian,Udine
+1232,jica1244,apj,Jicarilla Apache,Dulce
+1233,egaa1242,ega,Ega,Gniguedougou & Gnama
+1234,adam1253,fub,Adamawa Fulfulde; Adamawa Fulani,NA
+1235,west2441,are,Arrarnte,Western Arrarnte
+1236,sanu1240,xsu,Sanuma; Sanumá,NA
+1237,wari1268,pav,Wari; Wari''; Wariʔ; Oro Nao',Oro Nao
+1238,crow1244,cro,Crow,NA
+1239,barb1263,boi,Barbareño,NA
+1240,lyel1241,lee,Lele (Lyélé),Variety spoken in Debreng
+1241,adam1253,fub,Fulfulde (Cameroon),CAM
+1242,anyi1245,any,Anyi Sanvi,NA
+1243,anyi1245,any,Agni Djuablin,NA
+1244,anyi1244,mtb,Agni Morofo,NA
+1245,akan1250,aka,Akan,NA
+1246,anuf1239,cko,anufɔ,NA
+1247,dibo1245,bvx,babole,NA
+1248,bana1305,bcw,bana,NA
+1249,baka1274,bdh,baka,NA
+1250,ajas1235,aja,aja,NA
+1251,bila1255,bip,bila,NA
+1252,busa1253,bqp,busa,NA
+1253,adam1253,fub,fulfulde (fuunaangere),fuunaangere
+1254,nige1253,fuv,fulfulde (NGA),Kaceccereere
+1255,here1253,her,herero,NA
+1256,ceba1235,sef,Senoufo-Cebaara,Tangari
+1257,koyr1240,khq,songhoy,NA
+1258,bafi1243,ksf,kpaʔ,NA
+1259,lega1249,lea,lega-shabunda,beya
+1260,limb1268,lmp,limbum (southern),southern
+1261,limb1268,lmp,limbum (central),central
+1262,limb1268,lmp,limbum (northern),northern
+1263,myen1241,mye,myene,NA
+1264,ntch1242,bud,N'cam,NA
+1265,tune1261,tvu,Nen,NA
+1266,matu1259,mgw,matuumbi,NA
+1267,yaoo1241,yao,yao,NA
+1268,umbu1257,umb,umbundu,NA
+1269,ndon1254,ndo,ndonga,NA
+1270,mbuk1240,mhw,mbukushu,NA
+1271,diri1252,diu,diriku,NA
+1272,kwan1273,kwn,kwangari,NA
+1273,soni1259,snk,soninke (kaedi (MRT)),kaedi (MRT)
+1274,koyr1242,ses,"Songhay, Koyraboro Senni",NA
+1275,lele1276,lln,Lele,NA
+1276,ikal1242,kck,Ikalanga,NA
+1277,mong1338,lol,mongo-nkundu,NA
+1278,long1387,wok,longto,NA
+1279,xwel1235,xwe,xwela,NA
+1280,west2456,xwl,western xwla,NA
+1281,kota1272,kqk,kotafon,NA
+1282,gbes1238,gbs,gbesi,NA
+1283,mach1266,jmc,machame,bosho
+1284,mada1282,mda,mada,NA
+1285,mbee1249,mfo,mbe,NA
+1286,ngwe1238,nwe,ngwe,NA
+1287,jowu1238,jow,jowulu,NA
+1288,yala1263,yba,yala,ikom
+1289,mamb1296,mgr,cilungu,NA
+1290,kete1252,kcv,kete,NA
+1291,kwes1244,kws,kwezo,NA
+1292,sout2828,snm,Madi,Lokai
+1293,moru1253,mgd,Moru,NA
+1294,logo1259,log,Logo,NA
+1295,afit1238,aft,Afitti,NA
+1296,avat1244,avn,Avatime,NA
+1297,abua1244,abn,Abua,NA
+1298,anyi1245,any,Anyi,NA
+1299,dghw1239,dgh,Dghwede,NA
+1300,eloy1241,afo,Eloyi,NA
+1301,nige1253,fuv,Fula (Nigeria),Nigeria
+1302,giky1238,acd,Gechode,NA
+1303,giny1241,ayg,Genyanga,NA
+1304,huba1236,hbb,Kilba,NA
+1305,kofy1242,kwl,Kofyar,NA
+1306,krac1238,kye,Krache,NA
+1307,krim1238,bmf,Krim,NA
+1308,west2458,bbp,"Banda, West Central",Tangbago
+1309,sout2833,dib,"Dinka, South Central",NA
+1310,food1238,fod,Foodo,NA
+1311,jola1262,csk,Joola Huluf,NA
+1312,jumj1238,jum,Jumjum,NA
+1313,buru1301,bdi,Burun,Kurmuk
+1314,olub1238,lul,Lulubo,NA
+1315,maay1238,ymm,Maay,Lower Jubba
+1316,maba1273,mfz,Mabaan,NA
+1317,suga1248,sgi,Nizaa,NA
+1318,copi1238,cce,Copi,NA
+1319,xhos1239,xho,Xhosa,NA
+1320,siwu1238,akp,Siwu,NA
+1321,sher1258,bun,Sherbro,NA
+1322,mman1238,buy,Mmani,NA
+1323,cher1271,cpn,Hill Guang,Gwa
+1324,palo1243,fap,Ndut-Falor,Falor
+1325,fraf1238,gur,Frafra,Gudeni
+1326,sekp1241,lip,Likpe,Bakwa
+1327,mamp1244,maw,Mampruli,Walewale
+1328,tong1318,toi,Shanjo,NA
+1329,bady1239,pbp,Pajade,Badiaranke
+1330,sele1249,snw,Sele,NA
+1331,tivv1240,tiv,Tiv,Central (Standard)
+1332,bili1260,byn,Blin,NA
+1333,xamt1239,xan,Xamtanga,NA
+1334,lika1243,lik,Lika,NA
+1335,yans1239,yns,Yanzi,NA
+1336,budu1250,buu,Kibudu,NA
+1337,kele1255,khy,Iikile,NA
+1338,leng1258,lej,Lengola,Balega
+1339,keli1248,kbo,Kaliko,NA
+1340,wong1247,won,Wongo,Isiinkere
+1341,mwal1237,wlc,Mwali,NA
+1342,afar1241,aar,Afar,NA
+1343,mund1325,mua,Mundang,NA
+1344,mono1269,mru,Mono,NA
+1345,tupu1244,tui,Tupuri,NA
+1346,kuoo1238,xuo,Kuo,NA
+1347,kare1338,kbn,Kare,NA
+1348,ndai1238,gke,Galke,NA
+1349,bamb1262,myf,Northern Mao,NA
+1350,tigr1271,tir,Tigrinya,NA
+1351,kara1483,kdj,Karimojong,NA
+1352,gwan1268,gwn,Gwandara (Karshi),Karshi
+1353,gwan1268,gwn,Gwandara (Cancara),Cancara
+1354,gwan1268,gwn,Gwandara (Toni),Toni
+1355,gwan1268,gwn,Gwandara (Gitata),Gitata
+1356,gwan1268,gwn,Gwandara (Koro),Koro
+1357,gwan1268,gwn,Gwandara (Nimbia),Nimbia
+1358,avik1243,avi,Avikam,NA
+1359,shil1265,shk,Shilluk,NA
+1360,haio1238,hgm,San,NA
+1361,pero1241,pip,Pero,NA
+1362,bora1271,gax,Galla,NA
+1363,hadi1240,hdy,Hadiyya,NA
+1364,wola1242,wal,Welamo,NA
+1365,kuny1238,njx,Nyanga,NA
+1366,otuh1238,lot,Otuho,NA
+1367,masa1299,myx,Orusyan,NA
+1368,kamw1239,hig,Higi,NA
+1369,many1261,mzj,Manya,NA
+1370,saya1246,say,Syan,NA
+1371,njeb1242,nzb,Nzɛbi,NA
+1372,tada1238,dsq,Tadaksahak,NA
+1373,kamb1316,ktb,Kambaata,NA
+1374,otor1240,otr,Otoro,NA
+1375,tira1254,tic,Tira,NA
+1376,nyam1285,nmi,Nyam,NA
+1377,fali1285,fli,Kirya-Konzɘl,NA
+1378,mawa1270,mcw,Mawa,NA
+1379,huaa1248,nmn,!Xóõ,NA
+1380,koal1240,kib,Koalib,NA
+1381,kagu1239,kki,Kagulu,NA
+1382,okoo1245,oks,Oko,NA
+1383,kung1261,knw,!Xun,W2
+1384,ghom1247,bbj,Banjun,NA
+1385,defa1248,afn,Defaka,NA
+1386,teee1242,tkq,Tee,NA
+1387,kips1239,sgc,Kipsigis,NA
+1388,pang1287,pbr,Pangwa,NA
+1389,holo1240,hoo,Holoholo,NA
+1390,buli1254,bwu,Buli,NA
+1391,bala1302,bjt,Balante,Ganja
+1392,nyam1277,now,Kinyambo,NA
+1393,dann1241,daf,Dan,Santa
+1394,poko1263,pko,Pokot,NA
+1395,afri1274,afr,Afrikaans,NA
+1396,argo1244,agj,Argobba,NA
+1397,hara1271,har,Harari,NA
+1398,dink1262,din,Dinka,macrolanguage
+1399,nzim1238,nzi,Nzema,NA
+1400,ahan1243,aha,Ahanta,NA
+1401,besl1239,hna,Besleri,NA
+1402,buwa1243,bhs,Buwal,NA
+1403,hdii1240,xed,Hide,NA
+1404,lama1288,hia,Lamang,NA
+1405,ikwe1242,ikw,Ikwere,NA
+1406,lagw1237,kot,Lagwan,NA
+1407,gbay1281,gmm,Mbodomo,NA
+1408,mbuk1243,mqb,Mbuko,NA
+1409,molo1266,mlw,Moloko,NA
+1410,muya1243,muy,Muyang,NA
+1411,ngom1272,jgo,Ngomba,NA
+1412,keme1240,dmo,Kemezung,NA
+1413,nate1242,ntm,Nateni,NA
+1414,silt1240,stv,Silt'i,NA
+1415,wehh1238,weh,Weh,NA
+1416,tuli1249,tey,Tulishi,Kamda
+1417,keig1242,kec,Keiga,NA
+1418,kron1241,kgo,Krongo,NA
+1419,kang1288,kcp,Kanga (Kanga),Kanga
+1420,kang1288,kcp,Kanga (Kufa),Kufa
+1421,katc1249,xtc,Kadugli (Kadugli),Kadugli
+1422,katc1249,xtc,Kadugli (Miri),Miri
+1423,katc1249,xtc,Kadugli (Katcha),Katcha
+1424,moro1284,mgc,Morokodo,NA
+1425,arin1244,luc,Aringa,NA
+1426,tese1238,keg,These,NA
+1427,lumu1239,lmd,Lumun,NA
+1428,ache1245,acz,Asharon,NA
+1429,toch1257,taz,Tocco,NA
+1430,dagi1241,dec,Thakik,NA
+1431,didi1258,did,Didinga,NA
+1432,luwo1239,lwo,Luwo,NA
+1433,acol1236,ach,Acholi,NA
+1434,bela1256,bxb,Belanda Boor,NA
+1435,bela1255,bvi,Belanda Viri,NA
+1436,ndog1248,ndz,Ndogo,NA
+1437,bade1248,bde,Bade,Western
+1438,fern1234,fpe,Pichi,NA
+1439,jita1239,jit,Jita,NA
+1440,dime1235,dim,Dime,NA
+1441,tsot1241,lto,Lutsootso,NA
+1442,jams1239,djm,"Jamsay, Dogon",NA
+1443,kamb1297,kam,Kikamba,NA
+1444,bafi1243,ksf,Bafia,NA
+1445,lang1324,laj,Lango,NA
+1446,kisa1263,lks,Olukisa,NA
+1447,nyol1238,nuj,Nyole,NA
+1448,mwan1247,wmw,Kimwani,NA
+1449,kgal1244,xkv,Shekgalagari,NA
+1450,tiey1235,boz,Tigemaxo Bozo,NA
+1451,alab1254,alw,Alaaba,NA
+1452,dege1246,deg,Degema,NA
+1453,ntch1242,bud,Basari,NA
+1454,prin1242,pre,Principense,NA
+1455,nkon1248,nko,Nkonya,NA
+1456,sodd1242,gru,Soddo,NA
+1457,kist1241,gru,Goggot,NA
+1458,mesq1240,mvz,Masqan,NA
+1459,seba1251,sgw,Muher,NA
+1460,ezha1238,sgw,Ezha,NA
+1461,chah1248,sgw,Chaha,NA
+1462,gume1239,sgw,Gumer,NA
+1463,seba1251,sgw,Gura,NA
+1464,seba1251,sgw,Gyeto,NA
+1465,inor1238,ior,Ennemor,NA
+1466,inor1238,ior,Endegen,NA
+1467,inor1238,ior,Ener,NA
+1468,dzuu1241,dnn,Dzuungoo,NA
+1469,bagi1246,bmi,Bagirmi,NA
+1470,ngit1239,niy,Ngiti,NA
+1471,ndal1241,ndh,Chindali,NA
+1472,meen1242,mym,Me'en,NA
+1473,ngas1238,nsg,Ongamo,NA
+1474,mbay1241,myb,Mbay,NA
+1475,gumu1244,guk,Gumuz,Sese
+1476,sooo1256,teu,Soo,NA
+1477,benc1235,bcq,Gimira,Benchnon
+1478,benc1235,bcq,Bench,NA
+1479,yems1235,jnj,Yemsa,NA
+1480,zays1236,zay,Zayse,NA
+1481,gamo1243,gmv,Gamo,NA
+1482,koor1239,kqy,Koorete,NA
+1483,aari1239,aiw,Aari,NA
+1484,komo1258,xom,Komo,NA
+1485,uduk1239,udu,Twampa,NA
+1486,opuu1239,lgn,Opo,NA
+1487,kwam1249,kmq,Kwama,NA
+1488,mayo1261,mdm,Mayogo,NA
+1489,saam1283,lsm,Lusaamia,NA
+1490,sout2795,nnw,Nouni,NA
+1491,nort2795,nde,Ndebele,NA
+1492,saxw1241,sxw,"Saxwe, Gbe",NA
+1493,nari1240,loh,Laarim,NA
+1494,bidy1244,bjg,Bijogo,NA
+1495,domp1238,doy,Dompo,NA
+1496,bamb1269,bam,Bamana,Beledugu
+1497,heib1243,hbn,Heiban,NA
+1498,koya1253,kga,Koyaga,NA
+1499,shwa1239,shw,Cwaya,NA
+1500,gaaa1245,ttb,Tiba,NA
+1501,kuan1247,kua,Kwanyama,NA
+1502,mbal1255,lnb,Mbalanhu,NA
+1503,kwam1251,kwm,Kwambi,NA
+1504,ngan1300,nne,Ngandjera,NA
+1505,ndon1254,ndo,Ndonga (Kwaluudhi),Kwaluudhi
+1506,ndon1254,ndo,Ndonga (Kolonkadhi),Kolonkadhi
+1507,ndon1254,ndo,Ndonga (Eunda),Eunda
+1508,konk1269,xon,Konkomba,Nawaré
+1509,zagh1240,zag,Beria,NA
+1510,zayy1238,zwa,Zway,NA
+1511,bomi1238,zmx,Leke,NA
+1512,nort2819,bbo,"Bobo, North",Tansila
+1513,bena1262,bez,Bena,NA
+1514,guin1254,gkp,"Kpelle, North",NA
+1515,kaka1265,kke,Kakabe,NA
+1516,lele1266,llc,Lele,NA
+1517,loma1260,lom,Looma,NA
+1518,mann1248,mev,Mano,NA
+1519,kyen1242,tye,Kyanga,NA
+1520,shan1282,sho,Shanga,NA
+1521,abur1243,abu,Abure,NA
+1522,bank1256,abb,Bankon,NA
+1523,efut1241,afu,Efutu,NA
+1524,aghe1239,agq,Aghem,NA
+1525,arbo1245,arv,Arbore,NA
+1526,abid1235,abi,Abidji,NA
+1527,adio1239,adj,Adioukrou,NA
+1528,tiag1235,ahi,"Aizi, Tiagba",NA
+1529,alla1248,ald,Alladian,NA
+1530,begb1241,bqv,Tinɔr,NA
+1531,ngaz1238,zdj,Shindazidja,Washili
+1532,akpe1248,ibe,Akpes,Daja
+1533,eten1239,etx,Iten,NA
+1534,nuer1246,nus,Nuer,NA
+1535,kagf1238,gel,West Kainji,NA
+1536,idom1241,idu,Idu,NA
+1537,irig1241,iri,Rigwe,NA
+1538,izer1241,izr,Izere,NA
+1539,jere1244,jer,Jere,Eboze
+1540,legb1242,agb,Leggbo,NA
+1541,logb1245,lgq,Logba,NA
+1542,awng1244,awn,Awngi,NA
+1543,glav1244,glw,Glavda,NA
+1544,ahan1244,ahn,Ahaan,NA
+1545,ayer1245,aye,Uwu,NA
+1546,rong1268,rng,Ronga,NA
+1547,ndzw1235,wni,"Comorian, Ndzwani",NA
+1548,sout2790,biv,Birifor,NA
+1549,kuwa1246,cwt,Kwatay,NA
+1550,atti1239,ati,Attie,Memni
+1551,ango1258,aoa,Angolar,NA
+1552,east2652,hae,"Oromo, Eastern",Harar
+1553,uppe1455,pov,Kriyol,NA
+1554,akoo1248,bss,Akoose,Nyasoso
+1555,baka1273,bqz,Bakaka (Mwaneka),Mwaneka
+1556,baka1273,bqz,Bakaka (Babong),Babong
+1557,baka1273,bqz,Bakaka (Mkaa'),Mkaa'
+1558,mboc1235,mbo,Mbo (Ekanang),Ekanang
+1559,bass1260,bsi,Bassossi,Mienge
+1560,mboc1235,mbo,Mbo (Ngwatta),Ngwatta
+1561,libe1240,lir,Liberian English,NA
+1562,gagu1242,ggu,Gban,NA
+1563,eton1253,eto,Eton,NA
+1564,reun1238,rcf,Reunionnais,NA
+1565,nucl1440,mls,Masalit,NA
+1566,saot1239,cri,Saotomense,NA
+1567,nucl1696,tan,Tangale,NA
+1568,suku1261,suk,Sukuma,NA
+1569,mori1278,mfe,Mauritian Creole,Ordinary'
+1570,krio1253,kri,Krio,NA
+1571,kitu1246,ktu,Kituba,Kwilu
+1572,akas1242,aks,Akasilimi,NA
+1573,tuki1240,bag,Tuki,NA
+1574,baka1272,bkc,Baka,NA
+1575,bumm1238,bmv,Bum,NA
+1576,nucl1683,dbq,Daba,NA
+1577,gava1241,gou,Gavar,NA
+1578,gude1246,gde,Gu'de,NA
+1579,lang1322,lno,Lango,NA
+1580,igoo1238,ahl,Igo,NA
+1581,kako1242,kkj,Kako,NA
+1582,kwan1276,knp,Kwanja,Sundani
+1583,came1252,mcu,Mambila,Atta
+1584,mere1246,meq,Mere,NA
+1585,wand1278,mfi,Mandara,NA
+1586,chon1287,coh,Chonyi,NA
+1587,digo1243,dig,Digo,NA
+1588,duru1249,dug,Duruma,NA
+1589,giry1241,nyf,Giryama,NA
+1590,giry1241,nyf,Jiβana,NA
+1591,kamb1298,nyf,Kambe,NA
+1592,kaum1238,nyf,Kauma,NA
+1593,giry1241,nyf,Raβai,NA
+1594,giry1241,nyf,Reβe,NA
+1595,vame1236,mlr,Vame,NA
+1596,mmaa1238,mmu,Numala,NA
+1597,mpad1242,mpi,Kotoko,Makary
+1598,mofu1248,mif,"Mofu, South",Gudur
+1599,mbee1249,mfo,Mbe,NA
+1600,ncan1245,ncr,Nchane,NA
+1601,mfum1238,nfu,Mfumte,NA
+1602,njye1238,njy,Njem,NA
+1603,buam1238,box,Bwamut,Bondoukuy
+1604,kwam1250,ktf,Kwami,NA
+1605,guro1248,goa,Gouro,NA
+1606,kabu1256,kea,Cape Verde Creole,NA
+1607,boun1243,nku,Kulango,Bouna
+1608,tsam1247,tsb,Ts'amakko,NA
+1609,cent2194,tzm,Tamazight Berber,NA
+1610,siwi1239,siz,Siwi,NA
+1611,ndam1239,ndj,Ndamba,NA
+1612,bare1279,bva,Barein (Jalkiya),Jalkiya
+1613,bare1279,bva,Barein (Giliya),Giliya
+1614,bare1279,bva,Barein (Jalking),Jalking
+1615,bare1279,bva,Barein (Komiya),Komiya
+1616,gaam1241,tbi,Gaahmg,NA
+1617,abar1238,mij,Mungbam,Munken
+1618,mund1328,boe,Mundabli,NA
+1619,mbuu1238,muc,Ajumbu,NA
+1620,kosh1246,kid,Koshin,NA
+1621,fang1248,fak,Fang,NA
+1622,kura1250,knk,Kuranko,NA
+1623,niel1243,nie,Lwaa,NA
+1624,nort3047,gis,Gisiga,North
+1625,mogh1246,mgo,Moghamo,NA
+1626,mokp1239,bri,Mokpwe,NA
+1627,siam1242,sif,Siamou,NA
+1628,ngie1241,nnh,Ngiemboon,NA
+1629,nugu1242,yas,Nugunu,NA
+1630,tigo1236,nza,Mbembe,NA
+1631,orma1241,orc,Orma,NA
+1632,piny1238,pny,Pinyin,NA
+1633,pana1294,pnz,Pana,NA
+1634,reel1238,atu,Thok Reel,NA
+1635,wuzl1236,udl,Ouldeme,NA
+1636,lese1243,les,Balese,NA
+1637,tour1242,neb,Toura,NA
+1638,gwen1239,gwe,Kigweno,NA
+1639,sumb1240,suw,Sisumbwa,NA
+1640,zinz1238,zin,Luzinza,NA
+1641,meru1245,mer,Kimeru,NA
+1642,kahe1238,hka,Kikahe,NA
+1643,hang1260,han,Kihangaza,NA
+1644,moch1256,old,Kimochi,NA
+1645,suba1252,ssc,Kisimbiti,NA
+1646,kway1241,kya,Eciruuri,NA
+1647,wawa1246,www,Wawa,NA
+1648,tach1250,shi,Tachelhit,NA
+1649,tuni1251,tug,Tounia,NA
+1650,ceba1235,sef,"Senoufo, Cebaara",Tangari
+1651,fuli1240,flr,Fuliiru,NA
+1652,sand1273,sad,Sandawe,NA
+1653,tsuv1239,tvd,Tsuvaɗi,NA
+1654,ejag1239,etu,Ejagham,NA
+1655,yemb1246,ybb,Yemba,NA
+1656,bafa1249,bfj,Nchufie,NA
+1657,burj1242,bji,Burji,NA
+1658,anii1245,blo,Anii,NA
+1659,fipa1238,fip,Fipa,Kwa
+1660,nawu1242,naw,Nawuri,NA
+1661,anfi1235,myo,Anfillo,NA
+1662,ntom1248,nto,Bokala-Nkole,Nkole
+1663,tumt1243,tbr,Talasa,NA
+1664,iyiv1238,uiv,Iyive,NA
+1665,bata1293,btx,Karo Batak,NA
+1666,taga1270,tgl,Tagalog,NA
+1667,sout2918,ssb,Southern Sama,"Sinama, Simunul Island"
+1668,kima1244,kqr,Kimaragang,Tandek
+1669,bela1260,beg,Belait,Metting
+1670,ilok1237,ilo,Iloko/Ilocano,Northern
+1671,east2563,cjm,Phan Rang Cham (Eastern Cham),NA
+1672,mokl1243,mkm,Moklen,NA
+1673,moke1242,mwt,Moken,Dung Moken
+1674,nias1242,nia,Nias,Selatan
+1675,java1254,jav,Javanese,Yogya-Solo
+1676,buol1237,blf,Buol,NA
+1677,maka1311,mak,Makassar,NA
+1678,mori1268,xmz,Mori Bawah,Tinompo
+1679,kamb1299,xbr,Kambera,NA
+1680,tetu1245,tet,Tetun,NA
+1681,leti1246,lti,Leti,NA
+1682,east2440,mky,"Makian, East (Taba)",NA
+1683,biak1248,bhw,Biak,Sowek
+1684,ambo1250,abs,Ambon Malay,NA
+1685,band1353,bpq,Banda Malay,NA
+1686,mala1481,xmm,Manado Malay,NA
+1687,kupa1239,mkn,Kupang Malay,NA
+1688,lara1260,lrt,Larantuka Malay,NA
+1689,nort2828,max,North Maluku Malay,NA
+1690,indo1316,ind,Indonesian,Standard
+1691,nucl1460,mad,Madurese,Bangkalan
+1692,cebu1242,ceb,Cebuano,NA
+1693,bali1278,ban,Balinese,NA
+1694,bugi1244,bug,Bugis,NA
+1695,cent2087,bcl,Bikol (Bicolano),Central
+1696,hili1240,hil,Hiligaynon,NA
+1697,pamp1243,pam,Kapampangan,NA
+1698,mina1268,min,Minangkabau,Padang
+1699,pang1290,pag,Pagasinan,NA
+1700,teng1272,tes,Tengger,Ngadas
+1701,abuj1237,mrr,Abujmaria,NA
+1702,apuc1241,apq,Andamanese,NA
+1703,anga1288,njm,Angami,NA
+1704,aona1235,njo,Ao-Naga,NA
+1705,apat1240,apt,Apatani,NA
+1706,assa1263,asm,Assamese,NA
+1707,awad1243,awa,Awadhi,NA
+1708,bada1257,bfq,Badaga,NA
+1709,balt1258,bft,Balti,NA
+1710,lamb1269,lmn,Banjara,NA
+1711,beng1280,ben,Bengali,NA
+1712,bhil1251,bhb,Bhili,NA
+1713,mund1320,unr,Bhumij,NA
+1714,boro1277,bwo,BoRo,NA
+1715,brok1247,bkk,Brokskat,NA
+1716,bund1253,bns,Bundeli,NA
+1717,chau1259,cdn,Chandangs and Byangs,NA
+1718,chok1243,nri,Chokri,NA
+1719,darm1243,drd,Darmiya,NA
+1720,gata1239,gaq,Didayi,NA
+1721,gade1236,gda,Gade-Lohar,NA
+1722,galo1242,adl,Gallong,NA
+1723,garo1247,grt,Garo,NA
+1724,guja1253,gju,Gojri,NA
+1725,guja1252,guj,Gujarati,NA
+1726,bodo1267,gbj,Gutob,NA
+1727,halb1244,hlb,Halbi,NA
+1728,hind1269,hin,Hindi,NA
+1729,hooo1248,hoc,Ho,NA
+1730,irul1243,iru,Irula,NA
+1731,jaun1243,jns,Jaunsari,NA
+1732,juan1238,jun,Juang,NA
+1733,kang1280,xnr,Kangri,NA
+1734,nucl1305,kan,Kannada,NA
+1735,saur1248,saz,Kanigke:rgotti,NA
+1736,karb1241,mjw,Karbi (Mikir),NA
+1737,irul1243,iru,Kasaba,NA
+1738,kash1277,kas,Kashmiri,NA
+1739,jenn1240,xuj,Kattunaika,NA
+1740,khar1287,khr,Kharia,NA
+1741,khas1269,kha,Khasi,NA
+1742,khez1235,nkh,Khezha,NA
+1743,koda1255,kfa,Kod̩agu,NA
+1744,nort2699,kfb,Kolami,NA
+1745,kond1295,kfc,Kon̩d̩a or Kubi,NA
+1746,mudh1235,gau,Kon̩ekar Gadaba,NA
+1747,konk1267,knn,Konkani,NA
+1748,korr1238,kfd,Koraga,NA
+1749,kork1243,kfq,Korku,NA
+1750,kota1263,kfe,Kota,NA
+1751,koya1251,kff,Koya,NA
+1752,kuii1252,kxu,Kui,NA
+1753,kuma1273,kfy,Kumauni,NA
+1754,kuru1302,kru,Kurux,NA
+1755,kuvi1243,kxv,Kuvi,NA
+1756,lada1244,lbj,Ladakhi,NA
+1757,lamb1269,lmn,Lamani,NA
+1758,lepc1244,lep,Lepca,NA
+1759,loth1237,njh,Lotha,NA
+1760,lush1249,lus,Lushai,NA
+1761,mait1250,mai,Maithili,NA
+1762,mala1464,mal,Malayalam,NA
+1763,saur1249,mjt,Malto,NA
+1764,mani1292,mni,Manipuri,NA
+1765,maon1238,nbi,Mao-Naga,NA
+1766,mara1378,mar,Marathi,NA
+1767,miju1243,mxj,Mishmi,NA
+1768,miny1240,mrg,Mising,NA
+1769,moyo1238,nmo,Moyon,NA
+1770,mund1320,unr,Mundari,NA
+1771,naik1250,nit,Naiki,NA
+1772,nepa1254,npi,Nepali,NA
+1773,cent1990,ncb,Nicobarese,NA
+1774,pott1240,gdb,Ollari,NA
+1775,oriy1255,ory,Oriya,NA
+1776,pait1244,pck,Paite,NA
+1777,duru1236,pci,Parji,NA
+1778,patt1248,lae,Pat̩t̩an̩i,NA
+1779,peng1244,peg,Pengo,NA
+1780,panj1256,pan,Punjabi,NA
+1781,bond1245,bfw,Remo,NA
+1782,sans1269,san,Sanskrit,NA
+1783,sant1410,sat,Santali,NA
+1784,sumi1235,nsm,Sema,NA
+1785,shin1264,scl,Shina,NA
+1786,sind1272,snd,Sindhi,NA
+1787,sora1254,srb,Soːra,NA
+1788,tami1289,tam,Tamil,NA
+1789,tang1336,nmf,Tangkul Naga,NA
+1790,tase1235,nst,Tangsa,NA
+1791,telu1262,tel,Telugu,NA
+1792,thad1238,tcz,Thaadou,NA
+1793,toda1252,tcx,Toda,NA
+1794,kokb1239,trp,Tripuri,NA
+1795,tulu1258,tcy,Tulu,NA
+1796,ural1274,url,Urali,NA
+1797,urdu1245,urd,Urdu,NA
+1798,vaag1238,vaa,Vaagri Boli,NA
+1799,ravu1237,yea,Yerava,NA
+1800,yeru1240,yeu,Yerukala,NA
+1801,qawa1238,alc,Kawesqar,Kawesqar
+1802,mapu1245,arn,Mapudungun,NA
+1803,acha1250,aca,Achagua,NA
+1804,apur1254,apu,Apurinã,NA
+1805,araw1276,arw,Lokono,NA
+1806,asha1243,cni,Asháninka,NA
+1807,ajyi1238,cpc,Ashéninka,Apurucayali dialect
+1808,ashe1272,prq,Ashéninka,Perené dialect
+1809,pich1237,cpu,Ashéninka,Pichis dialect
+1810,ucay1237,cpb,Ashéninka,Ucayali-Yurúa dialect
+1811,bani1255,bwi,Baniwa,Central
+1812,bani1255,bwi,Baniwa,Rio Negro
+1813,bare1276,bae,Baré,NA
+1814,cabi1241,cbb,Cabiyarí,NA
+1815,caqu1242,cot,Caquinte,NA
+1816,cham1318,ccc,Chamicuro,NA
+1817,curr1243,kpc,Curripaco,NA
+1818,enaw1238,unk,Enawené-Nawé,NA
+1819,inap1243,inp,Iñapari,NA
+1820,guan1270,gqn,Kinikinao,NA
+1821,mach1268,mpd,Manchinere,NA
+1822,mach1267,mcb,Matsigenka,NA
+1823,mehi1240,mmh,Mehináku,NA
+1824,nant1250,cox,Nanti,NA
+1825,noma1263,not,Nomatsigenga,NA
+1826,pali1279,plu,Palikúr,NA
+1827,para1316,pbg,Paraujano,NA
+1828,pare1272,pab,Paresí,NA
+1829,piap1246,pio,Piapoco,NA
+1830,resi1247,rgr,Resígaro,NA
+1831,tari1256,tae,Tariana,NA
+1832,tere1279,ter,Terêna,NA
+1833,wapi1253,wap,Wapichana,NA
+1834,guar1293,gae,Warekena,NA
+1835,waur1244,wau,Waurá,NA
+1836,wayu1243,guc,Wayúu,NA
+1837,xiri1243,xir,Xiriâna,NA
+1838,yane1238,ame,Yánesha,NA
+1839,yavi1244,yvt,Yavitero,NA
+1840,yawa1261,yaw,Yawalapití,NA
+1841,yine1238,pib,Yine,NA
+1842,yucu1253,ycn,Yucuna,NA
+1843,baur1253,brg,Baure,NA
+1844,igna1246,ign,Ignaciano,NA
+1845,deni1241,dny,Dení,NA
+1846,jama1261,jaa,Jamamadí,Jamamadí
+1847,jama1261,jaa,Jarawara,Jarawara
+1848,culi1244,cul,Kulina,NA
+1849,paum1247,pad,Paumarí,NA
+1850,suru1263,swx,Suruahá,NA
+1851,cent2142,ayr,Aymara,Central dialect
+1852,jaqa1244,jqr,Jaqaru,NA
+1853,awac1239,kwi,Awa-Cuaiquer,NA
+1854,chac1249,cbi,Cha'palaa,NA
+1855,guam1248,gum,Guambiano,NA
+1856,colo1256,cof,Tsáfiki,NA
+1857,bora1263,boa,Bora,NA
+1858,mira1254,boa,Miraña,Miraña
+1859,muin1242,bmr,Muinane,NA
+1860,jebe1250,jeb,Shiwilu,NA
+1861,chay1248,cbt,Shawi,NA
+1862,akur1238,ako,Akurio,NA
+1863,apal1257,apy,Apalaí,NA
+1864,para1310,aap,"Arára, Pará",NA
+1865,baka1277,bkq,Bakairí,Eastern dialect
+1866,baka1277,bkq,Bakairí,Western dialect
+1867,gali1262,car,Carib,French Guiana dialect
+1868,gali1262,car,Carib,Venezuela dialect
+1869,gali1262,car,Carib,Suriname dialect
+1870,cari1279,cbd,Carijona,NA
+1871,hixk1239,hix,Hixkaryána,NA
+1872,ikpe1245,txi,Ikpeng,NA
+1873,akaw1239,ake,Ingarikó,NA
+1874,japr1238,jru,Japreria,NA
+1875,kaxu1237,kbb,Kaxuiâna,NA
+1876,kuik1246,kui,Kuikúro-Kalapálo,NA
+1877,macu1259,mbc,Macushi,NA
+1878,mapo1246,mcg,Mapoyo,NA
+1879,maqu1238,mch,Yekwana,NA
+1880,enap1235,pbh,Panare,NA
+1881,pemo1248,aoc,Pemon,Tarepang dialect
+1882,pemo1248,aoc,Pemon,Arekuna dialect
+1883,pemo1245,pev,Pémono,NA
+1884,trio1238,tri,Trió,NA
+1885,waim1253,atr,Waimiri-Atroarí,NA
+1886,waiw1244,waw,Waiwai,NA
+1887,waya1269,way,Wayana,NA
+1888,yaba1248,yar,Yabarana,NA
+1889,orow1243,orw,Oro Win,NA
+1890,wari1268,pav,Wari',NA
+1891,arhu1242,arh,Ika,NA
+1892,bari1297,mot,Barí,NA
+1893,chib1270,chb,Muisca,NA
+1894,chim1309,cbg,Chimila,NA
+1895,cofa1242,con,Cofán,NA
+1896,cogu1240,kog,Kogi,NA
+1897,bord1248,kvn,Border Kuna,NA
+1898,mala1522,mbp,Damana,NA
+1899,cent2150,tuf,Tunebo,Central dialect
+1900,woun1238,noa,Woun Meu,NA
+1901,embe1259,bdc,Emberá-Baudó,NA
+1902,embe1260,cto,Emberá-Catío,NA
+1903,embe1262,cmi,Emberá-Chamí,NA
+1904,nort2972,emp,Northern Emberá,NA
+1905,epen1239,sja,Epena,NA
+1906,puel1244,pue,Günün Yajich,NA
+1907,onaa1245,ona,Chon,NA
+1908,tehu1242,teh,Tehuelche,NA
+1909,coca1259,cod,Kokama-Kokamilla,NA
+1910,cuib1242,cui,Cuiba,NA
+1911,guah1255,guh,Guahibo,NA
+1912,guay1257,guo,Guayabero,NA
+1913,maca1259,mbn,Macaguán,NA
+1914,abip1241,axb,Abipon,NA
+1915,kadi1248,kbc,Kadiwéu,NA
+1916,moco1246,moc,Mocoví,NA
+1917,pila1245,plg,Pilagá,NA
+1918,toba1269,tob,Toba,Lañagashik dialect
+1919,toba1269,tob,Toba,Takshek dialect
+1920,amar1274,amr,Amarakaeri,NA
+1921,chol1284,cht,Cholón,NA
+1922,ando1256,ano,Andoke,NA
+1923,abis1238,ash,Aʔɨwa,NA
+1924,cams1241,kbh,Camsá,NA
+1925,cand1248,cbu,Candoshi-Shapra,NA
+1926,cayu1262,cyb,Cayubaba,NA
+1927,iran1263,irn,Mỹky,NA
+1928,iton1250,ito,Itonama,NA
+1929,leco1242,lec,Leco,NA
+1930,lule1238,ule,Lule,NA
+1931,moch1259,omc,Mochica,NA
+1932,movi1243,mzp,Movima,NA
+1933,muni1258,myr,Muniche,NA
+1934,paez1247,pbb,Páez,NA
+1935,puin1248,pui,Puinave,NA
+1936,taus1253,trr,Taushiro,NA
+1937,ticu1245,tca,Ticuna,NA
+1938,tini1245,tit,Tinigua,NA
+1939,trum1247,tpy,Trumai,NA
+1940,urar1246,ura,Urarina,NA
+1941,vile1241,vil,Vilela,NA
+1942,waor1240,auc,Waorani,NA
+1943,wara1303,wba,Warao,NA
+1944,yama1264,yag,Yahgan,NA
+1945,yura1255,yuz,Yurakaré,NA
+1946,achu1248,acu,Achuar-Shiwiar,NA
+1947,agua1253,agr,Aguaruna,NA
+1948,huam1247,hub,Huambisa,NA
+1949,shua1257,jiv,Shuar,NA
+1950,cacu1241,cbv,Kakua,NA
+1951,nuka1242,mbr,Nukak,NA
+1952,nucl1668,kav,Katukína,NA
+1953,apin1244,apn,Apinayé,NA
+1954,arik1265,ark,Arikapú,NA
+1955,boro1282,bor,Borôro,NA
+1956,cane1242,ram,Canela,NA
+1957,chiq1248,cax,Bésɨro,NA
+1958,para1315,gvp,Gavião do Pará,NA
+1959,guat1253,gta,Guató,NA
+1960,djeo1235,jbt,Jabutí,NA
+1961,kain1272,kgp,Kaingang,NA
+1962,kara1500,kpj,Karajá,NA
+1963,kaya1330,txu,Mebengokre,NA
+1964,krah1246,xra,Krahô,NA
+1965,kren1239,kqq,Krenak,NA
+1966,krik1239,xri,Krinkati-Timbira,NA
+1967,maxa1247,mbl,Maxakalí,NA
+1968,ofay1240,opy,Ofayé,NA
+1969,pana1307,kre,Panará,NA
+1970,para1315,gvp,Parkateje,NA
+1971,puri1262,prr,Puri,NA
+1972,rikb1245,rkb,Rikbaktsa,NA
+1973,suya1243,suy,Suyá,NA
+1974,suya1243,suy,Tapayuna,Tapayuna
+1975,umot1240,umo,Umotína,NA
+1976,xava1240,xav,Xavánte,NA
+1977,xere1240,xer,Xerénte,NA
+1978,xokl1240,xok,Xokleng,NA
+1979,fuln1247,fun,Yaathe,NA
+1980,saop1235,zkp,"Kaingáng, São Paulo",NA
+1981,iyow1239,crq,Chorote,Iyo'wujwa and Iyowa'ja dialects
+1982,maca1260,mca,Maka,NA
+1983,niva1238,cag,Chulupí,NA
+1984,wich1264,mtp,Wichí,Mision la Paz dialect
+1985,call1235,caw,Callawaya,NA
+1986,mose1249,cas,Mosetén de Covendo,Mosetén de Covendo
+1987,mose1249,cas,Mosetén de Santa Ana,Mosetén de Santa Ana
+1988,mose1249,cas,Tsimané,Tsimané
+1989,pira1253,myp,Pirahã,NA
+1990,daww1239,kwa,Dâw,NA
+1991,hupd1244,jup,Hup,NA
+1992,nade1244,mbj,Nadëb,NA
+1993,yuhu1238,yab,Yuhup,NA
+1994,khit1238,nab,Kithaulhu,Kithaulhu
+1995,latu1238,ltn,Latunde,NA
+1996,mama1278,wmd,Mamaindé,NA
+1997,saba1268,sae,Sabanê,NA
+1998,amah1246,amc,Amahuaca,NA
+1999,shar1245,mcd,Arara do Acre,NA
+2000,capa1241,kaq,Capanahua,NA
+2001,cash1251,cbr,Cashibo-Cacataibo,NA
+2002,chac1251,cao,Chácobo,NA
+2003,cash1254,cbs,Kashinawa,NA
+2004,pano1254,knt,Katukína,Panoan
+2005,kaxa1239,ktx,Kaxararí,NA
+2006,koru1247,xor,Korubo,NA
+2007,mati1255,mpq,Matís,NA
+2008,mats1244,mcf,Matsés,NA
+2009,nuku1263,nuc,Nukini,NA
+2010,pano1255,pno,Panobo,NA
+2011,poya1241,pyn,Poyanáwa,NA
+2012,yami1256,yaa,Saynawa,NA
+2013,shan1283,swo,Shanenawa,Shanenawa
+2014,shar1245,mcd,Sharanawa,NA
+2015,ship1255,shp,Shipibo,NA
+2016,yami1256,yaa,Yaminawa,NA
+2017,yawa1260,ywn,Yawanawa,NA
+2018,yora1241,mts,Yora,NA
+2019,yagu1244,yad,Yagua,NA
+2020,yame1242,yme,Yameo,NA
+2021,coro1247,qwa,Ancash Quechua,Sihuas and Corongo dialects
+2022,caja1238,qvc,Cajamarca Quechua,NA
+2023,chac1250,quk,Chachapoyas Quechua,NA
+2024,cusc1236,quz,Cuzco-Collao Quechua,NA
+2025,lamb1276,quf,Ferreñafe Quechua,NA
+2026,imba1240,qvi,Imbabura Quichua,NA
+2027,inga1252,inb,Inga,Highland dialect
+2028,jung1240,inj,Inga,Jungle dialect
+2029,jauj1238,qxw,Jauja-Huanca Quechua,NA
+2030,nort2980,qvn,North Junín Quechua,San Pedro de Cajas dialect
+2031,nort2980,qvn,North Junín Quechua,Tarma dialect
+2032,ayac1239,quy,Ayacucho Quechua,NA
+2033,nort2976,qul,Bolivian Quechua,Northern and Southern dialects
+2034,hual1241,qub,Huallaga Huánuco Quechua,NA
+2035,nort2979,qxn,Huaylas-Conchucos Quechua,NA
+2036,sanm1289,qvs,San Martin Quechua,NA
+2037,nort2980,qvn,Yaru Quechua,Yaru Quechua
+2038,sant1432,qus,Santiago del Estero Quechua,NA
+2039,napo1242,qvo,Napo Quichua,NA
+2040,sala1272,qxl,Salasca Quechua,NA
+2041,tena1240,quw,Tena Quechua,NA
+2042,piar1243,pid,Piaroa,NA
+2043,sali1298,slc,Sáliba,NA
+2044,arao1248,aro,Araona,NA
+2045,cavi1250,cav,Cavineña,NA
+2046,esee1248,ese,Ese Ejja,Bolivia
+2047,esee1248,ese,Ese Eja,Peru
+2048,reye1240,rey,Reyesano,NA
+2049,taca1256,tna,Tacana,NA
+2050,bara1380,bsn,Barasana-Eduria,NA
+2051,cube1242,cub,Kubeo,NA
+2052,desa1247,des,Desano,NA
+2053,guan1269,gvc,Wanano,NA
+2054,cara1272,cbc,Karapanã,NA
+2055,kore1283,coe,Koreguaje,NA
+2056,macu1260,myy,Macuna,NA
+2057,orej1242,ore,Máíhɨki,NA
+2058,pira1254,pir,Piratapuyo,NA
+2059,seco1241,sey,Secoya,NA
+2060,sion1247,snn,Siona,NA
+2061,siri1274,sri,Siriano,NA
+2062,tani1257,tnc,Tanimuca-Retuarã,NA
+2063,tatu1247,tav,Tatuyo,NA
+2064,tuca1252,tuo,Tucano,NA
+2065,tuyu1244,tue,Tuyuca,NA
+2066,waim1255,bao,Waimaha,NA
+2067,yuru1263,yui,Yurutí,NA
+2068,ache1246,guq,Aché,NA
+2069,akun1241,aqz,Akuntsú,NA
+2070,amun1246,adw,Amundava,NA
+2071,apia1248,api,Apiaká,NA
+2072,araw1273,awt,Araweté,NA
+2073,xing1248,asn,Asurini do Xingú,NA
+2074,toca1235,asu,Asuriní do Tocantins,NA
+2075,avac1239,avv,Avá-Canoeiro,NA
+2076,awet1244,awe,Awetí,NA
+2077,east2555,gui,Chiriguano,Chané dialect
+2078,east2555,gui,Chiriguano,Izoceño dialect
+2079,emer1243,eme,Emerillon,NA
+2080,gavi1246,gvo,Gavião do Jiparaná,NA
+2081,guaj1256,gvj,Guajá,NA
+2082,guaj1255,gub,Guajajára,NA
+2083,mbya1239,gun,Mbyá,NA
+2084,para1311,gug,Paraguayan Guaraní,NA
+2085,guar1292,gyr,Guarayu,NA
+2086,juma1249,jua,Júma,NA
+2087,juru1256,jur,Jurúna,NA
+2088,urub1250,urb,Kaapor,NA
+2089,kaiw1246,kgk,Kaiwá,NA
+2090,kama1373,kay,Kamayurá,NA
+2091,kari1311,ktn,Karitiâna,NA
+2092,karo1306,arr,Karo,NA
+2093,kaya1329,kyz,Kayabí,NA
+2094,kuru1309,kyr,Kuruáya,NA
+2095,maku1278,mpu,Makuráp,NA
+2096,mund1330,myu,Mundurukú,NA
+2097,nhen1239,yrl,Nheengatú,NA
+2098,omag1248,omg,Omagua,NA
+2099,pait1247,pta,Pai Tavytera,NA
+2100,para1312,pak,Parakanã,NA
+2101,saki1248,skf,Sakirabiá,NA
+2102,sate1243,mav,Sateré-Mawé,NA
+2103,suru1262,sru,Suruí,NA
+2104,tapi1253,tpj,Tapieté,NA
+2105,tapi1254,taf,Tapirapé,NA
+2106,temb1276,tqb,Tembé,NA
+2107,tenh1241,pah,Tenharim,NA
+2108,tupa1250,tpr,Tuparí,NA
+2109,tupi1273,tpn,Tupinambá,NA
+2110,urue1240,urz,Uru-Eu-Wau-Wau,NA
+2111,waya1270,oym,Wayampi,Alto Jarí dialect
+2112,waya1270,oym,Wayampi,Ampari dialect
+2113,xeta1241,xet,Xetá,NA
+2114,xipa1240,xiy,Xipaya,NA
+2115,zoee1240,pto,Zo'é,NA
+2116,siri1273,srq,Sirionó,NA
+2117,yuqu1240,yuq,Yuqui,NA
+2118,aika1237,tba,Aikanã,NA
+2119,mato1253,axg,Arára do Mato Grosso,NA
+2120,yuwa1244,yau,Hoti,NA
+2121,kano1245,kxo,Kanoé,NA
+2122,kari1255,kzw,Karirí-Xocó,Dzubukuá dialect
+2123,kunz1244,kuz,Kunza,NA
+2124,kwaz1243,xwa,Kwaza,NA
+2125,pume1238,yae,Pumé,NA
+2126,chip1262,cap,Chipaya,NA
+2127,uruu1244,ure,Uru,NA
+2128,mini1256,hto,"Huitoto, Minica",NA
+2129,muru1274,huu,"Huitoto, Murui",NA
+2130,nonu1241,noj,Nonuya,NA
+2131,ocai1244,oca,Ocaina,NA
+2132,nina1238,shb,Ninam,NA
+2133,sanu1240,xsu,Sanumá,NA
+2134,yano1262,wca,Yanomámi,NA
+2135,yano1261,guu,Yanomamö,NA
+2136,cham1315,ceg,Chamacoco,NA
+2137,ayor1240,ayo,Ayoreo,NA
+2138,ando1255,anb,Andoa,NA
+2139,arab1268,arl,Arabela,NA
+2140,iqui1243,iqu,Iquito,NA
+2141,zapa1253,zro,Záparo,NA
+2142,chir1286,nhd,Nhandeva,NA
+2143,pisa1245,mis,Pisamira,NA
+2144,qawa1238,alc,Alacalufe,Southern
+2145,cent2142,ayr,Aymara,Chilean dialect
+2146,yano1262,wca,Yanomama of Papiu,Yanomama of Papiu
+2147,yano1262,wca,Yanomae of Demini/Tototopi,Yanomae of Demini/Tototopi
+2148,sanu1240,xsu,Sanömá of Kolulu,Sanömá of Kolulu
+2149,yano1261,guu,Yanomamɨ of Parawau,Yanomamɨ of Parawau
+2150,yaro1235,yro,Yãroamë of Serra do Pacu/Ajarani,NA
+2151,yano1261,guu,Yanomamɨ of Venezuela,Yanomamɨ of Venezuela
+2152,paca1246,pcp,Pacahuara,NA
+2153,yukp1241,yup,Yukpa,Macoíta
+2154,yukp1241,yup,Yukpa,de Irapa
+2155,trin1274,trn,Trinitario,NA
+2156,amha1245,amh,Amharic,Gondar
+2157,stan1318,arb,Arabic,"Safad, Beirut, Damascus, Kuwait"
+2158,east2379,aer,"Arrernte, Central",Alice Springs
+2159,assa1263,asm,Assamese,Eastern districts of Assam (North Eastern state of India); Jorhat
+2160,bard1255,bcj,Bardi,One Arm Point
+2161,basq1248,eus,Basque,Goizueta Basque
+2162,beng1280,ben,Bengali,Bangladeshi Standard (spoken in Dhaka and other urban aread of Bangladesh)
+2163,bulg1262,bul,Bulgarian,Standard Bulgarian
+2164,nucl1310,mya,Burmese,Rangoon
+2165,hakk1236,hak,Hakka Chinese,"Kejia (Hakka Chinese, Meijiang, Meixian Hakka)"
+2166,yuec1235,yue,Chinese,Hong Kong Cantonese
+2167,dani1285,dan,Danish,NA
+2168,sout2832,dik,Luanyjang Dinka,"Luanyjang Dinka, part of the Rek dialect group"
+2169,dutc1256,nld,Dutch,Belgian Standard Dutch
+2170,dutc1256,nld,Dutch,the dialect of Hasselt (belongs to the West-Limburgian dialect group)
+2171,dutc1256,nld,Dutch,the dialect of Maastricht (south-eastern dialect group; Central Limburgian)
+2172,dutc1256,nld,Dutch,"the Dutch dialect of Weert (West-Limburgian), rural variety (not Stadsweerts)"
+2173,dutc1256,nld,Dutch,"the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects, subclassification: Dommellands)"
+2174,dutc1256,nld,Dutch,the Flemish-Brabant dialect of Orsmaal-gussenhoven
+2175,stan1293,eng,English (American),Western and Mid-Western US; Southern California
+2176,stan1293,eng,American English,Southeastern Michigan
+2177,stan1293,eng,English (Australian),NA
+2178,stan1293,eng,English (British),Liverpool
+2179,stan1293,eng,English (New Zealand),Pākehā
+2180,stan1293,eng,English (British),Tyneside English (spoken in Newcastle)
+2181,esto1258,ekk,Estonian,Standard Estonian (Central Estonia)
+2182,stan1290,fra,French,French (Parisian speaker)
+2183,nucl1302,kat,georgian,Standard (or literary) georgian (Kartluri dialect)
+2184,stan1295,deu,German,NA
+2185,swis1247,gsw,Swiss German,Zurich
+2186,mode1248,ell,Greek,Cypriot Greek (Nicosia)
+2187,mode1248,ell,Greek,Standard Modern Greek (Athenian)
+2188,haus1257,hau,Hausa,"(Standard) (Kano) Hausa (spoken in Kano, Nigeria)"
+2189,hebr1245,heb,Hebrew,Oriental Dialect
+2190,hind1269,hin,Hindi,"Standard Hindi (as spoken in Varanasi, Lucknow, Delhi etc.)"
+2191,hung1274,hun,Hungarian,Educated colloquial Hungarian (as spoken in Budapest of the 1990s)
+2192,nucl1417,ibo,Igbo,Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland)
+2193,iris1253,gle,Irish,NA
+2194,ladi1251,lad,Judeo-Spanish,Istanbul Judeo-Spanish
+2195,ital1282,ita,Italian,Standard Italian
+2196,nucl1643,jpn,Japanese,Japanese (Tokyo or other areas with similar pitch accent systems)
+2197,kore1280,kor,Korean,Standard Korean (spoken in and around Seoul)
+2198,kuna1268,kun,Kunama,Marda (similar to Barka)
+2199,ersu1241,ers,Lizu,"Lizu (as spoken in Muli county, Kala Township)"
+2200,luxe1241,ltz,Luxembourgish,Standard central Luxembourgish
+2201,besi1244,mhe,Mah Meri,"Mah Meri (as spoken in Kampong Orang Asli Bukit Bangkong, Sepang, Malaysie)"
+2202,mafe1237,mkv,Mavea,Mavea
+2203,nara1262,nrb,Nara,Higir
+2204,nepa1254,npi,Nepali,Standard (eastern)
+2205,west2369,pes,Persian,NA
+2206,port1283,por,Portuguese (European),Lisbon
+2207,port1283,por,Portuguese (Brazilian),São Paulo
+2208,cent2092,sml,Central Sama,Central Sama (Siasi)
+2209,slov1269,slk,Slovak,Standard Slovak (Bratislava / Kos̆ice)
+2210,stan1288,spa,Spanish,Castilian Spanish
+2211,sumi1235,nsm,Sumi,Central Standard dialect (Satakha and Zunheboto)
+2212,taus1251,tsg,Tausug (Suluk),"Jolo, Philippines"
+2213,timn1235,tem,Temne,Yoni dialect and North-Western dialect of Temne (town of Kambia in the Northern Province of Sierra Leone)
+2214,tera1251,ttr,Tera,"Tera (speakers from the towns Deba, Hinna, Difa, Zambuk and Lubo)"
+2215,thai1261,tha,Thai,Standard Thai (combinative style)
+2216,sanm1298,trq,Itunyoso Trique,"Itunyoso Trique (spoken in the town of San Martín Itunyoso, Oaxaca, Mexico)"
+2217,nucl1301,tur,Turkish,Standard Turkish (Istanbul)
+2218,isth1244,zai,Isthmus (Juchitán) Zapotec,"Isthmus (Juchitán) Zapotec (ʼzapoteco de la planicie costeraʼ; spoken on the Isthmus of Tehuantepec, Oaxaca, Mexico; typical of the city of Juchitán de Zaragoza)"
+2219,taji1245,tgk,Bukharan Tajik,Bukharan
+2220,kera1255,ker,Kera,Standard
+2221,kumz1235,zum,Kumzari,"Kumzari spoken in Khasab, Oman"
+2222,coco1260,coa,Cocos Malay,"Spoken in Kampung Cocos in the Lahad Datu district of Sabah, Malaysia"
+2223,stan1306,zsm,Standard Malay,Standard Malay (Brunei)
+2224,plau1238,pdt,Mennonite Plautdietsch,NA
+2225,keda1250,kxd,Kedayan,NA
+2226,pitj1243,pjt,Pitjantjatjara,NA
+2227,sout2672,psi,Southeastern Pashayi,NA
+2228,vlax1238,rmy,greek Thrace Xoraxane Romane,NA
+2229,tach1250,shi,Tashlhiyt Berber,NA
+2230,shix1238,sxg,Xumi,Lower Xumi
+2231,shix1238,sxg,Xumi,Upper Xumi
+2232,uppe1400,sxu,Upper Saxon,Chemnitz dialect
+2233,viet1252,vie,Vietnamese,Hanoi Vietnamese
+2234,pite1240,sje,Pite Saami,NA
+2235,nort2671,sme,Northern Saami,Guovdageaidnu
+2236,belh1239,byw,Belhare,NA
+2237,hunz1247,huz,Hunzib,NA
+2238,even1259,evn,Evenki,NA
+2239,hmon1264,hnj,Hmong Njua,Hmong Njua (Green Hmong)
+2240,udmu1245,udm,Udmurt,Udmurt (Standard)
+2241,east2328,mhr,Meadow Mari,Meadow Mari (Morki-Sernur)
+2242,east2337,yuy,Eastern Yugur,NA
+2243,moks1248,mdf,Moksha,Moksha (Standard)
+2244,lith1251,lit,Lithuanian,Lithuanian (West Aukštaitian)
+2245,moks1248,mdf,Moksha,Moksha (Southwest)
+2246,laoo1244,lao,Lao,Lao (Vientiane)
+2247,rajb1243,rjs,Rājbanshi,NA
+2248,esto1258,ekk,Estonian,Estonian (Standard)
+2249,bakh1245,bqi,Bakhtiari,NA
+2250,cent1972,ckb,Kurdish,Kurdish (Sorani)
+2251,ingu1240,inh,Ingush,NA
+2252,stan1293,eng,English,English (RP)
+2253,dupa1235,duo,Dupaningan Agta,NA
+2254,lazz1240,lzz,Laz,Laz (Borçka)
+2255,dolg1241,dlg,Dolgan,NA
+2256,dark1243,khk,Darkhat,NA
+2257,jiar1240,jya,Caodeng rGyalrong,NA
+2258,juan1238,jun,Juang,NA
+2259,sout2697,azb,South Azerbaijani,South Azerbaijani (Tabriz)
+2260,kild1236,sjd,Kildin Saami,NA
+2261,russ1263,rus,Russian,Russian (Standard)
+2262,iris1253,gle,Irish,Irish (Gaoth Dobhair)
+2263,lowa1242,loy,gLo Tibetan,NA
+2264,stod1241,sbu,Tod Tibetan,NA
+2265,dani1285,dan,Danish,NA
+2266,taji1245,tgk,Tajik,Tajik (Bukhara)
+2267,yong1270,nru,Yongning Na,Yongning Na (Mosuo)
+2268,bese1243,udm,Beserman,Beserman (Šamardan)
+2269,stan1290,fra,French,NA
+2270,ishk1246,isk,Ishkashimi,NA
+2271,khan1273,kca,Northern Khanty,Northern Khanty (Sob Obdorsk)
+2272,swis1247,gsw,Zurich German,NA
+2273,west2392,mrj,Hill Mari,Hill Mari (Kozmodemjansk)
+2274,czec1258,ces,Czech,Czech (Bohemian)
+2275,malt1254,mlt,Maltese,Maltese (Standard)
+2276,chec1245,che,Chechen,Chechen (Pẋarçxoy Äqqiy)
+2277,nucl1305,kan,Kannada,Kannada (Standard)
+2278,mira1251,mwl,Mirandese,NA
+2279,khan1273,kca,Northern Khanty,Northern Khanty (Polui Obdorsk)
+2280,tsha1245,tsj,Tshangla,NA
+2281,chal1275,cld,Modern Aramaic,Modern Aramaic (Northeastern)
+2282,lith1251,lit,Lithuanian,Lithuanian (North Samogitian)
+2283,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-S)
+2284,jude1256,jdt,Juhuri,NA
+2285,ladi1251,lad,Judaeo-Spanish,Judaeo-Spanish (Beiruti)
+2286,nort2745,ykg,Tundra Yukaghir,NA
+2287,kore1280,kor,Korean,Korean (Seoul)
+2288,even1260,eve,Even,Even (Ola)
+2289,munj1244,mnj,Munji,NA
+2290,brah1256,brh,Brahui,Brahui (Jahlawān)
+2291,nauk1242,ynk,Naukan Yupik,NA
+2292,even1259,evn,Solon,NA
+2293,kuvi1243,kxv,Kuvi,NA
+2294,thak1245,ths,Thakali,NA
+2295,mund1320,unr,Mundari,NA
+2296,nort2697,azj,North Azerbaijani,North Azerbaijani (Shirvan)
+2297,itel1242,itl,Itelmen,NA
+2298,puxi1242,jih,Puxi,NA
+2299,bujh1238,byh,Bhujel,NA
+2300,lazz1240,lzz,Laz,Laz (Pazar)
+2301,kang1281,kxs,Kangjia,NA
+2302,mait1250,mai,Maithili,Maithili (Madhubani)
+2303,stan1288,spa,Spanish,Spanish (Murcian)
+2304,roma1326,roh,Vallader Romansh,NA
+2305,bond1245,bfw,Remo,Remo (Hills variety)
+2306,balt1258,bft,Balti,Balti (Kharkoo)
+2307,sher1255,xsr,Solu Sherpa,Solu Sherpa (Hile)
+2308,stan1288,spa,Spanish,Spanish (Castilian)
+2309,yuec1235,yue,Yue Chinese,Yue Chinese (Hong Kong Cantonese)
+2310,kaba1278,kbd,Kabardian,Kabardian (Baksan)
+2311,lezg1247,lez,Lezgian,Lezgian (İsmayıllı)
+2312,daur1238,dta,Daur,NA
+2313,huml1238,hut,Humla Bhotia,NA
+2314,nort2741,tts,Northeastern Thai,Northeastern Thai (Nong Khai)
+2315,dhiv1236,div,Dhivehi,Dhivehi (Malé)
+2316,lith1251,lit,Lithuanian,Lithuanian (West Samogitian)
+2317,russ1264,bxr,Buriat,Buriat (Standard)
+2318,kara1467,kaa,Karakalpak,NA
+2319,lahu1253,lhu,Lahu,Lahu (Black)
+2320,laoo1244,lao,Lao,Lao (Chieng Khouang)
+2321,nort2646,pbu,Yousafzai Pashto,Yousafzai Pashto (Peshāwar)
+2322,cent1973,pst,Wazirwola,Wazirwola (North Wazīrī)
+2323,hakk1236,hak,Hakka Chinese,NA
+2324,osse1243,oss,Iron Ossetic,Iron Ossetic (Upper Alagir)
+2325,ligu1248,lij,Ligurian,Ligurian (Miogliola)
+2326,voti1245,vot,Votic,Votic (Jõgõperä)
+2327,kham1282,khg,Rgyalthang Tibetan,NA
+2328,kham1282,khg,Brag-g.yab Tibetan,NA
+2329,dido1241,ddo,Tsez,Tsez (Asax)
+2330,wymy1235,wym,Wymysorys,NA
+2331,gaga1249,gag,Gagauz,Gagauz (Standard)
+2332,nort2647,pbu,Northwestern Pashto,NA
+2333,sout2746,sou,Southern Tai,Southern Tai (Ko Samui)
+2334,friu1240,fur,Friulian,NA
+2335,lakk1252,lbe,Lak,Lak (Kumux)
+2336,kuni1268,xug,Kunigami,Kunigami (Nakijin)
+2337,luxe1241,ltz,Luxembourgish,NA
+2338,nucl1310,mya,Burmese,Burmese (Rangoon)
+2339,saur1249,mjt,Malto,NA
+2340,basq1248,eus,Basque,Basque (Baztan)
+2341,lazz1240,lzz,Laz,Laz (Ardeşen)
+2342,nepa1254,npi,Nepali,NA
+2343,rusy1239,rue,Rusyn,Rusyn (Lemko)
+2344,guru1261,gvr,Gurung,Gurung (Western)
+2345,west2368,bgn,Western Balochi,Western Balochi (Lāšārī)
+2346,baim1244,bqh,Baima,NA
+2347,besi1244,mhe,Mah Meri,NA
+2348,west2368,bgn,Western Balochi,Western Balochi (Southern Raxšānī)
+2349,adyg1241,ady,Adyghe,NA
+2350,dakp1242,dka,Northern Cuona,NA
+2351,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-Ch)
+2352,lizu1234,mis,Lizu,NA
+2353,udmu1245,udm,Udmurt,Udmurt (Udmurt Tašly)
+2354,bett1235,xub,Betta Kurumba,NA
+2355,kumy1244,kum,Kumyk,NA
+2356,chan1310,chx,Chantyal,NA
+2357,bhoj1244,bho,Bhojpuri,NA
+2358,gheg1238,aln,Gheg Albanian,Gheg Albanian (North-Eastern)
+2359,hooo1248,hoc,Ho,Ho (Mayurbhanj)
+2360,rawa1265,raw,Rawang,Rawang (Mutwang)
+2361,saek1240,skb,Saek,NA
+2362,chuk1273,ckt,Chukchi,NA
+2363,mace1250,mkd,Macedonian,Macedonian (Standard)
+2364,pare1266,pcj,Gorum,NA
+2365,taus1251,tsg,Tausug,Tausug (Jolo)
+2366,lada1244,lbj,Ladakhi,Ladakhi (Leh)
+2367,shan1277,shn,Shan,Shan (Luxi)
+2368,bulg1262,bul,Bulgarian,Bulgarian (Standard)
+2369,spit1240,spt,Spiti Tibetan,NA
+2370,gily1242,niv,Nivkh,Nivkh (West Sakhalin)
+2371,lazz1240,lzz,Laz,Laz (Hopa)
+2372,nort2686,atv,Northern Altai,Northern Altai (Kumandy)
+2373,atay1247,tay,Atayal,NA
+2374,luuu1242,khb,Lue,Lue (Chieng Hung)
+2375,arag1245,arg,Aragonese,Aragonese (Chistabino)
+2376,khan1273,kca,Northern Khanty,Northern Khanty (Kazym)
+2377,brah1256,brh,Brahui,Brahui (Sarāwān)
+2378,faro1244,fao,Faroese,NA
+2379,dzal1238,dzl,Southern Cuona,NA
+2380,tibe1272,bod,Lhasa Tibetan,NA
+2381,basq1250,eus,Zuberoan Basque,NA
+2382,kirg1245,kir,Kyrgyz,Kyrgyz (Standard)
+2383,darm1243,drd,Darma,NA
+2384,komi1277,kom,Yodzyak Komi,NA
+2385,laoo1244,lao,Lao,Lao (Luang Prabang)
+2386,puoc1238,puo,Ksingmul,NA
+2387,telu1262,tel,Telugu,Telugu (Standard)
+2388,east2773,mis,Dolakha Newar,NA
+2389,osse1243,oss,Iron Ossetic,Iron Ossetic (Urs-Tual)
+2390,bats1242,bbl,Bats,NA
+2391,hela1238,scp,Yolmo,NA
+2392,svan1243,sva,Svan,Svan (Upper Bal)
+2393,kyer1238,kgy,Kyirong Tibetan,NA
+2394,dzon1239,dzo,Dzongkha,NA
+2395,kett1243,ket,Ket,Ket (Kellog)
+2396,wayu1241,vay,Hayu,NA
+2397,paiw1248,pwn,Paiwan,Paiwan (Kulalao)
+2398,stan1295,deu,German,German (Standard)
+2399,east2295,ydd,Eastern Yiddish,Eastern Yiddish (Central)
+2400,udmu1245,udm,Udmurt,Udmurt (Bavly)
+2401,kaba1278,kbd,Kabardian,Kabardian (Ulyap)
+2402,nene1249,yrk,Tundra Nenets,Tundra Nenets (Western)
+2403,kara1464,kdr,Karaim,Karaim (Northwestern)
+2404,varl1238,vav,Varli,Varli (Dogri)
+2405,dutc1256,nld,Dutch,NA
+2406,wels1247,cym,Welsh,Welsh (Llanwrtyd)
+2407,japh1234,jya,Japhug,NA
+2408,osse1243,oss,Iron Ossetic,Iron Ossetic (Roka)
+2409,ming1252,xmf,Mingrelian,Mingrelian (Senaki)
+2410,lazz1240,lzz,Laz,Laz (Arhavi)
+2411,tibe1272,bod,Drokpa Tibetan,Drokpa Tibetan (Zhongba)
+2412,alut1245,alr,Alutor,NA
+2413,east2328,mhr,Eastern Mari,NA
+2414,nort2741,tts,Northeastern Thai,Northeastern Thai (Loei)
+2415,sikk1242,sip,Denjongka,NA
+2416,nucl1301,tur,Turkish,Turkish (Standard)
+2417,ming1252,xmf,Mingrelian,Mingrelian (Zugdidi-Samurzaqano)
+2418,yagn1238,yai,Yaghnobi,NA
+2419,basq1248,eus,Basque,Basque (Arbizu)
+2420,zhon1235,mis,Zhongu Tibetan,NA
+2421,tibe1272,bod,Dingri Tibetan,NA
+2422,nort2741,tts,Northeastern Thai,Northeastern Thai (Roi Et)
+2423,shan1277,shn,Shan,Shan (Hsi Paw)
+2424,osse1243,oss,Iron Ossetic,Iron Ossetic (Standard)
+2425,stan1289,cat,Catalan,Catalan (Southern Valencian)
+2426,nyaw1245,nyw,Nyaw,Nyaw (Uthen)
+2427,ital1282,ita,Italian,NA
+2428,nucl1302,kat,Georgian,NA
+2429,nort2722,cng,Northern Qiang,Northern Qiang (Yadu)
+2430,cebu1242,ceb,Cebuano,NA
+2431,cent1973,pst,Wazirwola,Wazirwola (South Wazīrī)
+2432,osse1243,oss,Iron Ossetic,Iron Ossetic (Alagir)
+2433,khak1248,kjh,Khakas,Khakas (Standard)
+2434,vach1239,mis,Eastern Khanty,Eastern Khanty (Vakh)
+2435,gata1239,gaq,Gtaʔ,NA
+2436,ming1252,xmf,Mingrelian,Mingrelian (Martvili)
+2437,sind1272,snd,Sindhi,Sindhi (Vicholi)
+2438,arbe1236,aae,Arbëresh Albanian,Arbëresh Albanian (Kundisa)
+2439,kurt1248,xkz,Kurtoep,NA
+2440,kara1474,kpt,Tukita,NA
+2441,norw1258,nor,Norwegian,Norwegian (Standard Østnorsk)
+2442,sout2679,vro,Võro,NA
+2443,roma1327,ron,Romanian,Romanian (Standard)
+2444,yaku1245,sah,Sakha,Sakha (Standard)
+2445,nort2699,kfb,Kolami,Kolami (Wardha)
+2446,kare1335,krl,Karelian,Karelian (North)
+2447,slov1269,slk,Slovak,Slovak (Standard)
+2448,livv1244,liv,Livonian,Livonian (Vidzeme)
+2449,hebr1245,heb,Israeli Hebrew,NA
+2450,fore1274,mis,Forest Nenets,NA
+2451,east2347,taj,Tamang,Tamang (Eastern)
+2452,guja1252,guj,Gujarati,Gujarati (Standard)
+2453,miya1259,mvi,Miyako,Miyako (Ogami)
+2454,maga1260,mag,Magahi,NA
+2455,slov1268,slv,Slovene,Slovene (Standard)
+2456,puri1258,prx,Purki,NA
+2457,mand1415,cmn,Standard Chinese,Standard Chinese (Beijing)
+2458,mode1248,ell,Greek,Greek (Standard)
+2459,kama1351,xas,Kamassian,NA
+2460,komi1268,kpv,Komi-Zyrian,Komi-Zyrian (Syktyvkar)
+2461,ngan1291,nio,Nganasan,Nganasan (Avam)
+2462,viet1252,vie,Vietnamese,Vietnamese (Hanoi)
+2463,dhim1246,dhi,Dhimal,NA
+2464,mong1331,mon,Mongolian,Mongolian (Khalkha)
+2465,andi1255,ani,Andi,NA
+2466,urdu1245,urd,Urdu,NA
+2467,avar1256,ava,Avar,Avar (Chadakolob)
+2468,abkh1244,abk,Abkhaz,Abkhaz (Abzhywa)
+2469,fore1265,enf,Forest Enets,NA
+2470,west2354,fry,Frisian,Frisian (West)
+2471,taid1249,tyr,Tay Daeng,NA
+2472,sout2746,sou,Southern Tai,Southern Tai (Surat)
+2473,elfd1234,ovd,Elfdalian,NA
+2474,chen1255,cde,Nyinpa Cone,NA
+2475,mans1258,mns,Northern Mansi,Northern Mansi (Sośva)
+2476,osse1243,oss,Iron Ossetic,Iron Ossetic (Ksani)
+2477,dong1285,sce,Dongxiang,NA
+2478,occi1239,oci,Occitan,Occitan (Gascon)
+2479,panj1256,pan,Panjabi,Panjabi (Eastern)
+2480,czec1258,ces,Czech,Czech (Moravian)
+2481,kond1303,knd,Konda,NA
+2482,nene1249,yrk,Tundra Nenets,Tundra Nenets (Central-Eastern)
+2483,sich1238,iii,Nuosu,Nuosu (Black Yi)
+2484,nort2641,kmr,Northern Kurdish,Northern Kurdish (Kurmanji)
+2485,selk1253,sel,Taz Selkup,NA
+2486,nort2722,cng,Northern Qiang,Northern Qiang (Hongyan)
+2487,arbe1236,aae,Arbëresh Albanian,Arbëresh Albanian (Hora e Arbëreshëvet)
+2488,lith1251,lit,Lithuanian,Lithuanian (South Samogitian)
+2489,kham1282,khg,Nangchenpa Tibetan,NA
+2490,veps1250,vep,Veps,Veps (Šimozero)
+2491,merg1238,tvn,Myeik Burmese,NA
+2492,nort2741,tts,Northeastern Thai,Northeastern Thai (Nakhon Phanom)
+2493,stan1325,lvs,Latvian,Latvian (Standard)
+2494,ters1235,sjt,Ter Saami,NA
+2495,oriy1255,ory,Oriya,NA
+2496,nort2741,tts,Northeastern Thai,Northeastern Thai (Ubon)
+2497,pite1240,sje,Pite Saami,NA
+2498,east2304,bgp,Eastern Hill Balochi,NA
+2499,serb1264,srp,Serbian,Serbian (Standard Ekavian)
+2500,bash1264,bak,Bashkir,Bashkir (Standard)
+2501,tuuu1240,mjg,Mongghul,Mongghul (Huzhu Monguor)
+2502,shum1243,scu,Labrang Tibetan,NA
+2503,ukra1253,ukr,Ukrainian,Ukrainian (Standard)
+2504,lowa1242,loy,South Mustang Tibetan,South Mustang Tibetan (Jharkhot)
+2505,scot1243,sco,Scots,Scots (Northern)
+2506,east2328,mhr,Meadow Mari,Meadow Mari (Joškar-Ola)
+2507,shan1277,shn,Shan,Shan (Zhe Fang)
+2508,sind1272,snd,Sindhi,Sindhi (Jacobabad)
+2509,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-Sh)
+2510,mehr1241,gdq,Mehri,Mehri (Oman)
+2511,khar1287,khr,Kharia,Kharia (Dudh)
+2512,chec1245,che,Chechen,Chechen (Şaroy)
+2513,taga1270,tgl,Tagalog,NA
+2514,wakh1245,wbl,Wakhi,NA
+2515,stan1293,eng,English,English (Liverpool)
+2516,astu1245,ast,Asturian,Asturian (Western)
+2517,phut1244,pht,Phu Tai,Phu Tai (Waritchaphum)
+2518,nort2740,nod,Northern Thai,Northern Thai (Chieng Mai)
+2519,kham1282,khg,Soghpo Tibetan,NA
+2520,west2369,pes,Farsi,NA
+2521,iris1253,gle,Irish,Irish (Corca Dhuibhne)
+2522,sher1255,xsr,Solu Sherpa,Solu Sherpa (Lukla)
+2523,sala1264,slr,Salar,NA
+2524,lezg1247,lez,Lezgian,Lezgian (Güne)
+2525,kham1282,khg,Kami Tibetan,NA
+2526,sora1254,srb,Sora,Sora (Gumma Hills)
+2527,walu1241,ola,Walungge,NA
+2528,kork1243,kfq,Korku,NA
+2529,pamp1243,pam,Kapampangan,Kapampangan (Balingcanaway)
+2530,doma1258,rmt,Domari,Domari (Palestinian)
+2531,phut1244,pht,Phu Tai,Phu Tai (Phanna Nikhom)
+2532,east2328,mhr,Meadow Mari,Meadow Mari (Volga)
+2533,ersu1241,ers,Ersu,NA
+2534,amdo1237,adx,Khalong Tibetan,NA
+2535,finn1318,fin,Finnish,Finnish (Standard)
+2536,udmu1245,udm,Udmurt,Udmurt (Krasnoufimsk)
+2537,khal1271,tks,Khalkhal,NA
+2538,west2408,mut,Muria Gondi,NA
+2539,shix1238,sxg,Shixing,NA
+2540,kara1462,kim,Tofa,NA
+2541,uppe1395,hsb,Upper Sorbian,NA
+2542,hind1269,hin,Hindi,NA
+2543,pott1240,gdb,Gadaba,NA
+2544,east2347,taj,Tamang,Tamang (Dhankuta)
+2545,sout2642,bcc,Southern Balochi,NA
+2546,camp1261,sro,Campidanese Sardinian,Campidanese Sardinian (Sestu)
+2547,tulu1258,tcy,Tulu,NA
+2548,acha1249,acn,Achang,Achang (Lianghe)
+2549,chec1245,che,Chechen,Chechen (Ploskost)
+2550,sant1410,sat,Santali,NA
+2551,shan1277,shn,Shan,Shan (Kunlong)
+2552,abkh1244,abk,Abkhaz,Abkhaz (Bzyb)
+2553,amdo1237,adx,gSerpa,NA
+2554,swed1254,swe,Swedish,Swedish (Central)
+2555,stan1289,cat,Catalan,Catalan (Central)
+2556,tuuu1240,mjg,Mangghuer,Mangghuer (Minhe Monguor)
+2557,hung1274,hun,Hungarian,Hungarian (Standard)
+2558,tibe1272,bod,Shigatse Tibetan,NA
+2559,mala1464,mal,Malayalam,NA
+2560,axiy1235,yix,Ahi,NA
+2561,buru1296,bsk,Burushaski,Burushaski (Werchikwar)
+2562,mind1253,cdo,Min Dong Chinese,Min Dong Chinese (Fuzhou)
+2563,temi1246,tea,Temiar,NA
+2564,uppe1400,sxu,Upper Saxon,Upper Saxon (Chemnitz)
+2565,ghod1238,gdo,Godoberi,NA
+2566,skol1241,sms,Skolt Saami,Skolt Saami (Suõʹnnʼjel)
+2567,jahh1242,jah,Jah-Hut,NA
+2568,icel1247,isl,Icelandic,NA
+2569,vlax1238,rmy,Vlax Romani,Vlax Romani (Mitrovica)
+2570,udih1248,ude,Udihe,Udihe (Bikin)
+2571,astu1245,ast,Asturian,Asturian (North-Eastern)
+2572,tain1252,tdd,Tai Nuea,NA
+2573,sout2746,sou,Southern Tai,Southern Tai (Nakhon Si Thammarat)
+2574,chec1245,che,Chechen,Chechen (Ҫ̇äberloy)
+2575,komi1269,koi,Komi-Permyak,NA
+2576,bodo1267,gbj,Gutob,Gutob (Koraput)
+2577,buru1296,bsk,Burushaski,Burushaski (Nagar)
+2578,lisu1250,lis,Lisu,Lisu (Flowery)
+2579,tuvi1240,tyv,Tuvan,Tuvan (Standard)
+2580,kara1474,kpt,Karata,NA
+2581,west2392,mrj,Hill Mari,Hill Mari (Jaransk)
+2582,taid1248,tyj,Tay Yo,NA
+2583,basq1248,eus,Basque,Basque (Gernika)
+2584,bret1244,bre,Breton,Breton (Bothoa)
+2585,sout2729,pmj,Southern Pumi,Southern Pumi (Xinyingpan)
+2586,sout2436,pbt,Southwestern Pashto,Southwestern Pashto (Kandahar)
+2587,kham1282,khg,Sangdam Tibetan,NA
+2588,bona1250,peh,Baoan,Baoan (Ñantoq)
+2589,wane1241,wne,Waneci,NA
+2590,digo1242,oss,Digor Ossetic,NA
+2591,kham1282,khg,Dongwang Tibetan,NA
+2592,tosk1239,als,Tosk Albanian,Tosk Albanian (Korçë)
+2593,east2282,ltg,Latgalian,Latgalian (Standard)
+2594,stan1289,cat,Catalan,Catalan (Mallorcan)
+2595,turk1304,tuk,Turkmen,Turkmen (Teke)
+2596,jerr1238,nrf,Jèrriais,Jèrriais (Eastern Jersey)
+2597,cent1989,khm,Central Khmer,NA
+2598,assa1263,asm,Assamese,Assamese (Standard)
+2599,kalm1243,xal,Kalmyk,Kalmyk (Standard)
+2600,kham1282,khg,Kham Tibetan,NA
+2601,scot1245,gla,Scottish Gaelic,Scottish Gaelic (Lewis)
+2602,lowe1385,dsb,Lower Sorbian,NA
+2603,nene1249,yrk,Tundra Nenets,Tundra Nenets (Far Eastern)
+2604,poli1260,pol,Polish,Polish (Standard)
+2605,suii1243,swi,Sui,NA
+2606,ilok1237,ilo,Ilocano,NA
+2607,najd1235,ars,Najdi Arabic,NA
+2608,akha1245,ahk,Akha,NA
+2609,tata1255,tat,Tatar,Tatar (Standard)
+2610,kaba1278,kbd,Kabardian,Kabardian (Turkish)
+2611,tami1289,tam,Tamil,NA
+2612,uigh1240,uig,Uyghur,Uyghur (Xinjiang)
+2613,buru1296,bsk,Burushaski,Burushaski (Hunza)
+2614,amdo1237,adx,Themchen Tibetan,NA
+2615,basq1248,eus,Basque,Basque (Ondarroa)
+2616,erzy1239,myv,Erzya,Erzya (Standard)
+2617,narp1239,npa,Nar-Phu,Nar-Phu (Nar)
+2618,west2368,bgn,Western Balochi,Western Balochi (Afghani Raxšānī)
+2619,gali1258,glg,Galician,NA
+2620,mana1288,nmm,Manange,NA
+2621,sheh1240,shv,Jibbali,Jibbali (Central)
+2622,west2368,bgn,Western Balochi,Western Balochi (Sarāwānī)
+2623,port1283,por,Portuguese,Portuguese (Estremenho)
+2624,beng1280,ben,Bengali,Bengali (Dhaka)
+2625,sout2750,yux,Kolyma Yukaghir,NA
+2626,osse1243,oss,Iron Ossetic,Iron Ossetic (Kurtat)
+2627,pnar1238,pbv,Pnar,NA
+2628,nyaw1245,nyw,Nyaw,Nyaw (Sakhon Nakhon)
+2629,bura1267,bvr,Burarra,NA
+2630,buna1275,bck,Bunuba,NA
+2631,goon1238,gni,Gooniyandi,NA
+2632,madn1237,zml,Matngele,NA
+2633,mull1237,mpb,Malak-Malak,NA
+2634,murr1259,mwf,Murrinh-patha,NA
+2635,nang1259,nam,Ngan'gityemerri,NA
+2636,wadj1254,wdj,Patjtjamalh,NA
+2637,mari1417,zmm,Marramaninyshi,NA
+2638,mari1419,zmt,Marringarr,NA
+2639,mari1424,mfr,Marrithiyel,NA
+2640,mart1254,zmg,Marti Ke,NA
+2641,amii1238,amy,Emmi,NA
+2642,lara1258,lrg,Larrakia,NA
+2643,nucl1327,lmc,Limilngan,NA
+2644,umbu1235,umr,Umbugarla,NA
+2645,gara1269,wrk,Garrwa,NA
+2646,wany1247,wny,Waanyi,NA
+2647,gara1269,wrk,Kunindirri,NA
+2648,erre1238,err,Erre,NA
+2649,mang1382,zme,Mengerrdji,NA
+2650,urni1239,urc,Urningangg,NA
+2651,anin1240,aoi,Anindilyakwa,NA
+2652,ngal1292,ngk,Dalabon,NA
+2653,gaga1251,gbu,Gaagudju,NA
+2654,ngal1293,nig,Ngalakgan,NA
+2655,ngan1295,nid,Ngandi,NA
+2656,gund1246,gup,Gun-Dedjnjenghmi,NA
+2657,gund1246,gup,Gun-Djeihmi,NA
+2658,gune1238,gup,Kune,NA
+2659,mura1269,gup,Kuninjku,NA
+2660,guma1252,gup,Kunwinjku,NA
+2661,naia1238,gup,Mayali,NA
+2662,djau1244,djn,Jawoyn,NA
+2663,remb1249,rmb,Rembarrnga,NA
+2664,wara1290,wrz,Warray,NA
+2665,nung1290,nuy,Wubuy,NA
+2666,amar1271,amg,Amurdak,NA
+2667,marg1251,mhg,Marrgu,NA
+2668,wurr1238,wur,Wurrugu,NA
+2669,maun1240,mph,Mawng,NA
+2670,gari1254,ilg,Garig,NA
+2671,ilga1238,ilg,Ilgar,NA
+2672,iwai1244,ibd,Iwaidja,NA
+2673,miri1266,mep,Miriwoong,NA
+2674,kitj1240,gia,Kija,NA
+2675,kung1259,ggk,Kungarakany,NA
+2676,djee1236,djj,Ndjebbana,NA
+2677,gura1252,gge,Gurr-Goni,NA
+2678,naka1260,nck,Nakara,NA
+2679,mara1385,mec,Marra,NA
+2680,wand1263,wnd,Warndarrang,NA
+2681,alaw1244,alh,Alawa,NA
+2682,mang1381,mpc,Mangarrayi,NA
+2683,djam1255,djd,Jaminjung,NA
+2684,ngal1294,djd,Ngaliwurru,NA
+2685,nung1291,nug,Nungali,NA
+2686,ngar1283,nji,Ngarnka,NA
+2687,djin1251,jig,Jingulu,NA
+2688,binb1242,wmb,Binbinka,NA
+2689,guda1243,wmb,Gudanji,NA
+2690,wamb1258,wmb,Wambaya,NA
+2691,mink1237,mis,Minkin,NA
+2692,ngum1253,xnm,Ngumbarl,NA
+2693,nyig1240,nyh,Nyikina,NA
+2694,warr1258,wwr,Warrwa,NA
+2695,dyug1238,dyd,Jukun,NA
+2696,yawu1244,ywr,Yawuru,NA
+2697,bard1255,bcj,Bardi,NA
+2698,nima1245,nmp,Nimanburu,NA
+2699,dyab1238,dyb,Jabirr-Jabirr,NA
+2700,djaw1238,djw,Jawi,NA
+2701,nyul1247,nyv,Nyulnyul,NA
+2702,alya1239,aly,Alyawarr,NA
+2703,east2380,amx,Eastern Anmatyerre,NA
+2704,west2442,amx,Western Anmatyerre,NA
+2705,ande1247,adg,Antekerrepenhe,NA
+2706,mpar1238,aer,Central Arrernte,NA
+2707,ayer1246,axe,Ayerrerenge,NA
+2708,east2379,aer,Eastern Arrernte,NA
+2709,lowe1436,axl,Lower Southern Aranda,NA
+2710,west2441,are,Western Arrernte,NA
+2711,kayt1238,gbb,Kaytetye,NA
+2712,yugu1249,xjb,Bundjalung,NA
+2713,gida1240,gih,Gidabal,NA
+2714,guwa1244,mis,Guwar,NA
+2715,minj1242,xjb,Minjungbal,NA
+2716,waal1238,bdy,Waalubal,NA
+2717,bung1264,xbg,Buwandik,NA
+2718,warr1257,gjm,Warrnambool,NA
+2719,gami1243,kld,Gamilaraay,NA
+2720,muru1266,zmu,Muruwari,NA
+2721,wang1291,wyb,Ngiyambaa,NA
+2722,wayi1238,wyb,Wayilwan,NA
+2723,wira1262,wrh,Wiradjuri,NA
+2724,wirr1237,kld,Wiriyaraay,NA
+2725,yuwa1242,kld,Yuwaalaraay,NA
+2726,yuwa1243,kld,Yuwaliyaay,NA
+2727,dhud1236,ddr,Dhudhuroa,NA
+2728,jand1248,jan,Jandai,NA
+2729,NA,mis,Djindewal,NA
+2730,yaga1262,yxg,Turubul,NA
+2731,yaga1262,yxg,Yagara,NA
+2732,dyir1250,dbl,Dyirbal,NA
+2733,warr1255,wgy,Warrgamay,NA
+2734,kumb1268,kgs,Baanbay,NA
+2735,kumb1268,kgs,Gumbaynggir,NA
+2736,yayg1236,xya,Yaygir,NA
+2737,guwa1242,xgw,Guwa,NA
+2738,yand1251,yda,Yanda,NA
+2739,kalk1246,ktg,Kalkatungu,NA
+2740,yala1262,ylr,Yalarnnga,NA
+2741,bayu1240,bxj,Payungu,NA
+2742,burd1238,bxn,Purduna,NA
+2743,dhal1245,dhl,Thalanyji,NA
+2744,djiw1241,dze,Jiwarli,NA
+2745,dhar1247,dhr,Tharrkari,NA
+2746,thii1234,iin,Thiin,NA
+2747,wari1262,wri,Warriyangga,NA
+2748,mith1236,mis,Mithaka,NA
+2749,dier1241,dif,Diyari,NA
+2750,dira1238,dif,Thirarri,NA
+2751,kara1508,nmv,Karangura,NA
+2752,ngam1284,nmv,Ngamini,NA
+2753,pirl1238,bxi,Pirlatapa,NA
+2754,yand1253,ynd,Yandruwandha,NA
+2755,nhir1234,hrp,Nhirrpi,NA
+2756,yawa1258,yww,Yawarrawarrka,NA
+2757,dier1241,dif,Yarluyandi,NA
+2758,punt1240,xpt,Punthamara,NA
+2759,wong1246,xwk,Kungardutji,NA
+2760,wong1246,xwk,Wangkumara,NA
+2761,arab1267,ard,Arabana,NA
+2762,wang1290,wgg,Wangkangurru,NA
+2763,pitt1247,pit,Pitta Pitta,NA
+2764,wang1289,wnm,Wangkayutyuru,NA
+2765,kuun1236,lku,Kungkari,NA
+2766,pirr1240,xpa,Pirriya,NA
+2767,kala1380,gll,Garlali,NA
+2768,badi1246,bia,Badimaya,NA
+2769,malg1242,vml,Malkana,NA
+2770,nhan1238,nha,Nhanda,NA
+2771,waja1257,wbv,Watjarri,NA
+2772,ying1247,yia,Yingkarta,NA
+2773,cola1237,mis,Kolakngat,NA
+2774,daun1234,dgw,Daungwurrung,NA
+2775,woiw1237,wyi,Boonwurrung,NA
+2776,wath1238,wth,Wathawurrung,NA
+2777,woiw1237,wyi,Woiwurrung,NA
+2778,yari1243,mis,Yari-Yari,NA
+2779,ladj1234,llj,Ladji-Ladji,NA
+2780,madh1244,dmd,Madhi-Madhi,NA
+2781,wadi1260,xwd,Wathi Wathi,NA
+2782,west2443,mis,East Djadjawurung,NA
+2783,djad1246,mis,Jardwadjali,NA
+2784,nari1241,rnr,Nari Nari,NA
+2785,djab1234,tjw,Djabwurung,NA
+2786,wemb1241,xww,Wemba Wemba,NA
+2787,wotj1234,xwt,Wotjobaluk,NA
+2788,gana1268,ihw,Bidhawal,NA
+2789,gana1278,unn,Muk-Thang,NA
+2790,gana1278,unn,Thangguai,NA
+2791,gana1278,unn,Nulit,NA
+2792,kera1256,mis,Keramin,NA
+2793,lowe1402,mis,Ngayawang,NA
+2794,ngin1247,mis,Ngintait,NA
+2795,narr1259,nay,Yaraldi,NA
+2796,yith1234,xth,Yitha Yitha,NA
+2797,bidy1243,bym,Bidyara,NA
+2798,gang1268,gnl,Barada,NA
+2799,biri1256,bzr,Barna,NA
+2800,biri1256,bzr,Biri,NA
+2801,gang1268,gnl,Gabalbara,NA
+2802,gang1268,gnl,Gangulu,NA
+2803,gang1268,gnl,Ganulu,NA
+2804,biri1256,bzr,Garingbal,NA
+2805,biri1256,bzr,Miyan,NA
+2806,biri1256,bzr,Wiri,NA
+2807,biri1256,bzr,Yambina,NA
+2808,biri1256,bzr,Yangga,NA
+2809,gang1268,gnl,Yetimarala,NA
+2810,biri1256,bzr,Yilba,NA
+2811,biri1256,bzr,Yuwi,NA
+2812,bidy1243,bym,Dharawala,NA
+2813,dhar1248,xgm,Dharumbal,NA
+2814,gung1248,gyf,Gungabula,NA
+2815,kung1258,kgl,Gunggari,NA
+2816,guny1241,gyy,Gunya,NA
+2817,marg1253,zmc,Margany,NA
+2818,gudj1237,mis,Gudjal,NA
+2819,gugu1253,gdc,Gugu Badhun,NA
+2820,waru1264,wrg,Warungu,NA
+2821,bidy1243,bym,Wadjabangay,NA
+2822,biri1256,bzr,Wangan,NA
+2823,bidy1243,bym,Yandjibara,NA
+2824,bidy1243,bym,Yiningay,NA
+2825,kara1476,gbd,Karajarri,NA
+2826,mang1383,mem,Mangala,NA
+2827,nyan1301,nna,Nyangumarta,NA
+2828,guga1239,ggd,Kukatj,NA
+2829,mayi1236,xyk,Mayi-Kulan,NA
+2830,maya1280,xmy,Mayi-Kutuna,NA
+2831,ngaw1240,nxn,Mayi-Thakurti,NA
+2832,mayi1235,xyj,Mayi-Yapi,NA
+2833,ngaw1240,nxn,Ngawun,NA
+2834,ngaw1240,nxn,Wunumara,NA
+2835,kala1379,kba,Galaagu,NA
+2836,kala1401,lkm,Kalaamaya,NA
+2837,ngad1258,nju,Mirrniny,NA
+2838,ngad1258,nju,Ngadjunmaya,NA
+2839,kari1304,vka,Kariyarra,NA
+2840,kurr1243,vku,Kurrama,NA
+2841,mart1255,vma,Martuthunira,NA
+2842,yinh1234,ywg,Ngarla,NA
+2843,ngar1287,nrl,Ngarluma,NA
+2844,nhuw1239,nhf,Nhuwala,NA
+2845,nyam1271,nly,Nyamal,NA
+2846,nija1241,xny,Nyiyaparli,NA
+2847,nija1241,xny,Palyku,NA
+2848,pany1241,pnw,Panyjima,NA
+2849,yind1247,yij,Yindjibarndi,NA
+2850,yind1247,yij,Yinhawangka,NA
+2851,bili1250,nbj,Bilinarra,NA
+2852,wany1244,gue,Wanyjirra,NA
+2853,guri1247,gue,Gurindji,NA
+2854,jaru1254,ddj,Jaru,NA
+2855,maln1239,gue,Malngin,NA
+2856,mudb1240,mwd,Mudburra,NA
+2857,ngar1288,rxd,Ngardi,NA
+2858,ngar1235,nbj,Ngarinyman,NA
+2859,walm1241,wmt,Walmajarri,NA
+2860,warl1255,wrl,Warlmanpa,NA
+2861,warl1254,wbp,Warlpiri,NA
+2862,nyaw1247,nyt,Nyawaygi,NA
+2863,wulg1239,qgu,Wulguru,NA
+2864,nyun1247,nys,Balardung,NA
+2865,bibb1234,xbp,Bibbulman,NA
+2866,gore1235,xgg,Goreng,NA
+2867,kani1276,nys,Kaniyang,NA
+2868,nyun1247,nys,Minang,NA
+2869,pinj1244,pnj,Pinjarup,NA
+2870,ward1248,wxw,Wardandi,NA
+2871,waju1234,xwj,Wajuk,NA
+2872,nyun1247,nys,Wiilman,NA
+2873,nyun1247,nys,Wudjari,NA
+2874,nyun1247,nys,Yuwat,NA
+2875,band1337,drl,Bandjigali,NA
+2876,darl1243,drl,Southern Paakintyi,NA
+2877,pall1243,pmd,Pallanganmiddang,NA
+2878,ikar1243,ikr,Ikarranggal,NA
+2879,ikar1243,ikr,Takalak,NA
+2880,aghu1254,ggr,Aghu Tharnggala,NA
+2881,thay1248,typ,Awu Alaya,NA
+2882,kawa1290,mis,Ogh Awarrangg,NA
+2883,kawa1290,mis,Ogh Unyjan,NA
+2884,angu1242,awg,Anguthimri,NA
+2885,kuku1273,gvn,Gugu Wakura,NA
+2886,gugu1255,kky,Guugu Yimidhirr,NA
+2887,kuku1273,gvn,Kuku Yalanji,NA
+2888,mulu1243,vmu,Muluridji,NA
+2889,kuku1273,gvn,Wagaman,NA
+2890,dyaa1242,dyy,Djabugay,NA
+2891,yidi1250,yii,Yidiny,NA
+2892,barr1247,bpt,Malthanmungu,NA
+2893,djan1238,djf,Djangun,NA
+2894,lamu1254,lby,Lamalama,NA
+2895,mbar1253,zmv,Rimanggudinhma,NA
+2896,wikm1247,wim,Wik Mungkan,NA
+2897,wikn1245,wig,Wik-Ngathan,NA
+2898,ayab1239,ayd,Ayapathu,NA
+2899,wikn1246,wua,Kugu Nganhcara,NA
+2900,kuuk1238,kuy,Kuugu Ya'u,NA
+2901,paka1251,pkn,Bakanh,NA
+2902,umpi1239,ump,Umpila,NA
+2903,ayab1239,ayd,Yintyingka,NA
+2904,kokn1236,gko,Kok Nar,NA
+2905,gurd1238,gdj,Kurtjar,NA
+2906,kuth1240,xut,Kuthant,NA
+2907,wala1263,mis,Walangama,NA
+2908,alng1239,aid,Alngith,NA
+2909,arit1239,dth,Aritinngithigh,NA
+2910,ndra1239,dgt,Ndra'ngith,NA
+2911,tyan1235,mis,Thaynakwithi,NA
+2912,leni1238,lnj,Linngithigh,NA
+2913,luth1234,mis,Luthigh,NA
+2914,mbiy1238,mis,Mbiywom,NA
+2915,mpal1238,xpj,Mpalitjanh,NA
+2916,ngko1236,mis,Ngkoth,NA
+2917,atam1239,amz,Uradhi,NA
+2918,angg1238,avm,Angkamuthi,NA
+2919,atam1239,amz,Atampaya,NA
+2920,yadh1237,mis,Yadhaykenu,NA
+2921,yinw1236,yxm,Yinwum,NA
+2922,gugu1254,kkp,Koko Bera,NA
+2923,thay1249,thd,Thaayorre,NA
+2924,ulku1238,kjn,Olkol,NA
+2925,yiry1245,yiy,Yir Yoront,NA
+2926,wami1239,wmi,Agwamin,NA
+2927,mbar1254,mvl,Mbara,NA
+2928,mbab1239,vmb,Mbabaram,NA
+2929,umbu1256,umg,Umbuygamu,NA
+2930,oyka1239,kjn,Oykangand,NA
+2931,adny1235,adt,Adnyamathanha,NA
+2932,kaur1267,zku,Kaurna,NA
+2933,nugu1241,nnv,Nukunu,NA
+2934,wira1265,wgu,Wirangu,NA
+2935,bang1339,bjb,Parnkalla,NA
+2936,naru1238,nnr,Narrungga,NA
+2937,koka1244,ktd,Kukata,NA
+2938,gure1255,gnr,Gureng-gureng,NA
+2939,gure1255,gnr,Guweng,NA
+2940,kabi1260,gbw,Butchulla,NA
+2941,gabi1248,gbw,Gabi-Gabi,NA
+2942,kabi1260,gbw,Barunggam,NA
+2943,duun1241,wkw,Duungidjawu,NA
+2944,waka1274,wkw,Waka Waka,NA
+2945,wuli1242,wlu,Wuli Wuli,NA
+2946,bula1255,mis,Bularnu,NA
+2947,waga1260,wga,Eastern Wakaya,NA
+2948,warl1256,wrb,Warluwarra,NA
+2949,waga1260,wga,Western Wakaya,NA
+2950,yany1243,jao,Yanyuwa,NA
+2951,waru1265,wrm,Warumungu,NA
+2952,kart1247,mpj,Kartujarra,NA
+2953,many1256,mpj,Manjiljarra,NA
+2954,pudi1238,mpj,Putijarra,NA
+2955,wang1288,mpj,Wangkajunga,NA
+2956,yulp1239,mis,Yulparija,NA
+2957,wanm1242,wbt,Warnman,NA
+2958,anta1253,ant,Antakirinya,NA
+2959,kuka1246,kux,Kukatja,NA
+2960,pitj1243,pjt,Ngalia,NA
+2961,ngar1296,nrk,Ngarlawangka,NA
+2962,ngaa1240,ntj,Ngaanyatjarra,NA
+2963,pint1250,piu,Pintupi,NA
+2964,pitj1243,pjt,Pitjantjatjara,NA
+2965,yank1247,kdd,Yankunytjatjara,NA
+2966,kala1378,mwp,Kala Kawaw Ya,NA
+2967,kala1377,mwp,Kala Lagaw Ya,NA
+2968,maly1234,yga,Malyangapa,NA
+2969,wadi1261,wdk,Wadikali,NA
+2970,yard1234,yxl,Yardliyawarra,NA
+2971,dhan1270,dhg,Dhangu,NA
+2972,gupa1247,guf,Gupapuyngu,NA
+2973,dhal1246,dax,Dhay'yi,NA
+2974,djam1256,djr,Djambarrpuyngu,NA
+2975,guma1253,gnn,Gumatj,NA
+2976,djin1253,dji,Djinang,NA
+2977,djin1252,djb,Djinba,NA
+2978,yann1237,jay,Nhangu,NA
+2979,rita1239,rit,Ritharrngu,NA
+2980,yort1237,xyy,Yabula-Yabula,NA
+2981,yort1237,xyy,Yorta Yorta,NA
+2982,biga1237,xbe,Bigambal,NA
+2983,yuga1244,yub,Yugambal,NA
+2984,hawk1239,xda,Darkinyung,NA
+2985,sydn1236,xdk,Dharuk,NA
+2986,sydn1236,xdk,Eora,NA
+2987,awab1243,awk,Awabakal,NA
+2988,west2443,mis,West Djadjawurung,NA
+2989,wori1245,kda,Katthang,NA
+2990,ngan1296,nyx,Nganyaywana,NA
+2991,dyan1250,dyn,Thanggati,NA
+2992,djap1238,duj,Djapu,NA
+2993,thur1254,tbh,Dharawal,NA
+2994,thur1254,tbh,Dharumba,NA
+2995,dhur1239,dhu,Dhurga,NA
+2996,sout2771,xtv,Djirringany,NA
+2997,gund1248,xrd,Gundungurra,NA
+2998,ngar1297,xni,Ngarigu,NA
+2999,sout2770,mis,Ngunawal,NA
+3000,sout2771,xtv,Thawa,NA
+3001,gang1267,gcd,Gangalidda,NA
+3002,kaya1319,gyd,Kayardild,NA
+3003,lard1243,lbz,Lardil,NA
+3004,kaya1319,gyd,Yangkaralda,NA
+3005,tiwi1244,tiw,Tiwi,NA
+3006,wage1238,waq,Wagiman,NA
+3007,ngar1284,ung,Ngarinyin,NA
+3008,gamb1251,gma,Gambera,NA
+3009,kwin1241,gww,Kwini,NA
+3010,wuna1249,wub,Wunambal,NA
+3011,umii1236,xud,Umiida,NA
+3012,ungg1243,xgu,Unggumi,NA
+3013,worr1237,wro,Worrorra,NA
+3014,yawi1239,jbw,Yawijibaya,NA
+3015,ward1246,wrr,Wardaman,NA
+3016,yang1288,jng,Yangman,NA
+3017,guwa1243,gwu,Guwamu,NA
+3018,west2437,wbp,Ngardily,NA
+3019,werg1234,weg,Piangil,NA
+3020,lamu1254,lby,Tableland Lamalama,NA

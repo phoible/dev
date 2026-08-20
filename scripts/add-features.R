@@ -508,7 +508,8 @@ phoible <- phoible[sort_order, ]
 
 ## CLEAN UP COLUMNS
 output_cols <- c("InventoryID", "Glottocode", "ISO6393", "LanguageName",
-                 "SpecificDialect", "GlyphID", "Phoneme", "Allophones",
+                 "SpecificDialect", "SourceLanguageName", "SourceSpecificDialect",
+                 "GlyphID", "Phoneme", "Allophones",
                  "Marginal", "SegmentClass", "Source", feature_colnames)
 phoible <- phoible[output_cols]
 
