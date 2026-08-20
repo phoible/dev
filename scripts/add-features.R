@@ -260,7 +260,7 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
     create_glyph_type_variables(envir=environment())
     # uptack
     if (vec$GlyphID %in% "031D") {
-        if (base_glyph %in% c("ɹ", "r")) {
+        if (base_glyph %in% c("ɹ", "r", "ʟ")) {
             # make it fricative-like, but not strident
             vec$delayedRelease <- "+"
         }
