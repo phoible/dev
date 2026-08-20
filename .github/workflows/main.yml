@@ -35,4 +35,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr comment ${{ github.event.pull_request.number }} --body-file phoneme_feature_test_results.txt --edit-last --create-if-none
+          gh pr comment ${{ github.event.pull_request.number }} --body-file phoneme_feature_test_results.txt
