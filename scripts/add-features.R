@@ -411,7 +411,7 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
         else if (base_glyph %in% c("ʊ", "ɑ")) {
             vec$back <- "0"
         }
-        else if (base_glyph %in% c("i", "e")) {
+        else if (base_glyph %in% c("i", "e", "ø")) {
             vec$front <- "0"
             vec$tense <- "0"
         }
