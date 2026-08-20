@@ -6,12 +6,12 @@ on:
   pull_request:
     branches: [ master ]
 
-permissions:
-  pull-requests: write
-
 jobs:
   test-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
       - uses: actions/checkout@v7
       - uses: prefix-dev/setup-pixi@v0.10.1
@@ -32,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr comment ${{ github.event.pull_request.number }} --body-file phoneme_feature_test_results.txt
-            
+
       - name: run tests
         working-directory: tests
         run: |
