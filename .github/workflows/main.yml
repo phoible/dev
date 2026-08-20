@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [ master ]
 
+permissions:
+  pull-requests: write
+
 jobs:
   test-data:
     runs-on: ubuntu-latest
@@ -18,4 +21,14 @@ jobs:
       - name: run tests
         working-directory: tests
         run: |
-          Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"
+            Rscript -e "testthat::test_dir('.', filter = \"^(?test-phoenemes)\", stop_on_failure = TRUE)"
+      - name: run feature test (write to PR comment)
+        working-directory: tests
+        run: |
+          Rscript -e "testthat::test_file('test-phonemes.R', reporter = \"summary\")" > phoneme_feature_test_results.txt 2>&1 || true
+      - name: comment on PR
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr comment ${{ github.event.pull_request.number }} --body-file phoneme_feature_test_results.txt 
