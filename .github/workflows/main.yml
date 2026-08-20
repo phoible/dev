@@ -28,6 +28,7 @@ jobs:
           Rscript -e "testthat::test_file('test-phonemes.R', reporter = 'summary')" > phoneme_feature_test_results.txt 2>&1 || true
       - name: comment on PR
         if: github.event_name == 'pull_request'
+        working-directory: tests
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
