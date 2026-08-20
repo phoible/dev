@@ -18,12 +18,8 @@ jobs:
         with:
           pixi-version: v0.66.0
           activate-environment: "ci"
-      - name: run tests
-        working-directory: tests
-        run: |
-            Rscript -e "testthat::test_dir('.', filter = 'phonemes', invert = TRUE, stop_on_failure = TRUE)"
       ## The following steps are temporary until we fix the phoneme feature test to pass in CI. 
-      ## Once the phoneme feature test passes, update the above command and remove filter and invert, and delete the following steps.
+      ## Once the phoneme feature test passes, update the below run tests command and remove filter and invert, and delete the following steps.
       - name: run feature test (write to PR comment)
         working-directory: tests
         run: |
@@ -36,3 +32,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr comment ${{ github.event.pull_request.number }} --body-file phoneme_feature_test_results.txt
+            
+      - name: run tests
+        working-directory: tests
+        run: |
+            Rscript -e "testthat::test_dir('.', filter = 'phonemes', invert = TRUE, stop_on_failure = TRUE)"
+     
