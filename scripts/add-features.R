@@ -330,7 +330,7 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
             # between mid-open and open
             vec$low <- "0"
         }
-        else if (base_glyph %in% c("æ", "a")) {
+        else if (base_glyph %in% c("æ", "a", "ɑ")) {
             # assigning +low is vacuous; little else makes sense ???
             vec$low <- "+"
         }
