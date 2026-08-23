@@ -114,7 +114,8 @@ test_that("within inventories, phonemes have distinct feature vectors", {
         c("ṵ", "uˀ"),
         # palatalized palatal (check sources)
         c("c", "cʲ"),
-        c("ɟ", "ɟʲ")
+        c("ɟ", "ɟʲ"),
+        c("ɲc", "ɲcʲ")  # 905 Kenswei Nsei
     ) -> known_bugs
 
     # make sure we don't have extraneous entries in `known_bugs`
