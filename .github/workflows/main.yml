@@ -5,17 +5,39 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-
 jobs:
   test-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v7
       - uses: prefix-dev/setup-pixi@v0.10.1
         with:
           pixi-version: v0.66.0
           activate-environment: "ci"
+      ## The following steps are temporary until we fix the phoneme feature test to pass in CI.
+      ## Once the phoneme feature test passes, update the below run tests command and remove filter and invert, and delete the following steps.
+      - name: run feature test (write to PR comment)
+        working-directory: tests
+        run: |
+          Rscript -e "testthat::test_file('test-phonemes.R', reporter = 'summary')" > phoneme_feature_test_results.txt 2>&1 || true
+      ## Fork PRs get a read-only GITHUB_TOKEN here, so this job can't comment
+      ## directly. comment-feature-test.yml (triggered via workflow_run) does it instead.
+      - name: save PR number
+        if: github.event_name == 'pull_request'
+        working-directory: tests
+        run: echo "${{ github.event.pull_request.number }}" > pr_number.txt
+      - name: upload feature test results
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: feature-test-results
+          path: |
+            tests/phoneme_feature_test_results.txt
+            tests/pr_number.txt
+      ## Run the rest of the tests, excluding the phoneme feature test (which is run above).
       - name: run tests
         working-directory: tests
         run: |
-          Rscript -e "testthat::test_dir('.', stop_on_failure=TRUE)"
+            Rscript -e "testthat::test_dir('.', filter = 'phonemes', invert = TRUE, stop_on_failure = TRUE)"

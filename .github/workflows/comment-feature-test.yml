@@ -1,0 +1,30 @@
+name: comment feature test results
+
+on:
+  workflow_run:
+    workflows: ["test data"]
+    types: [completed]
+
+permissions:
+  actions: read
+  pull-requests: write
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.event == 'pull_request'
+    steps:
+      - name: download feature test results
+        uses: actions/download-artifact@v4
+        with:
+          name: feature-test-results
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: comment on PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          PR_NUMBER=$(cat pr_number.txt)
+          gh pr comment "$PR_NUMBER" --body-file phoneme_feature_test_results.txt
