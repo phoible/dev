@@ -5,13 +5,11 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
- 
 jobs:
   test-data:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      actions: write
     steps:
       - uses: actions/checkout@v7
       - uses: prefix-dev/setup-pixi@v0.10.1
@@ -38,9 +36,8 @@ jobs:
           path: |
             tests/phoneme_feature_test_results.txt
             tests/pr_number.txt
-
+      ## Run the rest of the tests, excluding the phoneme feature test (which is run above).
       - name: run tests
         working-directory: tests
         run: |
             Rscript -e "testthat::test_dir('.', filter = 'phonemes', invert = TRUE, stop_on_failure = TRUE)"
-     
