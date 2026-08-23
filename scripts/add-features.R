@@ -144,6 +144,7 @@ make_feat_vec_from_mat <- function(feat_mat) {
                                             zero=TRUE)
             ## look up the combined base glyphs in the special_feats table
             base_vec <- special_feats[special_feats$segment == base_pair, ]
+            stopifnot(nrow(base_vec) == 1)
             ## populate the feature vector from the special_feats table
             feat_vec[feature_cols] <- base_vec[feature_cols]
             # delete two bases
