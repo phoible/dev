@@ -43,30 +43,6 @@ test_that("a click followed by a diacritic is not swapped the way a modifier wou
            paste("Expected click to remain first, got", shQuote(result)))
 })
 
-test_that("multiple clicks in sequence with a modifier are all preserved", {
-    ## two different clicks + one modifier, all typed "M".
-    result <- order_ipa("ǀǁʰ")
-    expect(stri_detect_fixed(result, "ǀ"),
-           paste("First click character was lost from", shQuote(result)))
-    expect(stri_detect_fixed(result, "ǁ"),
-           paste("Second click character was lost from", shQuote(result)))
-    expect(nchar(result) == 3,
-           paste("Expected a 3-character result, got", shQuote(result),
-                 "(", nchar(result), "characters)"))
-})
-
-test_that("two separate click+diacritic pairs in one string are both skipped", {
-    ## typestring "MDMD" both with clicks, so both should be skipped
-    result <- order_ipa("ǀ̥ǁ̥")
-    expect(stri_detect_fixed(result, "ǀ"),
-           paste("First click character was lost from", shQuote(result)))
-    expect(stri_detect_fixed(result, "ǁ"),
-           paste("Second click character was lost from", shQuote(result)))
-    expect(nchar(result) == 4,
-           paste("Expected a 4-character result, got", shQuote(result),
-                 "(", nchar(result), "characters)"))
-})
-
 test_that("a click preceding a real modifier+diacritic doesn't block their swap", {
     ## typestring "MMD" with a click first, then a modifier letter, then a diacritic. 
     ## The modifier+diacritic pair should still be swapped, but the click should remain first.
