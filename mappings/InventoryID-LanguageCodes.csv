@@ -1982,7 +1982,7 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 1981,iyow1239,crq,Chorote,Iyo'wujwa and Iyowa'ja dialects
 1982,maca1260,mca,Maka,NA
 1983,niva1238,cag,Chulupí,NA
-1984,wich1264,mtp,Wichí,Mision la Paz dialect
+1984,wich1264,mzh,Wichí,Mision la Paz dialect
 1985,call1235,caw,Callawaya,NA
 1986,mose1249,cas,Mosetén de Covendo,Mosetén de Covendo
 1987,mose1249,cas,Mosetén de Santa Ana,Mosetén de Santa Ana
@@ -2689,7 +2689,7 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 2688,binb1242,wmb,Binbinka,NA
 2689,guda1243,wmb,Gudanji,NA
 2690,wamb1258,wmb,Wambaya,NA
-2691,mink1237,mis,Minkin,NA
+2691,mink1237,xxm,Minkin,NA
 2692,ngum1253,xnm,Ngumbarl,NA
 2693,nyig1240,nyh,Nyikina,NA
 2694,warr1258,wwr,Warrwa,NA
@@ -2854,7 +2854,7 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 2853,guri1247,gue,Gurindji,NA
 2854,jaru1254,ddj,Jaru,NA
 2855,maln1239,gue,Malngin,NA
-2856,mudb1240,mwd,Mudburra,NA
+2856,mudb1240,dmw,Mudburra,NA
 2857,ngar1288,rxd,Ngardi,NA
 2858,ngar1235,nbj,Ngarinyman,NA
 2859,walm1241,wmt,Walmajarri,NA
@@ -2905,9 +2905,9 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 2904,kokn1236,gko,Kok Nar,NA
 2905,gurd1238,gdj,Kurtjar,NA
 2906,kuth1240,xut,Kuthant,NA
-2907,wala1263,mis,Walangama,NA
+2907,wala1263,nlw,Walangama,NA
 2908,alng1239,aid,Alngith,NA
-2909,arit1239,dth,Aritinngithigh,NA
+2909,arit1239,rrt,Aritinngithigh,NA
 2910,ndra1239,dgt,Ndra'ngith,NA
 2911,tyan1235,mis,Thaynakwithi,NA
 2912,leni1238,lnj,Linngithigh,NA
