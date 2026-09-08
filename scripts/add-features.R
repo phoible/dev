@@ -260,7 +260,7 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
     create_glyph_type_variables(envir=environment())
     # uptack
     if (vec$GlyphID %in% "031D") {
-        if (base_glyph %in% c("ɹ", "r")) {
+        if (base_glyph %in% c("ɹ", "r", "ʟ")) {
             # make it fricative-like, but not strident
             vec$delayedRelease <- "+"
         }
@@ -330,7 +330,7 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
             # between mid-open and open
             vec$low <- "0"
         }
-        else if (base_glyph %in% c("æ", "a")) {
+        else if (base_glyph %in% c("æ", "a", "ɑ")) {
             # assigning +low is vacuous; little else makes sense ???
             vec$low <- "+"
         }
@@ -411,7 +411,7 @@ handle_contextual_diacritics <- function(vec, base_glyph, is_click=FALSE) {
         else if (base_glyph %in% c("ʊ", "ɑ")) {
             vec$back <- "0"
         }
-        else if (base_glyph %in% c("i", "e")) {
+        else if (base_glyph %in% c("i", "e", "ø")) {
             vec$front <- "0"
             vec$tense <- "0"
         }
