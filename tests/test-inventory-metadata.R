@@ -141,6 +141,7 @@ test_that("glottocodes are valid", {
     glotto_url <- "https://github.com/glottolog/glottolog-cldf/blob/master/cldf/languages.csv?raw=true"
     glotto_table <- readr::read_csv(glotto_url, col_types=default_char_cols)
     glotto_valid <- pull(glotto_table, ID)
+    iso_valid_map <- pull(glotto_table, ISO639P3code)
 
     glotto_phoible <- pull(phoible, Glottocode)
     glotto_invalid <- setdiff(glotto_phoible, glotto_valid)
@@ -164,6 +165,39 @@ test_that("glottocodes are valid", {
            paste("UNEXPECTED NA GLOTTOCODES:",
                  paste(setdiff(glotto_invalid, djindewal_inventory_id),
                        collapse=" "),
+                 sep="\n")
+           )
+
+    ## Check that the ISO code in glottolog matches phoible's ISO code, for
+    ## every inventory with a known Glottocode (i.e. excluding Djindewal).
+    has_glottocode <- !is.na(phoible$Glottocode)
+
+    iso_from_glottolog <- iso_valid_map[match(phoible$Glottocode[has_glottocode], glotto_valid)]
+    iso_from_phoible <- phoible$ISO6393[has_glottocode]
+
+    ## Exclude known glottolog-ISO mismatches
+    known_mismatches <- rbind(
+        c(868,  "nepa1253", "kru"), # kxl (deprecated) merged into kru
+        c(1307, "krim1238", "bmf"), # krm (deprecated) merged into bmf
+        c(2750, "dira1238", "dif"), # dit (deprecated) merged into dif
+        c(2875, "band1337", "drl"), # bjd (deprecated) merged into drl
+        c(2256, "dark1243", "khk")  # drh (deprecated) merged into khk
+    )
+
+    overridable <- phoible$Glottocode[has_glottocode] %in% known_mismatches[, 2]
+    override <- setNames(known_mismatches[, 3], known_mismatches[, 2])
+    iso_from_glottolog[overridable] <- override[phoible$Glottocode[has_glottocode][overridable]]
+
+    mismatch_indices <- which(iso_from_glottolog != iso_from_phoible)
+
+    mismatch_ids <- phoible$InventoryID[has_glottocode][mismatch_indices]
+    mismatch_glottocodes <- phoible$Glottocode[has_glottocode][mismatch_indices]
+    mismatches <- unique(paste0(mismatch_ids, " (", mismatch_glottocodes, "): ", iso_from_phoible[mismatch_indices],
+                                " - ", iso_from_glottolog[mismatch_indices]))
+
+    expect(length(mismatches) == 0,
+           paste("MISMATCHED ISO CODES BETWEEN PHOIBLE AND GLOTTOLOG (InventoryID (glottocode)): phoible - glottolog):",
+                 paste0("- ", mismatches, collapse="\n"),
                  sep="\n")
            )
     }

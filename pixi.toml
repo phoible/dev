@@ -6,6 +6,7 @@ platforms = ["linux-64"]
 version = "0.1.0"
 
 [tasks]
+test = [{ task = "tests"}]
 
 [dependencies]
 r = "4.*"
@@ -16,6 +17,7 @@ r-stringi = ">=1.8.7,<2"
 
 [feature.agg.tasks]
 aggregate = { cmd = "Rscript aggregate-raw-data.R", cwd = "scripts" }
+add_features = { cmd = "Rscript add-features.R", cwd = "scripts" }
 
 [feature.ci.dependencies]
 r-dplyr = "1.1.1.*"
@@ -25,6 +27,9 @@ r-readr = ">=2.1.5,<3"
 r-stringr = ">=1.5.1,<2"
 r-testthat = ">=3.2.1.1,<4"
 r-withr = ">=3.0.0,<4"
+
+[feature.ci.tasks]
+tests = { cmd = "Rscript -e \"testthat::test_dir('.', stop_on_failure=TRUE)\"", cwd = "tests" }
 
 [environments]
 agg = { features = ["agg"] }
