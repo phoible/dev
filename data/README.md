@@ -36,3 +36,7 @@ various parts of the project:
 
 _All of these sites should be considered works-in-progress._ The “published”
 form of the data at https://phoible.org should be considered the most stable.
+
+## License
+
+The data in this directory is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See [../LICENSE-DATA](../LICENSE-DATA) for the full license text, and the root [README.md](../README.md#citing-phoible) for how to cite PHOIBLE.

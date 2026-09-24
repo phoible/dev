@@ -95,3 +95,9 @@ Here is a brief list of some publications that we have used PHOIBLE data for:
   Oxford.
 
 A more complete list of research papers using PHOIBLE can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576981116309388928&as_sdt=5).
+
+## License
+
+PHOIBLE code present in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+PHOIBLE data and mappings are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See the [data/README.md](data/README.md) and [mappings/README.md](mappings/README.md) files for details, and [LICENSE-DATA](LICENSE-DATA) for the full text of the license.
