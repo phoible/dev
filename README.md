@@ -95,3 +95,11 @@ Here is a brief list of some publications that we have used PHOIBLE data for:
   Oxford.
 
 A more complete list of research papers using PHOIBLE can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576981116309388928&as_sdt=5).
+
+## License
+
+PHOIBLE code present in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+PHOIBLE data and mappings are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See the [data/README.md](data/README.md) and [mappings/README.md](mappings/README.md) files for details, and [LICENSE-DATA](LICENSE-DATA) for the full text of the license.
+
+The data in raw-data is provided largely as received from the original source, with some modifications to make it easier to process. The raw data is not meant to be used directly, but rather to be processed by the scripts in the `scripts` folder to produce the aggregated data in the `data` folder. See Citing PHOIBLE above for how to cite the original source of the data, as well as PHOIBLE. See the README.md file in each folder for more information about how to cite the original source of the data.
