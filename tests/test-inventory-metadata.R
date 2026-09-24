@@ -69,19 +69,6 @@ test_that("ISO codes are valid", {
                 #     disambiguates); if glottolog is right then the ISO should
                 #     be `laj`
 
-        "mwd",  # split: http://www.iso639-3.sil.org/code/mwd
-                # source: https://glottolog.org/resource/reference/id/1921
-                # langoid: none associated with source nor current ISO code:
-                #     https://glottolog.org/glottolog?iso=mwd
-                # our current glottocode `mudb1240` is associated with one half
-                # of the split (`dmw`). The other half `xrq` (Karranga) has no
-                # associated langoid:
-                #     https://glottolog.org/glottolog?iso=xrq
-                # TODO: Double-check that the source really describes Mudburra
-                #     and not Karranga. If it describes both, change nothing
-                #     and keep this exception. If it describes only one, change
-                #     ISO (and possibly glottocode) accordingly.
-
         "qgu",  # Extinct. https://glottolog.org/resource/languoid/id/wulg1239
 
         "wit",  # split; https://iso639-3.sil.org/request/2012-144
@@ -194,8 +181,7 @@ test_that("glottocodes are valid", {
     mismatch_glottocodes <- phoible$Glottocode[has_glottocode][mismatch_indices]
     mismatches <- unique(paste0(mismatch_ids, " (", mismatch_glottocodes, "): ", iso_from_phoible[mismatch_indices],
                                 " - ", iso_from_glottolog[mismatch_indices]))
-
-    expect(length(mismatches) == 0,
+    expect(length(mismatch_indices) == 0,
            paste("MISMATCHED ISO CODES BETWEEN PHOIBLE AND GLOTTOLOG (InventoryID (glottocode)): phoible - glottolog):",
                  paste0("- ", mismatches, collapse="\n"),
                  sep="\n")
