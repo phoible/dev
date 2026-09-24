@@ -181,8 +181,7 @@ test_that("glottocodes are valid", {
     mismatch_glottocodes <- phoible$Glottocode[has_glottocode][mismatch_indices]
     mismatches <- unique(paste0(mismatch_ids, " (", mismatch_glottocodes, "): ", iso_from_phoible[mismatch_indices],
                                 " - ", iso_from_glottolog[mismatch_indices]))
-
-    expect(length(mismatches) == 0,
+    expect(length(mismatch_indices) == 0,
            paste("MISMATCHED ISO CODES BETWEEN PHOIBLE AND GLOTTOLOG (InventoryID (glottocode)): phoible - glottolog):",
                  paste0("- ", mismatches, collapse="\n"),
                  sep="\n")
