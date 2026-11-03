@@ -244,8 +244,6 @@ names(all_data)[names(all_data) == "SpecificDialect"] <- "SourceSpecificDialect"
 
 all_data <- all_data[order(all_data$InventoryID),]
 
-
-
 ## MERGE IN GLOTTOLOG CODES
 glotto_mapping <- read.csv(glotto_path)
 glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode", "ISO6393", "LanguageName", "SpecificDialect")]
@@ -253,9 +251,6 @@ all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 
 ## ADD GLYPH IDs
 all_data$GlyphID <- get_codepoints(all_data$Phoneme)
-
-## CONVERT INVENTORY ID TO INTEGER
-all_data$InventoryID <- as.integer(all_data$InventoryID)
 
 ## SORT BEFORE SAVING TO ELIMINATE SPURIOUS GIT DIFFS
 sort_order <- with(all_data, order(InventoryID, SegmentClass, Phoneme))
