@@ -647,209 +647,209 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 646,copa1236,zoc,ZOQUE,NA
 647,zulu1248,zul,ZULU,NA
 648,zuni1245,zun,ZUNI,NA
-649,abid1235,abi,Abidji,NA
-650,adio1239,adj,Adioukrou,NA
-651,ajab1235,ajg,Adja,Adja (Bénin)
-652,ajab1235,ajg,Adja,Adja (Togo)
-653,anyi1244,mtb,Agni Sanvi,NA
-654,igoo1238,ahl,Ahlõ,NA
-655,akan1250,aka,Akan,NA
-656,akoo1248,bss,Akɔɔse,Akɔɔse (Bakossi)
-657,ngas1240,anc,Angas,NA
-658,anuf1239,cko,Anufɔ,NA
-659,suda1236,apd,Arabe,NA
-660,avok1242,avu,Avokaya,NA
-661,veng1238,bav,Babungo,"Babungo (Grassfields Bantu, Ring)"
-662,bafu1246,bfd,Bafut,NA
-663,baka1272,bkc,Baka,NA
-664,bamb1269,bam,Bambara,NA
-665,band1345,bfl,Banda,Banda (CAF)
-666,band1345,bfl,Banda,Banda (Sudan)
-667,band1352,bza,Bandi,Bandi (Gbande)
-668,baou1238,bci,Baoulé,Baoulé (Baule; Baulé)
-669,baat1238,bba,Bariba,NA
-670,basa1284,bas,Basaa,NA
-671,nucl1418,bsq,Bassa,NA
-672,ntch1242,bud,Bassar,NA
-673,gagn1235,btg,Bété,NA
-674,bekw1241,bkv,Bekwarra,NA
-675,bero1242,bom,Berom,NA
-676,beng1286,nhb,Bɛ̀ŋ,Bɛ̀ŋ (Ngain)
-677,bhel1238,bhy,Bhele,NA
-678,bial1238,beh,Biali,NA
-679,bimo1239,bim,Bimoba,NA
-680,biss1248,bib,Bisa,NA
-681,nort2819,bbo,Bobo,Bobo (Boomu)
-682,boko1266,bqc,Boussa,Boussa (Boko)
-683,hain1253,bzx,Bozo,NA
-684,bulu1251,bum,Bulu,NA
-685,cerm1238,cme,Cerma,NA
-686,chum1261,ncu,Chumburung,NA
-687,nucl1683,dbq,Daba,NA
-688,sout2789,dga,Dagaare,NA
-689,nort2780,dgi,Dagara,NA
-690,dagb1246,dag,Dagbani,NA
-691,dann1241,daf,Dan,NA
-692,adan1247,ada,Dangme,NA
-693,daza1242,dzg,Daza,NA
-694,luok1236,luo,Dholuo,NA
-695,lako1244,dic,Dida,NA
-696,dyul1238,dyu,Dioula,NA
-697,dita1238,tbz,Ditammari,NA
-698,doya1240,dow,Doayo,NA
-699,toro1252,dts,Dogon,NA
-700,dual1243,dua,Duala,NA
-701,duru1249,dug,Duruma,NA
-702,ebir1243,igb,Ebira,NA
-703,ewee1241,ewe,Eʋe,NA
-704,bini1246,bin,Ẹdo,NA
-705,ezaa1238,eza,Ẹzaa,NA
-706,ejag1239,etu,Ejagham de l'ouest,NA
-707,emai1241,ema,Emai,NA
-708,enge1239,enn,Engenni,NA
-709,ewon1239,ewo,Ewondo,NA
-710,fefe1239,fmp,Fe'efe'fe,NA
-711,fonn1241,fon,Fɔn,NA
-712,adam1253,fub,Fulfulde,Fulfulde (Cameroon)
-713,cent2018,fuq,Fulfulde,Fulfulde (Niger)
-714,maas1239,ffm,Fulfulde,Fulfulde (Mali)
-715,west2454,fuh,Fulfulde,Fulfulde (Burkina Faso)
-716,fuli1240,flr,Fuliru,NA
-717,gaaa1244,gaa,Ga,NA
-718,ngan1299,gng,Gangam,NA
-719,nort2775,gya,Gbaya,"Gbaya (Northwest, CAR)"
-720,gbay1287,gbp,Gbaya,"Gbaya (Bossangoa, CAR)"
-721,genn1243,gej,Gɛn-mina,Gɛn-mina (Benin)
-722,genn1243,gej,Gɛn-mina,Gɛn-mina (Togo)
-723,godi1239,god,Godié,NA
-724,gonj1241,gjn,Gonja,NA
-725,nort2810,gbo,Grebo,NA
-726,gude1246,gde,Guɗe,NA
-727,gour1243,gux,Gulmancema,NA
-728,hang1258,hag,Hanga,NA
-729,haus1257,hau,Hausa,Hausa (Niger)
-730,haus1257,hau,Hausa,Hausa (Nigeria)
-731,ifee1241,ife,Ifɛ̀,NA
-732,nucl1417,ibo,Igbo,NA
-733,iged1239,ige,Igede,NA
-734,sout2774,ijs,Ijo de l'est; Eastern Ijo,Ijo de l'est; Eastern Ijo (Okrika)
-735,ikwo1238,iqw,Ikwo,NA
-736,izii1239,izz,Izi,NA
-737,jola1263,dyo,Joola,NA
-738,jurm1239,bex,Jur mödö,NA
-739,kabi1261,kbp,Kabiyɛ,NA
-740,kako1242,kkj,Kakɔ,NA
-741,baan1242,bqx,Kambari,NA
-742,cent2050,knc,Kanuri,NA
-743,west2466,kza,Karaboro,NA
-744,kara1478,kzr,Karaŋ,NA
-745,kase1253,xsm,Kasem,NA
-746,kase1253,xsm,Kasɩm,NA
-747,koon1245,ozm,Kɔɔzime,NA
-748,kiku1240,kik,Kikuyu,NA
-749,nort2765,kqs,Kisiei,NA
-750,komc1235,bkm,Kom,NA
-751,komo1260,kmw,Komo,NA
-752,konk1269,xon,Konkomba,NA
-753,libe1247,xpe,Kpelle,NA
-754,guin1254,gkp,Kpɛlɛwoo,NA
-755,gbay1288,krs,Kresh,NA
-756,krio1253,kri,Krio,NA
-757,tepo1239,ted,Kroumen Tépo,NA
-758,kuri1259,kuj,Kuria,NA
-759,kusa1250,kus,Kusal,NA
-760,lama1275,las,Lama,NA
-761,lele1276,lln,Lele,NA
-762,lend1245,led,Lendu,NA
-763,loma1260,lom,Lɔgɔmagooi,NA
-764,loko1255,lok,Lɔkɔ,NA
-765,ligb1244,lig,Ligbi,NA
-766,west2450,lia,Limba,NA
-767,limb1268,lmp,Limbum,NA
-768,ling1263,lin,Lingala,NA
-769,lukp1238,dop,Lokpa,NA
-770,gand1255,lug,Luganda,NA
-771,lugb1240,lgg,Lugbara,NA
-772,lyel1241,lee,Lyélé,NA
-773,came1252,mcu,Mambila,Mambila (Cameroon)
-774,nige1255,mzk,Mambila,Mambila (Nigeria)
-775,mamp1244,maw,Mampruli,NA
-776,west2500,mlq,Mande,NA
-777,east2426,emk,Manding,NA
-778,mang1394,mdj,Mangbetu,Mangbetu (Meje)
-779,kita1249,mwk,Maninka-kan,NA
-780,mund1326,muh,Mündü,NA
-781,cros1244,mfn,Mbembe,NA
-782,mboc1235,mbo,Mboó,NA
-783,maka1304,mcp,Mekaa,NA
-784,mend1266,men,Mende,NA
-785,meta1238,mgo,Metta,NA
-786,mama1271,myk,Minyanka,NA
-787,degg1238,mzw,Mo,Mo (Deg)
-788,mofu1248,mif,Mofu-gudur,NA
-789,moss1236,mos,Moore,NA
-790,mwan1250,moa,Muan,NA
-791,mund1327,mnf,Mundani,NA
-792,kitu1245,mkw,Munukutuba,NA
-793,murl1244,mur,Murle,NA
-794,mwag1236,sur,Mwaghavul,NA
-795,nafa1258,nfr,Nafaanra,NA
-796,nawd1238,nmz,Nawdm,NA
-797,nort2784,nuv,Nʋni,NA
-798,noma1260,lem,Nɔmaa,Nɔmaa (Nɔmaándɛ́)
-799,ngam1268,sba,Ngambai,NA
-800,ngba1285,nga,Ngbaka,NA
-801,nort2774,ngb,Ngbandi,NA
-802,ngie1241,nnh,Ngyembɔɔn,NA
-803,nyab1255,nwb,Niaboua,NA
-804,lamn1239,lns,Nsoʼ,NA
-805,nugu1242,yas,Nugunu,NA
-806,nupe1254,nup,Nupe,NA
-807,pand1265,mhi,Pandikeri,NA
-808,park1239,pbi,Podoko,NA
-809,pula1263,fuc,Pulaar,NA
-810,pula1262,fuf,Pular,NA
-811,rend1243,rel,Rendille,NA
-812,saba1262,spy,Sabaot,NA
-813,sang1328,sag,Sango,Sango (CAF)
-814,sang1328,sag,Sango,Sango (COD)
-815,sena1262,seq,Senoufo,NA
-816,sere1260,srr,Sereer,NA
-817,siss1242,sld,Sissala,Sissala (Burkina)
-818,siss1242,sld,Sissala,Sissala (Ghana)
-819,koyr1240,khq,Songhoy,NA
-820,soni1259,snk,Soninke,Soninke (Mali)
-821,soni1259,snk,Sooninke,Sooninke (Senegal)
-822,susu1250,sus,Soso,NA
-823,swah1253,swh,Swahili,NA
-824,tawa1286,ttq,Tamajaq,NA
-825,tama1365,taq,Tamasheq,NA
-826,taro1263,yer,Tarok,NA
-827,teen1242,lor,Téén,NA
-828,teda1241,tuq,Teda,NA
-829,temm1241,kdh,Tem,NA
-830,tofi1235,tfi,Tɔfin,NA
-831,timn1235,tem,Themne,NA
-832,tika1246,tik,Tikar,NA
-833,topo1242,toq,Toposa,NA
-834,tour1242,neb,Toura,NA
-835,nort2787,tsp,Toussian,NA
-836,vagl1239,vag,Vagala,NA
-837,vute1244,vut,Vute,NA
-838,waam1244,wwa,Waama,NA
-839,wann1242,wan,Wan,NA
-840,weno1238,wob,Wobé,NA
-841,nucl1347,wol,Wolof,NA
-842,yamb1251,yam,Yamba,NA
-843,yamb1252,yat,Yambɛta,NA
-844,yaou1238,yre,Yaouré,NA
-845,yemb1246,ybb,Yemba,NA
-846,yomm1242,pil,Yom,NA
-847,yoru1245,yor,Yorouba,Yorouba (Benin)
-848,yoru1245,yor,Yorouba,Yorouba (Nigeria)
-849,zand1248,zne,Zande,NA
-850,zarm1239,dje,Zarma,NA
-851,zulg1242,gnd,Zulgo,NA
+p00000,abid1235,abi,Abidji,NA
+p9e377,adio1239,adj,Adioukrou,NA
+p3c6ee,ajab1235,ajg,Adja,Adja (Bénin)
+pdaa65,ajab1235,ajg,Adja,Adja (Togo)
+p78ddc,anyi1244,mtb,Agni Sanvi,NA
+p17153,igoo1238,ahl,Ahlõ,NA
+pb54ca,akan1250,aka,Akan,NA
+p53841,akoo1248,bss,Akɔɔse,Akɔɔse (Bakossi)
+pf1bb8,ngas1240,anc,Angas,NA
+p8ff2f,anuf1239,cko,Anufɔ,NA
+p2e2a6,suda1236,apd,Arabe,NA
+pcc61d,avok1242,avu,Avokaya,NA
+p6a994,veng1238,bav,Babungo,"Babungo (Grassfields Bantu, Ring)"
+p08d0b,bafu1246,bfd,Bafut,NA
+pa7082,baka1272,bkc,Baka,NA
+p453f9,bamb1269,bam,Bambara,NA
+pe3770,band1345,bfl,Banda,Banda (CAF)
+p81ae7,band1345,bfl,Banda,Banda (Sudan)
+p1fe5e,band1352,bza,Bandi,Bandi (Gbande)
+pbe1d5,baou1238,bci,Baoulé,Baoulé (Baule; Baulé)
+p5c54c,baat1238,bba,Bariba,NA
+pfa8c3,basa1284,bas,Basaa,NA
+p98c3a,nucl1418,bsq,Bassa,NA
+p36fb1,ntch1242,bud,Bassar,NA
+pd5328,gagn1235,btg,Bété,NA
+p7369f,bekw1241,bkv,Bekwarra,NA
+p11a16,bero1242,bom,Berom,NA
+pafd8d,beng1286,nhb,Bɛ̀ŋ,Bɛ̀ŋ (Ngain)
+p4e104,bhel1238,bhy,Bhele,NA
+pec47b,bial1238,beh,Biali,NA
+p8a7f2,bimo1239,bim,Bimoba,NA
+p28b69,biss1248,bib,Bisa,NA
+pc6ee0,nort2819,bbo,Bobo,Bobo (Boomu)
+p65257,boko1266,bqc,Boussa,Boussa (Boko)
+p035ce,hain1253,bzx,Bozo,NA
+pa1945,bulu1251,bum,Bulu,NA
+p3fcbc,cerm1238,cme,Cerma,NA
+pde033,chum1261,ncu,Chumburung,NA
+p7c3aa,nucl1683,dbq,Daba,NA
+p1a721,sout2789,dga,Dagaare,NA
+pb8a98,nort2780,dgi,Dagara,NA
+p56e0f,dagb1246,dag,Dagbani,NA
+pf5186,dann1241,daf,Dan,NA
+p934fd,adan1247,ada,Dangme,NA
+p31874,daza1242,dzg,Daza,NA
+pcfbeb,luok1236,luo,Dholuo,NA
+p6df62,lako1244,dic,Dida,NA
+p0c2d9,dyul1238,dyu,Dioula,NA
+paa650,dita1238,tbz,Ditammari,NA
+p489c7,doya1240,dow,Doayo,NA
+pe6d3e,toro1252,dts,Dogon,NA
+p850b5,dual1243,dua,Duala,NA
+p2342c,duru1249,dug,Duruma,NA
+pc17a3,ebir1243,igb,Ebira,NA
+p5fb1a,ewee1241,ewe,Eʋe,NA
+pfde91,bini1246,bin,Ẹdo,NA
+p9c208,ezaa1238,eza,Ẹzaa,NA
+p3a57f,ejag1239,etu,Ejagham de l'ouest,NA
+pd88f6,emai1241,ema,Emai,NA
+p76c6d,enge1239,enn,Engenni,NA
+p14fe4,ewon1239,ewo,Ewondo,NA
+pb335b,fefe1239,fmp,Fe'efe'fe,NA
+p516d2,fonn1241,fon,Fɔn,NA
+pefa49,adam1253,fub,Fulfulde,Fulfulde (Cameroon)
+p8ddc0,cent2018,fuq,Fulfulde,Fulfulde (Niger)
+p2c137,maas1239,ffm,Fulfulde,Fulfulde (Mali)
+pca4ae,west2454,fuh,Fulfulde,Fulfulde (Burkina Faso)
+p68825,fuli1240,flr,Fuliru,NA
+p06b9c,gaaa1244,gaa,Ga,NA
+pa4f13,ngan1299,gng,Gangam,NA
+p4328a,nort2775,gya,Gbaya,"Gbaya (Northwest, CAR)"
+pe1601,gbay1287,gbp,Gbaya,"Gbaya (Bossangoa, CAR)"
+p7f978,genn1243,gej,Gɛn-mina,Gɛn-mina (Benin)
+p1dcef,genn1243,gej,Gɛn-mina,Gɛn-mina (Togo)
+pbc066,godi1239,god,Godié,NA
+p5a3dd,gonj1241,gjn,Gonja,NA
+pf8754,nort2810,gbo,Grebo,NA
+p96acb,gude1246,gde,Guɗe,NA
+p34e42,gour1243,gux,Gulmancema,NA
+pd31b9,hang1258,hag,Hanga,NA
+p71530,haus1257,hau,Hausa,Hausa (Niger)
+p0f8a7,haus1257,hau,Hausa,Hausa (Nigeria)
+padc1e,ifee1241,ife,Ifɛ̀,NA
+p4bf95,nucl1417,ibo,Igbo,NA
+pea30c,iged1239,ige,Igede,NA
+p88683,sout2774,ijs,Ijo de l'est; Eastern Ijo,Ijo de l'est; Eastern Ijo (Okrika)
+p269fa,ikwo1238,iqw,Ikwo,NA
+pc4d71,izii1239,izz,Izi,NA
+p630e8,jola1263,dyo,Joola,NA
+p0145f,jurm1239,bex,Jur mödö,NA
+p9f7d6,kabi1261,kbp,Kabiyɛ,NA
+p3db4d,kako1242,kkj,Kakɔ,NA
+pdbec4,baan1242,bqx,Kambari,NA
+p7a23b,cent2050,knc,Kanuri,NA
+p185b2,west2466,kza,Karaboro,NA
+pb6929,kara1478,kzr,Karaŋ,NA
+p54ca0,kase1253,xsm,Kasem,NA
+pf3017,kase1253,xsm,Kasɩm,NA
+p9138e,koon1245,ozm,Kɔɔzime,NA
+p2f705,kiku1240,kik,Kikuyu,NA
+pcda7c,nort2765,kqs,Kisiei,NA
+p6bdf3,komc1235,bkm,Kom,NA
+p0a16a,komo1260,kmw,Komo,NA
+pa84e1,konk1269,xon,Konkomba,NA
+p46858,libe1247,xpe,Kpelle,NA
+pe4bcf,guin1254,gkp,Kpɛlɛwoo,NA
+p82f46,gbay1288,krs,Kresh,NA
+p212bd,krio1253,kri,Krio,NA
+pbf634,tepo1239,ted,Kroumen Tépo,NA
+p5d9ab,kuri1259,kuj,Kuria,NA
+pfbd22,kusa1250,kus,Kusal,NA
+p9a099,lama1275,las,Lama,NA
+p38410,lele1276,lln,Lele,NA
+pd6787,lend1245,led,Lendu,NA
+p74afe,loma1260,lom,Lɔgɔmagooi,NA
+p12e75,loko1255,lok,Lɔkɔ,NA
+pb11ec,ligb1244,lig,Ligbi,NA
+p4f563,west2450,lia,Limba,NA
+ped8da,limb1268,lmp,Limbum,NA
+p8bc51,ling1263,lin,Lingala,NA
+p29fc8,lukp1238,dop,Lokpa,NA
+pc833f,gand1255,lug,Luganda,NA
+p666b6,lugb1240,lgg,Lugbara,NA
+p04a2d,lyel1241,lee,Lyélé,NA
+pa2da4,came1252,mcu,Mambila,Mambila (Cameroon)
+p4111b,nige1255,mzk,Mambila,Mambila (Nigeria)
+pdf492,mamp1244,maw,Mampruli,NA
+p7d809,west2500,mlq,Mande,NA
+p1bb80,east2426,emk,Manding,NA
+pb9ef7,mang1394,mdj,Mangbetu,Mangbetu (Meje)
+p5826e,kita1249,mwk,Maninka-kan,NA
+pf65e5,mund1326,muh,Mündü,NA
+p9495c,cros1244,mfn,Mbembe,NA
+p32cd3,mboc1235,mbo,Mboó,NA
+pd104a,maka1304,mcp,Mekaa,NA
+p6f3c1,mend1266,men,Mende,NA
+p0d738,meta1238,mgo,Metta,NA
+pabaaf,mama1271,myk,Minyanka,NA
+p49e26,degg1238,mzw,Mo,Mo (Deg)
+pe819d,mofu1248,mif,Mofu-gudur,NA
+p86514,moss1236,mos,Moore,NA
+p2488b,mwan1250,moa,Muan,NA
+pc2c02,mund1327,mnf,Mundani,NA
+p60f79,kitu1245,mkw,Munukutuba,NA
+pff2f0,murl1244,mur,Murle,NA
+p9d667,mwag1236,sur,Mwaghavul,NA
+p3b9de,nafa1258,nfr,Nafaanra,NA
+pd9d55,nawd1238,nmz,Nawdm,NA
+p780cc,nort2784,nuv,Nʋni,NA
+p16443,noma1260,lem,Nɔmaa,Nɔmaa (Nɔmaándɛ́)
+pb47ba,ngam1268,sba,Ngambai,NA
+p52b31,ngba1285,nga,Ngbaka,NA
+pf0ea8,nort2774,ngb,Ngbandi,NA
+p8f21f,ngie1241,nnh,Ngyembɔɔn,NA
+p2d596,nyab1255,nwb,Niaboua,NA
+pcb90d,lamn1239,lns,Nsoʼ,NA
+p69c84,nugu1242,yas,Nugunu,NA
+p07ffb,nupe1254,nup,Nupe,NA
+pa6372,pand1265,mhi,Pandikeri,NA
+p446e9,park1239,pbi,Podoko,NA
+pe2a60,pula1263,fuc,Pulaar,NA
+p80dd7,pula1262,fuf,Pular,NA
+p1f14e,rend1243,rel,Rendille,NA
+pbd4c5,saba1262,spy,Sabaot,NA
+p5b83c,sang1328,sag,Sango,Sango (CAF)
+pf9bb3,sang1328,sag,Sango,Sango (COD)
+p97f2a,sena1262,seq,Senoufo,NA
+p362a1,sere1260,srr,Sereer,NA
+pd4618,siss1242,sld,Sissala,Sissala (Burkina)
+p7298f,siss1242,sld,Sissala,Sissala (Ghana)
+p10d06,koyr1240,khq,Songhoy,NA
+paf07d,soni1259,snk,Soninke,Soninke (Mali)
+p4d3f4,soni1259,snk,Sooninke,Sooninke (Senegal)
+peb76b,susu1250,sus,Soso,NA
+p89ae2,swah1253,swh,Swahili,NA
+p27e59,tawa1286,ttq,Tamajaq,NA
+pc61d0,tama1365,taq,Tamasheq,NA
+p64547,taro1263,yer,Tarok,NA
+p028be,teen1242,lor,Téén,NA
+pa0c35,teda1241,tuq,Teda,NA
+p3efac,temm1241,kdh,Tem,NA
+pdd323,tofi1235,tfi,Tɔfin,NA
+p7b69a,timn1235,tem,Themne,NA
+p19a11,tika1246,tik,Tikar,NA
+pb7d88,topo1242,toq,Toposa,NA
+p560ff,tour1242,neb,Toura,NA
+pf4476,nort2787,tsp,Toussian,NA
+p927ed,vagl1239,vag,Vagala,NA
+p30b64,vute1244,vut,Vute,NA
+pceedb,waam1244,wwa,Waama,NA
+p6d252,wann1242,wan,Wan,NA
+p0b5c9,weno1238,wob,Wobé,NA
+pa9940,nucl1347,wol,Wolof,NA
+p47cb7,yamb1251,yam,Yamba,NA
+pe602e,yamb1252,yat,Yambɛta,NA
+p843a5,yaou1238,yre,Yaouré,NA
+p2271c,yemb1246,ybb,Yemba,NA
+pc0a93,yomm1242,pil,Yom,NA
+p5ee0a,yoru1245,yor,Yorouba,Yorouba (Benin)
+pfd181,yoru1245,yor,Yorouba,Yorouba (Nigeria)
+p9b4f8,zand1248,zne,Zande,NA
+p3986f,zarm1239,dje,Zarma,NA
+pd7be6,zulg1242,gnd,Zulgo,NA
 852,fwee1238,fwe,Fwe,NA
 853,yeyi1239,yey,Yeyi,NA
 854,cavi1250,cav,Cavinena,NA
