@@ -1,8 +1,8 @@
 #! /usr/bin/env Rscript
 
-## InventoryID generation. Format: "p" + 4 lowercase hex digits (e.g. "p1a2b").
+## InventoryID generation. Format: "p" + 5 lowercase hex digits (e.g. "p1a2b3").
 ## The "p" prefix guarantees an ID can never be parsed as an integer
-## The 4 digit hex suffix gives 65536 possible IDs.
+## The 5 digit hex suffix gives 1048576 possible IDs. It also guarantees that the numerical part of the ID isn't mistaken for a legacy int ID.
 ## The IDs are generated deterministically from a counter, so that the same inputs always produce the same outputs.
 ## The IDs are non-sequential, and deleted IDs are not reused (stored in mappings/InventoryID-Retired.csv).
 
@@ -32,23 +32,23 @@ load_existing_inventory_ids <- function() {
     unique(unlist(lapply(paths, read_inventory_ids)))
 }
 
-## Multiplier = floor(65536 / 1.61803398875) for a bijective mapping of 0 - 65535 to 0 - 65535 in hex that is not sequential.
-INVENTORY_ID_PERMUTE_MULTIPLIER <- 40503L
+## Multiplier = floor(1048576 / 1.61803398875) for a bijective mapping of 0 - 1048575 to 0 - 1048575 in hex that is not sequential.
+INVENTORY_ID_PERMUTE_MULTIPLIER <- 648055
 
 ## Maps a counter value to a hex string in a non-sequential way, using a
 ## fixed multiplier to permute the counter values.
 permute_counter_to_hex <- function(counter) {
-    scrambled <- (as.double(counter) * INVENTORY_ID_PERMUTE_MULTIPLIER) %% 65536
-    sprintf("%04x", as.integer(scrambled))
+    scrambled <- (as.double(counter) * INVENTORY_ID_PERMUTE_MULTIPLIER) %% 1048576
+    sprintf("%05x", as.integer(scrambled))
 }
 
 ## Generates n new InventoryIDs that are not in the existing_ids vector.
 generate_new_inventory_ids <- function(n, existing_ids=load_existing_inventory_ids()) {
     new_ids <- character(0)
-    counter <- 0L
-    while (length(new_ids) < n && counter < 65536L) {
+    counter <- 0
+    while (length(new_ids) < n && counter < 1048576) {
         candidate <- paste0("p", permute_counter_to_hex(counter))
-        counter <- counter + 1L
+        counter <- counter + 1
         if (!(candidate %in% existing_ids) && !(candidate %in% new_ids)) {
             new_ids <- c(new_ids, candidate)
         }
