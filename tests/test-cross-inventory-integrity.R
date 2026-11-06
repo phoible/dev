@@ -64,7 +64,7 @@ test_that("every BibtexKey resolves to a real bib entry", {
     ## report which InventoryID(s) cite each missing key
     offending_rows <- bibtex_mapping %>%
         filter(BibtexKey %in% missing_keys) %>%
-        arrange(BibtexKey, as.integer(InventoryID))
+        arrange(BibtexKey, InventoryID)
     offending_summary <- offending_rows %>%
         group_by(BibtexKey) %>%
         summarise(InventoryIDs = paste(InventoryID, collapse=", "), .groups="drop")
@@ -81,7 +81,7 @@ test_that("every BibtexKey resolves to a real bib entry", {
 
 test_that("mapping-file and aggregated-data InventoryIDs match in both directions", {
     phoible_ids <- phoible %>% pull(InventoryID) %>% unique()
-    mapping_ids <- bibtex_mapping %>% pull(InventoryID) %>% as.integer() %>% unique()
+    mapping_ids <- bibtex_mapping %>% pull(InventoryID) %>% unique()
 
     only_in_mapping <- setdiff(mapping_ids, phoible_ids)
     only_in_phoible <- setdiff(phoible_ids, mapping_ids)
