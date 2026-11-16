@@ -4,32 +4,36 @@
 ## new language block in a raw-data source file and bakes it in.
 ## A block that already has an ID is left alone.
 
-## TEMP: Script is currently only for AA, PH, UZ, GM, EA, ER, and UPSID.
+## TEMP: Script is currently only for AA, PH, UZ, GM, EA, ER, UPSID, SAPHON, RA, and SPA.
 
 source("generate-inventory-ids.R")
 
 running_ids <- load_existing_inventory_ids()
 
 ## The raw-data sources are of different formats, so we have to handle them differently.
-## AA, PH, UZ, GM are sparse.
+## AA, PH, UZ, GM, SPA are sparse.
 
 id_cols <- c("LanguageCode", "LanguageName", "SpecificDialect")
 
 sparse_sources <- list(
     AA=list(path=file.path("..", "raw-data", "AA", "AA_inventories.tsv"),
-            id_cols=id_cols),
+            nonblank_col="LanguageCode", id_cols=id_cols),
     PH=list(path=file.path("..", "raw-data", "PH", "phoible_inventories.tsv"),
-            id_cols=id_cols),
+            nonblank_col="LanguageCode", id_cols=id_cols),
     UZ=list(path=file.path("..", "raw-data", "PH", "UZ_inventories.tsv"),
-            id_cols=id_cols),
+            nonblank_col="LanguageCode", id_cols=id_cols),
     GM_AFR=list(path=file.path("..", "raw-data", "PH", "gm-afr-inventories.tsv"),
-                id_cols=id_cols),
+                nonblank_col="LanguageCode", id_cols=id_cols),
     GM_SEA=list(path=file.path("..", "raw-data", "PH", "gm-sea-inventories.tsv"),
-                id_cols=id_cols)
+                nonblank_col="LanguageCode", id_cols=id_cols),
+    SPA=list(path=file.path("..", "raw-data", "SPA", "SPA_Phones.tsv"),
+             nonblank_col="spaLangNum", id_cols=c("spaLangNum", "LanguageName"))
 )
 
 for (name in names(sparse_sources)) {
     path <- sparse_sources[[name]]$path
+    nonblank_col <- sparse_sources[[name]]$nonblank_col
+    cols <- sparse_sources[[name]]$id_cols
     cat("processing", name, "\n")
     raw_lines <- readLines(path, encoding="UTF-8", warn=FALSE)
     header <- raw_lines[1]
@@ -41,9 +45,9 @@ for (name in names(sparse_sources)) {
 
     ## Identify non-blank rows and their corresponding blocks
 
-    nonblank <- nzchar(d$LanguageCode)
+    nonblank <- nzchar(d[[nonblank_col]])
     nonblank_idx <- which(nonblank)
-    pair <- do.call(paste, d[intersect(id_cols, colnames(d))])[nonblank]
+    pair <- do.call(paste, d[intersect(cols, colnames(d))])[nonblank]
     block_heads <- nonblank_idx[pair != c("", head(pair, -1))]
     block_ends <- c(block_heads[-1] - 1, nrow(d))
 
@@ -171,4 +175,39 @@ if (n_new > 0) {
     writeLines(c(header, lines), con, useBytes=TRUE, sep="\r\n")
     close(con)
     cat("  wrote", n_new, "new ID(s) to", upsid_path, "\n")
+}
+
+## SAPHON and RA are also one row per inventory
+## But they have a different format, so we handle them separately.
+one_row_sources <- list(
+    SAPHON=list(path=file.path("..", "raw-data", "SAPHON", "saphon20121031.tsv"),
+                delim="\t", data_start=3),
+    RA=list(path=file.path("..", "raw-data", "RA", "Ramaswami1999.csv"),
+            delim=",", data_start=4)
+)
+
+for (name in names(one_row_sources)) {
+    cfg <- one_row_sources[[name]]
+    cat("processing", name, "\n")
+    raw_lines <- readLines(cfg$path, encoding="UTF-8", warn=FALSE)
+
+    n_new <- 0
+
+    for (li in cfg$data_start:length(raw_lines)) {
+        delim_pos <- regexpr(cfg$delim, raw_lines[li], fixed=TRUE)
+        if (nzchar(substr(raw_lines[li], 1, delim_pos - 1))) next
+
+        new_id <- generate_new_inventory_ids(1, existing_ids=running_ids)
+        running_ids <- c(running_ids, new_id)
+        n_new <- n_new + 1
+        raw_lines[li] <- paste0(new_id, substr(raw_lines[li], delim_pos, nchar(raw_lines[li])))
+    }
+
+    cat("  new rows:", n_new, "\n")
+    if (n_new > 0) {
+        con <- file(cfg$path, "wb")
+        writeLines(raw_lines, con, useBytes=TRUE, sep="\r\n")
+        close(con)
+        cat("  wrote", n_new, "new ID(s) to", cfg$path, "\n")
+    }
 }
