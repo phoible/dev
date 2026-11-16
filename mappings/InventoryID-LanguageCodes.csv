@@ -1,652 +1,652 @@
 InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
-1,kore1280,kor,Korean,NA
-2,kett1243,ket,Ket,NA
-3,lakk1252,lbe,Lak,NA
-4,kaba1278,kbd,Kabardian,NA
-5,nucl1302,kat,Georgian,NA
-6,buru1296,bsk,Burushaski,NA
-7,kuru1302,kru,Kurukh,NA
-8,telu1262,tel,Telugu,NA
-9,kota1263,kfe,Kota,NA
-10,mund1320,unr,Mundari,NA
-11,khar1287,khr,Kharia,NA
-12,khas1269,kha,Khasi,NA
-13,seda1262,sed,Sedang,NA
-14,cent1989,khm,Cambodian,NA
-15,viet1252,vie,Vietnamese,NA
-16,mand1415,cmn,Mandarin Chinese,NA
-17,wuch1236,wuu,Wu,NA
-18,hakk1236,hak,Hakka,NA
-19,yuec1235,yue,Cantonese,NA
-20,iumi1238,ium,Yao,NA
-21,nyis1236,njz,Dafla,NA
-22,nucl1310,mya,Burmese,NA
-23,lahu1253,lhu,Lahu,NA
-24,garo1247,grt,Garo,NA
-25,sgaw1245,ksw,Karen,NA
-26,lakk1238,lbc,Lakkia,NA
-27,thai1261,tha,Thai,NA
-28,bouy1240,pcc,Yay,NA
-29,east2563,cjm,Cham,NA
-30,atay1247,tay,Atayal,NA
-31,plat1254,plt,Malagasy,NA
-32,stan1306,zsm,Malay,NA
-33,bata1289,bbc,Batak,NA
-34,saba1265,snv,Sa'ban,NA
-35,sund1252,sun,Sundanese,NA
-36,java1254,jav,Javanese,NA
-37,taga1270,tgl,Tagalog,NA
-38,cham1312,cha,Chamorro,NA
-39,iaai1238,iai,Iai,NA
-40,kali1299,khl,Kaliai,NA
-41,adze1240,adz,Adzera,NA
-42,maor1246,mri,Maori,NA
-43,hawa1245,haw,Hawaiian,NA
-44,anta1253,ant,Western Desert,NA
-45,nyan1301,nna,Nyangumata,NA
-46,kunj1245,kjn,Kunjen,NA
-47,mara1386,zmr,Maranungku,NA
-48,maun1240,mph,Maung,NA
-49,nung1290,nuy,Nunggubuyu,NA
-50,alaw1244,alh,Alawa,NA
-51,wikm1247,wim,Wik-Munkan,NA
-52,nucl1632,set,Sentani,NA
-53,kwom1262,kmo,Washkuk,NA
-54,tamn1235,tml,Asmat,NA
-55,tele1256,tlf,Telefol,NA
-56,gads1258,gaj,Gadsup,NA
-57,awiy1238,auy,Auyana,NA
-58,kuni1267,kup,Kunimaipa,NA
-59,sele1250,spl,Selepet,NA
-60,naas1242,nas,Nasioi,NA
-61,aleu1260,ale,Aleut,NA
-62,kala1399,kal,Inuit,NA
-63,chip1261,chp,Chipewyan,NA
-64,tolo1259,tol,Chasta Costa,NA
-65,hupa1239,hup,Hupa,NA
-66,nava1243,nav,Navaho,NA
-67,sout2956,hax,Haida,NA
-68,squa1248,squ,Squamish,NA
-69,sout2965,slh,Salish,NA
-70,nuuc1236,nuk,Nootka,NA
-71,kwak1269,kwk,Kwakiutl,NA
-72,east2542,ojg,Ojibwa,NA
-73,unam1242,unm,Delaware,NA
-74,wich1260,wic,Wichita,NA
-75,lako1247,lkt,Dakota,NA
-76,sene1264,see,Seneca,NA
-77,onei1249,one,Oneida,NA
-78,yuch1247,yuc,Yuchi,NA
-79,alab1237,akz,Alabama,NA
-80,tuni1252,tun,Tunica,NA
-81,nezp1238,nez,Nez Perce,NA
-82,nort2952,nmu,Maidu,NA
-83,copa1236,zoc,Zoque,NA
-84,papa1238,top,Totonac,NA
-85,taba1266,chf,Chontal,NA
-86,tzel1254,tzh,Tzeltal,NA
-87,pure1242,tsz,Tarascan,NA
-88,karo1304,kyh,Karok,NA
-89,sout2982,pom,Pomo,NA
-90,kumi1248,dih,Digueno,NA
-91,zuni1245,zun,Zuni,NA
-92,picu1248,twf,Tiwa,NA
-93,tewa1260,tew,Tewa,NA
-94,luis1253,lui,Luiseno,NA
-95,hopi1249,hop,Hopi,NA
-96,toho1245,ood,Pima,NA
-97,tena1241,otn,Otomi,NA
-98,cent2144,maz,Mazahua,NA
-99,chiq1250,maq,Mazateco,NA
-100,sanm1295,mig,Mixtec,NA
-101,chac1249,cbi,Cayapa,NA
-102,paez1247,pbb,Paez,NA
-103,iton1250,ito,Itonama,NA
-104,sout2991,quh,Quechua,NA
-105,jaqa1244,jqr,Aymara,NA
-106,mapu1245,arn,Araucanian,NA
-107,isla1278,crb,Island Carib,NA
-108,wapi1253,wap,Wapishana,NA
-109,wayu1243,guc,Goajiro,NA
-110,asha1243,cni,Campa,NA
-111,igna1246,ign,Moxo,NA
-112,yane1238,ame,Amuesha,NA
-113,shua1257,jiv,Jivaro,NA
-114,waim1255,bao,Barasano,NA
-115,ticu1245,tca,Ticuna,NA
-116,gali1262,car,Carib,NA
-117,ocai1244,oca,Ocaina,NA
-118,siri1273,srq,Siriono,NA
-119,para1311,gug,Guarani,NA
-120,amah1246,amc,Amahuaca,NA
-121,chac1251,cao,Chacobo,NA
-122,apin1244,apn,Apinaye,NA
-123,tach1250,shi,Shilha,NA
-124,haus1257,hau,Hausa,NA
-125,ngas1240,anc,Angas,NA
-126,marg1265,mrt,Margi,NA
-127,soma1255,som,Somali,NA
-128,awng1244,awn,Awngi,NA
-129,iraq1241,irk,Iraqw,NA
-130,tigr1270,tig,Tigre,NA
-131,amha1245,amh,Amharic,NA
-132,egyp1253,arz,Egyptian Arabic,NA
-133,moro1292,ary,Moroccan Arabic,NA
-134,malt1254,mlt,Maltese,NA
-135,hebr1245,heb,Modern Hebrew,NA
-136,katc1250,xtc,Katcha,NA
-137,libe1247,xpe,Kpelle,NA
-138,nucl1347,wol,Wolof,NA
-139,dagb1246,dag,Dagbani,NA
-140,akan1250,aka,Akan,NA
-141,gaaa1244,gaa,Ga,NA
-142,ewee1241,ewe,Ewe,NA
-143,nucl1417,ibo,Igbo,NA
-144,beem1239,beq,Beembe,NA
-145,swah1253,swh,Swahili,NA
-146,luva1239,lue,Luvale,NA
-147,zulu1248,zul,Zulu,NA
-148,gbay1287,gbp,Gbeya,NA
-149,koyr1242,ses,Songhai,NA
-150,cent2050,knc,Kanuri,NA
-151,lugb1240,lgg,Logbara,NA
-152,nobi1240,fia,Mahas-Fiyadikka,NA
-153,luok1236,luo,Luo,NA
-154,masa1300,mas,Maasai,NA
-155,nama1265,naq,Nama,NA
-156,iris1253,gle,Irish Gaelic,NA
-157,bret1244,bre,Breton,NA
-158,icel1247,isl,Icelandic,NA
-159,norw1259,nob,Norwegian,NA
-160,stan1293,eng,English,NA
-161,stan1295,deu,German,NA
-162,stan1290,fra,French,NA
-163,port1283,por,Portuguese,NA
-164,stan1288,spa,Spanish,NA
-165,roma1327,ron,Rumanian,NA
-166,russ1263,rus,Russian,NA
-167,bulg1262,bul,Bulgarian,NA
-168,lith1251,lit,Lithuanian,NA
-169,tosk1239,als,Albanian,NA
-170,mode1248,ell,Modern Greek,NA
-171,nucl1235,hye,Armenian,NA
-172,west2369,pes,Persian,NA
-173,cent1973,pst,Pashto,NA
-174,kash1277,kas,Kashimiri,NA
-175,panj1256,pan,Punjabi,NA
-176,hind1269,hin,Hindi-Urdu,NA
-177,beng1280,ben,Bengali,NA
-178,sinh1246,sin,Sinhalese,NA
-179,basq1248,eus,Basque,NA
-180,finn1318,fin,Finnish,NA
-181,east2328,mhr,Cheremis,NA
-182,komi1268,kpv,Komi,NA
-183,hung1274,hun,Hungarian,NA
-184,khan1273,kca,Ostyak,NA
-185,nene1249,yrk,Yurak,NA
-186,nucl1301,tur,Turkish,NA
-187,nort2697,azj,Azerbaijani,NA
-188,kirg1245,kir,Kirghiz,NA
-189,chuv1255,chv,Chuvash,NA
-190,yaku1245,sah,Yakut,NA
-191,halh1238,khk,Khalkha,NA
-192,even1260,eve,Even,NA
-193,nort2745,ykg,Yukaghir,NA
-194,gily1242,niv,Gilyak,NA
-195,chuk1273,ckt,Chukchi,NA
-196,ainu1240,ain,Ainu,NA
-197,nucl1643,jpn,Japanese,NA
-198,afad1236,aal,KOTOKO,NA
-199,achu1247,acv,ACHUMAWI,NA
-200,adze1240,adz,ADZERA,NA
-201,east2379,aer,ARRERNTE,NA
-202,amel1241,aey,AMELE,NA
-203,anga1290,agm,ANGAATIHA,NA
-204,aghe1239,agq,AGHEM,NA
-205,apro1235,ahp,AIZI,NA
-206,ahte1237,aht,AHTNA,NA
-207,ainu1240,ain,AINU,NA
-208,akan1250,aka,AKAN,NA
-209,akaw1239,ake,AKAWAIO,NA
-210,alab1237,akz,ALABAMA,NA
-211,qawa1238,alc,QAWASQAR,NA
-212,alla1248,ald,ALLADIAN,NA
-213,aleu1260,ale,ALEUT,NA
-214,alaw1244,alh,ALAWA,NA
-215,tosk1239,als,ALBANIAN,NA
-216,amah1246,amc,AMAHUACA,NA
-217,yane1238,ame,AMUESHA,NA
-218,hame1242,amf,HAMER,NA
-219,amha1245,amh,AMHARIC,NA
-220,amoo1242,amo,AMO,NA
-221,alam1246,amp,ALAMBLAK,NA
-222,guer1243,amu,AMUZGO,NA
-223,ngas1240,anc,ANGAS,NA
-224,ando1256,ano,ANDOKE,NA
-225,anta1253,ant,WESTERN DESERT,NA
-226,apin1244,apn,APINAYE,NA
-227,apuc1241,apq,ANDAMANESE,NA
-228,arch1244,aqc,ARCHI,NA
-229,arab1268,arl,ARABELA,NA
-230,mapu1245,arn,ARAUCANIAN,NA
-231,egyp1253,arz,ARABIC,NA
-232,waor1240,auc,AUCA,NA
-233,avar1256,ava,AVAR,NA
-234,awng1244,awn,AWNGI,NA
-235,abip1241,axb,ABIPON,NA
-236,nort2697,azj,AZERBAIJANI,NA
-237,bash1264,bak,BASHKIR,NA
-238,bamb1269,bam,BAMBARA,NA
-239,waim1255,bao,BARASANO,NA
-240,baat1238,bba,BARIBA,NA
-241,bata1289,bbc,BATAK,NA
-242,bats1242,bbl,BATS,NA
-243,nort2819,bbo,BOBO-FING,NA
-244,cent2004,bca,BAI,NA
-245,bard1255,bcj,BARDI,NA
-246,kohu1244,bcs,KOHUMONO,NA
-247,indo1317,bdl,SAMA,NA
-248,twee1234,xjb,BANDJALANG,NA
-249,beja1238,bej,BEJA,NA
-250,beng1280,ben,BENGALI,NA
-251,beem1239,beq,BEEMBE,NA
-252,dalo1238,bev,BETE,NA
-253,biss1248,bib,BISA,NA
-254,baka1277,bkq,BAKAIRI,NA
-255,bell1243,blc,BELLA COOLA,NA
-256,muin1242,bmr,MUINANE,NA
-257,bero1242,bom,BIROM,NA
-258,boro1282,bor,BORORO,NA
-259,lave1249,brb,BRAO,NA
-260,bret1244,bre,BRETON,NA
-261,brah1256,brh,BRAHUI,NA
-262,west2397,brv,BRUU,NA
-263,bodo1269,brx,BODO,NA
-264,buru1296,bsk,BURUSHASKI,NA
-265,bulg1262,bul,BULGARIAN,NA
-266,bura1267,bvr,BURARRA,NA
-267,qaqe1238,byx,BAINING,NA
-268,brib1243,bzd,BRIBRI,NA
-269,cadd1256,cad,CADDO,NA
-270,niva1238,cag,ASHUSLAY,NA
-271,carn1240,caq,NICOBARESE,NA
-272,gali1262,car,CARIB,NA
-273,chac1249,cbi,CAYAPA,NA
-274,nyah1250,cbn,NYAH KUR,NA
-275,cacu1241,cbv,CACUA,NA
-276,mind1253,cdo,FUZHOU,NA
-277,cham1312,cha,CHAMORRO,NA
-278,chip1261,chp,CHIPEWYAN,NA
-279,quio1240,chq,HIGHLAND CHINANTEC,NA
-280,cher1273,chr,CHEROKEE,NA
-281,chuv1255,chv,CHUVASH,NA
-282,east2563,cjm,CHAM,NA
-283,uppe1439,cjh,UPPER CHEHALIS,NA
-284,chua1250,cjv,CHUAVE,NA
-285,chuk1273,ckt,CHUKCHI,NA
-286,mand1415,cmn,MANDARIN,NA
-287,haka1240,cnh,LAI,NA
-288,asha1243,cni,CAMPA,NA
-289,cofa1242,con,COFAN,NA
-290,wame1240,cou,KONYAGI,NA
-291,chua1256,cqd,HMONG,NA
-292,isla1278,crb,ISLAND CARIB,NA
-293,tedi1235,ctd,TIDDIM CHIN,NA
-294,west2644,ctp,CHATINO,NA
-295,cube1242,cub,CUBEO,NA
-296,cayu1262,cyb,CAYUVAVA,NA
-297,dang1274,daa,DANGALEAT,NA
-298,dann1241,daf,DAN,NA
-299,dagb1246,dag,DAGBANI,NA
-300,darf1239,daj,DAJU,NA
-301,daha1245,dal,DAHALO,NA
-302,nyis1236,njz,DAFLA,NA
-303,dyir1250,dbl,DYIRBAL,NA
-304,stan1295,deu,GERMAN,NA
-305,dier1241,dif,DIYARI,NA
-306,kumi1248,dih,DIEGUENO,NA
-307,nort2815,dip,DINKA,NA
-308,lowe1415,dni,DANI,NA
-309,nort2735,doc,KAM,NA
-310,doya1240,dow,DOAYO,NA
-311,ruka1240,dru,RUKAI,NA
-312,daur1238,dta,DAGUR,NA
-313,toro1252,dts,DOGON,NA
-314,dhuw1249,duj,YOLNGU,NA
-315,jola1263,dyo,DIOLA,NA
-316,efik1245,efi,EFIK,NA
-317,ekar1243,ekg,EKARI,NA
-318,mode1248,ell,GREEK,NA
-319,cent2128,ess,YUPIK,NA
-320,ejag1239,etu,EJAGHAM,NA
-321,basq1248,eus,BASQUE,NA
-322,even1260,eve,EVEN,NA
-323,ewee1241,ewe,EWE,NA
-324,ewon1239,ewo,EWONDO,NA
-325,eyak1241,eya,EYAK,NA
-326,fasu1242,faa,FASU,NA
-327,nobi1240,fia,NUBIAN,NA
-328,fiji1243,fij,FIJIAN,NA
-329,finn1318,fin,FINNISH,NA
-330,fefe1239,fmp,FE?FE?,NA
-331,stan1290,fra,FRENCH,NA
-332,fuln1247,fun,IATE,NA
-333,furr1244,fvr,FUR,NA
-334,guib1244,zgn,PO-AI,NA
-335,gaaa1244,gaa,GA,NA
-336,gads1258,gaj,GADSUP,NA
-337,gara1269,wrk,GARAWA,NA
-338,gbay1287,gbp,GBEYA,NA
-339,gbag1258,gbr,GWARI,NA
-340,qaua1234,gqu,GELAO,NA
-341,nana1257,gld,NANAI,NA
-342,iris1253,gle,IRISH,NA
-343,dawr1236,dwr,KULLO,NA
-344,wayu1243,guc,GUAJIRO,NA
-345,para1311,gug,GUARANI,NA
-346,guah1255,guh,GUAHIBO,NA
-347,guam1248,gum,GUAMBIANO,NA
-348,ache1246,guq,ACHE,NA
-349,kuku1273,gvn,GUGU-YALANDYI,NA
-350,hakk1236,hak,HAKKA,NA
-351,haus1257,hau,HAUSA,NA
-352,hawa1245,haw,HAWAIIAN,NA
-353,sout2956,hax,HAIDA,NA
-354,hind1269,hin,HINDI-URDU,NA
-355,hixk1239,hix,HIXKARYANA,NA
-356,hopi1249,hop,HOPI,NA
-357,hadz1240,hts,HADZA,NA
-358,hung1274,hun,HUNGARIAN,NA
-359,hupa1239,hup,HUPA,NA
-360,huas1242,hus,HUASTECO,NA
-361,sanm1287,huv,HUAVE,NA
-362,nucl1235,hye,ARMENIAN,NA
-363,iaai1238,iai,IAI,NA
-364,iban1264,iba,IBAN,NA
-365,nucl1417,ibo,IGBO,NA
-366,igna1246,ign,MOXO,NA
-367,izon1238,ijc,KOLOKUMA IJO,NA
-368,ikkk1242,ikx,IK,NA
-369,irar1238,irh,IRARUTU,NA
-370,iraq1241,irk,IRAQW,NA
-371,iran1263,irn,IRANXE,NA
-372,isok1239,iso,ISOKO,NA
-373,itel1242,itl,ITELMEN,NA
-374,iton1250,ito,ITONAMA,NA
-375,iumi1238,ium,MIEN,NA
-376,ivat1242,ivv,IVATAN,NA
-377,iwam1256,iwm,IWAM,NA
-378,popt1235,jac,JACALTEC,NA
-379,yany1243,jao,YANYUWA,NA
-380,java1254,jav,JAVANESE,NA
-381,jebe1250,jeb,JEBERO,NA
-382,toll1241,jic,TOL,NA
-383,shua1257,jiv,JIVARO,NA
-384,nucl1643,jpn,JAPANESE,NA
-385,jaqa1244,jqr,JAQARU,NA
-386,japr1238,jru,JAPRERIA,NA
-387,kach1280,kac,JINGPHO,NA
-388,kala1399,kal,INUIT,NA
-389,kash1277,kas,KASHMIRI,NA
-390,nucl1302,kat,GEORGIAN,NA
-391,kaba1278,kbd,KABARDIAN,NA
-392,cams1241,kbh,CAMSA,NA
-393,gras1249,kbk,KOIARI,NA
-394,kafa1242,kbr,KEFA,NA
-395,dera1245,kbv,DERA,NA
-396,khan1273,kca,KHANTY,NA
-397,kekc1242,kek,K'EKCHI,NA
-398,kera1255,ker,KERA,NA
-399,kett1243,ket,KET,NA
-400,kota1263,kfe,KOTA,NA
-401,koya1251,kff,KOYA,NA
-402,kain1272,kgp,KAINGANG,NA
-403,khas1269,kha,KHASI,NA
-404,luuu1242,khb,LUE,NA
-405,halh1238,khk,KHALKHA,NA
-406,lusi1240,khl,KALIAI,NA
-407,cent1989,khm,KHMER,NA
-408,khar1287,khr,KHARIA,NA
-409,kiow1266,kio,KIOWA,NA
-410,kirg1245,kir,KIRGHIZ,NA
-411,sout2949,kjd,SOUTHERN KIWAI,NA
-412,khmu1256,kjg,KHMU?,NA
-413,west2632,kjq,ACOMA,NA
-414,east2516,kjs,KEWA,NA
-415,teke1280,kkw,TEKE,NA
-416,klam1254,kla,KLAMATH,NA
-417,klao1243,klu,KLAO,NA
-418,kwom1262,kmo,KWOMA,NA
-419,nort2641,kmr,KURDISH,NA
-420,dera1248,kna,KANAKURU,NA
-421,cent2050,knc,KANURI,NA
-422,konk1267,knn,KONKANI,NA
-423,kore1280,kor,KOREAN,NA
-424,kpan1246,kpk,KPAN,NA
-425,koho1244,kpm,SRE,NA
-426,komi1268,kpv,KOMI,NA
-427,kory1246,kpy,KORYAK,NA
-428,kups1238,kpz,SEBEI,NA
-429,kuru1302,kru,KURUKH,NA
-430,sgaw1245,ksw,KAREN,NA
-431,kalk1246,ktg,KALKATUNGU,NA
-432,juho1239,ktz,!XU,NA
-433,kuna1268,kun,KUNAMA,NA
-434,kuni1267,kup,KUNIMAIPA,NA
-435,bord1248,kvn,CUNA,NA
-436,kwai1243,kwd,KWAIO,NA
-437,kwak1269,kwk,KWAKW'ALA,NA
-438,karo1304,kyh,KAROK,NA
-439,lakk1238,lbc,LAKKIA,NA
-440,lakk1252,lbe,LAK,NA
-441,lele1264,lef,LELEMI,NA
-442,lugb1240,lgg,LUGBARA,NA
-443,lahu1253,lhu,LAHU,NA
-444,lith1251,lit,LITHUANIAN,NA
-445,lako1247,lkt,DAKOTA,NA
-446,peve1243,lme,LAME,NA
-447,luis1253,lui,LUISENO,NA
-448,luok1236,luo,LUO,NA
-449,sout2965,slh,LUSHOOTSEED,NA
-450,chiq1250,maq,MAZATEC,NA
-451,masa1300,mas,MAASAI,NA
-452,cent2144,maz,MAZAHUA,NA
-453,maxa1247,mbl,MAXAKALI,NA
-454,came1252,mcu,MAMBILA,NA
-455,mbum1254,mdd,MBUM,NA
-456,maba1277,mde,MABA,NA
-457,dizi1235,mdx,DIZI,NA
-458,mbaa1245,mfc,MBA-NE,NA
-459,mogh1245,mhj,MOGHOL,NA
-460,east2328,mhr,MARI,NA
-461,sanm1295,mig,MIXTEC,NA
-462,tuuu1240,mjg,MONGUOR,NA
-463,manc1252,mnc,MANCHU,NA
-464,morb1239,moq,MOR,NA
-465,moro1285,mor,MORO,NA
-466,mull1237,mpb,MALAKMALAK,NA
-467,maun1240,mph,MAUNG,NA
-468,dadi1250,mps,DADIBI,NA
-469,west2600,mqs,WEST MAKIAN,NA
-470,marg1265,mrt,MARGI,NA
-471,mara1404,mrw,MARANAO,NA
-472,toto1305,mto,MIXE,NA
-473,murs1242,muz,MURSI,NA
-474,murr1258,mwf,MURINHPATHA,NA
-475,kala1377,mwp,KALA LAGAW YA,NA
-476,nucl1310,mya,BURMESE,NA
-477,pira1253,myp,PIRAHA,NA
-478,nucl1240,mzm,MUMUYE,NA
-479,movi1243,mzp,MOVIMA,NA
-480,sout2994,nab,SOUTHERN NAMBIQUARA,NA
-481,minn1241,nan,XIAMEN,NA
-482,nama1264,naq,NAMA,NA
-483,naas1242,nas,NASIOI,NA
-484,nava1243,nav,NAVAJO,NA
-485,naxi1245,nxq,NAXI,NA
-486,nort2957,ncj,NAHUATL,NA
-487,ndut1239,ndv,NDUT,NA
-488,nepa1254,npi,NEPALI,NA
-489,newa1246,new,NEWARI,NA
-490,nezp1238,nez,NEZ PERCE,NA
-491,ngiz1242,ngi,NGIZIM,NA
-492,noon1243,nhu,NONI,NA
-493,niel1243,nie,LUA,NA
-494,ngan1291,nio,NGANASAN,NA
-495,nucl1633,nir,NIMBORAN,NA
-496,gily1242,niv,NIVKH,NA
-497,aona1235,njo,AO,NA
-498,nort2952,nmu,MAIDU,NA
-499,norw1259,nob,NORWEGIAN,NA
-500,nuuc1236,nuk,TSESHAHT,NA
-501,nara1262,nrb,NERA,NA
-502,nung1283,nut,LUNGCHOW,NA
-503,nung1290,nuy,NUNGGUBUYU,NA
-504,amas1236,nyi,NYIMANG,NA
-505,nyan1313,nyp,NYANGI,NA
-506,ocai1244,oca,OCAINA,NA
-507,ogbi1239,ogb,OGBIA,NA
-508,east2542,ojg,OJIBWA,NA
-509,toho1245,ood,PAPAGO,NA
-510,ormu1247,oru,ORMURI,NA
-511,paco1243,pac,PACOH,NA
-512,pech1241,pay,PAYA,NA
-513,paez1247,pbb,PAEZ,NA
-514,enap1235,pbh,PANARE,NA
-515,bouy1240,pcc,YAY,NA
-516,west2369,pes,FARSI,NA
-517,plat1254,plt,MALAGASY,NA
-518,sout2982,pom,POMO,NA
-519,pohn1238,pon,POHNPEIAN,NA
-520,para1301,prk,PARAUK,NA
-521,cent1973,pst,PASHTO,NA
-522,paiw1248,pwn,PAIWAN,NA
-523,pwon1235,pww,PHLONG,NA
-524,sout2991,quh,QUECHUA,NA
-525,quil1240,qui,QUILEUTE,NA
-526,resi1247,rgr,RESIGARO,NA
-527,roma1327,ron,ROMANIAN,NA
-528,roto1249,roo,ROTOKAS,NA
-529,waim1251,rro,RORO,NA
-530,russ1263,rus,RUSSIAN,NA
-531,rutu1240,rut,RUTUL,NA
-532,sand1273,sad,SANDAWE,NA
-533,sang1328,sag,SANGO,NA
-534,yaku1245,sah,YAKUT,NA
-535,seda1262,sed,SEDANG,NA
-536,sene1264,see,SENECA,NA
-537,ceba1235,sef,SENADI,NA
-538,selk1253,sel,SELKUP,NA
-539,koyr1242,ses,SONGHAI,NA
-540,nucl1632,set,SENTANI,NA
-541,xiri1243,xir,SHIRIANA,NA
-542,tach1250,shi,SHILHA,NA
-543,shus1248,shs,SHUSWAP,NA
-544,shas1239,sht,SHASTA,NA
-545,sinh1246,sin,SINHALESE,NA
-546,epen1239,sja,EPENA PEDEE,NA
-547,sout2985,skd,SIERRA MIWOK,NA
-548,sali1298,slc,SALIBA,NA
-549,sout2674,sma,SAAMI,NA
-550,sion1247,snn,SIONA,NA
-551,saba1265,snv,SA'BAN,NA
-552,soma1255,som,SOMALI,NA
-553,stan1288,spa,SPANISH,NA
-554,sele1250,spl,SELEPET,NA
-555,soqo1240,sqt,SOCOTRI,NA
-556,siri1273,srq,SIRIONO,NA
-557,natu1246,ntu,NAMBAKAENGO,NA
-558,suen1241,sue,SUENA,NA
-559,savo1255,svs,SAVOSAVO,NA
-560,suii1243,swi,SUI,NA
-561,east2347,taj,TAMANG,NA
-562,atay1247,tay,ATAYAL,NA
-563,aika1237,tba,HUARI,NA
-564,gaam1241,tbi,TABI,NA
-565,ticu1245,tca,TICUNA,NA
-566,tulu1258,tcy,TULU,NA
-567,tehu1242,teh,TEHUELCHE,NA
-568,telu1262,tel,TELUGU,NA
-569,timn1235,tem,TEMNE,NA
-570,nucl1339,teq,TEMEIN,NA
-571,tetu1245,tet,TETUN,NA
-572,tiga1245,tgc,TIGAK,NA
-573,taga1270,tgl,TAGALOG,NA
-574,thai1261,tha,THAI,NA
-575,taha1241,thv,TAMASHEQ,NA
-576,tigr1270,tig,TIGRE,NA
-577,tiwi1244,tiw,TIWI,NA
-578,tiru1241,tiy,TIRURAY,NA
-579,tlin1245,tli,TLINGIT,NA
-580,talo1250,tlo,JOMANG,NA
-581,tama1331,tma,TAMA,NA
-582,tamn1235,tml,ASMAT,NA
-583,taca1256,tna,TACANA,NA
-584,lena1238,tnl,LENAKEL,NA
-585,papa1238,top,TOTONAC,NA
-586,tamp1252,tpm,TAMPULMA,NA
-587,acat1239,tpx,TLAPANEC,NA
-588,trum1247,tpy,TRUMAI,NA
-589,toar1246,tqo,TAORIPI,NA
-590,tonk1249,tqw,TONKAWA,NA
-591,lish1246,trg,NEO-ARAMAIC,NA
-592,nucl1649,tsi,TSIMSHIAN,NA
-593,tsou1248,tsu,TSOU,NA
-594,pure1242,tsz,TARASCAN,NA
-595,tera1251,ttr,TERA,NA
-596,tuni1252,tun,TUNICA,NA
-597,nucl1301,tur,TURKISH,NA
-598,picu1248,twf,PICURIS,NA
-599,tuvi1240,tyv,TUVA,NA
-600,tzel1254,tzh,TZELTAL,NA
-601,ngar1284,ung,NGARINJIN,NA
-602,mund1320,unr,MUNDARI,NA
-603,nort2690,uzn,UZBEK,NA
-604,vani1248,vam,VANIMO,NA
-605,viet1252,vie,VIETNAMESE,NA
-606,mbab1239,vmb,MBABARAM,NA
-607,wapp1239,wao,WAPPO,NA
-608,wapi1253,wap,WAPISHANA,NA
-609,wara1303,wba,WARAO,NA
-610,nucl1620,wgi,WAHGI,NA
-611,wich1260,wic,WICHITA,NA
-612,wikm1247,wim,WIK-MUNKAN,NA
-613,wint1259,wit,WINTU,NA
-614,wiyo1248,wiy,WIYOT,NA
-615,want1252,wnc,WANTOAT,NA
-616,usan1239,wnu,USAN,NA
-617,kama1365,woi,WOISIKA,NA
-618,nucl1347,wol,WOLOF,NA
-619,wari1266,wrs,WARIS,NA
-620,wara1290,wrz,WARAY,NA
-621,bert1248,wti,BERTA,NA
-622,wuch1236,wuu,CHANGZHOU,NA
-623,wang1291,wyb,NGIYAMBAA,NA
-624,kawa1283,xaw,KAWAIISU,NA
-625,komo1258,xom,KOMA,NA
-626,libe1247,xpe,KPELLE,NA
-627,katc1249,xtc,KADUGLI,NA
-628,yagu1244,yad,YAGUA,NA
-629,yaqu1251,yaq,YAQUI,NA
-630,yucu1253,ycn,YUCUNA,NA
-631,taro1263,yer,TAROK,NA
-632,yaga1260,ygr,YAGARIA,NA
-633,yidi1250,yii,YIDINY,NA
-634,nort2745,ykg,YUKAGHIR,NA
-635,yana1271,ynn,YANA,NA
-636,yoru1245,yor,YORUBA,NA
-637,yare1248,yrb,YAREBA,NA
-638,nene1249,yrk,NENETS,NA
-639,yess1239,yss,YESSAN-MAYO,NA
-640,yuca1254,yua,YUCATEC,NA
-641,yuch1247,yuc,YUCHI,NA
-642,yuec1235,yue,TAISHAN,NA
-643,yulu1243,yul,YULU,NA
-644,nucl1454,yva,YAWA,NA
-645,zand1248,zne,AZANDE,NA
-646,copa1236,zoc,ZOQUE,NA
-647,zulu1248,zul,ZULU,NA
-648,zuni1245,zun,ZUNI,NA
+pb5541,kore1280,kor,Korean,NA
+p538b8,kett1243,ket,Ket,NA
+pf1c2f,lakk1252,lbe,Lak,NA
+p8ffa6,kaba1278,kbd,Kabardian,NA
+p2e31d,nucl1302,kat,Georgian,NA
+pcc694,buru1296,bsk,Burushaski,NA
+p6aa0b,kuru1302,kru,Kurukh,NA
+p08d82,telu1262,tel,Telugu,NA
+pa70f9,kota1263,kfe,Kota,NA
+p45470,mund1320,unr,Mundari,NA
+pe37e7,khar1287,khr,Kharia,NA
+p81b5e,khas1269,kha,Khasi,NA
+p1fed5,seda1262,sed,Sedang,NA
+pbe24c,cent1989,khm,Cambodian,NA
+p5c5c3,viet1252,vie,Vietnamese,NA
+pfa93a,mand1415,cmn,Mandarin Chinese,NA
+p98cb1,wuch1236,wuu,Wu,NA
+p37028,hakk1236,hak,Hakka,NA
+pd539f,yuec1235,yue,Cantonese,NA
+p73716,iumi1238,ium,Yao,NA
+p11a8d,nyis1236,njz,Dafla,NA
+pafe04,nucl1310,mya,Burmese,NA
+p4e17b,lahu1253,lhu,Lahu,NA
+pec4f2,garo1247,grt,Garo,NA
+p8a869,sgaw1245,ksw,Karen,NA
+p28be0,lakk1238,lbc,Lakkia,NA
+pc6f57,thai1261,tha,Thai,NA
+p652ce,bouy1240,pcc,Yay,NA
+p03645,east2563,cjm,Cham,NA
+pa19bc,atay1247,tay,Atayal,NA
+p3fd33,plat1254,plt,Malagasy,NA
+pde0aa,stan1306,zsm,Malay,NA
+p7c421,bata1289,bbc,Batak,NA
+p1a798,saba1265,snv,Sa'ban,NA
+pb8b0f,sund1252,sun,Sundanese,NA
+p56e86,java1254,jav,Javanese,NA
+pf51fd,taga1270,tgl,Tagalog,NA
+p93574,cham1312,cha,Chamorro,NA
+p318eb,iaai1238,iai,Iai,NA
+pcfc62,kali1299,khl,Kaliai,NA
+p6dfd9,adze1240,adz,Adzera,NA
+p0c350,maor1246,mri,Maori,NA
+paa6c7,hawa1245,haw,Hawaiian,NA
+p48a3e,anta1253,ant,Western Desert,NA
+pe6db5,nyan1301,nna,Nyangumata,NA
+p8512c,kunj1245,kjn,Kunjen,NA
+p234a3,mara1386,zmr,Maranungku,NA
+pc181a,maun1240,mph,Maung,NA
+p5fb91,nung1290,nuy,Nunggubuyu,NA
+pfdf08,alaw1244,alh,Alawa,NA
+p9c27f,wikm1247,wim,Wik-Munkan,NA
+p3a5f6,nucl1632,set,Sentani,NA
+pd896d,kwom1262,kmo,Washkuk,NA
+p76ce4,tamn1235,tml,Asmat,NA
+p1505b,tele1256,tlf,Telefol,NA
+pb33d2,gads1258,gaj,Gadsup,NA
+p51749,awiy1238,auy,Auyana,NA
+pefac0,kuni1267,kup,Kunimaipa,NA
+p8de37,sele1250,spl,Selepet,NA
+p2c1ae,naas1242,nas,Nasioi,NA
+pca525,aleu1260,ale,Aleut,NA
+p6889c,kala1399,kal,Inuit,NA
+p06c13,chip1261,chp,Chipewyan,NA
+pa4f8a,tolo1259,tol,Chasta Costa,NA
+p43301,hupa1239,hup,Hupa,NA
+pe1678,nava1243,nav,Navaho,NA
+p7f9ef,sout2956,hax,Haida,NA
+p1dd66,squa1248,squ,Squamish,NA
+pbc0dd,sout2965,slh,Salish,NA
+p5a454,nuuc1236,nuk,Nootka,NA
+pf87cb,kwak1269,kwk,Kwakiutl,NA
+p96b42,east2542,ojg,Ojibwa,NA
+p34eb9,unam1242,unm,Delaware,NA
+pd3230,wich1260,wic,Wichita,NA
+p715a7,lako1247,lkt,Dakota,NA
+p0f91e,sene1264,see,Seneca,NA
+padc95,onei1249,one,Oneida,NA
+p4c00c,yuch1247,yuc,Yuchi,NA
+pea383,alab1237,akz,Alabama,NA
+p886fa,tuni1252,tun,Tunica,NA
+p26a71,nezp1238,nez,Nez Perce,NA
+pc4de8,nort2952,nmu,Maidu,NA
+p6315f,copa1236,zoc,Zoque,NA
+p014d6,papa1238,top,Totonac,NA
+p9f84d,taba1266,chf,Chontal,NA
+p3dbc4,tzel1254,tzh,Tzeltal,NA
+pdbf3b,pure1242,tsz,Tarascan,NA
+p7a2b2,karo1304,kyh,Karok,NA
+p18629,sout2982,pom,Pomo,NA
+pb69a0,kumi1248,dih,Digueno,NA
+p54d17,zuni1245,zun,Zuni,NA
+pf308e,picu1248,twf,Tiwa,NA
+p91405,tewa1260,tew,Tewa,NA
+p2f77c,luis1253,lui,Luiseno,NA
+pcdaf3,hopi1249,hop,Hopi,NA
+p6be6a,toho1245,ood,Pima,NA
+p0a1e1,tena1241,otn,Otomi,NA
+pa8558,cent2144,maz,Mazahua,NA
+p468cf,chiq1250,maq,Mazateco,NA
+pe4c46,sanm1295,mig,Mixtec,NA
+p82fbd,chac1249,cbi,Cayapa,NA
+p21334,paez1247,pbb,Paez,NA
+pbf6ab,iton1250,ito,Itonama,NA
+p5da22,sout2991,quh,Quechua,NA
+pfbd99,jaqa1244,jqr,Aymara,NA
+p9a110,mapu1245,arn,Araucanian,NA
+p38487,isla1278,crb,Island Carib,NA
+pd67fe,wapi1253,wap,Wapishana,NA
+p74b75,wayu1243,guc,Goajiro,NA
+p12eec,asha1243,cni,Campa,NA
+pb1263,igna1246,ign,Moxo,NA
+p4f5da,yane1238,ame,Amuesha,NA
+ped951,shua1257,jiv,Jivaro,NA
+p8bcc8,waim1255,bao,Barasano,NA
+p2a03f,ticu1245,tca,Ticuna,NA
+pc83b6,gali1262,car,Carib,NA
+p6672d,ocai1244,oca,Ocaina,NA
+p04aa4,siri1273,srq,Siriono,NA
+pa2e1b,para1311,gug,Guarani,NA
+p41192,amah1246,amc,Amahuaca,NA
+pdf509,chac1251,cao,Chacobo,NA
+p7d880,apin1244,apn,Apinaye,NA
+p1bbf7,tach1250,shi,Shilha,NA
+pb9f6e,haus1257,hau,Hausa,NA
+p582e5,ngas1240,anc,Angas,NA
+pf665c,marg1265,mrt,Margi,NA
+p949d3,soma1255,som,Somali,NA
+p32d4a,awng1244,awn,Awngi,NA
+pd10c1,iraq1241,irk,Iraqw,NA
+p6f438,tigr1270,tig,Tigre,NA
+p0d7af,amha1245,amh,Amharic,NA
+pabb26,egyp1253,arz,Egyptian Arabic,NA
+p49e9d,moro1292,ary,Moroccan Arabic,NA
+pe8214,malt1254,mlt,Maltese,NA
+p8658b,hebr1245,heb,Modern Hebrew,NA
+p24902,katc1250,xtc,Katcha,NA
+pc2c79,libe1247,xpe,Kpelle,NA
+p60ff0,nucl1347,wol,Wolof,NA
+pff367,dagb1246,dag,Dagbani,NA
+p9d6de,akan1250,aka,Akan,NA
+p3ba55,gaaa1244,gaa,Ga,NA
+pd9dcc,ewee1241,ewe,Ewe,NA
+p78143,nucl1417,ibo,Igbo,NA
+p164ba,beem1239,beq,Beembe,NA
+pb4831,swah1253,swh,Swahili,NA
+p52ba8,luva1239,lue,Luvale,NA
+pf0f1f,zulu1248,zul,Zulu,NA
+p8f296,gbay1287,gbp,Gbeya,NA
+p2d60d,koyr1242,ses,Songhai,NA
+pcb984,cent2050,knc,Kanuri,NA
+p69cfb,lugb1240,lgg,Logbara,NA
+p08072,nobi1240,fia,Mahas-Fiyadikka,NA
+pa63e9,luok1236,luo,Luo,NA
+p44760,masa1300,mas,Maasai,NA
+pe2ad7,nama1265,naq,Nama,NA
+p80e4e,iris1253,gle,Irish Gaelic,NA
+p1f1c5,bret1244,bre,Breton,NA
+pbd53c,icel1247,isl,Icelandic,NA
+p5b8b3,norw1259,nob,Norwegian,NA
+pf9c2a,stan1293,eng,English,NA
+p97fa1,stan1295,deu,German,NA
+p36318,stan1290,fra,French,NA
+pd468f,port1283,por,Portuguese,NA
+p72a06,stan1288,spa,Spanish,NA
+p10d7d,roma1327,ron,Rumanian,NA
+paf0f4,russ1263,rus,Russian,NA
+p4d46b,bulg1262,bul,Bulgarian,NA
+peb7e2,lith1251,lit,Lithuanian,NA
+p89b59,tosk1239,als,Albanian,NA
+p27ed0,mode1248,ell,Modern Greek,NA
+pc6247,nucl1235,hye,Armenian,NA
+p645be,west2369,pes,Persian,NA
+p02935,cent1973,pst,Pashto,NA
+pa0cac,kash1277,kas,Kashimiri,NA
+p3f023,panj1256,pan,Punjabi,NA
+pdd39a,hind1269,hin,Hindi-Urdu,NA
+p7b711,beng1280,ben,Bengali,NA
+p19a88,sinh1246,sin,Sinhalese,NA
+pb7dff,basq1248,eus,Basque,NA
+p56176,finn1318,fin,Finnish,NA
+pf44ed,east2328,mhr,Cheremis,NA
+p92864,komi1268,kpv,Komi,NA
+p30bdb,hung1274,hun,Hungarian,NA
+pcef52,khan1273,kca,Ostyak,NA
+p6d2c9,nene1249,yrk,Yurak,NA
+p0b640,nucl1301,tur,Turkish,NA
+pa99b7,nort2697,azj,Azerbaijani,NA
+p47d2e,kirg1245,kir,Kirghiz,NA
+pe60a5,chuv1255,chv,Chuvash,NA
+p8441c,yaku1245,sah,Yakut,NA
+p22793,halh1238,khk,Khalkha,NA
+pc0b0a,even1260,eve,Even,NA
+p5ee81,nort2745,ykg,Yukaghir,NA
+pfd1f8,gily1242,niv,Gilyak,NA
+p9b56f,chuk1273,ckt,Chukchi,NA
+p398e6,ainu1240,ain,Ainu,NA
+pd7c5d,nucl1643,jpn,Japanese,NA
+pc521b,afad1236,aal,KOTOKO,NA
+p63592,achu1247,acv,ACHUMAWI,NA
+p01909,adze1240,adz,ADZERA,NA
+p9fc80,east2379,aer,ARRERNTE,NA
+p3dff7,amel1241,aey,AMELE,NA
+pdc36e,anga1290,agm,ANGAATIHA,NA
+p7a6e5,aghe1239,agq,AGHEM,NA
+p18a5c,apro1235,ahp,AIZI,NA
+pb6dd3,ahte1237,aht,AHTNA,NA
+p5514a,ainu1240,ain,AINU,NA
+pf34c1,akan1250,aka,AKAN,NA
+p91838,akaw1239,ake,AKAWAIO,NA
+p2fbaf,alab1237,akz,ALABAMA,NA
+pcdf26,qawa1238,alc,QAWASQAR,NA
+p6c29d,alla1248,ald,ALLADIAN,NA
+p0a614,aleu1260,ale,ALEUT,NA
+pa898b,alaw1244,alh,ALAWA,NA
+p46d02,tosk1239,als,ALBANIAN,NA
+pe5079,amah1246,amc,AMAHUACA,NA
+p833f0,yane1238,ame,AMUESHA,NA
+p21767,hame1242,amf,HAMER,NA
+pbfade,amha1245,amh,AMHARIC,NA
+p5de55,amoo1242,amo,AMO,NA
+pfc1cc,alam1246,amp,ALAMBLAK,NA
+p9a543,guer1243,amu,AMUZGO,NA
+p388ba,ngas1240,anc,ANGAS,NA
+pd6c31,ando1256,ano,ANDOKE,NA
+p74fa8,anta1253,ant,WESTERN DESERT,NA
+p1331f,apin1244,apn,APINAYE,NA
+pb1696,apuc1241,apq,ANDAMANESE,NA
+p4fa0d,arch1244,aqc,ARCHI,NA
+pedd84,arab1268,arl,ARABELA,NA
+p8c0fb,mapu1245,arn,ARAUCANIAN,NA
+p2a472,egyp1253,arz,ARABIC,NA
+pc87e9,waor1240,auc,AUCA,NA
+p66b60,avar1256,ava,AVAR,NA
+p04ed7,awng1244,awn,AWNGI,NA
+pa324e,abip1241,axb,ABIPON,NA
+p415c5,nort2697,azj,AZERBAIJANI,NA
+pdf93c,bash1264,bak,BASHKIR,NA
+p7dcb3,bamb1269,bam,BAMBARA,NA
+p1c02a,waim1255,bao,BARASANO,NA
+pba3a1,baat1238,bba,BARIBA,NA
+p58718,bata1289,bbc,BATAK,NA
+pf6a8f,bats1242,bbl,BATS,NA
+p94e06,nort2819,bbo,BOBO-FING,NA
+p3317d,cent2004,bca,BAI,NA
+pd14f4,bard1255,bcj,BARDI,NA
+p6f86b,kohu1244,bcs,KOHUMONO,NA
+p0dbe2,indo1317,bdl,SAMA,NA
+pabf59,twee1234,xjb,BANDJALANG,NA
+p4a2d0,beja1238,bej,BEJA,NA
+pe8647,beng1280,ben,BENGALI,NA
+p869be,beem1239,beq,BEEMBE,NA
+p24d35,dalo1238,bev,BETE,NA
+pc30ac,biss1248,bib,BISA,NA
+p61423,baka1277,bkq,BAKAIRI,NA
+pff79a,bell1243,blc,BELLA COOLA,NA
+p9db11,muin1242,bmr,MUINANE,NA
+p3be88,bero1242,bom,BIROM,NA
+pda1ff,boro1282,bor,BORORO,NA
+p78576,lave1249,brb,BRAO,NA
+p168ed,bret1244,bre,BRETON,NA
+pb4c64,brah1256,brh,BRAHUI,NA
+p52fdb,west2397,brv,BRUU,NA
+pf1352,bodo1269,brx,BODO,NA
+p8f6c9,buru1296,bsk,BURUSHASKI,NA
+p2da40,bulg1262,bul,BULGARIAN,NA
+pcbdb7,bura1267,bvr,BURARRA,NA
+p6a12e,qaqe1238,byx,BAINING,NA
+p084a5,brib1243,bzd,BRIBRI,NA
+pa681c,cadd1256,cad,CADDO,NA
+p44b93,niva1238,cag,ASHUSLAY,NA
+pe2f0a,carn1240,caq,NICOBARESE,NA
+p81281,gali1262,car,CARIB,NA
+p1f5f8,chac1249,cbi,CAYAPA,NA
+pbd96f,nyah1250,cbn,NYAH KUR,NA
+p5bce6,cacu1241,cbv,CACUA,NA
+pfa05d,mind1253,cdo,FUZHOU,NA
+p983d4,cham1312,cha,CHAMORRO,NA
+p3674b,chip1261,chp,CHIPEWYAN,NA
+pd4ac2,quio1240,chq,HIGHLAND CHINANTEC,NA
+p72e39,cher1273,chr,CHEROKEE,NA
+p111b0,chuv1255,chv,CHUVASH,NA
+paf527,east2563,cjm,CHAM,NA
+p4d89e,uppe1439,cjh,UPPER CHEHALIS,NA
+pebc15,chua1250,cjv,CHUAVE,NA
+p89f8c,chuk1273,ckt,CHUKCHI,NA
+p28303,mand1415,cmn,MANDARIN,NA
+pc667a,haka1240,cnh,LAI,NA
+p649f1,asha1243,cni,CAMPA,NA
+p02d68,cofa1242,con,COFAN,NA
+pa10df,wame1240,cou,KONYAGI,NA
+p3f456,chua1256,cqd,HMONG,NA
+pdd7cd,isla1278,crb,ISLAND CARIB,NA
+p7bb44,tedi1235,ctd,TIDDIM CHIN,NA
+p19ebb,west2644,ctp,CHATINO,NA
+pb8232,cube1242,cub,CUBEO,NA
+p565a9,cayu1262,cyb,CAYUVAVA,NA
+pf4920,dang1274,daa,DANGALEAT,NA
+p92c97,dann1241,daf,DAN,NA
+p3100e,dagb1246,dag,DAGBANI,NA
+pcf385,darf1239,daj,DAJU,NA
+p6d6fc,daha1245,dal,DAHALO,NA
+p0ba73,nyis1236,njz,DAFLA,NA
+pa9dea,dyir1250,dbl,DYIRBAL,NA
+p48161,stan1295,deu,GERMAN,NA
+pe64d8,dier1241,dif,DIYARI,NA
+p8484f,kumi1248,dih,DIEGUENO,NA
+p22bc6,nort2815,dip,DINKA,NA
+pc0f3d,lowe1415,dni,DANI,NA
+p5f2b4,nort2735,doc,KAM,NA
+pfd62b,doya1240,dow,DOAYO,NA
+p9b9a2,ruka1240,dru,RUKAI,NA
+p39d19,daur1238,dta,DAGUR,NA
+pd8090,toro1252,dts,DOGON,NA
+p76407,dhuw1249,duj,YOLNGU,NA
+p1477e,jola1263,dyo,DIOLA,NA
+pb2af5,efik1245,efi,EFIK,NA
+p50e6c,ekar1243,ekg,EKARI,NA
+pef1e3,mode1248,ell,GREEK,NA
+p8d55a,cent2128,ess,YUPIK,NA
+p2b8d1,ejag1239,etu,EJAGHAM,NA
+pc9c48,basq1248,eus,BASQUE,NA
+p67fbf,even1260,eve,EVEN,NA
+p06336,ewee1241,ewe,EWE,NA
+pa46ad,ewon1239,ewo,EWONDO,NA
+p42a24,eyak1241,eya,EYAK,NA
+pe0d9b,fasu1242,faa,FASU,NA
+p7f112,nobi1240,fia,NUBIAN,NA
+p1d489,fiji1243,fij,FIJIAN,NA
+pbb800,finn1318,fin,FINNISH,NA
+p59b77,fefe1239,fmp,FE?FE?,NA
+pf7eee,stan1290,fra,FRENCH,NA
+p96265,fuln1247,fun,IATE,NA
+p345dc,furr1244,fvr,FUR,NA
+pd2953,guib1244,zgn,PO-AI,NA
+p70cca,gaaa1244,gaa,GA,NA
+p0f041,gads1258,gaj,GADSUP,NA
+pad3b8,gara1269,wrk,GARAWA,NA
+p4b72f,gbay1287,gbp,GBEYA,NA
+pe9aa6,gbag1258,gbr,GWARI,NA
+p87e1d,qaua1234,gqu,GELAO,NA
+p26194,nana1257,gld,NANAI,NA
+pc450b,iris1253,gle,IRISH,NA
+p62882,dawr1236,dwr,KULLO,NA
+p00bf9,wayu1243,guc,GUAJIRO,NA
+p9ef70,para1311,gug,GUARANI,NA
+p3d2e7,guah1255,guh,GUAHIBO,NA
+pdb65e,guam1248,gum,GUAMBIANO,NA
+p799d5,ache1246,guq,ACHE,NA
+p17d4c,kuku1273,gvn,GUGU-YALANDYI,NA
+pb60c3,hakk1236,hak,HAKKA,NA
+p5443a,haus1257,hau,HAUSA,NA
+pf27b1,hawa1245,haw,HAWAIIAN,NA
+p90b28,sout2956,hax,HAIDA,NA
+p2ee9f,hind1269,hin,HINDI-URDU,NA
+pcd216,hixk1239,hix,HIXKARYANA,NA
+p6b58d,hopi1249,hop,HOPI,NA
+p09904,hadz1240,hts,HADZA,NA
+pa7c7b,hung1274,hun,HUNGARIAN,NA
+p45ff2,hupa1239,hup,HUPA,NA
+pe4369,huas1242,hus,HUASTECO,NA
+p826e0,sanm1287,huv,HUAVE,NA
+p20a57,nucl1235,hye,ARMENIAN,NA
+pbedce,iaai1238,iai,IAI,NA
+p5d145,iban1264,iba,IBAN,NA
+pfb4bc,nucl1417,ibo,IGBO,NA
+p99833,igna1246,ign,MOXO,NA
+p37baa,izon1238,ijc,KOLOKUMA IJO,NA
+pd5f21,ikkk1242,ikx,IK,NA
+p74298,irar1238,irh,IRARUTU,NA
+p1260f,iraq1241,irk,IRAQW,NA
+pb0986,iran1263,irn,IRANXE,NA
+p4ecfd,isok1239,iso,ISOKO,NA
+ped074,itel1242,itl,ITELMEN,NA
+p8b3eb,iton1250,ito,ITONAMA,NA
+p29762,iumi1238,ium,MIEN,NA
+pc7ad9,ivat1242,ivv,IVATAN,NA
+p65e50,iwam1256,iwm,IWAM,NA
+p041c7,popt1235,jac,JACALTEC,NA
+pa253e,yany1243,jao,YANYUWA,NA
+p408b5,java1254,jav,JAVANESE,NA
+pdec2c,jebe1250,jeb,JEBERO,NA
+p7cfa3,toll1241,jic,TOL,NA
+p1b31a,shua1257,jiv,JIVARO,NA
+pb9691,nucl1643,jpn,JAPANESE,NA
+p57a08,jaqa1244,jqr,JAQARU,NA
+pf5d7f,japr1238,jru,JAPRERIA,NA
+p940f6,kach1280,kac,JINGPHO,NA
+p3246d,kala1399,kal,INUIT,NA
+pd07e4,kash1277,kas,KASHMIRI,NA
+p6eb5b,nucl1302,kat,GEORGIAN,NA
+p0ced2,kaba1278,kbd,KABARDIAN,NA
+pab249,cams1241,kbh,CAMSA,NA
+p495c0,gras1249,kbk,KOIARI,NA
+pe7937,kafa1242,kbr,KEFA,NA
+p85cae,dera1245,kbv,DERA,NA
+p24025,khan1273,kca,KHANTY,NA
+pc239c,kekc1242,kek,K'EKCHI,NA
+p60713,kera1255,ker,KERA,NA
+pfea8a,kett1243,ket,KET,NA
+p9ce01,kota1263,kfe,KOTA,NA
+p3b178,koya1251,kff,KOYA,NA
+pd94ef,kain1272,kgp,KAINGANG,NA
+p77866,khas1269,kha,KHASI,NA
+p15bdd,luuu1242,khb,LUE,NA
+pb3f54,halh1238,khk,KHALKHA,NA
+p522cb,lusi1240,khl,KALIAI,NA
+pf0642,cent1989,khm,KHMER,NA
+p8e9b9,khar1287,khr,KHARIA,NA
+p2cd30,kiow1266,kio,KIOWA,NA
+pcb0a7,kirg1245,kir,KIRGHIZ,NA
+p6941e,sout2949,kjd,SOUTHERN KIWAI,NA
+p07795,khmu1256,kjg,KHMU?,NA
+pa5b0c,west2632,kjq,ACOMA,NA
+p43e83,east2516,kjs,KEWA,NA
+pe21fa,teke1280,kkw,TEKE,NA
+p80571,klam1254,kla,KLAMATH,NA
+p1e8e8,klao1243,klu,KLAO,NA
+pbcc5f,kwom1262,kmo,KWOMA,NA
+p5afd6,nort2641,kmr,KURDISH,NA
+pf934d,dera1248,kna,KANAKURU,NA
+p976c4,cent2050,knc,KANURI,NA
+p35a3b,konk1267,knn,KONKANI,NA
+pd3db2,kore1280,kor,KOREAN,NA
+p72129,kpan1246,kpk,KPAN,NA
+p104a0,koho1244,kpm,SRE,NA
+pae817,komi1268,kpv,KOMI,NA
+p4cb8e,kory1246,kpy,KORYAK,NA
+peaf05,kups1238,kpz,SEBEI,NA
+p8927c,kuru1302,kru,KURUKH,NA
+p275f3,sgaw1245,ksw,KAREN,NA
+pc596a,kalk1246,ktg,KALKATUNGU,NA
+p63ce1,juho1239,ktz,!XU,NA
+p02058,kuna1268,kun,KUNAMA,NA
+pa03cf,kuni1267,kup,KUNIMAIPA,NA
+p3e746,bord1248,kvn,CUNA,NA
+pdcabd,kwai1243,kwd,KWAIO,NA
+p7ae34,kwak1269,kwk,KWAKW'ALA,NA
+p191ab,karo1304,kyh,KAROK,NA
+pb7522,lakk1238,lbc,LAKKIA,NA
+p55899,lakk1252,lbe,LAK,NA
+pf3c10,lele1264,lef,LELEMI,NA
+p91f87,lugb1240,lgg,LUGBARA,NA
+p302fe,lahu1253,lhu,LAHU,NA
+pce675,lith1251,lit,LITHUANIAN,NA
+p6c9ec,lako1247,lkt,DAKOTA,NA
+p0ad63,peve1243,lme,LAME,NA
+pa90da,luis1253,lui,LUISENO,NA
+p47451,luok1236,luo,LUO,NA
+pe57c8,sout2965,slh,LUSHOOTSEED,NA
+p83b3f,chiq1250,maq,MAZATEC,NA
+p21eb6,masa1300,mas,MAASAI,NA
+pc022d,cent2144,maz,MAZAHUA,NA
+p5e5a4,maxa1247,mbl,MAXAKALI,NA
+pfc91b,came1252,mcu,MAMBILA,NA
+p9ac92,mbum1254,mdd,MBUM,NA
+p39009,maba1277,mde,MABA,NA
+pd7380,dizi1235,mdx,DIZI,NA
+p756f7,mbaa1245,mfc,MBA-NE,NA
+p13a6e,mogh1245,mhj,MOGHOL,NA
+pb1de5,east2328,mhr,MARI,NA
+p5015c,sanm1295,mig,MIXTEC,NA
+pee4d3,tuuu1240,mjg,MONGUOR,NA
+p8c84a,manc1252,mnc,MANCHU,NA
+p2abc1,morb1239,moq,MOR,NA
+pc8f38,moro1285,mor,MORO,NA
+p672af,mull1237,mpb,MALAKMALAK,NA
+p05626,maun1240,mph,MAUNG,NA
+pa399d,dadi1250,mps,DADIBI,NA
+p41d14,west2600,mqs,WEST MAKIAN,NA
+pe008b,marg1265,mrt,MARGI,NA
+p7e402,mara1404,mrw,MARANAO,NA
+p1c779,toto1305,mto,MIXE,NA
+pbaaf0,murs1242,muz,MURSI,NA
+p58e67,murr1258,mwf,MURINHPATHA,NA
+pf71de,kala1377,mwp,KALA LAGAW YA,NA
+p95555,nucl1310,mya,BURMESE,NA
+p338cc,pira1253,myp,PIRAHA,NA
+pd1c43,nucl1240,mzm,MUMUYE,NA
+p6ffba,movi1243,mzp,MOVIMA,NA
+p0e331,sout2994,nab,SOUTHERN NAMBIQUARA,NA
+pac6a8,minn1241,nan,XIAMEN,NA
+p4aa1f,nama1264,naq,NAMA,NA
+pe8d96,naas1242,nas,NASIOI,NA
+p8710d,nava1243,nav,NAVAJO,NA
+p25484,naxi1245,nxq,NAXI,NA
+pc37fb,nort2957,ncj,NAHUATL,NA
+p61b72,ndut1239,ndv,NDUT,NA
+pffee9,nepa1254,npi,NEPALI,NA
+p9e260,newa1246,new,NEWARI,NA
+p3c5d7,nezp1238,nez,NEZ PERCE,NA
+pda94e,ngiz1242,ngi,NGIZIM,NA
+p78cc5,noon1243,nhu,NONI,NA
+p1703c,niel1243,nie,LUA,NA
+pb53b3,ngan1291,nio,NGANASAN,NA
+p5372a,nucl1633,nir,NIMBORAN,NA
+pf1aa1,gily1242,niv,NIVKH,NA
+p8fe18,aona1235,njo,AO,NA
+p2e18f,nort2952,nmu,MAIDU,NA
+pcc506,norw1259,nob,NORWEGIAN,NA
+p6a87d,nuuc1236,nuk,TSESHAHT,NA
+p08bf4,nara1262,nrb,NERA,NA
+pa6f6b,nung1283,nut,LUNGCHOW,NA
+p452e2,nung1290,nuy,NUNGGUBUYU,NA
+pe3659,amas1236,nyi,NYIMANG,NA
+p819d0,nyan1313,nyp,NYANGI,NA
+p1fd47,ocai1244,oca,OCAINA,NA
+pbe0be,ogbi1239,ogb,OGBIA,NA
+p5c435,east2542,ojg,OJIBWA,NA
+pfa7ac,toho1245,ood,PAPAGO,NA
+p98b23,ormu1247,oru,ORMURI,NA
+p36e9a,paco1243,pac,PACOH,NA
+pd5211,pech1241,pay,PAYA,NA
+p73588,paez1247,pbb,PAEZ,NA
+p118ff,enap1235,pbh,PANARE,NA
+pafc76,bouy1240,pcc,YAY,NA
+p4dfed,west2369,pes,FARSI,NA
+pec364,plat1254,plt,MALAGASY,NA
+p8a6db,sout2982,pom,POMO,NA
+p28a52,pohn1238,pon,POHNPEIAN,NA
+pc6dc9,para1301,prk,PARAUK,NA
+p65140,cent1973,pst,PASHTO,NA
+p034b7,paiw1248,pwn,PAIWAN,NA
+pa182e,pwon1235,pww,PHLONG,NA
+p3fba5,sout2991,quh,QUECHUA,NA
+pddf1c,quil1240,qui,QUILEUTE,NA
+p7c293,resi1247,rgr,RESIGARO,NA
+p1a60a,roma1327,ron,ROMANIAN,NA
+pb8981,roto1249,roo,ROTOKAS,NA
+p56cf8,waim1251,rro,RORO,NA
+pf506f,russ1263,rus,RUSSIAN,NA
+p933e6,rutu1240,rut,RUTUL,NA
+p3175d,sand1273,sad,SANDAWE,NA
+pcfad4,sang1328,sag,SANGO,NA
+p6de4b,yaku1245,sah,YAKUT,NA
+p0c1c2,seda1262,sed,SEDANG,NA
+paa539,sene1264,see,SENECA,NA
+p488b0,ceba1235,sef,SENADI,NA
+pe6c27,selk1253,sel,SELKUP,NA
+p84f9e,koyr1242,ses,SONGHAI,NA
+p23315,nucl1632,set,SENTANI,NA
+pc168c,xiri1243,xir,SHIRIANA,NA
+p5fa03,tach1250,shi,SHILHA,NA
+pfdd7a,shus1248,shs,SHUSWAP,NA
+p9c0f1,shas1239,sht,SHASTA,NA
+p3a468,sinh1246,sin,SINHALESE,NA
+pd87df,epen1239,sja,EPENA PEDEE,NA
+p76b56,sout2985,skd,SIERRA MIWOK,NA
+p14ecd,sali1298,slc,SALIBA,NA
+pb3244,sout2674,sma,SAAMI,NA
+p515bb,sion1247,snn,SIONA,NA
+pef932,saba1265,snv,SA'BAN,NA
+p8dca9,soma1255,som,SOMALI,NA
+p2c020,stan1288,spa,SPANISH,NA
+pca397,sele1250,spl,SELEPET,NA
+p6870e,soqo1240,sqt,SOCOTRI,NA
+p06a85,siri1273,srq,SIRIONO,NA
+pa4dfc,natu1246,ntu,NAMBAKAENGO,NA
+p43173,suen1241,sue,SUENA,NA
+pe14ea,savo1255,svs,SAVOSAVO,NA
+p7f861,suii1243,swi,SUI,NA
+p1dbd8,east2347,taj,TAMANG,NA
+pbbf4f,atay1247,tay,ATAYAL,NA
+p5a2c6,aika1237,tba,HUARI,NA
+pf863d,gaam1241,tbi,TABI,NA
+p969b4,ticu1245,tca,TICUNA,NA
+p34d2b,tulu1258,tcy,TULU,NA
+pd30a2,tehu1242,teh,TEHUELCHE,NA
+p71419,telu1262,tel,TELUGU,NA
+p0f790,timn1235,tem,TEMNE,NA
+padb07,nucl1339,teq,TEMEIN,NA
+p4be7e,tetu1245,tet,TETUN,NA
+pea1f5,tiga1245,tgc,TIGAK,NA
+p8856c,taga1270,tgl,TAGALOG,NA
+p268e3,thai1261,tha,THAI,NA
+pc4c5a,taha1241,thv,TAMASHEQ,NA
+p62fd1,tigr1270,tig,TIGRE,NA
+p01348,tiwi1244,tiw,TIWI,NA
+p9f6bf,tiru1241,tiy,TIRURAY,NA
+p3da36,tlin1245,tli,TLINGIT,NA
+pdbdad,talo1250,tlo,JOMANG,NA
+p7a124,tama1331,tma,TAMA,NA
+p1849b,tamn1235,tml,ASMAT,NA
+pb6812,taca1256,tna,TACANA,NA
+p54b89,lena1238,tnl,LENAKEL,NA
+pf2f00,papa1238,top,TOTONAC,NA
+p91277,tamp1252,tpm,TAMPULMA,NA
+p2f5ee,acat1239,tpx,TLAPANEC,NA
+pcd965,trum1247,tpy,TRUMAI,NA
+p6bcdc,toar1246,tqo,TAORIPI,NA
+p0a053,tonk1249,tqw,TONKAWA,NA
+pa83ca,lish1246,trg,NEO-ARAMAIC,NA
+p46741,nucl1649,tsi,TSIMSHIAN,NA
+pe4ab8,tsou1248,tsu,TSOU,NA
+p82e2f,pure1242,tsz,TARASCAN,NA
+p211a6,tera1251,ttr,TERA,NA
+pbf51d,tuni1252,tun,TUNICA,NA
+p5d894,nucl1301,tur,TURKISH,NA
+pfbc0b,picu1248,twf,PICURIS,NA
+p99f82,tuvi1240,tyv,TUVA,NA
+p382f9,tzel1254,tzh,TZELTAL,NA
+pd6670,ngar1284,ung,NGARINJIN,NA
+p749e7,mund1320,unr,MUNDARI,NA
+p12d5e,nort2690,uzn,UZBEK,NA
+pb10d5,vani1248,vam,VANIMO,NA
+p4f44c,viet1252,vie,VIETNAMESE,NA
+ped7c3,mbab1239,vmb,MBABARAM,NA
+p8bb3a,wapp1239,wao,WAPPO,NA
+p29eb1,wapi1253,wap,WAPISHANA,NA
+pc8228,wara1303,wba,WARAO,NA
+p6659f,nucl1620,wgi,WAHGI,NA
+p04916,wich1260,wic,WICHITA,NA
+pa2c8d,wikm1247,wim,WIK-MUNKAN,NA
+p41004,wint1259,wit,WINTU,NA
+pdf37b,wiyo1248,wiy,WIYOT,NA
+p7d6f2,want1252,wnc,WANTOAT,NA
+p1ba69,usan1239,wnu,USAN,NA
+pb9de0,kama1365,woi,WOISIKA,NA
+p58157,nucl1347,wol,WOLOF,NA
+pf64ce,wari1266,wrs,WARIS,NA
+p94845,wara1290,wrz,WARAY,NA
+p32bbc,bert1248,wti,BERTA,NA
+pd0f33,wuch1236,wuu,CHANGZHOU,NA
+p6f2aa,wang1291,wyb,NGIYAMBAA,NA
+p0d621,kawa1283,xaw,KAWAIISU,NA
+pab998,komo1258,xom,KOMA,NA
+p49d0f,libe1247,xpe,KPELLE,NA
+pe8086,katc1249,xtc,KADUGLI,NA
+p863fd,yagu1244,yad,YAGUA,NA
+p24774,yaqu1251,yaq,YAQUI,NA
+pc2aeb,yucu1253,ycn,YUCUNA,NA
+p60e62,taro1263,yer,TAROK,NA
+pff1d9,yaga1260,ygr,YAGARIA,NA
+p9d550,yidi1250,yii,YIDINY,NA
+p3b8c7,nort2745,ykg,YUKAGHIR,NA
+pd9c3e,yana1271,ynn,YANA,NA
+p77fb5,yoru1245,yor,YORUBA,NA
+p1632c,yare1248,yrb,YAREBA,NA
+pb46a3,nene1249,yrk,NENETS,NA
+p52a1a,yess1239,yss,YESSAN-MAYO,NA
+pf0d91,yuca1254,yua,YUCATEC,NA
+p8f108,yuch1247,yuc,YUCHI,NA
+p2d47f,yuec1235,yue,TAISHAN,NA
+pcb7f6,yulu1243,yul,YULU,NA
+p69b6d,nucl1454,yva,YAWA,NA
+p07ee4,zand1248,zne,AZANDE,NA
+pa625b,copa1236,zoc,ZOQUE,NA
+p445d2,zulu1248,zul,ZULU,NA
+pe2949,zuni1245,zun,ZUNI,NA
 p00000,abid1235,abi,Abidji,NA
 p9e377,adio1239,adj,Adioukrou,NA
 p3c6ee,ajab1235,ajg,Adja,Adja (Bénin)
@@ -850,2172 +850,2172 @@ pfd181,yoru1245,yor,Yorouba,Yorouba (Nigeria)
 p9b4f8,zand1248,zne,Zande,NA
 p3986f,zarm1239,dje,Zarma,NA
 pd7be6,zulg1242,gnd,Zulgo,NA
-852,fwee1238,fwe,Fwe,NA
-853,yeyi1239,yey,Yeyi,NA
-854,cavi1250,cav,Cavinena,NA
-855,cham1318,ccc,Chamicuro,NA
-856,chec1245,che,Chechen,NA
-857,chep1245,cdm,Chepang,NA
-858,east2328,mhr,Cheremis,NA
-859,leal1235,cle,Chinanteco,NA
-860,chol1282,ctu,"Tila, Chiapas",NA
-861,chra1242,crw,Chrau,NA
-862,barb1263,boi,Barbareño,NA
-863,coeu1236,crd,Coeur d''Alene',NA
-864,coma1245,com,Comanche,NA
-865,cupe1243,cup,Cupeno,NA
-866,cuvo1236,cuv,Cuvok,NA
-867,deny1238,anv,Denya,NA
-868,nepa1253,kru,Dhangar,NA
-869,mufi1238,aoj,Muhiang,NA
-870,usar1243,usa,Usarufa,NA
-871,kora1295,kpr,Korafe,NA
-872,binu1245,bjr,Binumarien,NA
-873,eggo1239,ego,Eggon,NA
-874,ekpe1253,ekp,Ekpeye,NA
-875,endo1242,enb,Endo,NA
-876,esim1238,ags,Esimbi,NA
-877,fang1246,fan,Fan,NA
-878,furu1242,fuu,Furu,NA
-879,kara1476,gbd,Garadjari,NA
-880,gbar1246,gby,Gbari,NA
-881,goli1247,gvf,Golin,NA
-882,guaj1255,gub,Guajajara,NA
-883,gunw1252,gup,Gunwinggu,NA
-884,haya1250,hay,Haya,NA
-885,huro1249,wya,Huron,NA
-886,huic1243,hch,Huichol,NA
-887,huay1240,qwh,Huaylas,NA
-888,sanm1287,huv,"Huave, San Mateo del Mar",NA
-889,jauj1238,qxw,Huanca,NA
-890,luya1241,lyn,Louyi,NA
-891,iban1261,iby,Ibani,NA
-892,imon1245,imn,Imonda,NA
-893,ingu1240,inh,Ingush,NA
-894,kris1246,ksi,Isaka,NA
-895,yalu1240,yal,Jalonke,NA
-896,izer1241,izr,Hill Jarawa,NA
-897,jama1261,jaa,Jarawara,NA
-898,jeme1245,tow,Jemez,NA
-899,liji1238,mgi,Jili,NA
-900,kaby1243,kab,Kabyle,NA
-901,gida1247,gid,Kada,Guidar
-902,kaya1329,kyz,Kaiabi,NA
-903,kama1367,kms,Kamasau,NA
-904,kano1245,kxo,Kanoe,NA
-905,kens1251,ndb,Kensei Nsei,NA
-906,east2398,xrb,Kar,NA
-907,kari1301,kmv,Karipuna Creole,NA
-908,keny1279,ken,Kenyang,NA
-909,khar1287,khr,Kharia,NA
-910,chon1284,cog,Chong,Khlong Phlu and Wang Kraphrae Dialects
-911,kiny1244,kin,Kinyarwanda,NA
-912,kiri1254,okr,Kirike,NA
-913,koko1269,kkk,Kokota,NA
-914,bako1250,kme,Kole,NA
-915,konn1242,kma,Konni,NA
-916,kuay1244,kdt,Kuay,Surin
-917,kulu1253,kle,Kulung,NA
-918,kuot1243,kto,Kuot,NA
-919,kusu1250,kgg,Kusunda,NA
-920,kuvi1243,kxv,Kuvi,NA
-921,kwaz1243,xwa,Kwaza,NA
-922,lada1244,lbj,Ladakhi,NA
-923,lang1320,lag,Langi,NA
-924,laoo1244,lao,Lao,NA
-925,lavu1241,lvk,Lavukaleve,NA
-926,bafa1247,bwt,Bafo,Lefo
-927,lund1266,lun,Lunda,NA
-928,luch1239,lch,Lucazi,NA
-929,orok1266,bdu,Lukundu,NA
-930,mace1250,mkd,Macedonian,NA
-931,mada1282,mda,Mada,Rija
-932,madi1260,mhi,Ma'di,NA
-933,mana1295,mva,Manam,NA
-934,bame1260,bce,Mamenyan,NA
-935,mana1288,nmm,Manange,NA
-936,ngem1255,nge,Ngemba,Mankon
-937,mara1385,mec,Mara,NA
-938,maib1239,ayz,Maybrat,NA
-939,gbay1281,gmm,Mbodomo; Mbódɔ̀mɔ́,NA
-940,medu1238,byv,Medumba,NA
-941,ming1252,xmf,Mingrelian,Senak
-942,mmen1238,bfm,Mmen,NA
-943,moke1242,mwt,Moken,NA
-944,mose1249,cas,Moseten,NA
-945,mpon1254,mgg,Mpumpun,Yokadouma
-946,mung1266,mhk,Mungaka,NA
-947,mvum1238,nmg,Mvumbo,NA
-948,motl1237,mlv,Mwotlap,NA
-949,nami1256,nnm,Namia,NA
-950,ndem1249,nml,Ndemli,NA
-951,mesc1238,apm,Chiricahua Apache,NA
-952,quec1382,yum,Yuma,NA
-953,nank1250,nnk,Nankina,NA
-954,nand1266,niq,Nandi,NA
-955,kima1246,kig,Khmu,NA
-956,naki1238,mff,Naki,NA
-957,mich1245,ncl,Michoacan Nahual,NA
-958,naga1394,nag,Nagamese,NA
-959,ngos1238,nsh,Ngishe,NA
-960,ngal1293,nig,Ngalakan,NA
-961,nang1259,nam,Nganikurungkurr,"Daly River Area, Northern Territory"
-962,ngom1272,jgo,Ngomba,NA
-963,ngom1271,nla,Ngombale,NA
-964,nuuc1236,nuk,Nootka,Nuuchahnulth
-965,nort2684,kxm,Northern Khmer,Buriram
-966,nort2954,pao,Northern Paiute,NA
-967,nubi1253,kcn,Nubi,NA
-968,nuer1246,nus,Nuer,NA
-969,elip1238,ekm,Nulibie,Yambassa
-970,nyam1276,nym,Kinyamwezi,NA
-971,nyeu1238,nyl,Nyeu,NA
-972,obol1243,ann,Obolo,NA
-973,mian1257,mpt,Mianmin,NA
-974,faiw1243,fai,Faiwol,NA
-975,okuu1243,oku,Oku,NA
-976,osse1243,oss,Ossetian,NA
-977,pala1344,pau,Palauan,NA
-978,orok1269,okv,Orokaiva,NA
-979,yill1241,yll,Yil,NA
-980,ning1273,niz,Ningil,NA
-981,dobu1241,dob,Dobu,NA
-982,samo1303,smq,Samo,NA
-983,urii1240,uvh,Urii,NA
-984,boik1241,bzf,Boiken,NA
-985,phai1238,prt,Pray,Ban Wang Saw
-986,mall1246,mlf,Mal,NA
-987,rama1270,rma,Rama,NA
-988,matb1237,xmt,Matbat,NA
-989,rund1242,run,Rundi,NA
-990,nyan1307,nyn,Runyankore,NA
-991,marw1260,rwr,Marwari,NA
-992,samb1305,ndi,Samba Leko,NA
-993,sout2844,sbd,Samo de Toma,NA
-994,samr1245,sxm,Samre,NA
-995,saba1268,sae,Sabane,NA
-996,saan1246,str,Saanich,NA
-997,sasa1249,sas,Sasak,Puyang
-998,sora1254,srb,Savara,NA
-999,sayu1241,pos,Popoluca de Sayula,NA
-1000,seco1241,sey,Secoya,NA
-1001,taro1264,trv,Sedik,NA
-1002,seim1238,ssg,Seimat,NA
-1003,seme1247,sza,Semelai,NA
-1004,serr1255,ser,Serrano,NA
-1005,shab1252,sbf,Shabo,NA
-1006,yawa1260,ywn,Shanenawa,NA
-1007,mako1251,kde,Shimakonde,NA
-1008,shon1251,sna,Shona,NA
-1009,bamu1253,bax,Shupamem,NA
-1010,siar1238,sjr,Siar-Lak,NA
-1011,sera1259,skr,Siraiki,Central Pakistan
-1012,shaw1249,sjw,Shawnee,NA
-1013,nucl1634,skv,Skou,NA
-1014,aheu1239,thm,So,NA
-1015,sout2856,erk,South Efate,NA
-1016,spok1245,spo,Spokan,NA
-1017,sout2807,sot,Sesotho,NA
-1018,sata1237,stw,Satawalese,NA
-1019,ulwa1239,ulw,Sumo,Ulwa
-1020,hupd1244,jup,Hup,NA
-1021,chim1300,zoh,San Miguel Chimalapa Zoque,NA
-1022,loxi1235,ztp,Zapotec,Loxicha
-1023,yuki1243,yuk,Yuki,NA
-1024,yape1248,yap,Yapese,NA
-1025,yuro1248,yur,Yurok,NA
-1026,yura1255,yuz,Yuracure,NA
-1027,sout2750,yux,Yukaghir (Kolyma),Southern
-1028,nucl1290,wbm,Wa,Ban Santisuk Moo
-1029,wamb1259,wms,Wambon,NA
-1030,wash1253,was,Washo,NA
-1031,waya1269,way,Wayana,NA
-1032,woge1237,woc,Wogeo,NA
-1033,huar1255,var,Warihio,NA
-1034,vaii1241,vai,Vai,NA
-1035,ukra1253,ukr,Ukrainian,NA
-1036,phal1254,phl,Palula (Phalura),NA
-1037,east2440,mky,East Makian,NA
-1038,tapi1253,tpj,Tapiete,NA
-1039,baru1269,bjz,Baruga,NA
-1040,tatu1247,tav,Tatuyo,NA
-1041,tagw1240,tgw,Tagwana,NA
-1042,maza1291,mzn,Mazanderani,NA
-1043,paok1235,blk,"Pa-O, Taungthu",Huay Salop
-1044,tern1247,tft,Ternate,NA
-1045,toba1269,tob,Toba (Argentina),NA
-1046,poli1260,pol,Polish,NA
-1047,mand1415,cmn,Standard Chinese; Mandarin,Beijing
-1048,kala1381,ijn,Kalabari; Kirike; Kalabari-Ijo,Kalabari-Ijo
-1049,east2295,ydd,Standard Yiddish,NA
-1050,dutc1256,nld,Dutch,Belgian Standard
-1051,malo1243,mla,Tamambo; Malo,NA
-1052,gayo1244,gay,Gayo,NA
-1053,jama1262,jam,Jamaican Creole,NA
-1054,mamb1294,mcs,Mambay; Mambai,NA
-1055,arag1245,arg,Aragonese,Chistabino
-1056,tilq1235,zts,Tilquiapan Zapotec,NA
-1057,ibib1240,ibb,Ibibio,Uruan area and Uyo
-1058,tami1289,tam,Tamil,Standard Spoken Tamil
-1059,zoog1238,zpq,San Bartolomé Zoogocho Zapotec,zxon
-1060,baga1273,bgo,Baga Koga; Koba; Barka,NA
-1061,sout2895,nxl,Southern Nuautl,NA
-1062,sela1259,slu,Selaru,NA
-1063,tsuv1239,tvd,Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto,NA
-1064,hang1263,wos,Hanga Hundi; Kwasengen; West Wosera,NA
-1065,blan1242,blr,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi',NA
-1066,tata1257,txx,Tatana''; Tatanaq; Tatana',NA
-1067,tibe1272,bod,Tibetan,Lhasa
-1068,chee1238,ruk,Che; Rukuba; Kuche; Bache; Inchazi; Sale,NA
-1069,tolo1259,tol,Tolowa; Tolowa-Chetco,NA
-1070,pagi1243,pae,Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete,NA
-1071,choc1276,cho,Choctaw,NA
-1072,mich1243,crg,Michif,NA
-1073,pila1245,plg,Pilaga; Pilagá,NA
-1074,yuch1247,yuc,Euchee; Yuchi,NA
-1075,bani1255,bwi,Kurripako; Baniwa; Baniwa (Icana),Ehe-Khenim
-1076,kari1311,ktn,Karitiana; Karitiâna,NA
-1077,nort2943,esi,Iñupiaq; Iñupiat; Inupiat; Inupiaq,NA
-1078,sanj1284,zab,"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía",NA
-1079,tzot1259,tzo,"Tzotzil, Chamula",Petalcingo
-1080,sida1246,sid,Sidaama; Sidamo; Sidamic,NA
-1081,west2560,bdr,"Bajau, West Coast; Land Bajaw; West Coast Bajao",NA
-1082,chim1301,cid,Chimariko,NA
-1083,hueh1236,tee,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",NA
-1084,utes1238,ute,Southern Ute; Ute; Ute-Southern Paiute,NA
-1085,dupa1235,duo,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta,NA
-1086,tong1325,ton,Tongan; Tonga,NA
-1087,lake1258,lmw,Lake Miwok; Miwok (Lake),NA
-1088,lazz1240,lzz,Laz,NA
-1089,juan1238,jun,Juang,NA
-1090,adan1251,adn,Adang,NA
-1091,ambe1247,ael,Ambele,NA
-1092,apur1254,apu,Apurinã,Japiim
-1093,achi1257,ace,Acehnese,NA
-1094,anti1245,aig,Antiguan Creole,NA
-1095,akla1241,akl,Aklan,NA
-1096,arhu1242,arh,Ika,NA
-1097,karo1306,arr,Karo,NA
-1098,liby1240,ayl,Libyan Arabic,NA
-1099,bata1289,bbc,Toba-Batak,NA
-1100,baou1238,bci,Baule,Kobe
-1101,bond1245,bfw,Remo,NA
-1102,bike1242,biw,Bikele,NA
-1103,siks1238,bla,Blackfoot,NA
-1104,bilo1248,bll,Biloxi,NA
-1105,beli1260,bzj,Belizean Creole,NA
-1106,koas1236,cku,Koasati,NA
-1107,como1259,coo,Comox,NA
-1108,soch1239,cso,Sochiapan Chinantec,NA
-1109,diml1238,diq,Dimili,NA
-1110,yekh1238,ets,Etsako,NA
-1111,nort2626,frr,Frisian,Sölring North
-1112,guja1253,gju,Gojri; Gujari; Gujar,NA
-1113,guan1269,gvc,Wanano,NA
-1114,hung1278,hum,Kihungan,NA
-1115,halk1245,hur,Chilliwak Halkomelem,NA
-1116,huas1242,hus,Huastec,Potosino dialect
-1117,ilok1237,ilo,Ilocano,Northern
-1118,kadi1248,kbc,Kadiweu,NA
-1119,kute1248,kub,Kuteb,NA
-1120,awac1239,kwi,Awa Pit,NA
-1121,lisu1250,lis,Lisu,NA
-1122,loni1238,los,Loniu,NA
-1123,mola1238,mbe,Molalla,NA
-1124,mats1244,mcf,Matses,NA
-1125,mani1292,mni,Manipuri,NA
-1126,mand1436,mnk,Mandingo,NA
-1127,moco1246,moc,Mocovi,NA
-1128,mamm1241,mam,Western Mam; Tacanec,Tacaná
-1129,mund1330,myu,Mundurukú,NA
-1130,nisg1240,ncg,Nishgha,NA
-1131,nort2627,nds,Low German,Ukrainian
-1132,nort2984,pmq,Northern Pame,NA
-1133,pana1305,par,Panamint,NA
-1134,nige1257,pcm,Nigerian Pidgin,NA
-1135,nort2966,pej,Northern Pomo,NA
-1136,texi1237,poq,Texistepec Popoluca,NA
-1137,khan1273,kca,Eastern Khanty,NA
-1138,stan1289,cat,Catalan,Barcelona
-1139,croa1245,hrv,Croatian,NA
-1140,czec1258,ces,Czech,Prague
-1141,gali1258,glg,Galician,NA
-1142,kabi1261,kbp,Kabiye,Somdina
-1143,mono1270,mnh,Mono,"Bili, Bosobolo Zone, DRC"
-1144,indo1316,ind,Indonesian,Central Java
-1145,ital1282,ita,Italian,Mainstream Italian'''
-1146,sala1272,qxl,Salasaca Quichua,NA
-1147,seri1257,sei,Seri,NA
-1148,sind1272,snd,Sindhi,Vicholi
-1149,slov1268,slv,Slovene,Standard Slovene
-1150,swed1254,swe,Swedish,Stockholm
-1151,east2440,mky,Taba,Makian Island
-1152,tuka1248,khc,Tukang Besi,"Wanci, Kaledupa"
-1153,yine1238,pib,Yine,NA
-1154,kich1262,quc,Quiche,NA
-1155,huam1248,qvh,Huallaga (Huanuco) Quechua,NA
-1156,sipa1247,qum,Sipakapense Maya,NA
-1157,chim1302,qug,Chimborazo Quichua,NA
-1158,tlac1235,tpt,Tepehua,NA
-1159,ambu1247,abt,Abulas,NA
-1160,abau1245,aau,Abau,NA
-1161,qima1242,ahg,Agaw,NA
-1162,akha1245,ahk,Akha,NA
-1163,alya1239,aly,Alyawarra,NA
-1164,aman1265,amn,Amanab,NA
-1165,anua1242,anu,Anywa,NA
-1166,aran1237,jbj,Arandai,NA
-1167,bumb1241,aon,Arapesh,NA
-1168,tana1290,tcb,Tanacross,NA
-1169,auuu1241,avt,Au,NA
-1170,tinp1237,tpz,Tinputz,NA
-1171,peta1245,pex,Petats,Petats central
-1172,pate1247,ptp,Patep,Mahomba
-1173,kela1255,kcl,Kela,Apoze
-1174,surs1246,sgz,Sursurunga,East Coast
-1175,awar1248,awx,Awara,NA
-1176,awin1248,azo,Awing,NA
-1177,awtu1239,kmn,Awtuw,NA
-1178,baba1264,bbw,Baba,NA
-1179,baba1266,bbk,Babanki,NA
-1180,bako1249,bkh,Bakoko,NA
-1181,nyon1241,muo,Bali-Kumbat,NA
-1182,bamu1256,bvm,Bamunka,NA
-1183,bang1356,bgj,Bangolan,NA
-1184,bata1285,bnm,Banoo,NA
-1185,bari1286,bch,Bariai,NA
-1186,befa1241,bby,Befang,NA
-1187,idaa1241,dbj,Ida''an',Begak
-1188,bemb1257,bem,Bemba,NA
-1189,berb1259,brc,Berbice Dutch,NA
-1190,bett1235,xub,Betta Kurumba,NA
-1191,biak1248,bhw,Biak,NA
-1192,bili1250,nbj,Bilinara,NA
-1193,bina1277,bhg,Binandere,NA
-1194,sout2840,bwq,Bobo,"Bobo-Dioulasso, Haute-Volta"
-1195,nucl1695,bol,Bole,NA
-1196,bong1285,bot,Bongo,NA
-1197,boro1277,bwo,Boro,NA
-1198,brok1247,bkk,Brokskat,NA
-1199,baga1272,bsp,Baga Sitem,NA
-1200,bubi1249,bbx,Bubia,NA
-1201,buku1249,bxk,Bukusu,NA
-1202,subi1246,sbs,Subiya,NA
-1203,tote1238,ttl,Totela,NA
-1204,bamb1265,bmo,Bambalang; Círàmbɔ́,NA
-1205,nort2845,mrq,North Marquesan,Nuku Hiva
-1206,onge1236,oon,Öñge; Ong; Onge,NA
-1207,olut1240,plo,Oluta Popoluca; Olutec,NA
-1208,jiar1240,jya,Jiarong,Chabao; Japhug
-1209,suri1267,suq,Suri,Tirmaga
-1210,bilu1245,blb,Bilua,NA
-1211,hoav1238,hoa,Hoava,NA
-1212,fili1244,fil,Filipino,NA
-1213,ngad1261,nxg,Ngad''a; Ngadha',NA
-1214,muna1247,mnb,Muna,NA
-1215,keoo1238,xxk,Ke''o; Kéo',Udiworowatu
-1216,aheu1239,thm,Aheu; Thavung,Samhing
-1217,saki1248,skf,Sakirabiá; Mekens,NA
-1218,tiwi1244,tiw,Tiwi,NA
-1219,torw1241,trw,Torwali,NA
-1220,thul1246,tdh,Thulung; Thulung Rai,NA
-1221,tsha1245,tsj,Tshangla,NA
-1222,colo1256,cof,Colorado; Tsafiki,NA
-1223,tzut1248,tzj,Tzutujil,San Juan
-1224,pwon1235,pww,Pwo Karen,NA
-1225,tuvi1240,tyv,Tuva; Tuvan,NA
-1226,kinn1249,kfk,Kinnauri; Kanauri,"Himachal Pradesh; Kalpa, Nichar, and Pooh areas"
-1227,mewa1250,wtm,Mewati,NA
-1228,anei1239,aty,Aneityum; Anejom̃,NA
-1229,zaiw1241,atb,Zaiwa,NA
-1230,chic1270,cic,Chickasaw,NA
-1231,friu1240,fur,Friulian,Udine
-1232,jica1244,apj,Jicarilla Apache,Dulce
-1233,egaa1242,ega,Ega,Gniguedougou & Gnama
-1234,adam1253,fub,Adamawa Fulfulde; Adamawa Fulani,NA
-1235,west2441,are,Arrarnte,Western Arrarnte
-1236,sanu1240,xsu,Sanuma; Sanumá,NA
-1237,wari1268,pav,Wari; Wari''; Wariʔ; Oro Nao',Oro Nao
-1238,crow1244,cro,Crow,NA
-1239,barb1263,boi,Barbareño,NA
-1240,lyel1241,lee,Lele (Lyélé),Variety spoken in Debreng
-1241,adam1253,fub,Fulfulde (Cameroon),CAM
-1242,anyi1245,any,Anyi Sanvi,NA
-1243,anyi1245,any,Agni Djuablin,NA
-1244,anyi1244,mtb,Agni Morofo,NA
-1245,akan1250,aka,Akan,NA
-1246,anuf1239,cko,anufɔ,NA
-1247,dibo1245,bvx,babole,NA
-1248,bana1305,bcw,bana,NA
-1249,baka1274,bdh,baka,NA
-1250,ajas1235,aja,aja,NA
-1251,bila1255,bip,bila,NA
-1252,busa1253,bqp,busa,NA
-1253,adam1253,fub,fulfulde (fuunaangere),fuunaangere
-1254,nige1253,fuv,fulfulde (NGA),Kaceccereere
-1255,here1253,her,herero,NA
-1256,ceba1235,sef,Senoufo-Cebaara,Tangari
-1257,koyr1240,khq,songhoy,NA
-1258,bafi1243,ksf,kpaʔ,NA
-1259,lega1249,lea,lega-shabunda,beya
-1260,limb1268,lmp,limbum (southern),southern
-1261,limb1268,lmp,limbum (central),central
-1262,limb1268,lmp,limbum (northern),northern
-1263,myen1241,mye,myene,NA
-1264,ntch1242,bud,N'cam,NA
-1265,tune1261,tvu,Nen,NA
-1266,matu1259,mgw,matuumbi,NA
-1267,yaoo1241,yao,yao,NA
-1268,umbu1257,umb,umbundu,NA
-1269,ndon1254,ndo,ndonga,NA
-1270,mbuk1240,mhw,mbukushu,NA
-1271,diri1252,diu,diriku,NA
-1272,kwan1273,kwn,kwangari,NA
-1273,soni1259,snk,soninke (kaedi (MRT)),kaedi (MRT)
-1274,koyr1242,ses,"Songhay, Koyraboro Senni",NA
-1275,lele1276,lln,Lele,NA
-1276,ikal1242,kck,Ikalanga,NA
-1277,mong1338,lol,mongo-nkundu,NA
-1278,long1387,wok,longto,NA
-1279,xwel1235,xwe,xwela,NA
-1280,west2456,xwl,western xwla,NA
-1281,kota1272,kqk,kotafon,NA
-1282,gbes1238,gbs,gbesi,NA
-1283,mach1266,jmc,machame,bosho
-1284,mada1282,mda,mada,NA
-1285,mbee1249,mfo,mbe,NA
-1286,ngwe1238,nwe,ngwe,NA
-1287,jowu1238,jow,jowulu,NA
-1288,yala1263,yba,yala,ikom
-1289,mamb1296,mgr,cilungu,NA
-1290,kete1252,kcv,kete,NA
-1291,kwes1244,kws,kwezo,NA
-1292,sout2828,snm,Madi,Lokai
-1293,moru1253,mgd,Moru,NA
-1294,logo1259,log,Logo,NA
-1295,afit1238,aft,Afitti,NA
-1296,avat1244,avn,Avatime,NA
-1297,abua1244,abn,Abua,NA
-1298,anyi1245,any,Anyi,NA
-1299,dghw1239,dgh,Dghwede,NA
-1300,eloy1241,afo,Eloyi,NA
-1301,nige1253,fuv,Fula (Nigeria),Nigeria
-1302,giky1238,acd,Gechode,NA
-1303,giny1241,ayg,Genyanga,NA
-1304,huba1236,hbb,Kilba,NA
-1305,kofy1242,kwl,Kofyar,NA
-1306,krac1238,kye,Krache,NA
-1307,krim1238,bmf,Krim,NA
-1308,west2458,bbp,"Banda, West Central",Tangbago
-1309,sout2833,dib,"Dinka, South Central",NA
-1310,food1238,fod,Foodo,NA
-1311,jola1262,csk,Joola Huluf,NA
-1312,jumj1238,jum,Jumjum,NA
-1313,buru1301,bdi,Burun,Kurmuk
-1314,olub1238,lul,Lulubo,NA
-1315,maay1238,ymm,Maay,Lower Jubba
-1316,maba1273,mfz,Mabaan,NA
-1317,suga1248,sgi,Nizaa,NA
-1318,copi1238,cce,Copi,NA
-1319,xhos1239,xho,Xhosa,NA
-1320,siwu1238,akp,Siwu,NA
-1321,sher1258,bun,Sherbro,NA
-1322,mman1238,buy,Mmani,NA
-1323,cher1271,cpn,Hill Guang,Gwa
-1324,palo1243,fap,Ndut-Falor,Falor
-1325,fraf1238,gur,Frafra,Gudeni
-1326,sekp1241,lip,Likpe,Bakwa
-1327,mamp1244,maw,Mampruli,Walewale
-1328,tong1318,toi,Shanjo,NA
-1329,bady1239,pbp,Pajade,Badiaranke
-1330,sele1249,snw,Sele,NA
-1331,tivv1240,tiv,Tiv,Central (Standard)
-1332,bili1260,byn,Blin,NA
-1333,xamt1239,xan,Xamtanga,NA
-1334,lika1243,lik,Lika,NA
-1335,yans1239,yns,Yanzi,NA
-1336,budu1250,buu,Kibudu,NA
-1337,kele1255,khy,Iikile,NA
-1338,leng1258,lej,Lengola,Balega
-1339,keli1248,kbo,Kaliko,NA
-1340,wong1247,won,Wongo,Isiinkere
-1341,mwal1237,wlc,Mwali,NA
-1342,afar1241,aar,Afar,NA
-1343,mund1325,mua,Mundang,NA
-1344,mono1269,mru,Mono,NA
-1345,tupu1244,tui,Tupuri,NA
-1346,kuoo1238,xuo,Kuo,NA
-1347,kare1338,kbn,Kare,NA
-1348,ndai1238,gke,Galke,NA
-1349,bamb1262,myf,Northern Mao,NA
-1350,tigr1271,tir,Tigrinya,NA
-1351,kara1483,kdj,Karimojong,NA
-1352,gwan1268,gwn,Gwandara (Karshi),Karshi
-1353,gwan1268,gwn,Gwandara (Cancara),Cancara
-1354,gwan1268,gwn,Gwandara (Toni),Toni
-1355,gwan1268,gwn,Gwandara (Gitata),Gitata
-1356,gwan1268,gwn,Gwandara (Koro),Koro
-1357,gwan1268,gwn,Gwandara (Nimbia),Nimbia
-1358,avik1243,avi,Avikam,NA
-1359,shil1265,shk,Shilluk,NA
-1360,haio1238,hgm,San,NA
-1361,pero1241,pip,Pero,NA
-1362,bora1271,gax,Galla,NA
-1363,hadi1240,hdy,Hadiyya,NA
-1364,wola1242,wal,Welamo,NA
-1365,kuny1238,njx,Nyanga,NA
-1366,otuh1238,lot,Otuho,NA
-1367,masa1299,myx,Orusyan,NA
-1368,kamw1239,hig,Higi,NA
-1369,many1261,mzj,Manya,NA
-1370,saya1246,say,Syan,NA
-1371,njeb1242,nzb,Nzɛbi,NA
-1372,tada1238,dsq,Tadaksahak,NA
-1373,kamb1316,ktb,Kambaata,NA
-1374,otor1240,otr,Otoro,NA
-1375,tira1254,tic,Tira,NA
-1376,nyam1285,nmi,Nyam,NA
-1377,fali1285,fli,Kirya-Konzɘl,NA
-1378,mawa1270,mcw,Mawa,NA
-1379,huaa1248,nmn,!Xóõ,NA
-1380,koal1240,kib,Koalib,NA
-1381,kagu1239,kki,Kagulu,NA
-1382,okoo1245,oks,Oko,NA
-1383,kung1261,knw,!Xun,W2
-1384,ghom1247,bbj,Banjun,NA
-1385,defa1248,afn,Defaka,NA
-1386,teee1242,tkq,Tee,NA
-1387,kips1239,sgc,Kipsigis,NA
-1388,pang1287,pbr,Pangwa,NA
-1389,holo1240,hoo,Holoholo,NA
-1390,buli1254,bwu,Buli,NA
-1391,bala1302,bjt,Balante,Ganja
-1392,nyam1277,now,Kinyambo,NA
-1393,dann1241,daf,Dan,Santa
-1394,poko1263,pko,Pokot,NA
-1395,afri1274,afr,Afrikaans,NA
-1396,argo1244,agj,Argobba,NA
-1397,hara1271,har,Harari,NA
-1398,dink1262,din,Dinka,macrolanguage
-1399,nzim1238,nzi,Nzema,NA
-1400,ahan1243,aha,Ahanta,NA
-1401,besl1239,hna,Besleri,NA
-1402,buwa1243,bhs,Buwal,NA
-1403,hdii1240,xed,Hide,NA
-1404,lama1288,hia,Lamang,NA
-1405,ikwe1242,ikw,Ikwere,NA
-1406,lagw1237,kot,Lagwan,NA
-1407,gbay1281,gmm,Mbodomo,NA
-1408,mbuk1243,mqb,Mbuko,NA
-1409,molo1266,mlw,Moloko,NA
-1410,muya1243,muy,Muyang,NA
-1411,ngom1272,jgo,Ngomba,NA
-1412,keme1240,dmo,Kemezung,NA
-1413,nate1242,ntm,Nateni,NA
-1414,silt1240,stv,Silt'i,NA
-1415,wehh1238,weh,Weh,NA
-1416,tuli1249,tey,Tulishi,Kamda
-1417,keig1242,kec,Keiga,NA
-1418,kron1241,kgo,Krongo,NA
-1419,kang1288,kcp,Kanga (Kanga),Kanga
-1420,kang1288,kcp,Kanga (Kufa),Kufa
-1421,katc1249,xtc,Kadugli (Kadugli),Kadugli
-1422,katc1249,xtc,Kadugli (Miri),Miri
-1423,katc1249,xtc,Kadugli (Katcha),Katcha
-1424,moro1284,mgc,Morokodo,NA
-1425,arin1244,luc,Aringa,NA
-1426,tese1238,keg,These,NA
-1427,lumu1239,lmd,Lumun,NA
-1428,ache1245,acz,Asharon,NA
-1429,toch1257,taz,Tocco,NA
-1430,dagi1241,dec,Thakik,NA
-1431,didi1258,did,Didinga,NA
-1432,luwo1239,lwo,Luwo,NA
-1433,acol1236,ach,Acholi,NA
-1434,bela1256,bxb,Belanda Boor,NA
-1435,bela1255,bvi,Belanda Viri,NA
-1436,ndog1248,ndz,Ndogo,NA
-1437,bade1248,bde,Bade,Western
-1438,fern1234,fpe,Pichi,NA
-1439,jita1239,jit,Jita,NA
-1440,dime1235,dim,Dime,NA
-1441,tsot1241,lto,Lutsootso,NA
-1442,jams1239,djm,"Jamsay, Dogon",NA
-1443,kamb1297,kam,Kikamba,NA
-1444,bafi1243,ksf,Bafia,NA
-1445,lang1324,laj,Lango,NA
-1446,kisa1263,lks,Olukisa,NA
-1447,nyol1238,nuj,Nyole,NA
-1448,mwan1247,wmw,Kimwani,NA
-1449,kgal1244,xkv,Shekgalagari,NA
-1450,tiey1235,boz,Tigemaxo Bozo,NA
-1451,alab1254,alw,Alaaba,NA
-1452,dege1246,deg,Degema,NA
-1453,ntch1242,bud,Basari,NA
-1454,prin1242,pre,Principense,NA
-1455,nkon1248,nko,Nkonya,NA
-1456,sodd1242,gru,Soddo,NA
-1457,kist1241,gru,Goggot,NA
-1458,mesq1240,mvz,Masqan,NA
-1459,seba1251,sgw,Muher,NA
-1460,ezha1238,sgw,Ezha,NA
-1461,chah1248,sgw,Chaha,NA
-1462,gume1239,sgw,Gumer,NA
-1463,seba1251,sgw,Gura,NA
-1464,seba1251,sgw,Gyeto,NA
-1465,inor1238,ior,Ennemor,NA
-1466,inor1238,ior,Endegen,NA
-1467,inor1238,ior,Ener,NA
-1468,dzuu1241,dnn,Dzuungoo,NA
-1469,bagi1246,bmi,Bagirmi,NA
-1470,ngit1239,niy,Ngiti,NA
-1471,ndal1241,ndh,Chindali,NA
-1472,meen1242,mym,Me'en,NA
-1473,ngas1238,nsg,Ongamo,NA
-1474,mbay1241,myb,Mbay,NA
-1475,gumu1244,guk,Gumuz,Sese
-1476,sooo1256,teu,Soo,NA
-1477,benc1235,bcq,Gimira,Benchnon
-1478,benc1235,bcq,Bench,NA
-1479,yems1235,jnj,Yemsa,NA
-1480,zays1236,zay,Zayse,NA
-1481,gamo1243,gmv,Gamo,NA
-1482,koor1239,kqy,Koorete,NA
-1483,aari1239,aiw,Aari,NA
-1484,komo1258,xom,Komo,NA
-1485,uduk1239,udu,Twampa,NA
-1486,opuu1239,lgn,Opo,NA
-1487,kwam1249,kmq,Kwama,NA
-1488,mayo1261,mdm,Mayogo,NA
-1489,saam1283,lsm,Lusaamia,NA
-1490,sout2795,nnw,Nouni,NA
-1491,nort2795,nde,Ndebele,NA
-1492,saxw1241,sxw,"Saxwe, Gbe",NA
-1493,nari1240,loh,Laarim,NA
-1494,bidy1244,bjg,Bijogo,NA
-1495,domp1238,doy,Dompo,NA
-1496,bamb1269,bam,Bamana,Beledugu
-1497,heib1243,hbn,Heiban,NA
-1498,koya1253,kga,Koyaga,NA
-1499,shwa1239,shw,Cwaya,NA
-1500,gaaa1245,ttb,Tiba,NA
-1501,kuan1247,kua,Kwanyama,NA
-1502,mbal1255,lnb,Mbalanhu,NA
-1503,kwam1251,kwm,Kwambi,NA
-1504,ngan1300,nne,Ngandjera,NA
-1505,ndon1254,ndo,Ndonga (Kwaluudhi),Kwaluudhi
-1506,ndon1254,ndo,Ndonga (Kolonkadhi),Kolonkadhi
-1507,ndon1254,ndo,Ndonga (Eunda),Eunda
-1508,konk1269,xon,Konkomba,Nawaré
-1509,zagh1240,zag,Beria,NA
-1510,zayy1238,zwa,Zway,NA
-1511,bomi1238,zmx,Leke,NA
-1512,nort2819,bbo,"Bobo, North",Tansila
-1513,bena1262,bez,Bena,NA
-1514,guin1254,gkp,"Kpelle, North",NA
-1515,kaka1265,kke,Kakabe,NA
-1516,lele1266,llc,Lele,NA
-1517,loma1260,lom,Looma,NA
-1518,mann1248,mev,Mano,NA
-1519,kyen1242,tye,Kyanga,NA
-1520,shan1282,sho,Shanga,NA
-1521,abur1243,abu,Abure,NA
-1522,bank1256,abb,Bankon,NA
-1523,efut1241,afu,Efutu,NA
-1524,aghe1239,agq,Aghem,NA
-1525,arbo1245,arv,Arbore,NA
-1526,abid1235,abi,Abidji,NA
-1527,adio1239,adj,Adioukrou,NA
-1528,tiag1235,ahi,"Aizi, Tiagba",NA
-1529,alla1248,ald,Alladian,NA
-1530,begb1241,bqv,Tinɔr,NA
-1531,ngaz1238,zdj,Shindazidja,Washili
-1532,akpe1248,ibe,Akpes,Daja
-1533,eten1239,etx,Iten,NA
-1534,nuer1246,nus,Nuer,NA
-1535,kagf1238,gel,West Kainji,NA
-1536,idom1241,idu,Idu,NA
-1537,irig1241,iri,Rigwe,NA
-1538,izer1241,izr,Izere,NA
-1539,jere1244,jer,Jere,Eboze
-1540,legb1242,agb,Leggbo,NA
-1541,logb1245,lgq,Logba,NA
-1542,awng1244,awn,Awngi,NA
-1543,glav1244,glw,Glavda,NA
-1544,ahan1244,ahn,Ahaan,NA
-1545,ayer1245,aye,Uwu,NA
-1546,rong1268,rng,Ronga,NA
-1547,ndzw1235,wni,"Comorian, Ndzwani",NA
-1548,sout2790,biv,Birifor,NA
-1549,kuwa1246,cwt,Kwatay,NA
-1550,atti1239,ati,Attie,Memni
-1551,ango1258,aoa,Angolar,NA
-1552,east2652,hae,"Oromo, Eastern",Harar
-1553,uppe1455,pov,Kriyol,NA
-1554,akoo1248,bss,Akoose,Nyasoso
-1555,baka1273,bqz,Bakaka (Mwaneka),Mwaneka
-1556,baka1273,bqz,Bakaka (Babong),Babong
-1557,baka1273,bqz,Bakaka (Mkaa'),Mkaa'
-1558,mboc1235,mbo,Mbo (Ekanang),Ekanang
-1559,bass1260,bsi,Bassossi,Mienge
-1560,mboc1235,mbo,Mbo (Ngwatta),Ngwatta
-1561,libe1240,lir,Liberian English,NA
-1562,gagu1242,ggu,Gban,NA
-1563,eton1253,eto,Eton,NA
-1564,reun1238,rcf,Reunionnais,NA
-1565,nucl1440,mls,Masalit,NA
-1566,saot1239,cri,Saotomense,NA
-1567,nucl1696,tan,Tangale,NA
-1568,suku1261,suk,Sukuma,NA
-1569,mori1278,mfe,Mauritian Creole,Ordinary'
-1570,krio1253,kri,Krio,NA
-1571,kitu1246,ktu,Kituba,Kwilu
-1572,akas1242,aks,Akasilimi,NA
-1573,tuki1240,bag,Tuki,NA
-1574,baka1272,bkc,Baka,NA
-1575,bumm1238,bmv,Bum,NA
-1576,nucl1683,dbq,Daba,NA
-1577,gava1241,gou,Gavar,NA
-1578,gude1246,gde,Gu'de,NA
-1579,lang1322,lno,Lango,NA
-1580,igoo1238,ahl,Igo,NA
-1581,kako1242,kkj,Kako,NA
-1582,kwan1276,knp,Kwanja,Sundani
-1583,came1252,mcu,Mambila,Atta
-1584,mere1246,meq,Mere,NA
-1585,wand1278,mfi,Mandara,NA
-1586,chon1287,coh,Chonyi,NA
-1587,digo1243,dig,Digo,NA
-1588,duru1249,dug,Duruma,NA
-1589,giry1241,nyf,Giryama,NA
-1590,giry1241,nyf,Jiβana,NA
-1591,kamb1298,nyf,Kambe,NA
-1592,kaum1238,nyf,Kauma,NA
-1593,giry1241,nyf,Raβai,NA
-1594,giry1241,nyf,Reβe,NA
-1595,vame1236,mlr,Vame,NA
-1596,mmaa1238,mmu,Numala,NA
-1597,mpad1242,mpi,Kotoko,Makary
-1598,mofu1248,mif,"Mofu, South",Gudur
-1599,mbee1249,mfo,Mbe,NA
-1600,ncan1245,ncr,Nchane,NA
-1601,mfum1238,nfu,Mfumte,NA
-1602,njye1238,njy,Njem,NA
-1603,buam1238,box,Bwamut,Bondoukuy
-1604,kwam1250,ktf,Kwami,NA
-1605,guro1248,goa,Gouro,NA
-1606,kabu1256,kea,Cape Verde Creole,NA
-1607,boun1243,nku,Kulango,Bouna
-1608,tsam1247,tsb,Ts'amakko,NA
-1609,cent2194,tzm,Tamazight Berber,NA
-1610,siwi1239,siz,Siwi,NA
-1611,ndam1239,ndj,Ndamba,NA
-1612,bare1279,bva,Barein (Jalkiya),Jalkiya
-1613,bare1279,bva,Barein (Giliya),Giliya
-1614,bare1279,bva,Barein (Jalking),Jalking
-1615,bare1279,bva,Barein (Komiya),Komiya
-1616,gaam1241,tbi,Gaahmg,NA
-1617,abar1238,mij,Mungbam,Munken
-1618,mund1328,boe,Mundabli,NA
-1619,mbuu1238,muc,Ajumbu,NA
-1620,kosh1246,kid,Koshin,NA
-1621,fang1248,fak,Fang,NA
-1622,kura1250,knk,Kuranko,NA
-1623,niel1243,nie,Lwaa,NA
-1624,nort3047,gis,Gisiga,North
-1625,mogh1246,mgo,Moghamo,NA
-1626,mokp1239,bri,Mokpwe,NA
-1627,siam1242,sif,Siamou,NA
-1628,ngie1241,nnh,Ngiemboon,NA
-1629,nugu1242,yas,Nugunu,NA
-1630,tigo1236,nza,Mbembe,NA
-1631,orma1241,orc,Orma,NA
-1632,piny1238,pny,Pinyin,NA
-1633,pana1294,pnz,Pana,NA
-1634,reel1238,atu,Thok Reel,NA
-1635,wuzl1236,udl,Ouldeme,NA
-1636,lese1243,les,Balese,NA
-1637,tour1242,neb,Toura,NA
-1638,gwen1239,gwe,Kigweno,NA
-1639,sumb1240,suw,Sisumbwa,NA
-1640,zinz1238,zin,Luzinza,NA
-1641,meru1245,mer,Kimeru,NA
-1642,kahe1238,hka,Kikahe,NA
-1643,hang1260,han,Kihangaza,NA
-1644,moch1256,old,Kimochi,NA
-1645,suba1252,ssc,Kisimbiti,NA
-1646,kway1241,kya,Eciruuri,NA
-1647,wawa1246,www,Wawa,NA
-1648,tach1250,shi,Tachelhit,NA
-1649,tuni1251,tug,Tounia,NA
-1650,ceba1235,sef,"Senoufo, Cebaara",Tangari
-1651,fuli1240,flr,Fuliiru,NA
-1652,sand1273,sad,Sandawe,NA
-1653,tsuv1239,tvd,Tsuvaɗi,NA
-1654,ejag1239,etu,Ejagham,NA
-1655,yemb1246,ybb,Yemba,NA
-1656,bafa1249,bfj,Nchufie,NA
-1657,burj1242,bji,Burji,NA
-1658,anii1245,blo,Anii,NA
-1659,fipa1238,fip,Fipa,Kwa
-1660,nawu1242,naw,Nawuri,NA
-1661,anfi1235,myo,Anfillo,NA
-1662,ntom1248,nto,Bokala-Nkole,Nkole
-1663,tumt1243,tbr,Talasa,NA
-1664,iyiv1238,uiv,Iyive,NA
-1665,bata1293,btx,Karo Batak,NA
-1666,taga1270,tgl,Tagalog,NA
-1667,sout2918,ssb,Southern Sama,"Sinama, Simunul Island"
-1668,kima1244,kqr,Kimaragang,Tandek
-1669,bela1260,beg,Belait,Metting
-1670,ilok1237,ilo,Iloko/Ilocano,Northern
-1671,east2563,cjm,Phan Rang Cham (Eastern Cham),NA
-1672,mokl1243,mkm,Moklen,NA
-1673,moke1242,mwt,Moken,Dung Moken
-1674,nias1242,nia,Nias,Selatan
-1675,java1254,jav,Javanese,Yogya-Solo
-1676,buol1237,blf,Buol,NA
-1677,maka1311,mak,Makassar,NA
-1678,mori1268,xmz,Mori Bawah,Tinompo
-1679,kamb1299,xbr,Kambera,NA
-1680,tetu1245,tet,Tetun,NA
-1681,leti1246,lti,Leti,NA
-1682,east2440,mky,"Makian, East (Taba)",NA
-1683,biak1248,bhw,Biak,Sowek
-1684,ambo1250,abs,Ambon Malay,NA
-1685,band1353,bpq,Banda Malay,NA
-1686,mala1481,xmm,Manado Malay,NA
-1687,kupa1239,mkn,Kupang Malay,NA
-1688,lara1260,lrt,Larantuka Malay,NA
-1689,nort2828,max,North Maluku Malay,NA
-1690,indo1316,ind,Indonesian,Standard
-1691,nucl1460,mad,Madurese,Bangkalan
-1692,cebu1242,ceb,Cebuano,NA
-1693,bali1278,ban,Balinese,NA
-1694,bugi1244,bug,Bugis,NA
-1695,cent2087,bcl,Bikol (Bicolano),Central
-1696,hili1240,hil,Hiligaynon,NA
-1697,pamp1243,pam,Kapampangan,NA
-1698,mina1268,min,Minangkabau,Padang
-1699,pang1290,pag,Pagasinan,NA
-1700,teng1272,tes,Tengger,Ngadas
-1701,abuj1237,mrr,Abujmaria,NA
-1702,apuc1241,apq,Andamanese,NA
-1703,anga1288,njm,Angami,NA
-1704,aona1235,njo,Ao-Naga,NA
-1705,apat1240,apt,Apatani,NA
-1706,assa1263,asm,Assamese,NA
-1707,awad1243,awa,Awadhi,NA
-1708,bada1257,bfq,Badaga,NA
-1709,balt1258,bft,Balti,NA
-1710,lamb1269,lmn,Banjara,NA
-1711,beng1280,ben,Bengali,NA
-1712,bhil1251,bhb,Bhili,NA
-1713,mund1320,unr,Bhumij,NA
-1714,boro1277,bwo,BoRo,NA
-1715,brok1247,bkk,Brokskat,NA
-1716,bund1253,bns,Bundeli,NA
-1717,chau1259,cdn,Chandangs and Byangs,NA
-1718,chok1243,nri,Chokri,NA
-1719,darm1243,drd,Darmiya,NA
-1720,gata1239,gaq,Didayi,NA
-1721,gade1236,gda,Gade-Lohar,NA
-1722,galo1242,adl,Gallong,NA
-1723,garo1247,grt,Garo,NA
-1724,guja1253,gju,Gojri,NA
-1725,guja1252,guj,Gujarati,NA
-1726,bodo1267,gbj,Gutob,NA
-1727,halb1244,hlb,Halbi,NA
-1728,hind1269,hin,Hindi,NA
-1729,hooo1248,hoc,Ho,NA
-1730,irul1243,iru,Irula,NA
-1731,jaun1243,jns,Jaunsari,NA
-1732,juan1238,jun,Juang,NA
-1733,kang1280,xnr,Kangri,NA
-1734,nucl1305,kan,Kannada,NA
-1735,saur1248,saz,Kanigke:rgotti,NA
-1736,karb1241,mjw,Karbi (Mikir),NA
-1737,irul1243,iru,Kasaba,NA
-1738,kash1277,kas,Kashmiri,NA
-1739,jenn1240,xuj,Kattunaika,NA
-1740,khar1287,khr,Kharia,NA
-1741,khas1269,kha,Khasi,NA
-1742,khez1235,nkh,Khezha,NA
-1743,koda1255,kfa,Kod̩agu,NA
-1744,nort2699,kfb,Kolami,NA
-1745,kond1295,kfc,Kon̩d̩a or Kubi,NA
-1746,mudh1235,gau,Kon̩ekar Gadaba,NA
-1747,konk1267,knn,Konkani,NA
-1748,korr1238,kfd,Koraga,NA
-1749,kork1243,kfq,Korku,NA
-1750,kota1263,kfe,Kota,NA
-1751,koya1251,kff,Koya,NA
-1752,kuii1252,kxu,Kui,NA
-1753,kuma1273,kfy,Kumauni,NA
-1754,kuru1302,kru,Kurux,NA
-1755,kuvi1243,kxv,Kuvi,NA
-1756,lada1244,lbj,Ladakhi,NA
-1757,lamb1269,lmn,Lamani,NA
-1758,lepc1244,lep,Lepca,NA
-1759,loth1237,njh,Lotha,NA
-1760,lush1249,lus,Lushai,NA
-1761,mait1250,mai,Maithili,NA
-1762,mala1464,mal,Malayalam,NA
-1763,saur1249,mjt,Malto,NA
-1764,mani1292,mni,Manipuri,NA
-1765,maon1238,nbi,Mao-Naga,NA
-1766,mara1378,mar,Marathi,NA
-1767,miju1243,mxj,Mishmi,NA
-1768,miny1240,mrg,Mising,NA
-1769,moyo1238,nmo,Moyon,NA
-1770,mund1320,unr,Mundari,NA
-1771,naik1250,nit,Naiki,NA
-1772,nepa1254,npi,Nepali,NA
-1773,cent1990,ncb,Nicobarese,NA
-1774,pott1240,gdb,Ollari,NA
-1775,oriy1255,ory,Oriya,NA
-1776,pait1244,pck,Paite,NA
-1777,duru1236,pci,Parji,NA
-1778,patt1248,lae,Pat̩t̩an̩i,NA
-1779,peng1244,peg,Pengo,NA
-1780,panj1256,pan,Punjabi,NA
-1781,bond1245,bfw,Remo,NA
-1782,sans1269,san,Sanskrit,NA
-1783,sant1410,sat,Santali,NA
-1784,sumi1235,nsm,Sema,NA
-1785,shin1264,scl,Shina,NA
-1786,sind1272,snd,Sindhi,NA
-1787,sora1254,srb,Soːra,NA
-1788,tami1289,tam,Tamil,NA
-1789,tang1336,nmf,Tangkul Naga,NA
-1790,tase1235,nst,Tangsa,NA
-1791,telu1262,tel,Telugu,NA
-1792,thad1238,tcz,Thaadou,NA
-1793,toda1252,tcx,Toda,NA
-1794,kokb1239,trp,Tripuri,NA
-1795,tulu1258,tcy,Tulu,NA
-1796,ural1274,url,Urali,NA
-1797,urdu1245,urd,Urdu,NA
-1798,vaag1238,vaa,Vaagri Boli,NA
-1799,ravu1237,yea,Yerava,NA
-1800,yeru1240,yeu,Yerukala,NA
-1801,qawa1238,alc,Kawesqar,Kawesqar
-1802,mapu1245,arn,Mapudungun,NA
-1803,acha1250,aca,Achagua,NA
-1804,apur1254,apu,Apurinã,NA
-1805,araw1276,arw,Lokono,NA
-1806,asha1243,cni,Asháninka,NA
-1807,ajyi1238,cpc,Ashéninka,Apurucayali dialect
-1808,ashe1272,prq,Ashéninka,Perené dialect
-1809,pich1237,cpu,Ashéninka,Pichis dialect
-1810,ucay1237,cpb,Ashéninka,Ucayali-Yurúa dialect
-1811,bani1255,bwi,Baniwa,Central
-1812,bani1255,bwi,Baniwa,Rio Negro
-1813,bare1276,bae,Baré,NA
-1814,cabi1241,cbb,Cabiyarí,NA
-1815,caqu1242,cot,Caquinte,NA
-1816,cham1318,ccc,Chamicuro,NA
-1817,curr1243,kpc,Curripaco,NA
-1818,enaw1238,unk,Enawené-Nawé,NA
-1819,inap1243,inp,Iñapari,NA
-1820,guan1270,gqn,Kinikinao,NA
-1821,mach1268,mpd,Manchinere,NA
-1822,mach1267,mcb,Matsigenka,NA
-1823,mehi1240,mmh,Mehináku,NA
-1824,nant1250,cox,Nanti,NA
-1825,noma1263,not,Nomatsigenga,NA
-1826,pali1279,plu,Palikúr,NA
-1827,para1316,pbg,Paraujano,NA
-1828,pare1272,pab,Paresí,NA
-1829,piap1246,pio,Piapoco,NA
-1830,resi1247,rgr,Resígaro,NA
-1831,tari1256,tae,Tariana,NA
-1832,tere1279,ter,Terêna,NA
-1833,wapi1253,wap,Wapichana,NA
-1834,guar1293,gae,Warekena,NA
-1835,waur1244,wau,Waurá,NA
-1836,wayu1243,guc,Wayúu,NA
-1837,xiri1243,xir,Xiriâna,NA
-1838,yane1238,ame,Yánesha,NA
-1839,yavi1244,yvt,Yavitero,NA
-1840,yawa1261,yaw,Yawalapití,NA
-1841,yine1238,pib,Yine,NA
-1842,yucu1253,ycn,Yucuna,NA
-1843,baur1253,brg,Baure,NA
-1844,igna1246,ign,Ignaciano,NA
-1845,deni1241,dny,Dení,NA
-1846,jama1261,jaa,Jamamadí,Jamamadí
-1847,jama1261,jaa,Jarawara,Jarawara
-1848,culi1244,cul,Kulina,NA
-1849,paum1247,pad,Paumarí,NA
-1850,suru1263,swx,Suruahá,NA
-1851,cent2142,ayr,Aymara,Central dialect
-1852,jaqa1244,jqr,Jaqaru,NA
-1853,awac1239,kwi,Awa-Cuaiquer,NA
-1854,chac1249,cbi,Cha'palaa,NA
-1855,guam1248,gum,Guambiano,NA
-1856,colo1256,cof,Tsáfiki,NA
-1857,bora1263,boa,Bora,NA
-1858,mira1254,boa,Miraña,Miraña
-1859,muin1242,bmr,Muinane,NA
-1860,jebe1250,jeb,Shiwilu,NA
-1861,chay1248,cbt,Shawi,NA
-1862,akur1238,ako,Akurio,NA
-1863,apal1257,apy,Apalaí,NA
-1864,para1310,aap,"Arára, Pará",NA
-1865,baka1277,bkq,Bakairí,Eastern dialect
-1866,baka1277,bkq,Bakairí,Western dialect
-1867,gali1262,car,Carib,French Guiana dialect
-1868,gali1262,car,Carib,Venezuela dialect
-1869,gali1262,car,Carib,Suriname dialect
-1870,cari1279,cbd,Carijona,NA
-1871,hixk1239,hix,Hixkaryána,NA
-1872,ikpe1245,txi,Ikpeng,NA
-1873,akaw1239,ake,Ingarikó,NA
-1874,japr1238,jru,Japreria,NA
-1875,kaxu1237,kbb,Kaxuiâna,NA
-1876,kuik1246,kui,Kuikúro-Kalapálo,NA
-1877,macu1259,mbc,Macushi,NA
-1878,mapo1246,mcg,Mapoyo,NA
-1879,maqu1238,mch,Yekwana,NA
-1880,enap1235,pbh,Panare,NA
-1881,pemo1248,aoc,Pemon,Tarepang dialect
-1882,pemo1248,aoc,Pemon,Arekuna dialect
-1883,pemo1245,pev,Pémono,NA
-1884,trio1238,tri,Trió,NA
-1885,waim1253,atr,Waimiri-Atroarí,NA
-1886,waiw1244,waw,Waiwai,NA
-1887,waya1269,way,Wayana,NA
-1888,yaba1248,yar,Yabarana,NA
-1889,orow1243,orw,Oro Win,NA
-1890,wari1268,pav,Wari',NA
-1891,arhu1242,arh,Ika,NA
-1892,bari1297,mot,Barí,NA
-1893,chib1270,chb,Muisca,NA
-1894,chim1309,cbg,Chimila,NA
-1895,cofa1242,con,Cofán,NA
-1896,cogu1240,kog,Kogi,NA
-1897,bord1248,kvn,Border Kuna,NA
-1898,mala1522,mbp,Damana,NA
-1899,cent2150,tuf,Tunebo,Central dialect
-1900,woun1238,noa,Woun Meu,NA
-1901,embe1259,bdc,Emberá-Baudó,NA
-1902,embe1260,cto,Emberá-Catío,NA
-1903,embe1262,cmi,Emberá-Chamí,NA
-1904,nort2972,emp,Northern Emberá,NA
-1905,epen1239,sja,Epena,NA
-1906,puel1244,pue,Günün Yajich,NA
-1907,onaa1245,ona,Chon,NA
-1908,tehu1242,teh,Tehuelche,NA
-1909,coca1259,cod,Kokama-Kokamilla,NA
-1910,cuib1242,cui,Cuiba,NA
-1911,guah1255,guh,Guahibo,NA
-1912,guay1257,guo,Guayabero,NA
-1913,maca1259,mbn,Macaguán,NA
-1914,abip1241,axb,Abipon,NA
-1915,kadi1248,kbc,Kadiwéu,NA
-1916,moco1246,moc,Mocoví,NA
-1917,pila1245,plg,Pilagá,NA
-1918,toba1269,tob,Toba,Lañagashik dialect
-1919,toba1269,tob,Toba,Takshek dialect
-1920,amar1274,amr,Amarakaeri,NA
-1921,chol1284,cht,Cholón,NA
-1922,ando1256,ano,Andoke,NA
-1923,abis1238,ash,Aʔɨwa,NA
-1924,cams1241,kbh,Camsá,NA
-1925,cand1248,cbu,Candoshi-Shapra,NA
-1926,cayu1262,cyb,Cayubaba,NA
-1927,iran1263,irn,Mỹky,NA
-1928,iton1250,ito,Itonama,NA
-1929,leco1242,lec,Leco,NA
-1930,lule1238,ule,Lule,NA
-1931,moch1259,omc,Mochica,NA
-1932,movi1243,mzp,Movima,NA
-1933,muni1258,myr,Muniche,NA
-1934,paez1247,pbb,Páez,NA
-1935,puin1248,pui,Puinave,NA
-1936,taus1253,trr,Taushiro,NA
-1937,ticu1245,tca,Ticuna,NA
-1938,tini1245,tit,Tinigua,NA
-1939,trum1247,tpy,Trumai,NA
-1940,urar1246,ura,Urarina,NA
-1941,vile1241,vil,Vilela,NA
-1942,waor1240,auc,Waorani,NA
-1943,wara1303,wba,Warao,NA
-1944,yama1264,yag,Yahgan,NA
-1945,yura1255,yuz,Yurakaré,NA
-1946,achu1248,acu,Achuar-Shiwiar,NA
-1947,agua1253,agr,Aguaruna,NA
-1948,huam1247,hub,Huambisa,NA
-1949,shua1257,jiv,Shuar,NA
-1950,cacu1241,cbv,Kakua,NA
-1951,nuka1242,mbr,Nukak,NA
-1952,nucl1668,kav,Katukína,NA
-1953,apin1244,apn,Apinayé,NA
-1954,arik1265,ark,Arikapú,NA
-1955,boro1282,bor,Borôro,NA
-1956,cane1242,ram,Canela,NA
-1957,chiq1248,cax,Bésɨro,NA
-1958,para1315,gvp,Gavião do Pará,NA
-1959,guat1253,gta,Guató,NA
-1960,djeo1235,jbt,Jabutí,NA
-1961,kain1272,kgp,Kaingang,NA
-1962,kara1500,kpj,Karajá,NA
-1963,kaya1330,txu,Mebengokre,NA
-1964,krah1246,xra,Krahô,NA
-1965,kren1239,kqq,Krenak,NA
-1966,krik1239,xri,Krinkati-Timbira,NA
-1967,maxa1247,mbl,Maxakalí,NA
-1968,ofay1240,opy,Ofayé,NA
-1969,pana1307,kre,Panará,NA
-1970,para1315,gvp,Parkateje,NA
-1971,puri1262,prr,Puri,NA
-1972,rikb1245,rkb,Rikbaktsa,NA
-1973,suya1243,suy,Suyá,NA
-1974,suya1243,suy,Tapayuna,Tapayuna
-1975,umot1240,umo,Umotína,NA
-1976,xava1240,xav,Xavánte,NA
-1977,xere1240,xer,Xerénte,NA
-1978,xokl1240,xok,Xokleng,NA
-1979,fuln1247,fun,Yaathe,NA
-1980,saop1235,zkp,"Kaingáng, São Paulo",NA
-1981,iyow1239,crq,Chorote,Iyo'wujwa and Iyowa'ja dialects
-1982,maca1260,mca,Maka,NA
-1983,niva1238,cag,Chulupí,NA
-1984,wich1264,mzh,Wichí,Mision la Paz dialect
-1985,call1235,caw,Callawaya,NA
-1986,mose1249,cas,Mosetén de Covendo,Mosetén de Covendo
-1987,mose1249,cas,Mosetén de Santa Ana,Mosetén de Santa Ana
-1988,mose1249,cas,Tsimané,Tsimané
-1989,pira1253,myp,Pirahã,NA
-1990,daww1239,kwa,Dâw,NA
-1991,hupd1244,jup,Hup,NA
-1992,nade1244,mbj,Nadëb,NA
-1993,yuhu1238,yab,Yuhup,NA
-1994,khit1238,nab,Kithaulhu,Kithaulhu
-1995,latu1238,ltn,Latunde,NA
-1996,mama1278,wmd,Mamaindé,NA
-1997,saba1268,sae,Sabanê,NA
-1998,amah1246,amc,Amahuaca,NA
-1999,shar1245,mcd,Arara do Acre,NA
-2000,capa1241,kaq,Capanahua,NA
-2001,cash1251,cbr,Cashibo-Cacataibo,NA
-2002,chac1251,cao,Chácobo,NA
-2003,cash1254,cbs,Kashinawa,NA
-2004,pano1254,knt,Katukína,Panoan
-2005,kaxa1239,ktx,Kaxararí,NA
-2006,koru1247,xor,Korubo,NA
-2007,mati1255,mpq,Matís,NA
-2008,mats1244,mcf,Matsés,NA
-2009,nuku1263,nuc,Nukini,NA
-2010,pano1255,pno,Panobo,NA
-2011,poya1241,pyn,Poyanáwa,NA
-2012,yami1256,yaa,Saynawa,NA
-2013,shan1283,swo,Shanenawa,Shanenawa
-2014,shar1245,mcd,Sharanawa,NA
-2015,ship1255,shp,Shipibo,NA
-2016,yami1256,yaa,Yaminawa,NA
-2017,yawa1260,ywn,Yawanawa,NA
-2018,yora1241,mts,Yora,NA
-2019,yagu1244,yad,Yagua,NA
-2020,yame1242,yme,Yameo,NA
-2021,coro1247,qwa,Ancash Quechua,Sihuas and Corongo dialects
-2022,caja1238,qvc,Cajamarca Quechua,NA
-2023,chac1250,quk,Chachapoyas Quechua,NA
-2024,cusc1236,quz,Cuzco-Collao Quechua,NA
-2025,lamb1276,quf,Ferreñafe Quechua,NA
-2026,imba1240,qvi,Imbabura Quichua,NA
-2027,inga1252,inb,Inga,Highland dialect
-2028,jung1240,inj,Inga,Jungle dialect
-2029,jauj1238,qxw,Jauja-Huanca Quechua,NA
-2030,nort2980,qvn,North Junín Quechua,San Pedro de Cajas dialect
-2031,nort2980,qvn,North Junín Quechua,Tarma dialect
-2032,ayac1239,quy,Ayacucho Quechua,NA
-2033,nort2976,qul,Bolivian Quechua,Northern and Southern dialects
-2034,hual1241,qub,Huallaga Huánuco Quechua,NA
-2035,nort2979,qxn,Huaylas-Conchucos Quechua,NA
-2036,sanm1289,qvs,San Martin Quechua,NA
-2037,nort2980,qvn,Yaru Quechua,Yaru Quechua
-2038,sant1432,qus,Santiago del Estero Quechua,NA
-2039,napo1242,qvo,Napo Quichua,NA
-2040,sala1272,qxl,Salasca Quechua,NA
-2041,tena1240,quw,Tena Quechua,NA
-2042,piar1243,pid,Piaroa,NA
-2043,sali1298,slc,Sáliba,NA
-2044,arao1248,aro,Araona,NA
-2045,cavi1250,cav,Cavineña,NA
-2046,esee1248,ese,Ese Ejja,Bolivia
-2047,esee1248,ese,Ese Eja,Peru
-2048,reye1240,rey,Reyesano,NA
-2049,taca1256,tna,Tacana,NA
-2050,bara1380,bsn,Barasana-Eduria,NA
-2051,cube1242,cub,Kubeo,NA
-2052,desa1247,des,Desano,NA
-2053,guan1269,gvc,Wanano,NA
-2054,cara1272,cbc,Karapanã,NA
-2055,kore1283,coe,Koreguaje,NA
-2056,macu1260,myy,Macuna,NA
-2057,orej1242,ore,Máíhɨki,NA
-2058,pira1254,pir,Piratapuyo,NA
-2059,seco1241,sey,Secoya,NA
-2060,sion1247,snn,Siona,NA
-2061,siri1274,sri,Siriano,NA
-2062,tani1257,tnc,Tanimuca-Retuarã,NA
-2063,tatu1247,tav,Tatuyo,NA
-2064,tuca1252,tuo,Tucano,NA
-2065,tuyu1244,tue,Tuyuca,NA
-2066,waim1255,bao,Waimaha,NA
-2067,yuru1263,yui,Yurutí,NA
-2068,ache1246,guq,Aché,NA
-2069,akun1241,aqz,Akuntsú,NA
-2070,amun1246,adw,Amundava,NA
-2071,apia1248,api,Apiaká,NA
-2072,araw1273,awt,Araweté,NA
-2073,xing1248,asn,Asurini do Xingú,NA
-2074,toca1235,asu,Asuriní do Tocantins,NA
-2075,avac1239,avv,Avá-Canoeiro,NA
-2076,awet1244,awe,Awetí,NA
-2077,east2555,gui,Chiriguano,Chané dialect
-2078,east2555,gui,Chiriguano,Izoceño dialect
-2079,emer1243,eme,Emerillon,NA
-2080,gavi1246,gvo,Gavião do Jiparaná,NA
-2081,guaj1256,gvj,Guajá,NA
-2082,guaj1255,gub,Guajajára,NA
-2083,mbya1239,gun,Mbyá,NA
-2084,para1311,gug,Paraguayan Guaraní,NA
-2085,guar1292,gyr,Guarayu,NA
-2086,juma1249,jua,Júma,NA
-2087,juru1256,jur,Jurúna,NA
-2088,urub1250,urb,Kaapor,NA
-2089,kaiw1246,kgk,Kaiwá,NA
-2090,kama1373,kay,Kamayurá,NA
-2091,kari1311,ktn,Karitiâna,NA
-2092,karo1306,arr,Karo,NA
-2093,kaya1329,kyz,Kayabí,NA
-2094,kuru1309,kyr,Kuruáya,NA
-2095,maku1278,mpu,Makuráp,NA
-2096,mund1330,myu,Mundurukú,NA
-2097,nhen1239,yrl,Nheengatú,NA
-2098,omag1248,omg,Omagua,NA
-2099,pait1247,pta,Pai Tavytera,NA
-2100,para1312,pak,Parakanã,NA
-2101,saki1248,skf,Sakirabiá,NA
-2102,sate1243,mav,Sateré-Mawé,NA
-2103,suru1262,sru,Suruí,NA
-2104,tapi1253,tpj,Tapieté,NA
-2105,tapi1254,taf,Tapirapé,NA
-2106,temb1276,tqb,Tembé,NA
-2107,tenh1241,pah,Tenharim,NA
-2108,tupa1250,tpr,Tuparí,NA
-2109,tupi1273,tpn,Tupinambá,NA
-2110,urue1240,urz,Uru-Eu-Wau-Wau,NA
-2111,waya1270,oym,Wayampi,Alto Jarí dialect
-2112,waya1270,oym,Wayampi,Ampari dialect
-2113,xeta1241,xet,Xetá,NA
-2114,xipa1240,xiy,Xipaya,NA
-2115,zoee1240,pto,Zo'é,NA
-2116,siri1273,srq,Sirionó,NA
-2117,yuqu1240,yuq,Yuqui,NA
-2118,aika1237,tba,Aikanã,NA
-2119,mato1253,axg,Arára do Mato Grosso,NA
-2120,yuwa1244,yau,Hoti,NA
-2121,kano1245,kxo,Kanoé,NA
-2122,kari1255,kzw,Karirí-Xocó,Dzubukuá dialect
-2123,kunz1244,kuz,Kunza,NA
-2124,kwaz1243,xwa,Kwaza,NA
-2125,pume1238,yae,Pumé,NA
-2126,chip1262,cap,Chipaya,NA
-2127,uruu1244,ure,Uru,NA
-2128,mini1256,hto,"Huitoto, Minica",NA
-2129,muru1274,huu,"Huitoto, Murui",NA
-2130,nonu1241,noj,Nonuya,NA
-2131,ocai1244,oca,Ocaina,NA
-2132,nina1238,shb,Ninam,NA
-2133,sanu1240,xsu,Sanumá,NA
-2134,yano1262,wca,Yanomámi,NA
-2135,yano1261,guu,Yanomamö,NA
-2136,cham1315,ceg,Chamacoco,NA
-2137,ayor1240,ayo,Ayoreo,NA
-2138,ando1255,anb,Andoa,NA
-2139,arab1268,arl,Arabela,NA
-2140,iqui1243,iqu,Iquito,NA
-2141,zapa1253,zro,Záparo,NA
-2142,chir1286,nhd,Nhandeva,NA
-2143,pisa1245,mis,Pisamira,NA
-2144,qawa1238,alc,Alacalufe,Southern
-2145,cent2142,ayr,Aymara,Chilean dialect
-2146,yano1262,wca,Yanomama of Papiu,Yanomama of Papiu
-2147,yano1262,wca,Yanomae of Demini/Tototopi,Yanomae of Demini/Tototopi
-2148,sanu1240,xsu,Sanömá of Kolulu,Sanömá of Kolulu
-2149,yano1261,guu,Yanomamɨ of Parawau,Yanomamɨ of Parawau
-2150,yaro1235,yro,Yãroamë of Serra do Pacu/Ajarani,NA
-2151,yano1261,guu,Yanomamɨ of Venezuela,Yanomamɨ of Venezuela
-2152,paca1246,pcp,Pacahuara,NA
-2153,yukp1241,yup,Yukpa,Macoíta
-2154,yukp1241,yup,Yukpa,de Irapa
-2155,trin1274,trn,Trinitario,NA
-2156,amha1245,amh,Amharic,Gondar
-2157,stan1318,arb,Arabic,"Safad, Beirut, Damascus, Kuwait"
-2158,east2379,aer,"Arrernte, Central",Alice Springs
-2159,assa1263,asm,Assamese,Eastern districts of Assam (North Eastern state of India); Jorhat
-2160,bard1255,bcj,Bardi,One Arm Point
-2161,basq1248,eus,Basque,Goizueta Basque
-2162,beng1280,ben,Bengali,Bangladeshi Standard (spoken in Dhaka and other urban aread of Bangladesh)
-2163,bulg1262,bul,Bulgarian,Standard Bulgarian
-2164,nucl1310,mya,Burmese,Rangoon
-2165,hakk1236,hak,Hakka Chinese,"Kejia (Hakka Chinese, Meijiang, Meixian Hakka)"
-2166,yuec1235,yue,Chinese,Hong Kong Cantonese
-2167,dani1285,dan,Danish,NA
-2168,sout2832,dik,Luanyjang Dinka,"Luanyjang Dinka, part of the Rek dialect group"
-2169,dutc1256,nld,Dutch,Belgian Standard Dutch
-2170,dutc1256,nld,Dutch,the dialect of Hasselt (belongs to the West-Limburgian dialect group)
-2171,dutc1256,nld,Dutch,the dialect of Maastricht (south-eastern dialect group; Central Limburgian)
-2172,dutc1256,nld,Dutch,"the Dutch dialect of Weert (West-Limburgian), rural variety (not Stadsweerts)"
-2173,dutc1256,nld,Dutch,"the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects, subclassification: Dommellands)"
-2174,dutc1256,nld,Dutch,the Flemish-Brabant dialect of Orsmaal-gussenhoven
-2175,stan1293,eng,English (American),Western and Mid-Western US; Southern California
-2176,stan1293,eng,American English,Southeastern Michigan
-2177,stan1293,eng,English (Australian),NA
-2178,stan1293,eng,English (British),Liverpool
-2179,stan1293,eng,English (New Zealand),Pākehā
-2180,stan1293,eng,English (British),Tyneside English (spoken in Newcastle)
-2181,esto1258,ekk,Estonian,Standard Estonian (Central Estonia)
-2182,stan1290,fra,French,French (Parisian speaker)
-2183,nucl1302,kat,georgian,Standard (or literary) georgian (Kartluri dialect)
-2184,stan1295,deu,German,NA
-2185,swis1247,gsw,Swiss German,Zurich
-2186,mode1248,ell,Greek,Cypriot Greek (Nicosia)
-2187,mode1248,ell,Greek,Standard Modern Greek (Athenian)
-2188,haus1257,hau,Hausa,"(Standard) (Kano) Hausa (spoken in Kano, Nigeria)"
-2189,hebr1245,heb,Hebrew,Oriental Dialect
-2190,hind1269,hin,Hindi,"Standard Hindi (as spoken in Varanasi, Lucknow, Delhi etc.)"
-2191,hung1274,hun,Hungarian,Educated colloquial Hungarian (as spoken in Budapest of the 1990s)
-2192,nucl1417,ibo,Igbo,Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland)
-2193,iris1253,gle,Irish,NA
-2194,ladi1251,lad,Judeo-Spanish,Istanbul Judeo-Spanish
-2195,ital1282,ita,Italian,Standard Italian
-2196,nucl1643,jpn,Japanese,Japanese (Tokyo or other areas with similar pitch accent systems)
-2197,kore1280,kor,Korean,Standard Korean (spoken in and around Seoul)
-2198,kuna1268,kun,Kunama,Marda (similar to Barka)
-2199,ersu1241,ers,Lizu,"Lizu (as spoken in Muli county, Kala Township)"
-2200,luxe1241,ltz,Luxembourgish,Standard central Luxembourgish
-2201,besi1244,mhe,Mah Meri,"Mah Meri (as spoken in Kampong Orang Asli Bukit Bangkong, Sepang, Malaysie)"
-2202,mafe1237,mkv,Mavea,Mavea
-2203,nara1262,nrb,Nara,Higir
-2204,nepa1254,npi,Nepali,Standard (eastern)
-2205,west2369,pes,Persian,NA
-2206,port1283,por,Portuguese (European),Lisbon
-2207,port1283,por,Portuguese (Brazilian),São Paulo
-2208,cent2092,sml,Central Sama,Central Sama (Siasi)
-2209,slov1269,slk,Slovak,Standard Slovak (Bratislava / Kos̆ice)
-2210,stan1288,spa,Spanish,Castilian Spanish
-2211,sumi1235,nsm,Sumi,Central Standard dialect (Satakha and Zunheboto)
-2212,taus1251,tsg,Tausug (Suluk),"Jolo, Philippines"
-2213,timn1235,tem,Temne,Yoni dialect and North-Western dialect of Temne (town of Kambia in the Northern Province of Sierra Leone)
-2214,tera1251,ttr,Tera,"Tera (speakers from the towns Deba, Hinna, Difa, Zambuk and Lubo)"
-2215,thai1261,tha,Thai,Standard Thai (combinative style)
-2216,sanm1298,trq,Itunyoso Trique,"Itunyoso Trique (spoken in the town of San Martín Itunyoso, Oaxaca, Mexico)"
-2217,nucl1301,tur,Turkish,Standard Turkish (Istanbul)
-2218,isth1244,zai,Isthmus (Juchitán) Zapotec,"Isthmus (Juchitán) Zapotec (ʼzapoteco de la planicie costeraʼ; spoken on the Isthmus of Tehuantepec, Oaxaca, Mexico; typical of the city of Juchitán de Zaragoza)"
-2219,taji1245,tgk,Bukharan Tajik,Bukharan
-2220,kera1255,ker,Kera,Standard
-2221,kumz1235,zum,Kumzari,"Kumzari spoken in Khasab, Oman"
-2222,coco1260,coa,Cocos Malay,"Spoken in Kampung Cocos in the Lahad Datu district of Sabah, Malaysia"
-2223,stan1306,zsm,Standard Malay,Standard Malay (Brunei)
-2224,plau1238,pdt,Mennonite Plautdietsch,NA
-2225,keda1250,kxd,Kedayan,NA
-2226,pitj1243,pjt,Pitjantjatjara,NA
-2227,sout2672,psi,Southeastern Pashayi,NA
-2228,vlax1238,rmy,greek Thrace Xoraxane Romane,NA
-2229,tach1250,shi,Tashlhiyt Berber,NA
-2230,shix1238,sxg,Xumi,Lower Xumi
-2231,shix1238,sxg,Xumi,Upper Xumi
-2232,uppe1400,sxu,Upper Saxon,Chemnitz dialect
-2233,viet1252,vie,Vietnamese,Hanoi Vietnamese
-2234,pite1240,sje,Pite Saami,NA
-2235,nort2671,sme,Northern Saami,Guovdageaidnu
-2236,belh1239,byw,Belhare,NA
-2237,hunz1247,huz,Hunzib,NA
-2238,even1259,evn,Evenki,NA
-2239,hmon1264,hnj,Hmong Njua,Hmong Njua (Green Hmong)
-2240,udmu1245,udm,Udmurt,Udmurt (Standard)
-2241,east2328,mhr,Meadow Mari,Meadow Mari (Morki-Sernur)
-2242,east2337,yuy,Eastern Yugur,NA
-2243,moks1248,mdf,Moksha,Moksha (Standard)
-2244,lith1251,lit,Lithuanian,Lithuanian (West Aukštaitian)
-2245,moks1248,mdf,Moksha,Moksha (Southwest)
-2246,laoo1244,lao,Lao,Lao (Vientiane)
-2247,rajb1243,rjs,Rājbanshi,NA
-2248,esto1258,ekk,Estonian,Estonian (Standard)
-2249,bakh1245,bqi,Bakhtiari,NA
-2250,cent1972,ckb,Kurdish,Kurdish (Sorani)
-2251,ingu1240,inh,Ingush,NA
-2252,stan1293,eng,English,English (RP)
-2253,dupa1235,duo,Dupaningan Agta,NA
-2254,lazz1240,lzz,Laz,Laz (Borçka)
-2255,dolg1241,dlg,Dolgan,NA
-2256,dark1243,khk,Darkhat,NA
-2257,jiar1240,jya,Caodeng rGyalrong,NA
-2258,juan1238,jun,Juang,NA
-2259,sout2697,azb,South Azerbaijani,South Azerbaijani (Tabriz)
-2260,kild1236,sjd,Kildin Saami,NA
-2261,russ1263,rus,Russian,Russian (Standard)
-2262,iris1253,gle,Irish,Irish (Gaoth Dobhair)
-2263,lowa1242,loy,gLo Tibetan,NA
-2264,stod1241,sbu,Tod Tibetan,NA
-2265,dani1285,dan,Danish,NA
-2266,taji1245,tgk,Tajik,Tajik (Bukhara)
-2267,yong1270,nru,Yongning Na,Yongning Na (Mosuo)
-2268,bese1243,udm,Beserman,Beserman (Šamardan)
-2269,stan1290,fra,French,NA
-2270,ishk1246,isk,Ishkashimi,NA
-2271,khan1273,kca,Northern Khanty,Northern Khanty (Sob Obdorsk)
-2272,swis1247,gsw,Zurich German,NA
-2273,west2392,mrj,Hill Mari,Hill Mari (Kozmodemjansk)
-2274,czec1258,ces,Czech,Czech (Bohemian)
-2275,malt1254,mlt,Maltese,Maltese (Standard)
-2276,chec1245,che,Chechen,Chechen (Pẋarçxoy Äqqiy)
-2277,nucl1305,kan,Kannada,Kannada (Standard)
-2278,mira1251,mwl,Mirandese,NA
-2279,khan1273,kca,Northern Khanty,Northern Khanty (Polui Obdorsk)
-2280,tsha1245,tsj,Tshangla,NA
-2281,chal1275,cld,Modern Aramaic,Modern Aramaic (Northeastern)
-2282,lith1251,lit,Lithuanian,Lithuanian (North Samogitian)
-2283,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-S)
-2284,jude1256,jdt,Juhuri,NA
-2285,ladi1251,lad,Judaeo-Spanish,Judaeo-Spanish (Beiruti)
-2286,nort2745,ykg,Tundra Yukaghir,NA
-2287,kore1280,kor,Korean,Korean (Seoul)
-2288,even1260,eve,Even,Even (Ola)
-2289,munj1244,mnj,Munji,NA
-2290,brah1256,brh,Brahui,Brahui (Jahlawān)
-2291,nauk1242,ynk,Naukan Yupik,NA
-2292,even1259,evn,Solon,NA
-2293,kuvi1243,kxv,Kuvi,NA
-2294,thak1245,ths,Thakali,NA
-2295,mund1320,unr,Mundari,NA
-2296,nort2697,azj,North Azerbaijani,North Azerbaijani (Shirvan)
-2297,itel1242,itl,Itelmen,NA
-2298,puxi1242,jih,Puxi,NA
-2299,bujh1238,byh,Bhujel,NA
-2300,lazz1240,lzz,Laz,Laz (Pazar)
-2301,kang1281,kxs,Kangjia,NA
-2302,mait1250,mai,Maithili,Maithili (Madhubani)
-2303,stan1288,spa,Spanish,Spanish (Murcian)
-2304,roma1326,roh,Vallader Romansh,NA
-2305,bond1245,bfw,Remo,Remo (Hills variety)
-2306,balt1258,bft,Balti,Balti (Kharkoo)
-2307,sher1255,xsr,Solu Sherpa,Solu Sherpa (Hile)
-2308,stan1288,spa,Spanish,Spanish (Castilian)
-2309,yuec1235,yue,Yue Chinese,Yue Chinese (Hong Kong Cantonese)
-2310,kaba1278,kbd,Kabardian,Kabardian (Baksan)
-2311,lezg1247,lez,Lezgian,Lezgian (İsmayıllı)
-2312,daur1238,dta,Daur,NA
-2313,huml1238,hut,Humla Bhotia,NA
-2314,nort2741,tts,Northeastern Thai,Northeastern Thai (Nong Khai)
-2315,dhiv1236,div,Dhivehi,Dhivehi (Malé)
-2316,lith1251,lit,Lithuanian,Lithuanian (West Samogitian)
-2317,russ1264,bxr,Buriat,Buriat (Standard)
-2318,kara1467,kaa,Karakalpak,NA
-2319,lahu1253,lhu,Lahu,Lahu (Black)
-2320,laoo1244,lao,Lao,Lao (Chieng Khouang)
-2321,nort2646,pbu,Yousafzai Pashto,Yousafzai Pashto (Peshāwar)
-2322,cent1973,pst,Wazirwola,Wazirwola (North Wazīrī)
-2323,hakk1236,hak,Hakka Chinese,NA
-2324,osse1243,oss,Iron Ossetic,Iron Ossetic (Upper Alagir)
-2325,ligu1248,lij,Ligurian,Ligurian (Miogliola)
-2326,voti1245,vot,Votic,Votic (Jõgõperä)
-2327,kham1282,khg,Rgyalthang Tibetan,NA
-2328,kham1282,khg,Brag-g.yab Tibetan,NA
-2329,dido1241,ddo,Tsez,Tsez (Asax)
-2330,wymy1235,wym,Wymysorys,NA
-2331,gaga1249,gag,Gagauz,Gagauz (Standard)
-2332,nort2647,pbu,Northwestern Pashto,NA
-2333,sout2746,sou,Southern Tai,Southern Tai (Ko Samui)
-2334,friu1240,fur,Friulian,NA
-2335,lakk1252,lbe,Lak,Lak (Kumux)
-2336,kuni1268,xug,Kunigami,Kunigami (Nakijin)
-2337,luxe1241,ltz,Luxembourgish,NA
-2338,nucl1310,mya,Burmese,Burmese (Rangoon)
-2339,saur1249,mjt,Malto,NA
-2340,basq1248,eus,Basque,Basque (Baztan)
-2341,lazz1240,lzz,Laz,Laz (Ardeşen)
-2342,nepa1254,npi,Nepali,NA
-2343,rusy1239,rue,Rusyn,Rusyn (Lemko)
-2344,guru1261,gvr,Gurung,Gurung (Western)
-2345,west2368,bgn,Western Balochi,Western Balochi (Lāšārī)
-2346,baim1244,bqh,Baima,NA
-2347,besi1244,mhe,Mah Meri,NA
-2348,west2368,bgn,Western Balochi,Western Balochi (Southern Raxšānī)
-2349,adyg1241,ady,Adyghe,NA
-2350,dakp1242,dka,Northern Cuona,NA
-2351,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-Ch)
-2352,lizu1234,mis,Lizu,NA
-2353,udmu1245,udm,Udmurt,Udmurt (Udmurt Tašly)
-2354,bett1235,xub,Betta Kurumba,NA
-2355,kumy1244,kum,Kumyk,NA
-2356,chan1310,chx,Chantyal,NA
-2357,bhoj1244,bho,Bhojpuri,NA
-2358,gheg1238,aln,Gheg Albanian,Gheg Albanian (North-Eastern)
-2359,hooo1248,hoc,Ho,Ho (Mayurbhanj)
-2360,rawa1265,raw,Rawang,Rawang (Mutwang)
-2361,saek1240,skb,Saek,NA
-2362,chuk1273,ckt,Chukchi,NA
-2363,mace1250,mkd,Macedonian,Macedonian (Standard)
-2364,pare1266,pcj,Gorum,NA
-2365,taus1251,tsg,Tausug,Tausug (Jolo)
-2366,lada1244,lbj,Ladakhi,Ladakhi (Leh)
-2367,shan1277,shn,Shan,Shan (Luxi)
-2368,bulg1262,bul,Bulgarian,Bulgarian (Standard)
-2369,spit1240,spt,Spiti Tibetan,NA
-2370,gily1242,niv,Nivkh,Nivkh (West Sakhalin)
-2371,lazz1240,lzz,Laz,Laz (Hopa)
-2372,nort2686,atv,Northern Altai,Northern Altai (Kumandy)
-2373,atay1247,tay,Atayal,NA
-2374,luuu1242,khb,Lue,Lue (Chieng Hung)
-2375,arag1245,arg,Aragonese,Aragonese (Chistabino)
-2376,khan1273,kca,Northern Khanty,Northern Khanty (Kazym)
-2377,brah1256,brh,Brahui,Brahui (Sarāwān)
-2378,faro1244,fao,Faroese,NA
-2379,dzal1238,dzl,Southern Cuona,NA
-2380,tibe1272,bod,Lhasa Tibetan,NA
-2381,basq1250,eus,Zuberoan Basque,NA
-2382,kirg1245,kir,Kyrgyz,Kyrgyz (Standard)
-2383,darm1243,drd,Darma,NA
-2384,komi1277,kom,Yodzyak Komi,NA
-2385,laoo1244,lao,Lao,Lao (Luang Prabang)
-2386,puoc1238,puo,Ksingmul,NA
-2387,telu1262,tel,Telugu,Telugu (Standard)
-2388,east2773,mis,Dolakha Newar,NA
-2389,osse1243,oss,Iron Ossetic,Iron Ossetic (Urs-Tual)
-2390,bats1242,bbl,Bats,NA
-2391,hela1238,scp,Yolmo,NA
-2392,svan1243,sva,Svan,Svan (Upper Bal)
-2393,kyer1238,kgy,Kyirong Tibetan,NA
-2394,dzon1239,dzo,Dzongkha,NA
-2395,kett1243,ket,Ket,Ket (Kellog)
-2396,wayu1241,vay,Hayu,NA
-2397,paiw1248,pwn,Paiwan,Paiwan (Kulalao)
-2398,stan1295,deu,German,German (Standard)
-2399,east2295,ydd,Eastern Yiddish,Eastern Yiddish (Central)
-2400,udmu1245,udm,Udmurt,Udmurt (Bavly)
-2401,kaba1278,kbd,Kabardian,Kabardian (Ulyap)
-2402,nene1249,yrk,Tundra Nenets,Tundra Nenets (Western)
-2403,kara1464,kdr,Karaim,Karaim (Northwestern)
-2404,varl1238,vav,Varli,Varli (Dogri)
-2405,dutc1256,nld,Dutch,NA
-2406,wels1247,cym,Welsh,Welsh (Llanwrtyd)
-2407,japh1234,jya,Japhug,NA
-2408,osse1243,oss,Iron Ossetic,Iron Ossetic (Roka)
-2409,ming1252,xmf,Mingrelian,Mingrelian (Senaki)
-2410,lazz1240,lzz,Laz,Laz (Arhavi)
-2411,tibe1272,bod,Drokpa Tibetan,Drokpa Tibetan (Zhongba)
-2412,alut1245,alr,Alutor,NA
-2413,east2328,mhr,Eastern Mari,NA
-2414,nort2741,tts,Northeastern Thai,Northeastern Thai (Loei)
-2415,sikk1242,sip,Denjongka,NA
-2416,nucl1301,tur,Turkish,Turkish (Standard)
-2417,ming1252,xmf,Mingrelian,Mingrelian (Zugdidi-Samurzaqano)
-2418,yagn1238,yai,Yaghnobi,NA
-2419,basq1248,eus,Basque,Basque (Arbizu)
-2420,zhon1235,mis,Zhongu Tibetan,NA
-2421,tibe1272,bod,Dingri Tibetan,NA
-2422,nort2741,tts,Northeastern Thai,Northeastern Thai (Roi Et)
-2423,shan1277,shn,Shan,Shan (Hsi Paw)
-2424,osse1243,oss,Iron Ossetic,Iron Ossetic (Standard)
-2425,stan1289,cat,Catalan,Catalan (Southern Valencian)
-2426,nyaw1245,nyw,Nyaw,Nyaw (Uthen)
-2427,ital1282,ita,Italian,NA
-2428,nucl1302,kat,Georgian,NA
-2429,nort2722,cng,Northern Qiang,Northern Qiang (Yadu)
-2430,cebu1242,ceb,Cebuano,NA
-2431,cent1973,pst,Wazirwola,Wazirwola (South Wazīrī)
-2432,osse1243,oss,Iron Ossetic,Iron Ossetic (Alagir)
-2433,khak1248,kjh,Khakas,Khakas (Standard)
-2434,vach1239,mis,Eastern Khanty,Eastern Khanty (Vakh)
-2435,gata1239,gaq,Gtaʔ,NA
-2436,ming1252,xmf,Mingrelian,Mingrelian (Martvili)
-2437,sind1272,snd,Sindhi,Sindhi (Vicholi)
-2438,arbe1236,aae,Arbëresh Albanian,Arbëresh Albanian (Kundisa)
-2439,kurt1248,xkz,Kurtoep,NA
-2440,kara1474,kpt,Tukita,NA
-2441,norw1258,nor,Norwegian,Norwegian (Standard Østnorsk)
-2442,sout2679,vro,Võro,NA
-2443,roma1327,ron,Romanian,Romanian (Standard)
-2444,yaku1245,sah,Sakha,Sakha (Standard)
-2445,nort2699,kfb,Kolami,Kolami (Wardha)
-2446,kare1335,krl,Karelian,Karelian (North)
-2447,slov1269,slk,Slovak,Slovak (Standard)
-2448,livv1244,liv,Livonian,Livonian (Vidzeme)
-2449,hebr1245,heb,Israeli Hebrew,NA
-2450,fore1274,mis,Forest Nenets,NA
-2451,east2347,taj,Tamang,Tamang (Eastern)
-2452,guja1252,guj,Gujarati,Gujarati (Standard)
-2453,miya1259,mvi,Miyako,Miyako (Ogami)
-2454,maga1260,mag,Magahi,NA
-2455,slov1268,slv,Slovene,Slovene (Standard)
-2456,puri1258,prx,Purki,NA
-2457,mand1415,cmn,Standard Chinese,Standard Chinese (Beijing)
-2458,mode1248,ell,Greek,Greek (Standard)
-2459,kama1351,xas,Kamassian,NA
-2460,komi1268,kpv,Komi-Zyrian,Komi-Zyrian (Syktyvkar)
-2461,ngan1291,nio,Nganasan,Nganasan (Avam)
-2462,viet1252,vie,Vietnamese,Vietnamese (Hanoi)
-2463,dhim1246,dhi,Dhimal,NA
-2464,mong1331,mon,Mongolian,Mongolian (Khalkha)
-2465,andi1255,ani,Andi,NA
-2466,urdu1245,urd,Urdu,NA
-2467,avar1256,ava,Avar,Avar (Chadakolob)
-2468,abkh1244,abk,Abkhaz,Abkhaz (Abzhywa)
-2469,fore1265,enf,Forest Enets,NA
-2470,west2354,fry,Frisian,Frisian (West)
-2471,taid1249,tyr,Tay Daeng,NA
-2472,sout2746,sou,Southern Tai,Southern Tai (Surat)
-2473,elfd1234,ovd,Elfdalian,NA
-2474,chen1255,cde,Nyinpa Cone,NA
-2475,mans1258,mns,Northern Mansi,Northern Mansi (Sośva)
-2476,osse1243,oss,Iron Ossetic,Iron Ossetic (Ksani)
-2477,dong1285,sce,Dongxiang,NA
-2478,occi1239,oci,Occitan,Occitan (Gascon)
-2479,panj1256,pan,Panjabi,Panjabi (Eastern)
-2480,czec1258,ces,Czech,Czech (Moravian)
-2481,kond1303,knd,Konda,NA
-2482,nene1249,yrk,Tundra Nenets,Tundra Nenets (Central-Eastern)
-2483,sich1238,iii,Nuosu,Nuosu (Black Yi)
-2484,nort2641,kmr,Northern Kurdish,Northern Kurdish (Kurmanji)
-2485,selk1253,sel,Taz Selkup,NA
-2486,nort2722,cng,Northern Qiang,Northern Qiang (Hongyan)
-2487,arbe1236,aae,Arbëresh Albanian,Arbëresh Albanian (Hora e Arbëreshëvet)
-2488,lith1251,lit,Lithuanian,Lithuanian (South Samogitian)
-2489,kham1282,khg,Nangchenpa Tibetan,NA
-2490,veps1250,vep,Veps,Veps (Šimozero)
-2491,merg1238,tvn,Myeik Burmese,NA
-2492,nort2741,tts,Northeastern Thai,Northeastern Thai (Nakhon Phanom)
-2493,stan1325,lvs,Latvian,Latvian (Standard)
-2494,ters1235,sjt,Ter Saami,NA
-2495,oriy1255,ory,Oriya,NA
-2496,nort2741,tts,Northeastern Thai,Northeastern Thai (Ubon)
-2497,pite1240,sje,Pite Saami,NA
-2498,east2304,bgp,Eastern Hill Balochi,NA
-2499,serb1264,srp,Serbian,Serbian (Standard Ekavian)
-2500,bash1264,bak,Bashkir,Bashkir (Standard)
-2501,tuuu1240,mjg,Mongghul,Mongghul (Huzhu Monguor)
-2502,shum1243,scu,Labrang Tibetan,NA
-2503,ukra1253,ukr,Ukrainian,Ukrainian (Standard)
-2504,lowa1242,loy,South Mustang Tibetan,South Mustang Tibetan (Jharkhot)
-2505,scot1243,sco,Scots,Scots (Northern)
-2506,east2328,mhr,Meadow Mari,Meadow Mari (Joškar-Ola)
-2507,shan1277,shn,Shan,Shan (Zhe Fang)
-2508,sind1272,snd,Sindhi,Sindhi (Jacobabad)
-2509,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-Sh)
-2510,mehr1241,gdq,Mehri,Mehri (Oman)
-2511,khar1287,khr,Kharia,Kharia (Dudh)
-2512,chec1245,che,Chechen,Chechen (Şaroy)
-2513,taga1270,tgl,Tagalog,NA
-2514,wakh1245,wbl,Wakhi,NA
-2515,stan1293,eng,English,English (Liverpool)
-2516,astu1245,ast,Asturian,Asturian (Western)
-2517,phut1244,pht,Phu Tai,Phu Tai (Waritchaphum)
-2518,nort2740,nod,Northern Thai,Northern Thai (Chieng Mai)
-2519,kham1282,khg,Soghpo Tibetan,NA
-2520,west2369,pes,Farsi,NA
-2521,iris1253,gle,Irish,Irish (Corca Dhuibhne)
-2522,sher1255,xsr,Solu Sherpa,Solu Sherpa (Lukla)
-2523,sala1264,slr,Salar,NA
-2524,lezg1247,lez,Lezgian,Lezgian (Güne)
-2525,kham1282,khg,Kami Tibetan,NA
-2526,sora1254,srb,Sora,Sora (Gumma Hills)
-2527,walu1241,ola,Walungge,NA
-2528,kork1243,kfq,Korku,NA
-2529,pamp1243,pam,Kapampangan,Kapampangan (Balingcanaway)
-2530,doma1258,rmt,Domari,Domari (Palestinian)
-2531,phut1244,pht,Phu Tai,Phu Tai (Phanna Nikhom)
-2532,east2328,mhr,Meadow Mari,Meadow Mari (Volga)
-2533,ersu1241,ers,Ersu,NA
-2534,amdo1237,adx,Khalong Tibetan,NA
-2535,finn1318,fin,Finnish,Finnish (Standard)
-2536,udmu1245,udm,Udmurt,Udmurt (Krasnoufimsk)
-2537,khal1271,tks,Khalkhal,NA
-2538,west2408,mut,Muria Gondi,NA
-2539,shix1238,sxg,Shixing,NA
-2540,kara1462,kim,Tofa,NA
-2541,uppe1395,hsb,Upper Sorbian,NA
-2542,hind1269,hin,Hindi,NA
-2543,pott1240,gdb,Gadaba,NA
-2544,east2347,taj,Tamang,Tamang (Dhankuta)
-2545,sout2642,bcc,Southern Balochi,NA
-2546,camp1261,sro,Campidanese Sardinian,Campidanese Sardinian (Sestu)
-2547,tulu1258,tcy,Tulu,NA
-2548,acha1249,acn,Achang,Achang (Lianghe)
-2549,chec1245,che,Chechen,Chechen (Ploskost)
-2550,sant1410,sat,Santali,NA
-2551,shan1277,shn,Shan,Shan (Kunlong)
-2552,abkh1244,abk,Abkhaz,Abkhaz (Bzyb)
-2553,amdo1237,adx,gSerpa,NA
-2554,swed1254,swe,Swedish,Swedish (Central)
-2555,stan1289,cat,Catalan,Catalan (Central)
-2556,tuuu1240,mjg,Mangghuer,Mangghuer (Minhe Monguor)
-2557,hung1274,hun,Hungarian,Hungarian (Standard)
-2558,tibe1272,bod,Shigatse Tibetan,NA
-2559,mala1464,mal,Malayalam,NA
-2560,axiy1235,yix,Ahi,NA
-2561,buru1296,bsk,Burushaski,Burushaski (Werchikwar)
-2562,mind1253,cdo,Min Dong Chinese,Min Dong Chinese (Fuzhou)
-2563,temi1246,tea,Temiar,NA
-2564,uppe1400,sxu,Upper Saxon,Upper Saxon (Chemnitz)
-2565,ghod1238,gdo,Godoberi,NA
-2566,skol1241,sms,Skolt Saami,Skolt Saami (Suõʹnnʼjel)
-2567,jahh1242,jah,Jah-Hut,NA
-2568,icel1247,isl,Icelandic,NA
-2569,vlax1238,rmy,Vlax Romani,Vlax Romani (Mitrovica)
-2570,udih1248,ude,Udihe,Udihe (Bikin)
-2571,astu1245,ast,Asturian,Asturian (North-Eastern)
-2572,tain1252,tdd,Tai Nuea,NA
-2573,sout2746,sou,Southern Tai,Southern Tai (Nakhon Si Thammarat)
-2574,chec1245,che,Chechen,Chechen (Ҫ̇äberloy)
-2575,komi1269,koi,Komi-Permyak,NA
-2576,bodo1267,gbj,Gutob,Gutob (Koraput)
-2577,buru1296,bsk,Burushaski,Burushaski (Nagar)
-2578,lisu1250,lis,Lisu,Lisu (Flowery)
-2579,tuvi1240,tyv,Tuvan,Tuvan (Standard)
-2580,kara1474,kpt,Karata,NA
-2581,west2392,mrj,Hill Mari,Hill Mari (Jaransk)
-2582,taid1248,tyj,Tay Yo,NA
-2583,basq1248,eus,Basque,Basque (Gernika)
-2584,bret1244,bre,Breton,Breton (Bothoa)
-2585,sout2729,pmj,Southern Pumi,Southern Pumi (Xinyingpan)
-2586,sout2436,pbt,Southwestern Pashto,Southwestern Pashto (Kandahar)
-2587,kham1282,khg,Sangdam Tibetan,NA
-2588,bona1250,peh,Baoan,Baoan (Ñantoq)
-2589,wane1241,wne,Waneci,NA
-2590,digo1242,oss,Digor Ossetic,NA
-2591,kham1282,khg,Dongwang Tibetan,NA
-2592,tosk1239,als,Tosk Albanian,Tosk Albanian (Korçë)
-2593,east2282,ltg,Latgalian,Latgalian (Standard)
-2594,stan1289,cat,Catalan,Catalan (Mallorcan)
-2595,turk1304,tuk,Turkmen,Turkmen (Teke)
-2596,jerr1238,nrf,Jèrriais,Jèrriais (Eastern Jersey)
-2597,cent1989,khm,Central Khmer,NA
-2598,assa1263,asm,Assamese,Assamese (Standard)
-2599,kalm1243,xal,Kalmyk,Kalmyk (Standard)
-2600,kham1282,khg,Kham Tibetan,NA
-2601,scot1245,gla,Scottish Gaelic,Scottish Gaelic (Lewis)
-2602,lowe1385,dsb,Lower Sorbian,NA
-2603,nene1249,yrk,Tundra Nenets,Tundra Nenets (Far Eastern)
-2604,poli1260,pol,Polish,Polish (Standard)
-2605,suii1243,swi,Sui,NA
-2606,ilok1237,ilo,Ilocano,NA
-2607,najd1235,ars,Najdi Arabic,NA
-2608,akha1245,ahk,Akha,NA
-2609,tata1255,tat,Tatar,Tatar (Standard)
-2610,kaba1278,kbd,Kabardian,Kabardian (Turkish)
-2611,tami1289,tam,Tamil,NA
-2612,uigh1240,uig,Uyghur,Uyghur (Xinjiang)
-2613,buru1296,bsk,Burushaski,Burushaski (Hunza)
-2614,amdo1237,adx,Themchen Tibetan,NA
-2615,basq1248,eus,Basque,Basque (Ondarroa)
-2616,erzy1239,myv,Erzya,Erzya (Standard)
-2617,narp1239,npa,Nar-Phu,Nar-Phu (Nar)
-2618,west2368,bgn,Western Balochi,Western Balochi (Afghani Raxšānī)
-2619,gali1258,glg,Galician,NA
-2620,mana1288,nmm,Manange,NA
-2621,sheh1240,shv,Jibbali,Jibbali (Central)
-2622,west2368,bgn,Western Balochi,Western Balochi (Sarāwānī)
-2623,port1283,por,Portuguese,Portuguese (Estremenho)
-2624,beng1280,ben,Bengali,Bengali (Dhaka)
-2625,sout2750,yux,Kolyma Yukaghir,NA
-2626,osse1243,oss,Iron Ossetic,Iron Ossetic (Kurtat)
-2627,pnar1238,pbv,Pnar,NA
-2628,nyaw1245,nyw,Nyaw,Nyaw (Sakhon Nakhon)
-2629,bura1267,bvr,Burarra,NA
-2630,buna1275,bck,Bunuba,NA
-2631,goon1238,gni,Gooniyandi,NA
-2632,madn1237,zml,Matngele,NA
-2633,mull1237,mpb,Malak-Malak,NA
-2634,murr1259,mwf,Murrinh-patha,NA
-2635,nang1259,nam,Ngan'gityemerri,NA
-2636,wadj1254,wdj,Patjtjamalh,NA
-2637,mari1417,zmm,Marramaninyshi,NA
-2638,mari1419,zmt,Marringarr,NA
-2639,mari1424,mfr,Marrithiyel,NA
-2640,mart1254,zmg,Marti Ke,NA
-2641,amii1238,amy,Emmi,NA
-2642,lara1258,lrg,Larrakia,NA
-2643,nucl1327,lmc,Limilngan,NA
-2644,umbu1235,umr,Umbugarla,NA
-2645,gara1269,wrk,Garrwa,NA
-2646,wany1247,wny,Waanyi,NA
-2647,gara1269,wrk,Kunindirri,NA
-2648,erre1238,err,Erre,NA
-2649,mang1382,zme,Mengerrdji,NA
-2650,urni1239,urc,Urningangg,NA
-2651,anin1240,aoi,Anindilyakwa,NA
-2652,ngal1292,ngk,Dalabon,NA
-2653,gaga1251,gbu,Gaagudju,NA
-2654,ngal1293,nig,Ngalakgan,NA
-2655,ngan1295,nid,Ngandi,NA
-2656,gund1246,gup,Gun-Dedjnjenghmi,NA
-2657,gund1246,gup,Gun-Djeihmi,NA
-2658,gune1238,gup,Kune,NA
-2659,mura1269,gup,Kuninjku,NA
-2660,guma1252,gup,Kunwinjku,NA
-2661,naia1238,gup,Mayali,NA
-2662,djau1244,djn,Jawoyn,NA
-2663,remb1249,rmb,Rembarrnga,NA
-2664,wara1290,wrz,Warray,NA
-2665,nung1290,nuy,Wubuy,NA
-2666,amar1271,amg,Amurdak,NA
-2667,marg1251,mhg,Marrgu,NA
-2668,wurr1238,wur,Wurrugu,NA
-2669,maun1240,mph,Mawng,NA
-2670,gari1254,ilg,Garig,NA
-2671,ilga1238,ilg,Ilgar,NA
-2672,iwai1244,ibd,Iwaidja,NA
-2673,miri1266,mep,Miriwoong,NA
-2674,kitj1240,gia,Kija,NA
-2675,kung1259,ggk,Kungarakany,NA
-2676,djee1236,djj,Ndjebbana,NA
-2677,gura1252,gge,Gurr-Goni,NA
-2678,naka1260,nck,Nakara,NA
-2679,mara1385,mec,Marra,NA
-2680,wand1263,wnd,Warndarrang,NA
-2681,alaw1244,alh,Alawa,NA
-2682,mang1381,mpc,Mangarrayi,NA
-2683,djam1255,djd,Jaminjung,NA
-2684,ngal1294,djd,Ngaliwurru,NA
-2685,nung1291,nug,Nungali,NA
-2686,ngar1283,nji,Ngarnka,NA
-2687,djin1251,jig,Jingulu,NA
-2688,binb1242,wmb,Binbinka,NA
-2689,guda1243,wmb,Gudanji,NA
-2690,wamb1258,wmb,Wambaya,NA
-2691,mink1237,xxm,Minkin,NA
-2692,ngum1253,xnm,Ngumbarl,NA
-2693,nyig1240,nyh,Nyikina,NA
-2694,warr1258,wwr,Warrwa,NA
-2695,dyug1238,dyd,Jukun,NA
-2696,yawu1244,ywr,Yawuru,NA
-2697,bard1255,bcj,Bardi,NA
-2698,nima1245,nmp,Nimanburu,NA
-2699,dyab1238,dyb,Jabirr-Jabirr,NA
-2700,djaw1238,djw,Jawi,NA
-2701,nyul1247,nyv,Nyulnyul,NA
-2702,alya1239,aly,Alyawarr,NA
-2703,east2380,amx,Eastern Anmatyerre,NA
-2704,west2442,amx,Western Anmatyerre,NA
-2705,ande1247,adg,Antekerrepenhe,NA
-2706,mpar1238,aer,Central Arrernte,NA
-2707,ayer1246,axe,Ayerrerenge,NA
-2708,east2379,aer,Eastern Arrernte,NA
-2709,lowe1436,axl,Lower Southern Aranda,NA
-2710,west2441,are,Western Arrernte,NA
-2711,kayt1238,gbb,Kaytetye,NA
-2712,yugu1249,xjb,Bundjalung,NA
-2713,gida1240,gih,Gidabal,NA
-2714,guwa1244,mis,Guwar,NA
-2715,minj1242,xjb,Minjungbal,NA
-2716,waal1238,bdy,Waalubal,NA
-2717,bung1264,xbg,Buwandik,NA
-2718,warr1257,gjm,Warrnambool,NA
-2719,gami1243,kld,Gamilaraay,NA
-2720,muru1266,zmu,Muruwari,NA
-2721,wang1291,wyb,Ngiyambaa,NA
-2722,wayi1238,wyb,Wayilwan,NA
-2723,wira1262,wrh,Wiradjuri,NA
-2724,wirr1237,kld,Wiriyaraay,NA
-2725,yuwa1242,kld,Yuwaalaraay,NA
-2726,yuwa1243,kld,Yuwaliyaay,NA
-2727,dhud1236,ddr,Dhudhuroa,NA
-2728,jand1248,jan,Jandai,NA
-2729,NA,mis,Djindewal,NA
-2730,yaga1262,yxg,Turubul,NA
-2731,yaga1262,yxg,Yagara,NA
-2732,dyir1250,dbl,Dyirbal,NA
-2733,warr1255,wgy,Warrgamay,NA
-2734,kumb1268,kgs,Baanbay,NA
-2735,kumb1268,kgs,Gumbaynggir,NA
-2736,yayg1236,xya,Yaygir,NA
-2737,guwa1242,xgw,Guwa,NA
-2738,yand1251,yda,Yanda,NA
-2739,kalk1246,ktg,Kalkatungu,NA
-2740,yala1262,ylr,Yalarnnga,NA
-2741,bayu1240,bxj,Payungu,NA
-2742,burd1238,bxn,Purduna,NA
-2743,dhal1245,dhl,Thalanyji,NA
-2744,djiw1241,dze,Jiwarli,NA
-2745,dhar1247,dhr,Tharrkari,NA
-2746,thii1234,iin,Thiin,NA
-2747,wari1262,wri,Warriyangga,NA
-2748,mith1236,mis,Mithaka,NA
-2749,dier1241,dif,Diyari,NA
-2750,dira1238,dif,Thirarri,NA
-2751,kara1508,nmv,Karangura,NA
-2752,ngam1284,nmv,Ngamini,NA
-2753,pirl1238,bxi,Pirlatapa,NA
-2754,yand1253,ynd,Yandruwandha,NA
-2755,nhir1234,hrp,Nhirrpi,NA
-2756,yawa1258,yww,Yawarrawarrka,NA
-2757,dier1241,dif,Yarluyandi,NA
-2758,punt1240,xpt,Punthamara,NA
-2759,wong1246,xwk,Kungardutji,NA
-2760,wong1246,xwk,Wangkumara,NA
-2761,arab1267,ard,Arabana,NA
-2762,wang1290,wgg,Wangkangurru,NA
-2763,pitt1247,pit,Pitta Pitta,NA
-2764,wang1289,wnm,Wangkayutyuru,NA
-2765,kuun1236,lku,Kungkari,NA
-2766,pirr1240,xpa,Pirriya,NA
-2767,kala1380,gll,Garlali,NA
-2768,badi1246,bia,Badimaya,NA
-2769,malg1242,vml,Malkana,NA
-2770,nhan1238,nha,Nhanda,NA
-2771,waja1257,wbv,Watjarri,NA
-2772,ying1247,yia,Yingkarta,NA
-2773,cola1237,mis,Kolakngat,NA
-2774,daun1234,dgw,Daungwurrung,NA
-2775,woiw1237,wyi,Boonwurrung,NA
-2776,wath1238,wth,Wathawurrung,NA
-2777,woiw1237,wyi,Woiwurrung,NA
-2778,yari1243,mis,Yari-Yari,NA
-2779,ladj1234,llj,Ladji-Ladji,NA
-2780,madh1244,dmd,Madhi-Madhi,NA
-2781,wadi1260,xwd,Wathi Wathi,NA
-2782,west2443,mis,East Djadjawurung,NA
-2783,djad1246,mis,Jardwadjali,NA
-2784,nari1241,rnr,Nari Nari,NA
-2785,djab1234,tjw,Djabwurung,NA
-2786,wemb1241,xww,Wemba Wemba,NA
-2787,wotj1234,xwt,Wotjobaluk,NA
-2788,gana1268,ihw,Bidhawal,NA
-2789,gana1278,unn,Muk-Thang,NA
-2790,gana1278,unn,Thangguai,NA
-2791,gana1278,unn,Nulit,NA
-2792,kera1256,mis,Keramin,NA
-2793,lowe1402,mis,Ngayawang,NA
-2794,ngin1247,mis,Ngintait,NA
-2795,narr1259,nay,Yaraldi,NA
-2796,yith1234,xth,Yitha Yitha,NA
-2797,bidy1243,bym,Bidyara,NA
-2798,gang1268,gnl,Barada,NA
-2799,biri1256,bzr,Barna,NA
-2800,biri1256,bzr,Biri,NA
-2801,gang1268,gnl,Gabalbara,NA
-2802,gang1268,gnl,Gangulu,NA
-2803,gang1268,gnl,Ganulu,NA
-2804,biri1256,bzr,Garingbal,NA
-2805,biri1256,bzr,Miyan,NA
-2806,biri1256,bzr,Wiri,NA
-2807,biri1256,bzr,Yambina,NA
-2808,biri1256,bzr,Yangga,NA
-2809,gang1268,gnl,Yetimarala,NA
-2810,biri1256,bzr,Yilba,NA
-2811,biri1256,bzr,Yuwi,NA
-2812,bidy1243,bym,Dharawala,NA
-2813,dhar1248,xgm,Dharumbal,NA
-2814,gung1248,gyf,Gungabula,NA
-2815,kung1258,kgl,Gunggari,NA
-2816,guny1241,gyy,Gunya,NA
-2817,marg1253,zmc,Margany,NA
-2818,gudj1237,mis,Gudjal,NA
-2819,gugu1253,gdc,Gugu Badhun,NA
-2820,waru1264,wrg,Warungu,NA
-2821,bidy1243,bym,Wadjabangay,NA
-2822,biri1256,bzr,Wangan,NA
-2823,bidy1243,bym,Yandjibara,NA
-2824,bidy1243,bym,Yiningay,NA
-2825,kara1476,gbd,Karajarri,NA
-2826,mang1383,mem,Mangala,NA
-2827,nyan1301,nna,Nyangumarta,NA
-2828,guga1239,ggd,Kukatj,NA
-2829,mayi1236,xyk,Mayi-Kulan,NA
-2830,maya1280,xmy,Mayi-Kutuna,NA
-2831,ngaw1240,nxn,Mayi-Thakurti,NA
-2832,mayi1235,xyj,Mayi-Yapi,NA
-2833,ngaw1240,nxn,Ngawun,NA
-2834,ngaw1240,nxn,Wunumara,NA
-2835,kala1379,kba,Galaagu,NA
-2836,kala1401,lkm,Kalaamaya,NA
-2837,ngad1258,nju,Mirrniny,NA
-2838,ngad1258,nju,Ngadjunmaya,NA
-2839,kari1304,vka,Kariyarra,NA
-2840,kurr1243,vku,Kurrama,NA
-2841,mart1255,vma,Martuthunira,NA
-2842,yinh1234,ywg,Ngarla,NA
-2843,ngar1287,nrl,Ngarluma,NA
-2844,nhuw1239,nhf,Nhuwala,NA
-2845,nyam1271,nly,Nyamal,NA
-2846,nija1241,xny,Nyiyaparli,NA
-2847,nija1241,xny,Palyku,NA
-2848,pany1241,pnw,Panyjima,NA
-2849,yind1247,yij,Yindjibarndi,NA
-2850,yind1247,yij,Yinhawangka,NA
-2851,bili1250,nbj,Bilinarra,NA
-2852,wany1244,gue,Wanyjirra,NA
-2853,guri1247,gue,Gurindji,NA
-2854,jaru1254,ddj,Jaru,NA
-2855,maln1239,gue,Malngin,NA
-2856,mudb1240,dmw,Mudburra,NA
-2857,ngar1288,rxd,Ngardi,NA
-2858,ngar1235,nbj,Ngarinyman,NA
-2859,walm1241,wmt,Walmajarri,NA
-2860,warl1255,wrl,Warlmanpa,NA
-2861,warl1254,wbp,Warlpiri,NA
-2862,nyaw1247,nyt,Nyawaygi,NA
-2863,wulg1239,qgu,Wulguru,NA
-2864,nyun1247,nys,Balardung,NA
-2865,bibb1234,xbp,Bibbulman,NA
-2866,gore1235,xgg,Goreng,NA
-2867,kani1276,nys,Kaniyang,NA
-2868,nyun1247,nys,Minang,NA
-2869,pinj1244,pnj,Pinjarup,NA
-2870,ward1248,wxw,Wardandi,NA
-2871,waju1234,xwj,Wajuk,NA
-2872,nyun1247,nys,Wiilman,NA
-2873,nyun1247,nys,Wudjari,NA
-2874,nyun1247,nys,Yuwat,NA
-2875,band1337,drl,Bandjigali,NA
-2876,darl1243,drl,Southern Paakintyi,NA
-2877,pall1243,pmd,Pallanganmiddang,NA
-2878,ikar1243,ikr,Ikarranggal,NA
-2879,ikar1243,ikr,Takalak,NA
-2880,aghu1254,ggr,Aghu Tharnggala,NA
-2881,thay1248,typ,Awu Alaya,NA
-2882,kawa1290,mis,Ogh Awarrangg,NA
-2883,kawa1290,mis,Ogh Unyjan,NA
-2884,angu1242,awg,Anguthimri,NA
-2885,kuku1273,gvn,Gugu Wakura,NA
-2886,gugu1255,kky,Guugu Yimidhirr,NA
-2887,kuku1273,gvn,Kuku Yalanji,NA
-2888,mulu1243,vmu,Muluridji,NA
-2889,kuku1273,gvn,Wagaman,NA
-2890,dyaa1242,dyy,Djabugay,NA
-2891,yidi1250,yii,Yidiny,NA
-2892,barr1247,bpt,Malthanmungu,NA
-2893,djan1238,djf,Djangun,NA
-2894,lamu1254,lby,Lamalama,NA
-2895,mbar1253,zmv,Rimanggudinhma,NA
-2896,wikm1247,wim,Wik Mungkan,NA
-2897,wikn1245,wig,Wik-Ngathan,NA
-2898,ayab1239,ayd,Ayapathu,NA
-2899,wikn1246,wua,Kugu Nganhcara,NA
-2900,kuuk1238,kuy,Kuugu Ya'u,NA
-2901,paka1251,pkn,Bakanh,NA
-2902,umpi1239,ump,Umpila,NA
-2903,ayab1239,ayd,Yintyingka,NA
-2904,kokn1236,gko,Kok Nar,NA
-2905,gurd1238,gdj,Kurtjar,NA
-2906,kuth1240,xut,Kuthant,NA
-2907,wala1263,nlw,Walangama,NA
-2908,alng1239,aid,Alngith,NA
-2909,arit1239,rrt,Aritinngithigh,NA
-2910,ndra1239,dgt,Ndra'ngith,NA
-2911,tyan1235,mis,Thaynakwithi,NA
-2912,leni1238,lnj,Linngithigh,NA
-2913,luth1234,mis,Luthigh,NA
-2914,mbiy1238,mis,Mbiywom,NA
-2915,mpal1238,xpj,Mpalitjanh,NA
-2916,ngko1236,mis,Ngkoth,NA
-2917,atam1239,amz,Uradhi,NA
-2918,angg1238,avm,Angkamuthi,NA
-2919,atam1239,amz,Atampaya,NA
-2920,yadh1237,mis,Yadhaykenu,NA
-2921,yinw1236,yxm,Yinwum,NA
-2922,gugu1254,kkp,Koko Bera,NA
-2923,thay1249,thd,Thaayorre,NA
-2924,ulku1238,kjn,Olkol,NA
-2925,yiry1245,yiy,Yir Yoront,NA
-2926,wami1239,wmi,Agwamin,NA
-2927,mbar1254,mvl,Mbara,NA
-2928,mbab1239,vmb,Mbabaram,NA
-2929,umbu1256,umg,Umbuygamu,NA
-2930,oyka1239,kjn,Oykangand,NA
-2931,adny1235,adt,Adnyamathanha,NA
-2932,kaur1267,zku,Kaurna,NA
-2933,nugu1241,nnv,Nukunu,NA
-2934,wira1265,wgu,Wirangu,NA
-2935,bang1339,bjb,Parnkalla,NA
-2936,naru1238,nnr,Narrungga,NA
-2937,koka1244,ktd,Kukata,NA
-2938,gure1255,gnr,Gureng-gureng,NA
-2939,gure1255,gnr,Guweng,NA
-2940,kabi1260,gbw,Butchulla,NA
-2941,gabi1248,gbw,Gabi-Gabi,NA
-2942,kabi1260,gbw,Barunggam,NA
-2943,duun1241,wkw,Duungidjawu,NA
-2944,waka1274,wkw,Waka Waka,NA
-2945,wuli1242,wlu,Wuli Wuli,NA
-2946,bula1255,mis,Bularnu,NA
-2947,waga1260,wga,Eastern Wakaya,NA
-2948,warl1256,wrb,Warluwarra,NA
-2949,waga1260,wga,Western Wakaya,NA
-2950,yany1243,jao,Yanyuwa,NA
-2951,waru1265,wrm,Warumungu,NA
-2952,kart1247,mpj,Kartujarra,NA
-2953,many1256,mpj,Manjiljarra,NA
-2954,pudi1238,mpj,Putijarra,NA
-2955,wang1288,mpj,Wangkajunga,NA
-2956,yulp1239,mis,Yulparija,NA
-2957,wanm1242,wbt,Warnman,NA
-2958,anta1253,ant,Antakirinya,NA
-2959,kuka1246,kux,Kukatja,NA
-2960,pitj1243,pjt,Ngalia,NA
-2961,ngar1296,nrk,Ngarlawangka,NA
-2962,ngaa1240,ntj,Ngaanyatjarra,NA
-2963,pint1250,piu,Pintupi,NA
-2964,pitj1243,pjt,Pitjantjatjara,NA
-2965,yank1247,kdd,Yankunytjatjara,NA
-2966,kala1378,mwp,Kala Kawaw Ya,NA
-2967,kala1377,mwp,Kala Lagaw Ya,NA
-2968,maly1234,yga,Malyangapa,NA
-2969,wadi1261,wdk,Wadikali,NA
-2970,yard1234,yxl,Yardliyawarra,NA
-2971,dhan1270,dhg,Dhangu,NA
-2972,gupa1247,guf,Gupapuyngu,NA
-2973,dhal1246,dax,Dhay'yi,NA
-2974,djam1256,djr,Djambarrpuyngu,NA
-2975,guma1253,gnn,Gumatj,NA
-2976,djin1253,dji,Djinang,NA
-2977,djin1252,djb,Djinba,NA
-2978,yann1237,jay,Nhangu,NA
-2979,rita1239,rit,Ritharrngu,NA
-2980,yort1237,xyy,Yabula-Yabula,NA
-2981,yort1237,xyy,Yorta Yorta,NA
-2982,biga1237,xbe,Bigambal,NA
-2983,yuga1244,yub,Yugambal,NA
-2984,hawk1239,xda,Darkinyung,NA
-2985,sydn1236,xdk,Dharuk,NA
-2986,sydn1236,xdk,Eora,NA
-2987,awab1243,awk,Awabakal,NA
-2988,west2443,mis,West Djadjawurung,NA
-2989,wori1245,kda,Katthang,NA
-2990,ngan1296,nyx,Nganyaywana,NA
-2991,dyan1250,dyn,Thanggati,NA
-2992,djap1238,duj,Djapu,NA
-2993,thur1254,tbh,Dharawal,NA
-2994,thur1254,tbh,Dharumba,NA
-2995,dhur1239,dhu,Dhurga,NA
-2996,sout2771,xtv,Djirringany,NA
-2997,gund1248,xrd,Gundungurra,NA
-2998,ngar1297,xni,Ngarigu,NA
-2999,sout2770,mis,Ngunawal,NA
-3000,sout2771,xtv,Thawa,NA
-3001,gang1267,gcd,Gangalidda,NA
-3002,kaya1319,gyd,Kayardild,NA
-3003,lard1243,lbz,Lardil,NA
-3004,kaya1319,gyd,Yangkaralda,NA
-3005,tiwi1244,tiw,Tiwi,NA
-3006,wage1238,waq,Wagiman,NA
-3007,ngar1284,ung,Ngarinyin,NA
-3008,gamb1251,gma,Gambera,NA
-3009,kwin1241,gww,Kwini,NA
-3010,wuna1249,wub,Wunambal,NA
-3011,umii1236,xud,Umiida,NA
-3012,ungg1243,xgu,Unggumi,NA
-3013,worr1237,wro,Worrorra,NA
-3014,yawi1239,jbw,Yawijibaya,NA
-3015,ward1246,wrr,Wardaman,NA
-3016,yang1288,jng,Yangman,NA
-3017,guwa1243,gwu,Guwamu,NA
-3018,west2437,wbp,Ngardily,NA
-3019,werg1234,weg,Piangil,NA
-3020,lamu1254,lby,Tableland Lamalama,NA
+pc34df,fwee1238,fwe,Fwe,NA
+p61856,yeyi1239,yey,Yeyi,NA
+pffbcd,cavi1250,cav,Cavinena,NA
+p9df44,cham1318,ccc,Chamicuro,NA
+p3c2bb,chec1245,che,Chechen,NA
+pda632,chep1245,cdm,Chepang,NA
+p789a9,east2328,mhr,Cheremis,NA
+p16d20,leal1235,cle,Chinanteco,NA
+pb5097,chol1282,ctu,"Tila, Chiapas",NA
+p5340e,chra1242,crw,Chrau,NA
+pf1785,barb1263,boi,Barbareño,NA
+p8fafc,coeu1236,crd,Coeur d''Alene',NA
+p2de73,coma1245,com,Comanche,NA
+pcc1ea,cupe1243,cup,Cupeno,NA
+p6a561,cuvo1236,cuv,Cuvok,NA
+p088d8,deny1238,anv,Denya,NA
+pa6c4f,nepa1253,kru,Dhangar,NA
+p44fc6,mufi1238,aoj,Muhiang,NA
+pe333d,usar1243,usa,Usarufa,NA
+p816b4,kora1295,kpr,Korafe,NA
+p1fa2b,binu1245,bjr,Binumarien,NA
+pbdda2,eggo1239,ego,Eggon,NA
+p5c119,ekpe1253,ekp,Ekpeye,NA
+pfa490,endo1242,enb,Endo,NA
+p98807,esim1238,ags,Esimbi,NA
+p36b7e,fang1246,fan,Fan,NA
+pd4ef5,furu1242,fuu,Furu,NA
+p7326c,kara1476,gbd,Garadjari,NA
+p115e3,gbar1246,gby,Gbari,NA
+paf95a,goli1247,gvf,Golin,NA
+p4dcd1,guaj1255,gub,Guajajara,NA
+pec048,gunw1252,gup,Gunwinggu,NA
+p8a3bf,haya1250,hay,Haya,NA
+p28736,huro1249,wya,Huron,NA
+pc6aad,huic1243,hch,Huichol,NA
+p64e24,huay1240,qwh,Huaylas,NA
+p0319b,sanm1287,huv,"Huave, San Mateo del Mar",NA
+pa1512,jauj1238,qxw,Huanca,NA
+p3f889,luya1241,lyn,Louyi,NA
+pddc00,iban1261,iby,Ibani,NA
+p7bf77,imon1245,imn,Imonda,NA
+p1a2ee,ingu1240,inh,Ingush,NA
+pb8665,kris1246,ksi,Isaka,NA
+p569dc,yalu1240,yal,Jalonke,NA
+pf4d53,izer1241,izr,Hill Jarawa,NA
+p930ca,jama1261,jaa,Jarawara,NA
+p31441,jeme1245,tow,Jemez,NA
+pcf7b8,liji1238,mgi,Jili,NA
+p6db2f,kaby1243,kab,Kabyle,NA
+p0bea6,gida1247,gid,Kada,Guidar
+paa21d,kaya1329,kyz,Kaiabi,NA
+p48594,kama1367,kms,Kamasau,NA
+pe690b,kano1245,kxo,Kanoe,NA
+p84c82,kens1251,ndb,Kensei Nsei,NA
+p22ff9,east2398,xrb,Kar,NA
+pc1370,kari1301,kmv,Karipuna Creole,NA
+p5f6e7,keny1279,ken,Kenyang,NA
+pfda5e,khar1287,khr,Kharia,NA
+p9bdd5,chon1284,cog,Chong,Khlong Phlu and Wang Kraphrae Dialects
+p3a14c,kiny1244,kin,Kinyarwanda,NA
+pd84c3,kiri1254,okr,Kirike,NA
+p7683a,koko1269,kkk,Kokota,NA
+p14bb1,bako1250,kme,Kole,NA
+pb2f28,konn1242,kma,Konni,NA
+p5129f,kuay1244,kdt,Kuay,Surin
+pef616,kulu1253,kle,Kulung,NA
+p8d98d,kuot1243,kto,Kuot,NA
+p2bd04,kusu1250,kgg,Kusunda,NA
+pca07b,kuvi1243,kxv,Kuvi,NA
+p683f2,kwaz1243,xwa,Kwaza,NA
+p06769,lada1244,lbj,Ladakhi,NA
+pa4ae0,lang1320,lag,Langi,NA
+p42e57,laoo1244,lao,Lao,NA
+pe11ce,lavu1241,lvk,Lavukaleve,NA
+p7f545,bafa1247,bwt,Bafo,Lefo
+p1d8bc,lund1266,lun,Lunda,NA
+pbbc33,luch1239,lch,Lucazi,NA
+p59faa,orok1266,bdu,Lukundu,NA
+pf8321,mace1250,mkd,Macedonian,NA
+p96698,mada1282,mda,Mada,Rija
+p34a0f,madi1260,mhi,Ma'di,NA
+pd2d86,mana1295,mva,Manam,NA
+p710fd,bame1260,bce,Mamenyan,NA
+p0f474,mana1288,nmm,Manange,NA
+pad7eb,ngem1255,nge,Ngemba,Mankon
+p4bb62,mara1385,mec,Mara,NA
+pe9ed9,maib1239,ayz,Maybrat,NA
+p88250,gbay1281,gmm,Mbodomo; Mbódɔ̀mɔ́,NA
+p265c7,medu1238,byv,Medumba,NA
+pc493e,ming1252,xmf,Mingrelian,Senak
+p62cb5,mmen1238,bfm,Mmen,NA
+p0102c,moke1242,mwt,Moken,NA
+p9f3a3,mose1249,cas,Moseten,NA
+p3d71a,mpon1254,mgg,Mpumpun,Yokadouma
+pdba91,mung1266,mhk,Mungaka,NA
+p79e08,mvum1238,nmg,Mvumbo,NA
+p1817f,motl1237,mlv,Mwotlap,NA
+pb64f6,nami1256,nnm,Namia,NA
+p5486d,ndem1249,nml,Ndemli,NA
+pf2be4,mesc1238,apm,Chiricahua Apache,NA
+p90f5b,quec1382,yum,Yuma,NA
+p2f2d2,nank1250,nnk,Nankina,NA
+pcd649,nand1266,niq,Nandi,NA
+p6b9c0,kima1246,kig,Khmu,NA
+p09d37,naki1238,mff,Naki,NA
+pa80ae,mich1245,ncl,Michoacan Nahual,NA
+p46425,naga1394,nag,Nagamese,NA
+pe479c,ngos1238,nsh,Ngishe,NA
+p82b13,ngal1293,nig,Ngalakan,NA
+p20e8a,nang1259,nam,Nganikurungkurr,"Daly River Area, Northern Territory"
+pbf201,ngom1272,jgo,Ngomba,NA
+p5d578,ngom1271,nla,Ngombale,NA
+pfb8ef,nuuc1236,nuk,Nootka,Nuuchahnulth
+p99c66,nort2684,kxm,Northern Khmer,Buriram
+p37fdd,nort2954,pao,Northern Paiute,NA
+pd6354,nubi1253,kcn,Nubi,NA
+p746cb,nuer1246,nus,Nuer,NA
+p12a42,elip1238,ekm,Nulibie,Yambassa
+pb0db9,nyam1276,nym,Kinyamwezi,NA
+p4f130,nyeu1238,nyl,Nyeu,NA
+ped4a7,obol1243,ann,Obolo,NA
+p8b81e,mian1257,mpt,Mianmin,NA
+p29b95,faiw1243,fai,Faiwol,NA
+pc7f0c,okuu1243,oku,Oku,NA
+p66283,osse1243,oss,Ossetian,NA
+p045fa,pala1344,pau,Palauan,NA
+pa2971,orok1269,okv,Orokaiva,NA
+p40ce8,yill1241,yll,Yil,NA
+pdf05f,ning1273,niz,Ningil,NA
+p7d3d6,dobu1241,dob,Dobu,NA
+p1b74d,samo1303,smq,Samo,NA
+pb9ac4,urii1240,uvh,Urii,NA
+p57e3b,boik1241,bzf,Boiken,NA
+pf61b2,phai1238,prt,Pray,Ban Wang Saw
+p94529,mall1246,mlf,Mal,NA
+p328a0,rama1270,rma,Rama,NA
+pd0c17,matb1237,xmt,Matbat,NA
+p6ef8e,rund1242,run,Rundi,NA
+p0d305,nyan1307,nyn,Runyankore,NA
+pab67c,marw1260,rwr,Marwari,NA
+p499f3,samb1305,ndi,Samba Leko,NA
+pe7d6a,sout2844,sbd,Samo de Toma,NA
+p860e1,samr1245,sxm,Samre,NA
+p24458,saba1268,sae,Sabane,NA
+pc27cf,saan1246,str,Saanich,NA
+p60b46,sasa1249,sas,Sasak,Puyang
+pfeebd,sora1254,srb,Savara,NA
+p9d234,sayu1241,pos,Popoluca de Sayula,NA
+p3b5ab,seco1241,sey,Secoya,NA
+pd9922,taro1264,trv,Sedik,NA
+p77c99,seim1238,ssg,Seimat,NA
+p16010,seme1247,sza,Semelai,NA
+pb4387,serr1255,ser,Serrano,NA
+p526fe,shab1252,sbf,Shabo,NA
+pf0a75,yawa1260,ywn,Shanenawa,NA
+p8edec,mako1251,kde,Shimakonde,NA
+p2d163,shon1251,sna,Shona,NA
+pcb4da,bamu1253,bax,Shupamem,NA
+p69851,siar1238,sjr,Siar-Lak,NA
+p07bc8,sera1259,skr,Siraiki,Central Pakistan
+pa5f3f,shaw1249,sjw,Shawnee,NA
+p442b6,nucl1634,skv,Skou,NA
+pe262d,aheu1239,thm,So,NA
+p809a4,sout2856,erk,South Efate,NA
+p1ed1b,spok1245,spo,Spokan,NA
+pbd092,sout2807,sot,Sesotho,NA
+p5b409,sata1237,stw,Satawalese,NA
+pf9780,ulwa1239,ulw,Sumo,Ulwa
+p97af7,hupd1244,jup,Hup,NA
+p35e6e,chim1300,zoh,San Miguel Chimalapa Zoque,NA
+pd41e5,loxi1235,ztp,Zapotec,Loxicha
+p7255c,yuki1243,yuk,Yuki,NA
+p108d3,yape1248,yap,Yapese,NA
+paec4a,yuro1248,yur,Yurok,NA
+p4cfc1,yura1255,yuz,Yuracure,NA
+peb338,sout2750,yux,Yukaghir (Kolyma),Southern
+p896af,nucl1290,wbm,Wa,Ban Santisuk Moo
+p27a26,wamb1259,wms,Wambon,NA
+pc5d9d,wash1253,was,Washo,NA
+p64114,waya1269,way,Wayana,NA
+p0248b,woge1237,woc,Wogeo,NA
+pa0802,huar1255,var,Warihio,NA
+p3eb79,vaii1241,vai,Vai,NA
+pdcef0,ukra1253,ukr,Ukrainian,NA
+p7b267,phal1254,phl,Palula (Phalura),NA
+p195de,east2440,mky,East Makian,NA
+pb7955,tapi1253,tpj,Tapiete,NA
+p55ccc,baru1269,bjz,Baruga,NA
+pf4043,tatu1247,tav,Tatuyo,NA
+p923ba,tagw1240,tgw,Tagwana,NA
+p30731,maza1291,mzn,Mazanderani,NA
+pceaa8,paok1235,blk,"Pa-O, Taungthu",Huay Salop
+p6ce1f,tern1247,tft,Ternate,NA
+p0b196,toba1269,tob,Toba (Argentina),NA
+pa950d,poli1260,pol,Polish,NA
+p47884,mand1415,cmn,Standard Chinese; Mandarin,Beijing
+pe5bfb,kala1381,ijn,Kalabari; Kirike; Kalabari-Ijo,Kalabari-Ijo
+p83f72,east2295,ydd,Standard Yiddish,NA
+p222e9,dutc1256,nld,Dutch,Belgian Standard
+pc0660,malo1243,mla,Tamambo; Malo,NA
+p5e9d7,gayo1244,gay,Gayo,NA
+pfcd4e,jama1262,jam,Jamaican Creole,NA
+p9b0c5,mamb1294,mcs,Mambay; Mambai,NA
+p3943c,arag1245,arg,Aragonese,Chistabino
+pd77b3,tilq1235,zts,Tilquiapan Zapotec,NA
+p75b2a,ibib1240,ibb,Ibibio,Uruan area and Uyo
+p13ea1,tami1289,tam,Tamil,Standard Spoken Tamil
+pb2218,zoog1238,zpq,San Bartolomé Zoogocho Zapotec,zxon
+p5058f,baga1273,bgo,Baga Koga; Koba; Barka,NA
+pee906,sout2895,nxl,Southern Nuautl,NA
+p8cc7d,sela1259,slu,Selaru,NA
+p2aff4,tsuv1239,tvd,Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto,NA
+pc936b,hang1263,wos,Hanga Hundi; Kwasengen; West Wosera,NA
+p676e2,blan1242,blr,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi',NA
+p05a59,tata1257,txx,Tatana''; Tatanaq; Tatana',NA
+pa3dd0,tibe1272,bod,Tibetan,Lhasa
+p42147,chee1238,ruk,Che; Rukuba; Kuche; Bache; Inchazi; Sale,NA
+pe04be,tolo1259,tol,Tolowa; Tolowa-Chetco,NA
+p7e835,pagi1243,pae,Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete,NA
+p1cbac,choc1276,cho,Choctaw,NA
+pbaf23,mich1243,crg,Michif,NA
+p5929a,pila1245,plg,Pilaga; Pilagá,NA
+pf7611,yuch1247,yuc,Euchee; Yuchi,NA
+p95988,bani1255,bwi,Kurripako; Baniwa; Baniwa (Icana),Ehe-Khenim
+p33cff,kari1311,ktn,Karitiana; Karitiâna,NA
+pd2076,nort2943,esi,Iñupiaq; Iñupiat; Inupiat; Inupiaq,NA
+p703ed,sanj1284,zab,"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía",NA
+p0e764,tzot1259,tzo,"Tzotzil, Chamula",Petalcingo
+pacadb,sida1246,sid,Sidaama; Sidamo; Sidamic,NA
+p4ae52,west2560,bdr,"Bajau, West Coast; Land Bajaw; West Coast Bajao",NA
+pe91c9,chim1301,cid,Chimariko,NA
+p87540,hueh1236,tee,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",NA
+p258b7,utes1238,ute,Southern Ute; Ute; Ute-Southern Paiute,NA
+pc3c2e,dupa1235,duo,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta,NA
+p61fa5,tong1325,ton,Tongan; Tonga,NA
+p0031c,lake1258,lmw,Lake Miwok; Miwok (Lake),NA
+p9e693,lazz1240,lzz,Laz,NA
+p3ca0a,juan1238,jun,Juang,NA
+pdad81,adan1251,adn,Adang,NA
+p790f8,ambe1247,ael,Ambele,NA
+p1746f,apur1254,apu,Apurinã,Japiim
+pb57e6,achi1257,ace,Acehnese,NA
+p53b5d,anti1245,aig,Antiguan Creole,NA
+pf1ed4,akla1241,akl,Aklan,NA
+p9024b,arhu1242,arh,Ika,NA
+p2e5c2,karo1306,arr,Karo,NA
+pcc939,liby1240,ayl,Libyan Arabic,NA
+p6acb0,bata1289,bbc,Toba-Batak,NA
+p09027,baou1238,bci,Baule,Kobe
+pa739e,bond1245,bfw,Remo,NA
+p45715,bike1242,biw,Bikele,NA
+pe3a8c,siks1238,bla,Blackfoot,NA
+p81e03,bilo1248,bll,Biloxi,NA
+p2017a,beli1260,bzj,Belizean Creole,NA
+pbe4f1,koas1236,cku,Koasati,NA
+p5c868,como1259,coo,Comox,NA
+pfabdf,soch1239,cso,Sochiapan Chinantec,NA
+p98f56,diml1238,diq,Dimili,NA
+p372cd,yekh1238,ets,Etsako,NA
+pd5644,nort2626,frr,Frisian,Sölring North
+p739bb,guja1253,gju,Gojri; Gujari; Gujar,NA
+p11d32,guan1269,gvc,Wanano,NA
+pb00a9,hung1278,hum,Kihungan,NA
+p4e420,halk1245,hur,Chilliwak Halkomelem,NA
+pec797,huas1242,hus,Huastec,Potosino dialect
+p8ab0e,ilok1237,ilo,Ilocano,Northern
+p28e85,kadi1248,kbc,Kadiweu,NA
+pc71fc,kute1248,kub,Kuteb,NA
+p65573,awac1239,kwi,Awa Pit,NA
+p038ea,lisu1250,lis,Lisu,NA
+pa1c61,loni1238,los,Loniu,NA
+p3ffd8,mola1238,mbe,Molalla,NA
+pde34f,mats1244,mcf,Matses,NA
+p7c6c6,mani1292,mni,Manipuri,NA
+p1aa3d,mand1436,mnk,Mandingo,NA
+pb8db4,moco1246,moc,Mocovi,NA
+p5712b,mamm1241,mam,Western Mam; Tacanec,Tacaná
+pf54a2,mund1330,myu,Mundurukú,NA
+p93819,nisg1240,ncg,Nishgha,NA
+p31b90,nort2627,nds,Low German,Ukrainian
+pcff07,nort2984,pmq,Northern Pame,NA
+p6e27e,pana1305,par,Panamint,NA
+p0c5f5,nige1257,pcm,Nigerian Pidgin,NA
+paa96c,nort2966,pej,Northern Pomo,NA
+p48ce3,texi1237,poq,Texistepec Popoluca,NA
+pe705a,khan1273,kca,Eastern Khanty,NA
+p853d1,stan1289,cat,Catalan,Barcelona
+p23748,croa1245,hrv,Croatian,NA
+pc1abf,czec1258,ces,Czech,Prague
+p5fe36,gali1258,glg,Galician,NA
+pfe1ad,kabi1261,kbp,Kabiye,Somdina
+p9c524,mono1270,mnh,Mono,"Bili, Bosobolo Zone, DRC"
+p3a89b,indo1316,ind,Indonesian,Central Java
+pd8c12,ital1282,ita,Italian,Mainstream Italian'''
+p76f89,sala1272,qxl,Salasaca Quichua,NA
+p15300,seri1257,sei,Seri,NA
+pb3677,sind1272,snd,Sindhi,Vicholi
+p519ee,slov1268,slv,Slovene,Standard Slovene
+pefd65,swed1254,swe,Swedish,Stockholm
+p8e0dc,east2440,mky,Taba,Makian Island
+p2c453,tuka1248,khc,Tukang Besi,"Wanci, Kaledupa"
+pca7ca,yine1238,pib,Yine,NA
+p68b41,kich1262,quc,Quiche,NA
+p06eb8,huam1248,qvh,Huallaga (Huanuco) Quechua,NA
+pa522f,sipa1247,qum,Sipakapense Maya,NA
+p435a6,chim1302,qug,Chimborazo Quichua,NA
+pe191d,tlac1235,tpt,Tepehua,NA
+p7fc94,ambu1247,abt,Abulas,NA
+p1e00b,abau1245,aau,Abau,NA
+pbc382,qima1242,ahg,Agaw,NA
+p5a6f9,akha1245,ahk,Akha,NA
+pf8a70,alya1239,aly,Alyawarra,NA
+p96de7,aman1265,amn,Amanab,NA
+p3515e,anua1242,anu,Anywa,NA
+pd34d5,aran1237,jbj,Arandai,NA
+p7184c,bumb1241,aon,Arapesh,NA
+p0fbc3,tana1290,tcb,Tanacross,NA
+padf3a,auuu1241,avt,Au,NA
+p4c2b1,tinp1237,tpz,Tinputz,NA
+pea628,peta1245,pex,Petats,Petats central
+p8899f,pate1247,ptp,Patep,Mahomba
+p26d16,kela1255,kcl,Kela,Apoze
+pc508d,surs1246,sgz,Sursurunga,East Coast
+p63404,awar1248,awx,Awara,NA
+p0177b,awin1248,azo,Awing,NA
+p9faf2,awtu1239,kmn,Awtuw,NA
+p3de69,baba1264,bbw,Baba,NA
+pdc1e0,baba1266,bbk,Babanki,NA
+p7a557,bako1249,bkh,Bakoko,NA
+p188ce,nyon1241,muo,Bali-Kumbat,NA
+pb6c45,bamu1256,bvm,Bamunka,NA
+p54fbc,bang1356,bgj,Bangolan,NA
+pf3333,bata1285,bnm,Banoo,NA
+p916aa,bari1286,bch,Bariai,NA
+p2fa21,befa1241,bby,Befang,NA
+pcdd98,idaa1241,dbj,Ida''an',Begak
+p6c10f,bemb1257,bem,Bemba,NA
+p0a486,berb1259,brc,Berbice Dutch,NA
+pa87fd,bett1235,xub,Betta Kurumba,NA
+p46b74,biak1248,bhw,Biak,NA
+pe4eeb,bili1250,nbj,Bilinara,NA
+p83262,bina1277,bhg,Binandere,NA
+p215d9,sout2840,bwq,Bobo,"Bobo-Dioulasso, Haute-Volta"
+pbf950,nucl1695,bol,Bole,NA
+p5dcc7,bong1285,bot,Bongo,NA
+pfc03e,boro1277,bwo,Boro,NA
+p9a3b5,brok1247,bkk,Brokskat,NA
+p3872c,baga1272,bsp,Baga Sitem,NA
+pd6aa3,bubi1249,bbx,Bubia,NA
+p74e1a,buku1249,bxk,Bukusu,NA
+p13191,subi1246,sbs,Subiya,NA
+pb1508,tote1238,ttl,Totela,NA
+p4f87f,bamb1265,bmo,Bambalang; Círàmbɔ́,NA
+pedbf6,nort2845,mrq,North Marquesan,Nuku Hiva
+p8bf6d,onge1236,oon,Öñge; Ong; Onge,NA
+p2a2e4,olut1240,plo,Oluta Popoluca; Olutec,NA
+pc865b,jiar1240,jya,Jiarong,Chabao; Japhug
+p669d2,suri1267,suq,Suri,Tirmaga
+p04d49,bilu1245,blb,Bilua,NA
+pa30c0,hoav1238,hoa,Hoava,NA
+p41437,fili1244,fil,Filipino,NA
+pdf7ae,ngad1261,nxg,Ngad''a; Ngadha',NA
+p7db25,muna1247,mnb,Muna,NA
+p1be9c,keoo1238,xxk,Ke''o; Kéo',Udiworowatu
+pba213,aheu1239,thm,Aheu; Thavung,Samhing
+p5858a,saki1248,skf,Sakirabiá; Mekens,NA
+pf6901,tiwi1244,tiw,Tiwi,NA
+p94c78,torw1241,trw,Torwali,NA
+p32fef,thul1246,tdh,Thulung; Thulung Rai,NA
+pd1366,tsha1245,tsj,Tshangla,NA
+p6f6dd,colo1256,cof,Colorado; Tsafiki,NA
+p0da54,tzut1248,tzj,Tzutujil,San Juan
+pabdcb,pwon1235,pww,Pwo Karen,NA
+p4a142,tuvi1240,tyv,Tuva; Tuvan,NA
+pe84b9,kinn1249,kfk,Kinnauri; Kanauri,"Himachal Pradesh; Kalpa, Nichar, and Pooh areas"
+p86830,mewa1250,wtm,Mewati,NA
+p24ba7,anei1239,aty,Aneityum; Anejom̃,NA
+pc2f1e,zaiw1241,atb,Zaiwa,NA
+p61295,chic1270,cic,Chickasaw,NA
+pff60c,friu1240,fur,Friulian,Udine
+p9d983,jica1244,apj,Jicarilla Apache,Dulce
+p3bcfa,egaa1242,ega,Ega,Gniguedougou & Gnama
+pda071,adam1253,fub,Adamawa Fulfulde; Adamawa Fulani,NA
+p783e8,west2441,are,Arrarnte,Western Arrarnte
+p1675f,sanu1240,xsu,Sanuma; Sanumá,NA
+pb4ad6,wari1268,pav,Wari; Wari''; Wariʔ; Oro Nao',Oro Nao
+p52e4d,crow1244,cro,Crow,NA
+pf11c4,barb1263,boi,Barbareño,NA
+p8f53b,lyel1241,lee,Lele (Lyélé),Variety spoken in Debreng
+p79847,adam1253,fub,Fulfulde (Cameroon),CAM
+p17bbe,anyi1245,any,Anyi Sanvi,NA
+pb5f35,anyi1245,any,Agni Djuablin,NA
+p542ac,anyi1244,mtb,Agni Morofo,NA
+pf2623,akan1250,aka,Akan,NA
+p9099a,anuf1239,cko,anufɔ,NA
+p2ed11,dibo1245,bvx,babole,NA
+pcd088,bana1305,bcw,bana,NA
+p6b3ff,baka1274,bdh,baka,NA
+p09776,ajas1235,aja,aja,NA
+pa7aed,bila1255,bip,bila,NA
+p45e64,busa1253,bqp,busa,NA
+pe41db,adam1253,fub,fulfulde (fuunaangere),fuunaangere
+p82552,nige1253,fuv,fulfulde (NGA),Kaceccereere
+p208c9,here1253,her,herero,NA
+pbec40,ceba1235,sef,Senoufo-Cebaara,Tangari
+p5cfb7,koyr1240,khq,songhoy,NA
+pfb32e,bafi1243,ksf,kpaʔ,NA
+p996a5,lega1249,lea,lega-shabunda,beya
+p37a1c,limb1268,lmp,limbum (southern),southern
+pd5d93,limb1268,lmp,limbum (central),central
+p7410a,limb1268,lmp,limbum (northern),northern
+p12481,myen1241,mye,myene,NA
+pb07f8,ntch1242,bud,N'cam,NA
+p4eb6f,tune1261,tvu,Nen,NA
+pecee6,matu1259,mgw,matuumbi,NA
+p8b25d,yaoo1241,yao,yao,NA
+p295d4,umbu1257,umb,umbundu,NA
+pc794b,ndon1254,ndo,ndonga,NA
+p65cc2,mbuk1240,mhw,mbukushu,NA
+p04039,diri1252,diu,diriku,NA
+pa23b0,kwan1273,kwn,kwangari,NA
+p40727,soni1259,snk,soninke (kaedi (MRT)),kaedi (MRT)
+pdea9e,koyr1242,ses,"Songhay, Koyraboro Senni",NA
+p7ce15,lele1276,lln,Lele,NA
+p1b18c,ikal1242,kck,Ikalanga,NA
+pb9503,mong1338,lol,mongo-nkundu,NA
+p5787a,long1387,wok,longto,NA
+pf5bf1,xwel1235,xwe,xwela,NA
+p93f68,west2456,xwl,western xwla,NA
+p322df,kota1272,kqk,kotafon,NA
+pd0656,gbes1238,gbs,gbesi,NA
+p6e9cd,mach1266,jmc,machame,bosho
+p0cd44,mada1282,mda,mada,NA
+pab0bb,mbee1249,mfo,mbe,NA
+p49432,ngwe1238,nwe,ngwe,NA
+pe77a9,jowu1238,jow,jowulu,NA
+p85b20,yala1263,yba,yala,ikom
+p23e97,mamb1296,mgr,cilungu,NA
+pc220e,kete1252,kcv,kete,NA
+p60585,kwes1244,kws,kwezo,NA
+pfe8fc,sout2828,snm,Madi,Lokai
+p9cc73,moru1253,mgd,Moru,NA
+p3afea,logo1259,log,Logo,NA
+pd9361,afit1238,aft,Afitti,NA
+p776d8,avat1244,avn,Avatime,NA
+p15a4f,abua1244,abn,Abua,NA
+pb3dc6,anyi1245,any,Anyi,NA
+p5213d,dghw1239,dgh,Dghwede,NA
+pf04b4,eloy1241,afo,Eloyi,NA
+p8e82b,nige1253,fuv,Fula (Nigeria),Nigeria
+p2cba2,giky1238,acd,Gechode,NA
+pcaf19,giny1241,ayg,Genyanga,NA
+p69290,huba1236,hbb,Kilba,NA
+p07607,kofy1242,kwl,Kofyar,NA
+pa597e,krac1238,kye,Krache,NA
+p43cf5,krim1238,bmf,Krim,NA
+pe206c,west2458,bbp,"Banda, West Central",Tangbago
+p803e3,sout2833,dib,"Dinka, South Central",NA
+p1e75a,food1238,fod,Foodo,NA
+pbcad1,jola1262,csk,Joola Huluf,NA
+p5ae48,jumj1238,jum,Jumjum,NA
+pf91bf,buru1301,bdi,Burun,Kurmuk
+p97536,olub1238,lul,Lulubo,NA
+p358ad,maay1238,ymm,Maay,Lower Jubba
+pd3c24,maba1273,mfz,Mabaan,NA
+p71f9b,suga1248,sgi,Nizaa,NA
+p10312,copi1238,cce,Copi,NA
+pae689,xhos1239,xho,Xhosa,NA
+p4ca00,siwu1238,akp,Siwu,NA
+pead77,sher1258,bun,Sherbro,NA
+p890ee,mman1238,buy,Mmani,NA
+p27465,cher1271,cpn,Hill Guang,Gwa
+pc57dc,palo1243,fap,Ndut-Falor,Falor
+p63b53,fraf1238,gur,Frafra,Gudeni
+p01eca,sekp1241,lip,Likpe,Bakwa
+pa0241,mamp1244,maw,Mampruli,Walewale
+p3e5b8,tong1318,toi,Shanjo,NA
+pdc92f,bady1239,pbp,Pajade,Badiaranke
+p7aca6,sele1249,snw,Sele,NA
+p1901d,tivv1240,tiv,Tiv,Central (Standard)
+pb7394,bili1260,byn,Blin,NA
+p5570b,xamt1239,xan,Xamtanga,NA
+pf3a82,lika1243,lik,Lika,NA
+p91df9,yans1239,yns,Yanzi,NA
+p30170,budu1250,buu,Kibudu,NA
+pce4e7,kele1255,khy,Iikile,NA
+p6c85e,leng1258,lej,Lengola,Balega
+p0abd5,keli1248,kbo,Kaliko,NA
+pa8f4c,wong1247,won,Wongo,Isiinkere
+p472c3,mwal1237,wlc,Mwali,NA
+pe563a,afar1241,aar,Afar,NA
+p839b1,mund1325,mua,Mundang,NA
+p21d28,mono1269,mru,Mono,NA
+pc009f,tupu1244,tui,Tupuri,NA
+p5e416,kuoo1238,xuo,Kuo,NA
+pfc78d,kare1338,kbn,Kare,NA
+p9ab04,ndai1238,gke,Galke,NA
+p38e7b,bamb1262,myf,Northern Mao,NA
+pd71f2,tigr1271,tir,Tigrinya,NA
+p75569,kara1483,kdj,Karimojong,NA
+p138e0,gwan1268,gwn,Gwandara (Karshi),Karshi
+pb1c57,gwan1268,gwn,Gwandara (Cancara),Cancara
+p4ffce,gwan1268,gwn,Gwandara (Toni),Toni
+pee345,gwan1268,gwn,Gwandara (Gitata),Gitata
+p8c6bc,gwan1268,gwn,Gwandara (Koro),Koro
+p2aa33,gwan1268,gwn,Gwandara (Nimbia),Nimbia
+pc8daa,avik1243,avi,Avikam,NA
+p67121,shil1265,shk,Shilluk,NA
+p05498,haio1238,hgm,San,NA
+pa380f,pero1241,pip,Pero,NA
+p41b86,bora1271,gax,Galla,NA
+pdfefd,hadi1240,hdy,Hadiyya,NA
+p7e274,wola1242,wal,Welamo,NA
+p1c5eb,kuny1238,njx,Nyanga,NA
+pba962,otuh1238,lot,Otuho,NA
+p58cd9,masa1299,myx,Orusyan,NA
+pf7050,kamw1239,hig,Higi,NA
+p953c7,many1261,mzj,Manya,NA
+p3373e,saya1246,say,Syan,NA
+pd1ab5,njeb1242,nzb,Nzɛbi,NA
+p6fe2c,tada1238,dsq,Tadaksahak,NA
+p0e1a3,kamb1316,ktb,Kambaata,NA
+pac51a,otor1240,otr,Otoro,NA
+p4a891,tira1254,tic,Tira,NA
+pe8c08,nyam1285,nmi,Nyam,NA
+p86f7f,fali1285,fli,Kirya-Konzɘl,NA
+p252f6,mawa1270,mcw,Mawa,NA
+pc366d,huaa1248,nmn,!Xóõ,NA
+p619e4,koal1240,kib,Koalib,NA
+pffd5b,kagu1239,kki,Kagulu,NA
+p9e0d2,okoo1245,oks,Oko,NA
+p3c449,kung1261,knw,!Xun,W2
+pda7c0,ghom1247,bbj,Banjun,NA
+p78b37,defa1248,afn,Defaka,NA
+p16eae,teee1242,tkq,Tee,NA
+pb5225,kips1239,sgc,Kipsigis,NA
+p5359c,pang1287,pbr,Pangwa,NA
+pf1913,holo1240,hoo,Holoholo,NA
+p8fc8a,buli1254,bwu,Buli,NA
+p2e001,bala1302,bjt,Balante,Ganja
+pcc378,nyam1277,now,Kinyambo,NA
+p6a6ef,dann1241,daf,Dan,Santa
+p08a66,poko1263,pko,Pokot,NA
+pa6ddd,afri1274,afr,Afrikaans,NA
+p45154,argo1244,agj,Argobba,NA
+pe34cb,hara1271,har,Harari,NA
+p81842,dink1262,din,Dinka,macrolanguage
+p1fbb9,nzim1238,nzi,Nzema,NA
+pbdf30,ahan1243,aha,Ahanta,NA
+p5c2a7,besl1239,hna,Besleri,NA
+pfa61e,buwa1243,bhs,Buwal,NA
+p98995,hdii1240,xed,Hide,NA
+p36d0c,lama1288,hia,Lamang,NA
+pd5083,ikwe1242,ikw,Ikwere,NA
+p733fa,lagw1237,kot,Lagwan,NA
+p11771,gbay1281,gmm,Mbodomo,NA
+pafae8,mbuk1243,mqb,Mbuko,NA
+p4de5f,molo1266,mlw,Moloko,NA
+pec1d6,muya1243,muy,Muyang,NA
+p8a54d,ngom1272,jgo,Ngomba,NA
+p288c4,keme1240,dmo,Kemezung,NA
+pc6c3b,nate1242,ntm,Nateni,NA
+p64fb2,silt1240,stv,Silt'i,NA
+p03329,wehh1238,weh,Weh,NA
+pa16a0,tuli1249,tey,Tulishi,Kamda
+p3fa17,keig1242,kec,Keiga,NA
+pddd8e,kron1241,kgo,Krongo,NA
+p7c105,kang1288,kcp,Kanga (Kanga),Kanga
+p1a47c,kang1288,kcp,Kanga (Kufa),Kufa
+pb87f3,katc1249,xtc,Kadugli (Kadugli),Kadugli
+p56b6a,katc1249,xtc,Kadugli (Miri),Miri
+pf4ee1,katc1249,xtc,Kadugli (Katcha),Katcha
+p93258,moro1284,mgc,Morokodo,NA
+p315cf,arin1244,luc,Aringa,NA
+pcf946,tese1238,keg,These,NA
+p6dcbd,lumu1239,lmd,Lumun,NA
+p0c034,ache1245,acz,Asharon,NA
+paa3ab,toch1257,taz,Tocco,NA
+p48722,dagi1241,dec,Thakik,NA
+pe6a99,didi1258,did,Didinga,NA
+p84e10,luwo1239,lwo,Luwo,NA
+p23187,acol1236,ach,Acholi,NA
+pc14fe,bela1256,bxb,Belanda Boor,NA
+p5f875,bela1255,bvi,Belanda Viri,NA
+pfdbec,ndog1248,ndz,Ndogo,NA
+p9bf63,bade1248,bde,Bade,Western
+p3a2da,fern1234,fpe,Pichi,NA
+pd8651,jita1239,jit,Jita,NA
+p769c8,dime1235,dim,Dime,NA
+p14d3f,tsot1241,lto,Lutsootso,NA
+pb30b6,jams1239,djm,"Jamsay, Dogon",NA
+p5142d,kamb1297,kam,Kikamba,NA
+pef7a4,bafi1243,ksf,Bafia,NA
+p8db1b,lang1324,laj,Lango,NA
+p2be92,kisa1263,lks,Olukisa,NA
+pca209,nyol1238,nuj,Nyole,NA
+p68580,mwan1247,wmw,Kimwani,NA
+p068f7,kgal1244,xkv,Shekgalagari,NA
+pa4c6e,tiey1235,boz,Tigemaxo Bozo,NA
+p42fe5,alab1254,alw,Alaaba,NA
+pe135c,dege1246,deg,Degema,NA
+p7f6d3,ntch1242,bud,Basari,NA
+p1da4a,prin1242,pre,Principense,NA
+pbbdc1,nkon1248,nko,Nkonya,NA
+p5a138,sodd1242,gru,Soddo,NA
+pf84af,kist1241,gru,Goggot,NA
+p96826,mesq1240,mvz,Masqan,NA
+p34b9d,seba1251,sgw,Muher,NA
+pd2f14,ezha1238,sgw,Ezha,NA
+p7128b,chah1248,sgw,Chaha,NA
+p0f602,gume1239,sgw,Gumer,NA
+pad979,seba1251,sgw,Gura,NA
+p4bcf0,seba1251,sgw,Gyeto,NA
+pea067,inor1238,ior,Ennemor,NA
+p883de,inor1238,ior,Endegen,NA
+p26755,inor1238,ior,Ener,NA
+pc4acc,dzuu1241,dnn,Dzuungoo,NA
+p62e43,bagi1246,bmi,Bagirmi,NA
+p011ba,ngit1239,niy,Ngiti,NA
+p9f531,ndal1241,ndh,Chindali,NA
+p3d8a8,meen1242,mym,Me'en,NA
+pdbc1f,ngas1238,nsg,Ongamo,NA
+p79f96,mbay1241,myb,Mbay,NA
+p1830d,gumu1244,guk,Gumuz,Sese
+pb6684,sooo1256,teu,Soo,NA
+p549fb,benc1235,bcq,Gimira,Benchnon
+pf2d72,benc1235,bcq,Bench,NA
+p910e9,yems1235,jnj,Yemsa,NA
+p2f460,zays1236,zay,Zayse,NA
+pcd7d7,gamo1243,gmv,Gamo,NA
+p6bb4e,koor1239,kqy,Koorete,NA
+p09ec5,aari1239,aiw,Aari,NA
+pa823c,komo1258,xom,Komo,NA
+p465b3,uduk1239,udu,Twampa,NA
+pe492a,opuu1239,lgn,Opo,NA
+p82ca1,kwam1249,kmq,Kwama,NA
+p21018,mayo1261,mdm,Mayogo,NA
+pbf38f,saam1283,lsm,Lusaamia,NA
+p5d706,sout2795,nnw,Nouni,NA
+pfba7d,nort2795,nde,Ndebele,NA
+p99df4,saxw1241,sxw,"Saxwe, Gbe",NA
+p3816b,nari1240,loh,Laarim,NA
+pd64e2,bidy1244,bjg,Bijogo,NA
+p74859,domp1238,doy,Dompo,NA
+p12bd0,bamb1269,bam,Bamana,Beledugu
+pb0f47,heib1243,hbn,Heiban,NA
+p4f2be,koya1253,kga,Koyaga,NA
+ped635,shwa1239,shw,Cwaya,NA
+p8b9ac,gaaa1245,ttb,Tiba,NA
+p29d23,kuan1247,kua,Kwanyama,NA
+pc809a,mbal1255,lnb,Mbalanhu,NA
+p66411,kwam1251,kwm,Kwambi,NA
+p04788,ngan1300,nne,Ngandjera,NA
+pa2aff,ndon1254,ndo,Ndonga (Kwaluudhi),Kwaluudhi
+p40e76,ndon1254,ndo,Ndonga (Kolonkadhi),Kolonkadhi
+pdf1ed,ndon1254,ndo,Ndonga (Eunda),Eunda
+p7d564,konk1269,xon,Konkomba,Nawaré
+p1b8db,zagh1240,zag,Beria,NA
+pb9c52,zayy1238,zwa,Zway,NA
+p57fc9,bomi1238,zmx,Leke,NA
+pf6340,nort2819,bbo,"Bobo, North",Tansila
+p946b7,bena1262,bez,Bena,NA
+p32a2e,guin1254,gkp,"Kpelle, North",NA
+pd0da5,kaka1265,kke,Kakabe,NA
+p6f11c,lele1266,llc,Lele,NA
+p0d493,loma1260,lom,Looma,NA
+pab80a,mann1248,mev,Mano,NA
+p49b81,kyen1242,tye,Kyanga,NA
+pe7ef8,shan1282,sho,Shanga,NA
+p8626f,abur1243,abu,Abure,NA
+p245e6,bank1256,abb,Bankon,NA
+pc295d,efut1241,afu,Efutu,NA
+p60cd4,aghe1239,agq,Aghem,NA
+pff04b,arbo1245,arv,Arbore,NA
+p9d3c2,abid1235,abi,Abidji,NA
+p3b739,adio1239,adj,Adioukrou,NA
+pd9ab0,tiag1235,ahi,"Aizi, Tiagba",NA
+p77e27,alla1248,ald,Alladian,NA
+p1619e,begb1241,bqv,Tinɔr,NA
+pb4515,ngaz1238,zdj,Shindazidja,Washili
+p5288c,akpe1248,ibe,Akpes,Daja
+pf0c03,eten1239,etx,Iten,NA
+p8ef7a,nuer1246,nus,Nuer,NA
+p2d2f1,kagf1238,gel,West Kainji,NA
+pcb668,idom1241,idu,Idu,NA
+p699df,irig1241,iri,Rigwe,NA
+p07d56,izer1241,izr,Izere,NA
+pa60cd,jere1244,jer,Jere,Eboze
+p44444,legb1242,agb,Leggbo,NA
+pe27bb,logb1245,lgq,Logba,NA
+p80b32,awng1244,awn,Awngi,NA
+p1eea9,glav1244,glw,Glavda,NA
+pbd220,ahan1244,ahn,Ahaan,NA
+p5b597,ayer1245,aye,Uwu,NA
+pf990e,rong1268,rng,Ronga,NA
+p97c85,ndzw1235,wni,"Comorian, Ndzwani",NA
+p35ffc,sout2790,biv,Birifor,NA
+pd4373,kuwa1246,cwt,Kwatay,NA
+p726ea,atti1239,ati,Attie,Memni
+p10a61,ango1258,aoa,Angolar,NA
+paedd8,east2652,hae,"Oromo, Eastern",Harar
+p4d14f,uppe1455,pov,Kriyol,NA
+peb4c6,akoo1248,bss,Akoose,Nyasoso
+p8983d,baka1273,bqz,Bakaka (Mwaneka),Mwaneka
+p27bb4,baka1273,bqz,Bakaka (Babong),Babong
+pc5f2b,baka1273,bqz,Bakaka (Mkaa'),Mkaa'
+p642a2,mboc1235,mbo,Mbo (Ekanang),Ekanang
+p02619,bass1260,bsi,Bassossi,Mienge
+pa0990,mboc1235,mbo,Mbo (Ngwatta),Ngwatta
+p3ed07,libe1240,lir,Liberian English,NA
+pdd07e,gagu1242,ggu,Gban,NA
+p7b3f5,eton1253,eto,Eton,NA
+p1976c,reun1238,rcf,Reunionnais,NA
+pb7ae3,nucl1440,mls,Masalit,NA
+p55e5a,saot1239,cri,Saotomense,NA
+pf41d1,nucl1696,tan,Tangale,NA
+p92548,suku1261,suk,Sukuma,NA
+p308bf,mori1278,mfe,Mauritian Creole,Ordinary'
+pcec36,krio1253,kri,Krio,NA
+p6cfad,kitu1246,ktu,Kituba,Kwilu
+p0b324,akas1242,aks,Akasilimi,NA
+pa969b,tuki1240,bag,Tuki,NA
+p47a12,baka1272,bkc,Baka,NA
+pe5d89,bumm1238,bmv,Bum,NA
+p84100,nucl1683,dbq,Daba,NA
+p22477,gava1241,gou,Gavar,NA
+pc07ee,gude1246,gde,Gu'de,NA
+p5eb65,lang1322,lno,Lango,NA
+pfcedc,igoo1238,ahl,Igo,NA
+p9b253,kako1242,kkj,Kako,NA
+p395ca,kwan1276,knp,Kwanja,Sundani
+pd7941,came1252,mcu,Mambila,Atta
+p75cb8,mere1246,meq,Mere,NA
+p1402f,wand1278,mfi,Mandara,NA
+pb23a6,chon1287,coh,Chonyi,NA
+p5071d,digo1243,dig,Digo,NA
+peea94,duru1249,dug,Duruma,NA
+p8ce0b,giry1241,nyf,Giryama,NA
+p2b182,giry1241,nyf,Jiβana,NA
+pc94f9,kamb1298,nyf,Kambe,NA
+p67870,kaum1238,nyf,Kauma,NA
+p05be7,giry1241,nyf,Raβai,NA
+pa3f5e,giry1241,nyf,Reβe,NA
+p422d5,vame1236,mlr,Vame,NA
+pe064c,mmaa1238,mmu,Numala,NA
+p7e9c3,mpad1242,mpi,Kotoko,Makary
+p1cd3a,mofu1248,mif,"Mofu, South",Gudur
+pbb0b1,mbee1249,mfo,Mbe,NA
+p59428,ncan1245,ncr,Nchane,NA
+pf779f,mfum1238,nfu,Mfumte,NA
+p95b16,njye1238,njy,Njem,NA
+p33e8d,buam1238,box,Bwamut,Bondoukuy
+pd2204,kwam1250,ktf,Kwami,NA
+p7057b,guro1248,goa,Gouro,NA
+p0e8f2,kabu1256,kea,Cape Verde Creole,NA
+pacc69,boun1243,nku,Kulango,Bouna
+p4afe0,tsam1247,tsb,Ts'amakko,NA
+pe9357,cent2194,tzm,Tamazight Berber,NA
+p876ce,siwi1239,siz,Siwi,NA
+p25a45,ndam1239,ndj,Ndamba,NA
+pc3dbc,bare1279,bva,Barein (Jalkiya),Jalkiya
+p62133,bare1279,bva,Barein (Giliya),Giliya
+p004aa,bare1279,bva,Barein (Jalking),Jalking
+p9e821,bare1279,bva,Barein (Komiya),Komiya
+p3cb98,gaam1241,tbi,Gaahmg,NA
+pdaf0f,abar1238,mij,Mungbam,Munken
+p79286,mund1328,boe,Mundabli,NA
+p175fd,mbuu1238,muc,Ajumbu,NA
+pb5974,kosh1246,kid,Koshin,NA
+p53ceb,fang1248,fak,Fang,NA
+pf2062,kura1250,knk,Kuranko,NA
+p903d9,niel1243,nie,Lwaa,NA
+p2e750,nort3047,gis,Gisiga,North
+pccac7,mogh1246,mgo,Moghamo,NA
+p6ae3e,mokp1239,bri,Mokpwe,NA
+p091b5,siam1242,sif,Siamou,NA
+pa752c,ngie1241,nnh,Ngiemboon,NA
+p458a3,nugu1242,yas,Nugunu,NA
+pe3c1a,tigo1236,nza,Mbembe,NA
+p81f91,orma1241,orc,Orma,NA
+p20308,piny1238,pny,Pinyin,NA
+pbe67f,pana1294,pnz,Pana,NA
+p5c9f6,reel1238,atu,Thok Reel,NA
+pfad6d,wuzl1236,udl,Ouldeme,NA
+p990e4,lese1243,les,Balese,NA
+p3745b,tour1242,neb,Toura,NA
+pd57d2,gwen1239,gwe,Kigweno,NA
+p73b49,sumb1240,suw,Sisumbwa,NA
+p11ec0,zinz1238,zin,Luzinza,NA
+pb0237,meru1245,mer,Kimeru,NA
+p4e5ae,kahe1238,hka,Kikahe,NA
+pec925,hang1260,han,Kihangaza,NA
+p8ac9c,moch1256,old,Kimochi,NA
+p29013,suba1252,ssc,Kisimbiti,NA
+pc738a,kway1241,kya,Eciruuri,NA
+p65701,wawa1246,www,Wawa,NA
+p03a78,tach1250,shi,Tachelhit,NA
+pa1def,tuni1251,tug,Tounia,NA
+p40166,ceba1235,sef,"Senoufo, Cebaara",Tangari
+pde4dd,fuli1240,flr,Fuliiru,NA
+p7c854,sand1273,sad,Sandawe,NA
+p1abcb,tsuv1239,tvd,Tsuvaɗi,NA
+pb8f42,ejag1239,etu,Ejagham,NA
+p572b9,yemb1246,ybb,Yemba,NA
+pf5630,bafa1249,bfj,Nchufie,NA
+p939a7,burj1242,bji,Burji,NA
+p31d1e,anii1245,blo,Anii,NA
+pd0095,fipa1238,fip,Fipa,Kwa
+p6e40c,nawu1242,naw,Nawuri,NA
+p0c783,anfi1235,myo,Anfillo,NA
+paaafa,ntom1248,nto,Bokala-Nkole,Nkole
+p48e71,tumt1243,tbr,Talasa,NA
+pe71e8,iyiv1238,uiv,Iyive,NA
+p8555f,bata1293,btx,Karo Batak,NA
+p238d6,taga1270,tgl,Tagalog,NA
+pc1c4d,sout2918,ssb,Southern Sama,"Sinama, Simunul Island"
+p5ffc4,kima1244,kqr,Kimaragang,Tandek
+pfe33b,bela1260,beg,Belait,Metting
+p9c6b2,ilok1237,ilo,Iloko/Ilocano,Northern
+p3aa29,east2563,cjm,Phan Rang Cham (Eastern Cham),NA
+pd8da0,mokl1243,mkm,Moklen,NA
+p77117,moke1242,mwt,Moken,Dung Moken
+p1548e,nias1242,nia,Nias,Selatan
+pb3805,java1254,jav,Javanese,Yogya-Solo
+p51b7c,buol1237,blf,Buol,NA
+pefef3,maka1311,mak,Makassar,NA
+p8e26a,mori1268,xmz,Mori Bawah,Tinompo
+p2c5e1,kamb1299,xbr,Kambera,NA
+pca958,tetu1245,tet,Tetun,NA
+p68ccf,leti1246,lti,Leti,NA
+p07046,east2440,mky,"Makian, East (Taba)",NA
+pa53bd,biak1248,bhw,Biak,Sowek
+p43734,ambo1250,abs,Ambon Malay,NA
+pe1aab,band1353,bpq,Banda Malay,NA
+p7fe22,mala1481,xmm,Manado Malay,NA
+p1e199,kupa1239,mkn,Kupang Malay,NA
+pbc510,lara1260,lrt,Larantuka Malay,NA
+p5a887,nort2828,max,North Maluku Malay,NA
+pf8bfe,indo1316,ind,Indonesian,Standard
+p96f75,nucl1460,mad,Madurese,Bangkalan
+p352ec,cebu1242,ceb,Cebuano,NA
+pd3663,bali1278,ban,Balinese,NA
+p719da,bugi1244,bug,Bugis,NA
+p0fd51,cent2087,bcl,Bikol (Bicolano),Central
+pae0c8,hili1240,hil,Hiligaynon,NA
+p4c43f,pamp1243,pam,Kapampangan,NA
+pea7b6,mina1268,min,Minangkabau,Padang
+p88b2d,pang1290,pag,Pagasinan,NA
+p26ea4,teng1272,tes,Tengger,Ngadas
+p80cc0,abuj1237,mrr,Abujmaria,NA
+p1f037,apuc1241,apq,Andamanese,NA
+pbd3ae,anga1288,njm,Angami,NA
+p5b725,aona1235,njo,Ao-Naga,NA
+pf9a9c,apat1240,apt,Apatani,NA
+p97e13,assa1263,asm,Assamese,NA
+p3618a,awad1243,awa,Awadhi,NA
+pd4501,bada1257,bfq,Badaga,NA
+p72878,balt1258,bft,Balti,NA
+p10bef,lamb1269,lmn,Banjara,NA
+paef66,beng1280,ben,Bengali,NA
+p4d2dd,bhil1251,bhb,Bhili,NA
+peb654,mund1320,unr,Bhumij,NA
+p899cb,boro1277,bwo,BoRo,NA
+p27d42,brok1247,bkk,Brokskat,NA
+pc60b9,bund1253,bns,Bundeli,NA
+p64430,chau1259,cdn,Chandangs and Byangs,NA
+p027a7,chok1243,nri,Chokri,NA
+pa0b1e,darm1243,drd,Darmiya,NA
+p3ee95,gata1239,gaq,Didayi,NA
+pdd20c,gade1236,gda,Gade-Lohar,NA
+p7b583,galo1242,adl,Gallong,NA
+p198fa,garo1247,grt,Garo,NA
+pb7c71,guja1253,gju,Gojri,NA
+p55fe8,guja1252,guj,Gujarati,NA
+pf435f,bodo1267,gbj,Gutob,NA
+p926d6,halb1244,hlb,Halbi,NA
+p30a4d,hind1269,hin,Hindi,NA
+pcedc4,hooo1248,hoc,Ho,NA
+p6d13b,irul1243,iru,Irula,NA
+p0b4b2,jaun1243,jns,Jaunsari,NA
+pa9829,juan1238,jun,Juang,NA
+p47ba0,kang1280,xnr,Kangri,NA
+pe5f17,nucl1305,kan,Kannada,NA
+p8428e,saur1248,saz,Kanigke:rgotti,NA
+p22605,karb1241,mjw,Karbi (Mikir),NA
+pc097c,irul1243,iru,Kasaba,NA
+p5ecf3,kash1277,kas,Kashmiri,NA
+pfd06a,jenn1240,xuj,Kattunaika,NA
+p9b3e1,khar1287,khr,Kharia,NA
+p39758,khas1269,kha,Khasi,NA
+pd7acf,khez1235,nkh,Khezha,NA
+p75e46,koda1255,kfa,Kod̩agu,NA
+p141bd,nort2699,kfb,Kolami,NA
+pb2534,kond1295,kfc,Kon̩d̩a or Kubi,NA
+p508ab,mudh1235,gau,Kon̩ekar Gadaba,NA
+peec22,konk1267,knn,Konkani,NA
+p8cf99,korr1238,kfd,Koraga,NA
+p2b310,kork1243,kfq,Korku,NA
+pc9687,kota1263,kfe,Kota,NA
+p679fe,koya1251,kff,Koya,NA
+p05d75,kuii1252,kxu,Kui,NA
+pa40ec,kuma1273,kfy,Kumauni,NA
+p42463,kuru1302,kru,Kurux,NA
+pe07da,kuvi1243,kxv,Kuvi,NA
+p7eb51,lada1244,lbj,Ladakhi,NA
+p1cec8,lamb1269,lmn,Lamani,NA
+pbb23f,lepc1244,lep,Lepca,NA
+p595b6,loth1237,njh,Lotha,NA
+pf792d,lush1249,lus,Lushai,NA
+p95ca4,mait1250,mai,Maithili,NA
+p3401b,mala1464,mal,Malayalam,NA
+pd2392,saur1249,mjt,Malto,NA
+p70709,mani1292,mni,Manipuri,NA
+p0ea80,maon1238,nbi,Mao-Naga,NA
+pacdf7,mara1378,mar,Marathi,NA
+p4b16e,miju1243,mxj,Mishmi,NA
+pe94e5,miny1240,mrg,Mising,NA
+p8785c,moyo1238,nmo,Moyon,NA
+p25bd3,mund1320,unr,Mundari,NA
+pc3f4a,naik1250,nit,Naiki,NA
+p622c1,nepa1254,npi,Nepali,NA
+p00638,cent1990,ncb,Nicobarese,NA
+p9e9af,pott1240,gdb,Ollari,NA
+p3cd26,oriy1255,ory,Oriya,NA
+pdb09d,pait1244,pck,Paite,NA
+p79414,duru1236,pci,Parji,NA
+p1778b,patt1248,lae,Pat̩t̩an̩i,NA
+pb5b02,peng1244,peg,Pengo,NA
+p53e79,panj1256,pan,Punjabi,NA
+pf21f0,bond1245,bfw,Remo,NA
+p90567,sans1269,san,Sanskrit,NA
+p2e8de,sant1410,sat,Santali,NA
+pccc55,sumi1235,nsm,Sema,NA
+p6afcc,shin1264,scl,Shina,NA
+p09343,sind1272,snd,Sindhi,NA
+pa76ba,sora1254,srb,Soːra,NA
+p45a31,tami1289,tam,Tamil,NA
+pe3da8,tang1336,nmf,Tangkul Naga,NA
+p8211f,tase1235,nst,Tangsa,NA
+p20496,telu1262,tel,Telugu,NA
+pbe80d,thad1238,tcz,Thaadou,NA
+p5cb84,toda1252,tcx,Toda,NA
+pfaefb,kokb1239,trp,Tripuri,NA
+p99272,tulu1258,tcy,Tulu,NA
+p375e9,ural1274,url,Urali,NA
+pd5960,urdu1245,urd,Urdu,NA
+p73cd7,vaag1238,vaa,Vaagri Boli,NA
+p1204e,ravu1237,yea,Yerava,NA
+pb03c5,yeru1240,yeu,Yerukala,NA
+p4e73c,qawa1238,alc,Kawesqar,Kawesqar
+pecab3,mapu1245,arn,Mapudungun,NA
+p8ae2a,acha1250,aca,Achagua,NA
+p291a1,apur1254,apu,Apurinã,NA
+pc7518,araw1276,arw,Lokono,NA
+p6588f,asha1243,cni,Asháninka,NA
+p03c06,ajyi1238,cpc,Ashéninka,Apurucayali dialect
+pa1f7d,ashe1272,prq,Ashéninka,Perené dialect
+p402f4,pich1237,cpu,Ashéninka,Pichis dialect
+pde66b,ucay1237,cpb,Ashéninka,Ucayali-Yurúa dialect
+p7c9e2,bani1255,bwi,Baniwa,Central
+p1ad59,bani1255,bwi,Baniwa,Rio Negro
+pb90d0,bare1276,bae,Baré,NA
+p57447,cabi1241,cbb,Cabiyarí,NA
+pf57be,caqu1242,cot,Caquinte,NA
+p93b35,cham1318,ccc,Chamicuro,NA
+p31eac,curr1243,kpc,Curripaco,NA
+pd0223,enaw1238,unk,Enawené-Nawé,NA
+p6e59a,inap1243,inp,Iñapari,NA
+p0c911,guan1270,gqn,Kinikinao,NA
+paac88,mach1268,mpd,Manchinere,NA
+p48fff,mach1267,mcb,Matsigenka,NA
+pe7376,mehi1240,mmh,Mehináku,NA
+p856ed,nant1250,cox,Nanti,NA
+p23a64,noma1263,not,Nomatsigenga,NA
+pc1ddb,pali1279,plu,Palikúr,NA
+p60152,para1316,pbg,Paraujano,NA
+pfe4c9,pare1272,pab,Paresí,NA
+p9c840,piap1246,pio,Piapoco,NA
+p3abb7,resi1247,rgr,Resígaro,NA
+pd8f2e,tari1256,tae,Tariana,NA
+p772a5,tere1279,ter,Terêna,NA
+p1561c,wapi1253,wap,Wapichana,NA
+pb3993,guar1293,gae,Warekena,NA
+p51d0a,waur1244,wau,Waurá,NA
+pf0081,wayu1243,guc,Wayúu,NA
+p8e3f8,xiri1243,xir,Xiriâna,NA
+p2c76f,yane1238,ame,Yánesha,NA
+pcaae6,yavi1244,yvt,Yavitero,NA
+p68e5d,yawa1261,yaw,Yawalapití,NA
+p071d4,yine1238,pib,Yine,NA
+pa554b,yucu1253,ycn,Yucuna,NA
+p438c2,baur1253,brg,Baure,NA
+pe1c39,igna1246,ign,Ignaciano,NA
+p7ffb0,deni1241,dny,Dení,NA
+p1e327,jama1261,jaa,Jamamadí,Jamamadí
+pbc69e,jama1261,jaa,Jarawara,Jarawara
+p5aa15,culi1244,cul,Kulina,NA
+pf8d8c,paum1247,pad,Paumarí,NA
+p97103,suru1263,swx,Suruahá,NA
+p3547a,cent2142,ayr,Aymara,Central dialect
+pd37f1,jaqa1244,jqr,Jaqaru,NA
+p71b68,awac1239,kwi,Awa-Cuaiquer,NA
+p0fedf,chac1249,cbi,Cha'palaa,NA
+pae256,guam1248,gum,Guambiano,NA
+p4c5cd,colo1256,cof,Tsáfiki,NA
+pea944,bora1263,boa,Bora,NA
+p88cbb,mira1254,boa,Miraña,Miraña
+p27032,muin1242,bmr,Muinane,NA
+pc53a9,jebe1250,jeb,Shiwilu,NA
+p63720,chay1248,cbt,Shawi,NA
+p01a97,akur1238,ako,Akurio,NA
+p9fe0e,apal1257,apy,Apalaí,NA
+p3e185,para1310,aap,"Arára, Pará",NA
+pdc4fc,baka1277,bkq,Bakairí,Eastern dialect
+p7a873,baka1277,bkq,Bakairí,Western dialect
+p18bea,gali1262,car,Carib,French Guiana dialect
+pb6f61,gali1262,car,Carib,Venezuela dialect
+p552d8,gali1262,car,Carib,Suriname dialect
+pf364f,cari1279,cbd,Carijona,NA
+p919c6,hixk1239,hix,Hixkaryána,NA
+p2fd3d,ikpe1245,txi,Ikpeng,NA
+pce0b4,akaw1239,ake,Ingarikó,NA
+p6c42b,japr1238,jru,Japreria,NA
+p0a7a2,kaxu1237,kbb,Kaxuiâna,NA
+pa8b19,kuik1246,kui,Kuikúro-Kalapálo,NA
+p46e90,macu1259,mbc,Macushi,NA
+pe5207,mapo1246,mcg,Mapoyo,NA
+p8357e,maqu1238,mch,Yekwana,NA
+p218f5,enap1235,pbh,Panare,NA
+pbfc6c,pemo1248,aoc,Pemon,Tarepang dialect
+p5dfe3,pemo1248,aoc,Pemon,Arekuna dialect
+pfc35a,pemo1245,pev,Pémono,NA
+p9a6d1,trio1238,tri,Trió,NA
+p38a48,waim1253,atr,Waimiri-Atroarí,NA
+pd6dbf,waiw1244,waw,Waiwai,NA
+p75136,waya1269,way,Wayana,NA
+p134ad,yaba1248,yar,Yabarana,NA
+pb1824,orow1243,orw,Oro Win,NA
+p4fb9b,wari1268,pav,Wari',NA
+pedf12,arhu1242,arh,Ika,NA
+p8c289,bari1297,mot,Barí,NA
+p2a600,chib1270,chb,Muisca,NA
+pc8977,chim1309,cbg,Chimila,NA
+p66cee,cofa1242,con,Cofán,NA
+p05065,cogu1240,kog,Kogi,NA
+pa33dc,bord1248,kvn,Border Kuna,NA
+p41753,mala1522,mbp,Damana,NA
+pdfaca,cent2150,tuf,Tunebo,Central dialect
+p7de41,woun1238,noa,Woun Meu,NA
+p1c1b8,embe1259,bdc,Emberá-Baudó,NA
+pba52f,embe1260,cto,Emberá-Catío,NA
+p588a6,embe1262,cmi,Emberá-Chamí,NA
+pf6c1d,nort2972,emp,Northern Emberá,NA
+p94f94,epen1239,sja,Epena,NA
+p3330b,puel1244,pue,Günün Yajich,NA
+pd1682,onaa1245,ona,Chon,NA
+p6f9f9,tehu1242,teh,Tehuelche,NA
+p0dd70,coca1259,cod,Kokama-Kokamilla,NA
+pac0e7,cuib1242,cui,Cuiba,NA
+p4a45e,guah1255,guh,Guahibo,NA
+pe87d5,guay1257,guo,Guayabero,NA
+p86b4c,maca1259,mbn,Macaguán,NA
+p24ec3,abip1241,axb,Abipon,NA
+pc323a,kadi1248,kbc,Kadiwéu,NA
+p615b1,moco1246,moc,Mocoví,NA
+pff928,pila1245,plg,Pilagá,NA
+p9dc9f,toba1269,tob,Toba,Lañagashik dialect
+p3c016,toba1269,tob,Toba,Takshek dialect
+pda38d,amar1274,amr,Amarakaeri,NA
+p78704,chol1284,cht,Cholón,NA
+p16a7b,ando1256,ano,Andoke,NA
+pb4df2,abis1238,ash,Aʔɨwa,NA
+p53169,cams1241,kbh,Camsá,NA
+pf14e0,cand1248,cbu,Candoshi-Shapra,NA
+p8f857,cayu1262,cyb,Cayubaba,NA
+p2dbce,iran1263,irn,Mỹky,NA
+pcbf45,iton1250,ito,Itonama,NA
+p6a2bc,leco1242,lec,Leco,NA
+p08633,lule1238,ule,Lule,NA
+pa69aa,moch1259,omc,Mochica,NA
+p44d21,movi1243,mzp,Movima,NA
+pe3098,muni1258,myr,Muniche,NA
+p8140f,paez1247,pbb,Páez,NA
+p1f786,puin1248,pui,Puinave,NA
+pbdafd,taus1253,trr,Taushiro,NA
+p5be74,ticu1245,tca,Ticuna,NA
+pfa1eb,tini1245,tit,Tinigua,NA
+p98562,trum1247,tpy,Trumai,NA
+p368d9,urar1246,ura,Urarina,NA
+pd4c50,vile1241,vil,Vilela,NA
+p72fc7,waor1240,auc,Waorani,NA
+p1133e,wara1303,wba,Warao,NA
+paf6b5,yama1264,yag,Yahgan,NA
+p4da2c,yura1255,yuz,Yurakaré,NA
+pebda3,achu1248,acu,Achuar-Shiwiar,NA
+p8a11a,agua1253,agr,Aguaruna,NA
+p28491,huam1247,hub,Huambisa,NA
+pc6808,shua1257,jiv,Shuar,NA
+p64b7f,cacu1241,cbv,Kakua,NA
+p02ef6,nuka1242,mbr,Nukak,NA
+pa126d,nucl1668,kav,Katukína,NA
+p3f5e4,apin1244,apn,Apinayé,NA
+pdd95b,arik1265,ark,Arikapú,NA
+p7bcd2,boro1282,bor,Borôro,NA
+p1a049,cane1242,ram,Canela,NA
+pb83c0,chiq1248,cax,Bésɨro,NA
+p56737,para1315,gvp,Gavião do Pará,NA
+pf4aae,guat1253,gta,Guató,NA
+p92e25,djeo1235,jbt,Jabutí,NA
+p3119c,kain1272,kgp,Kaingang,NA
+pcf513,kara1500,kpj,Karajá,NA
+p6d88a,kaya1330,txu,Mebengokre,NA
+p0bc01,krah1246,xra,Krahô,NA
+pa9f78,kren1239,kqq,Krenak,NA
+p482ef,krik1239,xri,Krinkati-Timbira,NA
+pe6666,maxa1247,mbl,Maxakalí,NA
+p849dd,ofay1240,opy,Ofayé,NA
+p22d54,pana1307,kre,Panará,NA
+pc10cb,para1315,gvp,Parkateje,NA
+p5f442,puri1262,prr,Puri,NA
+pfd7b9,rikb1245,rkb,Rikbaktsa,NA
+p9bb30,suya1243,suy,Suyá,NA
+p39ea7,suya1243,suy,Tapayuna,Tapayuna
+pd821e,umot1240,umo,Umotína,NA
+p76595,xava1240,xav,Xavánte,NA
+p1490c,xere1240,xer,Xerénte,NA
+pb2c83,xokl1240,xok,Xokleng,NA
+p50ffa,fuln1247,fun,Yaathe,NA
+pef371,saop1235,zkp,"Kaingáng, São Paulo",NA
+p8d6e8,iyow1239,crq,Chorote,Iyo'wujwa and Iyowa'ja dialects
+p2ba5f,maca1260,mca,Maka,NA
+pc9dd6,niva1238,cag,Chulupí,NA
+p6814d,wich1264,mzh,Wichí,Mision la Paz dialect
+p064c4,call1235,caw,Callawaya,NA
+pa483b,mose1249,cas,Mosetén de Covendo,Mosetén de Covendo
+p42bb2,mose1249,cas,Mosetén de Santa Ana,Mosetén de Santa Ana
+pe0f29,mose1249,cas,Tsimané,Tsimané
+p7f2a0,pira1253,myp,Pirahã,NA
+p1d617,daww1239,kwa,Dâw,NA
+pbb98e,hupd1244,jup,Hup,NA
+p59d05,nade1244,mbj,Nadëb,NA
+pf807c,yuhu1238,yab,Yuhup,NA
+p963f3,khit1238,nab,Kithaulhu,Kithaulhu
+p3476a,latu1238,ltn,Latunde,NA
+pd2ae1,mama1278,wmd,Mamaindé,NA
+p70e58,saba1268,sae,Sabanê,NA
+p0f1cf,amah1246,amc,Amahuaca,NA
+pad546,shar1245,mcd,Arara do Acre,NA
+p4b8bd,capa1241,kaq,Capanahua,NA
+pe9c34,cash1251,cbr,Cashibo-Cacataibo,NA
+p87fab,chac1251,cao,Chácobo,NA
+p26322,cash1254,cbs,Kashinawa,NA
+pc4699,pano1254,knt,Katukína,Panoan
+p62a10,kaxa1239,ktx,Kaxararí,NA
+p00d87,koru1247,xor,Korubo,NA
+p9f0fe,mati1255,mpq,Matís,NA
+p3d475,mats1244,mcf,Matsés,NA
+pdb7ec,nuku1263,nuc,Nukini,NA
+p79b63,pano1255,pno,Panobo,NA
+p17eda,poya1241,pyn,Poyanáwa,NA
+pb6251,yami1256,yaa,Saynawa,NA
+p545c8,shan1283,swo,Shanenawa,Shanenawa
+pf293f,shar1245,mcd,Sharanawa,NA
+p90cb6,ship1255,shp,Shipibo,NA
+p2f02d,yami1256,yaa,Yaminawa,NA
+pcd3a4,yawa1260,ywn,Yawanawa,NA
+p6b71b,yora1241,mts,Yora,NA
+p09a92,yagu1244,yad,Yagua,NA
+pa7e09,yame1242,yme,Yameo,NA
+p46180,coro1247,qwa,Ancash Quechua,Sihuas and Corongo dialects
+pe44f7,caja1238,qvc,Cajamarca Quechua,NA
+p8286e,chac1250,quk,Chachapoyas Quechua,NA
+p20be5,cusc1236,quz,Cuzco-Collao Quechua,NA
+pbef5c,lamb1276,quf,Ferreñafe Quechua,NA
+p5d2d3,imba1240,qvi,Imbabura Quichua,NA
+pfb64a,inga1252,inb,Inga,Highland dialect
+p999c1,jung1240,inj,Inga,Jungle dialect
+p37d38,jauj1238,qxw,Jauja-Huanca Quechua,NA
+pd60af,nort2980,qvn,North Junín Quechua,San Pedro de Cajas dialect
+p74426,nort2980,qvn,North Junín Quechua,Tarma dialect
+p1279d,ayac1239,quy,Ayacucho Quechua,NA
+pb0b14,nort2976,qul,Bolivian Quechua,Northern and Southern dialects
+p4ee8b,hual1241,qub,Huallaga Huánuco Quechua,NA
+ped202,nort2979,qxn,Huaylas-Conchucos Quechua,NA
+p8b579,sanm1289,qvs,San Martin Quechua,NA
+p298f0,nort2980,qvn,Yaru Quechua,Yaru Quechua
+pc7c67,sant1432,qus,Santiago del Estero Quechua,NA
+p65fde,napo1242,qvo,Napo Quichua,NA
+p04355,sala1272,qxl,Salasca Quechua,NA
+pa26cc,tena1240,quw,Tena Quechua,NA
+p40a43,piar1243,pid,Piaroa,NA
+pdedba,sali1298,slc,Sáliba,NA
+p7d131,arao1248,aro,Araona,NA
+p1b4a8,cavi1250,cav,Cavineña,NA
+pb981f,esee1248,ese,Ese Ejja,Bolivia
+p57b96,esee1248,ese,Ese Eja,Peru
+pf5f0d,reye1240,rey,Reyesano,NA
+p94284,taca1256,tna,Tacana,NA
+p325fb,bara1380,bsn,Barasana-Eduria,NA
+pd0972,cube1242,cub,Kubeo,NA
+p6ece9,desa1247,des,Desano,NA
+p0d060,guan1269,gvc,Wanano,NA
+pab3d7,cara1272,cbc,Karapanã,NA
+p4974e,kore1283,coe,Koreguaje,NA
+pe7ac5,macu1260,myy,Macuna,NA
+p85e3c,orej1242,ore,Máíhɨki,NA
+p241b3,pira1254,pir,Piratapuyo,NA
+pc252a,seco1241,sey,Secoya,NA
+p608a1,sion1247,snn,Siona,NA
+pfec18,siri1274,sri,Siriano,NA
+p9cf8f,tani1257,tnc,Tanimuca-Retuarã,NA
+p3b306,tatu1247,tav,Tatuyo,NA
+pd967d,tuca1252,tuo,Tucano,NA
+p779f4,tuyu1244,tue,Tuyuca,NA
+p15d6b,waim1255,bao,Waimaha,NA
+pb40e2,yuru1263,yui,Yurutí,NA
+p52459,ache1246,guq,Aché,NA
+pf07d0,akun1241,aqz,Akuntsú,NA
+p8eb47,amun1246,adw,Amundava,NA
+p2cebe,apia1248,api,Apiaká,NA
+pcb235,araw1273,awt,Araweté,NA
+p695ac,xing1248,asn,Asurini do Xingú,NA
+p07923,toca1235,asu,Asuriní do Tocantins,NA
+pa5c9a,avac1239,avv,Avá-Canoeiro,NA
+p44011,awet1244,awe,Awetí,NA
+pe2388,east2555,gui,Chiriguano,Chané dialect
+p806ff,east2555,gui,Chiriguano,Izoceño dialect
+p1ea76,emer1243,eme,Emerillon,NA
+pbcded,gavi1246,gvo,Gavião do Jiparaná,NA
+p5b164,guaj1256,gvj,Guajá,NA
+pf94db,guaj1255,gub,Guajajára,NA
+p97852,mbya1239,gun,Mbyá,NA
+p35bc9,para1311,gug,Paraguayan Guaraní,NA
+pd3f40,guar1292,gyr,Guarayu,NA
+p722b7,juma1249,jua,Júma,NA
+p1062e,juru1256,jur,Jurúna,NA
+pae9a5,urub1250,urb,Kaapor,NA
+p4cd1c,kaiw1246,kgk,Kaiwá,NA
+peb093,kama1373,kay,Kamayurá,NA
+p8940a,kari1311,ktn,Karitiâna,NA
+p27781,karo1306,arr,Karo,NA
+pc5af8,kaya1329,kyz,Kayabí,NA
+p63e6f,kuru1309,kyr,Kuruáya,NA
+p021e6,maku1278,mpu,Makuráp,NA
+pa055d,mund1330,myu,Mundurukú,NA
+p3e8d4,nhen1239,yrl,Nheengatú,NA
+pdcc4b,omag1248,omg,Omagua,NA
+p7afc2,pait1247,pta,Pai Tavytera,NA
+p19339,para1312,pak,Parakanã,NA
+pb76b0,saki1248,skf,Sakirabiá,NA
+p55a27,sate1243,mav,Sateré-Mawé,NA
+pf3d9e,suru1262,sru,Suruí,NA
+p92115,tapi1253,tpj,Tapieté,NA
+p3048c,tapi1254,taf,Tapirapé,NA
+pce803,temb1276,tqb,Tembé,NA
+p6cb7a,tenh1241,pah,Tenharim,NA
+p0aef1,tupa1250,tpr,Tuparí,NA
+pa9268,tupi1273,tpn,Tupinambá,NA
+p475df,urue1240,urz,Uru-Eu-Wau-Wau,NA
+pe5956,waya1270,oym,Wayampi,Alto Jarí dialect
+p83ccd,waya1270,oym,Wayampi,Ampari dialect
+p22044,xeta1241,xet,Xetá,NA
+pc03bb,xipa1240,xiy,Xipaya,NA
+p5e732,zoee1240,pto,Zo'é,NA
+pfcaa9,siri1273,srq,Sirionó,NA
+p9ae20,yuqu1240,yuq,Yuqui,NA
+p39197,aika1237,tba,Aikanã,NA
+pd750e,mato1253,axg,Arára do Mato Grosso,NA
+p75885,yuwa1244,yau,Hoti,NA
+p13bfc,kano1245,kxo,Kanoé,NA
+pb1f73,kari1255,kzw,Karirí-Xocó,Dzubukuá dialect
+p502ea,kunz1244,kuz,Kunza,NA
+pee661,kwaz1243,xwa,Kwaza,NA
+p8c9d8,pume1238,yae,Pumé,NA
+p2ad4f,chip1262,cap,Chipaya,NA
+pc90c6,uruu1244,ure,Uru,NA
+p6743d,mini1256,hto,"Huitoto, Minica",NA
+p057b4,muru1274,huu,"Huitoto, Murui",NA
+pa3b2b,nonu1241,noj,Nonuya,NA
+p41ea2,ocai1244,oca,Ocaina,NA
+pe0219,nina1238,shb,Ninam,NA
+p7e590,sanu1240,xsu,Sanumá,NA
+p1c907,yano1262,wca,Yanomámi,NA
+pbac7e,yano1261,guu,Yanomamö,NA
+p58ff5,cham1315,ceg,Chamacoco,NA
+pf736c,ayor1240,ayo,Ayoreo,NA
+p956e3,ando1255,anb,Andoa,NA
+p33a5a,arab1268,arl,Arabela,NA
+pd1dd1,iqui1243,iqu,Iquito,NA
+p70148,zapa1253,zro,Záparo,NA
+p0e4bf,chir1286,nhd,Nhandeva,NA
+pac836,pisa1245,mis,Pisamira,NA
+p4abad,qawa1238,alc,Alacalufe,Southern
+pe8f24,cent2142,ayr,Aymara,Chilean dialect
+p8729b,yano1262,wca,Yanomama of Papiu,Yanomama of Papiu
+p25612,yano1262,wca,Yanomae of Demini/Tototopi,Yanomae of Demini/Tototopi
+pc3989,sanu1240,xsu,Sanömá of Kolulu,Sanömá of Kolulu
+p61d00,yano1261,guu,Yanomamɨ of Parawau,Yanomamɨ of Parawau
+p00077,yaro1235,yro,Yãroamë of Serra do Pacu/Ajarani,NA
+p9e3ee,yano1261,guu,Yanomamɨ of Venezuela,Yanomamɨ of Venezuela
+p3c765,paca1246,pcp,Pacahuara,NA
+pdaadc,yukp1241,yup,Yukpa,Macoíta
+p78e53,yukp1241,yup,Yukpa,de Irapa
+p171ca,trin1274,trn,Trinitario,NA
+p2d8b2,amha1245,amh,Amharic,Gondar
+pcbc29,stan1318,arb,Arabic,"Safad, Beirut, Damascus, Kuwait"
+p69fa0,east2379,aer,"Arrernte, Central",Alice Springs
+p08317,assa1263,asm,Assamese,Eastern districts of Assam (North Eastern state of India); Jorhat
+pa668e,bard1255,bcj,Bardi,One Arm Point
+p44a05,basq1248,eus,Basque,Goizueta Basque
+pe2d7c,beng1280,ben,Bengali,Bangladeshi Standard (spoken in Dhaka and other urban aread of Bangladesh)
+p810f3,bulg1262,bul,Bulgarian,Standard Bulgarian
+p1f46a,nucl1310,mya,Burmese,Rangoon
+pbd7e1,hakk1236,hak,Hakka Chinese,"Kejia (Hakka Chinese, Meijiang, Meixian Hakka)"
+p5bb58,yuec1235,yue,Chinese,Hong Kong Cantonese
+pf9ecf,dani1285,dan,Danish,NA
+p98246,sout2832,dik,Luanyjang Dinka,"Luanyjang Dinka, part of the Rek dialect group"
+p365bd,dutc1256,nld,Dutch,Belgian Standard Dutch
+pd4934,dutc1256,nld,Dutch,the dialect of Hasselt (belongs to the West-Limburgian dialect group)
+p72cab,dutc1256,nld,Dutch,the dialect of Maastricht (south-eastern dialect group; Central Limburgian)
+p11022,dutc1256,nld,Dutch,"the Dutch dialect of Weert (West-Limburgian), rural variety (not Stadsweerts)"
+paf399,dutc1256,nld,Dutch,"the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects, subclassification: Dommellands)"
+p4d710,dutc1256,nld,Dutch,the Flemish-Brabant dialect of Orsmaal-gussenhoven
+peba87,stan1293,eng,English (American),Western and Mid-Western US; Southern California
+p89dfe,stan1293,eng,American English,Southeastern Michigan
+p28175,stan1293,eng,English (Australian),NA
+pc64ec,stan1293,eng,English (British),Liverpool
+p64863,stan1293,eng,English (New Zealand),Pākehā
+p02bda,stan1293,eng,English (British),Tyneside English (spoken in Newcastle)
+pa0f51,esto1258,ekk,Estonian,Standard Estonian (Central Estonia)
+p3f2c8,stan1290,fra,French,French (Parisian speaker)
+pdd63f,nucl1302,kat,georgian,Standard (or literary) georgian (Kartluri dialect)
+p7b9b6,stan1295,deu,German,NA
+p19d2d,swis1247,gsw,Swiss German,Zurich
+pb80a4,mode1248,ell,Greek,Cypriot Greek (Nicosia)
+p5641b,mode1248,ell,Greek,Standard Modern Greek (Athenian)
+pf4792,haus1257,hau,Hausa,"(Standard) (Kano) Hausa (spoken in Kano, Nigeria)"
+p92b09,hebr1245,heb,Hebrew,Oriental Dialect
+p30e80,hind1269,hin,Hindi,"Standard Hindi (as spoken in Varanasi, Lucknow, Delhi etc.)"
+pcf1f7,hung1274,hun,Hungarian,Educated colloquial Hungarian (as spoken in Budapest of the 1990s)
+p6d56e,nucl1417,ibo,Igbo,Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland)
+p0b8e5,iris1253,gle,Irish,NA
+pa9c5c,ladi1251,lad,Judeo-Spanish,Istanbul Judeo-Spanish
+p47fd3,ital1282,ita,Italian,Standard Italian
+pe634a,nucl1643,jpn,Japanese,Japanese (Tokyo or other areas with similar pitch accent systems)
+p846c1,kore1280,kor,Korean,Standard Korean (spoken in and around Seoul)
+p22a38,kuna1268,kun,Kunama,Marda (similar to Barka)
+pc0daf,ersu1241,ers,Lizu,"Lizu (as spoken in Muli county, Kala Township)"
+p5f126,luxe1241,ltz,Luxembourgish,Standard central Luxembourgish
+pfd49d,besi1244,mhe,Mah Meri,"Mah Meri (as spoken in Kampong Orang Asli Bukit Bangkong, Sepang, Malaysie)"
+p9b814,mafe1237,mkv,Mavea,Mavea
+p39b8b,nara1262,nrb,Nara,Higir
+pd7f02,nepa1254,npi,Nepali,Standard (eastern)
+p76279,west2369,pes,Persian,NA
+p145f0,port1283,por,Portuguese (European),Lisbon
+pb2967,port1283,por,Portuguese (Brazilian),São Paulo
+p50cde,cent2092,sml,Central Sama,Central Sama (Siasi)
+pef055,slov1269,slk,Slovak,Standard Slovak (Bratislava / Kos̆ice)
+p8d3cc,stan1288,spa,Spanish,Castilian Spanish
+p2b743,sumi1235,nsm,Sumi,Central Standard dialect (Satakha and Zunheboto)
+pc9aba,taus1251,tsg,Tausug (Suluk),"Jolo, Philippines"
+p67e31,timn1235,tem,Temne,Yoni dialect and North-Western dialect of Temne (town of Kambia in the Northern Province of Sierra Leone)
+p061a8,tera1251,ttr,Tera,"Tera (speakers from the towns Deba, Hinna, Difa, Zambuk and Lubo)"
+pa451f,thai1261,tha,Thai,Standard Thai (combinative style)
+p42896,sanm1298,trq,Itunyoso Trique,"Itunyoso Trique (spoken in the town of San Martín Itunyoso, Oaxaca, Mexico)"
+pe0c0d,nucl1301,tur,Turkish,Standard Turkish (Istanbul)
+p7ef84,isth1244,zai,Isthmus (Juchitán) Zapotec,"Isthmus (Juchitán) Zapotec (ʼzapoteco de la planicie costeraʼ; spoken on the Isthmus of Tehuantepec, Oaxaca, Mexico; typical of the city of Juchitán de Zaragoza)"
+p1d2fb,taji1245,tgk,Bukharan Tajik,Bukharan
+pbb672,kera1255,ker,Kera,Standard
+p599e9,kumz1235,zum,Kumzari,"Kumzari spoken in Khasab, Oman"
+pf7d60,coco1260,coa,Cocos Malay,"Spoken in Kampung Cocos in the Lahad Datu district of Sabah, Malaysia"
+p960d7,stan1306,zsm,Standard Malay,Standard Malay (Brunei)
+p3444e,plau1238,pdt,Mennonite Plautdietsch,NA
+pd27c5,keda1250,kxd,Kedayan,NA
+p70b3c,pitj1243,pjt,Pitjantjatjara,NA
+p0eeb3,sout2672,psi,Southeastern Pashayi,NA
+pad22a,vlax1238,rmy,greek Thrace Xoraxane Romane,NA
+p4b5a1,tach1250,shi,Tashlhiyt Berber,NA
+pe9918,shix1238,sxg,Xumi,Lower Xumi
+p87c8f,shix1238,sxg,Xumi,Upper Xumi
+p26006,uppe1400,sxu,Upper Saxon,Chemnitz dialect
+pc437d,viet1252,vie,Vietnamese,Hanoi Vietnamese
+p626f4,pite1240,sje,Pite Saami,NA
+p00a6b,nort2671,sme,Northern Saami,Guovdageaidnu
+p9ede2,belh1239,byw,Belhare,NA
+p3d159,hunz1247,huz,Hunzib,NA
+pdb4d0,even1259,evn,Evenki,NA
+p75f5d,hmon1264,hnj,Hmong Njua,Hmong Njua (Green Hmong)
+p142d4,udmu1245,udm,Udmurt,Udmurt (Standard)
+pb264b,east2328,mhr,Meadow Mari,Meadow Mari (Morki-Sernur)
+p509c2,east2337,yuy,Eastern Yugur,NA
+peed39,moks1248,mdf,Moksha,Moksha (Standard)
+p8d0b0,lith1251,lit,Lithuanian,Lithuanian (West Aukštaitian)
+p2b427,moks1248,mdf,Moksha,Moksha (Southwest)
+pc979e,laoo1244,lao,Lao,Lao (Vientiane)
+p67b15,rajb1243,rjs,Rājbanshi,NA
+p05e8c,esto1258,ekk,Estonian,Estonian (Standard)
+pa4203,bakh1245,bqi,Bakhtiari,NA
+p4257a,cent1972,ckb,Kurdish,Kurdish (Sorani)
+pe08f1,ingu1240,inh,Ingush,NA
+p7ec68,stan1293,eng,English,English (RP)
+p1cfdf,dupa1235,duo,Dupaningan Agta,NA
+pbb356,lazz1240,lzz,Laz,Laz (Borçka)
+p596cd,dolg1241,dlg,Dolgan,NA
+pf7a44,dark1243,khk,Darkhat,NA
+p95dbb,jiar1240,jya,Caodeng rGyalrong,NA
+p34132,juan1238,jun,Juang,NA
+pd24a9,sout2697,azb,South Azerbaijani,South Azerbaijani (Tabriz)
+p70820,kild1236,sjd,Kildin Saami,NA
+p0eb97,russ1263,rus,Russian,Russian (Standard)
+pacf0e,iris1253,gle,Irish,Irish (Gaoth Dobhair)
+p4b285,lowa1242,loy,gLo Tibetan,NA
+pe95fc,stod1241,sbu,Tod Tibetan,NA
+p87973,dani1285,dan,Danish,NA
+p25cea,taji1245,tgk,Tajik,Tajik (Bukhara)
+pc4061,yong1270,nru,Yongning Na,Yongning Na (Mosuo)
+p623d8,bese1243,udm,Beserman,Beserman (Šamardan)
+p0074f,stan1290,fra,French,NA
+p9eac6,ishk1246,isk,Ishkashimi,NA
+p3ce3d,khan1273,kca,Northern Khanty,Northern Khanty (Sob Obdorsk)
+pdb1b4,swis1247,gsw,Zurich German,NA
+p7952b,west2392,mrj,Hill Mari,Hill Mari (Kozmodemjansk)
+p178a2,czec1258,ces,Czech,Czech (Bohemian)
+pb5c19,malt1254,mlt,Maltese,Maltese (Standard)
+p53f90,chec1245,che,Chechen,Chechen (Pẋarçxoy Äqqiy)
+pf2307,nucl1305,kan,Kannada,Kannada (Standard)
+p9067e,mira1251,mwl,Mirandese,NA
+p2e9f5,khan1273,kca,Northern Khanty,Northern Khanty (Polui Obdorsk)
+pccd6c,tsha1245,tsj,Tshangla,NA
+p6b0e3,chal1275,cld,Modern Aramaic,Modern Aramaic (Northeastern)
+p0945a,lith1251,lit,Lithuanian,Lithuanian (North Samogitian)
+pa77d1,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-S)
+p45b48,jude1256,jdt,Juhuri,NA
+pe3ebf,ladi1251,lad,Judaeo-Spanish,Judaeo-Spanish (Beiruti)
+p82236,nort2745,ykg,Tundra Yukaghir,NA
+p205ad,kore1280,kor,Korean,Korean (Seoul)
+pbe924,even1260,eve,Even,Even (Ola)
+p5cc9b,munj1244,mnj,Munji,NA
+pfb012,brah1256,brh,Brahui,Brahui (Jahlawān)
+p99389,nauk1242,ynk,Naukan Yupik,NA
+p37700,even1259,evn,Solon,NA
+pd5a77,kuvi1243,kxv,Kuvi,NA
+p73dee,thak1245,ths,Thakali,NA
+p12165,mund1320,unr,Mundari,NA
+pb04dc,nort2697,azj,North Azerbaijani,North Azerbaijani (Shirvan)
+p4e853,itel1242,itl,Itelmen,NA
+pecbca,puxi1242,jih,Puxi,NA
+p8af41,bujh1238,byh,Bhujel,NA
+p292b8,lazz1240,lzz,Laz,Laz (Pazar)
+pc762f,kang1281,kxs,Kangjia,NA
+p659a6,mait1250,mai,Maithili,Maithili (Madhubani)
+p03d1d,stan1288,spa,Spanish,Spanish (Murcian)
+pa2094,roma1326,roh,Vallader Romansh,NA
+p4040b,bond1245,bfw,Remo,Remo (Hills variety)
+pde782,balt1258,bft,Balti,Balti (Kharkoo)
+p7caf9,sher1255,xsr,Solu Sherpa,Solu Sherpa (Hile)
+p1ae70,stan1288,spa,Spanish,Spanish (Castilian)
+pb91e7,yuec1235,yue,Yue Chinese,Yue Chinese (Hong Kong Cantonese)
+p5755e,kaba1278,kbd,Kabardian,Kabardian (Baksan)
+pf58d5,lezg1247,lez,Lezgian,Lezgian (İsmayıllı)
+p93c4c,daur1238,dta,Daur,NA
+p31fc3,huml1238,hut,Humla Bhotia,NA
+pd033a,nort2741,tts,Northeastern Thai,Northeastern Thai (Nong Khai)
+p6e6b1,dhiv1236,div,Dhivehi,Dhivehi (Malé)
+p0ca28,lith1251,lit,Lithuanian,Lithuanian (West Samogitian)
+paad9f,russ1264,bxr,Buriat,Buriat (Standard)
+p49116,kara1467,kaa,Karakalpak,NA
+pe748d,lahu1253,lhu,Lahu,Lahu (Black)
+p85804,laoo1244,lao,Lao,Lao (Chieng Khouang)
+p23b7b,nort2646,pbu,Yousafzai Pashto,Yousafzai Pashto (Peshāwar)
+pc1ef2,cent1973,pst,Wazirwola,Wazirwola (North Wazīrī)
+p60269,hakk1236,hak,Hakka Chinese,NA
+pfe5e0,osse1243,oss,Iron Ossetic,Iron Ossetic (Upper Alagir)
+p9c957,ligu1248,lij,Ligurian,Ligurian (Miogliola)
+p3acce,voti1245,vot,Votic,Votic (Jõgõperä)
+pd9045,kham1282,khg,Rgyalthang Tibetan,NA
+p773bc,kham1282,khg,Brag-g.yab Tibetan,NA
+p15733,dido1241,ddo,Tsez,Tsez (Asax)
+pb3aaa,wymy1235,wym,Wymysorys,NA
+p51e21,gaga1249,gag,Gagauz,Gagauz (Standard)
+pf0198,nort2647,pbu,Northwestern Pashto,NA
+p8e50f,sout2746,sou,Southern Tai,Southern Tai (Ko Samui)
+p2c886,friu1240,fur,Friulian,NA
+pcabfd,lakk1252,lbe,Lak,Lak (Kumux)
+p68f74,kuni1268,xug,Kunigami,Kunigami (Nakijin)
+p072eb,luxe1241,ltz,Luxembourgish,NA
+pa5662,nucl1310,mya,Burmese,Burmese (Rangoon)
+p439d9,saur1249,mjt,Malto,NA
+pe1d50,basq1248,eus,Basque,Basque (Baztan)
+p800c7,lazz1240,lzz,Laz,Laz (Ardeşen)
+p1e43e,nepa1254,npi,Nepali,NA
+pbc7b5,rusy1239,rue,Rusyn,Rusyn (Lemko)
+p5ab2c,guru1261,gvr,Gurung,Gurung (Western)
+pf8ea3,west2368,bgn,Western Balochi,Western Balochi (Lāšārī)
+p9721a,baim1244,bqh,Baima,NA
+p35591,besi1244,mhe,Mah Meri,NA
+pd3908,west2368,bgn,Western Balochi,Western Balochi (Southern Raxšānī)
+p71c7f,adyg1241,ady,Adyghe,NA
+p0fff6,dakp1242,dka,Northern Cuona,NA
+pae36d,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-Ch)
+p4c6e4,lizu1234,mis,Lizu,NA
+peaa5b,udmu1245,udm,Udmurt,Udmurt (Udmurt Tašly)
+p88dd2,bett1235,xub,Betta Kurumba,NA
+p27149,kumy1244,kum,Kumyk,NA
+pc54c0,chan1310,chx,Chantyal,NA
+p63837,bhoj1244,bho,Bhojpuri,NA
+p01bae,gheg1238,aln,Gheg Albanian,Gheg Albanian (North-Eastern)
+p9ff25,hooo1248,hoc,Ho,Ho (Mayurbhanj)
+p3e29c,rawa1265,raw,Rawang,Rawang (Mutwang)
+pdc613,saek1240,skb,Saek,NA
+p7a98a,chuk1273,ckt,Chukchi,NA
+p18d01,mace1250,mkd,Macedonian,Macedonian (Standard)
+pb7078,pare1266,pcj,Gorum,NA
+p553ef,taus1251,tsg,Tausug,Tausug (Jolo)
+pf3766,lada1244,lbj,Ladakhi,Ladakhi (Leh)
+p91add,shan1277,shn,Shan,Shan (Luxi)
+p2fe54,bulg1262,bul,Bulgarian,Bulgarian (Standard)
+pce1cb,spit1240,spt,Spiti Tibetan,NA
+p6c542,gily1242,niv,Nivkh,Nivkh (West Sakhalin)
+p0a8b9,lazz1240,lzz,Laz,Laz (Hopa)
+pa8c30,nort2686,atv,Northern Altai,Northern Altai (Kumandy)
+p46fa7,atay1247,tay,Atayal,NA
+pe531e,luuu1242,khb,Lue,Lue (Chieng Hung)
+p83695,arag1245,arg,Aragonese,Aragonese (Chistabino)
+p21a0c,khan1273,kca,Northern Khanty,Northern Khanty (Kazym)
+pbfd83,brah1256,brh,Brahui,Brahui (Sarāwān)
+p5e0fa,faro1244,fao,Faroese,NA
+pfc471,dzal1238,dzl,Southern Cuona,NA
+p9a7e8,tibe1272,bod,Lhasa Tibetan,NA
+p38b5f,basq1250,eus,Zuberoan Basque,NA
+pd6ed6,kirg1245,kir,Kyrgyz,Kyrgyz (Standard)
+p7524d,darm1243,drd,Darma,NA
+p135c4,komi1277,kom,Yodzyak Komi,NA
+pb193b,laoo1244,lao,Lao,Lao (Luang Prabang)
+p4fcb2,puoc1238,puo,Ksingmul,NA
+pee029,telu1262,tel,Telugu,Telugu (Standard)
+p8c3a0,east2773,mis,Dolakha Newar,NA
+p2a717,osse1243,oss,Iron Ossetic,Iron Ossetic (Urs-Tual)
+pc8a8e,bats1242,bbl,Bats,NA
+p66e05,hela1238,scp,Yolmo,NA
+p0517c,svan1243,sva,Svan,Svan (Upper Bal)
+pa34f3,kyer1238,kgy,Kyirong Tibetan,NA
+p4186a,dzon1239,dzo,Dzongkha,NA
+pdfbe1,kett1243,ket,Ket,Ket (Kellog)
+p7df58,wayu1241,vay,Hayu,NA
+p1c2cf,paiw1248,pwn,Paiwan,Paiwan (Kulalao)
+pba646,stan1295,deu,German,German (Standard)
+p589bd,east2295,ydd,Eastern Yiddish,Eastern Yiddish (Central)
+pf6d34,udmu1245,udm,Udmurt,Udmurt (Bavly)
+p950ab,kaba1278,kbd,Kabardian,Kabardian (Ulyap)
+p33422,nene1249,yrk,Tundra Nenets,Tundra Nenets (Western)
+pd1799,kara1464,kdr,Karaim,Karaim (Northwestern)
+p6fb10,varl1238,vav,Varli,Varli (Dogri)
+p0de87,dutc1256,nld,Dutch,NA
+pac1fe,wels1247,cym,Welsh,Welsh (Llanwrtyd)
+p4a575,japh1234,jya,Japhug,NA
+pe88ec,osse1243,oss,Iron Ossetic,Iron Ossetic (Roka)
+p86c63,ming1252,xmf,Mingrelian,Mingrelian (Senaki)
+p24fda,lazz1240,lzz,Laz,Laz (Arhavi)
+pc3351,tibe1272,bod,Drokpa Tibetan,Drokpa Tibetan (Zhongba)
+p616c8,alut1245,alr,Alutor,NA
+pffa3f,east2328,mhr,Eastern Mari,NA
+p9ddb6,nort2741,tts,Northeastern Thai,Northeastern Thai (Loei)
+p3c12d,sikk1242,sip,Denjongka,NA
+pda4a4,nucl1301,tur,Turkish,Turkish (Standard)
+p7881b,ming1252,xmf,Mingrelian,Mingrelian (Zugdidi-Samurzaqano)
+p16b92,yagn1238,yai,Yaghnobi,NA
+pb4f09,basq1248,eus,Basque,Basque (Arbizu)
+p53280,zhon1235,mis,Zhongu Tibetan,NA
+pf15f7,tibe1272,bod,Dingri Tibetan,NA
+p8f96e,nort2741,tts,Northeastern Thai,Northeastern Thai (Roi Et)
+p2dce5,shan1277,shn,Shan,Shan (Hsi Paw)
+pcc05c,osse1243,oss,Iron Ossetic,Iron Ossetic (Standard)
+p6a3d3,stan1289,cat,Catalan,Catalan (Southern Valencian)
+p0874a,nyaw1245,nyw,Nyaw,Nyaw (Uthen)
+pa6ac1,ital1282,ita,Italian,NA
+p44e38,nucl1302,kat,Georgian,NA
+pe31af,nort2722,cng,Northern Qiang,Northern Qiang (Yadu)
+p81526,cebu1242,ceb,Cebuano,NA
+p1f89d,cent1973,pst,Wazirwola,Wazirwola (South Wazīrī)
+pbdc14,osse1243,oss,Iron Ossetic,Iron Ossetic (Alagir)
+p5bf8b,khak1248,kjh,Khakas,Khakas (Standard)
+pfa302,vach1239,mis,Eastern Khanty,Eastern Khanty (Vakh)
+p98679,gata1239,gaq,Gtaʔ,NA
+p369f0,ming1252,xmf,Mingrelian,Mingrelian (Martvili)
+pd4d67,sind1272,snd,Sindhi,Sindhi (Vicholi)
+p730de,arbe1236,aae,Arbëresh Albanian,Arbëresh Albanian (Kundisa)
+p11455,kurt1248,xkz,Kurtoep,NA
+paf7cc,kara1474,kpt,Tukita,NA
+p4db43,norw1258,nor,Norwegian,Norwegian (Standard Østnorsk)
+pebeba,sout2679,vro,Võro,NA
+p8a231,roma1327,ron,Romanian,Romanian (Standard)
+p285a8,yaku1245,sah,Sakha,Sakha (Standard)
+pc691f,nort2699,kfb,Kolami,Kolami (Wardha)
+p64c96,kare1335,krl,Karelian,Karelian (North)
+p0300d,slov1269,slk,Slovak,Slovak (Standard)
+pa1384,livv1244,liv,Livonian,Livonian (Vidzeme)
+p3f6fb,hebr1245,heb,Israeli Hebrew,NA
+pdda72,fore1274,mis,Forest Nenets,NA
+p7bde9,east2347,taj,Tamang,Tamang (Eastern)
+p1a160,guja1252,guj,Gujarati,Gujarati (Standard)
+pb84d7,miya1259,mvi,Miyako,Miyako (Ogami)
+p5684e,maga1260,mag,Magahi,NA
+pf4bc5,slov1268,slv,Slovene,Slovene (Standard)
+p92f3c,puri1258,prx,Purki,NA
+p312b3,mand1415,cmn,Standard Chinese,Standard Chinese (Beijing)
+pcf62a,mode1248,ell,Greek,Greek (Standard)
+p6d9a1,kama1351,xas,Kamassian,NA
+p0bd18,komi1268,kpv,Komi-Zyrian,Komi-Zyrian (Syktyvkar)
+paa08f,ngan1291,nio,Nganasan,Nganasan (Avam)
+p48406,viet1252,vie,Vietnamese,Vietnamese (Hanoi)
+pe677d,dhim1246,dhi,Dhimal,NA
+p84af4,mong1331,mon,Mongolian,Mongolian (Khalkha)
+p22e6b,andi1255,ani,Andi,NA
+pc11e2,urdu1245,urd,Urdu,NA
+p5f559,avar1256,ava,Avar,Avar (Chadakolob)
+pfd8d0,abkh1244,abk,Abkhaz,Abkhaz (Abzhywa)
+p9bc47,fore1265,enf,Forest Enets,NA
+p39fbe,west2354,fry,Frisian,Frisian (West)
+pd8335,taid1249,tyr,Tay Daeng,NA
+p766ac,sout2746,sou,Southern Tai,Southern Tai (Surat)
+p14a23,elfd1234,ovd,Elfdalian,NA
+pb2d9a,chen1255,cde,Nyinpa Cone,NA
+p51111,mans1258,mns,Northern Mansi,Northern Mansi (Sośva)
+pef488,osse1243,oss,Iron Ossetic,Iron Ossetic (Ksani)
+p8d7ff,dong1285,sce,Dongxiang,NA
+p2bb76,occi1239,oci,Occitan,Occitan (Gascon)
+pc9eed,panj1256,pan,Panjabi,Panjabi (Eastern)
+p68264,czec1258,ces,Czech,Czech (Moravian)
+p065db,kond1303,knd,Konda,NA
+pa4952,nene1249,yrk,Tundra Nenets,Tundra Nenets (Central-Eastern)
+p42cc9,sich1238,iii,Nuosu,Nuosu (Black Yi)
+pe1040,nort2641,kmr,Northern Kurdish,Northern Kurdish (Kurmanji)
+p7f3b7,selk1253,sel,Taz Selkup,NA
+p1d72e,nort2722,cng,Northern Qiang,Northern Qiang (Hongyan)
+pbbaa5,arbe1236,aae,Arbëresh Albanian,Arbëresh Albanian (Hora e Arbëreshëvet)
+p59e1c,lith1251,lit,Lithuanian,Lithuanian (South Samogitian)
+pf8193,kham1282,khg,Nangchenpa Tibetan,NA
+p9650a,veps1250,vep,Veps,Veps (Šimozero)
+p34881,merg1238,tvn,Myeik Burmese,NA
+pd2bf8,nort2741,tts,Northeastern Thai,Northeastern Thai (Nakhon Phanom)
+p70f6f,stan1325,lvs,Latvian,Latvian (Standard)
+p0f2e6,ters1235,sjt,Ter Saami,NA
+pad65d,oriy1255,ory,Oriya,NA
+p4b9d4,nort2741,tts,Northeastern Thai,Northeastern Thai (Ubon)
+pe9d4b,pite1240,sje,Pite Saami,NA
+p880c2,east2304,bgp,Eastern Hill Balochi,NA
+p26439,serb1264,srp,Serbian,Serbian (Standard Ekavian)
+pc47b0,bash1264,bak,Bashkir,Bashkir (Standard)
+p62b27,tuuu1240,mjg,Mongghul,Mongghul (Huzhu Monguor)
+p00e9e,shum1243,scu,Labrang Tibetan,NA
+p9f215,ukra1253,ukr,Ukrainian,Ukrainian (Standard)
+p3d58c,lowa1242,loy,South Mustang Tibetan,South Mustang Tibetan (Jharkhot)
+pdb903,scot1243,sco,Scots,Scots (Northern)
+p79c7a,east2328,mhr,Meadow Mari,Meadow Mari (Joškar-Ola)
+p17ff1,shan1277,shn,Shan,Shan (Zhe Fang)
+pb6368,sind1272,snd,Sindhi,Sindhi (Jacobabad)
+p546df,osse1243,oss,Iron Ossetic,Iron Ossetic (Tual-Sh)
+pf2a56,mehr1241,gdq,Mehri,Mehri (Oman)
+p90dcd,khar1287,khr,Kharia,Kharia (Dudh)
+p2f144,chec1245,che,Chechen,Chechen (Şaroy)
+pcd4bb,taga1270,tgl,Tagalog,NA
+p6b832,wakh1245,wbl,Wakhi,NA
+p09ba9,stan1293,eng,English,English (Liverpool)
+pa7f20,astu1245,ast,Asturian,Asturian (Western)
+p46297,phut1244,pht,Phu Tai,Phu Tai (Waritchaphum)
+pe460e,nort2740,nod,Northern Thai,Northern Thai (Chieng Mai)
+p82985,kham1282,khg,Soghpo Tibetan,NA
+p20cfc,west2369,pes,Farsi,NA
+pbf073,iris1253,gle,Irish,Irish (Corca Dhuibhne)
+p5d3ea,sher1255,xsr,Solu Sherpa,Solu Sherpa (Lukla)
+pfb761,sala1264,slr,Salar,NA
+p99ad8,lezg1247,lez,Lezgian,Lezgian (Güne)
+p37e4f,kham1282,khg,Kami Tibetan,NA
+pd61c6,sora1254,srb,Sora,Sora (Gumma Hills)
+p7453d,walu1241,ola,Walungge,NA
+p128b4,kork1243,kfq,Korku,NA
+pb0c2b,pamp1243,pam,Kapampangan,Kapampangan (Balingcanaway)
+p4efa2,doma1258,rmt,Domari,Domari (Palestinian)
+ped319,phut1244,pht,Phu Tai,Phu Tai (Phanna Nikhom)
+p8b690,east2328,mhr,Meadow Mari,Meadow Mari (Volga)
+p29a07,ersu1241,ers,Ersu,NA
+pc7d7e,amdo1237,adx,Khalong Tibetan,NA
+p660f5,finn1318,fin,Finnish,Finnish (Standard)
+p0446c,udmu1245,udm,Udmurt,Udmurt (Krasnoufimsk)
+pa27e3,khal1271,tks,Khalkhal,NA
+p40b5a,west2408,mut,Muria Gondi,NA
+pdeed1,shix1238,sxg,Shixing,NA
+p7d248,kara1462,kim,Tofa,NA
+p1b5bf,uppe1395,hsb,Upper Sorbian,NA
+pb9936,hind1269,hin,Hindi,NA
+p57cad,pott1240,gdb,Gadaba,NA
+pf6024,east2347,taj,Tamang,Tamang (Dhankuta)
+p9439b,sout2642,bcc,Southern Balochi,NA
+p32712,camp1261,sro,Campidanese Sardinian,Campidanese Sardinian (Sestu)
+pd0a89,tulu1258,tcy,Tulu,NA
+p6ee00,acha1249,acn,Achang,Achang (Lianghe)
+p0d177,chec1245,che,Chechen,Chechen (Ploskost)
+pab4ee,sant1410,sat,Santali,NA
+p49865,shan1277,shn,Shan,Shan (Kunlong)
+pe7bdc,abkh1244,abk,Abkhaz,Abkhaz (Bzyb)
+p85f53,amdo1237,adx,gSerpa,NA
+p242ca,swed1254,swe,Swedish,Swedish (Central)
+pc2641,stan1289,cat,Catalan,Catalan (Central)
+p609b8,tuuu1240,mjg,Mangghuer,Mangghuer (Minhe Monguor)
+pfed2f,hung1274,hun,Hungarian,Hungarian (Standard)
+p9d0a6,tibe1272,bod,Shigatse Tibetan,NA
+p3b41d,mala1464,mal,Malayalam,NA
+pd9794,axiy1235,yix,Ahi,NA
+p77b0b,buru1296,bsk,Burushaski,Burushaski (Werchikwar)
+p15e82,mind1253,cdo,Min Dong Chinese,Min Dong Chinese (Fuzhou)
+pb41f9,temi1246,tea,Temiar,NA
+p52570,uppe1400,sxu,Upper Saxon,Upper Saxon (Chemnitz)
+pf08e7,ghod1238,gdo,Godoberi,NA
+p8ec5e,skol1241,sms,Skolt Saami,Skolt Saami (Suõʹnnʼjel)
+p2cfd5,jahh1242,jah,Jah-Hut,NA
+pcb34c,icel1247,isl,Icelandic,NA
+p696c3,vlax1238,rmy,Vlax Romani,Vlax Romani (Mitrovica)
+p07a3a,udih1248,ude,Udihe,Udihe (Bikin)
+pa5db1,astu1245,ast,Asturian,Asturian (North-Eastern)
+p44128,tain1252,tdd,Tai Nuea,NA
+pe249f,sout2746,sou,Southern Tai,Southern Tai (Nakhon Si Thammarat)
+p80816,chec1245,che,Chechen,Chechen (Ҫ̇äberloy)
+p1eb8d,komi1269,koi,Komi-Permyak,NA
+pbcf04,bodo1267,gbj,Gutob,Gutob (Koraput)
+p5b27b,buru1296,bsk,Burushaski,Burushaski (Nagar)
+pf95f2,lisu1250,lis,Lisu,Lisu (Flowery)
+p97969,tuvi1240,tyv,Tuvan,Tuvan (Standard)
+p35ce0,kara1474,kpt,Karata,NA
+pd4057,west2392,mrj,Hill Mari,Hill Mari (Jaransk)
+p723ce,taid1248,tyj,Tay Yo,NA
+p10745,basq1248,eus,Basque,Basque (Gernika)
+paeabc,bret1244,bre,Breton,Breton (Bothoa)
+p4ce33,sout2729,pmj,Southern Pumi,Southern Pumi (Xinyingpan)
+peb1aa,sout2436,pbt,Southwestern Pashto,Southwestern Pashto (Kandahar)
+p89521,kham1282,khg,Sangdam Tibetan,NA
+p27898,bona1250,peh,Baoan,Baoan (Ñantoq)
+pc5c0f,wane1241,wne,Waneci,NA
+p63f86,digo1242,oss,Digor Ossetic,NA
+p022fd,kham1282,khg,Dongwang Tibetan,NA
+pa0674,tosk1239,als,Tosk Albanian,Tosk Albanian (Korçë)
+p3e9eb,east2282,ltg,Latgalian,Latgalian (Standard)
+pdcd62,stan1289,cat,Catalan,Catalan (Mallorcan)
+p7b0d9,turk1304,tuk,Turkmen,Turkmen (Teke)
+p19450,jerr1238,nrf,Jèrriais,Jèrriais (Eastern Jersey)
+pb77c7,cent1989,khm,Central Khmer,NA
+p55b3e,assa1263,asm,Assamese,Assamese (Standard)
+pf3eb5,kalm1243,xal,Kalmyk,Kalmyk (Standard)
+p9222c,kham1282,khg,Kham Tibetan,NA
+p305a3,scot1245,gla,Scottish Gaelic,Scottish Gaelic (Lewis)
+pce91a,lowe1385,dsb,Lower Sorbian,NA
+p6cc91,nene1249,yrk,Tundra Nenets,Tundra Nenets (Far Eastern)
+p0b008,poli1260,pol,Polish,Polish (Standard)
+pa937f,suii1243,swi,Sui,NA
+p476f6,ilok1237,ilo,Ilocano,NA
+pe5a6d,najd1235,ars,Najdi Arabic,NA
+p83de4,akha1245,ahk,Akha,NA
+p2215b,tata1255,tat,Tatar,Tatar (Standard)
+pc04d2,kaba1278,kbd,Kabardian,Kabardian (Turkish)
+p5e849,tami1289,tam,Tamil,NA
+pfcbc0,uigh1240,uig,Uyghur,Uyghur (Xinjiang)
+p9af37,buru1296,bsk,Burushaski,Burushaski (Hunza)
+p392ae,amdo1237,adx,Themchen Tibetan,NA
+pd7625,basq1248,eus,Basque,Basque (Ondarroa)
+p7599c,erzy1239,myv,Erzya,Erzya (Standard)
+p13d13,narp1239,npa,Nar-Phu,Nar-Phu (Nar)
+pb208a,west2368,bgn,Western Balochi,Western Balochi (Afghani Raxšānī)
+p50401,gali1258,glg,Galician,NA
+pee778,mana1288,nmm,Manange,NA
+p8caef,sheh1240,shv,Jibbali,Jibbali (Central)
+p2ae66,west2368,bgn,Western Balochi,Western Balochi (Sarāwānī)
+pc91dd,port1283,por,Portuguese,Portuguese (Estremenho)
+p67554,beng1280,ben,Bengali,Bengali (Dhaka)
+p058cb,sout2750,yux,Kolyma Yukaghir,NA
+pa3c42,osse1243,oss,Iron Ossetic,Iron Ossetic (Kurtat)
+p41fb9,pnar1238,pbv,Pnar,NA
+pe0330,nyaw1245,nyw,Nyaw,Nyaw (Sakhon Nakhon)
+p7e6a7,bura1267,bvr,Burarra,NA
+p1ca1e,buna1275,bck,Bunuba,NA
+pbad95,goon1238,gni,Gooniyandi,NA
+p5910c,madn1237,zml,Matngele,NA
+pf7483,mull1237,mpb,Malak-Malak,NA
+p957fa,murr1259,mwf,Murrinh-patha,NA
+p33b71,nang1259,nam,Ngan'gityemerri,NA
+pd1ee8,wadj1254,wdj,Patjtjamalh,NA
+p7025f,mari1417,zmm,Marramaninyshi,NA
+p0e5d6,mari1419,zmt,Marringarr,NA
+pac94d,mari1424,mfr,Marrithiyel,NA
+p4acc4,mart1254,zmg,Marti Ke,NA
+pe903b,amii1238,amy,Emmi,NA
+p873b2,lara1258,lrg,Larrakia,NA
+p25729,nucl1327,lmc,Limilngan,NA
+pc3aa0,umbu1235,umr,Umbugarla,NA
+p61e17,gara1269,wrk,Garrwa,NA
+p0018e,wany1247,wny,Waanyi,NA
+p9e505,gara1269,wrk,Kunindirri,NA
+p3c87c,erre1238,err,Erre,NA
+pdabf3,mang1382,zme,Mengerrdji,NA
+p78f6a,urni1239,urc,Urningangg,NA
+p172e1,anin1240,aoi,Anindilyakwa,NA
+pb5658,ngal1292,ngk,Dalabon,NA
+p539cf,gaga1251,gbu,Gaagudju,NA
+pf1d46,ngal1293,nig,Ngalakgan,NA
+p900bd,ngan1295,nid,Ngandi,NA
+p2e434,gund1246,gup,Gun-Dedjnjenghmi,NA
+pcc7ab,gund1246,gup,Gun-Djeihmi,NA
+p6ab22,gune1238,gup,Kune,NA
+p08e99,mura1269,gup,Kuninjku,NA
+pa7210,guma1252,gup,Kunwinjku,NA
+p45587,naia1238,gup,Mayali,NA
+pe38fe,djau1244,djn,Jawoyn,NA
+p81c75,remb1249,rmb,Rembarrnga,NA
+p1ffec,wara1290,wrz,Warray,NA
+pbe363,nung1290,nuy,Wubuy,NA
+p5c6da,amar1271,amg,Amurdak,NA
+pfaa51,marg1251,mhg,Marrgu,NA
+p98dc8,wurr1238,wur,Wurrugu,NA
+p3713f,maun1240,mph,Mawng,NA
+pd54b6,gari1254,ilg,Garig,NA
+p7382d,ilga1238,ilg,Ilgar,NA
+p11ba4,iwai1244,ibd,Iwaidja,NA
+paff1b,miri1266,mep,Miriwoong,NA
+p4e292,kitj1240,gia,Kija,NA
+pec609,kung1259,ggk,Kungarakany,NA
+p8a980,djee1236,djj,Ndjebbana,NA
+p28cf7,gura1252,gge,Gurr-Goni,NA
+pc706e,naka1260,nck,Nakara,NA
+p653e5,mara1385,mec,Marra,NA
+p0375c,wand1263,wnd,Warndarrang,NA
+pa1ad3,alaw1244,alh,Alawa,NA
+p3fe4a,mang1381,mpc,Mangarrayi,NA
+pde1c1,djam1255,djd,Jaminjung,NA
+p7c538,ngal1294,djd,Ngaliwurru,NA
+p1a8af,nung1291,nug,Nungali,NA
+pb8c26,ngar1283,nji,Ngarnka,NA
+p56f9d,djin1251,jig,Jingulu,NA
+pf5314,binb1242,wmb,Binbinka,NA
+p9368b,guda1243,wmb,Gudanji,NA
+p31a02,wamb1258,wmb,Wambaya,NA
+pcfd79,mink1237,xxm,Minkin,NA
+p6e0f0,ngum1253,xnm,Ngumbarl,NA
+p0c467,nyig1240,nyh,Nyikina,NA
+paa7de,warr1258,wwr,Warrwa,NA
+p48b55,dyug1238,dyd,Jukun,NA
+pe6ecc,yawu1244,ywr,Yawuru,NA
+p85243,bard1255,bcj,Bardi,NA
+p235ba,nima1245,nmp,Nimanburu,NA
+pc1931,dyab1238,dyb,Jabirr-Jabirr,NA
+p5fca8,djaw1238,djw,Jawi,NA
+pfe01f,nyul1247,nyv,Nyulnyul,NA
+p9c396,alya1239,aly,Alyawarr,NA
+p3a70d,east2380,amx,Eastern Anmatyerre,NA
+pd8a84,west2442,amx,Western Anmatyerre,NA
+p76dfb,ande1247,adg,Antekerrepenhe,NA
+p15172,mpar1238,aer,Central Arrernte,NA
+pb34e9,ayer1246,axe,Ayerrerenge,NA
+p51860,east2379,aer,Eastern Arrernte,NA
+pefbd7,lowe1436,axl,Lower Southern Aranda,NA
+p8df4e,west2441,are,Western Arrernte,NA
+p2c2c5,kayt1238,gbb,Kaytetye,NA
+pca63c,yugu1249,xjb,Bundjalung,NA
+p689b3,gida1240,gih,Gidabal,NA
+p06d2a,guwa1244,mis,Guwar,NA
+pa50a1,minj1242,xjb,Minjungbal,NA
+p43418,waal1238,bdy,Waalubal,NA
+pe178f,bung1264,xbg,Buwandik,NA
+p7fb06,warr1257,gjm,Warrnambool,NA
+p1de7d,gami1243,kld,Gamilaraay,NA
+pbc1f4,muru1266,zmu,Muruwari,NA
+p5a56b,wang1291,wyb,Ngiyambaa,NA
+pf88e2,wayi1238,wyb,Wayilwan,NA
+p96c59,wira1262,wrh,Wiradjuri,NA
+p34fd0,wirr1237,kld,Wiriyaraay,NA
+pd3347,yuwa1242,kld,Yuwaalaraay,NA
+p716be,yuwa1243,kld,Yuwaliyaay,NA
+p0fa35,dhud1236,ddr,Dhudhuroa,NA
+paddac,jand1248,jan,Jandai,NA
+p4c123,NA,mis,Djindewal,NA
+pea49a,yaga1262,yxg,Turubul,NA
+p88811,yaga1262,yxg,Yagara,NA
+p26b88,dyir1250,dbl,Dyirbal,NA
+pc4eff,warr1255,wgy,Warrgamay,NA
+p63276,kumb1268,kgs,Baanbay,NA
+p015ed,kumb1268,kgs,Gumbaynggir,NA
+p9f964,yayg1236,xya,Yaygir,NA
+p3dcdb,guwa1242,xgw,Guwa,NA
+pdc052,yand1251,yda,Yanda,NA
+p7a3c9,kalk1246,ktg,Kalkatungu,NA
+p18740,yala1262,ylr,Yalarnnga,NA
+pb6ab7,bayu1240,bxj,Payungu,NA
+p54e2e,burd1238,bxn,Purduna,NA
+pf31a5,dhal1245,dhl,Thalanyji,NA
+p9151c,djiw1241,dze,Jiwarli,NA
+p2f893,dhar1247,dhr,Tharrkari,NA
+pcdc0a,thii1234,iin,Thiin,NA
+p6bf81,wari1262,wri,Warriyangga,NA
+p0a2f8,mith1236,mis,Mithaka,NA
+pa866f,dier1241,dif,Diyari,NA
+p469e6,dira1238,dif,Thirarri,NA
+pe4d5d,kara1508,nmv,Karangura,NA
+p830d4,ngam1284,nmv,Ngamini,NA
+p2144b,pirl1238,bxi,Pirlatapa,NA
+pbf7c2,yand1253,ynd,Yandruwandha,NA
+p5db39,nhir1234,hrp,Nhirrpi,NA
+pfbeb0,yawa1258,yww,Yawarrawarrka,NA
+p9a227,dier1241,dif,Yarluyandi,NA
+p3859e,punt1240,xpt,Punthamara,NA
+pd6915,wong1246,xwk,Kungardutji,NA
+p74c8c,wong1246,xwk,Wangkumara,NA
+p13003,arab1267,ard,Arabana,NA
+pb137a,wang1290,wgg,Wangkangurru,NA
+p4f6f1,pitt1247,pit,Pitta Pitta,NA
+peda68,wang1289,wnm,Wangkayutyuru,NA
+p8bddf,kuun1236,lku,Kungkari,NA
+p2a156,pirr1240,xpa,Pirriya,NA
+pc84cd,kala1380,gll,Garlali,NA
+p66844,badi1246,bia,Badimaya,NA
+p04bbb,malg1242,vml,Malkana,NA
+pa2f32,nhan1238,nha,Nhanda,NA
+p412a9,waja1257,wbv,Watjarri,NA
+pdf620,ying1247,yia,Yingkarta,NA
+p7d997,cola1237,mis,Kolakngat,NA
+p1bd0e,daun1234,dgw,Daungwurrung,NA
+pba085,woiw1237,wyi,Boonwurrung,NA
+p583fc,wath1238,wth,Wathawurrung,NA
+pf6773,woiw1237,wyi,Woiwurrung,NA
+p94aea,yari1243,mis,Yari-Yari,NA
+p32e61,ladj1234,llj,Ladji-Ladji,NA
+pd11d8,madh1244,dmd,Madhi-Madhi,NA
+p6f54f,wadi1260,xwd,Wathi Wathi,NA
+p0d8c6,west2443,mis,East Djadjawurung,NA
+pabc3d,djad1246,mis,Jardwadjali,NA
+p49fb4,nari1241,rnr,Nari Nari,NA
+pe832b,djab1234,tjw,Djabwurung,NA
+p866a2,wemb1241,xww,Wemba Wemba,NA
+p24a19,wotj1234,xwt,Wotjobaluk,NA
+pc2d90,gana1268,ihw,Bidhawal,NA
+p61107,gana1278,unn,Muk-Thang,NA
+pff47e,gana1278,unn,Thangguai,NA
+p9d7f5,gana1278,unn,Nulit,NA
+p3bb6c,kera1256,mis,Keramin,NA
+pd9ee3,lowe1402,mis,Ngayawang,NA
+p7825a,ngin1247,mis,Ngintait,NA
+p165d1,narr1259,nay,Yaraldi,NA
+pb4948,yith1234,xth,Yitha Yitha,NA
+p52cbf,bidy1243,bym,Bidyara,NA
+pf1036,gang1268,gnl,Barada,NA
+p8f3ad,biri1256,bzr,Barna,NA
+p2d724,biri1256,bzr,Biri,NA
+pcba9b,gang1268,gnl,Gabalbara,NA
+p69e12,gang1268,gnl,Gangulu,NA
+p08189,gang1268,gnl,Ganulu,NA
+pa6500,biri1256,bzr,Garingbal,NA
+p44877,biri1256,bzr,Miyan,NA
+pe2bee,biri1256,bzr,Wiri,NA
+p80f65,biri1256,bzr,Yambina,NA
+p1f2dc,biri1256,bzr,Yangga,NA
+pbd653,gang1268,gnl,Yetimarala,NA
+p5b9ca,biri1256,bzr,Yilba,NA
+pf9d41,biri1256,bzr,Yuwi,NA
+p980b8,bidy1243,bym,Dharawala,NA
+p3642f,dhar1248,xgm,Dharumbal,NA
+pd47a6,gung1248,gyf,Gungabula,NA
+p72b1d,kung1258,kgl,Gunggari,NA
+p10e94,guny1241,gyy,Gunya,NA
+paf20b,marg1253,zmc,Margany,NA
+p4d582,gudj1237,mis,Gudjal,NA
+peb8f9,gugu1253,gdc,Gugu Badhun,NA
+p89c70,waru1264,wrg,Warungu,NA
+p27fe7,bidy1243,bym,Wadjabangay,NA
+pc635e,biri1256,bzr,Wangan,NA
+p646d5,bidy1243,bym,Yandjibara,NA
+p02a4c,bidy1243,bym,Yiningay,NA
+pa0dc3,kara1476,gbd,Karajarri,NA
+p3f13a,mang1383,mem,Mangala,NA
+pdd4b1,nyan1301,nna,Nyangumarta,NA
+p7b828,guga1239,ggd,Kukatj,NA
+p19b9f,mayi1236,xyk,Mayi-Kulan,NA
+pb7f16,maya1280,xmy,Mayi-Kutuna,NA
+p5628d,ngaw1240,nxn,Mayi-Thakurti,NA
+pf4604,mayi1235,xyj,Mayi-Yapi,NA
+p9297b,ngaw1240,nxn,Ngawun,NA
+p30cf2,ngaw1240,nxn,Wunumara,NA
+pcf069,kala1379,kba,Galaagu,NA
+p6d3e0,kala1401,lkm,Kalaamaya,NA
+p0b757,ngad1258,nju,Mirrniny,NA
+pa9ace,ngad1258,nju,Ngadjunmaya,NA
+p47e45,kari1304,vka,Kariyarra,NA
+pe61bc,kurr1243,vku,Kurrama,NA
+p84533,mart1255,vma,Martuthunira,NA
+p228aa,yinh1234,ywg,Ngarla,NA
+pc0c21,ngar1287,nrl,Ngarluma,NA
+p5ef98,nhuw1239,nhf,Nhuwala,NA
+pfd30f,nyam1271,nly,Nyamal,NA
+p9b686,nija1241,xny,Nyiyaparli,NA
+p399fd,nija1241,xny,Palyku,NA
+pd7d74,pany1241,pnw,Panyjima,NA
+p760eb,yind1247,yij,Yindjibarndi,NA
+p14462,yind1247,yij,Yinhawangka,NA
+pb27d9,bili1250,nbj,Bilinarra,NA
+p50b50,wany1244,gue,Wanyjirra,NA
+peeec7,guri1247,gue,Gurindji,NA
+p8d23e,jaru1254,ddj,Jaru,NA
+p2b5b5,maln1239,gue,Malngin,NA
+pc992c,mudb1240,dmw,Mudburra,NA
+p67ca3,ngar1288,rxd,Ngardi,NA
+p0601a,ngar1235,nbj,Ngarinyman,NA
+pa4391,walm1241,wmt,Walmajarri,NA
+p42708,warl1255,wrl,Warlmanpa,NA
+pe0a7f,warl1254,wbp,Warlpiri,NA
+p7edf6,nyaw1247,nyt,Nyawaygi,NA
+p1d16d,wulg1239,qgu,Wulguru,NA
+pbb4e4,nyun1247,nys,Balardung,NA
+p5985b,bibb1234,xbp,Bibbulman,NA
+pf7bd2,gore1235,xgg,Goreng,NA
+p95f49,kani1276,nys,Kaniyang,NA
+p342c0,nyun1247,nys,Minang,NA
+pd2637,pinj1244,pnj,Pinjarup,NA
+p709ae,ward1248,wxw,Wardandi,NA
+p0ed25,waju1234,xwj,Wajuk,NA
+pad09c,nyun1247,nys,Wiilman,NA
+p4b413,nyun1247,nys,Wudjari,NA
+pe978a,nyun1247,nys,Yuwat,NA
+p87b01,band1337,drl,Bandjigali,NA
+p25e78,darl1243,drl,Southern Paakintyi,NA
+pc41ef,pall1243,pmd,Pallanganmiddang,NA
+p62566,ikar1243,ikr,Ikarranggal,NA
+p008dd,ikar1243,ikr,Takalak,NA
+p9ec54,aghu1254,ggr,Aghu Tharnggala,NA
+p3cfcb,thay1248,typ,Awu Alaya,NA
+pdb342,kawa1290,mis,Ogh Awarrangg,NA
+p796b9,kawa1290,mis,Ogh Unyjan,NA
+p17a30,angu1242,awg,Anguthimri,NA
+pb5da7,kuku1273,gvn,Gugu Wakura,NA
+p5411e,gugu1255,kky,Guugu Yimidhirr,NA
+pf2495,kuku1273,gvn,Kuku Yalanji,NA
+p9080c,mulu1243,vmu,Muluridji,NA
+p2eb83,kuku1273,gvn,Wagaman,NA
+pccefa,dyaa1242,dyy,Djabugay,NA
+p6b271,yidi1250,yii,Yidiny,NA
+p095e8,barr1247,bpt,Malthanmungu,NA
+pa795f,djan1238,djf,Djangun,NA
+p45cd6,lamu1254,lby,Lamalama,NA
+pe404d,mbar1253,zmv,Rimanggudinhma,NA
+p823c4,wikm1247,wim,Wik Mungkan,NA
+p2073b,wikn1245,wig,Wik-Ngathan,NA
+pbeab2,ayab1239,ayd,Ayapathu,NA
+p5ce29,wikn1246,wua,Kugu Nganhcara,NA
+pfb1a0,kuuk1238,kuy,Kuugu Ya'u,NA
+p99517,paka1251,pkn,Bakanh,NA
+p3788e,umpi1239,ump,Umpila,NA
+pd5c05,ayab1239,ayd,Yintyingka,NA
+p73f7c,kokn1236,gko,Kok Nar,NA
+p122f3,gurd1238,gdj,Kurtjar,NA
+pb066a,kuth1240,xut,Kuthant,NA
+p4e9e1,wala1263,nlw,Walangama,NA
+pecd58,alng1239,aid,Alngith,NA
+p8b0cf,arit1239,rrt,Aritinngithigh,NA
+p29446,ndra1239,dgt,Ndra'ngith,NA
+pc77bd,tyan1235,mis,Thaynakwithi,NA
+p65b34,leni1238,lnj,Linngithigh,NA
+p03eab,luth1234,mis,Luthigh,NA
+pa2222,mbiy1238,mis,Mbiywom,NA
+p40599,mpal1238,xpj,Mpalitjanh,NA
+pde910,ngko1236,mis,Ngkoth,NA
+p7cc87,atam1239,amz,Uradhi,NA
+p1affe,angg1238,avm,Angkamuthi,NA
+pb9375,atam1239,amz,Atampaya,NA
+p576ec,yadh1237,mis,Yadhaykenu,NA
+pf5a63,yinw1236,yxm,Yinwum,NA
+p93dda,gugu1254,kkp,Koko Bera,NA
+p32151,thay1249,thd,Thaayorre,NA
+pd04c8,ulku1238,kjn,Olkol,NA
+p6e83f,yiry1245,yiy,Yir Yoront,NA
+p0cbb6,wami1239,wmi,Agwamin,NA
+paaf2d,mbar1254,mvl,Mbara,NA
+p492a4,mbab1239,vmb,Mbabaram,NA
+pe761b,umbu1256,umg,Umbuygamu,NA
+p85992,oyka1239,kjn,Oykangand,NA
+p23d09,adny1235,adt,Adnyamathanha,NA
+pc2080,kaur1267,zku,Kaurna,NA
+p603f7,nugu1241,nnv,Nukunu,NA
+pfe76e,wira1265,wgu,Wirangu,NA
+p9cae5,bang1339,bjb,Parnkalla,NA
+p3ae5c,naru1238,nnr,Narrungga,NA
+pd91d3,koka1244,ktd,Kukata,NA
+p7754a,gure1255,gnr,Gureng-gureng,NA
+p158c1,gure1255,gnr,Guweng,NA
+pb3c38,kabi1260,gbw,Butchulla,NA
+p51faf,gabi1248,gbw,Gabi-Gabi,NA
+pf0326,kabi1260,gbw,Barunggam,NA
+p8e69d,duun1241,wkw,Duungidjawu,NA
+p2ca14,waka1274,wkw,Waka Waka,NA
+pcad8b,wuli1242,wlu,Wuli Wuli,NA
+p69102,bula1255,mis,Bularnu,NA
+p07479,waga1260,wga,Eastern Wakaya,NA
+pa57f0,warl1256,wrb,Warluwarra,NA
+p43b67,waga1260,wga,Western Wakaya,NA
+pe1ede,yany1243,jao,Yanyuwa,NA
+p80255,waru1265,wrm,Warumungu,NA
+p1e5cc,kart1247,mpj,Kartujarra,NA
+pbc943,many1256,mpj,Manjiljarra,NA
+p5acba,pudi1238,mpj,Putijarra,NA
+pf9031,wang1288,mpj,Wangkajunga,NA
+p973a8,yulp1239,mis,Yulparija,NA
+p3571f,wanm1242,wbt,Warnman,NA
+pd3a96,anta1253,ant,Antakirinya,NA
+p71e0d,kuka1246,kux,Kukatja,NA
+p10184,pitj1243,pjt,Ngalia,NA
+pae4fb,ngar1296,nrk,Ngarlawangka,NA
+p4c872,ngaa1240,ntj,Ngaanyatjarra,NA
+peabe9,pint1250,piu,Pintupi,NA
+p88f60,pitj1243,pjt,Pitjantjatjara,NA
+p272d7,yank1247,kdd,Yankunytjatjara,NA
+pc564e,kala1378,mwp,Kala Kawaw Ya,NA
+p639c5,kala1377,mwp,Kala Lagaw Ya,NA
+p01d3c,maly1234,yga,Malyangapa,NA
+pa00b3,wadi1261,wdk,Wadikali,NA
+p3e42a,yard1234,yxl,Yardliyawarra,NA
+pdc7a1,dhan1270,dhg,Dhangu,NA
+p7ab18,gupa1247,guf,Gupapuyngu,NA
+p18e8f,dhal1246,dax,Dhay'yi,NA
+pb7206,djam1256,djr,Djambarrpuyngu,NA
+p5557d,guma1253,gnn,Gumatj,NA
+pf38f4,djin1253,dji,Djinang,NA
+p91c6b,djin1252,djb,Djinba,NA
+p2ffe2,yann1237,jay,Nhangu,NA
+pce359,rita1239,rit,Ritharrngu,NA
+p6c6d0,yort1237,xyy,Yabula-Yabula,NA
+p0aa47,yort1237,xyy,Yorta Yorta,NA
+pa8dbe,biga1237,xbe,Bigambal,NA
+p47135,yuga1244,yub,Yugambal,NA
+pe54ac,hawk1239,xda,Darkinyung,NA
+p83823,sydn1236,xdk,Dharuk,NA
+p21b9a,sydn1236,xdk,Eora,NA
+pbff11,awab1243,awk,Awabakal,NA
+p5e288,west2443,mis,West Djadjawurung,NA
+pfc5ff,wori1245,kda,Katthang,NA
+p9a976,ngan1296,nyx,Nganyaywana,NA
+p38ced,dyan1250,dyn,Thanggati,NA
+pd7064,djap1238,duj,Djapu,NA
+p753db,thur1254,tbh,Dharawal,NA
+p13752,thur1254,tbh,Dharumba,NA
+pb1ac9,dhur1239,dhu,Dhurga,NA
+p4fe40,sout2771,xtv,Djirringany,NA
+pee1b7,gund1248,xrd,Gundungurra,NA
+p8c52e,ngar1297,xni,Ngarigu,NA
+p2a8a5,sout2770,mis,Ngunawal,NA
+pc8c1c,sout2771,xtv,Thawa,NA
+p66f93,gang1267,gcd,Gangalidda,NA
+p0530a,kaya1319,gyd,Kayardild,NA
+pa3681,lard1243,lbz,Lardil,NA
+p419f8,kaya1319,gyd,Yangkaralda,NA
+pdfd6f,tiwi1244,tiw,Tiwi,NA
+p7e0e6,wage1238,waq,Wagiman,NA
+p1c45d,ngar1284,ung,Ngarinyin,NA
+pba7d4,gamb1251,gma,Gambera,NA
+p58b4b,kwin1241,gww,Kwini,NA
+pf6ec2,wuna1249,wub,Wunambal,NA
+p95239,umii1236,xud,Umiida,NA
+p335b0,ungg1243,xgu,Unggumi,NA
+pd1927,worr1237,wro,Worrorra,NA
+p6fc9e,yawi1239,jbw,Yawijibaya,NA
+p0e015,ward1246,wrr,Wardaman,NA
+pac38c,yang1288,jng,Yangman,NA
+p4a703,guwa1243,gwu,Guwamu,NA
+pe8a7a,west2437,wbp,Ngardily,NA
+p86df1,werg1234,weg,Piangil,NA
+p25168,lamu1254,lby,Tableland Lamalama,NA
