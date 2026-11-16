@@ -58,8 +58,8 @@ test_that("every BibtexKey resolves to a real bib entry", {
     mapping_keys <- bibtex_mapping %>% pull(BibtexKey) %>% unique()
     missing_keys <- setdiff(mapping_keys, bib_keys)
 
-    # Exclude special case of InventoryID 201 (Arrente), which has "NO SOURCE GIVEN" as its BibtexKey
-    missing_keys <- setdiff(missing_keys, bibtex_mapping %>% filter(InventoryID == 201) %>% pull(BibtexKey))
+    # Exclude special case of InventoryID p9fc80 (Arrente, legacy ID 201), which has "NO SOURCE GIVEN" as its BibtexKey
+    missing_keys <- setdiff(missing_keys, bibtex_mapping %>% filter(InventoryID == "p9fc80") %>% pull(BibtexKey))
 
     ## report which InventoryID(s) cite each missing key
     offending_rows <- bibtex_mapping %>%
