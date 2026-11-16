@@ -1,5 +1,5 @@
 InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	AllophoneNotes	FileNames
-1665	btx	Karo Batak		p				btx_KaroBatak1.pdf
+p8555f	btx	Karo Batak		p				btx_KaroBatak1.pdf
 	btx	Karo Batak		t				
 	btx	Karo Batak		k		[ʔ]	before consonants and word finally	
 	btx	Karo Batak		k		[k]		
@@ -31,7 +31,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	btx	Karo Batak		o		[ɔ]	closed syllable	
 	btx	Karo Batak		ə				
 	btx	Karo Batak		a				
-1666	tgl	Tagalog		a				tgl_Himmelmann.pdf
+p238d6	tgl	Tagalog		a				tgl_Himmelmann.pdf
 	tgl	Tagalog		e				
 	tgl	Tagalog		i				
 	tgl	Tagalog		o				
@@ -55,7 +55,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tgl	Tagalog		<c>	loan words only 			
 	tgl	Tagalog		<ɟ>	loan words only 			
 	tgl	Tagalog		<f>	loan words only 			
-1667	ssb	Southern Sama	Sinama, Simunul Island	p				ssb_Jun.pdf
+pc1c4d	ssb	Southern Sama	Sinama, Simunul Island	p				ssb_Jun.pdf
 	ssb	Southern Sama	Sinama, Simunul Island	t				
 	ssb	Southern Sama	Sinama, Simunul Island	k				
 	ssb	Southern Sama	Sinama, Simunul Island	ʔ				
@@ -79,7 +79,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ssb	Southern Sama	Sinama, Simunul Island	o				
 	ssb	Southern Sama	Sinama, Simunul Island	u				
 	ssb	Southern Sama	Sinama, Simunul Island	ə				
-1668	kqr	Kimaragang	Tandek	a				kqr_Kroeger.pdf
+p5ffc4	kqr	Kimaragang	Tandek	a				kqr_Kroeger.pdf
 	kqr	Kimaragang	Tandek	i				
 	kqr	Kimaragang	Tandek	e				
 	kqr	Kimaragang	Tandek	u				
@@ -104,7 +104,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kqr	Kimaragang	Tandek	w				
 	kqr	Kimaragang	Tandek	l				
 	kqr	Kimaragang	Tandek	j				
-1669	beg	Belait	Metting	a				beg_Clynes.pdf
+pfe33b	beg	Belait	Metting	a				beg_Clynes.pdf
 	beg	Belait	Metting	e		[e]	final syllables	
 	beg	Belait	Metting	e		[ɛ]	in non-final syllables	
 	beg	Belait	Metting	e		[ə]	in non-final syllables	
@@ -133,7 +133,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	beg	Belait	Metting	w				
 	beg	Belait	Metting	j				
 	beg	Belait	Metting	ʁ				
-1670	ilo	Iloko/Ilocano	Northern	p				ilo_Rubino.pdf
+p9c6b2	ilo	Iloko/Ilocano	Northern	p				ilo_Rubino.pdf
 	ilo	Iloko/Ilocano	Northern	t		[t]		
 	ilo	Iloko/Ilocano	Northern	t		[t̠ʃ]	before /j/ and /i/	
 	ilo	Iloko/Ilocano	Northern	k				
@@ -159,7 +159,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ilo	Iloko/Ilocano	Northern	u				
 	ilo	Iloko/Ilocano	Northern	<ɔ>	only in loanwords 			
 	ilo	Iloko/Ilocano	Northern	<ɛ>	only in loanwords 			
-1671	cjm	Phan Rang Cham (Eastern Cham)		i				cjm_Thurgood.pdf
+p3aa29	cjm	Phan Rang Cham (Eastern Cham)		i				cjm_Thurgood.pdf
 	cjm	Phan Rang Cham (Eastern Cham)		ɨ				
 	cjm	Phan Rang Cham (Eastern Cham)		u				
 	cjm	Phan Rang Cham (Eastern Cham)		e				
@@ -193,7 +193,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cjm	Phan Rang Cham (Eastern Cham)		j				
 	cjm	Phan Rang Cham (Eastern Cham)		h				
 	cjm	Phan Rang Cham (Eastern Cham)		ŋ				
-1672	mkm	Moklen		p				mkm_Larish.pdf
+pd8da0	mkm	Moklen		p				mkm_Larish.pdf
 	mkm	Moklen		t				
 	mkm	Moklen		t̠ʃ				
 	mkm	Moklen		k				
@@ -239,7 +239,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mkm	Moklen		uy				
 	mkm	Moklen		uə				
 	mkm	Moklen		au̯				
-1673	mwt	Moken	Dung Moken	p				mkm_Larish.pdf
+p77117	mwt	Moken	Dung Moken	p				mkm_Larish.pdf
 	mwt	Moken	Dung Moken	t				
 	mwt	Moken	Dung Moken	t̠ʃ				
 	mwt	Moken	Dung Moken	k				
@@ -278,7 +278,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mwt	Moken	Dung Moken	ɔː				
 	mwt	Moken	Dung Moken	ea				
 	mwt	Moken	Dung Moken	oa				
-1674	nia	Nias	Selatan	t				nia_Brown.pdf
+p1548e	nia	Nias	Selatan	t				nia_Brown.pdf
 	nia	Nias	Selatan	k				
 	nia	Nias	Selatan	ʔ				
 	nia	Nias	Selatan	b				
@@ -303,7 +303,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nia	Nias	Selatan	o				
 	nia	Nias	Selatan	ɤ				
 	nia	Nias	Selatan	a				
-1675	jav	Javanese	Yogya-Solo	p				jav_Ogloblin.pdf
+pb3805	jav	Javanese	Yogya-Solo	p				jav_Ogloblin.pdf
 	jav	Javanese	Yogya-Solo	b				
 	jav	Javanese	Yogya-Solo	t				
 	jav	Javanese	Yogya-Solo	d				
@@ -337,7 +337,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jav	Javanese	Yogya-Solo	ɔ			slack voice following voiced obstruent	
 	jav	Javanese	Yogya-Solo	ə			slack voice following voiced obstruent	
 	jav	Javanese	Yogya-Solo	a			slack voice following voiced obstruent	
-1676	blf	Buol		a			all vowel sequences are possible, phonetically like vowel sequences are realized as long	blf_Zubol.pdf
+p51b7c	blf	Buol		a			all vowel sequences are possible, phonetically like vowel sequences are realized as long	blf_Zubol.pdf
 	blf	Buol		e				
 	blf	Buol		i				
 	blf	Buol		o				
@@ -362,7 +362,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	blf	Buol		r				
 	blf	Buol		w				
 	blf	Buol		y				
-1677	mak	Makassar		a				mak_Jukes.pdf
+pefef3	mak	Makassar		a				mak_Jukes.pdf
 	mak	Makassar		i				
 	mak	Makassar		e				
 	mak	Makassar		o				
@@ -393,7 +393,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mak	Makassar		j				
 	mak	Makassar		w				
 	mak	Makassar		<h>	only in loanwords 			
-1678	xmz	Mori Bawah	Tinompo	a				xmz_Mead.pdf
+p8e26a	xmz	Mori Bawah	Tinompo	a				xmz_Mead.pdf
 	xmz	Mori Bawah	Tinompo	e				
 	xmz	Mori Bawah	Tinompo	i				
 	xmz	Mori Bawah	Tinompo	o				
@@ -420,7 +420,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xmz	Mori Bawah	Tinompo	l				
 	xmz	Mori Bawah	Tinompo	r				
 	xmz	Mori Bawah	Tinompo	h				
-1679	xbr	Kambera		i				xbr_Klamer.pdf
+p2c5e1	xbr	Kambera		i				xbr_Klamer.pdf
 	xbr	Kambera		iː				
 	xbr	Kambera		e				
 	xbr	Kambera		ai				
@@ -449,7 +449,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xbr	Kambera		w				
 	xbr	Kambera		j				
 	xbr	Kambera		ɲj	SM: switched from nj to ɲj to agree in place			
-1680	tet	Tetun		t				tet_Engelenhoven.pdf
+pca958	tet	Tetun		t				tet_Engelenhoven.pdf
 	tet	Tetun		k				
 	tet	Tetun		ʔ				
 	tet	Tetun		b				
@@ -469,7 +469,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tet	Tetun		o		[o]		
 	tet	Tetun		o		[ɔ]	unstressed (final or antepenult) syllables	
 	tet	Tetun		u				
-1681	lti	Leti		p				tet_Engelenhoven.pdf
+p68ccf	lti	Leti		p				tet_Engelenhoven.pdf
 	lti	Leti		t				
 	lti	Leti		k				
 	lti	Leti		d				
@@ -491,7 +491,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lti	Leti		uː				
 	lti	Leti		ɛ				
 	lti	Leti		ɔ				
-1682	mky	Makian, East (Taba)		a				mky_Bowden.pdf
+p07046	mky	Makian, East (Taba)		a				mky_Bowden.pdf
 	mky	Makian, East (Taba)		e				
 	mky	Makian, East (Taba)		u				
 	mky	Makian, East (Taba)		i				
@@ -515,7 +515,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mky	Makian, East (Taba)		<t̠ʃ>				
 	mky	Makian, East (Taba)		<d̠ʒ>				
 	mky	Makian, East (Taba)		<f>				
-1683	bhw	Biak	Sowek	a				bhw_Steinhauer.pdf
+pa53bd	bhw	Biak	Sowek	a				bhw_Steinhauer.pdf
 	bhw	Biak	Sowek	e				
 	bhw	Biak	Sowek	u				
 	bhw	Biak	Sowek	i				
@@ -534,7 +534,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bhw	Biak	Sowek	n				
 	bhw	Biak	Sowek	r				
 	bhw	Biak	Sowek	k				
-1684	abs	Ambon Malay		p				abs_Paauw.pdf
+p43734	abs	Ambon Malay		p				abs_Paauw.pdf
 	abs	Ambon Malay		t				
 	abs	Ambon Malay		c				
 	abs	Ambon Malay		k				
@@ -559,7 +559,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	abs	Ambon Malay		i				
 	abs	Ambon Malay		o				
 	abs	Ambon Malay		u				
-1685	bpq	Banda Malay		p				abs_Paauw.pdf
+pe1aab	bpq	Banda Malay		p				abs_Paauw.pdf
 	bpq	Banda Malay		t				
 	bpq	Banda Malay		c				
 	bpq	Banda Malay		k				
@@ -584,7 +584,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bpq	Banda Malay		i				
 	bpq	Banda Malay		o				
 	bpq	Banda Malay		u				
-1686	xmm	Manado Malay		p				abs_Paauw.pdf
+p7fe22	xmm	Manado Malay		p				abs_Paauw.pdf
 	xmm	Manado Malay		t				
 	xmm	Manado Malay		c				
 	xmm	Manado Malay		k				
@@ -611,7 +611,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xmm	Manado Malay		o				
 	xmm	Manado Malay		u				
 	xmm	Manado Malay		ə	recent development, 'borrowed phoneme?'			
-1687	mkn	Kupang Malay		p				abs_Paauw.pdf
+p1e199	mkn	Kupang Malay		p				abs_Paauw.pdf
 	mkn	Kupang Malay		t				
 	mkn	Kupang Malay		c				
 	mkn	Kupang Malay		k				
@@ -636,7 +636,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mkn	Kupang Malay		o				
 	mkn	Kupang Malay		u				
 	mkn	Kupang Malay		<ə>	appears in higher registers, borrowings from Indonesian			
-1688	lrt	Larantuka Malay		p				abs_Paauw.pdf
+pbc510	lrt	Larantuka Malay		p				abs_Paauw.pdf
 	lrt	Larantuka Malay		t				
 	lrt	Larantuka Malay		c				
 	lrt	Larantuka Malay		k				
@@ -661,7 +661,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lrt	Larantuka Malay		o				
 	lrt	Larantuka Malay		u				
 	lrt	Larantuka Malay		ə				
-1689	max	North Maluku Malay		p				abs_Paauw.pdf
+p5a887	max	North Maluku Malay		p				abs_Paauw.pdf
 	max	North Maluku Malay		t				
 	max	North Maluku Malay		c				
 	max	North Maluku Malay		k				
@@ -691,7 +691,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	max	North Maluku Malay		o				
 	max	North Maluku Malay		u				
 	max	North Maluku Malay		<ə>	found in higher registers and borrowed words from more formal Indonesian			
-1690	ind	Indonesian	Standard	p				idn_Snedden.pdf
+pf8bfe	ind	Indonesian	Standard	p				idn_Snedden.pdf
 	ind	Indonesian	Standard	t				
 	ind	Indonesian	Standard	k				
 	ind	Indonesian	Standard	t̠ʃ				
@@ -725,7 +725,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ind	Indonesian	Standard	o		[ɔ]	in closed syllables	
 	ind	Indonesian	Standard	u		[u]		
 	ind	Indonesian	Standard	u		[ʊ]	in closed syllables	
-1691	mad	Madurese	Bangkalan	p				mad_Davies.pdf
+p96f75	mad	Madurese	Bangkalan	p				mad_Davies.pdf
 	mad	Madurese	Bangkalan	t̪				
 	mad	Madurese	Bangkalan	ʈ				
 	mad	Madurese	Bangkalan	c				
@@ -760,7 +760,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mad	Madurese	Bangkalan	ə				
 	mad	Madurese	Bangkalan	ɔ				
 	mad	Madurese	Bangkalan	a				
-1692	ceb	Cebuano		p				Garry_Rubino.pdf
+p352ec	ceb	Cebuano		p				Garry_Rubino.pdf
 	ceb	Cebuano		t				
 	ceb	Cebuano		t̠ʃ				
 	ceb	Cebuano		k				
@@ -781,7 +781,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ceb	Cebuano		i				
 	ceb	Cebuano		a				
 	ceb	Cebuano		u				
-1693	ban	Balinese		p				Garry_Rubino.pdf
+pd3663	ban	Balinese		p				Garry_Rubino.pdf
 	ban	Balinese		t				
 	ban	Balinese		t̠ʃ				
 	ban	Balinese		k		[ʔ]	in syllable coda 	
@@ -806,7 +806,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ban	Balinese		o				
 	ban	Balinese		a				
 	ban	Balinese		ə				
-1694	bug	Bugis		p				Garry_Rubino.pdf
+p719da	bug	Bugis		p				Garry_Rubino.pdf
 	bug	Bugis		t				
 	bug	Bugis		t̠ʃ				
 	bug	Bugis		k				
@@ -831,7 +831,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bug	Bugis		o				
 	bug	Bugis		u				
 	bug	Bugis		ə				
-1695	bcl	Bikol (Bicolano)	Central	p				Garry_Rubino.pdf
+p0fd51	bcl	Bikol (Bicolano)	Central	p				Garry_Rubino.pdf
 	bcl	Bikol (Bicolano)	Central	t				
 	bcl	Bikol (Bicolano)	Central	<ts>				
 	bcl	Bikol (Bicolano)	Central	k				
@@ -859,7 +859,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bcl	Bikol (Bicolano)	Central	i				
 	bcl	Bikol (Bicolano)	Central	o				
 	bcl	Bikol (Bicolano)	Central	u				
-1696	hil	Hiligaynon		p				Garry_Rubino.pdf
+pae0c8	hil	Hiligaynon		p				Garry_Rubino.pdf
 	hil	Hiligaynon		t				
 	hil	Hiligaynon		k				
 	hil	Hiligaynon		ʔ				
@@ -884,7 +884,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hil	Hiligaynon		i				
 	hil	Hiligaynon		u				
 	hil	Hiligaynon		a				
-1697	pam	Kapampangan		p				Garry_Rubino.pdf
+p4c43f	pam	Kapampangan		p				Garry_Rubino.pdf
 	pam	Kapampangan		t				
 	pam	Kapampangan		k				
 	pam	Kapampangan		ʔ				
@@ -906,7 +906,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pam	Kapampangan		i				
 	pam	Kapampangan		o				
 	pam	Kapampangan		u				
-1698	min	Minangkabau	Padang	p				Garry_Rubino.pdf
+pea7b6	min	Minangkabau	Padang	p				Garry_Rubino.pdf
 	min	Minangkabau	Padang	t				
 	min	Minangkabau	Padang	k				
 	min	Minangkabau	Padang	ʔ				
@@ -939,7 +939,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	min	Minangkabau	Padang	uə				
 	min	Minangkabau	Padang	ui̯				
 	min	Minangkabau	Padang	iə				
-1699	pag	Pagasinan		p				Garry_Rubino.pdf
+p88b2d	pag	Pagasinan		p				Garry_Rubino.pdf
 	pag	Pagasinan		t				
 	pag	Pagasinan		k				
 	pag	Pagasinan		ʔ				
@@ -961,7 +961,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pag	Pagasinan		i				
 	pag	Pagasinan		o				
 	pag	Pagasinan		u				
-1700	tes	Tengger	Ngadas	p				Tengger.doc
+p26ea4	tes	Tengger	Ngadas	p				Tengger.doc
 	tes	Tengger	Ngadas	t				
 	tes	Tengger	Ngadas	ʈ				
 	tes	Tengger	Ngadas	t̠ʃ				
