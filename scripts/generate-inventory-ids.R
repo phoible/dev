@@ -6,10 +6,6 @@
 ## The IDs are generated deterministically from a counter, so that the same inputs always produce the same outputs.
 ## The IDs are non-sequential, and deleted IDs are not reused (stored in mappings/InventoryID-Retired.csv).
 
-is_valid_inventory_id <- function(x) {
-    grepl(INVENTORY_ID_PATTERN, x)
-}
-
 ## Reads InventoryID out of a CSV file's column of that name, if the file exists.
 read_inventory_ids <- function(path) {
     if (!file.exists(path)) return(character(0))
