@@ -4,7 +4,8 @@
 ## new language block in a raw-data source file and bakes it in.
 ## A block that already has an ID is left alone.
 
-## TEMP: Script is currently only for AA, PH, UZ, GM, EA, ER, UPSID, SAPHON, RA, and SPA.
+## To add a new raw-data source, add it to one of the lists below which matches its format.
+## The source file must have a column named "InventoryID" (case-sensitive) for this script to work.
 
 source("generate-inventory-ids.R")
 
