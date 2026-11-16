@@ -15,6 +15,7 @@ debug <- FALSE
 data_dir <- file.path("..", "raw-data")
 output_dir <- file.path("..", "data")
 glotto_path <- file.path("..", "mappings", "InventoryID-LanguageCodes.csv")
+retired_path <- file.path("..", "mappings", "InventoryID-Retired.csv")
 output_path <- file.path(output_dir, "phoible-nofeats.csv")
 if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
 
@@ -234,6 +235,10 @@ if (!debug) rm(saphon_raw, saphon_ipa)
 data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data, ra_data,
                           gm_data, saphon_data, uz_data, ea_data, er_data)
 all_data <- do.call(rbind, data_sources_list)
+
+## drop retired inventories, listed in InventoryID-Retired.csv
+retired_ids <- read.csv(retired_path)$InventoryID
+all_data <- all_data[!(all_data$InventoryID %in% retired_ids),]
 
 ## Rename LanguageName and SpecificDialect to SourceLanguageName and SourceSpecificDialect
 ## LanguageName and SpecificDialect will be added from the mapping file
