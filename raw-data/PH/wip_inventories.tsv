@@ -1,902 +1,900 @@
-FileNames	Glottocode	LanguageName	Specific Dialect	Phonemes	Comments	Allophones	ExplanationOfAllophones	Notes
-roseslabrada2015mako.pdf	maco1239	Mako		i		i		
-						ĩ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."	
-				e		e		
-						ẽ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."	
-				ɨ		ɨ		
-						ɨ̃	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."	
-				a	low central vowel	a		
-						ã	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."	
-				u		u		
-						ũ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."	
-				o		o		
-						õ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."	
-				<ə>	only appears in past tense suffix /-tə/	<ə>		
-				ĩ		ĩ		
-				ẽ		ẽ		
-				ɨ̃		ɨ̃		
-				ã	low central nasal vowel	ã		
-				ũ		ũ		
-				õ		õ		
-				tʰ		tʰ		
-						n̥	"The nasal consonant [n̥] occurs variably in the data in opposition to a [tʰ] in the 3PL person prefix of verbs when the following vowel is nasal... However, nasalization of /tʰ/ is obligatory in nasal contexts in roots like ĩtʰĩ ‘son’..."	
-				pʰ		pʰ		
-						m̥	"all instances of this nasal occur before a nasal vowel... and there are no instances of /pʰ/ before a nasal vowel"	
-				kʷ		kʷ		
-				t		t		
-				p		p		
-				k		k		
-				b		b		
-						w	"The consonants /ʤ/ and /b/ can undergo lenition and be realized as [j] and [w] respectively... The lenition of /b/ occurs intervocalically, especially in front of the non-finite suffix -ɨ"	
-				d		d		
-				ʔ	"restricted to word-medial contexts"	ʔ		
-				ˀb	"there is a series of pre-glottalized voiced consonants that can appear both word-initially and word-medially."	ˀb		
-						ˀm	"the pre-glottalized nasals only occur when the following vowel is a nasal and the pre-glottalized oral stops when the following vowel is oral"	
-				ˀd	"there is a series of pre-glottalized voiced consonants that can appear both word-initially and word-medially."	ˀd		
-						ˀn	"the pre-glottalized nasals only occur when the following vowel is a nasal and the pre-glottalized oral stops when the following vowel is oral"	
-				h		h		
-				hʷ		hʷ		
-				ts		ts	"This variation seems to be both intra- and inter-speaker and more research is needed to understand what factors motivate the choice of one of the three allophones of /ʦ/."	
-						s	"This variation seems to be both intra- and inter-speaker and more research is needed to understand what factors motivate the choice of one of the three allophones of /ʦ/."	
-						ʃ	"This variation seems to be both intra- and inter-speaker and more research is needed to understand what factors motivate the choice of one of the three allophones of /ʦ/."	
-						ɲ̥	"The [ɲ̥]... occurs in the realization of nouns formed with the dummy root iʦ- when the classifier attached to the root is nasal."	
-				t̠ʃ		t̠ʃ		
-				d̠ʒ		d̠ʒ		
-						ɲ	"The palatal nasal [ɲ] is an allophone of the /ʤ/ when this sound is followed by a nasal."	
-						j	"The consonants /ʤ/ and /b/ can undergo lenition and be realized as [j] and [w] respectively. The context for /ʤ/ lenition seems to be before front vowels"	
-				ˀd̠ʒ	"there is a series of pre-glottalized voiced consonants that can appear both word-initially and word-medially."	ˀd̠ʒ		
-						ˀɲ	"the pre-glottalized nasals only occur when the following vowel is a nasal and the pre-glottalized oral stops when the following vowel is oral"	
-				m		m		
-				n		n		
-				l		l		
-						ɾ	"The liquid phoneme has two realizations: [ɾ] in front of /i/ and /ĩ/ in word-medial position and [l] in all other contexts."	
-						n	"/l/ can also be variably nasalized when followed by nasal vowels"	
-				w		w		
-				ˀw		ˀw		
-								
-berry1999abun.pdf	abun1252	Abun	Ye	p		p		
-				b		b		
-				t		t		
-				d		d		
-				k		k		
-				ɡ		ɡ		
-				d̠ʒ		d̠ʒ		
-				mb		mb		
-				nd		nd		
-				n̠d̠ʒ		n̠d̠ʒ		
-				ŋɡ		ŋɡ		
-				f		f		
-				s		s		
-				ʃ		ʃ		
-						s	"/š/... neutralises to /s/ syllable-finally"	
-				m		m		
-				n		n		
-				ɲ		ɲ		
-						n	"/ñ/... neutralises to /n/ word-finally"	
-				w		w		
-				r		r		
-						ɾ	"The /r/ is actually a trill, but in fast speech often becomes flap."	
-				j		j		
-				i		i	"For the high vowels, /i/ and /u/, tensing is particularly noticeable in open syllables"	
-						ɪ		
-				e		e	"For the mid vowels, /e/ and /o/, tensing is more noticeable when tone is high"	
-						ɛ		
-				u		u	"For the high vowels, /i/ and /u/, tensing is particularly noticeable in open syllables"	
-						ʊ		
-				o		o	"For the mid vowels, /e/ and /o/, tensing is more noticeable when tone is high"	
-						ɔ		
-				ɑ		ɑ		
-				˦	high/rising	˦		
-						˧˥	"When a low or falling tone precedes a high tone, the high tone begins with an upward pitch, like a rising tone, whereas elsewhere it is a high tone."	
-				˨		˨		
-						˧˩	"where a high/rising tone precedes a low tone, the low tone begins with a downward pitch, that is, it appears to be like a falling tone, but not falling as much as a true falling tone"	
-				˥˩		˥˩		
-								
-45mishchenko.pdf	loma1260	Looma	Woi-Balagha	i		i		
-				e		e		
-				ɛ		ɛ		
-				a		a		
-				ɔ		ɔ		
-				o		o		
-				u		u		
-				ĩ	"the question of phonemic status on nasality in Looma needs further investigation"	ĩ		
-				ẽ	"the question of phonemic status on nasality in Looma needs further investigation"	ẽ		
-				ɛ̃	"the question of phonemic status on nasality in Looma needs further investigation"	ɛ̃		
-				ã	"the question of phonemic status on nasality in Looma needs further investigation"	ã		
-				ɔ̃	"the question of phonemic status on nasality in Looma needs further investigation"	ɔ̃		
-				õ	"the question of phonemic status on nasality in Looma needs further investigation"	õ		
-				ũ	"the question of phonemic status on nasality in Looma needs further investigation"	ũ		
-				p		p		
-				b		b		
-				ɓ		ɓ		
-				m		m		
-				w		w		
-				f		f		
-				v		v		
-				ʋ		ʋ		
-				kp		kp		
-				ɡb		ɡb		
-				t		t		
-				d		d		
-				s		s		
-				z		z		
-				n		n		
-				l		l		
-				ɲ		ɲ		
-				j		j		
-				k		k		
-				ɡ		ɡ		
-				ɣ		ɣ		
-				ŋ		ŋ		
-				˦		˦		
-				˨		˨		
-								
-heath2016donnoso.pdf	donn1239	Donno So Dogon	Wendegele	pʰ	"Voiceless stops occur stem-initially... They do not occur medially or finally in native Dogon vocabulary."	pʰ		
-				b		b		
-				m		m		
-				<f>	"f is not present in native Dogon vocabulary, and is replaced by p in well-integrated loanwords"	<f>		
-				<v>		<v>		
-				w		w		
-				tʰ	"Voiceless stops occur stem-initially... They do not occur medially or finally in native Dogon vocabulary."	tʰ		
-				d		d		
-						ɾ	"Noninitial intervocalic d frequently lenites to tap r (IPA [ɾ])"	
-				n		n		
-				ɾ		ɾ		
-				s		s		
-				<z>	"Alveopalatal š and ž occur in unassimilated borrowings, especially from French... The same is true of z..."	<z>		
-				l		l		
-				<t̠ʃ>		<t̠ʃ>		
-				d̠ʒ		d̠ʒ		
-				<ʃ>	"Alveopalatal š and ž occur in unassimilated borrowings, especially from French"	<ʃ>		
-				<ʒ>	"Alveopalatal š and ž occur in unassimilated borrowings, especially from French"	<ʒ>		
-				ɲ		ɲ		
-				j		j		
-				kʰ	"Voiceless stops occur stem-initially... They do not occur medially or finally in native Dogon vocabulary."	kʰ		
-				ɡ		ɡ		
-						ɣ	"Subphonemic phonetic spirantization of g to fricative [ɣ] is observed between two a or ɔ vowels."	
-				ŋ		ŋ		
-				<ʔ>		<ʔ>		
-				<h>	"h occurs mainly in Fulfulde loanwords"	<h>		
-				i		i		
-				iː		iː		
-				<ĩ>		<ĩ>		
-				<ĩː>		<ĩː>		
-				e	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	e		
-				eː		eː		
-				ẽ		ẽ		
-				ẽː		ẽː		
-				ɛ	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	ɛ		
-				ɛː		ɛː		
-				ɛ̃		ɛ̃		
-				ɛ̃ː		ɛ̃ː		
-				a		a		
-				aː		aː		
-				ã		ã		
-				ãː		ãː		
-				u		u		
-				uː		uː		
-				<ũ>		<ũ>		
-				<ũː>		<ũː>		
-				o	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	o		
-				oː		oː		
-				õ		õ		
-				õː		õː		
-				ɔ	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	ɔ		
-				ɔː		ɔː		
-				ɔ̃		ɔ̃		
-				ɔ̃ː		ɔ̃ː		
-				ɔɛ	"More interesting are the tightly knit diphthongs ɔɛ and oe, where neither element is particularly more syllabic than the other. There is no hiatus. These diphthongs occur primarily in perfective forms of monosyllabic Cɔ: and Co: verbs"	ɔɛ		
-				oe	"More interesting are the tightly knit diphthongs ɔɛ and oe, where neither element is particularly more syllabic than the other. There is no hiatus. These diphthongs occur primarily in perfective forms of monosyllabic Cɔ: and Co: verbs"	oe		
-				˦		˦		
-				˨		˨		
-				˥˩	"Contour tones <HL>, <LH>, and <LHL> are confined to monosyllabic words and to word-final heavy (bi- or trimoraic) syllables."	˥˩		
-				˩˥	"Contour tones <HL>, <LH>, and <LHL> are confined to monosyllabic words and to word-final heavy (bi- or trimoraic) syllables."	˩˥		
-				<˧˦˧>	"Contour tones <HL>, <LH>, and <LHL> are confined to monosyllabic words and to word-final heavy (bi- or trimoraic) syllables."	<˧˦˧>		
-								
-heath2017najamba.pdf	nadj1238	Najamba Dogon		pʰ	"Voiceless obstruents occur chiefly in stem-initial position."	pʰ		
-				b		b		
-				m		m		
-				<f>	"f occurs in a few regional terms probably borrowed from other languages"	<f>		
-				tʰ	"Voiceless obstruents occur chiefly in stem-initial position."	tʰ		
-				d		d		
-				n		n		
-				r		r		
-				s	"Voiceless obstruents occur chiefly in stem-initial position."	s		
-				<z>	"in a very small number of borrowings"	<z>		
-				l		l		
-				<t̠ʃ>		<t̠ʃ>		
-				d̠ʒ		d̠ʒ		
-				<ʃ>	"A marginal phonemic š occurs in a handful of loanwords"	<ʃ>		
-				<ʒ>	"ž is recorded in álžérì ‘Algeria’"	<ʒ>		
-				ɲ		ɲ		
-				j		j		
-				<j̃>	"yⁿ is uncommon but it does occur syllable-finally in several expressive terms including adjectival intensifiers..., in one or two probable loanwords..., and more interestingly in a handful of native terms"	<j̃>		
-				kʰ	"Voiceless obstruents occur chiefly in stem-initial position."	kʰ		
-				ɡ		ɡ		
-						ɣ	"Some spirantization of g to [ɣ] was observed... intervocalically between a or ɔ vowels."	
-				ŋ		ŋ		
-				w		w		
-				<w̃>	"I know wⁿ only in one recent loanword: àbìyɔ̂wⁿ ‘airplane’"	<w̃>		
-				<h>	"Phoneme h occurs in Fulfulde loanwords"	<h>		
-				<ˀb>	"Fulfulde preglottalized consonants {ʼb ʼd ʼy}... occur in some unassimilated loanwords, usually varying with voiced stops in more fully nativized pronunciations."	<ˀb>		
-				<ˀd>	"Fulfulde preglottalized consonants {ʼb ʼd ʼy}... occur in some unassimilated loanwords, usually varying with voiced stops in more fully nativized pronunciations."	<ˀd>		
-				<ˀj>	"Fulfulde preglottalized consonants {ʼb ʼd ʼy}... occur in some unassimilated loanwords, usually varying with voiced stops in more fully nativized pronunciations."	<ˀj>		
-				i		i		
-				iː		iː		
-				<ĩː>	found in interjections, onomatopoeias, and loanwords	<ĩː>		
-				e		e		
-				eː		eː		
-				ɛ		ɛ		
-				ɛː		ɛː		
-				a		a		
-				aː		aː		
-				<ã>	found in interjections, onomatopoeias, and loanwords	<ã>		
-				<ãː>	found in interjections, onomatopoeias, and loanwords	<ãː>		
-				u		u		
-				uː		uː		
-				o		o		
-				oː		oː		
-				ɔ		ɔ		
-				ɔː		ɔː		
-				<ɔ̃>	found in interjections, onomatopoeias, and loanwords	<ɔ̃>		
-				<ɔ̃ː>	found in interjections, onomatopoeias, and loanwords	<ɔ̃ː>		
-				˦		˦		
-				˨		˨		
-				˥˩		˥˩		
-				˩˥		˩˥		
-						˦	"Many nouns, adjectives, and verbs end in a long <LH>-toned vowel. Before particles or other words beginning with an H-tone (except over a pause or similar prosodic break), this rising tone is raised (or leveled) to a flat H-tone. Monosyllabic words... are unaffected, and retain their contour tones."	
-				<˧˦˧>		<˧˦˧>		
-								
-heath2017bunoge.pdf	buno1241	Bunoge Dogon		pʰ		pʰ		
-				b		b		
-				m		m		
-				<f>	"f is rare and confined to loanwords."	<f>		
-				tʰ		tʰ		
-				d		d		
-				n		n		
-						l	"/nl/ → ll"	
-				ɾ		ɾ		
-						l	"/lr/ → ll"	
-				s		s		
-				<z>	"in a few loanwords"	<z>		
-				l		l		
-				t̠ʃ		t̠ʃ		
-				d̠ʒ		d̠ʒ		
-				<ʃ>	"in a few loanwords"	<ʃ>		
-				<ʒ>	"in a few loanwords"	<ʒ>		
-				ɲ		ɲ		
-				j		j		
-				<j̃>	"yⁿ occurs finally in hortatives and (plural-subject) imperatives with suffix -yⁿ."	<j̃>		
-				kʰ		kʰ		
-				ɡ		ɡ		
-				ŋ		ŋ		
-				w		w		
-						β̞	"My assistant sometimes pronounced initial w as a bilabial approximant similar to a lax IPA [β] before mid-height front vowels {e ɛ} in certain words"	
-				<w̃>	"wⁿ occurs word-finally in several numerals... and in a few other words"	<w̃>		
-						m	"Before a consonant it can be pronounced as a homorganic nasal."	
-						n	"Before a consonant it can be pronounced as a homorganic nasal."	
-						ɲ	"Before a consonant it can be pronounced as a homorganic nasal."	
-						ŋ	"Before a consonant it can be pronounced as a homorganic nasal."	
-				<h>	"occurs stem-initially in a few loanwords"	<h>		
-				<ˀb>	"Preglottalized stops like ˀb and and preglottalized ˀy occur in unassimilated Fulfulde loanwords"	<ˀb>		
-				<ˀj>	"Preglottalized stops like ˀb and and preglottalized ˀy occur in unassimilated Fulfulde loanwords"	<ˀj>		
-				i		i		
-				iː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	iː		
-				<ĩː>	"Nasalized vowels are not typical of Bunoge. I can cite kì:ⁿ ‘skiff (boat)’ and tɔ́:ⁿ-tɔ́:ⁿ ‘nearby’."	<ĩː>		
-				e	+ATR	e		
-				eː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	eː		
-				ɛ	-ATR	ɛ		
-				ɛː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	ɛː		
-				a		a		
-				aː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	aː		
-				u		u		
-				uː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	uː		
-				o	+ATR	o		
-				oː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	oː		
-				ɔ	-ATR	ɔ		
-				ɔː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	ɔː		
-				<ɔ̃ː>	"Nasalized vowels are not typical of Bunoge. I can cite kì:ⁿ ‘skiff (boat)’ and tɔ́:ⁿ-tɔ́:ⁿ ‘nearby’."	<ɔ̃ː>		
-				˦		˦		
-				˨		˨		
-								
-heath2016nanga.pdf	nang1261	Nanga Dogon	Anda	pʰ		pʰ		
-				b		b		
-				m		m		
-						mm͊	"The m in several of these words is optionally (or dialectally) pronounced with a brief oral release"	
-				<f>		<f>		
-				w		w		
-						w̃	"a nasal... or nasalized sonorant... at the onset of a syllable, or a nasalized vowel within that syllable, induces nasalization on an intervocalic oral sonorant {r y w} at the beginning of the following syllable... Syllable-final semivowels {y w} are also (phonetically) nasalized in Nvy and Nvw syllables... Semivowels (but not r) are inconsistently nasalized by an adjacent following nasal."	
-				<w̃>		<w̃>		
-				tʰ		tʰ		
-				d		d		
-				n		n		
-				s		s		
-				l		l		
-				ɾ	"r does not occur syllable-finally in normal speech."	ɾ		
-						ɾ̃	"If there is a preceding nasal in the stem or uncompounded word, rⁿ but not oral r may occur... and this constraint extends to any inflectional suffixes, so perfective negative suffix -rí becomes -rⁿí in nasalized environments"	
-				ɾ̃	"limited to word-internal intervocalic position"	ɾ̃		
-						n	"When a short vowel following rⁿ is syncopated, the rⁿ is converted to n"	
-				t̠ʃ		t̠ʃ		
-				d̠ʒ		d̠ʒ		
-				ɲ		ɲ		
-				<ʃ>		<ʃ>		
-				j		j		
-						j̃	"a nasal... or nasalized sonorant... at the onset of a syllable, or a nasalized vowel within that syllable, induces nasalization on an intervocalic oral sonorant {r y w} at the beginning of the following syllable... Syllable-final semivowels {y w} are also (phonetically) nasalized in Nvy and Nvw syllables... Semivowels (but not r) are inconsistently nasalized by an adjacent following nasal."	
-				j̃		j̃		
-				kʰ		kʰ		
-				ɡ		ɡ		
-				ŋ		ŋ		
-				<h>	"h occurs stem-initially in numerous nouns and verbs, nearly all of them Fulfulde loanwords... It does not occur word- or syllable-finally."	<h>		
-				<ʔ>		<ʔ>		
-				i		i		
-						u	"final short i is often realized as [u] in the presence of rounded vowels or w"	
-						ĩ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						iː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				iː		iː		
-						ĩː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				ĩː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ĩː		
-				e	+ATR	e		
-						ẽ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						eː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				eː		eː		
-						ẽː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				ɛ	-ATR	ɛ		
-						ɛ̃	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						ɛː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				ɛː		ɛː		
-						ɛ̃ː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				ɛ̃ː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ɛ̃ː		
-				a		a		
-						ã	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						aː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				aː		aː		
-						ãː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				ãː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ãː		
-				u		u		
-						ũ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						uː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				uː		uː		
-						ũː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				o	+ATR	o		
-						õ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						oː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				oː		oː		
-						õː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				ɔ	-ATR	ɔ		
-						ɔ̃	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-						ɔː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."	
-				ɔː		ɔː		
-						ɔ̃ː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"	
-				<ɔ̃>	in loanwords, 'expressive reduplications,' and the words 'yes' and 'no'	<ɔ̃>		
-				ɔ̃ː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ɔ̃ː		
-				˦		˦		
-				˨		˨		
-				˥˩		˥˩		
-								
-vollmin2017gumer.pdf	gume1239	Gumer		<p>	"There are occasional loans with p (especially word-initially)"	<p>		
-				pː		pː		
-				b		b		
-				bː		bː		
-				pʷ		pʷ		
-				pʷː		pʷː		
-				bʷ		bʷ		
-				f		f		
-				fː		fː		
-				fʷ		fʷ		
-				fʷː		fʷː		
-				m		m		
-				mː		mː		
-				mʷ		mʷ		
-				mʷː		mʷː		
-				β		β		
-						b	"The voiced plosive [b]... occurs in geminates... that have not been devoiced... or in (underlying) voiced ‘geminates’ that have been degeminated... Further, all word-initial /β/ are realized as [b]..., as well as all β following a nasal"	
-						p	"β, b and p are largely allophones of /β/. The voiceless plosive [p] generally originates from a geminated /β/."	
-				βʷ	"/βʷ/ as a phoneme with [w] and [bʷ] as allophones. NB: labialization is very often a morphophonological process in Gumer, labialized here means: there is a /β/ that is labialized due to a suffix that also contains the floating feature [+LAB] (pc. Sascha Völlmin)"	w	"When labialized, /β/ usually becomes [w]. Some speakers, however, occasionally realize it as [bʷ], i.e. it is strengthened (and never *[βʷ])."	
-						bʷ	"When labialized, /β/ usually becomes [w]. Some speakers, however, occasionally realize it as [bʷ], i.e. it is strengthened (and never *[βʷ])."	
-				w		w		
-						bʷ	"If n meets w (across morpheme boundaries)... either the nasal is pronounced as a velar nasal [ŋ], or it becomes labial and the following w is occlusivized to bʷ"	
-				t		t		
-				tː		tː		
-				tʼ		tʼ		
-				tʼː		tʼː		
-				t̠ʃ		t̠ʃ		
-				t̠ʃː		t̠ʃː		
-				t̠ʃʼ		t̠ʃʼ		
-				t̠ʃʼː		t̠ʃʼː		
-				s		s		
-				sː		sː		
-				ʃ		ʃ		
-				ʃː		ʃː		
-				n		n		
-						ɲ	"If followed by a consonant, the nasal n assimilates to its point of articulation"	
-						ŋ	"If followed by a consonant, the nasal n assimilates to its point of articulation"	
-						m	"If followed by a consonant, the nasal n assimilates to its point of articulation"	
-						ɱ	"If followed by a consonant, the nasal n assimilates to its point of articulation"	
-				nː		nː		
-				ɹ		ɹ		
-						n	"Nasalization in verb bases occurs in three instances: word-initially, as ‘geminate’... penultimate radical, and in penultimate coda position... Word-initially, /r/ is realized as n without exception"	
-						s	"Marginally, r can assimilate to s"	
-				d		d		
-				dː		dː		
-				d̠ʒ		d̠ʒ		
-				d̠ʒː		d̠ʒː		
-				z		z		
-				zː		zː		
-				ʒ		ʒ		
-				ʒː		ʒː		
-				l		l		
-				lː		lː		
-				j		j		
-				<jː>	in Amharic loans and one or two native words	<jː>		
-				k		k		
-				kː		kː		
-				kʼ		kʼ		
-				kʼː		kʼː		
-				ɡ		ɡ		
-						k	"[k] is also an allophone of /ɡ/"	
-				ɡː		ɡː		
-				kʲ		kʲ		
-				kʲː		kʲː		
-				kʲʼ		kʲʼ		
-				kʲʼː		kʲʼː		
-				ɡʲ		ɡʲ		
-				kʷ		kʷ		
-				kʷː		kʷː		
-				kʷʼ		kʷʼ		
-				kʷʼː		kʷʼː		
-				ɡʷ		ɡʷ		
-				x		x		
-						k	"Firstly, k is the mutated... or geminated form of x... Secondly, at least in verb stems, k occurs when followed by a fricative (f, s, z, x)... or by the vowel a (or ə) that is the reflex of a (laryngeal) root consonant that diachronically got lost"	
-				xʲ		xʲ		
-				xʷ		xʷ		
-				<xʷː>	in one word	<xʷː>		
-				<pʼ>	"Gumer speakers marginally also use in loan words (usually taken from Amharic) the ejectives pʼ and sʼ"	<pʼ>		
-				<sʼ>	"Gumer speakers marginally also use in loan words (usually taken from Amharic) the ejectives pʼ and sʼ"	<sʼ>		
-				<ɲ>	"Gumer speakers marginally also use in loan words... the palatal nasal ɲ"	<ɲ>		
-				<ʔ>	"I am aware of one instance of a glottal stop ʔ (that is rather strong and clearly differs from a ‘normal’ onset of words beginning with vowels)"	<ʔ>		
-				i		i		
-						ĩ	"a vowel can become nasalized when it is followed by /n/+C"	
-				e	"the mid vowels are in most cases biphonemic, i.e. the vowel e is a combination of /ə/+/I/, the vowel o of /ə/+/U/"	e		
-						ẽ	"a vowel can become nasalized when it is followed by /n/+C"	
-				ɨ		ɨ		
-						ɨ̃	"a vowel can become nasalized when it is followed by /n/+C"	
-						ʉ	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."	
-				ə		ə		
-						ə̃	"a vowel can become nasalized when it is followed by /n/+C"	
-						ɵ	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."	
-						ɞ	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."	
-						ə̹	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."	
-						ɛ	"The sequence əyə tends to be realized as ɛyə or ɛə. The first ə is usually fronted to an open [ɛ]."	
-				a	open central vowel	a		
-						ã	"a vowel can become nasalized when it is followed by /n/+C"	
-				u		u		
-						ũ	"a vowel can become nasalized when it is followed by /n/+C"	
-				o	"the mid vowels are in most cases biphonemic, i.e. the vowel e is a combination of /ə/+/I/, the vowel o of /ə/+/U/"	o		
-						õ	"a vowel can become nasalized when it is followed by /n/+C"	
-				<ɛ>		<ɛ>		
-						<ɛ̃>	"a vowel can become nasalized when it is followed by /n/+C"	
-				<ɔ>		<ɔ>		
-						<ɔ̃>	"a vowel can become nasalized when it is followed by /n/+C"	
-								
-heath2017yornoso.pdf	yorn1234	Toro So Dogon	Yorno So	pʰ	"Voiceless obstruents occur chiefly in stem-initial position."	pʰ		
-				b		b		
-						m	"b→m before nasal... The only synchronically transparent example of this is jɔ̀bɔ́ ‘run’, causative jɔ̌m-nɔ́ ‘drive (vehicle)’"	
-				m		m		
-				w		w		
-						w̃	"Stem-initial y and w [and r] are partially nasalized phonetically by a nasal following the first vowel... In syllables of the shapes Cvw and Cvy, the coda semivowel is phonetically nasalized, but this appears to be subphonemic and nondistinctive."	
-				w̃		w̃		
-						m	"wⁿ is often a reflex of intervocalic *m, but synchronic m ~ wⁿ alternations may require positing of underling /wⁿ/... These data show alternations between syllable-final m (before word-boundary or a consonant) and intervocalic wⁿ."	
-				tʰ	"Voiceless obstruents occur chiefly in stem-initial position."	tʰ		
-				d		d		
-				n		n		
-				s	"Voiceless obstruents occur chiefly in stem-initial position."	s		
-				<z>	"z occurs in a handful of loanwords"	<z>		
-				l		l		
-				r		r		
-						r̃	"Stem-initial y and w [and r] are partially nasalized phonetically by a nasal following the first vowel."	
-				r̃		r̃		
-						n	"There is a good argument that rⁿ is the underlying form and becomes n syllable-finally... The reasoning is that both rⁿ and n occur intervocalically..., but only n can occur syllable-finally."	
-				<t̠ʃ>	"attested clearly only in the regional interjection có"	<t̠ʃ>		
-				d̠ʒ		d̠ʒ		
-				ɲ		ɲ		
-				j		j		
-						j̃	"In syllables of the shapes Cvw and Cvy, the coda semivowel is phonetically nasalized, but this appears to be subphonemic and nondistinctive... y tends to become nasalized [yⁿ] allophonically (subphonemically) in the word-initial sequence yvN… with v any vowel (long or short) and N any nasal."	
-				j̃		j̃		
-				kʰ	"Voiceless obstruents occur chiefly in stem-initial position."	kʰ		
-				ɡ		ɡ		
-						ŋ	"Morpheme-initial g after a nasal syllable is nasalized to ŋ."	
-				ŋ		ŋ		
-				<h>	"h occurs stem-initially in a few Fulfulde loans"	<h>		
-				<ʔ>	"Glottal stop ʔ occurs phonetically as a juncture marker to separate two vowels in reduplications... and in interjections like ɔ́ⁿʔɔ̀ⁿ ‘uhn-uhn!’"	<ʔ>		
-				i		i		
-						ĩ	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				iː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	iː		
-						ĩː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				<ĩː>		<ĩː>		
-				e	+ATR	e		
-				eː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	eː		
-				ɛ	-ATR	ɛ		
-						ɛ̃	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				ɛː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	ɛː		
-						ɛ̃ː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				ɛ̃ː		ɛ̃ː		
-				a		a		
-						ã	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				aː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	aː		
-						ãː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				ãː		ãː		
-				u		u		
-						ũ	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				uː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	uː		
-						ũː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				<ũː>		<ũː>		
-				o	+ATR	o		
-				oː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	oː		
-				ɔ	-ATR	ɔ		
-						ɔ̃	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				ɔː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	ɔː		
-						ɔ̃ː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."	
-				ɔ̃ː		ɔ̃ː		
-				˦		˦		
-				˨		˨		
-								
-heath2015bentey.pdf	bent1238	Ben Tey Dogon		pʰ		pʰ		
-				b		b		
-				m		m		
-				<f>	"f is not a full-fledged consonant, and a borrowed word containing it may show p."	<f>		
-				w		w		
-						w̃	"Nasalization (from a nasal or nasalized consonant) can spreads from left to right within a word, affecting the sonorants {r w y}, which become {rⁿ wⁿ yⁿ}. The spreading... is blocked by an intervening non-nasal consonant. Spreading is iterative within a word"	
-						m	"When a stem with shape like Cvwv- or Cvwⁿv- undergoes Syncope or Apocope of the final vowel, the now syllable-final semivowel is converted to m under limited conditions."	
-				w̃	"These nasalized sonorants can be independent phonemes in (noninitial) intervocalic position within words... yⁿ and wⁿ may also occur syllable-finally"	w̃		
-						m	"When a stem with shape like Cvwv- or Cvwⁿv- undergoes Syncope or Apocope of the final vowel, the now syllable-final semivowel is converted to m under limited conditions."	
-				tʰ		tʰ		
-				d		d		
-				n		n		
-				s		s		
-				<z>	"Other sibilants {š z ž) occur in a few loanwords from French"	<z>		
-				l		l		
-				r		r		
-						r̃	"Nasalization (from a nasal or nasalized consonant) can spreads from left to right within a word, affecting the sonorants {r w y}, which become {rⁿ wⁿ yⁿ}. The spreading... is blocked by an intervening non-nasal consonant. Spreading is iterative within a word"	
-				r̃	"These nasalized sonorants can be independent phonemes in (noninitial) intervocalic position within words."	r̃		
-						n	"Stem- or word-final …rⁿi or …rⁿu optionally drop the vowel before certain consonants, especially alveolars {t d n}, and in this case the /rⁿ/ may be realized as n."	
-				t̠ʃ		t̠ʃ		
-						k	"... there is some fluctuation between {k g} and {c j} pronunciations before front vowels {i e ɛ}. Where both pronunciations have been recorded, I normalize the transcription as {c j}."	
-				d̠ʒ		d̠ʒ		
-						ɡ	"... there is some fluctuation between {k g} and {c j} pronunciations before front vowels {i e ɛ}. Where both pronunciations have been recorded, I normalize the transcription as {c j}."	
-				ɲ		ɲ		
-				<ʃ>	"Other sibilants {š z ž) occur in a few loanwords from French"	<ʃ>		
-				<ʒ>	"Other sibilants {š z ž) occur in a few loanwords from French"	<ʒ>		
-				j		j		
-						j̃	"Nasalization (from a nasal or nasalized consonant) can spreads from left to right within a word, affecting the sonorants {r w y}, which become {rⁿ wⁿ yⁿ}. The spreading... is blocked by an intervening non-nasal consonant. Spreading is iterative within a word"	
-				j̃	"These nasalized sonorants can be independent phonemes in (noninitial) intervocalic position within words... yⁿ and wⁿ may also occur syllable-finally"	j̃		
-				kʰ		kʰ		
-				ɡ		ɡ		
-						ɣ	"Spirantization of intervocalic /g/ to ɣ is fairly common, though not obligatory, when intervocalic within a word and flanked by vowels from the set {a ɔ}."	
-				ŋ		ŋ		
-				<h>	"h occurs in loans, chiefly from Fulfulde"	<h>		
-				<ʔ>	"ʔ (glottal stop) is found in gúrùʔá:nà ‘Koran (book)’, where it reflects Arabic ʔ, and in the semi-linguistic utterance ɔⁿ́ ʔɔⁿ̀ ‘nope!’. A glottal stop is also inserted after a v- (for Cv-) reduplicative segment before a vowel-initial stem"	<ʔ>		
-				i		i		
-						ĩ	"The [nasalization] spreading occurs over intervening vowels"	
-						u	"There is much fluctuation between the two short high vowels... My general sense is that short high vowels in noninitial syllables of verb stems tend toward unrounded [i] when adjacent segments are not rounded or labial."	
-						iː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				iː		iː		
-						ĩː	"The [nasalization] spreading occurs over intervening vowels"	
-				<ĩː>		<ĩː>		
-				e	+ATR	e		
-						ẽ	"The [nasalization] spreading occurs over intervening vowels"	
-						eː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				eː		eː		
-						ẽː	"The [nasalization] spreading occurs over intervening vowels"	
-				ɛ	-ATR	ɛ		
-						ɛ̃	"The [nasalization] spreading occurs over intervening vowels"	
-						ɛː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				ɛː		ɛː		
-						ɛ̃ː	"The [nasalization] spreading occurs over intervening vowels"	
-				<ɛ̃ː>		<ɛ̃ː>		
-				a		a		
-						ã	"The [nasalization] spreading occurs over intervening vowels"	
-						aː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				aː		aː		
-						ãː	"The [nasalization] spreading occurs over intervening vowels"	
-				ã		ã		
-				ãː		ãː		
-				u		u		
-						ũ	"The [nasalization] spreading occurs over intervening vowels"	
-						uː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				uː		uː		
-						ũː	"The [nasalization] spreading occurs over intervening vowels"	
-				<ũ>		<ũ>		
-				<ũː>		<ũː>		
-				o	+ATR	o		
-						õ	"The [nasalization] spreading occurs over intervening vowels"	
-						oː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				oː		oː		
-						õː	"The [nasalization] spreading occurs over intervening vowels"	
-				ɔ	-ATR	ɔ		
-						ɔ̃	"The [nasalization] spreading occurs over intervening vowels"	
-						ɔː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."	
-				ɔː		ɔː		
-						ɔ̃ː	"The [nasalization] spreading occurs over intervening vowels"	
-				<ɔ̃>		<ɔ̃>		
-				<ɔ̃ː>		<ɔ̃ː>		
-				˦		˦		
-				˨		˨		
-				<˩˥>	"Contour-toned syllables usually have at least two moras... Exceptions are Cv̌ verb stems"	<˩˥>		
-						˦	"Another type of final <LH>-to-H raising affects final rising-toned long vowels in nonmonosyllabic stems that are followed by a word beginning in an H-tone... The raising seems to be most consistent before monosyllabic postpositions... and similar clitic-like elements, but it is at least optional in some other combinations."	
-								
-heath2016doguldom.pdf	dogu1235	Dogul Dom Dogon	Koundiala	pʰ	"Voiceless obstruents are rare intervocalically"	pʰ		
-				b		b		
-				m		m		
-						ŋ	"word-final nasals generally merge as ŋ"	
-				<f>		<f>		
-				<v>		<v>		
-				w		w		
-				tʰ	"Voiceless obstruents are rare intervocalically"	tʰ		
-				d		d		
-				n		n		
-						ŋ	"word-final nasals generally merge as ŋ"	
-				s	"Voiceless obstruents are rare intervocalically"	s		
-				<z>	"{š z} occur in a few regionally widespread loanwords"	<z>		
-				l		l		
-				ɾ	"rare word-initially and does not occur syllable-finally"	ɾ		
-				<t̠ʃ>	in loanwords	<t̠ʃ>		
-				d̠ʒ		d̠ʒ		
-				ɲ	"does not occur word-finally"	ɲ		
-						ŋ	"word-final nasals generally merge as ŋ"	
-				<ʃ>	"{š z} occur in a few regionally widespread loanwords"	<ʃ>		
-				<ʒ>		<ʒ>		
-				j		j		
-				j̃		j̃		
-				kʰ	"Voiceless obstruents are rare intervocalically"	kʰ		
-				ɡ		ɡ		
-				ŋ		ŋ		
-				<h>	occurs "stem-initially in a few Fulfulde loanwords"	<h>		
-				i		i		
-				iː		iː		
-						i	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						ĩː	before a deleted /ŋ/ in some stems	
-				<ĩː>	"Independently (phonemically) nasalized vowels are uncommon."	<ĩː>		
-				e		e		
-						ẽ	before a deleted /ŋ/ in some stems	
-				eː		eː		
-						e	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						ẽː	before a deleted /ŋ/ in some stems	
-				<ẽː>	"Independently (phonemically) nasalized vowels are uncommon."	<ẽː>		
-				ɛ		ɛ		
-						ɛ̃	before a deleted /ŋ/ in some stems	
-				ɛː		ɛː		
-						ɛ	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						ɛ̃ː	before a deleted /ŋ/ in some stems	
-				<ɛ̃ː>	"Independently (phonemically) nasalized vowels are uncommon."	<ɛ̃ː>		
-				a		a		
-						ã	before a deleted /ŋ/ in some stems	
-				aː		aː		
-						a	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						ãː	before a deleted /ŋ/ in some stems	
-				<ã>	"Independently (phonemically) nasalized vowels are uncommon."	<ã>		
-				<ãː>	"Independently (phonemically) nasalized vowels are uncommon."	<ãː>		
-				u		u		
-						ũ	before a deleted /ŋ/ in some stems	
-						i	"Assimilation of the type /uy/ → iy occurs in verbs with 1Pl subject suffix -y and in combinations involving nouns with accusative enclitic =ỳ or with the ‘it is’ enclitic =ỳ."	
-				uː		uː		
-						u	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						ũː	before a deleted /ŋ/ in some stems	
-				o		o		
-				oː		oː		
-						o	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						õː	before a deleted /ŋ/ in some stems	
-				ɔ		ɔ		
-						ɔ̃	before a deleted ŋ in some stems	
-				ɔː		ɔː		
-						ɔ	"an H-toned [verb] stem usually shortens when not followed by a suffix"	
-						ɔ̃ː	before a deleted /ŋ/ in some stems	
-				˦	"each stem has one lexical H-tone, expressed on one entire syllable or on one syllable-final mora"	˦		
-				˨		˨		
-								
-heath2016penange.pdf	pena1270	Penange Dogon		pʰ		pʰ		
-				b		b		
-				m		m		
-						m̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."	
-				<f>	in loanwords	<f>		
-				w		w		
-				w̃	word-finally	w̃		
-						m	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."	
-						n	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."	
-						ɲ	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."	
-						ŋ	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."	
-				tʰ		tʰ		
-				d		d		
-				n		n		
-						n̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."	
-				s		s		
-				<z>		<z>		
-				l		l		
-				ɾ		ɾ		
-				t̠ʃ		t̠ʃ		
-				d̠ʒ		d̠ʒ		
-				ɲ		ɲ		
-						ɲ̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."	
-				j		j		
-				j̃	word-finally	j̃		
-				kʰ		kʰ		
-				ɡ		ɡ		
-						ɣ	"There is some subphonemic spirantization of g in the medial position in Cv_v between flanking back/low vowels {a ɔ}."	
-				ŋ		ŋ		
-						ŋ̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."	
-				<h>	"occurs as initial consonant in a number of stems, mostly Fulfulde borrowings"	<h>		
-				i		i		
-				iː		iː		
-				<ĩ>		<ĩ>		
-				<ĩː>		<ĩː>		
-				e	+ATR	e		
-				eː	+ATR	eː		
-				ɛ	-ATR	ɛ		
-				ɛː	-ATR	ɛː		
-				<ɛ̃>	-ATR	<ɛ̃>		
-				<ɛ̃ː>	-ATR	<ɛ̃ː>		
-				a		a		
-				aː		aː		
-				<ã>		<ã>		
-				<ãː>		<ãː>		
-				u		u		
-				uː		uː		
-				<ũː>		<ũː>		
-				o	+ATR	o		
-						o̯	"Although the phonology of monosyllabic E-stems is not transparent, one could argue for underlying /Coe/ and /Cɔɛ/ and posit a desyllabification rule producing Co̯e and Cɔ̯ɛ, respectively."	
-				oː	+ATR	oː		
-				ɔ	-ATR	ɔ		
-						ɔ̯	"Although the phonology of monosyllabic E-stems is not transparent, one could argue for underlying /Coe/ and /Cɔɛ/ and posit a desyllabification rule producing Co̯e and Cɔ̯ɛ, respectively."	
-				ɔː	-ATR	ɔː		
-				<ɔ̃>	-ATR	<ɔ̃>		
-				<ɔ̃ː>	-ATR	<ɔ̃ː>		
-				˦		˦		
-						˦˥	"Phonetically, there is often a slight pitch rise on the last H-toned syllable before an L-toned syllable."	
-				˨		˨		
-						˦	"A final L-tone of an {L}-toned word is raised to H-tone by dissimilation before a closely phrased word that begins with an L-tone." "Rightward H-Spreading converts a sequence H.L.L to H.H.L, whereby the first H-tone is at the left edge of a word."	
-						˩˥	"A CvL syllable with final sonorant may appear with rising tone in careful pronunciation."	
-				<˥˩>	"Though rare, <HL>-toned Cv̂ syllables can occur word-finally"	<˥˩>		
-						˦	"A final <HL>-toned syllable that is followed by a tightly-phrased L-toned particle or modifier often merges its L-tone element with the L-tone of the particle and therefore surfaces with just the H-tone."	
-				<˩˥>	"An <LH>-toned monomoraic Cv̌ syllable is very rare."	<˩˥>		
-								
-heath2015togokan	togo1254	Togo Kan Dogon	Koporo-Pe	p	"obstruents... occur predominantly in stem-initial position"	p		
-				b	"obstruents... occur predominantly in stem-initial position"	b		
-				m		m		
-				<f>	"occurs in a few Fulfulde and French loanwords"	<f>		
-				w		w		
-						w̃	"When a semivowel closes a nasal syllable... it is phonetically nasalized."	
-				w̃	"Nasalized sonorants {wⁿ yⁿ rⁿ} occur noninitially."	w̃		
-				t	"obstruents... occur predominantly in stem-initial position"	t		
-				d	"obstruents... occur predominantly in stem-initial position"	d		
-				n		n		
-				s	"obstruents... occur predominantly in stem-initial position"	s		
-				l		l		
-				ɾ	"rhotics occur only in intervocalic position"	ɾ		
-				ɾ̃	"Nasalized sonorants {wⁿ yⁿ rⁿ} occur noninitially."	ɾ̃		
-				d̠ʒ	"obstruents... occur predominantly in stem-initial position"	d̠ʒ		
-				ɲ		ɲ		
-				j		j		
-						j̃	"When a semivowel closes a nasal syllable... it is phonetically nasalized."	
-				j̃	"Nasalized sonorants {wⁿ yⁿ rⁿ} occur noninitially."	j̃		
-				k	"obstruents... occur predominantly in stem-initial position"	k		
-				ɡ	"moderately common in noninitial syllables"	ɡ		
-						ɣ	"between any combination of preceding and following a and ɔ"	
-				ŋ		ŋ		
-				<h>	"occur[s] in a fair number of loanwords"	<h>		
-				i		i		
-				iː		iː		
-				ĩ		ĩ		
-				ĩː		ĩː		
-				e	+ATR	e		
-				eː		eː		
-				ẽ		ẽ		
-				ẽː		ẽː		
-				ɛ	-ATR	ɛ		
-				ɛː		ɛː		
-				ɛ̃		ɛ̃		
-				ɛ̃ː		ɛ̃ː		
-				a		a		
-				aː		aː		
-				ã		ã		
-				ãː		ãː		
-				u		u		
-				uː		uː		
-				ũ		ũ		
-				ũː		ũː		
-				o	+ATR	o		
-				oː		oː		
-				õ		õ		
-				õː		õː		
-				ɔ	-ATR	ɔ		
-				ɔː		ɔː		
-				ɔ̃		ɔ̃		
-				ɔ̃ː		ɔ̃ː		
-				˦		˦		
-						˧	Downstep "is used opportunistically to differentiate the pitches of two adjacent {H}-toned words... Phonetically, a downstepped H-tone is a mid tone."	"However, it is unclear whether downstep is a full-fledged phonological phenomenon in TgK."
-				˨		˨		
-				<˥˩>	"It is harder to find Cv̂ stems, but this is only because {HL}-toned stems of any length are generally disallowed among verbs, common nouns, and adjectives."	<˥˩>		
-						˦	"Nonfinal Cv syllables within a word cannot carry a contour tone.... [T]he simplification is from either Cv̂ or Cv̌ to Cv́."	
-				˩˥		˩˥		
-						˦	"[T]he simplification is from either Cv̂ or Cv̌ to Cv́.... [F]or <LH> tones the disallowed position is not 'nonfinal' but 'medial'"	
-
-guzzo2022talian	tali1266	Venetian	Talian	p		p		
-				t		t		
-				d		d		
-				k		k		
-				ɡ		g		
-				t̠ʃ		t̠ʃ		
-				<ʃ>	"However, Talian speakers who are dominant in Portuguese or use Portuguese on a regular basis employ target /ʃ ʒ/ in such loanwords"	<ʃ>		
-				d̠ʒ		d̠ʒ		
+InventoryID	Glottocode	LanguageName	SpecificDialect	Phoneme	Comments	Allophones	ExplanationOfAllophones	Notes	FileNames
+3309	maco1239	Mako		i		i			roseslabrada2015mako.pdf
+						ĩ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."		
+				e		e			
+						ẽ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."		
+				ɨ		ɨ			
+						ɨ̃	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."		
+				a	low central vowel	a			
+						ã	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."		
+				u		u			
+						ũ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."		
+				o		o			
+						õ	"Oral vowels can undergo nasalization... Nasality in this instance could be argued to be a suprasegmental feature that serves to mark the plural of certain nouns."		
+				<ə>	only appears in past tense suffix /-tə/	<ə>			
+				ĩ		ĩ			
+				ẽ		ẽ			
+				ɨ̃		ɨ̃			
+				ã	low central nasal vowel	ã			
+				ũ		ũ			
+				õ		õ			
+				tʰ		tʰ			
+						n̥	"The nasal consonant [n̥] occurs variably in the data in opposition to a [tʰ] in the 3PL person prefix of verbs when the following vowel is nasal... However, nasalization of /tʰ/ is obligatory in nasal contexts in roots like ĩtʰĩ ‘son’..."		
+				pʰ		pʰ			
+						m̥	"all instances of this nasal occur before a nasal vowel... and there are no instances of /pʰ/ before a nasal vowel"		
+				kʷ		kʷ			
+				t		t			
+				p		p			
+				k		k			
+				b		b			
+						w	"The consonants /ʤ/ and /b/ can undergo lenition and be realized as [j] and [w] respectively... The lenition of /b/ occurs intervocalically, especially in front of the non-finite suffix -ɨ"		
+				d		d			
+				ʔ	"restricted to word-medial contexts"	ʔ			
+				ˀb	"there is a series of pre-glottalized voiced consonants that can appear both word-initially and word-medially."	ˀb			
+						ˀm	"the pre-glottalized nasals only occur when the following vowel is a nasal and the pre-glottalized oral stops when the following vowel is oral"		
+				ˀd	"there is a series of pre-glottalized voiced consonants that can appear both word-initially and word-medially."	ˀd			
+						ˀn	"the pre-glottalized nasals only occur when the following vowel is a nasal and the pre-glottalized oral stops when the following vowel is oral"		
+				h		h			
+				hʷ		hʷ			
+				ts		ts	"This variation seems to be both intra- and inter-speaker and more research is needed to understand what factors motivate the choice of one of the three allophones of /ʦ/."		
+						s	"This variation seems to be both intra- and inter-speaker and more research is needed to understand what factors motivate the choice of one of the three allophones of /ʦ/."		
+						ʃ	"This variation seems to be both intra- and inter-speaker and more research is needed to understand what factors motivate the choice of one of the three allophones of /ʦ/."		
+						ɲ̥	"The [ɲ̥]... occurs in the realization of nouns formed with the dummy root iʦ- when the classifier attached to the root is nasal."		
+				t̠ʃ		t̠ʃ			
+				d̠ʒ		d̠ʒ			
+						ɲ	"The palatal nasal [ɲ] is an allophone of the /ʤ/ when this sound is followed by a nasal."		
+						j	"The consonants /ʤ/ and /b/ can undergo lenition and be realized as [j] and [w] respectively. The context for /ʤ/ lenition seems to be before front vowels"		
+				ˀd̠ʒ	"there is a series of pre-glottalized voiced consonants that can appear both word-initially and word-medially."	ˀd̠ʒ			
+						ˀɲ	"the pre-glottalized nasals only occur when the following vowel is a nasal and the pre-glottalized oral stops when the following vowel is oral"		
+				m		m			
+				n		n			
+				l		l			
+						ɾ	"The liquid phoneme has two realizations: [ɾ] in front of /i/ and /ĩ/ in word-medial position and [l] in all other contexts."		
+						n	"/l/ can also be variably nasalized when followed by nasal vowels"		
+				w		w			
+				ˀw		ˀw			
+									
+3310	abun1252	Abun	Ye	p		p			berry1999abun.pdf
+				b		b			
+				t		t			
+				d		d			
+				k		k			
+				ɡ		ɡ			
+				d̠ʒ		d̠ʒ			
+				mb		mb			
+				nd		nd			
+				n̠d̠ʒ		n̠d̠ʒ			
+				ŋɡ		ŋɡ			
+				f		f			
+				s		s			
+				ʃ		ʃ			
+						s	"/š/... neutralises to /s/ syllable-finally"		
+				m		m			
+				n		n			
+				ɲ		ɲ			
+						n	"/ñ/... neutralises to /n/ word-finally"		
+				w		w			
+				r		r			
+						ɾ	"The /r/ is actually a trill, but in fast speech often becomes flap."		
+				j		j			
+				i		i	"For the high vowels, /i/ and /u/, tensing is particularly noticeable in open syllables"		
+						ɪ			
+				e		e	"For the mid vowels, /e/ and /o/, tensing is more noticeable when tone is high"		
+						ɛ			
+				u		u	"For the high vowels, /i/ and /u/, tensing is particularly noticeable in open syllables"		
+						ʊ			
+				o		o	"For the mid vowels, /e/ and /o/, tensing is more noticeable when tone is high"		
+						ɔ			
+				ɑ		ɑ			
+				˦	high/rising	˦			
+						˧˥	"When a low or falling tone precedes a high tone, the high tone begins with an upward pitch, like a rising tone, whereas elsewhere it is a high tone."		
+				˨		˨			
+						˧˩	"where a high/rising tone precedes a low tone, the low tone begins with a downward pitch, that is, it appears to be like a falling tone, but not falling as much as a true falling tone"		
+				˥˩		˥˩			
+									
+3311	loma1260	Looma	Woi-Balagha	i		i			45mishchenko.pdf
+				e		e			
+				ɛ		ɛ			
+				a		a			
+				ɔ		ɔ			
+				o		o			
+				u		u			
+				ĩ	"the question of phonemic status on nasality in Looma needs further investigation"	ĩ			
+				ẽ	"the question of phonemic status on nasality in Looma needs further investigation"	ẽ			
+				ɛ̃	"the question of phonemic status on nasality in Looma needs further investigation"	ɛ̃			
+				ã	"the question of phonemic status on nasality in Looma needs further investigation"	ã			
+				ɔ̃	"the question of phonemic status on nasality in Looma needs further investigation"	ɔ̃			
+				õ	"the question of phonemic status on nasality in Looma needs further investigation"	õ			
+				ũ	"the question of phonemic status on nasality in Looma needs further investigation"	ũ			
+				p		p			
+				b		b			
+				ɓ		ɓ			
+				m		m			
+				w		w			
+				f		f			
+				v		v			
+				ʋ		ʋ			
+				kp		kp			
+				ɡb		ɡb			
+				t		t			
+				d		d			
+				s		s			
+				z		z			
+				n		n			
+				l		l			
+				ɲ		ɲ			
+				j		j			
+				k		k			
+				ɡ		ɡ			
+				ɣ		ɣ			
+				ŋ		ŋ			
+				˦		˦			
+				˨		˨			
+									
+3312	donn1239	Donno So Dogon	Wendegele	pʰ	"Voiceless stops occur stem-initially... They do not occur medially or finally in native Dogon vocabulary."	pʰ			heath2016donnoso.pdf
+				b		b			
+				m		m			
+				<f>	"f is not present in native Dogon vocabulary, and is replaced by p in well-integrated loanwords"	<f>			
+				<v>		<v>			
+				w		w			
+				tʰ	"Voiceless stops occur stem-initially... They do not occur medially or finally in native Dogon vocabulary."	tʰ			
+				d		d			
+						ɾ	"Noninitial intervocalic d frequently lenites to tap r (IPA [ɾ])"		
+				n		n			
+				ɾ		ɾ			
+				s		s			
+				<z>	"Alveopalatal š and ž occur in unassimilated borrowings, especially from French... The same is true of z..."	<z>			
+				l		l			
+				<t̠ʃ>		<t̠ʃ>			
+				d̠ʒ		d̠ʒ			
+				<ʃ>	"Alveopalatal š and ž occur in unassimilated borrowings, especially from French"	<ʃ>			
+				<ʒ>	"Alveopalatal š and ž occur in unassimilated borrowings, especially from French"	<ʒ>			
+				ɲ		ɲ			
+				j		j			
+				kʰ	"Voiceless stops occur stem-initially... They do not occur medially or finally in native Dogon vocabulary."	kʰ			
+				ɡ		ɡ			
+						ɣ	"Subphonemic phonetic spirantization of g to fricative [ɣ] is observed between two a or ɔ vowels."		
+				ŋ		ŋ			
+				<ʔ>		<ʔ>			
+				<h>	"h occurs mainly in Fulfulde loanwords"	<h>			
+				i		i			
+				iː		iː			
+				<ĩ>		<ĩ>			
+				<ĩː>		<ĩː>			
+				e	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	e			
+				eː		eː			
+				ẽ		ẽ			
+				ẽː		ẽː			
+				ɛ	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	ɛ			
+				ɛː		ɛː			
+				ɛ̃		ɛ̃			
+				ɛ̃ː		ɛ̃ː			
+				a		a			
+				aː		aː			
+				ã		ã			
+				ãː		ãː			
+				u		u			
+				uː		uː			
+				<ũ>		<ũ>			
+				<ũː>		<ũː>			
+				o	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	o			
+				oː		oː			
+				õ		õ			
+				õː		õː			
+				ɔ	"+ATR {e o} and -ATR {ɛ ɔ} constitute the polar harmonic sets and do not ordinarily cooccur within noncompound stems."	ɔ			
+				ɔː		ɔː			
+				ɔ̃		ɔ̃			
+				ɔ̃ː		ɔ̃ː			
+				ɔɛ	"More interesting are the tightly knit diphthongs ɔɛ and oe, where neither element is particularly more syllabic than the other. There is no hiatus. These diphthongs occur primarily in perfective forms of monosyllabic Cɔ: and Co: verbs"	ɔɛ			
+				oe	"More interesting are the tightly knit diphthongs ɔɛ and oe, where neither element is particularly more syllabic than the other. There is no hiatus. These diphthongs occur primarily in perfective forms of monosyllabic Cɔ: and Co: verbs"	oe			
+				˦		˦			
+				˨		˨			
+				˥˩	"Contour tones <HL>, <LH>, and <LHL> are confined to monosyllabic words and to word-final heavy (bi- or trimoraic) syllables."	˥˩			
+				˩˥	"Contour tones <HL>, <LH>, and <LHL> are confined to monosyllabic words and to word-final heavy (bi- or trimoraic) syllables."	˩˥			
+				<˧˦˧>	"Contour tones <HL>, <LH>, and <LHL> are confined to monosyllabic words and to word-final heavy (bi- or trimoraic) syllables."	<˧˦˧>			
+									
+3313	nadj1238	Najamba Dogon		pʰ	"Voiceless obstruents occur chiefly in stem-initial position."	pʰ			heath2017najamba.pdf
+				b		b			
+				m		m			
+				<f>	"f occurs in a few regional terms probably borrowed from other languages"	<f>			
+				tʰ	"Voiceless obstruents occur chiefly in stem-initial position."	tʰ			
+				d		d			
+				n		n			
+				r		r			
+				s	"Voiceless obstruents occur chiefly in stem-initial position."	s			
+				<z>	"in a very small number of borrowings"	<z>			
+				l		l			
+				<t̠ʃ>		<t̠ʃ>			
+				d̠ʒ		d̠ʒ			
+				<ʃ>	"A marginal phonemic š occurs in a handful of loanwords"	<ʃ>			
+				<ʒ>	"ž is recorded in álžérì ‘Algeria’"	<ʒ>			
+				ɲ		ɲ			
+				j		j			
+				<j̃>	"yⁿ is uncommon but it does occur syllable-finally in several expressive terms including adjectival intensifiers..., in one or two probable loanwords..., and more interestingly in a handful of native terms"	<j̃>			
+				kʰ	"Voiceless obstruents occur chiefly in stem-initial position."	kʰ			
+				ɡ		ɡ			
+						ɣ	"Some spirantization of g to [ɣ] was observed... intervocalically between a or ɔ vowels."		
+				ŋ		ŋ			
+				w		w			
+				<w̃>	"I know wⁿ only in one recent loanword: àbìyɔ̂wⁿ ‘airplane’"	<w̃>			
+				<h>	"Phoneme h occurs in Fulfulde loanwords"	<h>			
+				<ˀb>	"Fulfulde preglottalized consonants {ʼb ʼd ʼy}... occur in some unassimilated loanwords, usually varying with voiced stops in more fully nativized pronunciations."	<ˀb>			
+				<ˀd>	"Fulfulde preglottalized consonants {ʼb ʼd ʼy}... occur in some unassimilated loanwords, usually varying with voiced stops in more fully nativized pronunciations."	<ˀd>			
+				<ˀj>	"Fulfulde preglottalized consonants {ʼb ʼd ʼy}... occur in some unassimilated loanwords, usually varying with voiced stops in more fully nativized pronunciations."	<ˀj>			
+				i		i			
+				iː		iː			
+				<ĩː>	found in interjections, onomatopoeias, and loanwords	<ĩː>			
+				e		e			
+				eː		eː			
+				ɛ		ɛ			
+				ɛː		ɛː			
+				a		a			
+				aː		aː			
+				<ã>	found in interjections, onomatopoeias, and loanwords	<ã>			
+				<ãː>	found in interjections, onomatopoeias, and loanwords	<ãː>			
+				u		u			
+				uː		uː			
+				o		o			
+				oː		oː			
+				ɔ		ɔ			
+				ɔː		ɔː			
+				<ɔ̃>	found in interjections, onomatopoeias, and loanwords	<ɔ̃>			
+				<ɔ̃ː>	found in interjections, onomatopoeias, and loanwords	<ɔ̃ː>			
+				˦		˦			
+				˨		˨			
+				˥˩		˥˩			
+				˩˥		˩˥			
+						˦	"Many nouns, adjectives, and verbs end in a long <LH>-toned vowel. Before particles or other words beginning with an H-tone (except over a pause or similar prosodic break), this rising tone is raised (or leveled) to a flat H-tone. Monosyllabic words... are unaffected, and retain their contour tones."		
+				<˧˦˧>		<˧˦˧>			
+									
+3314	buno1241	Bunoge Dogon		pʰ		pʰ			heath2017bunoge.pdf
+				b		b			
+				m		m			
+				<f>	"f is rare and confined to loanwords."	<f>			
+				tʰ		tʰ			
+				d		d			
+				n		n			
+						l	"/nl/ → ll"		
+				ɾ		ɾ			
+						l	"/lr/ → ll"		
+				s		s			
+				<z>	"in a few loanwords"	<z>			
+				l		l			
+				t̠ʃ		t̠ʃ			
+				d̠ʒ		d̠ʒ			
+				<ʃ>	"in a few loanwords"	<ʃ>			
+				<ʒ>	"in a few loanwords"	<ʒ>			
+				ɲ		ɲ			
+				j		j			
+				<j̃>	"yⁿ occurs finally in hortatives and (plural-subject) imperatives with suffix -yⁿ."	<j̃>			
+				kʰ		kʰ			
+				ɡ		ɡ			
+				ŋ		ŋ			
+				w		w			
+						β̞	"My assistant sometimes pronounced initial w as a bilabial approximant similar to a lax IPA [β] before mid-height front vowels {e ɛ} in certain words"		
+				<w̃>	"wⁿ occurs word-finally in several numerals... and in a few other words"	<w̃>			
+						m	"Before a consonant it can be pronounced as a homorganic nasal."		
+						n	"Before a consonant it can be pronounced as a homorganic nasal."		
+						ɲ	"Before a consonant it can be pronounced as a homorganic nasal."		
+						ŋ	"Before a consonant it can be pronounced as a homorganic nasal."		
+				<h>	"occurs stem-initially in a few loanwords"	<h>			
+				<ˀb>	"Preglottalized stops like ˀb and and preglottalized ˀy occur in unassimilated Fulfulde loanwords"	<ˀb>			
+				<ˀj>	"Preglottalized stops like ˀb and and preglottalized ˀy occur in unassimilated Fulfulde loanwords"	<ˀj>			
+				i		i			
+				iː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	iː			
+				<ĩː>	"Nasalized vowels are not typical of Bunoge. I can cite kì:ⁿ ‘skiff (boat)’ and tɔ́:ⁿ-tɔ́:ⁿ ‘nearby’."	<ĩː>			
+				e	+ATR	e			
+				eː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	eː			
+				ɛ	-ATR	ɛ			
+				ɛː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	ɛː			
+				a		a			
+				aː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	aː			
+				u		u			
+				uː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	uː			
+				o	+ATR	o			
+				oː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	oː			
+				ɔ	-ATR	ɔ			
+				ɔː	"Vowel length is not distinctive in Cv(:) or Cv(:)C stems."	ɔː			
+				<ɔ̃ː>	"Nasalized vowels are not typical of Bunoge. I can cite kì:ⁿ ‘skiff (boat)’ and tɔ́:ⁿ-tɔ́:ⁿ ‘nearby’."	<ɔ̃ː>			
+				˦		˦			
+				˨		˨			
+									
+3315	nang1261	Nanga Dogon	Anda	pʰ		pʰ			heath2016nanga.pdf
+				b		b			
+				m		m			
+						mm͊	"The m in several of these words is optionally (or dialectally) pronounced with a brief oral release"		
+				<f>		<f>			
+				w		w			
+						w̃	"a nasal... or nasalized sonorant... at the onset of a syllable, or a nasalized vowel within that syllable, induces nasalization on an intervocalic oral sonorant {r y w} at the beginning of the following syllable... Syllable-final semivowels {y w} are also (phonetically) nasalized in Nvy and Nvw syllables... Semivowels (but not r) are inconsistently nasalized by an adjacent following nasal."		
+				<w̃>		<w̃>			
+				tʰ		tʰ			
+				d		d			
+				n		n			
+				s		s			
+				l		l			
+				ɾ	"r does not occur syllable-finally in normal speech."	ɾ			
+						ɾ̃	"If there is a preceding nasal in the stem or uncompounded word, rⁿ but not oral r may occur... and this constraint extends to any inflectional suffixes, so perfective negative suffix -rí becomes -rⁿí in nasalized environments"		
+				ɾ̃	"limited to word-internal intervocalic position"	ɾ̃			
+						n	"When a short vowel following rⁿ is syncopated, the rⁿ is converted to n"		
+				t̠ʃ		t̠ʃ			
+				d̠ʒ		d̠ʒ			
+				ɲ		ɲ			
+				<ʃ>		<ʃ>			
+				j		j			
+						j̃	"a nasal... or nasalized sonorant... at the onset of a syllable, or a nasalized vowel within that syllable, induces nasalization on an intervocalic oral sonorant {r y w} at the beginning of the following syllable... Syllable-final semivowels {y w} are also (phonetically) nasalized in Nvy and Nvw syllables... Semivowels (but not r) are inconsistently nasalized by an adjacent following nasal."		
+				j̃		j̃			
+				kʰ		kʰ			
+				ɡ		ɡ			
+				ŋ		ŋ			
+				<h>	"h occurs stem-initially in numerous nouns and verbs, nearly all of them Fulfulde loanwords... It does not occur word- or syllable-finally."	<h>			
+				<ʔ>		<ʔ>			
+				i		i			
+						u	"final short i is often realized as [u] in the presence of rounded vowels or w"		
+						ĩ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						iː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				iː		iː			
+						ĩː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				ĩː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ĩː			
+				e	+ATR	e			
+						ẽ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						eː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				eː		eː			
+						ẽː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				ɛ	-ATR	ɛ			
+						ɛ̃	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						ɛː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				ɛː		ɛː			
+						ɛ̃ː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				ɛ̃ː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ɛ̃ː			
+				a		a			
+						ã	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						aː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				aː		aː			
+						ãː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				ãː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ãː			
+				u		u			
+						ũ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						uː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				uː		uː			
+						ũː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				o	+ATR	o			
+						õ	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						oː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				oː		oː			
+						õː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				ɔ	-ATR	ɔ			
+						ɔ̃	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+						ɔː	"In a final monomoraic Cv syllable, a rising tone forces addition of one mora (i.e. the vowel is lengthened)."		
+				ɔː		ɔː			
+						ɔ̃ː	"a nasal... or nasalized sonorant... at the onset of a syllable... induces nasalization on an intervocalic oral sonorant... at the beginning of the following syllable. Phonetically... the nasalization extends to adjoining vowels"		
+				<ɔ̃>	in loanwords, 'expressive reduplications,' and the words 'yes' and 'no'	<ɔ̃>			
+				ɔ̃ː	"Leaving aside loanwords, affixal contractions, and an occasional expressive reduplication... nasalization is confined to long-vowel monosyllables, plus a few expressive adverbials"	ɔ̃ː			
+				˦		˦			
+				˨		˨			
+				˥˩		˥˩			
+									
+3316	gume1239	Gumer		<p>	"There are occasional loans with p (especially word-initially)"	<p>			vollmin2017gumer.pdf
+				pː		pː			
+				b		b			
+				bː		bː			
+				pʷ		pʷ			
+				pʷː		pʷː			
+				bʷ		bʷ			
+				f		f			
+				fː		fː			
+				fʷ		fʷ			
+				fʷː		fʷː			
+				m		m			
+				mː		mː			
+				mʷ		mʷ			
+				mʷː		mʷː			
+				β		β			
+						b	"The voiced plosive [b]... occurs in geminates... that have not been devoiced... or in (underlying) voiced ‘geminates’ that have been degeminated... Further, all word-initial /β/ are realized as [b]..., as well as all β following a nasal"		
+						p	"β, b and p are largely allophones of /β/. The voiceless plosive [p] generally originates from a geminated /β/."		
+				βʷ	"/βʷ/ as a phoneme with [w] and [bʷ] as allophones. NB: labialization is very often a morphophonological process in Gumer, labialized here means: there is a /β/ that is labialized due to a suffix that also contains the floating feature [+LAB] (pc. Sascha Völlmin)"	w	"When labialized, /β/ usually becomes [w]. Some speakers, however, occasionally realize it as [bʷ], i.e. it is strengthened (and never *[βʷ])."		
+						bʷ	"When labialized, /β/ usually becomes [w]. Some speakers, however, occasionally realize it as [bʷ], i.e. it is strengthened (and never *[βʷ])."		
+				w		w			
+						bʷ	"If n meets w (across morpheme boundaries)... either the nasal is pronounced as a velar nasal [ŋ], or it becomes labial and the following w is occlusivized to bʷ"		
+				t		t			
+				tː		tː			
+				tʼ		tʼ			
+				tʼː		tʼː			
+				t̠ʃ		t̠ʃ			
+				t̠ʃː		t̠ʃː			
+				t̠ʃʼ		t̠ʃʼ			
+				t̠ʃʼː		t̠ʃʼː			
+				s		s			
+				sː		sː			
+				ʃ		ʃ			
+				ʃː		ʃː			
+				n		n			
+						ɲ	"If followed by a consonant, the nasal n assimilates to its point of articulation"		
+						ŋ	"If followed by a consonant, the nasal n assimilates to its point of articulation"		
+						m	"If followed by a consonant, the nasal n assimilates to its point of articulation"		
+						ɱ	"If followed by a consonant, the nasal n assimilates to its point of articulation"		
+				nː		nː			
+				ɹ		ɹ			
+						n	"Nasalization in verb bases occurs in three instances: word-initially, as ‘geminate’... penultimate radical, and in penultimate coda position... Word-initially, /r/ is realized as n without exception"		
+						s	"Marginally, r can assimilate to s"		
+				d		d			
+				dː		dː			
+				d̠ʒ		d̠ʒ			
+				d̠ʒː		d̠ʒː			
+				z		z			
+				zː		zː			
+				ʒ		ʒ			
+				ʒː		ʒː			
+				l		l			
+				lː		lː			
+				j		j			
+				<jː>	in Amharic loans and one or two native words	<jː>			
+				k		k			
+				kː		kː			
+				kʼ		kʼ			
+				kʼː		kʼː			
+				ɡ		ɡ			
+						k	"[k] is also an allophone of /ɡ/"		
+				ɡː		ɡː			
+				kʲ		kʲ			
+				kʲː		kʲː			
+				kʲʼ		kʲʼ			
+				kʲʼː		kʲʼː			
+				ɡʲ		ɡʲ			
+				kʷ		kʷ			
+				kʷː		kʷː			
+				kʷʼ		kʷʼ			
+				kʷʼː		kʷʼː			
+				ɡʷ		ɡʷ			
+				x		x			
+						k	"Firstly, k is the mutated... or geminated form of x... Secondly, at least in verb stems, k occurs when followed by a fricative (f, s, z, x)... or by the vowel a (or ə) that is the reflex of a (laryngeal) root consonant that diachronically got lost"		
+				xʲ		xʲ			
+				xʷ		xʷ			
+				<xʷː>	in one word	<xʷː>			
+				<pʼ>	"Gumer speakers marginally also use in loan words (usually taken from Amharic) the ejectives pʼ and sʼ"	<pʼ>			
+				<sʼ>	"Gumer speakers marginally also use in loan words (usually taken from Amharic) the ejectives pʼ and sʼ"	<sʼ>			
+				<ɲ>	"Gumer speakers marginally also use in loan words... the palatal nasal ɲ"	<ɲ>			
+				<ʔ>	"I am aware of one instance of a glottal stop ʔ (that is rather strong and clearly differs from a ‘normal’ onset of words beginning with vowels)"	<ʔ>			
+				i		i			
+						ĩ	"a vowel can become nasalized when it is followed by /n/+C"		
+				e	"the mid vowels are in most cases biphonemic, i.e. the vowel e is a combination of /ə/+/I/, the vowel o of /ə/+/U/"	e			
+						ẽ	"a vowel can become nasalized when it is followed by /n/+C"		
+				ɨ		ɨ			
+						ɨ̃	"a vowel can become nasalized when it is followed by /n/+C"		
+						ʉ	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."		
+				ə		ə			
+						ə̃	"a vowel can become nasalized when it is followed by /n/+C"		
+						ɵ	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."		
+						ɞ	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."		
+						ə̹	"A word-initial w rounds a following ə to (approximately) [ɵ ~ ɞ ~ ə̹] and a following ɨ to [ʉ]."		
+						ɛ	"The sequence əyə tends to be realized as ɛyə or ɛə. The first ə is usually fronted to an open [ɛ]."		
+				a	open central vowel	a			
+						ã	"a vowel can become nasalized when it is followed by /n/+C"		
+				u		u			
+						ũ	"a vowel can become nasalized when it is followed by /n/+C"		
+				o	"the mid vowels are in most cases biphonemic, i.e. the vowel e is a combination of /ə/+/I/, the vowel o of /ə/+/U/"	o			
+						õ	"a vowel can become nasalized when it is followed by /n/+C"		
+				<ɛ>		<ɛ>			
+						<ɛ̃>	"a vowel can become nasalized when it is followed by /n/+C"		
+				<ɔ>		<ɔ>			
+						<ɔ̃>	"a vowel can become nasalized when it is followed by /n/+C"		
+									
+3317	yorn1234	Toro So Dogon	Yorno So	pʰ	"Voiceless obstruents occur chiefly in stem-initial position."	pʰ			heath2017yornoso.pdf
+				b		b			
+						m	"b→m before nasal... The only synchronically transparent example of this is jɔ̀bɔ́ ‘run’, causative jɔ̌m-nɔ́ ‘drive (vehicle)’"		
+				m		m			
+				w		w			
+						w̃	"Stem-initial y and w [and r] are partially nasalized phonetically by a nasal following the first vowel... In syllables of the shapes Cvw and Cvy, the coda semivowel is phonetically nasalized, but this appears to be subphonemic and nondistinctive."		
+				w̃		w̃			
+						m	"wⁿ is often a reflex of intervocalic *m, but synchronic m ~ wⁿ alternations may require positing of underling /wⁿ/... These data show alternations between syllable-final m (before word-boundary or a consonant) and intervocalic wⁿ."		
+				tʰ	"Voiceless obstruents occur chiefly in stem-initial position."	tʰ			
+				d		d			
+				n		n			
+				s	"Voiceless obstruents occur chiefly in stem-initial position."	s			
+				<z>	"z occurs in a handful of loanwords"	<z>			
+				l		l			
+				r		r			
+						r̃	"Stem-initial y and w [and r] are partially nasalized phonetically by a nasal following the first vowel."		
+				r̃		r̃			
+						n	"There is a good argument that rⁿ is the underlying form and becomes n syllable-finally... The reasoning is that both rⁿ and n occur intervocalically..., but only n can occur syllable-finally."		
+				<t̠ʃ>	"attested clearly only in the regional interjection có"	<t̠ʃ>			
+				d̠ʒ		d̠ʒ			
+				ɲ		ɲ			
+				j		j			
+						j̃	"In syllables of the shapes Cvw and Cvy, the coda semivowel is phonetically nasalized, but this appears to be subphonemic and nondistinctive... y tends to become nasalized [yⁿ] allophonically (subphonemically) in the word-initial sequence yvN… with v any vowel (long or short) and N any nasal."		
+				j̃		j̃			
+				kʰ	"Voiceless obstruents occur chiefly in stem-initial position."	kʰ			
+				ɡ		ɡ			
+						ŋ	"Morpheme-initial g after a nasal syllable is nasalized to ŋ."		
+				ŋ		ŋ			
+				<h>	"h occurs stem-initially in a few Fulfulde loans"	<h>			
+				<ʔ>	"Glottal stop ʔ occurs phonetically as a juncture marker to separate two vowels in reduplications... and in interjections like ɔ́ⁿʔɔ̀ⁿ ‘uhn-uhn!’"	<ʔ>			
+				i		i			
+						ĩ	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				iː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	iː			
+						ĩː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				<ĩː>		<ĩː>			
+				e	+ATR	e			
+				eː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	eː			
+				ɛ	-ATR	ɛ			
+						ɛ̃	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				ɛː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	ɛː			
+						ɛ̃ː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				ɛ̃ː		ɛ̃ː			
+				a		a			
+						ã	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				aː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	aː			
+						ãː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				ãː		ãː			
+				u		u			
+						ũ	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				uː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	uː			
+						ũː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				<ũː>		<ũː>			
+				o	+ATR	o			
+				oː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	oː			
+				ɔ	-ATR	ɔ			
+						ɔ̃	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				ɔː	"Except in scattered loanwords... long vowels are limited to stem-initial syllables... and to long vowels created (at least historically) by vv-Contraction at verb-suffix boundaries."	ɔː			
+						ɔ̃ː	"Stem-initial y and w are partially nasalized phonetically by a nasal following the first vowel... (the vowels too are phonetically nasalized)."		
+				ɔ̃ː		ɔ̃ː			
+				˦		˦			
+				˨		˨			
+									
+3318	bent1238	Ben Tey Dogon		pʰ		pʰ			heath2015bentey.pdf
+				b		b			
+				m		m			
+				<f>	"f is not a full-fledged consonant, and a borrowed word containing it may show p."	<f>			
+				w		w			
+						w̃	"Nasalization (from a nasal or nasalized consonant) can spreads from left to right within a word, affecting the sonorants {r w y}, which become {rⁿ wⁿ yⁿ}. The spreading... is blocked by an intervening non-nasal consonant. Spreading is iterative within a word"		
+						m	"When a stem with shape like Cvwv- or Cvwⁿv- undergoes Syncope or Apocope of the final vowel, the now syllable-final semivowel is converted to m under limited conditions."		
+				w̃	"These nasalized sonorants can be independent phonemes in (noninitial) intervocalic position within words... yⁿ and wⁿ may also occur syllable-finally"	w̃			
+						m	"When a stem with shape like Cvwv- or Cvwⁿv- undergoes Syncope or Apocope of the final vowel, the now syllable-final semivowel is converted to m under limited conditions."		
+				tʰ		tʰ			
+				d		d			
+				n		n			
+				s		s			
+				<z>	"Other sibilants {š z ž) occur in a few loanwords from French"	<z>			
+				l		l			
+				r		r			
+						r̃	"Nasalization (from a nasal or nasalized consonant) can spreads from left to right within a word, affecting the sonorants {r w y}, which become {rⁿ wⁿ yⁿ}. The spreading... is blocked by an intervening non-nasal consonant. Spreading is iterative within a word"		
+				r̃	"These nasalized sonorants can be independent phonemes in (noninitial) intervocalic position within words."	r̃			
+						n	"Stem- or word-final …rⁿi or …rⁿu optionally drop the vowel before certain consonants, especially alveolars {t d n}, and in this case the /rⁿ/ may be realized as n."		
+				t̠ʃ		t̠ʃ			
+						k	"... there is some fluctuation between {k g} and {c j} pronunciations before front vowels {i e ɛ}. Where both pronunciations have been recorded, I normalize the transcription as {c j}."		
+				d̠ʒ		d̠ʒ			
+						ɡ	"... there is some fluctuation between {k g} and {c j} pronunciations before front vowels {i e ɛ}. Where both pronunciations have been recorded, I normalize the transcription as {c j}."		
+				ɲ		ɲ			
+				<ʃ>	"Other sibilants {š z ž) occur in a few loanwords from French"	<ʃ>			
+				<ʒ>	"Other sibilants {š z ž) occur in a few loanwords from French"	<ʒ>			
+				j		j			
+						j̃	"Nasalization (from a nasal or nasalized consonant) can spreads from left to right within a word, affecting the sonorants {r w y}, which become {rⁿ wⁿ yⁿ}. The spreading... is blocked by an intervening non-nasal consonant. Spreading is iterative within a word"		
+				j̃	"These nasalized sonorants can be independent phonemes in (noninitial) intervocalic position within words... yⁿ and wⁿ may also occur syllable-finally"	j̃			
+				kʰ		kʰ			
+				ɡ		ɡ			
+						ɣ	"Spirantization of intervocalic /g/ to ɣ is fairly common, though not obligatory, when intervocalic within a word and flanked by vowels from the set {a ɔ}."		
+				ŋ		ŋ			
+				<h>	"h occurs in loans, chiefly from Fulfulde"	<h>			
+				<ʔ>	"ʔ (glottal stop) is found in gúrùʔá:nà ‘Koran (book)’, where it reflects Arabic ʔ, and in the semi-linguistic utterance ɔⁿ́ ʔɔⁿ̀ ‘nope!’. A glottal stop is also inserted after a v- (for Cv-) reduplicative segment before a vowel-initial stem"	<ʔ>			
+				i		i			
+						ĩ	"The [nasalization] spreading occurs over intervening vowels"		
+						u	"There is much fluctuation between the two short high vowels... My general sense is that short high vowels in noninitial syllables of verb stems tend toward unrounded [i] when adjacent segments are not rounded or labial."		
+						iː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				iː		iː			
+						ĩː	"The [nasalization] spreading occurs over intervening vowels"		
+				<ĩː>		<ĩː>			
+				e	+ATR	e			
+						ẽ	"The [nasalization] spreading occurs over intervening vowels"		
+						eː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				eː		eː			
+						ẽː	"The [nasalization] spreading occurs over intervening vowels"		
+				ɛ	-ATR	ɛ			
+						ɛ̃	"The [nasalization] spreading occurs over intervening vowels"		
+						ɛː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				ɛː		ɛː			
+						ɛ̃ː	"The [nasalization] spreading occurs over intervening vowels"		
+				<ɛ̃ː>		<ɛ̃ː>			
+				a		a			
+						ã	"The [nasalization] spreading occurs over intervening vowels"		
+						aː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				aː		aː			
+						ãː	"The [nasalization] spreading occurs over intervening vowels"		
+				ã		ã			
+				ãː		ãː			
+				u		u			
+						ũ	"The [nasalization] spreading occurs over intervening vowels"		
+						uː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				uː		uː			
+						ũː	"The [nasalization] spreading occurs over intervening vowels"		
+				<ũ>		<ũ>			
+				<ũː>		<ũː>			
+				o	+ATR	o			
+						õ	"The [nasalization] spreading occurs over intervening vowels"		
+						oː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				oː		oː			
+						õː	"The [nasalization] spreading occurs over intervening vowels"		
+				ɔ	-ATR	ɔ			
+						ɔ̃	"The [nasalization] spreading occurs over intervening vowels"		
+						ɔː	"At the end of a word, a mora is added to a final short-voweled Cv syllable, lengthening its vowel, to allow a contour (i.e. non-level) tone to be articulated with ease."		
+				ɔː		ɔː			
+						ɔ̃ː	"The [nasalization] spreading occurs over intervening vowels"		
+				<ɔ̃>		<ɔ̃>			
+				<ɔ̃ː>		<ɔ̃ː>			
+				˦		˦			
+				˨		˨			
+				<˩˥>	"Contour-toned syllables usually have at least two moras... Exceptions are Cv̌ verb stems"	<˩˥>			
+						˦	"Another type of final <LH>-to-H raising affects final rising-toned long vowels in nonmonosyllabic stems that are followed by a word beginning in an H-tone... The raising seems to be most consistent before monosyllabic postpositions... and similar clitic-like elements, but it is at least optional in some other combinations."		
+									
+3319	dogu1235	Dogul Dom Dogon	Koundiala	pʰ	"Voiceless obstruents are rare intervocalically"	pʰ			heath2016doguldom.pdf
+				b		b			
+				m		m			
+						ŋ	"word-final nasals generally merge as ŋ"		
+				<f>		<f>			
+				<v>		<v>			
+				w		w			
+				tʰ	"Voiceless obstruents are rare intervocalically"	tʰ			
+				d		d			
+				n		n			
+						ŋ	"word-final nasals generally merge as ŋ"		
+				s	"Voiceless obstruents are rare intervocalically"	s			
+				<z>	"{š z} occur in a few regionally widespread loanwords"	<z>			
+				l		l			
+				ɾ	"rare word-initially and does not occur syllable-finally"	ɾ			
+				<t̠ʃ>	in loanwords	<t̠ʃ>			
+				d̠ʒ		d̠ʒ			
+				ɲ	"does not occur word-finally"	ɲ			
+						ŋ	"word-final nasals generally merge as ŋ"		
+				<ʃ>	"{š z} occur in a few regionally widespread loanwords"	<ʃ>			
+				<ʒ>		<ʒ>			
+				j		j			
+				j̃		j̃			
+				kʰ	"Voiceless obstruents are rare intervocalically"	kʰ			
+				ɡ		ɡ			
+				ŋ		ŋ			
+				<h>	occurs "stem-initially in a few Fulfulde loanwords"	<h>			
+				i		i			
+				iː		iː			
+						i	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						ĩː	before a deleted /ŋ/ in some stems		
+				<ĩː>	"Independently (phonemically) nasalized vowels are uncommon."	<ĩː>			
+				e		e			
+						ẽ	before a deleted /ŋ/ in some stems		
+				eː		eː			
+						e	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						ẽː	before a deleted /ŋ/ in some stems		
+				<ẽː>	"Independently (phonemically) nasalized vowels are uncommon."	<ẽː>			
+				ɛ		ɛ			
+						ɛ̃	before a deleted /ŋ/ in some stems		
+				ɛː		ɛː			
+						ɛ	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						ɛ̃ː	before a deleted /ŋ/ in some stems		
+				<ɛ̃ː>	"Independently (phonemically) nasalized vowels are uncommon."	<ɛ̃ː>			
+				a		a			
+						ã	before a deleted /ŋ/ in some stems		
+				aː		aː			
+						a	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						ãː	before a deleted /ŋ/ in some stems		
+				<ã>	"Independently (phonemically) nasalized vowels are uncommon."	<ã>			
+				<ãː>	"Independently (phonemically) nasalized vowels are uncommon."	<ãː>			
+				u		u			
+						ũ	before a deleted /ŋ/ in some stems		
+						i	"Assimilation of the type /uy/ → iy occurs in verbs with 1Pl subject suffix -y and in combinations involving nouns with accusative enclitic =ỳ or with the ‘it is’ enclitic =ỳ."		
+				uː		uː			
+						u	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						ũː	before a deleted /ŋ/ in some stems		
+				o		o			
+				oː		oː			
+						o	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						õː	before a deleted /ŋ/ in some stems		
+				ɔ		ɔ			
+						ɔ̃	before a deleted ŋ in some stems		
+				ɔː		ɔː			
+						ɔ	"an H-toned [verb] stem usually shortens when not followed by a suffix"		
+						ɔ̃ː	before a deleted /ŋ/ in some stems		
+				˦	"each stem has one lexical H-tone, expressed on one entire syllable or on one syllable-final mora"	˦			
+				˨		˨			
+									
+3320	pena1270	Penange Dogon		pʰ		pʰ			heath2016penange.pdf
+				b		b			
+				m		m			
+						m̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."		
+				<f>	in loanwords	<f>			
+				w		w			
+				w̃	word-finally	w̃			
+						m	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."		
+						n	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."		
+						ɲ	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."		
+						ŋ	"When followed by a C-initial word this segment generally surfaces as a nasal homorganic to the following C."		
+				tʰ		tʰ			
+				d		d			
+				n		n			
+						n̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."		
+				s		s			
+				<z>		<z>			
+				l		l			
+				ɾ		ɾ			
+				t̠ʃ		t̠ʃ			
+				d̠ʒ		d̠ʒ			
+				ɲ		ɲ			
+						ɲ̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."		
+				j		j			
+				j̃	word-finally	j̃			
+				kʰ		kʰ			
+				ɡ		ɡ			
+						ɣ	"There is some subphonemic spirantization of g in the medial position in Cv_v between flanking back/low vowels {a ɔ}."		
+				ŋ		ŋ			
+						ŋ̩	"Postpausally, the nasal is syllabic and can therefore bear its own pitch, but it is not clear that this is distinctive (i.e. phonological tone)."		
+				<h>	"occurs as initial consonant in a number of stems, mostly Fulfulde borrowings"	<h>			
+				i		i			
+				iː		iː			
+				<ĩ>		<ĩ>			
+				<ĩː>		<ĩː>			
+				e	+ATR	e			
+				eː	+ATR	eː			
+				ɛ	-ATR	ɛ			
+				ɛː	-ATR	ɛː			
+				<ɛ̃>	-ATR	<ɛ̃>			
+				<ɛ̃ː>	-ATR	<ɛ̃ː>			
+				a		a			
+				aː		aː			
+				<ã>		<ã>			
+				<ãː>		<ãː>			
+				u		u			
+				uː		uː			
+				<ũː>		<ũː>			
+				o	+ATR	o			
+						o̯	"Although the phonology of monosyllabic E-stems is not transparent, one could argue for underlying /Coe/ and /Cɔɛ/ and posit a desyllabification rule producing Co̯e and Cɔ̯ɛ, respectively."		
+				oː	+ATR	oː			
+				ɔ	-ATR	ɔ			
+						ɔ̯	"Although the phonology of monosyllabic E-stems is not transparent, one could argue for underlying /Coe/ and /Cɔɛ/ and posit a desyllabification rule producing Co̯e and Cɔ̯ɛ, respectively."		
+				ɔː	-ATR	ɔː			
+				<ɔ̃>	-ATR	<ɔ̃>			
+				<ɔ̃ː>	-ATR	<ɔ̃ː>			
+				˦		˦			
+						˦˥	"Phonetically, there is often a slight pitch rise on the last H-toned syllable before an L-toned syllable."		
+				˨		˨			
+						˦	"A final L-tone of an {L}-toned word is raised to H-tone by dissimilation before a closely phrased word that begins with an L-tone." "Rightward H-Spreading converts a sequence H.L.L to H.H.L, whereby the first H-tone is at the left edge of a word."		
+						˩˥	"A CvL syllable with final sonorant may appear with rising tone in careful pronunciation."		
+				<˥˩>	"Though rare, <HL>-toned Cv̂ syllables can occur word-finally"	<˥˩>			
+						˦	"A final <HL>-toned syllable that is followed by a tightly-phrased L-toned particle or modifier often merges its L-tone element with the L-tone of the particle and therefore surfaces with just the H-tone."		
+				<˩˥>	"An <LH>-toned monomoraic Cv̌ syllable is very rare."	<˩˥>			
+									
+3321	togo1254	Togo Kan Dogon	Koporo-Pe	p	"obstruents... occur predominantly in stem-initial position"	p			heath2015togokan
+				b	"obstruents... occur predominantly in stem-initial position"	b			
+				m		m			
+				<f>	"occurs in a few Fulfulde and French loanwords"	<f>			
+				w		w			
+						w̃	"When a semivowel closes a nasal syllable... it is phonetically nasalized."		
+				w̃	"Nasalized sonorants {wⁿ yⁿ rⁿ} occur noninitially."	w̃			
+				t	"obstruents... occur predominantly in stem-initial position"	t			
+				d	"obstruents... occur predominantly in stem-initial position"	d			
+				n		n			
+				s	"obstruents... occur predominantly in stem-initial position"	s			
+				l		l			
+				ɾ	"rhotics occur only in intervocalic position"	ɾ			
+				ɾ̃	"Nasalized sonorants {wⁿ yⁿ rⁿ} occur noninitially."	ɾ̃			
+				d̠ʒ	"obstruents... occur predominantly in stem-initial position"	d̠ʒ			
+				ɲ		ɲ			
+				j		j			
+						j̃	"When a semivowel closes a nasal syllable... it is phonetically nasalized."		
+				j̃	"Nasalized sonorants {wⁿ yⁿ rⁿ} occur noninitially."	j̃			
+				k	"obstruents... occur predominantly in stem-initial position"	k			
+				ɡ	"moderately common in noninitial syllables"	ɡ			
+						ɣ	"between any combination of preceding and following a and ɔ"		
+				ŋ		ŋ			
+				<h>	"occur[s] in a fair number of loanwords"	<h>			
+				i		i			
+				iː		iː			
+				ĩ		ĩ			
+				ĩː		ĩː			
+				e	+ATR	e			
+				eː		eː			
+				ẽ		ẽ			
+				ẽː		ẽː			
+				ɛ	-ATR	ɛ			
+				ɛː		ɛː			
+				ɛ̃		ɛ̃			
+				ɛ̃ː		ɛ̃ː			
+				a		a			
+				aː		aː			
+				ã		ã			
+				ãː		ãː			
+				u		u			
+				uː		uː			
+				ũ		ũ			
+				ũː		ũː			
+				o	+ATR	o			
+				oː		oː			
+				õ		õ			
+				õː		õː			
+				ɔ	-ATR	ɔ			
+				ɔː		ɔː			
+				ɔ̃		ɔ̃			
+				ɔ̃ː		ɔ̃ː			
+				˦		˦			
+						˧	Downstep "is used opportunistically to differentiate the pitches of two adjacent {H}-toned words... Phonetically, a downstepped H-tone is a mid tone."	"However, it is unclear whether downstep is a full-fledged phonological phenomenon in TgK."	
+				˨		˨			
+				<˥˩>	"It is harder to find Cv̂ stems, but this is only because {HL}-toned stems of any length are generally disallowed among verbs, common nouns, and adjectives."	<˥˩>			
+						˦	"Nonfinal Cv syllables within a word cannot carry a contour tone.... [T]he simplification is from either Cv̂ or Cv̌ to Cv́."		
+				˩˥		˩˥			
+						˦	"[T]he simplification is from either Cv̂ or Cv̌ to Cv́.... [F]or <LH> tones the disallowed position is not 'nonfinal' but 'medial'"		
+3322	tali1266	Venetian	Talian	p		p			guzzo2022talian
+				t		t			
+				d		d			
+				k		k			
+				ɡ		g			
+				t̠ʃ		t̠ʃ			
+				<ʃ>	"However, Talian speakers who are dominant in Portuguese or use Portuguese on a regular basis employ target /ʃ ʒ/ in such loanwords"	<ʃ>			
+				d̠ʒ		d̠ʒ			
 				<ʒ>	"However, Talian speakers who are dominant in Portuguese or use Portuguese on a regular basis employ target /ʃ ʒ/ in such loanwords"	<dʒ>			
-				m		m		
-				n		n		
-						ŋ	"This suggests that word-final nasal consonants are neutralized to [ŋ] on the surface"	
-				ɲ		ɲ		
-						ŋ	"This suggests that word-final nasal consonants are neutralized to [ŋ] on the surface"	
-				ɾ		ɾ	"In Talian, [ɾ] alternates with [r]"	
-						r	"In Talian, [ɾ] alternates with [r]"	
-				f		f		
-				v		v		
-				s		s		
-				z		z		
-				w	"It is open to discussion whether /j w/ are phonemes in Talian"	w		
-				j	"It is open to discussion whether /j w/ are phonemes in Talian"	j		
-				l		l		
-				i		i		"[O]bservations suggest that [Vi] diphthongs are VV sequences where the second vowel is diphthongized"
-				e	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	e		
-						i	"Stressed upper mid vowels /e o/ raise to /i u/ when there is an unstressed final /i/"	
-				ɛ	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	ɛ		
-				a	low central vowel	a		
-				ɔ	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	ɔ		
-				o	"word-final unstressed /o/ may be variably deleted","the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	o		"[O]bservations suggest that [Vo] diphthongs are VV sequences where the second vowel is diphthongized"
-						u	"Stressed upper mid vowels /e o/ raise to /i u/ when there is an unstressed final /i/"	
-				u		u		
-
-rose2021mojenotrinitario.pdf	trin1274	Mojeño	Trinitario	p		p		
-				pʲ		pʲ		
-				t		t		
-				c		c		
-				k		k		
-				kʲ		kʲ		
-				ʔ		ʔ		
-				ʔʲ		ʔʲ		
-				m		m		
-				mʲ		mʲ		
-				mʷ		mʷ		
-				n		n		
-						m	"The alveolar nasal consonant assimilates its place of articulation to that of a following (oral or nasal) obstruent"	
-						ɲ	"The alveolar nasal consonant assimilates its place of articulation to that of a following (oral or nasal) obstruent"	
-				ɲ		ɲ		
-				s		s		
-				sʲ		sʲ		
-				ç		ç		
-						çʲ	"The phoneme /ç/ is [realized] as either [ç] or [çʲ] before vowels other than /i/, with inter-speaker and intra-speaker free variation."	
-				h		h		
-						ɦ	"The glottal fricative /h/ is often realized voiced [ɦ] between vowels (and occasionally between a vowel and a consonant)"	
-				hʲ		hʲ		
-				hʷ		hʷ		
-				ts		ts		
-				tsʲ		tsʲ		
-				tʃ		tʃ		
-				ɾ		ɾ		
-				ɾʲ		ɾʲ		
-				w		w		
-						β	"the bilabial fricative [β] is found (in free variation with the rarer labio-dental fricative [v]) before a front vowel"	
-						v	"the bilabial fricative [β] is found (in free variation with the rarer labio-dental fricative [v]) before a front vowel"	
-						wʊ	"Word- initially before a consonant, /w/ can also be realized with a short vocalic sound [wʊ], or as a single non-syllabic vocalic realization [u̯]"	
-						u̯	"Word- initially before a consonant, /w/ can also be realized with a short vocalic sound [wʊ], or as a single non-syllabic vocalic realization [u̯]"	
-						ɥ	"When preceding the consonant /j/, it merges with it in a labio-palatal glide [ɥ]"	
-				βʲ		βʲ		
-				j		j		
-				i		i		
-				e		e		
-				a	low central vowel	a		
-				o		o		
-				u		u		
-						y	"The realization [y] has also sometimes been attested for /u/"	
-				əe	"In natural speech, it is regularly monophthongized, and is then usually pronounced either as a mid-central to low-high central vowel (between [ɘ] and [ɨ]), or as a front vowel [ɛ ~ e]","the segment /əe/ is essentially found word-internally"	əe		
-				iː	"long vowels are generally not found word-finally"	iː		
-				eː	"long vowels are generally not found word-finally"	eː		
-				aː	low central long vowel,"long vowels are generally not found word-finally"	aː		
-				oː	"long vowels are generally not found word-finally"	oː		
-				uː	"long vowels are generally not found word-finally"	uː		
-				əeː	"long vowels are generally not found word-finally"	əeː		
+				m		m			
+				n		n			
+						ŋ	"This suggests that word-final nasal consonants are neutralized to [ŋ] on the surface"		
+				ɲ		ɲ			
+						ŋ	"This suggests that word-final nasal consonants are neutralized to [ŋ] on the surface"		
+				ɾ		ɾ	"In Talian, [ɾ] alternates with [r]"		
+						r	"In Talian, [ɾ] alternates with [r]"		
+				f		f			
+				v		v			
+				s		s			
+				z		z			
+				w	"It is open to discussion whether /j w/ are phonemes in Talian"	w			
+				j	"It is open to discussion whether /j w/ are phonemes in Talian"	j			
+				l		l			
+				i		i		"[O]bservations suggest that [Vi] diphthongs are VV sequences where the second vowel is diphthongized"	
+				e	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	e			
+						i	"Stressed upper mid vowels /e o/ raise to /i u/ when there is an unstressed final /i/"		
+				ɛ	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	ɛ			
+				a	low central vowel	a			
+				ɔ	"the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	ɔ			
+				o	"word-final unstressed /o/ may be variably deleted","the pairs /ɛ e/ and /ɔ o/ are contrastive only in stressed position"	o		"[O]bservations suggest that [Vo] diphthongs are VV sequences where the second vowel is diphthongized"	
+						u	"Stressed upper mid vowels /e o/ raise to /i u/ when there is an unstressed final /i/"		
+				u		u			
+3323	trin1274	Mojeño	Trinitario	p		p			rose2021mojenotrinitario.pdf
+				pʲ		pʲ			
+				t		t			
+				c		c			
+				k		k			
+				kʲ		kʲ			
+				ʔ		ʔ			
+				ʔʲ		ʔʲ			
+				m		m			
+				mʲ		mʲ			
+				mʷ		mʷ			
+				n		n			
+						m	"The alveolar nasal consonant assimilates its place of articulation to that of a following (oral or nasal) obstruent"		
+						ɲ	"The alveolar nasal consonant assimilates its place of articulation to that of a following (oral or nasal) obstruent"		
+				ɲ		ɲ			
+				s		s			
+				sʲ		sʲ			
+				ç		ç			
+						çʲ	"The phoneme /ç/ is [realized] as either [ç] or [çʲ] before vowels other than /i/, with inter-speaker and intra-speaker free variation."		
+				h		h			
+						ɦ	"The glottal fricative /h/ is often realized voiced [ɦ] between vowels (and occasionally between a vowel and a consonant)"		
+				hʲ		hʲ			
+				hʷ		hʷ			
+				ts		ts			
+				tsʲ		tsʲ			
+				tʃ		tʃ			
+				ɾ		ɾ			
+				ɾʲ		ɾʲ			
+				w		w			
+						β	"the bilabial fricative [β] is found (in free variation with the rarer labio-dental fricative [v]) before a front vowel"		
+						v	"the bilabial fricative [β] is found (in free variation with the rarer labio-dental fricative [v]) before a front vowel"		
+						wʊ	"Word- initially before a consonant, /w/ can also be realized with a short vocalic sound [wʊ], or as a single non-syllabic vocalic realization [u̯]"		
+						u̯	"Word- initially before a consonant, /w/ can also be realized with a short vocalic sound [wʊ], or as a single non-syllabic vocalic realization [u̯]"		
+						ɥ	"When preceding the consonant /j/, it merges with it in a labio-palatal glide [ɥ]"		
+				βʲ		βʲ			
+				j		j			
+				i		i			
+				e		e			
+				a	low central vowel	a			
+				o		o			
+				u		u			
+						y	"The realization [y] has also sometimes been attested for /u/"		
+				əe	"In natural speech, it is regularly monophthongized, and is then usually pronounced either as a mid-central to low-high central vowel (between [ɘ] and [ɨ]), or as a front vowel [ɛ ~ e]","the segment /əe/ is essentially found word-internally"	əe			
+				iː	"long vowels are generally not found word-finally"	iː			
+				eː	"long vowels are generally not found word-finally"	eː			
+				aː	low central long vowel,"long vowels are generally not found word-finally"	aː			
+				oː	"long vowels are generally not found word-finally"	oː			
+				uː	"long vowels are generally not found word-finally"	uː			
+				əeː	"long vowels are generally not found word-finally"	əeː			
