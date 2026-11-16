@@ -1,5 +1,5 @@
 "InventoryID"	"LanguageCode"	"LanguageName"	"SpecificDialect"	"Phoneme"	"Notes"	"Allophones"	"AllophoneNotes"	"FileNames"
-852	"fwe"	"Fwe"		"p"				"fwe_baumbach1997.pdf"
+pc34df	"fwe"	"Fwe"		"p"				"fwe_baumbach1997.pdf"
 				"ɻ"				
 				"d"				
 				"t"				
@@ -60,7 +60,7 @@
 				"ɔː"				
 				"uː"				
 
-853	"yey"	"Yeyi"		"b"				"yey_baumbach1997.pdf"
+p61856	"yey"	"Yeyi"		"b"				"yey_baumbach1997.pdf"
 				"p"				
 				"ɻ"				
 				"d"				
@@ -151,7 +151,7 @@
 				"ɛː"				
 				"iː"				
 
-854	"cav"	"Cavinena"		"p"				"cav_guillaume2004.pdf"
+pffbcd	"cav"	"Cavinena"		"p"				"cav_guillaume2004.pdf"
 				"k"				
 				"t"				
 				"c"				
@@ -181,7 +181,7 @@
 						"[o]"		
 				"a"				
 
-855	"ccc"	"Chamicuro"		"p"		"[pʰ]"	"before a voiceless sement"	"ccc_parker1991.pdf"
+p9df44	"ccc"	"Chamicuro"		"p"		"[pʰ]"	"before a voiceless sement"	"ccc_parker1991.pdf"
 				"t"		"[tʰ]"	"before a voiceless vowel or word finally"	
 				"k"		"[kʰ]"	"cannot interpret environment"	
 				"ʔ"				
@@ -218,7 +218,7 @@
 				"o"		"[ɔ]"	"optionally; before a syllable final +posterior (velar, glottal) consonant"	
 				"oː"				
 
-856	"che"	"Chechen"		"p"				"che_nichols1996.pdf"
+p3c2bb	"che"	"Chechen"		"p"				"che_nichols1996.pdf"
 				"b"				
 				"pʼ"				
 				"pʰ"				
@@ -266,7 +266,7 @@
 				"a"				
 				"aː"				
 
-857	"cdm"	"Chepang"		"p"				"cdm_caughley1982.pdf"
+pda632	"cdm"	"Chepang"		"p"				"cdm_caughley1982.pdf"
 				"t̪"				
 				"ts"		"[t̠ʃ]"	"before front vowels or [j]; [ts] elsewhere"	
 				"k"				
@@ -292,7 +292,7 @@
 				"u"				
 				"o"				
 
-858	"mhr"	"Cheremis"		"p"				"mhr_sebeok1961.pdf"
+p789a9	"mhr"	"Cheremis"		"p"				"mhr_sebeok1961.pdf"
 				"t̪"				
 				"k"				
 				"b"		"[b]"	"""After /m/"""	
@@ -353,7 +353,7 @@
 				"ə"		"[ə]"	"""In monosyllabic words, and elsewhere"""	
 						"[ʌ]"	"""Elsewhere"""	
 
-859	"cle"	"Chinanteco"		"p"				"cle_archivo1980.pdf"
+p16d20	"cle"	"Chinanteco"		"p"				"cle_archivo1980.pdf"
 				"t"				
 				"tʲ"				
 				"k"				
@@ -389,7 +389,7 @@
 				"u"				
 				"<ɵ>"	"text is not clear on this phoneme, hard to read and distinguish from /e/ in the text"			
 
-860	"ctu"	"Tila, Chiapas"		"b"				"ctu_alvarez2002.pdf"
+pb5097	"ctu"	"Tila, Chiapas"		"b"				"ctu_alvarez2002.pdf"
 				"p"				
 				"pʼ"				
 				"tʲ"				
@@ -416,7 +416,7 @@
 				"u"				
 				"o"				
 
-861	"crw"	"Chrau"		"p"		"[p̚]"	"in final position"	"crw_tomas1971.pdf"
+p5340e	"crw"	"Chrau"		"p"		"[p̚]"	"in final position"	"crw_tomas1971.pdf"
 				"t̪"		"[t̪̚]"	"in final position"	
 				"c"		"[c̚]"	"in final position"	
 				"k"		"[k̚]"	"in final position"	
@@ -455,7 +455,7 @@
 				"uː"				
 				"oː"				
 
-862	"boi"	"Barbareño"		"i"				"boi_wash2001.pdf"
+pf1785	"boi"	"Barbareño"		"i"				"boi_wash2001.pdf"
 				"e"				
 				"ɨ"				
 				"a"				
@@ -496,7 +496,7 @@
 				"wˀ"				
 				"jˀ"				
 
-863	"crd"	"Coeur d''Alene"'		"p"				"crd_doak1997.pdf"
+p8fafc	"crd"	"Coeur d''Alene"'		"p"				"crd_doak1997.pdf"
 				"pʼ"				
 				"b"				
 				"m"				
@@ -545,7 +545,7 @@
 				"a"				
 				"ə"				
 
-864	"com"	"Comanche"		"p"				"com_charney1993.pdf"
+p2de73	"com"	"Comanche"		"p"				"com_charney1993.pdf"
 				"t̪"				
 				"t̪s̪"				
 				"k"				
@@ -564,7 +564,7 @@
 				"e"				
 				"ɑ"				
 
-865	"cup"	"Cupeno"		"p"				"cup_hill2005.pdf"
+pcc1ea	"cup"	"Cupeno"		"p"				"cup_hill2005.pdf"
 				"t"				
 				"k"				
 				"q"				
@@ -612,7 +612,7 @@
 				"<o>"	"Loan"			
 				"<oː>"	"Loan"			
 
-866	"cuv"	"Cuvok"		"a"		"[ɛ]"	"adjacent to a palatal according to examples given"	"cuv_ndokobai2003.pdf"
+p6a561	"cuv"	"Cuvok"		"a"		"[ɛ]"	"adjacent to a palatal according to examples given"	"cuv_ndokobai2003.pdf"
 						"[ɔ]"	"adjacent to a labial segment according to the examples given"	
 						"[œ]"	"adjacent to a labial(ized) palatal (example shows labialized k) segment according the examples given"	
 				"ə"		"[i]"	"adjacent to a palatal segment according to the examples given"	
@@ -647,7 +647,7 @@
 				"w"				
 				"j"				
 
-867	"anv"	"Denya"		"i"		"[i]"		"anv_mbuagbaw1996.pdf"
+p088d8	"anv"	"Denya"		"i"		"[i]"		"anv_mbuagbaw1996.pdf"
 						"[ĩ]"	"following a nasal; illustrated by example"	
 				"e"		"[ẽ]"	"following a nasal; illustrated by example; shows this as phonemic in the example but goes on to state that all vowels are phonetically nasalized and will assume there is an error in the example."	
 				"ɛ"		"[ɛ]"		
@@ -691,7 +691,7 @@
 				"w"		"[w]"	"""Morpheme initially and medially"""	
 						"[ʔ]"	"""At the end of words"""	
 
-868	"kru"	"Dhangar"		"p"				"kxl_yadava2000.pdf"
+pa6c4f	"kru"	"Dhangar"		"p"				"kxl_yadava2000.pdf"
 				"pʰ"				
 				"b"				
 				"bʱ"				
@@ -731,7 +731,7 @@
 				"o"				
 				"u"				
 
-869	"aoj"	"Muhiang"		"p"				"aoj_conrad1978.pdf"
+p44fc6	"aoj"	"Muhiang"		"p"				"aoj_conrad1978.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -754,7 +754,7 @@
 				"ə"				
 				"u"				
 
-870	"usa"	"Usarufa"		"i"				"usa_bee1965.pdf"
+pe333d	"usa"	"Usarufa"		"i"				"usa_bee1965.pdf"
 				"e"				
 				"o"				
 				"u"				
@@ -777,7 +777,7 @@
 				"mː"				
 				"nː"				
 
-871	"kpr"	"Korafe"		"b"		"[mb]"	"""Occurs immediately following a syllable with a nasal onset"""	"kpr_farr1974.pdf"
+p816b4	"kpr"	"Korafe"		"b"		"[mb]"	"""Occurs immediately following a syllable with a nasal onset"""	"kpr_farr1974.pdf"
 						"[b]"	"""Occurs elsewhere"""	
 				"f"		"[f]"	"""Occurs before front vowels and tends to fluctuate freely with [p] before central vowels"""	
 						"[p]"	"""Occurs before back vowels and in free fluctuation with [f] before central vowels"""	
@@ -818,7 +818,7 @@
 						"[o̞]"	"""Occurs before prenasalized obstruents"""	
 						"[ɔ]"	"""Occurs elsewhere"""	
 
-872	"bjr"	"Binumarien"		"p"				"bjr_oatridge1973.pdf"
+p1fa2b	"bjr"	"Binumarien"		"p"				"bjr_oatridge1973.pdf"
 				"t"				
 				"k"				
 				"ʔ"				
@@ -835,7 +835,7 @@
 				"u"				
 				"oː"	"never occurs singly, only in geminate structures"			
 
-873	"ego"	"Eggon"		"p"				"ego_blench2006.pdf"
+pbdda2	"ego"	"Eggon"		"p"				"ego_blench2006.pdf"
 				"b"				
 				"ɓ"				
 				"β"				
@@ -878,7 +878,7 @@
 				"˧"				
 				"˦"				
 
-874	"ekp"	"Ekpeye"		"i"				"ekp_blench2006.pdf"
+p5c119	"ekp"	"Ekpeye"		"i"				"ekp_blench2006.pdf"
 				"ɪ"				
 				"e"				
 				"ɛ"				
@@ -916,7 +916,7 @@
 				"˨"				
 				"↓"				
 
-875	"enb"	"Endo"		"p"		"[b]"	"""after nasals""; ""often between vowels"""	"enb_zwarts2003.pdf"
+pfa490	"enb"	"Endo"		"p"		"[b]"	"""after nasals""; ""often between vowels"""	"enb_zwarts2003.pdf"
 						"[pʰ]"	"""At the beginning of words"""	
 						"[p̚]"	"""At the end of words"""	
 				"m"				
@@ -964,7 +964,7 @@
 				"˨"				
 				"˥˩"				
 
-876	"ags"	"Esimbi"		"p"				"ags_fointein1986.pdf"
+p98807	"ags"	"Esimbi"		"p"				"ags_fointein1986.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -1003,7 +1003,7 @@
 				"u"		"[u]"	"when the vowel in a preceding syllable is +back"	
 						"[ɨ]"	"when the vowel in a preceding syllable is -back (only in disyllabic roots)"	
 
-877	"fan"	"Fan"		"ɪ"				"fan_eko1974.pdf"
+p36b7e	"fan"	"Fan"		"ɪ"				"fan_eko1974.pdf"
 				"u"				
 				"ə"				
 				"e"				
@@ -1045,7 +1045,7 @@
 				"ŋmɡb"	"updated from ŋɡb"			
 				"w"				
 
-878	"fuu"	"Furu"		"i"				"fuu_boyeldieu2000.pdf"
+pd4ef5	"fuu"	"Furu"		"i"				"fuu_boyeldieu2000.pdf"
 				"e"				
 				"ɛ"				
 				"a"				
@@ -1087,7 +1087,7 @@
 				"w"				
 				"<ɾ>"	"cannot intrepret why this is in brackets in the text"			
 
-879	"gbd"	"Garadjari"		"b"				"gbd_sands1989.pdf"
+p7326c	"gbd"	"Garadjari"		"b"				"gbd_sands1989.pdf"
 				"d"				
 				"ɗ"				
 				"dʲ"				
@@ -1108,7 +1108,7 @@
 				"u"				
 				"ɑ"				
 
-880	"gby"	"Gbari"		"i"		"[i]"		"gby_rosendall1998.pdf"
+p115e3	"gby"	"Gbari"		"i"		"[i]"		"gby_rosendall1998.pdf"
 						"[ĩ]"	"""when a nasal feature is present in the syllable""; rules become more complex"	
 						"[iː]"		
 				"e"		"[e]"		
@@ -1173,7 +1173,7 @@
 						"[ɥ]"	"""before front vowels"""	
 				"<h>"	"""Very limited distribution""; attested to appear in only three words"			
 
-881	"gvf"	"Golin"		"p"				"gvf_evans2005.pdf"
+paf95a	"gvf"	"Golin"		"p"				"gvf_evans2005.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -1197,7 +1197,7 @@
 				"ɔː"				
 				"ʊː"				
 
-882	"gub"	"Guajajara"		"p"				"gub_bendorsamuel1966.pdf"
+p4dcd1	"gub"	"Guajajara"		"p"				"gub_bendorsamuel1966.pdf"
 				"t̪"				
 				"k"				
 				"kʷ"				
@@ -1219,7 +1219,7 @@
 				"a"				
 				"ɔ"				
 
-883	"gup"	"Gunwinggu"		"b"		"[b]"	"""Syllable initial"""	"gup_oates1964.pdf"
+pec048	"gup"	"Gunwinggu"		"b"		"[b]"	"""Syllable initial"""	"gup_oates1964.pdf"
 						"[p]"	"""Syllable final, freely fluctuates with pʰ word final"""	
 						"[pʰ]"	"""Word final"""	
 				"d̪"		"[d̪]"	"""Syllable initial"""	
@@ -1258,7 +1258,7 @@
 				"o"		"[ɔ]"	"""Only in open syllables"""	
 						"[ɒ]"	"""Only in closed syllables"""	
 
-884	"hay"	"Haya"		"p"				"hay_byarushengo1977.pdf"
+p8a3bf	"hay"	"Haya"		"p"				"hay_byarushengo1977.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -1293,7 +1293,7 @@
 				"o"				
 				"oː"				
 
-885	"wya"	"Huron"		"i"				"wya_lagarde1980.pdf"
+p28736	"wya"	"Huron"		"i"				"wya_lagarde1980.pdf"
 				"e"				
 				"a"				
 				"o"				
@@ -1311,7 +1311,7 @@
 				"θ"				
 				"x"				
 
-886	"hch"	"Huichol"		"p"				"hch_mchintosh1945.pdf"
+pc6aad	"hch"	"Huichol"		"p"				"hch_mchintosh1945.pdf"
 				"t̪"				
 				"k"		"[kʲ]"	"/k/ becomes [kʲ] before /e/"	
 				"kʷ"				
@@ -1337,7 +1337,7 @@
 				"eː"				
 				"aː"				
 
-887	"qwh"	"Huaylas"		"i"		"[i]"		"qwh_levengood1982"
+p64e24	"qwh"	"Huaylas"		"i"		"[i]"		"qwh_levengood1982"
 						"[ɪ]"		
 						"[ɛ]"		
 				"e"				
@@ -1379,7 +1379,7 @@
 				"w"				
 				"j"				
 
-888	"huv"	"Huave, San Mateo del Mar"		"p"				"huv_archivo1983.pdf"
+p0319b	"huv"	"Huave, San Mateo del Mar"		"p"				"huv_archivo1983.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -1404,7 +1404,7 @@
 				"o"				
 				"u"				
 
-889	"qxw"	"Huanca"		"p"				"qxw_wroughton1996.pdf"
+pa1512	"qxw"	"Huanca"		"p"				"qxw_wroughton1996.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -1438,7 +1438,7 @@
 				"u"				
 				"o"				
 
-890	"lyn"	"Louyi"		"b"				"lyn_jacottet1896.pdf"
+p3f889	"lyn"	"Louyi"		"b"				"lyn_jacottet1896.pdf"
 				"p"				
 				"ʃ"				
 				"m"				
@@ -1462,7 +1462,7 @@
 				"o"				
 				"u"				
 
-891	"iby"	"Ibani"		"i"				"iby_blench2005.pdf"
+pddc00	"iby"	"Ibani"		"i"				"iby_blench2005.pdf"
 				"ɪ"				
 				"e"				
 				"ɛ"				
@@ -1501,7 +1501,7 @@
 				"˦"				
 				"↓"				
 
-892	"imn"	"Imonda"		"m"		"[mw]"	"""labial and velar consonants are automatically labialized preceding a back vowel""; ""labialization also occurs medially after a back vowel"""	"imn_seiler1985.pdf"
+p7bf77	"imn"	"Imonda"		"m"		"[mw]"	"""labial and velar consonants are automatically labialized preceding a back vowel""; ""labialization also occurs medially after a back vowel"""	"imn_seiler1985.pdf"
 				"n"				
 				"p"		"[f]"	"""In final position"""	
 						"[pw]"	"""labial and velar consonants are automatically labialized preceding a back vowel""; ""labialization also occurs medially after a back vowel"""	
@@ -1531,7 +1531,7 @@
 				"u"		"[w]"	"""preceding and following another vowel"""	
 						"[ʉ]"	"""it appears to be impossible to specify a conditioning environment"""	
 
-893	"inh"	"Ingush"		"p"				"inh_nichols1996.pdf"
+p1a2ee	"inh"	"Ingush"		"p"				"inh_nichols1996.pdf"
 				"b"				
 				"<pʼ>"				
 				"f"				
@@ -1580,7 +1580,7 @@
 				"uo"				
 				"oa"				
 
-894	"ksi"	"Isaka"		"p"		"[p]"	"""Heard in non-contrastive free variation, with no discervible environmental motivation"""	"ksi_donohue2002.pdf"
+pb8665	"ksi"	"Isaka"		"p"		"[p]"	"""Heard in non-contrastive free variation, with no discervible environmental motivation"""	"ksi_donohue2002.pdf"
 						"[β]"	"""Intervocalic"""	
 						"[ɸ]"	"""Heard in non-contrastive free variation, with no discervible environmental motivation"""	
 						"[f]"	"""Heard in non-contrastive free variation, with no discervible environmental motivation"""	
@@ -1607,7 +1607,7 @@
 				"˩˥"				
 				"˥˩"				
 
-895	"yal"	"Jalonke"		"i"				"yal_lupke2005.pdf"
+p569dc	"yal"	"Jalonke"		"i"				"yal_lupke2005.pdf"
 				"e"				
 				"ɛ"				
 				"ɑ"				
@@ -1641,7 +1641,7 @@
 				"l"				
 				"w"				
 
-896	"izr"	"Hill Jarawa"		"p"				"jar_lukas1961.pdf"
+pf4d53	"izr"	"Hill Jarawa"		"p"				"jar_lukas1961.pdf"
 				"t"		"[ts]"	"sometimes after [i]"	
 				"k"		"[x]"	"""In final position""; not clear if this is free variation"	
 				"kp"				
@@ -1683,7 +1683,7 @@
 				"o̤"				
 				"a"				
 
-897	"jaa"	"Jarawara"		"b"		"[p]"	"Free variant"	"jaa_vogel2003.pdf"
+p930ca	"jaa"	"Jarawara"		"b"		"[p]"	"Free variant"	"jaa_vogel2003.pdf"
 				"t̪"		"[d̪]"	"Free variant"	
 				"j"		"[ɟ]"	"Free variant"	
 				"k"		"[ɡ]"	"Free variant"	
@@ -1699,7 +1699,7 @@
 				"a"				
 				"ɯ"		"[ɤ]"	"Free variant"	
 
-898	"tow"	"Jemez"		"pʼ"				"tow_yumitani1998.pdf"
+p31441	"tow"	"Jemez"		"pʼ"				"tow_yumitani1998.pdf"
 				"tʼ"				
 				"<tsʼ>"				
 				"kʼʲ"				
@@ -1761,7 +1761,7 @@
 				"ɑ̃ː"				
 				"æ̃ː"				
 
-899	"mgi"	"Jili"		"i"				"mgi_blench2006.pdf"
+pcf7b8	"mgi"	"Jili"		"i"				"mgi_blench2006.pdf"
 				"e"				
 				"ɛ"				
 				"ə"				
@@ -1812,7 +1812,7 @@
 				"˥˩"				
 				"˦˥"				
 
-900	"kab"	"Kabyle"		"h"				"kab_hamouma1987.pdf"
+p6db2f	"kab"	"Kabyle"		"h"				"kab_hamouma1987.pdf"
 				"ħ"				
 				"q"				
 				"χ"				
@@ -1843,7 +1843,7 @@
 				"ɪ"				
 				"ʊ"				
 
-901	"gid"	"Kada"	"Guidar"	"i"				"gid_noukeu2002.pdf"
+p0bea6	"gid"	"Kada"	"Guidar"	"i"				"gid_noukeu2002.pdf"
 				"e"		"[ɛ]"	"In final position"	
 				"ø"		"[ə]"	"Free variation"	
 				"ə"		"[ø]"	"Free variation"	
@@ -1890,7 +1890,7 @@
 				"˦"				
 				"˨"				
 
-902	"kyz"	"Kaiabi"		"p"				"kyz_souza2004.pdf"
+paa21d	"kyz"	"Kaiabi"		"p"				"kyz_souza2004.pdf"
 				"t"				
 				"k"				
 				"ɡ"				
@@ -1915,7 +1915,7 @@
 				"o"				
 				"õ"				
 
-903	"kms"	"Kamasau"		"t"				"kms_sanders1994a.pdf"
+p48594	"kms"	"Kamasau"		"t"				"kms_sanders1994a.pdf"
 				"k"				
 				"ʔ"				
 				"b"				
@@ -1945,7 +1945,7 @@
 				"a"				
 				"o"				
 
-904	"kxo"	"Kanoe"		"p"		"[ɓ]"	"in free variation before [æ] and [ɔ] word initially"	"kxo_bacelar2004.pdf"
+pe690b	"kxo"	"Kanoe"		"p"		"[ɓ]"	"in free variation before [æ] and [ɔ] word initially"	"kxo_bacelar2004.pdf"
 				"t"				
 				"k"				
 				"m"				
@@ -1976,7 +1976,7 @@
 				"o"				
 				"õ"				
 
-905	"ndb"	"Kensei Nsei"		"i"				"ndb_akeriweh2000.pdf"
+p84c82	"ndb"	"Kensei Nsei"		"i"				"ndb_akeriweh2000.pdf"
 				"e"				
 				"ɛ"				
 				"æ"				
@@ -2042,7 +2042,7 @@
 				"ʒʷ"		"[jʷ]"	"free variation"	
 				"ɣ"				
 
-906	"xrb"	"Kar"		"p"				"xrb_wichser1994.pdf"
+p22ff9	"xrb"	"Kar"		"p"				"xrb_wichser1994.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -2075,7 +2075,7 @@
 				"˧"				
 				"˨"				
 
-907	"kmv"	"Karipuna Creole"		"p"				"kmv_tobler1983.pdf"
+pc1370	"kmv"	"Karipuna Creole"		"p"				"kmv_tobler1983.pdf"
 				"b"				
 				"t̪"				
 				"d̪"				
@@ -2112,7 +2112,7 @@
 				"ã"				
 				"ɔ̃"				
 
-908	"ken"	"Kenyang"		"i"		"[i]"	"""Elsewhere"""	"ken_mbuagbaw2000.pdf"
+p5f6e7	"ken"	"Kenyang"		"i"		"[i]"	"""Elsewhere"""	"ken_mbuagbaw2000.pdf"
 						"[ĩ]"	"""After nasal consonant"""	
 				"ɨ"		"[ɨ]"	"""Elsewhere"""	
 						"[ɨ̃]"	"""After nasal consonant"""	
@@ -2182,7 +2182,7 @@
 						"[n]"	"""a nasal consonant assimilates to the place of articulation of a followinɡ obstruent"""	
 						"[ŋ]"	"""a nasal consonant assimilates to the place of articulation of a followinɡ obstruent"""	
 
-909	"khr"	"Kharia"		"i"		"[ɪ]"		"khr_peterson.pdf"
+pfda5e	"khr"	"Kharia"		"i"		"[ɪ]"		"khr_peterson.pdf"
 						"[i]"		
 						"[iː]"	"""Word final"""	
 				"e"		"[ɛ]"		
@@ -2244,7 +2244,7 @@
 				"ˀɗ"				
 				"ˀɟ"				
 
-910	"cog"	"Chong"	"Khlong Phlu and Wang Kraphrae Dialects"	"p"		"[p̚]"	"syllable finally"	"cog_ungsitipoonporn.pdf"
+p9bdd5	"cog"	"Chong"	"Khlong Phlu and Wang Kraphrae Dialects"	"p"		"[p̚]"	"syllable finally"	"cog_ungsitipoonporn.pdf"
 				"pʰ"			"only in initial position"	
 				"b"			"only in initial position of the syllable"	
 				"t"		"[t̚]"	"syllable finally"	
@@ -2286,7 +2286,7 @@
 				"ɔː"				
 				"uə"				
 
-911	"kin"	"Kinyarwanda"		"a"				"kin_mpayimana2003.pdf"
+p3a14c	"kin"	"Kinyarwanda"		"a"				"kin_mpayimana2003.pdf"
 				"e"				
 				"i"				
 				"o"				
@@ -2339,7 +2339,7 @@
 				"ŋʷ"				
 				"ɴ"				
 
-912	"okr"	"Kirike"		"i"				"okr_blench2005.pdf"
+pd84c3	"okr"	"Kirike"		"i"				"okr_blench2005.pdf"
 				"ɪ"				
 				"e"				
 				"ɛ"				
@@ -2376,7 +2376,7 @@
 				"˦"				
 				"˨"				
 
-913	"kkk"	"Kokota"		"p"		"[pˠ]"	"before [u]"	"kkk_palmer1999.pdf"
+p7683a	"kkk"	"Kokota"		"p"		"[pˠ]"	"before [u]"	"kkk_palmer1999.pdf"
 				"b"		"[bˠ]"	"before [u]"	
 				"t"		"[tʷ]"	"before [u]"	
 				"d"		"[dʷ]"	"before [u]"	
@@ -2404,7 +2404,7 @@
 				"o"				
 				"u"				
 
-914	"kme"	"Kole"		"i"				"kme_asobo1989.pdf"
+p14bb1	"kme"	"Kole"		"i"				"kme_asobo1989.pdf"
 				"e"				
 				"ɛ"				
 				"a"				
@@ -2439,7 +2439,7 @@
 				"j"				
 				"w"				
 
-915	"kma"	"Konni"		"p"		"[pʰ]"		"kma_cahill1999.pdf"
+pb2f28	"kma"	"Konni"		"p"		"[pʰ]"		"kma_cahill1999.pdf"
 				"b"		"[β]"	"intervocalically"	
 				"t"		"[tʰ]"		
 				"d"		"[ɾ]"	"""Intervocalically within words, morpheme-initial and morpheme-internal"""	
@@ -2491,7 +2491,7 @@
 				"ŋː"				
 				"lː"				
 
-916	"kdt"	"Kuay"	"Surin"	"p"				"kdt_oranuch1984.pdf"
+p5129f	"kdt"	"Kuay"	"Surin"	"p"				"kdt_oranuch1984.pdf"
 				"t"				
 				"c"				
 				"k"				
@@ -2539,7 +2539,7 @@
 				"ɯa"				
 				"ua"				
 
-917	"kle"	"Kulung"		"i"		"[ɪ]"	"""In closed syllables before the phoneme /ŋ/"""	"kle_tolsma1999.pdf"
+pef616	"kle"	"Kulung"		"i"		"[ɪ]"	"""In closed syllables before the phoneme /ŋ/"""	"kle_tolsma1999.pdf"
 				"iː"				
 				"e"		"[e]"	"""In open syllables"""	
 						"[ɛ]"	"""In closed syllables"""	
@@ -2584,7 +2584,7 @@
 				"ʔ"				
 				"h"				
 
-918	"kto"	"Kuot"		"p"		"[p]"		"kto_lindstrom2002.pdf"
+p8d98d	"kto"	"Kuot"		"p"		"[p]"		"kto_lindstrom2002.pdf"
 						"[v]"	"Intervocalically; seems to be pervasive at all intervocalic positions within an utterance; not restricted to words"	
 						"[β]"	"Intervocalically; seems to be pervasive at all intervocalic positions within an utterance; not restricted to words"	
 						"[p̚]"	"""In final position"""	
@@ -2624,7 +2624,7 @@
 						"[ɔ]"		
 						"[oː]"	"""In a non-final stressed syllable before /r/ and in a stressed final open syllable"""	
 
-919	"kgg"	"Kusunda"		"i"		"[e]"	"Free variation; ""related to an intrinsic tendency of consonant-vowel ''harmony'' in certain parts of the language"""'	"kgg_watters2006.pdf"
+p2bd04	"kgg"	"Kusunda"		"i"		"[e]"	"Free variation; ""related to an intrinsic tendency of consonant-vowel ''harmony'' in certain parts of the language"""'	"kgg_watters2006.pdf"
 				"e"		"[i]"	"Free variation; ""related to an intrinsic tendency of consonant-vowel ''harmony'' in certain parts of the language"""'	
 				"a"		"[ə]"	"Free variation; ""related to an intrinsic tendency of consonant-vowel ''harmony'' in certain parts of the language"""'	
 				"ə"		"[a]"	"Free variation; ""related to an intrinsic tendency of consonant-vowel ''harmony'' in certain parts of the language"""'	
@@ -2680,7 +2680,7 @@
 				"w"				
 				"j"				
 
-920	"kxv"	"Kuvi"		"p"				"kxv_israel1979.pdf"
+pca07b	"kxv"	"Kuvi"		"p"				"kxv_israel1979.pdf"
 				"t̪"				
 				"ʈ"				
 				"k"				
@@ -2718,7 +2718,7 @@
 				"õ"				
 				"ũ"				
 
-921	"xwa"	"Kwaza"		"i"				"xwa_voort2004.pdf"
+p683f2	"xwa"	"Kwaza"		"i"				"xwa_voort2004.pdf"
 				"e"		"[ɛ]"	"""In rapid speech"""	
 						"[ɪ]"	"""when following the retracted apico-aveolar consonant [s̠]"	
 						"[i]"	"free varation (optional)"	
@@ -2775,7 +2775,7 @@
 				"<z>"	"Loan from Aikana"			
 				"<ʒ>"	"Loan from Portuguese"			
 
-922	"lbj"	"Ladakhi"		"i"		"[i]"		"lbj_koshal1979.pdf"
+p06769	"lbj"	"Ladakhi"		"i"		"[i]"		"lbj_koshal1979.pdf"
 						"[iː]"	"""In the final position"""	
 						"[ĩ]"	"""In the vicinity of nasal consonants"""	
 				"e"		"[e]"	"""Occurs only in the final position"""	
@@ -2831,7 +2831,7 @@
 				"w"				
 				"j"				
 
-923	"lag"	"Langi"		"p"				"lag_dunham2005.pdf"
+pa4ae0	"lag"	"Langi"		"p"				"lag_dunham2005.pdf"
 				"t"				
 				"k"				
 				"ʔ"				
@@ -2885,7 +2885,7 @@
 				"ʊː"				
 				"uː"				
 
-924	"lao"	"Lao"		"i"				"lao_morev1979.pdf"
+p42e57	"lao"	"Lao"		"i"				"lao_morev1979.pdf"
 				"ɯ"				
 				"u"				
 				"e"				
@@ -2926,7 +2926,7 @@
 				"kʰʷ"				
 				"tʰʷ"				
 
-925	"lvk"	"Lavukaleve"		"<pʰ>"	"rare phoneme mostly in loan words"			"lvk_terrill1999.pdf"
+pe11ce	"lvk"	"Lavukaleve"		"<pʰ>"	"rare phoneme mostly in loan words"			"lvk_terrill1999.pdf"
 				"t"		"[t]"		
 						"[tʰ]"	"free variation word initially"	
 				"kʰ"				
@@ -2957,7 +2957,7 @@
 				"o"		"[o]"		
 						"[ɔ]"		
 
-926	"bwt"	"Bafo"	"Lefo"	"i"				"bwt_ebah1990.pdf"
+p7f545	"bwt"	"Bafo"	"Lefo"	"i"				"bwt_ebah1990.pdf"
 				"e"				
 				"ɛ"				
 				"ə"				
@@ -3005,7 +3005,7 @@
 				"˩˥"				
 				"˥˩"				
 
-927	"lun"	"Lunda"		"i"		"[iː]"	"""Mostly in the penultimate position. Word-internally when precedes cluster of nasal plus a consonant"""	"lun_kawasha2003.pdf"
+p1d8bc	"lun"	"Lunda"		"i"		"[iː]"	"""Mostly in the penultimate position. Word-internally when precedes cluster of nasal plus a consonant"""	"lun_kawasha2003.pdf"
 				"e"		"[eː]"	"""Mostly in the penultimate position. Word-internally when precedes cluster of nasal plus a consonant"""	
 				"a"		"[aː]"	"""Mostly in the penultimate position. Word-internally when precedes cluster of nasal plus a consonant"""	
 				"o"		"[oː]"	"""Mostly in the penultimate position. Word-internally when precedes cluster of nasal plus a consonant"""	
@@ -3039,7 +3039,7 @@
 				"w"				
 				"j"				
 
-928	"lch"	"Lucazi"		"a"				"lch_fleisch2000.pdf"
+pbbc33	"lch"	"Lucazi"		"a"				"lch_fleisch2000.pdf"
 				"e"		"[ɛ]"		
 				"ɪ"				
 				"o"		"[ɔ]"		
@@ -3082,7 +3082,7 @@
 				"j"				
 				"ɦ"				
 
-929	"bdu"	"Lukundu"		"p"		"[pʰ]"	"Free variation"	"bdu_atta1993.pdf"
+p59faa	"bdu"	"Lukundu"		"p"		"[pʰ]"	"Free variation"	"bdu_atta1993.pdf"
 				"b"		"[b]"	"""Elsewhere"""	
 						"[β]"	"""Between vowels"""	
 						"[bʷ]"	"""Preceding two sequences of vowels, the first being u and the second being a or ɛ"""	
@@ -3128,7 +3128,7 @@
 				"o"		"[oː]"	"""In free variation"""	
 				"ɔ"				
 
-930	"mkd"	"Macedonian"		"i"		"[j]"	"word finally after a vowel"	"mkd_friedman2002.pdf"
+pf8321	"mkd"	"Macedonian"		"i"		"[j]"	"word finally after a vowel"	"mkd_friedman2002.pdf"
 				"e"				
 				"ə"				
 				"a"				
@@ -3162,7 +3162,7 @@
 				"ɲ"				
 				"r"				
 
-931	"mxu"	"Mada"	"Rija"	"p"				"mxu_blench2006.pdf"
+p96698	"mxu"	"Mada"	"Rija"	"p"				"mxu_blench2006.pdf"
 				"t"				
 				"k"				
 				"kp"				
@@ -3203,7 +3203,7 @@
 				"˩˥"				
 				"˥˩"				
 
-932	"mhi"	"Ma'di"		"p"				"grg_blackings2003.pdf"
+p34a0f	"mhi"	"Ma'di"		"p"				"grg_blackings2003.pdf"
 				"t"				
 				"k"		"[hʷ]"	"""Variant for some speakers"""	
 				"ʔ"				
@@ -3258,7 +3258,7 @@
 				"u"				
 				"o"				
 
-933	"mva"	"Manam"		"p"				"mva_turner1986.pdf"
+pd2d86	"mva"	"Manam"		"p"				"mva_turner1986.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -3277,7 +3277,7 @@
 				"o"				
 				"u"				
 
-934	"bce"	"Mamenyan"		"i"				"bce_forku2000.pdf"
+p710fd	"bce"	"Mamenyan"		"i"				"bce_forku2000.pdf"
 				"e"				
 				"ɛ"				
 				"ø"				
@@ -3341,7 +3341,7 @@
 						"[ɣʷ]"	"""Occurs exclusively at word initial in front of /ə/"""	
 						"[ɡ]"	"Word initially and after a nasal (not clear from the context given)"	
 
-935	"nmm"	"Manange"		"p"				"nmm_hildebrandt2004.pdf"
+p0f474	"nmm"	"Manange"		"p"				"nmm_hildebrandt2004.pdf"
 				"pʰ"		"[ɸ]"	"""For some speakers, in free variation when in word-initial position"""	
 				"t̪"				
 				"t̪ʰ"				
@@ -3394,7 +3394,7 @@
 				"˧˦"				
 				"˨"				
 
-936	"nge"	"Ngemba"	"Mankon"	"i"				"nge_swiri1998.pdf"
+pad7eb	"nge"	"Ngemba"	"Mankon"	"i"				"nge_swiri1998.pdf"
 				"ɨ"				
 				"u"				
 				"e"				
@@ -3435,7 +3435,7 @@
 				"˦"				
 				"˨"				
 
-937	"mec"	"Mara"		"i"				"mec_heath1981.pdf"
+p4bb62	"mec"	"Mara"		"i"				"mec_heath1981.pdf"
 				"u"				
 				"a"				
 				"<e>"	"marginal"			
@@ -3460,7 +3460,7 @@
 				"ŋ"		"[ɡ]"	"""under certain conditions when followed by a nasal"""	
 				"w"				
 
-938	"ayz"	"Maybrat"		"i"		"[i]"		"ayz_dol1999.pdf"
+pe9ed9	"ayz"	"Maybrat"		"i"		"[i]"		"ayz_dol1999.pdf"
 						"[ɪ]"	"""When followed by a velar consonant /k/, optionally"""	
 						"[j]"	"""In word-final position following a vowel, optionally"""	
 						"[iː]"	"""In monosyllabic words that receive stress in connected speech"""	
@@ -3494,7 +3494,7 @@
 				"w"				
 				"j"				
 
-939	"gmm"	"Mbodomo; Mbódɔ̀mɔ́"		"p"				"gmm_boyd1997.pdf"
+p88250	"gmm"	"Mbodomo; Mbódɔ̀mɔ́"		"p"				"gmm_boyd1997.pdf"
 				"t"				
 				"k"		"[χ]"	"""In the syllable coda"""	
 						"[ʁ]"	"""In the verb, when the past tense suffix -ɑ is added]"	
@@ -3536,7 +3536,7 @@
 				"˦"				
 				"˨"				
 
-940	"byv"	"Medumba"		"t̪"		"[t̪]"	"In initial position"	"byv_nganmou1991.pdf"
+p265c7	"byv"	"Medumba"		"t̪"		"[t̪]"	"In initial position"	"byv_nganmou1991.pdf"
 						"[tʲ]"	"Preceding the vowels ʉ and u"	
 						"[ts]"	"Precedig the vowel i"	
 				"ts"				
@@ -3572,7 +3572,7 @@
 				"o"				
 				"ɔ"				
 
-941	"xmf"	"Mingrelian"	"Senak"	"i"				"xmf_harris1991.pdf"
+pc493e	"xmf"	"Mingrelian"	"Senak"	"i"				"xmf_harris1991.pdf"
 				"ɛ"				
 				"a"				
 				"u"				
@@ -3608,7 +3608,7 @@
 				"ʔ"				
 				"h"				
 
-942	"bfm"	"Mmen"		"p"				"bfm_bangha2003.pdf"
+p62cb5	"bfm"	"Mmen"		"p"				"bfm_bangha2003.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -3650,7 +3650,7 @@
 				"˩˥"				
 				"˥˩"				
 
-943	"mwt"	"Moken"		"p"				"mwt_veena1980.pdf"
+p0102c	"mwt"	"Moken"		"p"				"mwt_veena1980.pdf"
 				"t"				
 				"c"				
 				"k"				
@@ -3686,7 +3686,7 @@
 						"[oː]"	"Free variation"	
 						"[ɔ]"	"Free variation"	
 
-944	"cas"	"Moseten"		"i"		"[i]"		"cas_sakel2004.pdf"
+p9f3a3	"cas"	"Moseten"		"i"		"[i]"		"cas_sakel2004.pdf"
 						"[ɪ]"	"""Only before fricatives and affricates"""	
 				"iː"				
 				"e"				
@@ -3731,7 +3731,7 @@
 				"<ɡ>"	"Spanish loanwords"			
 				"<l>"	"Spanish loanwords"			
 
-945	"mgg"	"Mpumpun"	"Yokadouma"	"i"				"mgg_djiafeua1989.pdf"
+p3d71a	"mgg"	"Mpumpun"	"Yokadouma"	"i"				"mgg_djiafeua1989.pdf"
 				"e"				
 				"ɛ"				
 				"u"				
@@ -3771,7 +3771,7 @@
 				"˦"				
 				"˨"				
 
-946	"mhk"	"Mungaka"		"p"				"mhk_nahjella1997.pdf"
+pdba91	"mhk"	"Mungaka"		"p"				"mhk_nahjella1997.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -3805,7 +3805,7 @@
 				"˧"				
 				"˨"				
 
-947	"nmg"	"Mvumbo"		"i"		"[i]"		"nmg_ngue2002.pdf"
+p79e08	"nmg"	"Mvumbo"		"i"		"[i]"		"nmg_ngue2002.pdf"
 						"[iː]"		
 				"y"				
 				"u"				
@@ -3879,7 +3879,7 @@
 				"ɡʲ"				
 				"kʲ"				
 
-948	"mlv"	"Mwotlap"		"kpʷ"				"mlv_francois2001.pdf"
+p1817f	"mlv"	"Mwotlap"		"kpʷ"				"mlv_francois2001.pdf"
 				"t"				
 				"kpʷ"				
 				"mb"				
@@ -3906,7 +3906,7 @@
 				"ʊ"				
 				"u"				
 
-949	"nnm"	"Namia"		"p"				"nnm_feldpausch1992.pdf"
+pb64f6	"nnm"	"Namia"		"p"				"nnm_feldpausch1992.pdf"
 				"t"		"[r]"	"""Occurs in word initial position when the preceding word ends in a vowel"""	
 						"[t]"	"""Occurs in word initial position when the preceding word ends in a consonant"""	
 				"k"				
@@ -3928,7 +3928,7 @@
 						"[e]"	"""At a morpheme break, before /i,y/"""	
 						"[o]"	"""At a morpheme break, before /u, w/"""	
 
-950	"nml"	"Ndemli"		"p"				"nml_ngoran1999.pdf"
+p5486d	"nml"	"Ndemli"		"p"				"nml_ngoran1999.pdf"
 				"t"				
 				"c"				
 				"k"				
@@ -3982,7 +3982,7 @@
 				"˩˥"				
 				"˥˩"				
 
-951	"apm"	"Chiricahua Apache"		"p"				"apm_hoijer1946.pdf"
+pf2be4	"apm"	"Chiricahua Apache"		"p"				"apm_hoijer1946.pdf"
 				"t"				
 				"k"	"c"			
 				"tʰ"	"tx"			
@@ -4034,7 +4034,7 @@
 				"˥˩"				
 				"˩˥"				
 
-952	"yum"	"Yuma"		"p"				"yum_halpern1946.pdf"
+p90f5b	"yum"	"Yuma"		"p"				"yum_halpern1946.pdf"
 				"v"				
 				"m"				
 				"w"				
@@ -4073,7 +4073,7 @@
 				"oː"				
 				"uː"				
 
-953	"nnk"	"Nankina"		"p"		"[p]"		"nnk_spaulding1994.pdf"
+p2f2d2	"nnk"	"Nankina"		"p"		"[p]"		"nnk_spaulding1994.pdf"
 						"[ɸ]"		
 						"[f]"		
 						"[pʷ]"		
@@ -4117,7 +4117,7 @@
 				"ɑ"				
 				"ɔ"				
 
-954	"niq"	"Nandi"		"p"		"[b]"	"""voiced and optionally spirantized intervocalically""; after nasals and [l], ɡlides and [r]"	"niq_creider1989.pdf"
+pcd649	"niq"	"Nandi"		"p"		"[b]"	"""voiced and optionally spirantized intervocalically""; after nasals and [l], ɡlides and [r]"	"niq_creider1989.pdf"
 						"[β]"	"""voiced and optionally spirantized intervocalically"""	
 						"[p̃]"	"after nasals"	
 				"t"		"[d]"	"""after nasals and [l]"""	
@@ -4151,7 +4151,7 @@
 				"aː"				
 				"oː"				
 
-955	"kig"	"Khmu"		"p"				"kig_saowalak1993.pdf"
+p6b9c0	"kig"	"Khmu"		"p"				"kig_saowalak1993.pdf"
 				"pʰ"				
 				"b"				
 				"t"				
@@ -4197,7 +4197,7 @@
 				"˦"				
 				"˨"	"mid-falling;"			
 
-956	"mff"	"Naki"		"i"				"mff_kum2002.pdf"
+p09d37	"mff"	"Naki"		"i"				"mff_kum2002.pdf"
 				"e"				
 				"ɛ"				
 				"a"				
@@ -4243,7 +4243,7 @@
 				"kp"				
 				"ɡb"				
 
-957	"ncl"	"Michoacan Nahual"		"p"		"[k]"	"""When followed by t"""	"ncl_langacker1979.pdf"
+pa80ae	"ncl"	"Michoacan Nahual"		"p"		"[k]"	"""When followed by t"""	"ncl_langacker1979.pdf"
 				"t"				
 				"ts"	"not clear if this is /c/ or /ts/"	"[s]"	"""When followed by t"""	
 						"[h]"	"""If followed by an affricate or /s/"""	
@@ -4277,7 +4277,7 @@
 				"u"		"[o]"	"""Fluctuates in unstressed syllables"""	
 						"[u]"	"""Fluctuates in unstressed syllables"""	
 
-958	"nag"	"Nagamese"		"i"				"nag_bhattacharjya2001.pdf"
+p46425	"nag"	"Nagamese"		"i"				"nag_bhattacharjya2001.pdf"
 				"e"				
 				"a"				
 				"u"				
@@ -4325,7 +4325,7 @@
 				"ou"				
 				"oe̞"				
 
-959	"nsh"	"Ngishe"		"i"				"nsh_bolima1998.pdf"
+pe479c	"nsh"	"Ngishe"		"i"				"nsh_bolima1998.pdf"
 				"ɨ"				
 				"ɛ"		"[ɛ]"		
 						"[e]"	"""At word initial position"""	
@@ -4362,7 +4362,7 @@
 				"˨"				
 				"˦"				
 
-960	"nig"	"Ngalakan"		"p"				"nig_baker1999.pdf"
+p82b13	"nig"	"Ngalakan"		"p"				"nig_baker1999.pdf"
 				"t"				
 				"ʈ"				
 				"c"	"ts?; text does not distinguish between stops, fricatives and affricates so difficult to determine whether this is a stop or an affricate"			
@@ -4389,7 +4389,7 @@
 				"u"				
 				"ʊ"				
 
-961	"nam"	"Nganikurungkurr"	"Daly River Area, Northern Territory"	"p"				"nam_hoddinott1988.pdf"
+p20e8a	"nam"	"Nganikurungkurr"	"Daly River Area, Northern Territory"	"p"				"nam_hoddinott1988.pdf"
 				"b"				
 				"t"		"[t]"		
 						"[d]"		
@@ -4434,7 +4434,7 @@
 				"eː"				
 				"aː"				
 
-962	"jgo"	"Ngomba"		"i"		"[ɨ]"	"In diphthongs where the second vowel is ə"	"jgo_ngouagna1988.pdf"
+pbf201	"jgo"	"Ngomba"		"i"		"[ɨ]"	"In diphthongs where the second vowel is ə"	"jgo_ngouagna1988.pdf"
 						"[i]"	"Elsewhere"	
 				"ɛ"		"[e]"	"In prefixes and suffixes, in the structure C1VC2 where C1 and C2 are occlusives and in the structure CV where C is a fricative"	
 						"[ɛ]"	"Elsewhere"	
@@ -4487,7 +4487,7 @@
 				"˨˦"	"Le tonème bas-haut"			
 				"˦˨"	"Le tonème haut-bas"			
 
-963	"nla"	"Ngombale"		"p"				"nla_voutsa2003.pdf"
+p5d578	"nla"	"Ngombale"		"p"				"nla_voutsa2003.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -4547,7 +4547,7 @@
 				"˧"				
 				"˨"				
 
-964	"nuk"	"Nootka"	"Nuuchahnulth"	"p"				"noo_davidson2002.pdf"
+pfb8ef	"nuk"	"Nootka"	"Nuuchahnulth"	"p"				"noo_davidson2002.pdf"
 				"pʼ"				
 				"t̪"				
 				"t̪ʼ"				
@@ -4595,7 +4595,7 @@
 				"ɔ"				
 				"ɔː"				
 
-965	"kxm"	"Northern Khmer"	"Buriram"	"p"				"kxm_phunsap1984.pdf"
+p99c66	"kxm"	"Northern Khmer"	"Buriram"	"p"				"kxm_phunsap1984.pdf"
 				"pʰ"				
 				"t"				
 				"tʰ"				
@@ -4642,7 +4642,7 @@
 				"m̩"	"unclear from the text whether these are phonemes or allophones (""only in the initial position"")"			
 				"ŋ̩"	"unclear from the text whether these are phonemes or allophones (""only in the initial position"")"			
 
-966	"pao"	"Northern Paiute"		"p"				"pao_thornes2003.pdf"
+p37fdd	"pao"	"Northern Paiute"		"p"				"pao_thornes2003.pdf"
 				"t"		"[ɾ]"		
 						"[t]"		
 						"[d]"		
@@ -4678,7 +4678,7 @@
 				"ɔː"				
 				"aː"				
 
-967	"kcn"	"Nubi"		"p"				"kcn_wellens2003.pdf"
+pd6354	"kcn"	"Nubi"		"p"				"kcn_wellens2003.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -4742,7 +4742,7 @@
 						"[uː]"		
 						"[ə]"	"""In unstressed syllables"""	
 
-968	"nus"	"Nuer"		"p"		"[p]"		"nus_frank1999.pdf"
+p746cb	"nus"	"Nuer"		"p"		"[p]"		"nus_frank1999.pdf"
 						"[b]"		
 						"[f]"		
 				"b"				
@@ -4793,7 +4793,7 @@
 				"ɵ̤ː"				
 				"o̤ː"				
 
-969	"ekm"	"Nulibie"	"Yambassa"	"i"				"ekm_ekambi1990.pdf"
+p12a42	"ekm"	"Nulibie"	"Yambassa"	"i"				"ekm_ekambi1990.pdf"
 				"e"				
 				"ɛ"				
 				"a"				
@@ -4828,7 +4828,7 @@
 				"˩˥"				
 				"˩˥"				
 
-970	"nym"	"Kinyamwezi"		"p"				"nym_maganga1992.pdf"
+pb0db9	"nym"	"Kinyamwezi"		"p"				"nym_maganga1992.pdf"
 				"t"				
 				"t̠ʃ"				
 				"k"		"[t̠ʃ]"	"before -y-"	
@@ -4882,7 +4882,7 @@
 				"˦"				
 				"˩˥"				
 
-971	"nyl"	"Nyeu"		"i"				"nyl_taweeporn1998.pdf"
+p4f130	"nyl"	"Nyeu"		"i"				"nyl_taweeporn1998.pdf"
 				"iː"				
 				"e"				
 				"eː"				
@@ -4924,7 +4924,7 @@
 				"<tʰ>"	"interpreted as [th] cluster"			
 				"<kʰ>"	"interpreted as [kh] cluster"			
 
-972	"ann"	"Obolo"		"b"		"[p]"	"word finally"	"ann_faraclas1984.pdf"
+ped4a7	"ann"	"Obolo"		"b"		"[p]"	"word finally"	"ann_faraclas1984.pdf"
 				"t̠ʃ"				
 				"d"				
 				"f"				
@@ -4965,7 +4965,7 @@
 				"˦"				
 				"˨"				
 
-973	"mpt"	"Mianmin"		"t"	"aspirated most likely underlyinɡ phoneme given the broader environments"	"[tʰ]"	"""word initial, medial following a consonant and between vowels and word final"""	"mpt_loving1974.pdf"
+p8b81e	"mpt"	"Mianmin"		"t"	"aspirated most likely underlyinɡ phoneme given the broader environments"	"[tʰ]"	"""word initial, medial following a consonant and between vowels and word final"""	"mpt_loving1974.pdf"
 						"[t]"	"""followed by a consonant"""	
 				"k"	"aspirated most likely underlyinɡ phoneme given the broader environments"	"[kʰ]"	"""word initial, medial following a consonant, medially between vowels and word final"""	
 						"[k]"	"""followed by a consonant"""	
@@ -4995,7 +4995,7 @@
 				"˥˩"	"high falling"			
 				"˩˨"				
 
-974	"fai"	"Faiwol"		"t"				"fai_loving1974.pdf"
+p29b95	"fai"	"Faiwol"		"t"				"fai_loving1974.pdf"
 				"k"				
 				"b"				
 				"d"				
@@ -5024,7 +5024,7 @@
 				"au"		"[ʌʊ]"	"""Word initial and medial"""	
 						"[oʊ]"	"""Word final"""	
 
-975	"oku"	"Oku"		"b"		"[bʲ]"	"before /j/"	"oku_yensi1996.pdf"
+pc7f0c	"oku"	"Oku"		"b"		"[bʲ]"	"before /j/"	"oku_yensi1996.pdf"
 				"t"				
 				"d"		"[dʲ]"	"before /j/"	
 				"k"				
@@ -5054,7 +5054,7 @@
 				"˧"				
 				"˥˩"				
 
-976	"oss"	"Ossetian"		"i"				"oss_hettich1997.pdf"
+p66283	"oss"	"Ossetian"		"i"				"oss_hettich1997.pdf"
 				"<ɨ>"	"Loan from Russian"			
 				"u"				
 				"ɪ"				
@@ -5104,7 +5104,7 @@
 				"j"		"[j]"		
 						"[jː]"		
 
-977	"pau"	"Palauan"		"t̪"		"[t̪ʰ]"	"In word final position"	"pau_josephs1975.pdf"
+p045fa	"pau"	"Palauan"		"t̪"		"[t̪ʰ]"	"In word final position"	"pau_josephs1975.pdf"
 						"[t̪]"		
 				"k"		"[kʰ]"	"Word-finally"	
 						"[k]"	"word-initially and word-internally when next to any consonant except l"	
@@ -5134,7 +5134,7 @@
 				"uː"				
 				"oː"				
 
-978	"okv"	"Orokaiva"		"p"				"okv_loving1977.pdf"
+pa2971	"okv"	"Orokaiva"		"p"				"okv_loving1977.pdf"
 				"t"				
 				"k"				
 				"b"		"[b]"	"""Initially and medially after /m/"""	
@@ -5173,7 +5173,7 @@
 				"o"		"[õ]"	"""When contiguous to a nasal consonant"""	
 						"[oː]"	"""In monosyllables and stressed syllables"""	
 
-979	"yll"	"Yil"		"p"				"yll_loving1977.pdf"
+p40ce8	"yll"	"Yil"		"p"				"yll_loving1977.pdf"
 				"t"				
 				"k"				
 				"m"				
@@ -5201,7 +5201,7 @@
 				"au"				
 				"ay"				
 
-980	"niz"	"Ningil"		"p"		"[p̚]"	"""Word finally"""	"niz_loving1977.pdf"
+pdf05f	"niz"	"Ningil"		"p"		"[p̚]"	"""Word finally"""	"niz_loving1977.pdf"
 						"[b]"	"""may be slightly voiced initially and medially, especially following nasals"""	
 				"t"		"[t̚]"	"""Word finally"""	
 						"[tʰ]"	"""Initially and medially"""	
@@ -5234,7 +5234,7 @@
 				"a"				
 				"<ɔ>"				
 
-981	"dob"	"Dobu"		"p"		"[pʰ]"	"""Occurs in all environments"""	"dob_loving1977.pdf"
+p7d3d6	"dob"	"Dobu"		"p"		"[pʰ]"	"""Occurs in all environments"""	"dob_loving1977.pdf"
 						"[pʷ]"	"""Occurs before /a/ and /ɛ/"""	
 				"pʷ"				
 				"t"		"[tʰ]"	"""Occurs in all environments except preceding /i/"""	
@@ -5260,7 +5260,7 @@
 				"ɔ"				
 				"u"				
 
-982	"smq"	"Samo"		"t"				"smq_loving1977.pdf"
+p1b74d	"smq"	"Samo"		"t"				"smq_loving1977.pdf"
 				"k"				
 				"b"				
 				"d"				
@@ -5280,7 +5280,7 @@
 				"o"				
 				"ɔ"				
 
-983	"uvh"	"Urii"		"p"		"[pʰ]"	"""Word initially, medially, and finally"""	"uvh_loving1974.pdf"
+pb9ac4	"uvh"	"Urii"		"p"		"[pʰ]"	"""Word initially, medially, and finally"""	"uvh_loving1974.pdf"
 						"[p]"	"""Word medially preceding consonants"""	
 						"[pm]"	"""Utterance finally"""	
 				"b"		"[b]"	"""Word initially and medially"""	
@@ -5328,7 +5328,7 @@
 						"[ɔː]"	"""In polysyllabic words. In the ultimate syllable preceding /ŋ/"""	
 						"[ɔ]"	"""In monosyllabic closed syllable words"""	
 
-984	"bzf"	"Boiken"		"p"		"[p]"		"bzf_loving1974.pdf"
+p57e3b	"bzf"	"Boiken"		"p"		"[p]"		"bzf_loving1974.pdf"
 						"[b]"	"examples show after nasal"	
 				"ts"	"uses /j/ symbol and does not define underlying quality"	"[dz]"	"examples show after nasal"	
 				"t"		"[d]"	"examples show after nasal"	
@@ -5365,7 +5365,7 @@
 				"æ"				
 				"ɒ"				
 
-985	"prt"	"Pray"	"Ban Wang Saw"	"m"				"prt_unchalee1988.pdf"
+pf61b2	"prt"	"Pray"	"Ban Wang Saw"	"m"				"prt_unchalee1988.pdf"
 				"n"				
 				"ɲ"				
 				"ŋ"				
@@ -5416,7 +5416,7 @@
 						"[ɔˑ]"	"""Occurs only before /ʔ/"""	
 				"ɔː"				
 
-986	"mlf"	"Mal"		"m"				"mlf_unchalee1988.pdf"
+p94529	"mlf"	"Mal"		"m"				"mlf_unchalee1988.pdf"
 				"n"				
 				"ɲ"				
 				"ŋ"				
@@ -5458,7 +5458,7 @@
 				"˩˨"				
 				"˦˥"	"non-low rising"			
 
-987	"rma"	"Rama"		"i"				"rma_grinevald1990.pdf"
+p328a0	"rma"	"Rama"		"i"				"rma_grinevald1990.pdf"
 				"a"				
 				"u"				
 				"iː"				
@@ -5493,7 +5493,7 @@
 				"j"				
 				"h"				
 
-988	"xmt"	"Matbat"		"p"				"xmt_remijsen2002.pdf"
+pd0c17	"xmt"	"Matbat"		"p"				"xmt_remijsen2002.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -5516,7 +5516,7 @@
 				"o"				
 				"u"				
 
-989	"run"	"Rundi"		"i"				"run_rodegem1967.pdf"
+p6ef8e	"run"	"Rundi"		"i"				"run_rodegem1967.pdf"
 				"e"				
 				"a"				
 				"o"				
@@ -5546,7 +5546,7 @@
 				"˨"				
 				"˦"				
 
-990	"nyn"	"Runyankore"		"p"				"nyn_poletto1998.pdf"
+p0d305	"nyn"	"Runyankore"		"p"				"nyn_poletto1998.pdf"
 				"t"				
 				"k"		"[k]"		
 						"[t̠ʃ]"	"""When it appears before a front vowel /i/ or /e/"""	
@@ -5586,7 +5586,7 @@
 				"ei"				
 				"oi"				
 
-991	"rwr"	"Marwari"		"p"				"rwr_magier1983.pdf"
+pab67c	"rwr"	"Marwari"		"p"				"rwr_magier1983.pdf"
 				"pʰ"				
 				"b"				
 				"bʱ"				
@@ -5633,7 +5633,7 @@
 				"o"				
 				"ə"				
 
-992	"ndi"	"Samba Leko"		"i"				"ndi_kong2004.pdf"
+p499f3	"ndi"	"Samba Leko"		"i"				"ndi_kong2004.pdf"
 				"ɪ"				
 				"u"				
 				"e"				
@@ -5671,7 +5671,7 @@
 				"˧"				
 				"˨"				
 
-993	"sbd"	"Samo de Toma"		"b"				"sbd_platiel1979.pdf"
+pe7d6a	"sbd"	"Samo de Toma"		"b"				"sbd_platiel1979.pdf"
 				"p"				
 				"f"				
 				"w"				
@@ -5698,7 +5698,7 @@
 				"o"				
 				"ɔ"				
 
-994	"sxm"	"Samre"		"p"		"[p]"		"sxm_ploykaew2001.pdf"
+p860e1	"sxm"	"Samre"		"p"		"[p]"		"sxm_ploykaew2001.pdf"
 						"[p̚]"		
 				"pʰ"				
 				"b"				
@@ -5746,7 +5746,7 @@
 				"uə"				
 				"ɯə"				
 
-995	"sae"	"Sabane"		"a"		"[ɑː]"	"""In stressed position"""	"sae_antunes2004.pdf"
+p24458	"sae"	"Sabane"		"a"		"[ɑː]"	"""In stressed position"""	"sae_antunes2004.pdf"
 						"[ɐ]"	"""In non-stressed position"""	
 						"[ɘ]"	"""In non-stressed position"""	
 				"i"		"[iː]"	"""In stressed position"""	
@@ -5782,7 +5782,7 @@
 				"ʔ"				
 				"h"				
 
-996	"str"	"Saanich"		"p"				"str_montler2005.pdf"
+pc27cf	"str"	"Saanich"		"p"				"str_montler2005.pdf"
 				"p̰"				
 				"ts̰"				
 				"s̰"				
@@ -5823,7 +5823,7 @@
 				"ə"				
 				"<u>"				
 
-997	"sas"	"Sasak"	"Puyang"	"ə"		"[ə]"	"""Elsewhere"""	"sas_austin1998.pdf"
+p60b46	"sas"	"Sasak"	"Puyang"	"ə"		"[ə]"	"""Elsewhere"""	"sas_austin1998.pdf"
 						"[ɜ]"	"""Word finally"""	
 				"e"		"[e]"	"""In unstressed position (first syllable of root) or word final position"""	
 						"[ɛ]"	"""In stressed position when in a closed syllable, or in initial syllalbe position if preceded by a voiced velar or bilabial consonant"""	
@@ -5862,7 +5862,7 @@
 				"ʔ"				
 				"h"				
 
-998	"srb"	"Savara"		"ə"				"srb_anonymous1927.pdf"
+pfeebd	"srb"	"Savara"		"ə"				"srb_anonymous1927.pdf"
 				"ɑ"				
 				"ʌ"				
 				"æ"				
@@ -5897,7 +5897,7 @@
 						"[ɡ]"	"after /ɡ/"	
 				"m"				
 
-999	"pos"	"Popoluca de Sayula"		"p"				"pos_clark1995.pdf"
+p9d234	"pos"	"Popoluca de Sayula"		"p"				"pos_clark1995.pdf"
 				"b"				
 				"f"				
 				"v"				
@@ -5923,7 +5923,7 @@
 				"u"				
 				"o"				
 
-1000	"sey"	"Secoya"		"p"				"sey_levinson1990.pdf"
+p3b5ab	"sey"	"Secoya"		"p"				"sey_levinson1990.pdf"
 				"m"				
 				"w"		"[w̃]"	"""When next to a nasal"""	
 				"t"				
@@ -5942,7 +5942,7 @@
 				"u"				
 				"o"		"[ɔ]"	"""Following /k/"""	
 
-1001	"trv"	"Sedik"		"p"				"trv_asal1969.pdf"
+pd9922	"trv"	"Sedik"		"p"				"trv_asal1969.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -5986,7 +5986,7 @@
 				"u"				
 				"ɯ"				
 
-1002	"ssg"	"Seimat"		"p"				"ssg_wozna-wilson2005.pdf"
+p77c99	"ssg"	"Seimat"		"p"				"ssg_wozna-wilson2005.pdf"
 				"m"		"[w]"	"""Free variation in certain lexical items"""	
 						"[m]"		
 				"w"		"[m]"	"""Free variation in certain lexical items"""	
@@ -6021,7 +6021,7 @@
 				"oi"				
 				"ou"				
 
-1003	"sza"	"Semelai"		"p"		"[p̚]"	"""In syllable final position"""	"sza_kruspe1999.pdf"
+p16010	"sza"	"Semelai"		"p"		"[p̚]"	"""In syllable final position"""	"sza_kruspe1999.pdf"
 				"t"		"[t̚]"	"""In syllable final position"""	
 				"c"		"[c̚]"	"""In syllable final position"""	
 						"[cç]"	"""in syllable initial position the …lamino-palatal [stops] are slightly affricated"""	
@@ -6076,7 +6076,7 @@
 				"õ"				
 				"ɔ̃"				
 
-1004	"ser"	"Serrano"		"p"				"ser_hill1967.pdf"
+pb4387	"ser"	"Serrano"		"p"				"ser_hill1967.pdf"
 				"f"				
 				"m"				
 				"t"	"not clear if dental"			
@@ -6119,7 +6119,7 @@
 				"a˞"	"author refers to sound as retroflexed; assumed to mean rhotized"			
 				"o˞"	"author refers to sound as retroflexed; assumed to mean rhotized"			
 
-1005	"sbf"	"Shabo"		"p"		"[p]"		"sbf_teferra1991.pdf"
+p526fe	"sbf"	"Shabo"		"p"		"[p]"		"sbf_teferra1991.pdf"
 						"[f]"	"Free variation"	
 						"[ʄ]"	"Free variation"	
 				"b"				
@@ -6168,7 +6168,7 @@
 				"˨"				
 				"˦"				
 
-1006	"ywn"	"Shanenawa"		"p"				"ywn_vieira2004.pdf"
+pf0a75	"ywn"	"Shanenawa"		"p"				"ywn_vieira2004.pdf"
 				"m"				
 				"f"		"[v]"	"free variation word initially"	
 				"t"				
@@ -6193,7 +6193,7 @@
 				"u"		"[ũ]"	"adjacent to a nasal"	
 						"[o]"	"free variation; unclear exact environment"	
 
-1007	"kde"	"Shimakonde"		"a"		"[aː]"	"""the penultimate vowel in a word or phrase is lengthened""; author suggests possibly due to penultimate syllable stress"	"kde_liphola2001.pdf"
+p8edec	"kde"	"Shimakonde"		"a"		"[aː]"	"""the penultimate vowel in a word or phrase is lengthened""; author suggests possibly due to penultimate syllable stress"	"kde_liphola2001.pdf"
 				"e"		"[eː]"		
 				"i"		"[iː]"		
 				"o"		"[oː]"		
@@ -6222,7 +6222,7 @@
 				"˩˥"				
 				"˧˦˧"				
 
-1008	"sna"	"Shona"		"i"				"sna_fortune1955.pdf"
+p2d163	"sna"	"Shona"		"i"				"sna_fortune1955.pdf"
 				"u"				
 				"e"				
 				"o"				
@@ -6265,7 +6265,7 @@
 				"t̠ʃ"				
 				"d̠ʒ"				
 
-1009	"bax"	"Shupamem"		"p"				"bax_nchare2005.pdf"
+pcb4da	"bax"	"Shupamem"		"p"				"bax_nchare2005.pdf"
 				"b"		"[p]"	"Initial and final position"	
 						"[b]"	"After a nasal"	
 						"[β]"	"Between two vowels"	
@@ -6313,7 +6313,7 @@
 				"o"				
 				"ɔ"				
 
-1010	"sjr"	"Siar-Lak"		"p"		"[p̚]"	"""In word final position"""	"sjr_rowe2005.pdf"
+p69851	"sjr"	"Siar-Lak"		"p"		"[p̚]"	"""In word final position"""	"sjr_rowe2005.pdf"
 				"b"		"[mb]"	"""optionally prenasalized before vowels"""	
 				"m"				
 				"ɸ"		"[ɸ]"	"""Word initially in utterance-initial position"""	
@@ -6337,7 +6337,7 @@
 				"e̝"				
 				"o̝"				
 
-1011	"skr"	"Siraiki"	"Central Pakistan"	"ʌ"				"skr_shackle1976.pdf"
+p07bc8	"skr"	"Siraiki"	"Central Pakistan"	"ʌ"				"skr_shackle1976.pdf"
 				"a"				
 				"ɪ"				
 				"i"				
@@ -6421,7 +6421,7 @@
 				"l"				
 				"lʱ"				
 
-1012	"sjw"	"Shawnee"		"i"		"[ɪ]"	"Varies"	"sjw_andrews1994.pdf"
+pa5f3f	"sjw"	"Shawnee"		"i"		"[ɪ]"	"Varies"	"sjw_andrews1994.pdf"
 				"iː"		"[i]"	"""a long vowel is shortened at the end of a word"""	
 				"o"				
 				"e"		"[ɛ]"	"Varies"	
@@ -6442,7 +6442,7 @@
 				"ʔ"		"[ʔ]"	"""In syllable final position"""	
 						"[h]"	"""At the beginning of a syllable"""	
 
-1013	"skv"	"Skou"		"p"		"[p]"		"skv_donohue2004.pdf"
+p442b6	"skv"	"Skou"		"p"		"[p]"		"skv_donohue2004.pdf"
 						"[pʷ]"	"""Only preceding non-rounded vowels"""	
 				"b"		"[b]"		
 						"[β]"	"""When intervocalic in a word or compound"""	
@@ -6489,7 +6489,7 @@
 				"˨"				
 				"˩˥"				
 
-1014	"thm"	"So"		"p"				"thm_migliazza1998.pdf"
+pe262d	"thm"	"So"		"p"				"thm_migliazza1998.pdf"
 				"b"				
 				"pʰ"				
 				"m"				
@@ -6562,7 +6562,7 @@
 				"ɯ̤a"				
 				"ṳa"				
 
-1015	"erk"	"South Efate"		"kp"		"[kp]"	"across syllable boundaries"	"erk_thieberger2004.pdf"
+p809a4	"erk"	"South Efate"		"kp"		"[kp]"	"across syllable boundaries"	"erk_thieberger2004.pdf"
 						"[p]"	"free variation"	
 						"[k]"	"free variation"	
 				"p"		"[p̚]"	"""Word finally"""	
@@ -6597,7 +6597,7 @@
 				"o"		"[ɔ]"	"""Before the rhotic [r]"""	
 						"[o]"	"""Elsewhere"""	
 
-1016	"spo"	"Spokan"		"p"		"[pʰ]"	"""Final stops are strongly aspirated"""	"spo_carlson1972.pdf"
+p1ed1b	"spo"	"Spokan"		"p"		"[pʰ]"	"""Final stops are strongly aspirated"""	"spo_carlson1972.pdf"
 				"t"		"[tʰ]"	"""Final stops are strongly aspirated"""	
 				"ts"				
 				"t̠ʃ"				
@@ -6644,7 +6644,7 @@
 						"[o]"	"""Occasionally"""	
 				"u"		"[o]"	"""There are cases of free variation, this allophone seems to be conditioned by postvelars"""	
 
-1017	"sot"	"Sesotho"		"b"				"sso_demuth1992.pdf"
+pbd092	"sot"	"Sesotho"		"b"				"sso_demuth1992.pdf"
 				"pʼ"				
 				"pʰ"				
 				"tʼ"				
@@ -6691,7 +6691,7 @@
 				"ʊ"				
 				"u"				
 
-1018	"stw"	"Satawalese"		"p"				"stw_roddy2007.pdf"
+p5b409	"stw"	"Satawalese"		"p"				"stw_roddy2007.pdf"
 				"pʷˠ"		"[bʷˠ]"	"""Intervocalically"""	
 				"t̪"				
 				"k"				
@@ -6734,7 +6734,7 @@
 				"oː"				
 				"uː"				
 
-1019	"ulw"	"Sumo"	"Ulwa"	"b"			"""do not appear in preconsonantal or word-final positions"""	"ulw_green1999.pdf"
+pf9780	"ulw"	"Sumo"	"Ulwa"	"b"			"""do not appear in preconsonantal or word-final positions"""	"ulw_green1999.pdf"
 				"d"			"""do not appear in preconsonantal or word-final positions"""	
 				"<ɡ>"	"English loanwords"			
 				"p"		"[p̚]"	"""In word-final position or when followed by a stop"""	
@@ -6763,7 +6763,7 @@
 				"u"				
 				"uː"				
 
-1020	"jup"	"Hup"		"i"		"[ĩ]"	"in nasal contexts, none specific given"	"jup_epps2005.pdf"
+p97af7	"jup"	"Hup"		"i"		"[ĩ]"	"in nasal contexts, none specific given"	"jup_epps2005.pdf"
 						"[ḭ]"	"adjacent to a glottal stop, especially when following a glottal stop; following a glottalized stop"	
 				"ɨ"		"[ɨ̃]"	"in nasal contexts, none specific given"	
 						"[ɨ̰]"	"adjacent to a glottal stop, especially when following a glottal stop; following a glottalized stop"	
@@ -6830,7 +6830,7 @@
 				"j̰"		"[dj]"	"morpheme initially, laryngealized realized on vowel"	
 						"[jʔ]"	"morpheme finally"	
 
-1021	"zoh"	"San Miguel Chimalapa Zoque"		"p"		"[b]"	"/p/ becomes voiced in the environments {vowels, nasals, /j/}"	"zoh_johnson2000.pdf"
+p35e6e	"zoh"	"San Miguel Chimalapa Zoque"		"p"		"[b]"	"/p/ becomes voiced in the environments {vowels, nasals, /j/}"	"zoh_johnson2000.pdf"
 				"t"		"[d]"	"/d/ becomes voiced in the environments {vowels, nasals, /j/}"	
 						"[t̠ʃ]"	"when followed by /ʃ/, affrication of two segments occur"	
 				"k"		"[ɡ]"	"/ɡ/ becomes voiced in the environments {vowels, nasals, /j/}"	
@@ -6858,7 +6858,7 @@
 				"<r>"	"borrowed consonants that appear in Zoque words"			
 				"<l>"	"borrowed consonants that appear in Zoque words"			
 
-1022	"ztp"	"Zapotec"	"Loxicha"	"ts̪"				"ztp_beam2004.pdf"
+pd41e5	"ztp"	"Zapotec"	"Loxicha"	"ts̪"				"ztp_beam2004.pdf"
 				"ʈʂ"	"note: described as retroflex alveolar affricate"			
 				"p"		"[pʰ]"	"heavily aspirated in word final position"	
 						"[p̚]"	"often in word final position, in free variation with heavily aspirated allophone"	
@@ -6895,7 +6895,7 @@
 				"ɔ"				
 				"ɛ"				
 
-1023	"yuk"	"Yuki"		"p"				"yuk_schlicter1985.pdf"
+p7255c	"yuk"	"Yuki"		"p"				"yuk_schlicter1985.pdf"
 				"p̰"				
 				"t̪"				
 				"t̪ʼ"	"glottalized dental"			
@@ -6926,7 +6926,7 @@
 				"u"				
 				"a"				
 
-1024	"yap"	"Yapese"		"p"				"yap_ballantyne2005.pdf"
+p108d3	"yap"	"Yapese"		"p"				"yap_ballantyne2005.pdf"
 				"p̰"				
 				"f"				
 				"f̰"				
@@ -6972,7 +6972,7 @@
 				"œː"				
 				"aː"				
 
-1025	"yur"	"Yurok"		"i"				"yur_robins1958.pdf"
+paec4a	"yur"	"Yurok"		"i"				"yur_robins1958.pdf"
 				"e"				
 				"a"				
 				"o"				
@@ -7009,7 +7009,7 @@
 				"j"		"[ʔj]"	"only before a vowel, pre-glottalized"	
 				"ɣ"				
 
-1026	"yuz"	"Yuracure"		"p"		"[p̚]"		"yuz_gijn2006.pdf"
+p4cfc1	"yuz"	"Yuracure"		"p"		"[p̚]"		"yuz_gijn2006.pdf"
 				"t"				
 				"t̠ʃ"				
 				"k"				
@@ -7037,7 +7037,7 @@
 				"a"		"[ɑ]"	"in a closed syllable"	
 				"<ʔ>"				
 
-1027	"yux"	"Yukaghir (Kolyma)"	"Southern"	"p"				"yux_maslova2003.pdf"
+peb338	"yux"	"Yukaghir (Kolyma)"	"Southern"	"p"				"yux_maslova2003.pdf"
 				"t̪"				
 				"d̪"				
 				"k"				
@@ -7073,7 +7073,7 @@
 				"ø"				
 				"øː"		"[uø]"	"in stressed syllables"	
 
-1028	"wbm"	"Wa"	"Ban Santisuk Moo"	"p"		"[p̚]"	"syllable finally in free variation with [pʰ]"	"wbm_wattana1998.pdf"
+p896af	"wbm"	"Wa"	"Ban Santisuk Moo"	"p"		"[p̚]"	"syllable finally in free variation with [pʰ]"	"wbm_wattana1998.pdf"
 						"[pʰ]"	"syllable finally in free variation with [p̚]"	
 				"t"		"[t̚]"	"syllable finally in free variation with [tʰ]"	
 						"[tʰ]"	"syllable finally in free variation with [t̚]"	
@@ -7127,7 +7127,7 @@
 				"ao"				
 				"ɔi"				
 
-1029	"wms"	"Wambon"		"p"		"[p̚]"	"in final position"	"wms_vries1992.pdf"
+p27a26	"wms"	"Wambon"		"p"		"[p̚]"	"in final position"	"wms_vries1992.pdf"
 				"t"		"[t̚]"	"in final position"	
 				"k"		"[k̚]"	"in final position"	
 				"mb"			"prenasalized"	
@@ -7155,7 +7155,7 @@
 				"au"				
 				"oi"				
 
-1030	"was"	"Washo"		"p"		"[pʰ]"	"before a vowel or an intonation"	"was_jacobsen1964.pdf"
+pc5d9d	"was"	"Washo"		"p"		"[pʰ]"	"before a vowel or an intonation"	"was_jacobsen1964.pdf"
 				"t"		"[tʰ]"	"before a vowel or an intonation"	
 				"k"		"[kʰ]"	"before a vowel or an intonation"	
 				"ʔ"				
@@ -7188,7 +7188,7 @@
 				"o"		"[oː]"		
 				"a"		"[aː]"		
 
-1031	"way"	"Wayana"		"i"		"[ĩ]"	"when followed by nasal consonants in coda final position"	"way_silva-tavares2005"
+p64114	"way"	"Wayana"		"i"		"[ĩ]"	"when followed by nasal consonants in coda final position"	"way_silva-tavares2005"
 						"[i̥]"	"in free variation with [i] between [ʃ] and a voiceless consonant"	
 				"ɨ"		"[ɨ̃]"	"when followed by nasal consonants in coda final position"	
 				"u"		"[uː]"		
@@ -7216,7 +7216,7 @@
 				"w"		"[β]"	"before front vowels, in free variation"	
 				"j"		"[jʒ]"	"mostly before [u] and [e]"	
 
-1032	"woc"	"Wogeo"		"t̪"		"[t̪̚]"	"in syllable final position"	"woc_exter2003.pdf"
+p0248b	"woc"	"Wogeo"		"t̪"		"[t̪̚]"	"in syllable final position"	"woc_exter2003.pdf"
 				"k"		"[k̚]"	"syllable final position"	
 						"[q]"	"after [a o] when no vowel follows; before [a o] when no vowel follows"	
 						"[q̚]"	"syllable final position, free variation"	
@@ -7254,7 +7254,7 @@
 				"u"		"[ʊ]"		
 						"[ʊː]"		
 
-1033	"var"	"Warihio"		"p"				"var_armendariz2005.pdf"
+pa0802	"var"	"Warihio"		"p"				"var_armendariz2005.pdf"
 				"t"				
 				"k"				
 				"ɾ"				
@@ -7281,7 +7281,7 @@
 				"ue"				
 				"ei"				
 
-1034	"vai"	"Vai"		"p"				"vai_welmers1976.pdf"
+p3eb79	"vai"	"Vai"		"p"				"vai_welmers1976.pdf"
 				"t"				
 				"c"				
 				"k"				
@@ -7326,7 +7326,7 @@
 				"˩˥"				
 				"˥˩"				
 
-1035	"ukr"	"Ukrainian"		"ʒ"		"[ʒʲ]"	"before [i]"	"ukr_pugh1999.pdf"
+pdcef0	"ukr"	"Ukrainian"		"ʒ"		"[ʒʲ]"	"before [i]"	"ukr_pugh1999.pdf"
 				"b"		"[bʲ]"	"before [i]"	
 				"v"		"[β]"	"free variation with [v] in some speakers"	
 				"h"				
@@ -7359,7 +7359,7 @@
 				"u"				
 				"<w>"				
 
-1036	"phl"	"Palula (Phalura)"		"p"		"[pʰ]"	"intervocalically"	"phl_liljegren2008.pdf"
+p7b267	"phl"	"Palula (Phalura)"		"p"		"[pʰ]"	"intervocalically"	"phl_liljegren2008.pdf"
 						"[ɸ]"	"intervocalically"	
 				"t̪"		"[tʰ]"	"intervocalically"	
 				"ʈ"		"[ʈʰ]"	"intervocalically"	
@@ -7407,7 +7407,7 @@
 				"aː"				
 				"oː"				
 
-1037	"mky"	"East Makian"		"b"		"[b̚]"	"unreleased before a pause"	"mky_bowden1997.pdf"
+p195de	"mky"	"East Makian"		"b"		"[b̚]"	"unreleased before a pause"	"mky_bowden1997.pdf"
 				"d"		"[d̚]"		
 				"ɡ"		"[ɡ̚]"		
 				"p"		"[p̚]"		
@@ -7436,7 +7436,7 @@
 				"o"		"[ɔ]"	"often subject to glide replacement when it occurs as the initial unstressed element of a vowel sequence"	
 				"a"				
 
-1038	"tpj"	"Tapiete"		"p"				"tpj_gonzalez2005.pdf"
+pb7955	"tpj"	"Tapiete"		"p"				"tpj_gonzalez2005.pdf"
 				"t"				
 				"k"		"[t̠ʃ]"	"before the front vowels [i] and [e]"	
 				"kʷ"				
@@ -7464,7 +7464,7 @@
 				"o"				
 				"õ"				
 
-1039	"bjz"	"Baruga"		"b"		"[mb]"		"bjz_farr.pdf"
+p55ccc	"bjz"	"Baruga"		"b"		"[mb]"		"bjz_farr.pdf"
 				"d"		"[nd]"		
 				"k"		"[kʰ]"		
 				"ɡ"		"[ŋɡ]"		
@@ -7489,7 +7489,7 @@
 				"õ"				
 				"ũ"				
 
-1040	"tav"	"Tatuyo"		"p"				"tav_bostrom1998.pdf"
+pf4043	"tav"	"Tatuyo"		"p"				"tav_bostrom1998.pdf"
 				"t"				
 				"k"				
 				"b"		"[m]"	"in nasal morphemes"	
@@ -7511,7 +7511,7 @@
 				"o"		"[õ]"	"in nasal morphemes"	
 				"a"		"[ã]"	"in nasal morphemes"	
 
-1041	"tgw"	"Tagwana"		"p"				"tgw_casimir1998.pdf"
+p923ba	"tgw"	"Tagwana"		"p"				"tgw_casimir1998.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -7557,7 +7557,7 @@
 				"ã"				
 				"ãː"				
 
-1042	"mzn"	"Mazanderani"		"p"		"[pʰ]"	"at the beginning of a word"	"mzn_mohktarian2004.pdf"
+p30731	"mzn"	"Mazanderani"		"p"		"[pʰ]"	"at the beginning of a word"	"mzn_mohktarian2004.pdf"
 				"t"		"[tʰ]"	"at the beginning of a word"	
 				"k"		"[kʰ]"	"at the beginning of a word"	
 				"b"	"""weak voiced"" vs ""devoiced"""	"[b̤]"	"In German ""weak voiced consonant"" Regarding symbol??"	
@@ -7589,7 +7589,7 @@
 				"o"		"[oː]"	"in a  monosyllablic word when stressed"	
 				"u"		"[uː]"	"in a  monosyllablic word when stressed"	
 
-1043	"blk"	"Pa-O, Taungthu"	"Huay Salop"	"p"				"blk_orranat2000.pdf"
+pceaa8	"blk"	"Pa-O, Taungthu"	"Huay Salop"	"p"				"blk_orranat2000.pdf"
 				"t"				
 				"c"				
 				"k"				
@@ -7624,7 +7624,7 @@
 				"˦˥"				
 				"˧"				
 
-1044	"tft"	"Ternate"		"p"				"tft_hayami2001.pdf"
+p6ce1f	"tft"	"Ternate"		"p"				"tft_hayami2001.pdf"
 				"t"				
 				"t̠ʃ"				
 				"k"				
@@ -7650,7 +7650,7 @@
 				"o"		"[oː]"	"final, stressed vowels are long"	
 				"a"		"[aː]"	"final, stressed vowels are long"	
 
-1045	"tob"	"Toba (Argentina)"		"pʰ"		"[p̚]"	"occurs in syllable final position"	"tob_klein1973.pdf"
+p0b196	"tob"	"Toba (Argentina)"		"pʰ"		"[p̚]"	"occurs in syllable final position"	"tob_klein1973.pdf"
 				"kʰ"		"[k̚]"	"occurs in syllable final position"	
 				"tʰ"		"[t̚]"	"occurs word final"	
 						"[t]"	"occurs syllable final"	
@@ -7684,7 +7684,7 @@
 				"<b>"	"from Spanish"			
 				"<d>"	"from Spanish"			
 
-1046	"pol"	"Polish"		"p"				"pol_jassem2003.pdf"
+pa950d	"pol"	"Polish"		"p"				"pol_jassem2003.pdf"
 				"b"				
 				"m"				
 				"f"				
@@ -7723,7 +7723,7 @@
 				"o"				
 				"a"				
 
-1047	"cmn"	"Standard Chinese; Mandarin"	"Beijing"	"p"				"cmn_lee2003_phon"
+p47884	"cmn"	"Standard Chinese; Mandarin"	"Beijing"	"p"				"cmn_lee2003_phon"
 				"pʰ"				
 				"m"				
 				"w"				
@@ -7773,7 +7773,7 @@
 				"˧˨˧"	"mid to low to mid dipping"			
 				"˦˨"	"high to low falling"			
 
-1048	"ijn"	"Kalabari; Kirike; Kalabari-Ijo"	"Kalabari-Ijo"	"m"				"ijn_harry2003.pdf"
+pe5bfb	"ijn"	"Kalabari; Kirike; Kalabari-Ijo"	"Kalabari-Ijo"	"m"				"ijn_harry2003.pdf"
 				"p"		"[pʷ]"	"""Obstruents are labialized when they occur before a sequence of a back vowel followed by another vowel"""	
 						"[pʲ]"	"""Obstruents are palatalized when they occure before a sequence of a close front vowel followed by another vowel"""	
 				"b"		"[bʷ]"	"""Obstruents are labialized when they occur before a sequence of a back vowel followed by another vowel"""	
@@ -7827,7 +7827,7 @@
 				"˨"				
 				"↓˦"				
 
-1049	"ydd"	"Standard Yiddish"		"p"				"ydd_kleine2003.pdf"
+p83f72	"ydd"	"Standard Yiddish"		"p"				"ydd_kleine2003.pdf"
 				"b"				
 				"m"				
 				"f"				
@@ -7875,7 +7875,7 @@
 				"aɛ"				
 				"ɔɛ"				
 
-1050	"nld"	"Dutch"	"Belgian Standard"	"p"				"nld_verhoeven2007.pdf"
+p222e9	"nld"	"Dutch"	"Belgian Standard"	"p"				"nld_verhoeven2007.pdf"
 				"b"				
 				"m"		"[ɱ]"	"When /m/ is followed by a labiodental fricative"	
 				"w"				
@@ -7915,7 +7915,7 @@
 				"œy"				
 				"ɔu"				
 
-1051	"mla"	"Tamambo; Malo"		"mb"				"mla_riehl-jauncey2005.pdf"
+pc0660	"mla"	"Tamambo; Malo"		"mb"				"mla_riehl-jauncey2005.pdf"
 				"m"				
 				"β"				
 				"mbʷ"				
@@ -7937,7 +7937,7 @@
 				"o"		"[õ]"	"Nasalized after nasals"	
 				"a"		"[ã]"	"Nasalized after nasals"	
 
-1052	"gay"	"Gayo"		"p"		"[p̚]"	"Word-finally"	"gay_eades2006.pdf"
+p5e9d7	"gay"	"Gayo"		"p"		"[p̚]"	"Word-finally"	"gay_eades2006.pdf"
 				"b"				
 				"m"				
 				"t"	"Alveodental"	"[t̚]"	"Word-finally"	
@@ -7976,7 +7976,7 @@
 						"[əː]"	"""In penultimate syllables of roots whose final (i.e. stressed) syllable is closed and contains /ə/"""	
 						"[ɤː]"	"""In penultimate syllables of vowel-final roots that end with /ə/"""	
 
-1053	"jam"	"Jamaican Creole"		"m"				"jam_Harry2006_phon"
+pfcd4e	"jam"	"Jamaican Creole"		"m"				"jam_Harry2006_phon"
 				"p"		"[pʷ]"	"""Obstruents become labialized when they occur before a sequence of a back vowel followed by a non-back vowel"""	
 						"[pʲ]"	"""Obstruents are palatalized before a sequence of non-low front vowel and back vowel"""	
 				"b"		"[bʷ]"	"""Obstruents become labialized when they occur before a sequence of a back vowel followed by a non-back vowel"""	
@@ -8026,7 +8026,7 @@
 				"au"				
 				"ua"				
 
-1054	"mcs"	"Mambay; Mambai"		"p"				"mcs_anonby2006.pdf"
+p9b0c5	"mcs"	"Mambay; Mambai"		"p"				"mcs_anonby2006.pdf"
 				"b"				
 				"ɓ"			"""Word-initial, syllable-initial"""	
 						"[ʔm̰]"	"""Before a nasalized vowel"""	
@@ -8092,7 +8092,7 @@
 				"˨˦"				
 				"˨"				
 
-1055	"arg"	"Aragonese"	"Chistabino"	"p"				"arg_Mott2007_phon"
+p3943c	"arg"	"Aragonese"	"Chistabino"	"p"				"arg_Mott2007_phon"
 				"b"		"[β̞]"	"Between vowels"	
 				"m"	"Undergo Homorganic Nasal Assimilation"			
 				"f"				
@@ -8139,7 +8139,7 @@
 				"u̯ei̯"				
 				"u̯ai̯"				
 
-1056	"zts"	"Tilquiapan Zapotec"		"p"				"zts_merrill2008_phon.pdf"
+pd77b3	"zts"	"Tilquiapan Zapotec"		"p"				"zts_merrill2008_phon.pdf"
 				"b"		"[β]"	"""Fricative allophones of /b/ and /d/ occur intervocalically and elsewhere as in Spanish"""	
 				"m"				
 				"t̪"				
@@ -8171,7 +8171,7 @@
 				"˦"				
 				"˨"				
 
-1057	"ibb"	"Ibibio"	"Uruan area and Uyo"	"b"		"[p]"	"""Complementary distribution""; possibly word finally given the examples"	"ibb_urua2004.pdf"
+p75b2a	"ibb"	"Ibibio"	"Uruan area and Uyo"	"b"		"[p]"	"""Complementary distribution""; possibly word finally given the examples"	"ibb_urua2004.pdf"
 						"[β]"	"Intervocalically"	
 				"m"				
 				"mː"			"Only contrast in intervocalic position"	
@@ -8206,7 +8206,7 @@
 				"˦"				
 				"˨"				
 
-1058	"tam"	"Tamil"	"Standard Spoken Tamil"	"p"		"[b]"	"""After nasal segments"""	"tam_keane2004.pdf"
+p13ea1	"tam"	"Tamil"	"Standard Spoken Tamil"	"p"		"[b]"	"""After nasal segments"""	"tam_keane2004.pdf"
 						"[β̞]"	"""Intervocalically… for bilabials there may be further weakening to an approximant"""	
 				"<b>"	"Loan"			
 				"m"				
@@ -8252,7 +8252,7 @@
 						"[a]"	"""Non-initial syllables"" (depending on the dialect)"	
 				"aʊ"				
 
-1059	"zpq"	"San Bartolomé Zoogocho Zapotec"	"zxon"	"p͉"	"Fortis"			"zpq_sonnenschein2004.pdf"
+pb2218	"zpq"	"San Bartolomé Zoogocho Zapotec"	"zxon"	"p͉"	"Fortis"			"zpq_sonnenschein2004.pdf"
 				"b"	"Lenis"			
 				"m͉"	"Fortis"			
 				"w"		"[β]"	"some speaker''s varieties"'	
@@ -8322,7 +8322,7 @@
 				"˥˩"	"""Unfortunately, I have not completed a systematic study of tone in all of its myriad aspects at this point."""			
 				"˩˥"	"""Unfortunately, I have not completed a systematic study of tone in all of its myriad aspects at this point."""			
 
-1060	"bgo"	"Baga Koga; Koba; Barka"		"b"				"bgo_relich1973.pdf"
+p5058f	"bgo"	"Baga Koga; Koba; Barka"		"b"				"bgo_relich1973.pdf"
 				"ɡb"		"[ɠɓ]"	"""Can be implosive and glottalized when strongly articulated in initial position"""	
 				"d"				
 				"f"				
@@ -8348,7 +8348,7 @@
 				"o"				
 				"ɔ"				
 
-1061	"nxl"	"Southern Nuautl"		"p"		"[b]"	"""word medially following an /n/""; elsewhere ""voiceless bilabial unaspirated stop"""	"nxl_bolton1990.pdf"
+pee906	"nxl"	"Southern Nuautl"		"p"		"[b]"	"""word medially following an /n/""; elsewhere ""voiceless bilabial unaspirated stop"""	"nxl_bolton1990.pdf"
 				"m"			"""voiced bilabial nasal. Occurs in word initial, medial and final positions."""	
 				"w"			"""Voiced labialvelar non-syllabic semi vowel. Occurs word initial and medial in the onset of syllables."""	
 				"t"			"""voiceless alveolar unaspirated stop.  Occurs word initial and medial in the onset of syllables"""	
@@ -8369,7 +8369,7 @@
 				"o"		"[ɔ]"	"""Occurs before a consonant word medially.  In a V syllable in word initial position or in word final position it occurs in free variation with [o]"""	
 				"a"			"""Voiced low tense central unrounded vocoid. Occurs word initially, medially, and finally."""	
 
-1062	"slu"	"Selaru"		"b"				"slu_coward1990.pdf"
+p8cc7d	"slu"	"Selaru"		"b"				"slu_coward1990.pdf"
 				"f"				
 				"m"				
 				"w"			"""Any time a morpheme is written with a y [j] or w morpheme finally it seems that that segment has the ability to metathesize across to any following morphemes (with simple consonant onsets)"""	
@@ -8389,7 +8389,7 @@
 				"o"		"[ɔ]"	"""There is some tendancy for mid-vowels to lax in closed syllables"""	
 				"a"				
 
-1063	"tvd"	"Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto"		"p"	"""Consonants can be either short or long"""			"tvd_lovelace1992.pdf"
+p2aff4	"tvd"	"Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto"		"p"	"""Consonants can be either short or long"""			"tvd_lovelace1992.pdf"
 				"b"	"""Consonants can be either short or long"""			
 				"ɓ"	"""Glottalized""; ""Consonants can be either short or long"""			
 				"f"	"""Consonants can be either short or long"""			
@@ -8442,7 +8442,7 @@
 				"˦"				
 				"˨"				
 
-1064	"wos"	"Hanga Hundi; Kwasengen; West Wosera"		"b"		"[mb]"	"""prenasalized plosives must be treated as two segments for syllabification, but as single segments with regard to other phonological processes"""	"wos_wendal1993_pdf"
+pc936b	"wos"	"Hanga Hundi; Kwasengen; West Wosera"		"b"		"[mb]"	"""prenasalized plosives must be treated as two segments for syllabification, but as single segments with regard to other phonological processes"""	"wos_wendal1993_pdf"
 				"ɸ"		"[p]"	"No discussion found concerning the environment for the allophone."	
 				"m"				
 				"t"		"[tʰ]"	"No discussion found concerning the environment for the allophone."	
@@ -8473,7 +8473,7 @@
 				"o"		"[ɔ]"		
 				"a"		"[aʔa]"	"Used for contrast with /ə/"	
 
-1065	"blr"	"Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi"'		"p"				"blr_block1994.pdf"
+p676e2	"blr"	"Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi"'		"p"				"blr_block1994.pdf"
 				"pʰ"				
 				"f"				
 				"m"				
@@ -8514,7 +8514,7 @@
 				"˦"		"[˧˥]"	"""With sonorant finals"""	
 				"˨"		"[˧˩]"	"""With sonorant finals"""	
 
-1066	"txx"	"Tatana''; Tatanaq; Tatana"'		"p"		"[p̚]"	"""Word finally"""	"txx_dillon1994.pdf"
+p05a59	"txx"	"Tatana''; Tatanaq; Tatana"'		"p"		"[p̚]"	"""Word finally"""	"txx_dillon1994.pdf"
 				"b"		"[b̚]"	"""Word finally"""	
 				"m"				
 				"w"				
@@ -8541,7 +8541,7 @@
 				"a"		"[æ]"	"""Occurs when followed by /j/"""	
 						"[ʌ]"	"""Occurs in unstressed positions"""	
 
-1067	"bod"	"Tibetan"	"Lhasa"	"p"				"bod_cha1995.pdf"
+pa3dd0	"bod"	"Tibetan"	"Lhasa"	"p"				"bod_cha1995.pdf"
 				"pʰ"				
 				"m"				
 				"w"				
@@ -8576,7 +8576,7 @@
 				"˦"	"Duanmu (1992)"			
 				"˨˦"	"Duanmu (1992)"			
 
-1068	"ruk"	"Che; Rukuba; Kuche; Bache; Inchazi; Sale"		"i"				"ruk_wilson1996.pdf"
+p42147	"ruk"	"Che; Rukuba; Kuche; Bache; Inchazi; Sale"		"i"				"ruk_wilson1996.pdf"
 				"iː"				
 				"u"				
 				"uː"				
@@ -8634,7 +8634,7 @@
 				"˧"				
 				"˨"				
 
-1069	"tol"	"Tolowa; Tolowa-Chetco"		"p"				"tol_bommelyn1997.pdf"
+pe04be	"tol"	"Tolowa; Tolowa-Chetco"		"p"				"tol_bommelyn1997.pdf"
 				"pʰ"				
 				"m"				
 				"w"				
@@ -8667,7 +8667,7 @@
 						"[æ]"	"When in an open syllable and followed by any consonant other than /ɣ/, /x/ or /ʔ/"	
 				"ɑ"	"low back vowel /a/?"	"[ɑː]"	"""Vowels in Tolowa are obligatorily lengthened in open syllables""; Lengthened word finally only in monosyllabic words"	
 
-1070	"pae"	"Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete"		"p"				"pae_reeder1998.pdf"
+p7e835	"pae"	"Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete"		"p"				"pae_reeder1998.pdf"
 				"b"				
 				"ɓ"				
 				"m"				
@@ -8719,7 +8719,7 @@
 				"˦"				
 				"˨"				
 
-1071	"cho"	"Choctaw"		"p"				"cho_broadwell.pdf"
+p1cbac	"cho"	"Choctaw"		"p"				"cho_broadwell.pdf"
 				"b"				
 				"f"				
 				"m"				
@@ -8744,7 +8744,7 @@
 						"[ã]"	"""Nasal vowels are probably derived from underlying sequences of a vowel plus a nasal consonant by rule"	
 				"aː"				
 
-1072	"crg"	"Michif"		"ʰp"				"crg_rosen2007.pdf"
+pbaf23	"crg"	"Michif"		"ʰp"				"crg_rosen2007.pdf"
 				"p"		"[b]"	"When adjacent to a nasal consonant at a morpheme boundary"	
 				"b"				
 				"m"				
@@ -8787,7 +8787,7 @@
 				"ɔ̃"				
 				"ã"				
 
-1073	"plg"	"Pilaga; Pilagá"		"p"		"[pʼ]"	"""Free variation in syllable initial position"""	"plg_vidal2001.pdf"
+p5929a	"plg"	"Pilaga; Pilagá"		"p"		"[pʼ]"	"""Free variation in syllable initial position"""	"plg_vidal2001.pdf"
 				"m"				
 				"w"		"[β]"	"""The labiovelar /w/ has a bilabial fricative allophone when followed by [+high] vowel"""	
 				"t"		"[tʼ]"	"""Free variation in syllable initial position"""	
@@ -8816,7 +8816,7 @@
 				"o"	"mid back rounded"	"[ɔ]"	"""In contact with uvular and pharyngeal consonants"""	
 				"ʌ"	"mid back unrounded, listed as /a/"	"[ɑ]"	"""In contact with uvular and pharyngeal consonants"""	
 
-1074	"yuc"	"Euchee; Yuchi"		"p"		"[b]"	"""Unaspirated stops are often voiced in intial position and may be voiced between vowels as well"""	"yuc_linn2001.pdf"
+pf7611	"yuc"	"Euchee; Yuchi"		"p"		"[b]"	"""Unaspirated stops are often voiced in intial position and may be voiced between vowels as well"""	"yuc_linn2001.pdf"
 				"pʰ"				
 				"pʼ"				
 				"b"				
@@ -8877,7 +8877,7 @@
 				"ɑ̃"		"[ə]"	"""In unstressed position"""	
 						"[ʌ]"	"""In stressed positions"""	
 
-1075	"bwi"	"Kurripako; Baniwa; Baniwa (Icana)"	"Ehe-Khenim"	"p"				"bwi_granadillo2006.pdf"
+p95988	"bwi"	"Kurripako; Baniwa; Baniwa (Icana)"	"Ehe-Khenim"	"p"				"bwi_granadillo2006.pdf"
 				"b"				
 				"pʰ"				
 				"m"				
@@ -8915,7 +8915,7 @@
 				"au"				
 				"ai"				
 
-1076	"ktn"	"Karitiana; Karitiâna"		"p"		"[p̚]"	"""syllable-final position"""	"ktn_everett2006.pdf"
+p33cff	"ktn"	"Karitiana; Karitiâna"		"p"		"[p̚]"	"""syllable-final position"""	"ktn_everett2006.pdf"
 						"[b]"	"Free variation with [p̚]"	
 						"[w]"	"""At morpheme boundaries prior to vowel-initial morphemes"""	
 				"m"		"[b]"	"""Word-initially, /m/ and /n/ are typically instantiated by [b] and [d], unless they precede a nasal vowel, in which case [m] and [n] surface"""	
@@ -8956,7 +8956,7 @@
 				"aː"				
 				"ã"				
 
-1077	"esi"	"Iñupiaq; Iñupiat; Inupiat; Inupiaq"		"p"		"[v]"	"""Only in the process of suffixation""; Intervocalically"	"esi_nagai2006.pdf"
+pd2076	"esi"	"Iñupiaq; Iñupiat; Inupiat; Inupiaq"		"p"		"[v]"	"""Only in the process of suffixation""; Intervocalically"	"esi_nagai2006.pdf"
 				"v"				
 				"m"				
 				"t"		"[t̠ʃ]"	"""Word-finally"";""When directly preceded by (strong) /i/ or preceded by a consonant preceded by (strong) /i/"""	
@@ -8989,7 +8989,7 @@
 				"u"				
 				"a"				
 
-1078	"zab"	"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía"		"p"	"Fortis"		"No description of allophonic variation"	"zab_lillehaugen2006.pdf"
+p703ed	"zab"	"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía"		"p"	"Fortis"		"No description of allophonic variation"	"zab_lillehaugen2006.pdf"
 				"b"	"Lenis"		"No description of allophonic variation"	
 				"mː"	"Fortis"		"No description of allophonic variation"	
 				"m"	"Lenis"		"No description of allophonic variation"	
@@ -9037,7 +9037,7 @@
 				"a̤"			"No description of allophonic variation"	
 				"a̰"			"No description of allophonic variation"	
 
-1079	"tzo"	"Tzotzil, Chamula"	"Petalcingo"	"p"				"tzo_shklovsky2005.pdf"
+p0e764	"tzo"	"Tzotzil, Chamula"	"Petalcingo"	"p"				"tzo_shklovsky2005.pdf"
 				"b"		"[p]"	"""devoice(s) word finally, or at a morpheme boundary when not followed by a vowel"""	
 				"pʼ"				
 				"m"		"[m̻]"	"""devoice(s) word finally, or at a morpheme boundary when not followed by a vowel"""	
@@ -9065,7 +9065,7 @@
 				"o"				
 				"a"				
 
-1080	"sid"	"Sidaama; Sidamo; Sidamic"		"b"		"[w]"	"Intervocalically"	"sid_kawachi2007.pdf"
+pacadb	"sid"	"Sidaama; Sidamo; Sidamic"		"b"		"[w]"	"Intervocalically"	"sid_kawachi2007.pdf"
 				"pʼ"				
 				"m"		"[n̪]"	"Before /t̪/"	
 				"w"				
@@ -9101,7 +9101,7 @@
 				"a"				
 				"aː"				
 
-1081	"bdr"	"Bajau, West Coast; Land Bajaw; West Coast Bajao"		"p"		"[p̚]"	"""Word-final position"""	"bdr_miller2007.pdf"
+p4ae52	"bdr"	"Bajau, West Coast; Land Bajaw; West Coast Bajao"		"p"		"[p̚]"	"""Word-final position"""	"bdr_miller2007.pdf"
 				"b"		"[b̚]"	"""Word-final position"""	
 				"m"		"[m̩]"	"""Word-initial position before a consonant"""	
 				"t̪"		"[t̪̚]"	"""Word-final position"""	
@@ -9126,7 +9126,7 @@
 				"ə"				
 				"a"				
 
-1082	"cid"	"Chimariko"		"p"		"[b]"	"""Noticeable is the sporadic voicing of plain stops and affricates word-medially in a voiced environment, i.e. in inter-vocalic position and after nasals""; no example given"	"cid_jany2007.pdf"
+pe91c9	"cid"	"Chimariko"		"p"		"[b]"	"""Noticeable is the sporadic voicing of plain stops and affricates word-medially in a voiced environment, i.e. in inter-vocalic position and after nasals""; no example given"	"cid_jany2007.pdf"
 				"pʼ"				
 				"pʰ"				
 				"t"		"[t]"	"""Noticeable is the sporadic voicing of plain stops and affricates word-medially in a voiced environment, i.e. in inter-vocalic position and after nasals""; no example given"	
@@ -9169,7 +9169,7 @@
 				"oi"				
 				"ui"				
 
-1083	"tee"	"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla"		"p"		"[p̚]"	"""In word final position, the stops are optionally unreleased"""	"tee_kung2007.pdf"
+p87540	"tee"	"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla"		"p"		"[p̚]"	"""In word final position, the stops are optionally unreleased"""	"tee_kung2007.pdf"
 						"[b]"	"""Between two voiced sounds, such as a nasal and a vowel or a vowel and a vowel, it is optionally voiced"""	
 				"<b>"	"loanwords"		"""occur only in Spanish borrowings and as allophones of their voiceless counterparts"""	
 				"ɓ"	"""/pʼ/ and /tʼ/ are phonetically closer to the implosive stops [ɓ] and [ɗ], respectively"""			
@@ -9214,7 +9214,7 @@
 				"a"				
 				"aː"				
 
-1084	"ute"	"Southern Ute; Ute; Ute-Southern Paiute"		"p"		"[v]"	"""during some compound word formations"""	"ute_oberly2008.pdf"
+p258b7	"ute"	"Southern Ute; Ute; Ute-Southern Paiute"		"p"		"[v]"	"""during some compound word formations"""	"ute_oberly2008.pdf"
 				"m"				
 				"w"		"[ɸ]"	"""before a voiceless vowel"""	
 				"v"			"""never appear(s) in word-initial position…"""	
@@ -9255,7 +9255,7 @@
 				"æː"				
 				"ɑː"				
 
-1085	"duo"	"Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta"		"p"				"duo_robinson2008.pdf"
+pc3c2e	"duo"	"Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta"		"p"				"duo_robinson2008.pdf"
 				"b"				
 				"m"				
 				"w"				
@@ -9277,7 +9277,7 @@
 				"o"		"[u]"	"""Whenever the mid close vowels o and e occur in closed syllables, if the syllable becomes open due to suffixation, these vowels will be replaced by their high close counterparts, u and i"""	
 				"a"			"central low vowel; occurs in alternation with [ə]"	
 
-1086	"ton"	"Tongan; Tonga"		"p"				"ton_feldman1978.pdf"
+p61fa5	"ton"	"Tongan; Tonga"		"p"				"ton_feldman1978.pdf"
 				"f"				
 				"v"				
 				"m"				
@@ -9296,7 +9296,7 @@
 				"o"				
 				"a"		"[ḁ]"	"""the low vowel... is voiceless under conditions... but only following /h/"""	
 
-1087	"lmw"	"Lake Miwok; Miwok (Lake)"		"p"				"lmw_callaghan1963.pdf"
+p0031c	"lmw"	"Lake Miwok; Miwok (Lake)"		"p"				"lmw_callaghan1963.pdf"
 				"pʰ"	"Only syllable initial; in process of merging with plain stops"			
 				"pʼ"				
 				"b"				
@@ -9337,7 +9337,7 @@
 						"[ɐ]"	"""In open syllables"""	
 				"aː"		"[aˑ]"	"""In non-final closed syllables"""	
 
-1088	"lzz"	"Laz"		"p"				"lzz_anderson1963.pdf"
+p9e693	"lzz"	"Laz"		"p"				"lzz_anderson1963.pdf"
 				"b"				
 				"pʼ"				
 				"f"				
@@ -9371,7 +9371,7 @@
 				"ɑ"				
 				"ɹ"		"[ɹ̥]"	"""between a voiceless consonant and a vowel"""	
 
-1089	"jun"	"Juang"		"p"				"jun_matson1964.pdf"
+p3ca0a	"jun"	"Juang"		"p"				"jun_matson1964.pdf"
 				"b"		"[p]"	"Medially before a voiceless stop; Before a pause"	
 				"m"				
 				"d̪"		"[t̪]"	"Medially before a voiceless stop; Before a pause"	
@@ -9404,7 +9404,7 @@
 				"æ"		"[æ̃]"	"Before or following a nasal"	
 				"æː"				
 
-1090	"adn"	"Adang"		"i"		"[iː]"	"""Vowels occuring in initial position of a monosyllabic word tend to be lengthened""; However, ""vowel length is phonetically [lexically] significant"""	"adn_haan2001.pdf"
+pdad81	"adn"	"Adang"		"i"		"[iː]"	"""Vowels occuring in initial position of a monosyllabic word tend to be lengthened""; However, ""vowel length is phonetically [lexically] significant"""	"adn_haan2001.pdf"
 				"u"		"[uː]"	"""Vowels occuring in initial position of a monosyllabic word tend to be lengthened""; However, ""vowel length is phonetically [lexically] significant"""	
 				"e"		"[e̞]"	"""In the final position of a word"""	
 						"[eː]"	"""Vowels occuring in initial position of a monosyllabic word tend to be lengthened""; However, ""vowel length is phonetically [lexically] significant"""	
@@ -9446,7 +9446,7 @@
 				"ʔ"				
 				"h"				
 
-1091	"ael"	"Ambele"		"p"				"ael_nganganu2001.pdf"
+p790f8	"ael"	"Ambele"		"p"				"ael_nganganu2001.pdf"
 				"t"				
 				"k"				
 				"kp"				
@@ -9504,7 +9504,7 @@
 				"˧"				
 				"˨"				
 
-1092	"apu"	"Apurinã"	"Japiim"	"i"		"[ĩ]"	"in free variation before a nasal consonant; ""Vowels become nasalized when preceding nasal vowels"""	"apu_facundes2000.pdf"
+p1746f	"apu"	"Apurinã"	"Japiim"	"i"		"[ĩ]"	"in free variation before a nasal consonant; ""Vowels become nasalized when preceding nasal vowels"""	"apu_facundes2000.pdf"
 						"[i̥]"	"""In unstressed word final position"""	
 						"[ɨ]"	"in [free] variation when following [ɾ] in unstressed word final environments"	
 				"iː"				
@@ -9560,7 +9560,7 @@
 				"eo"				
 				"io"				
 
-1093	"ace"	"Acehnese"		"p"				"ace_asyik1987.pdf"
+pb57e6	"ace"	"Acehnese"		"p"				"ace_asyik1987.pdf"
 				"t"				
 				"c"	"alveo-palatal"			
 				"k"				
@@ -9616,7 +9616,7 @@
 				"ãi"				
 				"ɔi"				
 
-1094	"aig"	"Antiguan Creole"		"p"				"aig_farquhar1974.pdf"
+p53b5d	"aig"	"Antiguan Creole"		"p"				"aig_farquhar1974.pdf"
 				"b"		"[v]"	"""Unconditioned variation"	
 				"m"				
 				"f"				
@@ -9654,7 +9654,7 @@
 				"ou"				
 				"ua"				
 
-1095	"akl"	"Aklan"		"p"				"akl_chai1971.pdf"
+pf1ed4	"akl"	"Aklan"		"p"				"akl_chai1971.pdf"
 				"b"				
 				"m"				
 				"w"				
@@ -9677,7 +9677,7 @@
 				"u"		"[w]"	"""In certain final open syllables"""	
 				"a"	"central low"			
 
-1096	"arh"	"Ika"		"p"				"arh_frank1985.pdf"
+p9024b	"arh"	"Ika"		"p"				"arh_frank1985.pdf"
 				"b"				
 				"β"				
 				"m"				
@@ -9713,7 +9713,7 @@
 				"ei"				
 				"ou"				
 
-1097	"arr"	"Karo"		"p"		"[pː]"	"""Long segments … occur as the onsets of stressed syllables""; possibly means aspirated"	"arr_gabas1999.pdf"
+p2e5c2	"arr"	"Karo"		"p"		"[pː]"	"""Long segments … occur as the onsets of stressed syllables""; possibly means aspirated"	"arr_gabas1999.pdf"
 						"[p̚]"	"""Occur as word-final codas"""	
 				"b"		"[β]"	"""In free variation in onsets of unstressed syllables after vowels"""	
 				"m"	"Post-denasalized ->"	"[mb]"	"""Post-denasalized segments…occur on stressed syllable onsets before oral vowels"""	
@@ -9751,7 +9751,7 @@
 				"˦"				
 				"˨"		"[˧]"	"""In stressed syllables"""	
 
-1098	"ayl"	"Lebanese Arabic"		"b"				"ayl_elfitoury1976.pdf"
+pcc939	"ayl"	"Lebanese Arabic"		"b"				"ayl_elfitoury1976.pdf"
 				"m"		"[ɱ]"	"""Before /f/"""	
 				"mˠ"		"[ɱˠ]"	"""Before /f/"""	
 				"w"				
@@ -9811,7 +9811,7 @@
 				"æu"	"changed from æw"			
 				"ʊu"	"changed from ʊw; least common diphthong"			
 
-1099	"bbc"	"Toba-Batak"		"p"		"[p̚]"	"""Occurs finally and medially before a stop"""	"bbc_percival1964.pdf"
+p6acb0	"bbc"	"Toba-Batak"		"p"		"[p̚]"	"""Occurs finally and medially before a stop"""	"bbc_percival1964.pdf"
 						"[pʰ]"	"""Occurs finally"""	
 				"t"	"apical"	"[t̚]"	"""Occurs finally"""	
 					"apical"	"[tʰ]"	"""Occurs finally"""	
@@ -9845,7 +9845,7 @@
 				"u"		"[uː]"	"""Occurs finally or under primary or secondary stress and is followed by another vowel with or without an intervening consonant or semi-vowel"""	
 				"ə"				
 
-1100	"bci"	"Baule"	"Kobe"	"p"				"bci_timyan1977.pdf"
+p09027	"bci"	"Baule"	"Kobe"	"p"				"bci_timyan1977.pdf"
 				"b"				
 				"f"		"[v]"	"""Following the homorganic nasal"""	
 				"t"				
@@ -9880,7 +9880,7 @@
 				"ɔ"		"[ɔ̃]"	"""a vowel followed by /m/ followed by a true consonant or a word boundary is nasalized and the /m/ is deleted""; The Vowel Nasalization Rule and the Regressive Vowel Nasalization Rule account for all occurrences of nasal vowel"""	
 				"a"		"[ã]"	"""a vowel followed by /m/ followed by a true consonant or a word boundary is nasalized and the /m/ is deleted""; The Vowel Nasalization Rule and the Regressive Vowel Nasalization Rule account for all occurrences of nasal vowel"""	
 
-1101	"bfw"	"Remo"		"pʰ"		"[p̚]"	"""Medially before a consonant and finally"""	"bfw_fernandez1968.pdf"
+pa739e	"bfw"	"Remo"		"pʰ"		"[p̚]"	"""Medially before a consonant and finally"""	"bfw_fernandez1968.pdf"
 				"b"		"[b̚]"	"""Medially before /r, /ɖ/"""	
 							"lax bilabial; between vowels; following a glottal stop"	
 				"m"		"[m̩]"	"""Initially before a homorganic consonant"""	
@@ -9916,7 +9916,7 @@
 				"a"		"[a̟]"	"""Medially before /j/"""	
 						"[a̠]"	"""Medially before /w/"""	
 
-1102	"biw"	"Bikele"		"i"				"biw_begne1979.pdf"
+p45715	"biw"	"Bikele"		"i"				"biw_begne1979.pdf"
 				"e"				
 				"ɛ"				
 				"u"				
@@ -9973,7 +9973,7 @@
 				"˨˦"				
 				"˦˨"				
 
-1103	"bla"	"Blackfoot"		"p"				"bla_tayler1969.pdf"
+pe3a8c	"bla"	"Blackfoot"		"p"				"bla_tayler1969.pdf"
 				"t̪"				
 				"s"		"[ʂ]"	"""following /k/ the retroflexion of /s/ is extreme"""	
 				"m"		"[m̥]"	"""Following /ʔ/ and before a whispered vowel"""	
@@ -10003,7 +10003,7 @@
 				"aː"		"[a]"	"""Before /x/"""	
 				"ø"		"[ø̥]"	"""Before /x/"""	
 
-1104	"bll"	"Biloxi"		"p"				"bll_einaudi1974.pdf"
+p81e03	"bll"	"Biloxi"		"p"				"bll_einaudi1974.pdf"
 				"m"				
 				"w"				
 				"t"				
@@ -10024,7 +10024,7 @@
 				"a"				
 				"ã"				
 
-1105	"bzj"	"Belizean Creole"		"b"				"bzj_greene1993.pdf"
+p2017a	"bzj"	"Belizean Creole"		"b"				"bzj_greene1993.pdf"
 				"d"				
 				"ɡ"		"[ɡʲ]"	"""Strong tendancy…in initial position"""	
 				"p"		"[pʰ]"		
@@ -10061,7 +10061,7 @@
 				"ẽ"	"phonemic nasalized vowels might be more progressive, but only two examples given"			
 				"ɑ̃"	"phonemic nasalized vowels might be more progressive, but only two examples given"			
 
-1106	"cku"	"Koasati"		"p"		"[pʰ]"	"""In initial and medial position"""	"cku_kimball1985.pdf"
+pbe4f1	"cku"	"Koasati"		"p"		"[pʰ]"	"""In initial and medial position"""	"cku_kimball1985.pdf"
 						"[p̚]"	"""In final position""; tendency, not obligatory"	
 				"b"				
 				"m"				
@@ -10095,7 +10095,7 @@
 				"˦˥˦"				
 				"<ʔ>"	"Marginal"			
 
-1107	"coo"	"Comox"		"p"				"coo_harris1981.pdf"
+p5c868	"coo"	"Comox"		"p"				"coo_harris1981.pdf"
 				"p̰"				
 				"m"				
 				"m̰"				
@@ -10139,7 +10139,7 @@
 				"ɛ"		"[e]"	"""Between high, non-glottalized consonants; between such a high consonant and a final word boundary"""	
 				"a"		"[æ]"	"""Between high consonants"""	
 
-1108	"cso"	"Sochiapan Chinantec"		"i"			"""Following a nasal"""	"cso_foris1993_phon.pdf"
+pfabdf	"cso"	"Sochiapan Chinantec"		"i"			"""Following a nasal"""	"cso_foris1993_phon.pdf"
 				"u"			"""Following a nasal"""	
 				"ɯ"			"""Following a nasal"""	
 				"ɛ"			"""Following a nasal"""	
@@ -10179,7 +10179,7 @@
 				"˦˨"				
 				"˧˨"				
 
-1109	"diq"	"Dimili"		"p"				"diq_todd1985.pdf"
+p98f56	"diq"	"Dimili"		"p"				"diq_todd1985.pdf"
 				"b"		"[v]"	"""In postvocalic position"""	
 				"f"				
 				"v"				
@@ -10228,7 +10228,7 @@
 				"əi"	"updated from əj (əy in text)"			
 				"əu"	"updated from əw"			
 
-1110	"ets"	"Etsako"		"p"				"ets_elimelech1976.pdf"
+p372cd	"ets"	"Etsako"		"p"				"ets_elimelech1976.pdf"
 				"b"				
 				"m"				
 				"mː"				
@@ -10265,7 +10265,7 @@
 				"˨"				
 				"˦˨"				
 
-1111	"frr"	"Frisian"	"Sölring North"	"p"		"[pʰ]"	"""Initial"""	"frr_lasswell1998.pdf"
+pd5644	"frr"	"Frisian"	"Sölring North"	"p"		"[pʰ]"	"""Initial"""	"frr_lasswell1998.pdf"
 						"[b]"	"""Intervocalically after long stressed vowels"""	
 				"b"		"[p]"	"""Final"""	
 				"m"				
@@ -10315,7 +10315,7 @@
 				"ai"	"updated from aj"			
 				"au"	"updated from aw"			
 
-1112	"gju"	"Gojri; Gujari; Gujar"		"pʰ"				"gju_losey2002.pdf"
+p739bb	"gju"	"Gojri; Gujari; Gujar"		"pʰ"				"gju_losey2002.pdf"
 				"p"				
 				"b"				
 				"t̪ʰ"				
@@ -10369,7 +10369,7 @@
 				"õː"				
 				"ɔ̃ː"				
 
-1113	"gvc"	"Wanano"		"b"		"[m]"	"""Surface realizations of underlying oral voiced phonemes to which suprasegmental nasalization has applied"""	"gvc_stenzel2004.pdf"
+p11d32	"gvc"	"Wanano"		"b"		"[m]"	"""Surface realizations of underlying oral voiced phonemes to which suprasegmental nasalization has applied"""	"gvc_stenzel2004.pdf"
 				"p"		"[ʰp]"	"""Morpheme internally"""	
 				"pʰ"				
 				"w"		"[v]"	"""Word-initial position"""	
@@ -10398,7 +10398,7 @@
 				"˦"				
 				"˨"				
 
-1114	"hum"	"Kihungan"		"pʰ"				"hum_takizala1974.pdf"
+pb00a9	"hum"	"Kihungan"		"pʰ"				"hum_takizala1974.pdf"
 				"b"				
 				"t"				
 				"tʰ"				
@@ -10433,7 +10433,7 @@
 				"˨"				
 				"˧"				
 
-1115	"hur"	"Chilliwak Halkomelem"		"<k>"	"Loan"			"hur_galloway1977.pdf"
+p4e420	"hur"	"Chilliwak Halkomelem"		"<k>"	"Loan"			"hur_galloway1977.pdf"
 				"<kʼ>"	"Loan"			
 				"<n>"	"Loan; not part of phonemic system"			
 				"<ɹ>"	"Loan; not part of phonemic system"			
@@ -10481,7 +10481,7 @@
 				"uː"				
 				"oː"				
 
-1116	"hus"	"Huastec"	"Potosino dialect"	"<d>"	"Loan"			"hus_wedemeyer1988.pdf"
+pec797	"hus"	"Huastec"	"Potosino dialect"	"<d>"	"Loan"			"hus_wedemeyer1988.pdf"
 				"<ɡ>"	"Loan"			
 				"<f>"	"Loan"			
 				"<ɾ̪>"	"Loan, onomatopoetic"			
@@ -10534,7 +10534,7 @@
 						"[ə]"	"""When unstressed after a stressed syllable, except when followed by final /j/"""	
 				"aː"		"[a̰ː]"	"""In the evironment of glottals or glottalized consonants"""	
 
-1117	"ilo"	"Ilocano"	"Northern"	"p"		"[p̚]"	"""In final position"""	"ilo_rubino1997.pdf"
+p8ab0e	"ilo"	"Ilocano"	"Northern"	"p"		"[p̚]"	"""In final position"""	"ilo_rubino1997.pdf"
 				"b"		"[b̚]"	"""In final position"""	
 				"m"				
 				"t̪"		"[t̪̚]"	"""In final position"""	
@@ -10559,7 +10559,7 @@
 						"[iː]"	"Stressed in an open syllable"	
 				"o"		"[u]"	"""Word-medial and stressed environments"""	
 
-1118	"kbc"	"Kadiweu"		"p"				"kbc_sandalo1995.pdf"
+p28e85	"kbc"	"Kadiweu"		"p"				"kbc_sandalo1995.pdf"
 				"b"				
 				"bː"	"not typical in all analyses"			
 				"m"				
@@ -10594,7 +10594,7 @@
 				"oː"		"[uː]"	"""Before dental consonants"""	
 						"[o]"	"""Optionally…preceding a voiceless stop"""	
 
-1119	"kub"	"Kuteb"		"p"		"[p̚]"	"""In final position and before a pause"""	"kub_koops1990.pdf"
+pc71fc	"kub"	"Kuteb"		"p"		"[p̚]"	"""In final position and before a pause"""	"kub_koops1990.pdf"
 						"[β]"	"""In word-final position before another word beginning with a vowel"""	
 				"mb"				
 				"b"				
@@ -10644,7 +10644,7 @@
 				"˩˥"				
 				"˥˩"				
 
-1120	"kwi"	"Awa Pit"		"p"		"[b]"	"""After a voiced consonant and before a voiced phoneme (either a voiced vowel or a glide)""; in free variation with [β] after a voiced fricative"	"kwi_curnow1997.pdf"
+p65573	"kwi"	"Awa Pit"		"p"		"[b]"	"""After a voiced consonant and before a voiced phoneme (either a voiced vowel or a glide)""; in free variation with [β] after a voiced fricative"	"kwi_curnow1997.pdf"
 						"[β]"	"""Between voiced vowels or glides""; in free varition with [b] after a voiced fricative"	
 						"[pʷ]"	"""Before the vowel /ɨ/"""	
 						"[p̚]"	"""At the end of an utterance""; in free variation with [pⁿ]"	
@@ -10692,7 +10692,7 @@
 						"[ə]"	"In free variation with [ɛ] and [æ] after a palatal consonant in a closed syllable"	
 						"[aj]"	"In free variation with [a] before an alveopalatal fricative"	
 
-1121	"lis"	"Lisu"		"pʰ"				"lis_roop1970.pdf"
+p038ea	"lis"	"Lisu"		"pʰ"				"lis_roop1970.pdf"
 				"p"				
 				"b"				
 				"m"		"[m̩]"	"""Resulting from the reduction of full syllables under weak stress"""	
@@ -10734,7 +10734,7 @@
 				"˨"				
 				"˨˧"				
 
-1122	"los"	"Loniu"		"p"		"[b]"	"""In rapid speech when intervocalic"""	"los_hamel1985.pdf"
+pa1c61	"los"	"Loniu"		"p"		"[b]"	"""In rapid speech when intervocalic"""	"los_hamel1985.pdf"
 				"pʷ"		"[p]"	"""In final position"""	
 				"m"				
 				"mʷ"		"[m]"	"""In final position"""	
@@ -10763,7 +10763,7 @@
 				"o"				
 				"ɔ"		"[ə]"	"""In unstressed syllables"""	
 
-1123	"mbe"	"Molalla"		"p"		"[b]"	"""After a nasal, /l/, or /j/ and before a vowel"""	"mbe_pharris2006.pdf"
+p3ffd8	"mbe"	"Molalla"		"p"		"[b]"	"""After a nasal, /l/, or /j/ and before a vowel"""	"mbe_pharris2006.pdf"
 				"pʼ"				
 				"ʍ"	"described as /f/ in other texts"	"[w]"	"""Prevocalically following an /s/ at the beginning of a word"""	
 				"m"		"[p]"	"""Word-initially preceding /s/"""	
@@ -10796,7 +10796,7 @@
 				"æː"				
 				"ɑː"		"[ɔː]"	"""Adjacent to bilabial consonants"""	
 
-1124	"mcf"	"Matses"		"p"				"mcf_fleck2003.pdf"
+pde34f	"mcf"	"Matses"		"p"				"mcf_fleck2003.pdf"
 				"t"				
 				"k"		"[ʔ]"	"""Syllable-finally"""	
 				"b"				
@@ -10829,7 +10829,7 @@
 				"a"		"[ã]"	"""Preceding nasals"""	
 						"[aː]"	"""In stressed syllables"""	
 
-1125	"mni"	"Manipuri"		"p"		"[b]"	"""In intervocalic position"""	"mni_chelliah1992.pdf"
+p7c6c6	"mni"	"Manipuri"		"p"		"[b]"	"""In intervocalic position"""	"mni_chelliah1992.pdf"
 				"pʰ"		"[f]"	"""Varies freely"""	
 				"b"				
 				"<bʱ>"	"Loan"			
@@ -10868,7 +10868,7 @@
 				"˦"				
 				"˨"				
 
-1126	"mnk"	"Mandingo"		"p"				"mnk_drame1981.pdf"
+p1aa3d	"mnk"	"Mandingo"		"p"				"mnk_drame1981.pdf"
 				"b"				
 				"m"		"[n]"	"Before alveo-dentals"	
 						"[ŋ]"	"Before velars"	
@@ -10915,7 +10915,7 @@
 				"˨˦"				
 				"˨˦˨"				
 
-1127	"moc"	"Mocovi"		"p"				"moc_grondona1998.pdf"
+pb8db4	"moc"	"Mocovi"		"p"				"moc_grondona1998.pdf"
 				"<ɸ>"	"Loan"			
 				"m"				
 				"w"		"[β]"	"In free variation"	
@@ -10948,7 +10948,7 @@
 				"a"				
 				"aː"		"[a]"	"""In closed syllables"""	
 
-1128	"mam"	"Western Mam; Tacanec"	"Tacaná"	"p"				"mam_godfrey1981.pdf"
+p5712b	"mam"	"Western Mam; Tacanec"	"Tacaná"	"p"				"mam_godfrey1981.pdf"
 				"ɓ"		"[p̰]"	"""After the last vowel in a word"""	
 				"<f>"				
 				"<b>"				
@@ -10992,7 +10992,7 @@
 				"u"		"[ṵ]"	"""With glottal stop"""	
 				"uː"		"[ṵː]"	"""With glottal stop"""	
 
-1129	"myu"	"Mundurukú"		"p"		"[p̚]"	"""Syllable-finally"""	"myu_picanco2005.pdf"
+pf54a2	"myu"	"Mundurukú"		"p"		"[p̚]"	"""Syllable-finally"""	"myu_picanco2005.pdf"
 				"b"		"[mb]"	"""Optional…after a nasal vowel"""	
 				"m"		"[bm]"	"""Syllable-finally following an oral vowel"""	
 				"w"		"[w̃]"	"""In the context of nasalization contexts"""	
@@ -11033,7 +11033,7 @@
 				"˦"				
 				"˨"				
 
-1130	"ncg"	"Nishgha"		"b"	"(described as plain bilabial stop without specification of voicing)"	"[b̥]"	"""Between a voiceless consonant and a vowel"""	"ncg_tarpent1987.pdf"
+p93819	"ncg"	"Nishgha"		"b"	"(described as plain bilabial stop without specification of voicing)"	"[b̥]"	"""Between a voiceless consonant and a vowel"""	"ncg_tarpent1987.pdf"
 						"[p]"	"""Before another consonant"""	
 						"[pʰ]"	"""Finally"""	
 				"ˀp"	"preglottalized"			
@@ -11094,7 +11094,7 @@
 				"a"				
 				"aː"		"[a]"	"""in unstressed syllables"""	
 
-1131	"nds"	"Low German"	"Ukrainian"	"pʰ"		"[p]"	"""After /s ʃ/, also before /ɨ/"""	"nds_mierau1965.pdf"
+p31b90	"nds"	"Low German"	"Ukrainian"	"pʰ"		"[p]"	"""After /s ʃ/, also before /ɨ/"""	"nds_mierau1965.pdf"
 						"[p̚]"	"""In word final position…optionally"""	
 				"b"		"[b̚]"	"""In word final position…optionally"""	
 				"f"				
@@ -11138,7 +11138,7 @@
 				"æɪ"				
 				"ɑʊ"				
 
-1132	"pmq"	"Northern Pame"		"p"				"pmq_berthiaume2003.pdf"
+pcff07	"pmq"	"Northern Pame"		"p"				"pmq_berthiaume2003.pdf"
 				"pʰ"				
 				"b"		"[p]"	"""Word final"""	
 				"m"		"[bm]"	"Following an oral vowel"	
@@ -11195,7 +11195,7 @@
 				"˦"				
 				"˨˦"				
 
-1133	"par"	"Panamint"		"i"		"[ɪ]"	"""Between a labial or /j/ and another labial"""	"par_mclaughlin1987.pdf"
+p6e27e	"par"	"Panamint"		"i"		"[ɪ]"	"""Between a labial or /j/ and another labial"""	"par_mclaughlin1987.pdf"
 						"[ĩ]"	"Optionally in the presence of a lenited nasal consonant"	
 						"[ɛ]"	"""In final position…optionally"""	
 				"ɨ"		"[ɨ̃]"	"Optionally in the presence of a lenited nasal consonant"	
@@ -11240,7 +11240,7 @@
 				"ŋː"				
 				"ŋʷː"				
 
-1134	"pcm"	"Nigerian Pidgin"		"p"		"[p̚]"	"""Voiceless word final plosives may be unexploded"""	"pcm_faraclas1989.pdf"
+p0c5f5	"pcm"	"Nigerian Pidgin"		"p"		"[p̚]"	"""Voiceless word final plosives may be unexploded"""	"pcm_faraclas1989.pdf"
 				"b"		"[p]"	"""Word final obstruents may be devoiced"""	
 						"[β]"	"""In intervocalic position"""	
 				"f"		"[fː]"	"""Voiceless word final fricatives may be lengthened"""	
@@ -11289,7 +11289,7 @@
 				"˦"				
 				"˨"				
 
-1135	"pej"	"Northern Pomo"		"b"				"pej_oconnor1987.pdf"
+paa96c	"pej"	"Northern Pomo"		"b"				"pej_oconnor1987.pdf"
 				"p"				
 				"pʰ"				
 				"pʼ"				
@@ -11329,7 +11329,7 @@
 				"oː"				
 				"uː"				
 
-1136	"poq"	"Texistepec Popoluca"		"p"				"poq_reilly2002.pdf"
+p48ce3	"poq"	"Texistepec Popoluca"		"p"				"poq_reilly2002.pdf"
 				"b"				
 				"m"				
 				"t"				
@@ -11365,7 +11365,7 @@
 				"ɔː"				
 				"j"		"[i]"	"Between two consonants"	
 
-1137	"kca"	"Eastern Khanty"		"i"				"kca_filchenko2007.pdf"
+pe705a	"kca"	"Eastern Khanty"		"i"				"kca_filchenko2007.pdf"
 				"y"				
 				"e"				
 				"æ"				
@@ -11403,7 +11403,7 @@
 				"ŋ"		"[ɴ]"	"""In the back vowel environment"""	
 						"[ŋʲ]"	"""In the environment of all the front vowels but especially /i/ and /e/"""	
 
-1138	"cat"	"Catalan"	"Barcelona"	"p"		"[b]"	"""Before a voiced consonant"""	"cat_carbonell1992.pdf"
+p853d1	"cat"	"Catalan"	"Barcelona"	"p"		"[b]"	"""Before a voiced consonant"""	"cat_carbonell1992.pdf"
 				"b"		"[β]"	"In onset positions (except after pause) after a vowel, or a liquid (except for /d/ after /l/)"""	
 						"[b̥]"	"""Word-finally before a pause"""	
 						"[bː]"	"""Before /l/ in the same syllable, if internally in a word after a stressed vowel"""	
@@ -11450,7 +11450,7 @@
 				"u̯a"				
 				"u̯ə"				
 
-1139	"hrv"	"Croatian"		"p"				"hrv_landau-loncaric1995.pdf"
+p23748	"hrv"	"Croatian"		"p"				"hrv_landau-loncaric1995.pdf"
 				"b"				
 				"m"		"[ɱ]"	"""Before /f, ʋ/"""	
 				"f"		"[v]"	"""Preceding a voiced obstruent"""	
@@ -11488,7 +11488,7 @@
 				"uː"				
 				"ie"				
 
-1140	"ces"	"Czech"	"Prague"	"p"		"[b]"	"Preceeding a voiced consonant"	"ces_dankovicova1997.pdf"
+pc1abf	"ces"	"Czech"	"Prague"	"p"		"[b]"	"Preceeding a voiced consonant"	"ces_dankovicova1997.pdf"
 				"b"		"[b̥]"	"""At the end of the word before a pause"""	
 						"[p]"	"Preceeding a voiceless consonant"	
 				"m"		"[ɱ]"	"""Preceding a labiodental fricative"""	
@@ -11537,7 +11537,7 @@
 				"<au>"				
 				"<ɛu>"				
 
-1141	"glg"	"Galician"		"p"				"glg_reguiera1996.pdf"
+p5fe36	"glg"	"Galician"		"p"				"glg_reguiera1996.pdf"
 				"β̞"		"[b]"	"""After a pause or after a nasal consonant"""	
 				"m"		"[n]"	"""Place of articulation in syllable-final nasals is non-contrastive, and assimilates to that of a following syllable-initial consonant"""	
 						"[ɲ]"	"""Place of articulation in syllable-final nasals is non-contrastive, and assimilates to that of a following syllable-initial consonant"""	
@@ -11577,7 +11577,7 @@
 				"a"		"[ã]"	"""In contact with a nasal"""	
 						"[ɑ]"	"""In contact with velar consonants"""	
 
-1142	"kbp"	"Kabiye"	"Somdina"	"b"		"[pʰ]"	"""Initial positions after pauses"""	"kbp_padayodi2008.pdf"
+pfe1ad	"kbp"	"Kabiye"	"Somdina"	"b"		"[pʰ]"	"""Initial positions after pauses"""	"kbp_padayodi2008.pdf"
 				"m"				
 				"f"		"[v]"	"After vowels across morpheme boundaries"	
 				"v"		"[f]"	"""Initial positions after pauses"""	
@@ -11626,7 +11626,7 @@
 				"˦"				
 				"˨"				
 
-1143	"mnh"	"Mono"	"Bili, Bosobolo Zone, DRC"	"p"				"mnh_olson2004.pdf"
+p9c524	"mnh"	"Mono"	"Bili, Bosobolo Zone, DRC"	"p"				"mnh_olson2004.pdf"
 				"b"				
 				"ɓ"				
 				"m"				
@@ -11671,7 +11671,7 @@
 				"˧"				
 				"˨"				
 
-1144	"ind"	"Indonesian"	"Central Java"	"p"		"[p̚]"	"""In syllable-final position"""	"ind_soderberg2008_phon.pdf"
+p3a89b	"ind"	"Indonesian"	"Central Java"	"p"		"[p̚]"	"""In syllable-final position"""	"ind_soderberg2008_phon.pdf"
 				"b"				
 				"m"				
 				"w"				
@@ -11704,7 +11704,7 @@
 				"au̯"			"""Occur only root-finally"""	
 				"oi̯"			"""Occur only root-finally"""	
 
-1145	"ita"	"Italian"	"Mainstream Italian''"'	"p"		"[pː]"		"ita_rogers2004.pdf"
+pd8c12	"ita"	"Italian"	"Mainstream Italian''"'	"p"		"[pː]"		"ita_rogers2004.pdf"
 				"b"		"[bː]"		
 				"m"		"[mː]"		
 						"[ɱ]"	"""Before the labio-dentals /f v/ """	
@@ -11739,7 +11739,7 @@
 				"o"				
 				"u"				
 
-1146	"qxl"	"Salasaca Quichua"		"p"				"qxl_masaquiz2008.pdf"
+p76f89	"qxl"	"Salasaca Quichua"		"p"				"qxl_masaquiz2008.pdf"
 				"pʰ"				
 				"b"				
 				"m"				
@@ -11769,7 +11769,7 @@
 				"<e>"	"Loan"			
 				"<o>"	"Loan"			
 
-1147	"sei"	"Seri"		"p"				"sei_marlett_etal2005.pdf"
+p15300	"sei"	"Seri"		"p"				"sei_marlett_etal2005.pdf"
 				"m"				
 				"ɸ"		"[f]"		
 				"t̪"				
@@ -11795,7 +11795,7 @@
 				"oː"				
 				"ɑː"				
 
-1148	"snd"	"Sindhi"	"Vicholi"	"p"				"snd_nihalani1995.pdf"
+pb3677	"snd"	"Sindhi"	"Vicholi"	"p"				"snd_nihalani1995.pdf"
 				"b"				
 				"pʰ"				
 				"bɦ"				
@@ -11850,7 +11850,7 @@
 				"ʊ"		"[ʊ̃]"	"""Preceding a nasal consonant"""	
 				"u"		"[ũ]"	"""Preceding a nasal consonant"""	
 
-1149	"slv"	"Slovene"	"Standard Slovene"	"p"				"slv_sustarsic-komar1995.pdf"
+p519ee	"slv"	"Slovene"	"Standard Slovene"	"p"				"slv_sustarsic-komar1995.pdf"
 				"b"		"[b̥]"	"""Before voiceless obstruents and in word-final position"""	
 				"m"		"[ɱ]"	"""Before /f, ʋ/ """	
 				"f"				
@@ -11894,7 +11894,7 @@
 				"uː"				
 				"əː"				
 
-1150	"swe"	"Swedish"	"Stockholm"	"p"				"swe_engstrand1990.pdf"
+pefd65	"swe"	"Swedish"	"Stockholm"	"p"				"swe_engstrand1990.pdf"
 				"b"				
 				"m"				
 				"f"				
@@ -11930,7 +11930,7 @@
 				"ɕ"				
 				"ɧ"				
 
-1151	"mky"	"Taba"	"Makian Island"	"p"				"mky_bowden-hajek1996.pdf"
+p8e0dc	"mky"	"Taba"	"Makian Island"	"p"				"mky_bowden-hajek1996.pdf"
 				"pː"	"""All of the Taba consonants except /j, w, r, dʒ/ can occur with distinctive length (i.e. as `geminates'')."""'			
 				"b"				
 				"bː"	"""All of the Taba consonants except /j, w, r, dʒ/ can occur with distinctive length (i.e. as `geminates'')."""'			
@@ -11973,7 +11973,7 @@
 				"u"		"[ũ]"	"""Before nasal consonants"""	
 						"[uː]"	"""Before voiced consonants and in stressed positions"""	
 
-1152	"khc"	"Tukang Besi"	"Wanci, Kaledupa"	"p"		"[pː]"		"khc_donohue1994.pdf"
+p2c453	"khc"	"Tukang Besi"	"Wanci, Kaledupa"	"p"		"[pː]"		"khc_donohue1994.pdf"
 				"<b>"	"Loan"			
 				"ɓ"				
 				"m"				
@@ -12007,7 +12007,7 @@
 				"o"				
 				"ɯ"		"[u]"	"""Immediately following the vowel /o/ or following /w/"""	
 						"[ʋ]"	"""Immediately following the vowel /o/ or following /w/…and in other enviroments"""	
-1153	"pib"	"Yine"		"p"				"pib_sebastian-marlett2008.pdf"
+pca7ca	"pib"	"Yine"		"p"				"pib_sebastian-marlett2008.pdf"
 				"m"				
 				"t"				
 				"ts"				
@@ -12034,7 +12034,7 @@
 				"oː"		"[oː̃]"	"""After the nasalized glottal fricative and following a nasal consonant"""	
 				"ɯː"		"[ɯː̃]"	"""After the nasalized glottal fricative and following a nasal consonant"""	
 
-1154	"quc"	"Quiche"		"p"		"[pʰ]"	"""In word-final position and before another consonant"""	"quc_larsen1988.pdf"
+p68b41	"quc"	"Quiche"		"p"		"[pʰ]"	"""In word-final position and before another consonant"""	"quc_larsen1988.pdf"
 				"pʼ"	"Questionable what this is underlyingly"	"[ɓ]"	"""Before vowels"""	
 						"[pʼ]"	"""Word-finally and before consonants"""	
 				"m"				
@@ -12071,7 +12071,7 @@
 				"uː"	"In some dialects"			
 				"oː"	"In some dialects"			
 
-1155	"qvh"	"Huallaga (Huanuco) Quechua"		"p"				"qvh_weber1983.pdf"
+p06eb8	"qvh"	"Huallaga (Huanuco) Quechua"		"p"				"qvh_weber1983.pdf"
 				"t"				
 				"k"				
 				"q"				
@@ -12105,7 +12105,7 @@
 				"<eː>"	"Loan"			
 				"<oː>"	"Loan"			
 
-1156	"qum"	"Sipakapense Maya"		"p"		"[pʰ]"	"""In word-final position"""	"qum_barrett1999.pdf"
+pa522f	"qum"	"Sipakapense Maya"		"p"		"[pʰ]"	"""In word-final position"""	"qum_barrett1999.pdf"
 				"t"		"[tʰ]"	"""In word-final position"""	
 				"k"		"[kʰ]"	"""In word-final position"""	
 						"[kʲ]"	"""Before a front vowel (i, e) or before another consonant followed by a front vowel"""	
@@ -12140,7 +12140,7 @@
 				"oː"				
 				"uː"				
 
-1157	"qug"	"Chimborazo Quichua"		"p"				"qug_beukema1975.pdf"
+p435a6	"qug"	"Chimborazo Quichua"		"p"				"qug_beukema1975.pdf"
 				"t̪"				
 				"t"				
 				"tʲ"	"might be palatal, but description says ""palatalized"""			
@@ -12178,7 +12178,7 @@
 				"h"				
 				"r"				
 
-1158	"tpt"	"Tepehua"		"p"				"tpt_watters1988.pdf"
+pe191d	"tpt"	"Tepehua"		"p"				"tpt_watters1988.pdf"
 				"t"				
 				"k"				
 				"q"				
@@ -12213,7 +12213,7 @@
 				"oː"				
 				"uː"		"[oː]"	"""When immediately preceding or following a [q]"""	
 
-1159	"abt"	"Abulas"		"i"				"abt_wilson1973.pdf"
+p7fc94	"abt"	"Abulas"		"i"				"abt_wilson1973.pdf"
 				"e"				
 				"ɨ"				
 				"a"				
@@ -12238,7 +12238,7 @@
 				"w"				
 				"j"				
 
-1160	"aau"	"Abau"		"p"		"[pʰ]"	"""Word finally"""	"aau_lock1990.pdf"
+p1e00b	"aau"	"Abau"		"p"		"[pʰ]"	"""Word finally"""	"aau_lock1990.pdf"
 						"[b]"		
 				"m"				
 				"n"				
@@ -12259,7 +12259,7 @@
 				"u"				
 				"w"				
 
-1161	"ahg"	"Agaw"		"b"		"[β]"	"""Intervocalically and in final position after a vowel"""	"ahg_hetzron1969.pdf"
+pbc382	"ahg"	"Agaw"		"b"		"[β]"	"""Intervocalically and in final position after a vowel"""	"ahg_hetzron1969.pdf"
 						"[b]"	"""In other positions and with gemination"""	
 				"p"				
 				"m"				
@@ -12300,7 +12300,7 @@
 				"˨"				
 				"˥˩"				
 
-1162	"ahk"	"Akha"		"p"				"ahk_panadda1993.pdf"
+p5a6f9	"ahk"	"Akha"		"p"				"ahk_panadda1993.pdf"
 				"pʰ"				
 				"b"				
 				"m"				
@@ -12346,7 +12346,7 @@
 				"˧"	"""There are 5 tonemes : 3 tonemes are level tone which occur with oral vowels, 2 tonemes are level tone which occur with laryngealized vowels."""			
 				"˨"	"""There are 5 tonemes : 3 tonemes are level tone which occur with oral vowels, 2 tonemes are level tone which occur with laryngealized vowels."""			
 
-1163	"aly"	"Alyawarra"		"p"		"[b]"	"""When between a nasal or a lateral and a vowel"""	"aly_yallop1977.pdf"
+pf8a70	"aly"	"Alyawarra"		"p"		"[b]"	"""When between a nasal or a lateral and a vowel"""	"aly_yallop1977.pdf"
 						"[pʰ]"	"""When at the beginning of a stressed syllable (unless they are preceded by a nasal or lateral)"""	
 				"pm"				
 				"m"				
@@ -12389,7 +12389,7 @@
 				"ɐː"	"""Before a single consonant and in stressed syllables"""			
 				"uː"				
 
-1164	"amn"	"Amanab"		"p"				"amn_minch1992.pdf"
+p96de7	"amn"	"Amanab"		"p"				"amn_minch1992.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -12409,7 +12409,7 @@
 				"o"				
 				"a"		"[i]"	"""In the final syllable of the stem and on all affixes to the right"""	
 
-1165	"anu"	"Anywa"		"b"		"[p]"	"""Morpheme-final stops which come to occupy a word-final position are realized voiceless"""	"anu_reh1996.pdf"
+p3515e	"anu"	"Anywa"		"b"		"[p]"	"""Morpheme-final stops which come to occupy a word-final position are realized voiceless"""	"anu_reh1996.pdf"
 				"p"				
 				"m"				
 				"w"				
@@ -12458,7 +12458,7 @@
 				"˨"				
 				"˩˥"				
 
-1166	"jbj"	"Arandai"		"p"		"[p]"	"""Free variant"""	"jbj_voorhoeve1985.pdf"
+pd34d5	"jbj"	"Arandai"		"p"		"[p]"	"""Free variant"""	"jbj_voorhoeve1985.pdf"
 						"[pf]"	"""Free variant""; affricated"	
 				"b"		"[b]"		
 						"[mb]"	"""In word-initial position"""	
@@ -12483,7 +12483,7 @@
 				"u"				
 				"o"				
 
-1167	"aon"	"Arapesh"		"a"				"aon_fortune1942.pdf"
+p7184c	"aon"	"Arapesh"		"a"				"aon_fortune1942.pdf"
 				"e"				
 				"i"				
 				"o"				
@@ -12507,7 +12507,7 @@
 				"h"				
 				"l"		"[r]"		
 
-1168	"tcb"	"Tanacross"		"t"				"tcb_holton2000.pdf"
+p0fbc3	"tcb"	"Tanacross"		"t"				"tcb_holton2000.pdf"
 				"tʰ"				
 				"tʼ"				
 				"ts"				
@@ -12574,7 +12574,7 @@
 				"˥˩"				
 				"˥"				
 
-1169	"avt"	"Au"		"p"				"avt_scorza1985.pdf"
+padf3a	"avt"	"Au"		"p"				"avt_scorza1985.pdf"
 				"t"				
 				"k"				
 				"s"				
@@ -12593,7 +12593,7 @@
 				"ɐ"		"[ə]"	"""When followed by p or when a pronoun object is suffixed to the verb"""	
 				"ɐː"		"[ɐ]"	"""All initial verb stem vowels alter to a when future tense/aspect is formed"""	
 
-1170	"tpz"	"Tinputz"		"p"		"[pʰ]"	"""Word finally"""	"tpz_loving1975.pdf"
+p4c2b1	"tpz"	"Tinputz"		"p"		"[pʰ]"	"""Word finally"""	"tpz_loving1975.pdf"
 						"[p]"	"""Word initially and medially"""	
 				"t"		"[t]"	"""Word initially and medially"""	
 						"[tʰ]"	"""Word finally"""	
@@ -12629,7 +12629,7 @@
 				"ɔː"				
 				"ai"				
 
-1171	"pex"	"Petats"	"Petats central"	"p"				"pex_loving1975.pdf"
+pea628	"pex"	"Petats"	"Petats central"	"p"				"pex_loving1975.pdf"
 				"b"		"[b]"	"""Occurs word initially, and medially when initiating a root which is prefixed or reduplicated"""	
 						"[β]"	"""Occurs root medially and occasionally root or word initially with some speakers"""	
 				"t"				
@@ -12669,7 +12669,7 @@
 				"o̝"		"[o̝]"	"""Word medially and finally, in open syllables only"""	
 						"[oː]"	"""Word medially, in closed syllables only"""	
 
-1172	"ptp"	"Patep"	"Mahomba"	"p"				"ptp_loving1975.pdf"
+p8899f	"ptp"	"Patep"	"Mahomba"	"p"				"ptp_loving1975.pdf"
 				"pʲ"				
 				"pʷ"				
 				"t"				
@@ -12717,7 +12717,7 @@
 				"ɛː"				
 				"oː"				
 
-1173	"kcl"	"Kela"	"Apoze"	"p"				"kcl_loving1975.pdf"
+p26d16	"kcl"	"Kela"	"Apoze"	"p"				"kcl_loving1975.pdf"
 				"t"				
 				"k"				
 				"b"				
@@ -12751,7 +12751,7 @@
 				"au"				
 				"oi"				
 
-1174	"sgz"	"Sursurunga"	"East Coast"	"p"		"[pʷ]"	"""Occurs syllable initially"""	"sgz_loving1975.pdf"
+pc508d	"sgz"	"Sursurunga"	"East Coast"	"p"		"[pʷ]"	"""Occurs syllable initially"""	"sgz_loving1975.pdf"
 						"[p̚]"	"""Following a rounded vowel"""	
 				"t"		"[t]"	"""Occurs syllable initially"""	
 						"[t̚]"	"""In free variation syllable finally"""	
@@ -12784,7 +12784,7 @@
 				"o"				
 				"ə"				
 
-1175	"awx"	"Awara"		"b"		"[b]"		"awx_quigley2003.pdf"
+p63404	"awx"	"Awara"		"b"		"[b]"		"awx_quigley2003.pdf"
 						"[mb]"	"intervocalically; free variation with [mp]"	
 						"[mp]"	"intervocalically; free variation with [mb]"	
 						"[p]"		
@@ -12833,7 +12833,7 @@
 				"u"		"[u]"		
 						"[ʊ]"	"""Generally occurs before [l] and [m]"""	
 
-1176	"azo"	"Awing"		"i"				"azo_azieshi1994.pdf"
+p0177b	"azo"	"Awing"		"i"				"azo_azieshi1994.pdf"
 				"e"				
 				"ɛ"				
 				"ɨ"				
@@ -12899,7 +12899,7 @@
 				"j"				
 				"w"				
 
-1177	"kmn"	"Awtuw"		"pʰ"		"[pʰ]"		"kmn_feldman1986.pdf"
+p9faf2	"kmn"	"Awtuw"		"pʰ"		"[pʰ]"		"kmn_feldman1986.pdf"
 						"[p]"	"""Word finally"""	
 						"[b]"	"""Following a nasal preceded by a stressed vowel"""	
 				"tʰ"		"[tʰ]"		
@@ -12926,7 +12926,7 @@
 				"o"				
 				"a"				
 
-1178	"bbw"	"Baba"		"p"		"[b]"	"when preceded by a nasal"	"bbw_nashipu2005.pdf"
+p3de69	"bbw"	"Baba"		"p"		"[b]"	"when preceded by a nasal"	"bbw_nashipu2005.pdf"
 				"m"				
 				"f"				
 				"v"				
@@ -12957,7 +12957,7 @@
 				"a"				
 				"o"				
 
-1179	"bbk"	"Babanki"		"b"		"[b]"		"bbk_akumbu1999.pdf"
+pdc1e0	"bbk"	"Babanki"		"b"		"[b]"		"bbk_akumbu1999.pdf"
 						"[bʱ]"	"""Occurs only before [ɨ]"""	
 						"[bʷ]"	"""Occurs only before [a]"""	
 				"m"		"[m]"		
@@ -13002,7 +13002,7 @@
 				"u"		"[y]"	"before [i]"	
 				"o"				
 
-1180	"bkh"	"Bakoko"		"i"				"bkh_edika1990.pdf"
+p7a557	"bkh"	"Bakoko"		"i"				"bkh_edika1990.pdf"
 				"e"				
 				"ɛ"				
 				"u"				
@@ -13036,7 +13036,7 @@
 				"w"				
 				"ɦ"				
 
-1181	"muo"	"Bali-Kumbat"		"p"				"muo_kouonang1983.pdf"
+p188ce	"muo"	"Bali-Kumbat"		"p"				"muo_kouonang1983.pdf"
 				"b"				
 				"m"				
 				"f"				
@@ -13079,7 +13079,7 @@
 				"˩˥"				
 				"˥˩"				
 
-1182	"bvm"	"Bamunka"		"b"		"[b]"	"Preceding u, a, ɔ, ə"	"bvm_ngeloh2002.pdf"
+pb6c45	"bvm"	"Bamunka"		"b"		"[b]"	"Preceding u, a, ɔ, ə"	"bvm_ngeloh2002.pdf"
 						"[bʷ]"	"Preceding u, a, ə"	
 						"[bʲ]"	"Preceding a"	
 				"w"				
@@ -13130,7 +13130,7 @@
 				"o"				
 				"ɔ"				
 
-1183	"bgj"	"Bangolan"		"p"				"bgj_mbah2003.pdf"
+p54fbc	"bgj"	"Bangolan"		"p"				"bgj_mbah2003.pdf"
 				"b"		"[p]"	"Initial and medial position"	
 						"[b]"	"Medial position; occur only after nasal consonants"	
 				"t"		"[t]"		
@@ -13183,7 +13183,7 @@
 				"˩˥"				
 				"˥˩"				
 
-1184	"bnm"	"Banoo"		"i"				"bnm_kouankem2003.pdf"
+pf3333	"bnm"	"Banoo"		"i"				"bnm_kouankem2003.pdf"
 				"e"				
 				"ɛ"				
 				"a"				
@@ -13215,7 +13215,7 @@
 				"˧"				
 				"˨"				
 
-1185	"bch"	"Bariai"		"p"		"[p]"		"bch_gallagher2005.pdf"
+p916aa	"bch"	"Bariai"		"p"		"[p]"		"bch_gallagher2005.pdf"
 						"[p̚]"	"In free variation utterance finally"	
 				"t"		"[t]"		
 						"[t̚]"	"In free variation utterance finally"	
@@ -13260,7 +13260,7 @@
 						"[o̯]"	"""Preceding /p/ or /ɑ/ and following either a word boundary or another vowel"""	
 						"[u̯]"	"""Preceding /p/ or /ɑ/ and following either a word boundary or another vowel"""	
 
-1186	"bby"	"Befang"		"i"				"bby_gueche2004.pdf"
+p2fa21	"bby"	"Befang"		"i"				"bby_gueche2004.pdf"
 				"iː"				
 				"e"				
 				"eː"				
@@ -13320,7 +13320,7 @@
 				"˦"				
 				"˨"				
 
-1187	"dbj"	"Ida''an"'	"Begak"	"p"				"dbj_goudswaard2005.pdf"
+pcdd98	"dbj"	"Ida''an"'	"Begak"	"p"				"dbj_goudswaard2005.pdf"
 				"b"				
 				"m"				
 				"w"				
@@ -13347,7 +13347,7 @@
 						"[ʊ]"	"""In closed final syllables"""	
 				"o"				
 
-1188	"bem"	"Bemba"		"i"				"bem_kula2002.pdf"
+p6c10f	"bem"	"Bemba"		"i"				"bem_kula2002.pdf"
 				"iː"				
 				"e"				
 				"eː"				
@@ -13373,7 +13373,7 @@
 				"w"				
 				"j"				
 
-1189	"brc"	"Berbice Dutch"		"i"		"[ɪ]"		"brc_kouwenberg1994.pdf"
+p0a486	"brc"	"Berbice Dutch"		"i"		"[ɪ]"		"brc_kouwenberg1994.pdf"
 				"e"		"[ɪ]"		
 				"ɛ"				
 				"a"				
@@ -13401,7 +13401,7 @@
 				"<j>"				
 				"<ç>"	"marginal status; possibly an allophone of /ʃ/"			
 
-1190	"xub"	"Betta Kurumba"		"p"				"xub_coelho2003.pdf"
+pa87fd	"xub"	"Betta Kurumba"		"p"				"xub_coelho2003.pdf"
 				"t̪"				
 				"t"				
 				"ʈ"				
@@ -13449,7 +13449,7 @@
 						"[ɔj]"	"Free variation in the word initial position and in the word-medial position in some words"	
 				"ai"	"changed from aj (ay in text)"			
 
-1191	"bhw"	"Biak"		"b"				"bhw_heuvel2006.pdf"
+p46b74	"bhw"	"Biak"		"b"				"bhw_heuvel2006.pdf"
 				"d"				
 				"p"				
 				"t"				
@@ -13484,7 +13484,7 @@
 				"o"				
 				"oː"				
 
-1192	"nbj"	"Bilinara"		"p"				"nbj_nordlinger1990.pdf"
+pe4eeb	"nbj"	"Bilinara"		"p"				"nbj_nordlinger1990.pdf"
 				"t"				
 				"ʈ"				
 				"ɟ"				
@@ -13509,7 +13509,7 @@
 				"a"				
 				"aː"	"""Not sure whether the long vowels have phonemic status"""			
 
-1193	"bhg"	"Binandere"		"p"				"bhg_wilson2002.pdf"
+p83262	"bhg"	"Binandere"		"p"				"bhg_wilson2002.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -13545,7 +13545,7 @@
 				"ɑ̃õ"				
 				"õũ"				
 
-1194	"bwq"	"Bobo"	"Bobo-Dioulasso, Haute-Volta"	"p"				"bwq_sanou1978.pdf"
+p215d9	"bwq"	"Bobo"	"Bobo-Dioulasso, Haute-Volta"	"p"				"bwq_sanou1978.pdf"
 				"b"				
 				"m"				
 				"f"				
@@ -13584,7 +13584,7 @@
 				"ɔ̃"				
 				"ɔː"				
 
-1195	"bol"	"Bole"		"p"				"bol_gimba2000.pdf"
+pbf950	"bol"	"Bole"		"p"				"bol_gimba2000.pdf"
 				"b"				
 				"t"				
 				"d"				
@@ -13623,7 +13623,7 @@
 				"u"				
 				"uː"				
 
-1196	"bot"	"Bongo"		"i"		"[j]"	"Preceding the vowels e, a, ɔ"	"bot_abessolo1990.pdf"
+p5dcc7	"bot"	"Bongo"		"i"		"[j]"	"Preceding the vowels e, a, ɔ"	"bot_abessolo1990.pdf"
 						"[ĩ]"	"Preceding a nasal that is followed by another consonant"	
 						"[i]"	"Elsewhere"	
 				"e"		"[ɛ]"	"Preceding a nasal"	
@@ -13707,7 +13707,7 @@
 				"w"		"[v]"	"In initial position before an a that''s followed by m"'	
 						"[w]"	"Elsewhere"	
 
-1197	"bwo"	"Boro"		"pʰ"		"[pɸʰ]"	"""Occurs syllable initially before i, ɵ, u """	"bwo_bhattacharya1977.pdf"
+pfc03e	"bwo"	"Boro"		"pʰ"		"[pɸʰ]"	"""Occurs syllable initially before i, ɵ, u """	"bwo_bhattacharya1977.pdf"
 						"[pʰ]"	"""Occurs syllable initially elsewhere"""	
 				"b"		"[p̰]"	"""Occurs syllable-finally before pause (terminal juncture)"""	
 						"[β]"	"""Between high vowels in word medial positions"""	
@@ -13769,7 +13769,7 @@
 				"˧"				
 				"˦"				
 
-1198	"bkk"	"Brokskat"		"i"		"[i]"	"""Elsewhere"""	"bkk_ramaswami1982.pdf"
+p9a3b5	"bkk"	"Brokskat"		"i"		"[i]"	"""Elsewhere"""	"bkk_ramaswami1982.pdf"
 						"[iˑ]"	"""Occurs finally"""	
 				"iː"				
 				"e"		"[ɛˑ]"	"""Occurs in the final position"""	
@@ -13823,7 +13823,7 @@
 				"l"		"[ɭ]"	"""Occurs either with the palatal consonant or with the retroflex consonants"""	
 						"[l]"	"""Elsewhere"""	
 
-1199	"bsp"	"Baga Sitem"		"p"			"Missing consonant allophone page"	"bsp_ganong1998.pdf"
+p3872c	"bsp"	"Baga Sitem"		"p"			"Missing consonant allophone page"	"bsp_ganong1998.pdf"
 				"t̪"				
 				"k"				
 				"b"				
@@ -13853,7 +13853,7 @@
 						"[u]"	"""Occurs in open syllables"""	
 				"ɨ"				
 
-1200	"bbx"	"Bubia"		"i"				"bbx_fiensong1993.pdf"
+pd6aa3	"bbx"	"Bubia"		"i"				"bbx_fiensong1993.pdf"
 				"e"				
 				"ɛ"				
 				"u"				
@@ -13893,7 +13893,7 @@
 				"j"				
 				"l"				
 
-1201	"bxk"	"Bukusu"		"i"		"[i]"		"bxk_mutonyi2000.pdf"
+p74e1a	"bxk"	"Bukusu"		"i"		"[i]"		"bxk_mutonyi2000.pdf"
 						"[j]"	"""Before other vowels"""	
 				"e"				
 				"a"				
@@ -13926,7 +13926,7 @@
 				"<n̠d̠ʒ>"				
 				"<ŋɡ>"				
 
-1202	"sbs"	"Subiya"		"b"				"sbs_baumbach1997.pdf"
+p13191	"sbs"	"Subiya"		"b"				"sbs_baumbach1997.pdf"
 				"p"				
 				"ɻ"	"""Voiced retroflexive (flapped) explosive"" - I may be using the wrong symbol here, if so that''s consistent through all languages from this source"'			
 				"d"				
@@ -13978,7 +13978,7 @@
 				"ɛ"				
 				"i"				
 
-1203	"ttl"	"Totela"		"b"				"ttl_baumbach1997.pdf"
+pb1508	"ttl"	"Totela"		"b"				"ttl_baumbach1997.pdf"
 				"p"				
 				"t"				
 				"ɻ"				
@@ -14033,7 +14033,7 @@
 				"ɛː"				
 				"iː"				
 
-1204	"bmo"	"Bambalang; Círàmbɔ́"		"p"		"[pʲ]"	"before mid-high front unrounded vowel"	"bmo_ayafor2002.pdf"
+p4f87f	"bmo"	"Bambalang; Círàmbɔ́"		"p"		"[pʲ]"	"before mid-high front unrounded vowel"	"bmo_ayafor2002.pdf"
 						"[b]"	"before mid-low back rounded vowel"	
 				"pʷ"				
 				"pʰ"				
@@ -14093,7 +14093,7 @@
 				"˩˥"				
 				"˥˩"				
 
-1205	"mrq"	"North Marquesan"	"Nuku Hiva"	"p"				"mrq_zewen1987.pdf"
+pedbf6	"mrq"	"North Marquesan"	"Nuku Hiva"	"p"				"mrq_zewen1987.pdf"
 				"t"				
 				"k"				
 				"ʔ"				
@@ -14116,7 +14116,7 @@
 				"uː"				
 				"oː"				
 
-1206	"oon"	"Öñge; Ong; Onge"		"k"				"oon_dasgupta1982.pdf"
+p8bf6d	"oon"	"Öñge; Ong; Onge"		"k"				"oon_dasgupta1982.pdf"
 				"ɡ"				
 				"ŋ"				
 				"cç"	"closer to Hindi than English /tʃ/"			
@@ -14141,7 +14141,7 @@
 				"o"				
 				"ɔ"				
 
-1207	"plo"	"Oluta Popoluca; Olutec"		"p"				"plo_zavala2000.pdf"
+p2a2e4	"plo"	"Oluta Popoluca; Olutec"		"p"				"plo_zavala2000.pdf"
 				"<b>"	"only in loan words from Spanish"			
 				"t"				
 				"<d>"	"only in loan words from Spanish"			
@@ -14174,7 +14174,7 @@
 				"o"				
 				"oː"				
 
-1208	"jya"	"Jiarong"	"Chabao; Japhug"	"p"				"jya_jacques2004.pdf"
+pc865b	"jya"	"Jiarong"	"Chabao; Japhug"	"p"				"jya_jacques2004.pdf"
 				"pʰ"				
 				"b"				
 				"mb"				
@@ -14232,7 +14232,7 @@
 				"i"				
 				"y"				
 
-1209	"suq"	"Suri"	"Tirmaga"	"b"		"[p]"	"word-finally"	"suq_bryant1999.pdf"
+p669d2	"suq"	"Suri"	"Tirmaga"	"b"		"[p]"	"word-finally"	"suq_bryant1999.pdf"
 						"[β]"	"intervocalically; sometimes deleted between homorganic vowels"	
 				"ɓ"		"[p]"	"word-finally and preceding a consonant"	
 				"t"			"deleted word-finally"	
@@ -14267,7 +14267,7 @@
 				"˦"				
 				"˨"				
 
-1210	"blb"	"Bilua"		"p"		"[pː]"	"when onset of the second syllable of a word before a diphthong"	"blb_obata2003.pdf"
+p04d49	"blb"	"Bilua"		"p"		"[pː]"	"when onset of the second syllable of a word before a diphthong"	"blb_obata2003.pdf"
 				"b"		"[mb]"	"intervocalically"	
 				"t"		"[tː]"	"when onset of the second syllable of a word before a diphthong"	
 				"d"		"[nd]"	"intervocalically"	
@@ -14310,7 +14310,7 @@
 				"ua"				
 				"uɔ"				
 
-1211	"hoa"	"Hoava"		"p"				"hoa_davis2003.pdf"
+pa30c0	"hoa"	"Hoava"		"p"				"hoa_davis2003.pdf"
 				"b"		"[mb]"	"word-medially; can also occur word-initially in words used emphatically or inside a phrase; school-age speakers tend to prenasalize less than adults and preschool children"	
 				"t"		"[tʰ]"	"word-medially"	
 				"d"		"[nd]"	"word-medially; can also occur word-initially in words used emphatically or inside a phrase; school-age speakers tend to prenasalize less than adults and preschool children"	
@@ -14332,7 +14332,7 @@
 				"u"				
 				"ɔ"				
 
-1212	"fil"	"Filipino"		"p"				"fil_cubar1994.pdf"
+p41437	"fil"	"Filipino"		"p"				"fil_cubar1994.pdf"
 				"b"				
 				"t̪"				
 				"d̪"		"[ɾ]"	"intervocalically"	
@@ -14361,7 +14361,7 @@
 				"<o>"	"borrowed from Spanish and English, rare in Filipino words"	"[u]"	"in free-variation with [o] in stressed final syllables"	
 				"<oː>"	"borrowed from Spanish and English, rare in Filipino words"			
 
-1213	"nxg"	"Ngad''a; Ngadha"'		"p"		"[pʰ]"	"in initial position"	"nxg_djawanai1983.pdf"
+pdf7ae	"nxg"	"Ngad''a; Ngadha"'		"p"		"[pʰ]"	"in initial position"	"nxg_djawanai1983.pdf"
 						"[ʰpʰ]"	"in medial position; described as slightly preaspirated and aspirated"	
 				"b"				
 				"ɓ"				
@@ -14393,7 +14393,7 @@
 				"u"		"[u̥]"	"between voiceless consonants or following a voiceless consonant in phrase-final position"	
 				"o"		"[o̥]"	"between voiceless consonants or following a voiceless consonant in phrase-final position"	
 
-1214	"mnb"	"Muna"		"p"		"[ʙ̥]"	"before unstressed /u/; described as rolling release"	"mnb_vandenberg1989.pdf"
+p7db25	"mnb"	"Muna"		"p"		"[ʙ̥]"	"before unstressed /u/; described as rolling release"	"mnb_vandenberg1989.pdf"
 				"b"		"[ʙ]"	"before unstressed /u/; described as rolling release"	
 				"mp"		"[mʙ̥]"	"before unstressed /u/; described as rolling release"	
 				"mb"		"[mʙ]"	"before unstressed /u/; described as rolling release"	
@@ -14432,7 +14432,7 @@
 				"u"				
 				"ɔ"		"[o]"	"adjacent to other vowels"	
 
-1215	"xxk"	"Ke''o; Kéo"'	"Udiworowatu"	"p"				"xxk_baird2002.pdf"
+p1be9c	"xxk"	"Ke''o; Kéo"'	"Udiworowatu"	"p"				"xxk_baird2002.pdf"
 				"b"				
 				"ˀb"				
 				"mb"				
@@ -14464,7 +14464,7 @@
 				"u"				
 				"o"				
 
-1216	"thm"	"Aheu; Thavung"	"Samhing"	"p"		"[p̚]"	"in syllable coda"	"thm_nuchanart1998.pdf"
+pba213	"thm"	"Aheu; Thavung"	"Samhing"	"p"		"[p̚]"	"in syllable coda"	"thm_nuchanart1998.pdf"
 				"pʰ"	"only in syllable onset"			
 				"b"	"only in syllable onset"			
 				"t"		"[t̚]"	"in syllable coda"	
@@ -14512,7 +14512,7 @@
 				"˥˧̰"	"described as a high falling pitch with clear glottalized voice quality (laryngeal constriction)"			
 				"˧˩̤"	"described as a mid falling pitch with breathy voice quality"			
 
-1217	"skf"	"Sakirabiá; Mekens"		"p"		"[b]"	"when followed by vowel across morpheme boundary"	"skf_galucio2001_o.pdf"
+p5858a	"skf"	"Sakirabiá; Mekens"		"p"		"[b]"	"when followed by vowel across morpheme boundary"	"skf_galucio2001_o.pdf"
 				"b"	"cannot occur word initially"			
 				"t"		"[ɾ]"		
 				"k"		"[ɡ]"		
@@ -14548,7 +14548,7 @@
 				"õ"				
 				"õː"				
 
-1218	"tiw"	"Tiwi"		"p"		"[pʷ]"	"preceding rounded vowels"	"tiw_osborne1974.pdf"
+pf6901	"tiw"	"Tiwi"		"p"		"[pʷ]"	"preceding rounded vowels"	"tiw_osborne1974.pdf"
 				"t̪"		"[tʲ]"	"before /i/"	
 						"[t̪ʷ]"	"preceding rounded vowels"	
 				"t"		"[d]"	"following a nasal"	
@@ -14574,7 +14574,7 @@
 				"u"				
 				"o"	"does not occur word-initially or word-finally"	"[a]"	"/a/ and /o/ are neutralized after /w/ and are then in free variation"	
 
-1219	"trw"	"Torwali"		"p"		"[ɸ]"	"intervocalically"	"trw_lunsford2001.pdf"
+p94c78	"trw"	"Torwali"		"p"		"[ɸ]"	"intervocalically"	"trw_lunsford2001.pdf"
 				"pʰ"		"[f]"	"intervocalically"	
 				"b"		"[b̥]"	"word-finally, and usually only utterance-finally"	
 				"<bʱ>"	"only in loan words from Hindi"			
@@ -14630,7 +14630,7 @@
 				"ɑ"				
 				"ɑ̃"				
 
-1220	"tdh"	"Thulung; Thulung Rai"		"p"				"tdh_lahaussois2002.pdf"
+p32fef	"tdh"	"Thulung; Thulung Rai"		"p"				"tdh_lahaussois2002.pdf"
 				"pʰ"				
 				"b"				
 				"bʱ"				
@@ -14669,7 +14669,7 @@
 				"o"				
 				"ɔ"				
 
-1221	"tsj"	"Tshangla"		"p"				"tsj_andvik1999.pdf"
+pd1366	"tsj"	"Tshangla"		"p"				"tsj_andvik1999.pdf"
 				"pʰ"		"[ɸ]"	"intervocalically; also word-initially in some dialects, such as Pema Gatsel"	
 				"b"				
 				"t"	"described as apico-dental"			
@@ -14708,7 +14708,7 @@
 				"u"				
 				"o"				
 
-1222	"cof"	"Colorado; Tsafiki"		"p"				"cof_dickinson2002.pdf"
+p6f6dd	"cof"	"Colorado; Tsafiki"		"p"				"cof_dickinson2002.pdf"
 				"b"		"[ʔb]"		
 				"t̪"				
 				"d̪"		"[ʔd̪]"		
@@ -14735,7 +14735,7 @@
 				"ã"				
 				"ũ"				
 
-1223	"tzj"	"Tzutujil"	"San Juan"	"p"		"[pʰ]"	"word-finally and before consonants with a cluster"	"tzj_dayley1985.pdf"
+p0da54	"tzj"	"Tzutujil"	"San Juan"	"p"		"[pʰ]"	"word-finally and before consonants with a cluster"	"tzj_dayley1985.pdf"
 				"pʼ"		"[ɓ]"	"before vowels"	
 				"t"		"[tʰ]"	"word-finally and before consonants with a cluster"	
 				"tʼ"		"[ɗ]"	"before vowels"	
@@ -14773,7 +14773,7 @@
 				"oː"				
 				"aː"				
 
-1224	"pww"	"Pwo Karen"		"p"				"pww_naruemon1995.pdf"
+pabdcb	"pww"	"Pwo Karen"		"p"				"pww_naruemon1995.pdf"
 				"pʰ"				
 				"b"				
 				"t"				
@@ -14826,7 +14826,7 @@
 				"˥˩"				
 				"˨˥"				
 
-1225	"tyv"	"Tuva; Tuvan"		"p"				"tyv_harrison2000.pdf"
+p4a142	"tyv"	"Tuva; Tuvan"		"p"				"tyv_harrison2000.pdf"
 				"pʰ"		"[ʋ]"	"intervocalically"	
 				"t"		"[tʰ]"	"following a voiceless sound"	
 						"[n]"	"following a nasal"	
@@ -14869,7 +14869,7 @@
 				"o"				
 				"oː"				
 
-1226	"kfk"	"Kinnauri; Kanauri"	"Himachal Pradesh; Kalpa, Nichar, and Pooh areas"	"p"				"kfk_nigam1971.pdf"
+pe84b9	"kfk"	"Kinnauri; Kanauri"	"Himachal Pradesh; Kalpa, Nichar, and Pooh areas"	"p"				"kfk_nigam1971.pdf"
 				"pʰ"				
 				"b"				
 				"t̪"				
@@ -14917,7 +14917,7 @@
 				"oː"				
 				"ɔ"				
 
-1227	"wtm"	"Mewati"		"p"				"wtm_gusain2003.pdf"
+p86830	"wtm"	"Mewati"		"p"				"wtm_gusain2003.pdf"
 				"pʰ"				
 				"b"				
 				"bʱ"				
@@ -14968,7 +14968,7 @@
 				"ɔ"				
 				"ɔ̃"				
 
-1228	"aty"	"Aneityum; Anejom̃"		"p"		"[pʰ]"	"word-initially"	"aty_lynch2000.pdf"
+p24ba7	"aty"	"Aneityum; Anejom̃"		"p"		"[pʰ]"	"word-initially"	"aty_lynch2000.pdf"
 						"[b]"	"between vowels"	
 						"[b̥]"	"between other voiced segments"	
 				"pʷ"		"[pʷʰ]"	"word-initially"	
@@ -15018,7 +15018,7 @@
 						"[oj]"	"preceding palatal segments and /tʃ/"	
 						"[o̝]"	"before /ʊ/"	
 
-1229	"atb"	"Zaiwa"		"p"				"atb_wannemacher1998.pdf"
+pc2f1e	"atb"	"Zaiwa"		"p"				"atb_wannemacher1998.pdf"
 				"pʰ"				
 				"t"				
 				"tʰ"				
@@ -15051,7 +15051,7 @@
 				"˦"				
 				"˧˩"				
 
-1230	"cic"	"Chickasaw"		"p"				"cic_gordon-etal2001.pdf"
+p61295	"cic"	"Chickasaw"		"p"				"cic_gordon-etal2001.pdf"
 				"b"				
 				"t"				
 				"k"		"[ɡ]"	"before an epenthetic vowel, usually inserted between /k/ and a sonorant"	
@@ -15077,7 +15077,7 @@
 				"oː"				
 				"õː"				
 
-1231	"fur"	"Friulian"	"Udine"	"p"				"fur_miotti2002.pdf"
+pff60c	"fur"	"Friulian"	"Udine"	"p"				"fur_miotti2002.pdf"
 				"b"				
 				"t̪"				
 				"d̪"				
@@ -15117,7 +15117,7 @@
 				"ɔ"				
 				"ɔː"				
 
-1232	"apj"	"Jicarilla Apache"	"Dulce"	"p"		"[b]"	"intervocalically, when not in stem-initial position"	"apj_tuttle2002.pdf"
+p9d983	"apj"	"Jicarilla Apache"	"Dulce"	"p"		"[b]"	"intervocalically, when not in stem-initial position"	"apj_tuttle2002.pdf"
 				"t̪"		"[d̪]"	"intervocalically, when not in stem-initial position"	
 				"<t̪ʰ>"	"has largely merged with /kʰ/; only occurs in small number of forms"			
 				"t̪ʼ"				
@@ -15175,7 +15175,7 @@
 				"˨"				
 				"˥˩"				
 
-1233	"ega"	"Ega"	"Gniguedougou & Gnama"	"p"				"ega_connell2002.pdf"
+p3bcfa	"ega"	"Ega"	"Gniguedougou & Gnama"	"p"				"ega_connell2002.pdf"
 				"b"				
 				"ɓ"				
 				"t"				
@@ -15216,7 +15216,7 @@
 				"˧"				
 				"˨"				
 
-1234	"fub"	"Adamawa Fulfulde; Adamawa Fulani"		"p"				"fub_stennes1967.pdf"
+pda071	"fub"	"Adamawa Fulfulde; Adamawa Fulani"		"p"				"fub_stennes1967.pdf"
 				"b"				
 				"ɓ"				
 				"mb"				
@@ -15253,7 +15253,7 @@
 				"u"				
 				"o"				
 
-1235	"are"	"Arrarnte"	"Western Arrarnte"	"p"				"are_anderson2000.pdf"
+p783e8	"are"	"Arrarnte"	"Western Arrarnte"	"p"				"are_anderson2000.pdf"
 				"pm"				
 				"m"				
 				"t̪"				
@@ -15283,7 +15283,7 @@
 				"ə"				
 				"a"				
 
-1236	"xsu"	"Sanuma; Sanumá"		"p"		"[b]"	"""have voiced variants intervocalically in which there is free fluctuation, the voiceless plosive being the more common"""	"xsu_borgman1990.pdf"
+p1675f	"xsu"	"Sanuma; Sanumá"		"p"		"[b]"	"""have voiced variants intervocalically in which there is free fluctuation, the voiceless plosive being the more common"""	"xsu_borgman1990.pdf"
 				"t"		"[d]"	"""have voiced variants intervocalically in which there is free fluctuation, the voiceless plosive being the more common"""	
 						"[ɾ]"	"""t, word medially in fast speech, sometimes has the flapped liquid variant [ř] at the alveolar point of articulation"""	
 				"k"		"[ɡ]"	"""have voiced variants intervocalically in which there is free fluctuation, the voiceless plosive being the more common"""	
@@ -15314,7 +15314,7 @@
 				"ũ"		"[ɨ̃]"	"""the variant [ɨ̃] ... when contiguous to k and followed by o"""	
 				"ɨ̃"	"""high close central unrounded vocoids"""			
 
-1237	"pav"	"Wari; Wari''; Wariʔ; Oro Nao"'	"Oro Nao"	"p"	"""voiceless bilbial plosive occyrs in all positions in the word. It is unreleased when occurring word-finally"""	"[ʔp]"	"""[ʔp] sequence of glottal plosive followed by voiceless bilabial plosive fluctuates with [p] wird-initially"""	"pav_everett1997.pdf"
+pb4ad6	"pav"	"Wari; Wari''; Wariʔ; Oro Nao"'	"Oro Nao"	"p"	"""voiceless bilbial plosive occyrs in all positions in the word. It is unreleased when occurring word-finally"""	"[ʔp]"	"""[ʔp] sequence of glottal plosive followed by voiceless bilabial plosive fluctuates with [p] wird-initially"""	"pav_everett1997.pdf"
 				"t̺"	"""voiceless apico-dental plosive occurs in all positions in the word. It is unreleased when occurring word-finally"""	"[ʔt]"	"""fluctuates with [t] word-initially"""	
 						"[t̺β]"	"""voiceless apico-dental plosive and voiceless bilabial trilled plosive occurs as a single sound word-initially and word-medially. This sound occurs only before /o/ and /ʏ/. It sometimes occurs in variation with [t] and is lexically restricted, occurring in only approximately twenty-five words in our entire corpus. Some idiolects use only [t]. Given the fact that it is heard almost exclusively from older speakers, [t͡B̥]seems to be evolving into [t]"""	
 				"k"	"""voiceless dorso-velar plosive occurs in all positions in the word. It is unreleased when occurring word-finally."""	"[ʔk]"	"""fluctuates with [k] word initially"""	
@@ -15345,7 +15345,7 @@
 				"y"	"""high open front rounded vowel occurs in all positions in the word"""			
 				"ø"	"""mid close front rounded vowel occurs in all positions in the word. It is a rare phoneme and in some dialects, it seems to be evolving into [e] in open syllables and [y] in close syllables"""			
 
-1238	"cro"	"Crow"		"p"		"p"		"cro_kaschube1967.pdf"
+p52e4d	"cro"	"Crow"		"p"		"p"		"cro_kaschube1967.pdf"
 						"b"	"intervocalic"	
 				"t̪"		"t̪"		
 						"d̪"	"intervocalic"	
@@ -15387,7 +15387,7 @@
 				"˩"		"˩"		
 				"˥˩"		"˥˩"		
 
-1239	"boi"	"Barbareño"		"i"				"boi_chumash1970.pdf"
+pf11c4	"boi"	"Barbareño"		"i"				"boi_chumash1970.pdf"
 				"e"				
 				"a"				
 				"o"				
@@ -15432,7 +15432,7 @@
 				"mˀ"				
 				"nˀ"				
 
-1240	"lee"	"Lele (Lyélé)"	"Variety spoken in Debreng"	"p"				"Zygmunt Frajzyngier. 2001. A Grammar of Lele. CSLI Publications."
+p8f53b	"lee"	"Lele (Lyélé)"	"Variety spoken in Debreng"	"p"				"Zygmunt Frajzyngier. 2001. A Grammar of Lele. CSLI Publications."
 				"b"				
 				"ɓ"	"glottalized"			
 				"mb"				

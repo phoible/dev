@@ -1,5 +1,5 @@
 InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	AllophoneNotes	FileNames
-1241	fub	Fulfulde (Cameroon)	CAM	b				adamawa_taylor1953.pdf
+p79847	fub	Fulfulde (Cameroon)	CAM	b				adamawa_taylor1953.pdf
 	fub	Fulfulde (Cameroon)	CAM	ɓ				
 	fub	Fulfulde (Cameroon)	CAM	ʔʲ				
 	fub	Fulfulde (Cameroon)	CAM	m				
@@ -47,7 +47,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fub	Fulfulde (Cameroon)	CAM	aː				
 	fub	Fulfulde (Cameroon)	CAM	oː				
 	fub	Fulfulde (Cameroon)	CAM	uː				
-1242	any	Anyi Sanvi		ɪ				agni_ahua2004_s.pdf
+p17bbe	any	Anyi Sanvi		ɪ				agni_ahua2004_s.pdf
 	any	Anyi Sanvi		ʊ				
 	any	Anyi Sanvi		ɡb				
 	any	Anyi Sanvi		kp				
@@ -91,7 +91,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	any	Anyi Sanvi		˨				
 	any	Anyi Sanvi		˨˦				
 	any	Anyi Sanvi		˦˨				
-1243	any	Agni Djuablin		ɪ				agni_ahua2004_s.pdf
+pb5f35	any	Agni Djuablin		ɪ				agni_ahua2004_s.pdf
 	any	Agni Djuablin		ʊ				
 	any	Agni Djuablin		ʃ				
 	any	Agni Djuablin		ɔ				
@@ -132,7 +132,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	any	Agni Djuablin		˨				
 	any	Agni Djuablin		˨˦				
 	any	Agni Djuablin		˦˨				
-1244	mtb	Agni Morofo		ɪ				agni_quaireau1987_o.pdf
+p542ac	mtb	Agni Morofo		ɪ				agni_quaireau1987_o.pdf
 	mtb	Agni Morofo		ʊ				
 	mtb	Agni Morofo		ɔ				
 	mtb	Agni Morofo		c				
@@ -181,7 +181,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mtb	Agni Morofo		˨				
 	mtb	Agni Morofo		˨˦				
 	mtb	Agni Morofo		˦˨				
-1245	aka	Akan		i				aka_dolphyne1988.pdf
+pf2623	aka	Akan		i				aka_dolphyne1988.pdf
 	aka	Akan		ɪ				
 	aka	Akan		e				
 	aka	Akan		ɛ				
@@ -241,7 +241,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aka	Akan		ɥ				
 	aka	Akan		˦				
 	aka	Akan		˨				
-1246	cko	anufɔ		˦				chakosi_stanford1970.pdf
+p9099a	cko	anufɔ		˦				chakosi_stanford1970.pdf
 	cko	anufɔ		˨				
 	cko	anufɔ		ɡb				
 	cko	anufɔ		ɡbʲ	contrast only before front vowels			
@@ -300,7 +300,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cko	anufɔ		ũ				
 	cko	anufɔ		ɔ̃				
 	cko	anufɔ		ã				
-1247	bvx	babole		i				bvx_Leitch2003.pdf
+p2ed11	bvx	babole		i				bvx_Leitch2003.pdf
 	bvx	babole		u				
 	bvx	babole		e				
 	bvx	babole		ɛ				
@@ -333,7 +333,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bvx	babole		˨				
 	bvx	babole		˦˨				
 	bvx	babole		˨˦				
-1248	bcw	bana		p		[p]	before vowels	bcw_Hofmann1990.pdf
+pcd088	bcw	bana		p		[p]	before vowels	bcw_Hofmann1990.pdf
 	bcw	bana		p		[pʰ]	before vowels	
 	bcw	bana		b				
 	bcw	bana		t		[t]	before vowels	
@@ -393,7 +393,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bcw	bana		˨				
 	bcw	bana		˦˨				
 	bcw	bana		˨˦				
-1249	bdh	baka		a				kresh_aja.pdf
+p6b3ff	bdh	baka		a				kresh_aja.pdf
 	bdh	baka		u				
 	bdh	baka		i				
 	bdh	baka		ɛ				
@@ -439,7 +439,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bdh	baka		w				
 	bdh	baka		j				
 	bdh	baka		ʒ				
-1250	aja	aja		a				kresh_aja.pdf
+p09776	aja	aja		a				kresh_aja.pdf
 	aja	aja		u				
 	aja	aja		i				
 	aja	aja		ɛ				
@@ -487,7 +487,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aja	aja		w				
 	aja	aja		j				
 	aja	aja		ʒ				
-1251	bip	bila		i				bila.pdf
+pa7aed	bip	bila		i				bila.pdf
 	bip	bila		ɪ				
 	bip	bila		u				
 	bip	bila		ʊ				
@@ -522,7 +522,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bip	bila		˨				
 	bip	bila		˨˧				
 	bip	bila		˨˦				
-1252	bqp	busa		i				bqp_Wedekind1972.pdf
+p45e64	bqp	busa		i				bqp_Wedekind1972.pdf
 	bqp	busa		e				
 	bqp	busa		a				
 	bqp	busa		o				
@@ -555,7 +555,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bqp	busa		˦				
 	bqp	busa		˧				
 	bqp	busa		˨				
-1253	fub	fulfulde (fuunaangere)	fuunaangere	ʔ				fub_Bickoe2000.pdf
+pe41db	fub	fulfulde (fuunaangere)	fuunaangere	ʔ				fub_Bickoe2000.pdf
 	fub	fulfulde (fuunaangere)	fuunaangere	r				
 	fub	fulfulde (fuunaangere)	fuunaangere	ʔʲ				
 	fub	fulfulde (fuunaangere)	fuunaangere	ŋ				
@@ -594,7 +594,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fub	fulfulde (fuunaangere)	fuunaangere	uː				
 	fub	fulfulde (fuunaangere)	fuunaangere	oː				
 	fub	fulfulde (fuunaangere)	fuunaangere	aː				
-1254	fuv	fulfulde (NGA)	Kaceccereere	a				fuv_McIntosh1984.pdf
+p82552	fuv	fulfulde (NGA)	Kaceccereere	a				fuv_McIntosh1984.pdf
 	fuv	fulfulde (NGA)	Kaceccereere	ɑː				
 	fuv	fulfulde (NGA)	Kaceccereere	ɛ				
 	fuv	fulfulde (NGA)	Kaceccereere	eː				
@@ -651,7 +651,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fuv	fulfulde (NGA)	Kaceccereere	n̠d̠ʒ	updated from ɲdʒ			
 	fuv	fulfulde (NGA)	Kaceccereere	ŋɡ				
 	fuv	fulfulde (NGA)	Kaceccereere	ŋɡː				
-1255	her	herero		θ				her_Elderkin2003.pdf
+p208c9	her	herero		θ				her_Elderkin2003.pdf
 	her	herero		h				
 	her	herero		p				
 	her	herero		t̪				
@@ -679,7 +679,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	her	herero		a				
 	her	herero		u				
 	her	herero		o				
-1256	sef	Senoufo-Cebaara	Tangari	˦				sef_Herington_etal2009.pdf
+pbec40	sef	Senoufo-Cebaara	Tangari	˦				sef_Herington_etal2009.pdf
 	sef	Senoufo-Cebaara	Tangari	˧				
 	sef	Senoufo-Cebaara	Tangari	˨				
 	sef	Senoufo-Cebaara	Tangari	p		[p]	free variation	
@@ -723,7 +723,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sef	Senoufo-Cebaara	Tangari	ã				
 	sef	Senoufo-Cebaara	Tangari	ãː				
 	sef	Senoufo-Cebaara	Tangari	aː				
-1257	khq	songhoy		˦				khq_Heath2005.pdf
+p5cfb7	khq	songhoy		˦				khq_Heath2005.pdf
 	khq	songhoy		˨				
 	khq	songhoy		˦˨				
 	khq	songhoy		˨˦				
@@ -781,7 +781,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	khq	songhoy		j̃				
 	khq	songhoy		h				
 	khq	songhoy		ʔ				
-1258	ksf	kpaʔ		ɓ				ksf_Guarisma2003.pdf
+pfb32e	ksf	kpaʔ		ɓ				ksf_Guarisma2003.pdf
 	ksf	kpaʔ		ɗ				
 	ksf	kpaʔ		p				
 	ksf	kpaʔ		b				
@@ -829,7 +829,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ksf	kpaʔ		˨				
 	ksf	kpaʔ		˦˨	only long vowels			
 	ksf	kpaʔ		˨˦	only long vowels			
-1259	lea	lega-shabunda	beya	i				lea_Botne2003.pdf
+p996a5	lea	lega-shabunda	beya	i				lea_Botne2003.pdf
 	lea	lega-shabunda	beya	ɪ				
 	lea	lega-shabunda	beya	u				
 	lea	lega-shabunda	beya	ʊ				
@@ -881,7 +881,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lea	lega-shabunda	beya	↓˦				
 	lea	lega-shabunda	beya	˦˨				
 	lea	lega-shabunda	beya	˨˦				
-1260	lmp	limbum (southern)	southern	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
+p37a1c	lmp	limbum (southern)	southern	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
 	lmp	limbum (southern)	southern	b		[p]	before vls consonants and word final	
 	lmp	limbum (southern)	southern	t				
 	lmp	limbum (southern)	southern	d				
@@ -934,7 +934,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmp	limbum (southern)	southern	ũ				
 	lmp	limbum (southern)	southern	ɨ̃				
 	lmp	limbum (southern)	southern	ɛ̃				
-1261	lmp	limbum (central)	central	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
+pd5d93	lmp	limbum (central)	central	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
 	lmp	limbum (central)	central	b		[p]	before vls consonants and word final	
 	lmp	limbum (central)	central	b		[bʲ]	before vls consonants and word final	
 	lmp	limbum (central)	central	t		[t]		
@@ -991,7 +991,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmp	limbum (central)	central	ɛ̃				
 	lmp	limbum (central)	central	ɔ̃				
 	lmp	limbum (central)	central	ũ				
-1262	lmp	limbum (northern)	northern	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
+p7410a	lmp	limbum (northern)	northern	b		[b]	before vls consonants and word final	lmp_Nforgwei2004.pdf
 	lmp	limbum (northern)	northern	b		[p]	before vls consonants and word final	
 	lmp	limbum (northern)	northern	b		[bʲ]	before vls consonants and word final	
 	lmp	limbum (northern)	northern	t		[t]		
@@ -1037,7 +1037,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmp	limbum (northern)	northern	aː				
 	lmp	limbum (northern)	northern	eː				
 	lmp	limbum (northern)	northern	oː				
-1263	mye	myene		p				mye_Jacquot_etal1976.pdf
+p12481	mye	myene		p				mye_Jacquot_etal1976.pdf
 	mye	myene		ɓ				
 	mye	myene		mp				
 	mye	myene		s				
@@ -1088,7 +1088,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mye	myene		a		[ã]		
 	mye	myene		ɔ		[ɔ]		
 	mye	myene		ɔ		[ɔ̃]		
-1264	bud	N'cam		i				ncam_badie1995_o.pdf
+pb07f8	bud	N'cam		i				ncam_badie1995_o.pdf
 	bud	N'cam		e				
 	bud	N'cam		o				
 	bud	N'cam		u				
@@ -1132,7 +1132,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bud	N'cam		˦				
 	bud	N'cam		˧				
 	bud	N'cam		˨				
-1265	tvu	Nen		b		[b]	before schwa	baz_Mous2003.pdf
+p4eb6f	tvu	Nen		b		[b]	before schwa	baz_Mous2003.pdf
 	tvu	Nen		b		[bʷ]	before schwa	
 	tvu	Nen		f				
 	tvu	Nen		t				
@@ -1162,7 +1162,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tvu	Nen		ɔ				
 	tvu	Nen		˦				
 	tvu	Nen		˨				
-1266	mgw	matuumbi		i				mgw_Odden2003.pdf
+pecee6	mgw	matuumbi		i				mgw_Odden2003.pdf
 	mgw	matuumbi		e				
 	mgw	matuumbi		a				
 	mgw	matuumbi		o				
@@ -1185,7 +1185,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mgw	matuumbi		˨				
 	mgw	matuumbi		˨˦				
 	mgw	matuumbi		˦˨				
-1267	yao	yao		i		[i]		yao_Odden2003.pdf
+p8b25d	yao	yao		i		[i]		yao_Odden2003.pdf
 	yao	yao		i		[iː]		
 	yao	yao		ɪ		[ɪ]		
 	yao	yao		ɪ		[ɪː]		
@@ -1221,7 +1221,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	yao	yao		˨				
 	yao	yao		˦˨				
 	yao	yao		˨˦				
-1268	umb	umbundu		p				western-savanna.pdf
+p295d4	umb	umbundu		p				western-savanna.pdf
 	umb	umbundu		t				
 	umb	umbundu		c				
 	umb	umbundu		k				
@@ -1251,7 +1251,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	umb	umbundu		ã				
 	umb	umbundu		ũ				
 	umb	umbundu		õ				
-1269	ndo	ndonga		i				western-savanna.pdf
+pc794b	ndo	ndonga		i				western-savanna.pdf
 	ndo	ndonga		e				
 	ndo	ndonga		a				
 	ndo	ndonga		o				
@@ -1281,7 +1281,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndo	ndonga		m				
 	ndo	ndonga		n				
 	ndo	ndonga		ɲ				
-1270	mhw	mbukushu		i				western-savanna.pdf
+p65cc2	mhw	mbukushu		i				western-savanna.pdf
 	mhw	mbukushu		u				
 	mhw	mbukushu		e				
 	mhw	mbukushu		a				
@@ -1310,7 +1310,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mhw	mbukushu		n				
 	mhw	mbukushu		ɲ				
 	mhw	mbukushu		ŋ				
-1271	diu	diriku		ɛ				western-savanna.pdf
+p04039	diu	diriku		ɛ				western-savanna.pdf
 	diu	diriku		ɔ				
 	diu	diriku		ʊ				
 	diu	diriku		ɪ				
@@ -1338,7 +1338,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	diu	diriku		n				
 	diu	diriku		ɲ				
 	diu	diriku		ŋ				
-1272	kwn	kwangari		ɛ				western-savanna.pdf
+pa23b0	kwn	kwangari		ɛ				western-savanna.pdf
 	kwn	kwangari		ɔ				
 	kwn	kwangari		ʊ				
 	kwn	kwangari		ɪ				
@@ -1365,7 +1365,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kwn	kwangari		n				
 	kwn	kwangari		ɲ				
 	kwn	kwangari		ŋ				
-1273	snk	soninke (kaedi (MRT))	kaedi (MRT)	p				snk-1.pdf
+p40727	snk	soninke (kaedi (MRT))	kaedi (MRT)	p				snk-1.pdf
 	snk	soninke (kaedi (MRT))	kaedi (MRT)	b				
 	snk	soninke (kaedi (MRT))	kaedi (MRT)	t				
 	snk	soninke (kaedi (MRT))	kaedi (MRT)	d				
@@ -1415,7 +1415,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	snk	soninke (kaedi (MRT))	kaedi (MRT)	˨˦				
 	snk	soninke (kaedi (MRT))	kaedi (MRT)	˦˨˦				
 	snk	soninke (kaedi (MRT))	kaedi (MRT)	˨˦˨				
-1274	ses	Songhay, Koyraboro Senni		<p>	marginal			songhay_heath1999.pdf
+pdea9e	ses	Songhay, Koyraboro Senni		<p>	marginal			songhay_heath1999.pdf
 	ses	Songhay, Koyraboro Senni		b				
 	ses	Songhay, Koyraboro Senni		f				
 	ses	Songhay, Koyraboro Senni		m				
@@ -1452,7 +1452,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ses	Songhay, Koyraboro Senni		<ẽ>	rare			
 	ses	Songhay, Koyraboro Senni		<ã>	rare			
 	ses	Songhay, Koyraboro Senni		<õ>	rare			
-1275	lln	Lele		p				lele_frajzyngier.pdf
+p7ce15	lln	Lele		p				lele_frajzyngier.pdf
 	lln	Lele		b				
 	lln	Lele		ɓ				
 	lln	Lele		mb				
@@ -1488,7 +1488,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lln	Lele		aː				
 	lln	Lele		oː				
 	lln	Lele		uː				
-1276	kck	Ikalanga		p				kck_mathangwane.pdf
+p1b18c	kck	Ikalanga		p				kck_mathangwane.pdf
 	kck	Ikalanga		b				
 	kck	Ikalanga		t̪				
 	kck	Ikalanga		d̪				
@@ -1563,7 +1563,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kck	Ikalanga		a				
 	kck	Ikalanga		o				
 	kck	Ikalanga		u				
-1277	lol	mongo-nkundu		˦				lol_hulstaert.pdf
+pb9503	lol	mongo-nkundu		˦				lol_hulstaert.pdf
 	lol	mongo-nkundu		˨				
 	lol	mongo-nkundu		˦˨				
 	lol	mongo-nkundu		˨˦				
@@ -1626,7 +1626,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lol	mongo-nkundu		mʲ				
 	lol	mongo-nkundu		pʲ				
 	lol	mongo-nkundu		sʲ				
-1278	wok	longto		˦				wok_longto.pdf
+p5787a	wok	longto		˦				wok_longto.pdf
 	wok	longto		˨				
 	wok	longto		˨˦				
 	wok	longto		˦˨				
@@ -1657,7 +1657,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	wok	longto		ɛ				
 	wok	longto		ɔ				
 	wok	longto		a				
-1279	xwe	xwela		i				gbe_capo.pdf
+pf5bf1	xwe	xwela		i				gbe_capo.pdf
 	xwe	xwela		e				
 	xwe	xwela		ɛ				
 	xwe	xwela		ɔ				
@@ -1702,7 +1702,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xwe	xwela		˦				
 	xwe	xwela		˨				
 	xwe	xwela		˦˨				
-1280	xwl	western xwla		i				gbe_capo.pdf
+p93f68	xwl	western xwla		i				gbe_capo.pdf
 	xwl	western xwla		e				
 	xwl	western xwla		ɛ				
 	xwl	western xwla		ɔ				
@@ -1747,7 +1747,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xwl	western xwla		˦				
 	xwl	western xwla		˨				
 	xwl	western xwla		˦˨				
-1281	kqk	kotafon		i				gbe_capo.pdf
+p322df	kqk	kotafon		i				gbe_capo.pdf
 	kqk	kotafon		e				
 	kqk	kotafon		ɛ				
 	kqk	kotafon		ɔ				
@@ -1792,7 +1792,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kqk	kotafon		˦				
 	kqk	kotafon		˨				
 	kqk	kotafon		˦˨				
-1282	gbs	gbesi		i				gbe_capo.pdf
+pd0656	gbs	gbesi		i				gbe_capo.pdf
 	gbs	gbesi		e				
 	gbs	gbesi		ɛ				
 	gbs	gbesi		ɔ				
@@ -1839,7 +1839,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gbs	gbesi		˦				
 	gbs	gbesi		˨				
 	gbs	gbesi		˦˨				
-1283	jmc	machame	bosho	i				jmc_kiwoso.pdf
+p6e9cd	jmc	machame	bosho	i				jmc_kiwoso.pdf
 	jmc	machame	bosho	e				
 	jmc	machame	bosho	a				
 	jmc	machame	bosho	o				
@@ -1906,7 +1906,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jmc	machame	bosho	˨				
 	jmc	machame	bosho	˦				
 	jmc	machame	bosho	˦˨				
-1284	mda	mada		pʰ		[pʰ]		mda_price.pdf
+p0cd44	mda	mada		pʰ		[pʰ]		mda_price.pdf
 	mda	mada		pʰ		[mpʰ]		
 	mda	mada		pʰ		[pʲ]		
 	mda	mada		pʰ		[pʷ]		
@@ -1999,7 +1999,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mda	mada		˨				
 	mda	mada		˦˨				
 	mda	mada		˨˦				
-1285	mfo	mbe		p		[p]		mfo_bamgbose.pdf
+pab0bb	mfo	mbe		p		[p]		mfo_bamgbose.pdf
 	mfo	mbe		p		[pɸ]	between nasal and [u]	
 	mfo	mbe		b		[b]		
 	mfo	mbe		b		[b̥]	word-final	
@@ -2044,7 +2044,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mfo	mbe		˨				
 	mfo	mbe		˦˨				
 	mfo	mbe		˨˦				
-1286	nwe	ngwe		p		[p]		nwe_dunstan.pdf
+p49432	nwe	ngwe		p		[p]		nwe_dunstan.pdf
 	nwe	ngwe		p		[pɸ]	word final	
 	nwe	ngwe		t		[t]		
 	nwe	ngwe		d		[r]		
@@ -2094,7 +2094,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nwe	ngwe		ɔ				
 	nwe	ngwe		a				
 	nwe	ngwe		ɤ				
-1287	jow	jowulu		p		[p]		jow_carlson.pdf
+pe77a9	jow	jowulu		p		[p]		jow_carlson.pdf
 	jow	jowulu		p		[pʷ]		
 	jow	jowulu		p		[pʲ]		
 	jow	jowulu		b		[b]		
@@ -2157,7 +2157,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jow	jowulu		˦				
 	jow	jowulu		˧				
 	jow	jowulu		˨				
-1288	yba	yala	ikom	p				yba_armstrong.pdf
+p85b20	yba	yala	ikom	p				yba_armstrong.pdf
 	yba	yala	ikom	t				
 	yba	yala	ikom	c				
 	yba	yala	ikom	k				
@@ -2195,7 +2195,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	yba	yala	ikom	˦				
 	yba	yala	ikom	˧				
 	yba	yala	ikom	˨				
-1289	mgr	cilungu		i				mgr_bickmore.pdf
+p23e97	mgr	cilungu		i				mgr_bickmore.pdf
 	mgr	cilungu		e				
 	mgr	cilungu		u				
 	mgr	cilungu		o				
@@ -2232,7 +2232,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mgr	cilungu		ŋ				
 	mgr	cilungu		j				
 	mgr	cilungu		w				
-1290	kcv	kete		i		[i]		kcv_muzenga.pdf
+pc220e	kcv	kete		i		[i]		kcv_muzenga.pdf
 	kcv	kete		i		[ɪ]		
 	kcv	kete		i		[ɨ]		
 	kcv	kete		i		[iː]		
@@ -2287,7 +2287,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kcv	kete		˨				
 	kcv	kete		˧				
 	kcv	kete		˦˨				
-1291	kws	kwezo		i				kws_forges.pdf
+p60585	kws	kwezo		i				kws_forges.pdf
 	kws	kwezo		e		[e]		
 	kws	kwezo		e		[ɛ]		
 	kws	kwezo		o		[o]		
@@ -2318,7 +2318,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kws	kwezo		˦˨				
 	kws	kwezo		˨˦				
 	kws	kwezo		˦˨˦				
-1292	snm	Madi	Lokai	p				snm_blackingsfabb.pdf
+pfe8fc	snm	Madi	Lokai	p				snm_blackingsfabb.pdf
 	snm	Madi	Lokai	b				
 	snm	Madi	Lokai	t				
 	snm	Madi	Lokai	d				
@@ -2378,7 +2378,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	snm	Madi	Lokai	˦				
 	snm	Madi	Lokai	˧				
 	snm	Madi	Lokai	˨				
-1293	mgd	Moru		p		[p]		tucker.pdf
+p9cc73	mgd	Moru		p		[p]		tucker.pdf
 	mgd	Moru		p		[f]		
 	mgd	Moru		b		[b]		
 	mgd	Moru		b		[v]		
@@ -2426,7 +2426,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mgd	Moru		˦				
 	mgd	Moru		˧				
 	mgd	Moru		˨				
-1294	log	Logo		p		[p]		tucker.pdf
+p3afea	log	Logo		p		[p]		tucker.pdf
 	log	Logo		p		[pf]		
 	log	Logo		b		[v]		
 	log	Logo		b		[bv]		
@@ -2485,7 +2485,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	log	Logo		˦				
 	log	Logo		˧				
 	log	Logo		˨				
-1295	aft	Afitti		b		[b]		aft_voogt.pdf
+pd9361	aft	Afitti		b		[b]		aft_voogt.pdf
 	aft	Afitti		b		[p]		
 	aft	Afitti		d		[d]		
 	aft	Afitti		d		[t]		
@@ -2526,7 +2526,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aft	Afitti		˦				
 	aft	Afitti		˧				
 	aft	Afitti		˨				
-1296	avn	Avatime		p				avatime_schuh.pdf
+p776d8	avn	Avatime		p				avatime_schuh.pdf
 	avn	Avatime		b				
 	avn	Avatime		t				
 	avn	Avatime		d				
@@ -2577,7 +2577,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	avn	Avatime		˧	M tone 1			
 	avn	Avatime		˨	M tone 2			
 	avn	Avatime		˥	H tone			
-1297	abn	Abua		p				abn.pdf
+p15a4f	abn	Abua		p				abn.pdf
 	abn	Abua		b				
 	abn	Abua		ɓ				
 	abn	Abua		β		[β]		
@@ -2623,7 +2623,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	abn	Abua		˦				
 	abn	Abua		˨				
 	abn	Abua		↓˦				
-1298	any	Anyi		p		[p]		any_Pyne1972.pdf
+pb3dc6	any	Anyi		p		[p]		any_Pyne1972.pdf
 	any	Anyi		p		[pᶣ]		
 	any	Anyi		b				
 	any	Anyi		m				
@@ -2671,7 +2671,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	any	Anyi		˨				
 	any	Anyi		˦˨				
 	any	Anyi		˨˦				
-1299	dgh	Dghwede		p				dgh.pdf
+p5213d	dgh	Dghwede		p				dgh.pdf
 	dgh	Dghwede		b				
 	dgh	Dghwede		ɓ				
 	dgh	Dghwede		mb				
@@ -2720,7 +2720,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dgh	Dghwede		˦		[˦]		
 	dgh	Dghwede		˦		[˦˨]		
 	dgh	Dghwede		˨				
-1300	afo	Eloyi		p		[p]		afo.pdf
+pf04b4	afo	Eloyi		p		[p]		afo.pdf
 	afo	Eloyi		p		[ɸ]		
 	afo	Eloyi		p		[pʷ]		
 	afo	Eloyi		pʷ				
@@ -2780,7 +2780,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	afo	Eloyi		˦				
 	afo	Eloyi		˧				
 	afo	Eloyi		˨				
-1301	fuv	Fula (Nigeria)	Nigeria	p				fuv.pdf
+p8e82b	fuv	Fula (Nigeria)	Nigeria	p				fuv.pdf
 	fuv	Fula (Nigeria)	Nigeria	b				
 	fuv	Fula (Nigeria)	Nigeria	t				
 	fuv	Fula (Nigeria)	Nigeria	d				
@@ -2819,7 +2819,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fuv	Fula (Nigeria)	Nigeria	iː				
 	fuv	Fula (Nigeria)	Nigeria	oː				
 	fuv	Fula (Nigeria)	Nigeria	uː				
-1302	acd	Gechode		b				acd.pdf
+p2cba2	acd	Gechode		b				acd.pdf
 	acd	Gechode		d				
 	acd	Gechode		ɡ				
 	acd	Gechode		ɡb				
@@ -2870,7 +2870,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	acd	Gechode		ə				
 	acd	Gechode		ʌ̃				
 	acd	Gechode		ə̃				
-1303	ayg	Genyanga		b				ayg.pdf
+pcaf19	ayg	Genyanga		b				ayg.pdf
 	ayg	Genyanga		d				
 	ayg	Genyanga		ɡ				
 	ayg	Genyanga		ɡb				
@@ -2923,7 +2923,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ayg	Genyanga		ɔ̃				
 	ayg	Genyanga		ʊ̃				
 	ayg	Genyanga		ã				
-1304	hbb	Kilba		p				hbb.pdf
+p69290	hbb	Kilba		p				hbb.pdf
 	hbb	Kilba		b				
 	hbb	Kilba		ɓ				
 	hbb	Kilba		t̪		[t̪]		
@@ -2972,7 +2972,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hbb	Kilba		ɨ				
 	hbb	Kilba		˦				
 	hbb	Kilba		˨				
-1305	kwl	Kofyar		p				kwl.pdf
+p07607	kwl	Kofyar		p				kwl.pdf
 	kwl	Kofyar		t				
 	kwl	Kofyar		t̠ʃ				
 	kwl	Kofyar		k				
@@ -3008,7 +3008,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kwl	Kofyar		˦				
 	kwl	Kofyar		˧				
 	kwl	Kofyar		˨				
-1306	kye	Krache		b		[b]		kye.pdf
+pa597e	kye	Krache		b		[b]		kye.pdf
 	kye	Krache		b		[bʷ]		
 	kye	Krache		d		[d]		
 	kye	Krache		d		[dʷ]		
@@ -3072,7 +3072,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kye	Krache		õ				
 	kye	Krache		ũ				
 	kye	Krache		ɜ̃				
-1307	bmf	Krim		p		[p]		krm.pdf
+p43cf5	bmf	Krim		p		[p]		krm.pdf
 	bmf	Krim		p		[pʲ]		
 	bmf	Krim		p		[pfʷ]		
 	bmf	Krim		t̪				
@@ -3126,7 +3126,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bmf	Krim		ɔː				
 	bmf	Krim		o̝				
 	bmf	Krim		e̝				
-1308	bbp	Banda, West Central	Tangbago	p				banda_sampson.pdf
+pe206c	bbp	Banda, West Central	Tangbago	p				banda_sampson.pdf
 	bbp	Banda, West Central	Tangbago	t				
 	bbp	Banda, West Central	Tangbago	c				
 	bbp	Banda, West Central	Tangbago	ɟ				
@@ -3175,7 +3175,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bbp	Banda, West Central	Tangbago	˨		[˩]		
 	bbp	Banda, West Central	Tangbago	˦˨				
 	bbp	Banda, West Central	Tangbago	˨˦				
-1309	dib	Dinka, South Central		p		[p]		dib.pdf
+p803e3	dib	Dinka, South Central		p		[p]		dib.pdf
 	dib	Dinka, South Central		p		[b]		
 	dib	Dinka, South Central		b				
 	dib	Dinka, South Central		m				
@@ -3240,7 +3240,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dib	Dinka, South Central		˦				
 	dib	Dinka, South Central		˨				
 	dib	Dinka, South Central		˦˨				
-1310	fod	Foodo		˦				foodo.pdf
+p1e75a	fod	Foodo		˦				foodo.pdf
 	fod	Foodo		˨				
 	fod	Foodo		˦˨				
 	fod	Foodo		p				
@@ -3284,7 +3284,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fod	Foodo		ɔː				
 	fod	Foodo		ʊː				
 	fod	Foodo		aː				
-1311	csk	Joola Huluf		b				joola_huluf.pdf
+pbcad1	csk	Joola Huluf		b				joola_huluf.pdf
 	csk	Joola Huluf		m				
 	csk	Joola Huluf		f				
 	csk	Joola Huluf		w				
@@ -3337,7 +3337,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	csk	Joola Huluf		oː				
 	csk	Joola Huluf		uː				
 	csk	Joola Huluf		əː				
-1312	jum	Jumjum		ɪ				jumjum.pdf
+p5ae48	jum	Jumjum		ɪ				jumjum.pdf
 	jum	Jumjum		ɛ		[ɛ]		
 	jum	Jumjum		ɛ		[e]		
 	jum	Jumjum		a				
@@ -3378,7 +3378,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jum	Jumjum		˦				
 	jum	Jumjum		˨				
 	jum	Jumjum		˦˨				
-1313	bdi	Burun	Kurmuk	ɪ				Kurmuk.pdf
+pf91bf	bdi	Burun	Kurmuk	ɪ				Kurmuk.pdf
 	bdi	Burun	Kurmuk	ɛ		[ɛ]		
 	bdi	Burun	Kurmuk	ɛ		[e]		
 	bdi	Burun	Kurmuk	a				
@@ -3418,7 +3418,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bdi	Burun	Kurmuk	˦				
 	bdi	Burun	Kurmuk	˨				
 	bdi	Burun	Kurmuk	˦˨				
-1314	lul	Lulubo		ɪ				Lulubo.pdf
+p97536	lul	Lulubo		ɪ				Lulubo.pdf
 	lul	Lulubo		ɛ				
 	lul	Lulubo		a				
 	lul	Lulubo		ʊ				
@@ -3467,7 +3467,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lul	Lulubo		˦				
 	lul	Lulubo		˨				
 	lul	Lulubo		˧				
-1315	ymm	Maay	Lower Jubba	<p>	rare			Maay.pdf
+p358ad	ymm	Maay	Lower Jubba	<p>	rare			Maay.pdf
 	ymm	Maay	Lower Jubba	b		[b]		
 	ymm	Maay	Lower Jubba	b		[β]	intervocalic	
 	ymm	Maay	Lower Jubba	f				
@@ -3504,7 +3504,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ymm	Maay	Lower Jubba	aː				
 	ymm	Maay	Lower Jubba	uː				
 	ymm	Maay	Lower Jubba	oː				
-1316	mfz	Mabaan		p				Mabaan.pdf
+pd3c24	mfz	Mabaan		p				Mabaan.pdf
 	mfz	Mabaan		b				
 	mfz	Mabaan		m				
 	mfz	Mabaan		ð				
@@ -3554,7 +3554,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mfz	Mabaan		˨				
 	mfz	Mabaan		˦˨				
 	mfz	Mabaan		˨˦				
-1317	sgi	Nizaa		ɪ		[ɪ]		nizaa.pdf
+p71f9b	sgi	Nizaa		ɪ		[ɪ]		nizaa.pdf
 	sgi	Nizaa		ɪ		[ɯ]		
 	sgi	Nizaa		e		[e]		
 	sgi	Nizaa		e		[ɤ]		
@@ -3648,7 +3648,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgi	Nizaa		˨˧				
 	sgi	Nizaa		˧˨				
 	sgi	Nizaa		˨˦˧				
-1318	cce	Copi		i				zone-s.pdf
+p10312	cce	Copi		i				zone-s.pdf
 	cce	Copi		e				
 	cce	Copi		a				
 	cce	Copi		o				
@@ -3716,7 +3716,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cce	Copi		ŋ̤ɡǃ				
 	cce	Copi		˦				
 	cce	Copi		˨				
-1319	xho	Xhosa		i				zone-s.pdf
+pae689	xho	Xhosa		i				zone-s.pdf
 	xho	Xhosa		e				
 	xho	Xhosa		ɛ				
 	xho	Xhosa		o				
@@ -3800,7 +3800,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xho	Xhosa		ŋ̤ǁ				
 	xho	Xhosa		˦				
 	xho	Xhosa		˨				
-1320	akp	Siwu		b				akp.pdf
+p4ca00	akp	Siwu		b				akp.pdf
 	akp	Siwu		p				
 	akp	Siwu		t				
 	akp	Siwu		ɖ				
@@ -3838,7 +3838,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	akp	Siwu		˦				
 	akp	Siwu		˧				
 	akp	Siwu		˨				
-1321	bun	Sherbro		p				bun.pdf
+pead77	bun	Sherbro		p				bun.pdf
 	bun	Sherbro		b				
 	bun	Sherbro		m				
 	bun	Sherbro		t̪				
@@ -3878,7 +3878,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bun	Sherbro		ʊ		[o]		
 	bun	Sherbro		ɔ				
 	bun	Sherbro		u				
-1322	buy	Mmani		p				buy.pdf
+p890ee	buy	Mmani		p				buy.pdf
 	buy	Mmani		b				
 	buy	Mmani		m				
 	buy	Mmani		t				
@@ -3917,7 +3917,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	buy	Mmani		õ				
 	buy	Mmani		ɔ̃				
 	buy	Mmani		ũ				
-1323	cpn	Hill Guang	Gwa	b				cpn.pdf
+p27465	cpn	Hill Guang	Gwa	b				cpn.pdf
 	cpn	Hill Guang	Gwa	kp				
 	cpn	Hill Guang	Gwa	d̪				
 	cpn	Hill Guang	Gwa	t̪ʰ				
@@ -3965,7 +3965,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cpn	Hill Guang	Gwa	ũ		[ʊ̃]		
 	cpn	Hill Guang	Gwa	˦				
 	cpn	Hill Guang	Gwa	˨				
-1324	fap	Ndut-Falor	Falor	p				fap.pdf
+pc57dc	fap	Ndut-Falor	Falor	p				fap.pdf
 	fap	Ndut-Falor	Falor	b				
 	fap	Ndut-Falor	Falor	t				
 	fap	Ndut-Falor	Falor	d				
@@ -4031,7 +4031,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fap	Ndut-Falor	Falor	eː		[ɛː]		
 	fap	Ndut-Falor	Falor	aː		[aː]		
 	fap	Ndut-Falor	Falor	aː		[əː]		
-1325	gur	Frafra	Gudeni	p				gur.pdf
+p63b53	gur	Frafra	Gudeni	p				gur.pdf
 	gur	Frafra	Gudeni	t				
 	gur	Frafra	Gudeni	d				
 	gur	Frafra	Gudeni	kp				
@@ -4066,7 +4066,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gur	Frafra	Gudeni	a				
 	gur	Frafra	Gudeni	˦	no tone given, however most Gur languages are considered to have underlying 2 tone distinction			
 	gur	Frafra	Gudeni	˨	no tone given, however most Gur languages are considered to have underlying 2 tone distinction			
-1326	lip	Likpe	Bakwa	˦				lip.pdf
+p01eca	lip	Likpe	Bakwa	˦				lip.pdf
 	lip	Likpe	Bakwa	˨				
 	lip	Likpe	Bakwa	˧				
 	lip	Likpe	Bakwa	<p>	rare			
@@ -4099,7 +4099,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lip	Likpe	Bakwa	õ				
 	lip	Likpe	Bakwa	ũ				
 	lip	Likpe	Bakwa	ɔ̃				
-1327	maw	Mampruli	Walewale	p				maw.pdf
+pa0241	maw	Mampruli	Walewale	p				maw.pdf
 	maw	Mampruli	Walewale	b				
 	maw	Mampruli	Walewale	t				
 	maw	Mampruli	Walewale	d				
@@ -4143,7 +4143,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	maw	Mampruli	Walewale	uː				
 	maw	Mampruli	Walewale	˨				
 	maw	Mampruli	Walewale	˦				
-1328	toi	Shanjo		i				Bostoen_Bantu_M.pdf
+p3e5b8	toi	Shanjo		i				Bostoen_Bantu_M.pdf
 	toi	Shanjo		e				
 	toi	Shanjo		a				
 	toi	Shanjo		o				
@@ -4184,7 +4184,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	toi	Shanjo		n̠ʃ	updated from nʃ			
 	toi	Shanjo		n̠t̠ʃ	updated from ɲtʃ			
 	toi	Shanjo		n̠d̠ʒ	updated from ɲdʒ			
-1329	pbp	Pajade	Badiaranke	m				pbp.pdf
+pdc92f	pbp	Pajade	Badiaranke	m				pbp.pdf
 	pbp	Pajade	Badiaranke	n				
 	pbp	Pajade	Badiaranke	ɲ				
 	pbp	Pajade	Badiaranke	ŋ				
@@ -4228,7 +4228,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pbp	Pajade	Badiaranke	ə				
 	pbp	Pajade	Badiaranke	ə̃				
 	pbp	Pajade	Badiaranke	ə̃ː				
-1330	snw	Sele		˦				snw.pdf
+p7aca6	snw	Sele		˦				snw.pdf
 	snw	Sele		˧				
 	snw	Sele		˨				
 	snw	Sele		˨	raised low			
@@ -4263,7 +4263,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	snw	Sele		o				
 	snw	Sele		ɔ				
 	snw	Sele		ɔ̃				
-1331	tiv	Tiv	Central (Standard)	p				tiv.pdf
+p1901d	tiv	Tiv	Central (Standard)	p				tiv.pdf
 	tiv	Tiv	Central (Standard)	b				
 	tiv	Tiv	Central (Standard)	mb				
 	tiv	Tiv	Central (Standard)	t				
@@ -4305,7 +4305,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tiv	Tiv	Central (Standard)	˦				
 	tiv	Tiv	Central (Standard)	˨				
 	tiv	Tiv	Central (Standard)	˦˨				
-1332	byn	Blin		b				byn.pdf
+pb7394	byn	Blin		b				byn.pdf
 	byn	Blin		f				
 	byn	Blin		m				
 	byn	Blin		w				
@@ -4343,7 +4343,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	byn	Blin		e				
 	byn	Blin		i				
 	byn	Blin		o				
-1333	xan	Xamtanga		f				agaw.pdf
+p5570b	xan	Xamtanga		f				agaw.pdf
 	xan	Xamtanga		s				
 	xan	Xamtanga		w				
 	xan	Xamtanga		z				
@@ -4375,7 +4375,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xan	Xamtanga		e				
 	xan	Xamtanga		i				
 	xan	Xamtanga		o				
-1334	lik	Lika		ɓ				lik.pdf
+pf3a82	lik	Lika		ɓ				lik.pdf
 	lik	Lika		ɗ				
 	lik	Lika		p				
 	lik	Lika		t				
@@ -4420,7 +4420,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lik	Lika		˨˦				
 	lik	Lika		˦				
 	lik	Lika		˨				
-1335	yns	Yanzi		i				yns.pdf
+p91df9	yns	Yanzi		i				yns.pdf
 	yns	Yanzi		e				
 	yns	Yanzi		ɛ				
 	yns	Yanzi		y				
@@ -4462,7 +4462,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	yns	Yanzi		↓˦				
 	yns	Yanzi		˦				
 	yns	Yanzi		˨				
-1336	buu	Kibudu		p				buu.pdf
+p30170	buu	Kibudu		p				buu.pdf
 	buu	Kibudu		b				
 	buu	Kibudu		t				
 	buu	Kibudu		d				
@@ -4507,7 +4507,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	buu	Kibudu		˨˦				
 	buu	Kibudu		˦				
 	buu	Kibudu		˨				
-1337	khy	Iikile		i				khy.pdf
+pce4e7	khy	Iikile		i				khy.pdf
 	khy	Iikile		e				
 	khy	Iikile		ɛ				
 	khy	Iikile		o				
@@ -4537,7 +4537,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	khy	Iikile		ŋk				
 	khy	Iikile		˦				
 	khy	Iikile		˨				
-1338	lej	Lengola	Balega	i				lej.pdf
+p6c85e	lej	Lengola	Balega	i				lej.pdf
 	lej	Lengola	Balega	e				
 	lej	Lengola	Balega	a				
 	lej	Lengola	Balega	o				
@@ -4569,7 +4569,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lej	Lengola	Balega	˦				
 	lej	Lengola	Balega	˧				
 	lej	Lengola	Balega	˨				
-1339	kbo	Kaliko		i				kbo.pdf
+p0abd5	kbo	Kaliko		i				kbo.pdf
 	kbo	Kaliko		e				
 	kbo	Kaliko		ɛ				
 	kbo	Kaliko		u				
@@ -4614,7 +4614,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kbo	Kaliko		ɖr				
 	kbo	Kaliko		j				
 	kbo	Kaliko		w				
-1340	won	Wongo	Isiinkere	i		[i]		won.pdf
+pa8f4c	won	Wongo	Isiinkere	i		[i]		won.pdf
 	won	Wongo	Isiinkere	i		[ĩ]		
 	won	Wongo	Isiinkere	e		[e]		
 	won	Wongo	Isiinkere	e		[ẽ]		
@@ -4645,7 +4645,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	won	Wongo	Isiinkere	ɰ				
 	won	Wongo	Isiinkere	˦				
 	won	Wongo	Isiinkere	˨				
-1341	wlc	Mwali		i				wlc.pdf
+p472c3	wlc	Mwali		i				wlc.pdf
 	wlc	Mwali		e				
 	wlc	Mwali		a				
 	wlc	Mwali		o				
@@ -4676,7 +4676,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	wlc	Mwali		ʃ				
 	wlc	Mwali		k		[k]		
 	wlc	Mwali		k		[h]		
-1342	aar	Afar		iː		[iː]		afar.pdf
+pe563a	aar	Afar		iː		[iː]		afar.pdf
 	aar	Afar		iː		[iːˤ]		
 	aar	Afar		i		[i]		
 	aar	Afar		i		[iˤ]		
@@ -4717,7 +4717,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aar	Afar		w		[wː]		
 	aar	Afar		j		[j]		
 	aar	Afar		j		[jː]		
-1343	mua	Mundang		p				kebi.pdf
+p839b1	mua	Mundang		p				kebi.pdf
 	mua	Mundang		t				
 	mua	Mundang		t̠ʃ				
 	mua	Mundang		k				
@@ -4784,7 +4784,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mua	Mundang		˦				
 	mua	Mundang		˧				
 	mua	Mundang		˨				
-1344	mru	Mono		p				kebi.pdf
+p21d28	mru	Mono		p				kebi.pdf
 	mru	Mono		t				
 	mru	Mono		t̠ʃ				
 	mru	Mono		k				
@@ -4846,7 +4846,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mru	Mono		˦				
 	mru	Mono		˧				
 	mru	Mono		˨				
-1345	tui	Tupuri		p				kebi.pdf
+pc009f	tui	Tupuri		p				kebi.pdf
 	tui	Tupuri		t				
 	tui	Tupuri		t̠ʃ				
 	tui	Tupuri		k				
@@ -4902,7 +4902,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tui	Tupuri		˧				
 	tui	Tupuri		˨				
 	tui	Tupuri		˨˧				
-1346	xuo	Kuo		p				kebi.pdf
+p5e416	xuo	Kuo		p				kebi.pdf
 	xuo	Kuo		t				
 	xuo	Kuo		k				
 	xuo	Kuo		kp				
@@ -4958,7 +4958,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xuo	Kuo		˦				
 	xuo	Kuo		˧				
 	xuo	Kuo		˨				
-1347	kbn	Kare		p				kebi.pdf
+pfc78d	kbn	Kare		p				kebi.pdf
 	kbn	Kare		t				
 	kbn	Kare		k				
 	kbn	Kare		kp				
@@ -5015,7 +5015,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kbn	Kare		˦				
 	kbn	Kare		˧				
 	kbn	Kare		˨				
-1348	gke	Galke		p				kebi.pdf
+p9ab04	gke	Galke		p				kebi.pdf
 	gke	Galke		t				
 	gke	Galke		t̠ʃ				
 	gke	Galke		k				
@@ -5072,7 +5072,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gke	Galke		˦				
 	gke	Galke		˧				
 	gke	Galke		˨				
-1349	myf	Northern Mao		p		[p]		myf.pdf
+p38e7b	myf	Northern Mao		p		[p]		myf.pdf
 	myf	Northern Mao		p		[f]		
 	myf	Northern Mao		p		[ɸ]		
 	myf	Northern Mao		p		[pʲ]		
@@ -5123,7 +5123,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	myf	Northern Mao		oː				
 	myf	Northern Mao		a				
 	myf	Northern Mao		aː				
-1350	tir	Tigrinya		ʌ				tir.pdf
+pd71f2	tir	Tigrinya		ʌ				tir.pdf
 	tir	Tigrinya		u				
 	tir	Tigrinya		i				
 	tir	Tigrinya		a				
@@ -5195,7 +5195,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tir	Tigrinya		p				
 	tir	Tigrinya		pː				
 	tir	Tigrinya		<v>	loanwords from English			
-1351	kdj	Karimojong		i				kdj.pdf
+p75569	kdj	Karimojong		i				kdj.pdf
 	kdj	Karimojong		y				
 	kdj	Karimojong		e				
 	kdj	Karimojong		ɪ				
@@ -5263,7 +5263,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kdj	Karimojong		˦˨				
 	kdj	Karimojong		˨˧				
 	kdj	Karimojong		˧˨				
-1352	gwn	Gwandara (Karshi)	Karshi	i		[i]		gwn.pdf
+p138e0	gwn	Gwandara (Karshi)	Karshi	i		[i]		gwn.pdf
 	gwn	Gwandara (Karshi)	Karshi	i		[ɨ]	after velar consonants	
 	gwn	Gwandara (Karshi)	Karshi	e		[e]		
 	gwn	Gwandara (Karshi)	Karshi	e		[ə]	after velar consonants	
@@ -5315,7 +5315,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwn	Gwandara (Karshi)	Karshi	˧˨				
 	gwn	Gwandara (Karshi)	Karshi	˦˨				
 	gwn	Gwandara (Karshi)	Karshi	˦˧				
-1353	gwn	Gwandara (Cancara)	Cancara	i				gwn.pdf
+pb1c57	gwn	Gwandara (Cancara)	Cancara	i				gwn.pdf
 	gwn	Gwandara (Cancara)	Cancara	e				
 	gwn	Gwandara (Cancara)	Cancara	a				
 	gwn	Gwandara (Cancara)	Cancara	o				
@@ -5371,7 +5371,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwn	Gwandara (Cancara)	Cancara	˧˨				
 	gwn	Gwandara (Cancara)	Cancara	˦˨				
 	gwn	Gwandara (Cancara)	Cancara	˦˧				
-1354	gwn	Gwandara (Toni)	Toni	i		[i]		gwn.pdf
+p4ffce	gwn	Gwandara (Toni)	Toni	i		[i]		gwn.pdf
 	gwn	Gwandara (Toni)	Toni	i		[ɨ]	after velar consonants	
 	gwn	Gwandara (Toni)	Toni	e				
 	gwn	Gwandara (Toni)	Toni	a				
@@ -5424,7 +5424,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwn	Gwandara (Toni)	Toni	mʷ				
 	gwn	Gwandara (Toni)	Toni	kʲ				
 	gwn	Gwandara (Toni)	Toni	ɡʲ				
-1355	gwn	Gwandara (Gitata)	Gitata	i				gwn.pdf
+pee345	gwn	Gwandara (Gitata)	Gitata	i				gwn.pdf
 	gwn	Gwandara (Gitata)	Gitata	e				
 	gwn	Gwandara (Gitata)	Gitata	ɨ				
 	gwn	Gwandara (Gitata)	Gitata	ə				
@@ -5492,7 +5492,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwn	Gwandara (Gitata)	Gitata	˧˨				
 	gwn	Gwandara (Gitata)	Gitata	˦˨				
 	gwn	Gwandara (Gitata)	Gitata	˦˧				
-1356	gwn	Gwandara (Koro)	Koro	i		[i]		gwn.pdf
+p8c6bc	gwn	Gwandara (Koro)	Koro	i		[i]		gwn.pdf
 	gwn	Gwandara (Koro)	Koro	i		[ɨ]		
 	gwn	Gwandara (Koro)	Koro	e				
 	gwn	Gwandara (Koro)	Koro	a				
@@ -5545,7 +5545,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwn	Gwandara (Koro)	Koro	mʷ				
 	gwn	Gwandara (Koro)	Koro	kʲ				
 	gwn	Gwandara (Koro)	Koro	ɡʲ				
-1357	gwn	Gwandara (Nimbia)	Nimbia	i				gwn.pdf
+p2aa33	gwn	Gwandara (Nimbia)	Nimbia	i				gwn.pdf
 	gwn	Gwandara (Nimbia)	Nimbia	e				
 	gwn	Gwandara (Nimbia)	Nimbia	ɨ				
 	gwn	Gwandara (Nimbia)	Nimbia	ə				
@@ -5614,7 +5614,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwn	Gwandara (Nimbia)	Nimbia	˧˨				
 	gwn	Gwandara (Nimbia)	Nimbia	˦˨				
 	gwn	Gwandara (Nimbia)	Nimbia	˦˧				
-1358	avi	Avikam		ɓ				avi.pdf
+pc8daa	avi	Avikam		ɓ				avi.pdf
 	avi	Avikam		t̠ʃ				
 	avi	Avikam		e		[e]		
 	avi	Avikam		e		[ẽ]		
@@ -5660,7 +5660,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	avi	Avikam		˦				
 	avi	Avikam		˨				
 	avi	Avikam		˦˨				
-1359	shk	Shilluk		b				shk.pdf
+p67121	shk	Shilluk		b				shk.pdf
 	shk	Shilluk		cç	described as 'like the ch in church, but a little further back'			
 	shk	Shilluk		d				
 	shk	Shilluk		d̪				
@@ -5714,7 +5714,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	shk	Shilluk		au				
 	shk	Shilluk		ɔɪ				
 	shk	Shilluk		eɪ				
-1360	hgm	San		a				hgm.pdf
+p05498	hgm	San		a				hgm.pdf
 	hgm	San		b				
 	hgm	San		d				
 	hgm	San		e				
@@ -5743,7 +5743,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hgm	San		<l>	loanwords only			
 	hgm	San		<p>	loanwords only			
 	hgm	San		ħ	approximation, pronounced more strongly than 'x', with the mouth opened wide			
-1361	pip	Pero		p		[p]		pip.pdf
+pa380f	pip	Pero		p		[p]		pip.pdf
 	pip	Pero		p		[f]		
 	pip	Pero		p		[b]		
 	pip	Pero		b		[b]		
@@ -5785,7 +5785,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pip	Pero		uː				
 	pip	Pero		˦				
 	pip	Pero		˨				
-1362	gax	Galla		i				gax-hdy.pdf
+p41b86	gax	Galla		i				gax-hdy.pdf
 	gax	Galla		e				
 	gax	Galla		a				
 	gax	Galla		o				
@@ -5821,7 +5821,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gax	Galla		w				
 	gax	Galla		j				
 	gax	Galla		<z>	loanwords only			
-1363	hdy	Hadiyya		i				gax-hdy.pdf
+pdfefd	hdy	Hadiyya		i				gax-hdy.pdf
 	hdy	Hadiyya		e				
 	hdy	Hadiyya		a				
 	hdy	Hadiyya		o				
@@ -5877,7 +5877,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hdy	Hadiyya		ʔː				
 	hdy	Hadiyya		wː				
 	hdy	Hadiyya		jː				
-1364	wal	Welamo		pʼ				wal.pdf
+p7e274	wal	Welamo		pʼ				wal.pdf
 	wal	Welamo		tʼ				
 	wal	Welamo		cʼ				
 	wal	Welamo		kʼ				
@@ -5925,7 +5925,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	wal	Welamo		uː				
 	wal	Welamo		hː				
 	wal	Welamo		ʔː				
-1365	njx	Nyanga		ɪ				njx.pdf
+p1c5eb	njx	Nyanga		ɪ				njx.pdf
 	njx	Nyanga		i				
 	njx	Nyanga		e				
 	njx	Nyanga		a				
@@ -5986,7 +5986,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	njx	Nyanga		˨				
 	njx	Nyanga		˦˨				
 	njx	Nyanga		˨˦				
-1366	lot	Otuho		<p>	rare			otuho.pdf
+pba962	lot	Otuho		<p>	rare			otuho.pdf
 	lot	Otuho		b				
 	lot	Otuho		t̪				
 	lot	Otuho		d				
@@ -6042,7 +6042,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lot	Otuho		˧				
 	lot	Otuho		˦				
 	lot	Otuho		˨				
-1367	myx	Orusyan		i				myx.pdf
+p58cd9	myx	Orusyan		i				myx.pdf
 	myx	Orusyan		e				
 	myx	Orusyan		a				
 	myx	Orusyan		o				
@@ -6105,7 +6105,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	myx	Orusyan		sʲ				
 	myx	Orusyan		tʲ				
 	myx	Orusyan		vʲ				
-1368	hig	Higi		i				hig.pdf
+pf7050	hig	Higi		i				hig.pdf
 	hig	Higi		e				
 	hig	Higi		ɛ				
 	hig	Higi		a				
@@ -6204,7 +6204,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hig	Higi		ŋ		[ŋʲʷ]		
 	hig	Higi		˦				
 	hig	Higi		˨				
-1369	mzj	Manya		p				mzj.pdf
+p953c7	mzj	Manya		p				mzj.pdf
 	mzj	Manya		b				
 	mzj	Manya		m				
 	mzj	Manya		f				
@@ -6231,7 +6231,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mzj	Manya		ɛ				
 	mzj	Manya		˦				
 	mzj	Manya		˨				
-1370	say	Syan		p				say.pdf
+p3373e	say	Syan		p				say.pdf
 	say	Syan		t				
 	say	Syan		kʲ				
 	say	Syan		k				
@@ -6285,7 +6285,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	say	Syan		˦				
 	say	Syan		˧				
 	say	Syan		˨				
-1371	nzb	Nzɛbi		b		[b]		nzb.pdf
+pd1ab5	nzb	Nzɛbi		b		[b]		nzb.pdf
 	nzb	Nzɛbi		b		[ɓ]		
 	nzb	Nzɛbi		β				
 	nzb	Nzɛbi		d		[d]		
@@ -6326,7 +6326,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nzb	Nzɛbi		ɔ				
 	nzb	Nzɛbi		˦				
 	nzb	Nzɛbi		˨				
-1372	dsq	Tadaksahak		b				dsq.pdf
+p6fe2c	dsq	Tadaksahak		b				dsq.pdf
 	dsq	Tadaksahak		t				
 	dsq	Tadaksahak		d				
 	dsq	Tadaksahak		f				
@@ -6405,7 +6405,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dsq	Tadaksahak		aː				
 	dsq	Tadaksahak		oː				
 	dsq	Tadaksahak		uː				
-1373	ktb	Kambaata		i		[i]		ktb.pdf
+p0e1a3	ktb	Kambaata		i		[i]		ktb.pdf
 	ktb	Kambaata		i		[i̥]		
 	ktb	Kambaata		i		[ĩ]		
 	ktb	Kambaata		e		[e]		
@@ -6480,7 +6480,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ktb	Kambaata		kː				
 	ktb	Kambaata		ɡː				
 	ktb	Kambaata		kʼː				
-1374	otr	Otoro		i		[i]		otr.pdf
+pac51a	otr	Otoro		i		[i]		otr.pdf
 	otr	Otoro		i		[ɪ]		
 	otr	Otoro		a		[a]		
 	otr	Otoro		a		[ɑ]		
@@ -6529,7 +6529,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	otr	Otoro		kʷ				
 	otr	Otoro		ɡʷ				
 	otr	Otoro		ŋʷ				
-1375	tic	Tira		i				otr.pdf
+p4a891	tic	Tira		i				otr.pdf
 	tic	Tira		e̝				
 	tic	Tira		e				
 	tic	Tira		ɛ				
@@ -6576,7 +6576,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tic	Tira		ɡ				
 	tic	Tira		ŋ				
 	tic	Tira		w				
-1376	nmi	Nyam		i				nmi.pdf
+pe8c08	nmi	Nyam		i				nmi.pdf
 	nmi	Nyam		iː				
 	nmi	Nyam		e				
 	nmi	Nyam		eː				
@@ -6633,7 +6633,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nmi	Nyam		˦				
 	nmi	Nyam		˨				
 	nmi	Nyam		˦˨				
-1377	fli	Kirya-Konzɘl		i				fli.pdf
+p86f7f	fli	Kirya-Konzɘl		i				fli.pdf
 	fli	Kirya-Konzɘl		e				
 	fli	Kirya-Konzɘl		ə				
 	fli	Kirya-Konzɘl		a				
@@ -6683,7 +6683,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fli	Kirya-Konzɘl		˦˨				
 	fli	Kirya-Konzɘl		˨˦				
 	fli	Kirya-Konzɘl		↓				
-1378	mcw	Mawa		p				mcw.pdf
+p252f6	mcw	Mawa		p				mcw.pdf
 	mcw	Mawa		b				
 	mcw	Mawa		ɓ				
 	mcw	Mawa		m				
@@ -6716,7 +6716,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mcw	Mawa		˦				
 	mcw	Mawa		˨				
 	mcw	Mawa		˧				
-1379	nmn	!Xóõ		kʘ	ʘ	kʘ		nmn.pdf
+pc366d	nmn	!Xóõ		kʘ	ʘ	kʘ		nmn.pdf
 	nmn	!Xóõ		kǀ	ǀ	kǀ		
 	nmn	!Xóõ		kǁ	ǁ	kǁ		
 	nmn	!Xóõ		kǂ	ǂ	kǂ		
@@ -6877,7 +6877,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nmn	!Xóõ		˦				
 	nmn	!Xóõ		˨				
 	nmn	!Xóõ		˧				
-1380	kib	Koalib		i				kib.pdf
+p619e4	kib	Koalib		i				kib.pdf
 	kib	Koalib		e				
 	kib	Koalib		ɛ				
 	kib	Koalib		ɐ				
@@ -6944,7 +6944,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kib	Koalib		ŋʷ				
 	kib	Koalib		w		[w]		
 	kib	Koalib		w		[wː]		
-1381	kki	Kagulu		i		[i]		kki.pdf
+pffd5b	kki	Kagulu		i		[i]		kki.pdf
 	kki	Kagulu		i		[ĩ]		
 	kki	Kagulu		e		[e]		
 	kki	Kagulu		e		[ẽ]		
@@ -6980,7 +6980,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kki	Kagulu		nd				
 	kki	Kagulu		n̠d̠ʒ				
 	kki	Kagulu		ŋɡ				
-1382	oks	Oko		m				oks.pdf
+p9e0d2	oks	Oko		m				oks.pdf
 	oks	Oko		p				
 	oks	Oko		t				
 	oks	Oko		kp				
@@ -7021,7 +7021,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	oks	Oko		˧				
 	oks	Oko		˧˨				
 	oks	Oko		˨˦				
-1383	knw	!Xun	W2	e				1383_knw.pdf
+p3c449	knw	!Xun	W2	e				1383_knw.pdf
 	knw	!Xun	W2	a				
 	knw	!Xun	W2	o				
 	knw	!Xun	W2	u				
@@ -7141,7 +7141,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	knw	!Xun	W2	˦				
 	knw	!Xun	W2	˨				
 	knw	!Xun	W2	˧				
-1384	bbj	Banjun		p				bbj.pdf
+pda7c0	bbj	Banjun		p				bbj.pdf
 	bbj	Banjun		b		[b]		
 	bbj	Banjun		b		[mb]		
 	bbj	Banjun		f				
@@ -7226,7 +7226,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bbj	Banjun		˧				
 	bbj	Banjun		˦˨				
 	bbj	Banjun		˨˦				
-1385	afn	Defaka		i		[i]		afn.pdf
+p78b37	afn	Defaka		i		[i]		afn.pdf
 	afn	Defaka		i		[ĩ]		
 	afn	Defaka		e		[e]		
 	afn	Defaka		e		[ẽ]		
@@ -7280,7 +7280,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	afn	Defaka		˦˨				
 	afn	Defaka		˨˦				
 	afn	Defaka		↓˦				
-1386	tkq	Tee		p				tkq.pdf
+p16eae	tkq	Tee		p				tkq.pdf
 	tkq	Tee		b				
 	tkq	Tee		w				
 	tkq	Tee		ʍ				
@@ -7319,7 +7319,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tkq	Tee		˦				
 	tkq	Tee		˨				
 	tkq	Tee		˧				
-1387	sgc	Kipsigis		ɪ				sgc.pdf
+pb5225	sgc	Kipsigis		ɪ				sgc.pdf
 	sgc	Kipsigis		ɪː				
 	sgc	Kipsigis		ɛ				
 	sgc	Kipsigis		ɛː				
@@ -7369,7 +7369,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgc	Kipsigis		˨				
 	sgc	Kipsigis		˦˨				
 	sgc	Kipsigis		˨˦				
-1388	pbr	Pangwa		a		[a]		pbr.pdf
+p5359c	pbr	Pangwa		a		[a]		pbr.pdf
 	pbr	Pangwa		a		[ɑ]		
 	pbr	Pangwa		e				
 	pbr	Pangwa		i		[i]		
@@ -7407,7 +7407,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pbr	Pangwa		nd				
 	pbr	Pangwa		n̠d̠ʒ				
 	pbr	Pangwa		ŋɡ				
-1389	hoo	Holoholo		ɪ				hoo.pdf
+pf1913	hoo	Holoholo		ɪ				hoo.pdf
 	hoo	Holoholo		i				
 	hoo	Holoholo		e				
 	hoo	Holoholo		j				
@@ -7436,7 +7436,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hoo	Holoholo		ŋ				
 	hoo	Holoholo		˦				
 	hoo	Holoholo		˨				
-1390	bwu	Buli		o		[o]		bwu.pdf
+p8fc8a	bwu	Buli		o		[o]		bwu.pdf
 	bwu	Buli		o		[ɔ]		
 	bwu	Buli		o		[o̞]		
 	bwu	Buli		e		[e]		
@@ -7502,7 +7502,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bwu	Buli		˦˨				
 	bwu	Buli		˧˦˧	MHM			
 	bwu	Buli		˧˨˧	MLM			
-1391	bjt	Balante	Ganja	i				bjt.pdf
+p2e001	bjt	Balante	Ganja	i				bjt.pdf
 	bjt	Balante	Ganja	e				
 	bjt	Balante	Ganja	ɛ				
 	bjt	Balante	Ganja	a				
@@ -7552,7 +7552,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bjt	Balante	Ganja	ŋmɡb				
 	bjt	Balante	Ganja	ŋʱ				
 	bjt	Balante	Ganja	ŋʷ				
-1392	now	Kinyambo		i				now.pdf
+pcc378	now	Kinyambo		i				now.pdf
 	now	Kinyambo		e				
 	now	Kinyambo		a				
 	now	Kinyambo		o				
@@ -7585,7 +7585,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	now	Kinyambo		˦				
 	now	Kinyambo		˨				
 	now	Kinyambo		˦˨				
-1393	lda	Dan	Santa	p				dan_santa.pdf
+p6a6ef	lda	Dan	Santa	p				dan_santa.pdf
 	lda	Dan	Santa	b				
 	lda	Dan	Santa	ɓ				
 	lda	Dan	Santa	kp				
@@ -7687,7 +7687,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lda	Dan	Santa	˧˨				
 	lda	Dan	Santa	˧˥˨	MSL			
 	lda	Dan	Santa	˥˨˧	SLM			
-1394	pko	Pokot		a				pko.pdf
+p08a66	pko	Pokot		a				pko.pdf
 	pko	Pokot		e				
 	pko	Pokot		i				
 	pko	Pokot		o				
@@ -7730,7 +7730,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pko	Pokot		˦				
 	pko	Pokot		˨				
 	pko	Pokot		˧				
-1395	afr	Afrikaans		i		[i]		afr.pdf
+pa6ddd	afr	Afrikaans		i		[i]		afr.pdf
 	afr	Afrikaans		i		[iː]		
 	afr	Afrikaans		y		[y]		
 	afr	Afrikaans		y		[yː]		
@@ -7781,7 +7781,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	afr	Afrikaans		l				
 	afr	Afrikaans		r				
 	afr	Afrikaans		j				
-1396	agj	Argobba		<pʰ>	rare	[pʰ]		hertzon.pdf
+p45154	agj	Argobba		<pʰ>	rare	[pʰ]		hertzon.pdf
 	agj	Argobba		<pʰ>	rare	[p̚]		
 	agj	Argobba		<pʰ>	rare	[pː]		
 	agj	Argobba		b		[b]		
@@ -7855,7 +7855,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	agj	Argobba		u				
 	agj	Argobba		o				
 	agj	Argobba		<aː>	loanwords only			
-1397	har	Harari		p				hertzon.pdf
+pe34cb	har	Harari		p				hertzon.pdf
 	har	Harari		m				
 	har	Harari		w				
 	har	Harari		f				
@@ -7889,7 +7889,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	har	Harari		eː				
 	har	Harari		o				
 	har	Harari		oː				
-1398	din	Dinka	macrolanguage	p		[p]		din.pdf
+p81842	din	Dinka	macrolanguage	p		[p]		din.pdf
 	din	Dinka	macrolanguage	p		[p̚]		
 	din	Dinka	macrolanguage	b				
 	din	Dinka	macrolanguage	m				
@@ -7958,7 +7958,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	din	Dinka	macrolanguage	ɛː				
 	din	Dinka	macrolanguage	a̤ː				
 	din	Dinka	macrolanguage	ɔ̤ː				
-1399	nzi	Nzema		i				tano.pdf
+p1fbb9	nzi	Nzema		i				tano.pdf
 	nzi	Nzema		ɪ				
 	nzi	Nzema		e				
 	nzi	Nzema		ɛ				
@@ -8010,7 +8010,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nzi	Nzema		h				
 	nzi	Nzema		˦				
 	nzi	Nzema		˨				
-1400	aha	Ahanta		i				tano.pdf
+pbdf30	aha	Ahanta		i				tano.pdf
 	aha	Ahanta		ɪ				
 	aha	Ahanta		e				
 	aha	Ahanta		ɛ				
@@ -8062,7 +8062,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aha	Ahanta		h				
 	aha	Ahanta		˦				
 	aha	Ahanta		˨				
-1401	hna	Besleri		i		[i]		hna.pdf
+p5c2a7	hna	Besleri		i		[i]		hna.pdf
 	hna	Besleri		i		[ɨ]		
 	hna	Besleri		ɛ		[ɛ]		
 	hna	Besleri		ɛ		[æ]		
@@ -8120,7 +8120,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hna	Besleri		ŋɡʷ				
 	hna	Besleri		ʔ				
 	hna	Besleri		h				
-1402	bhs	Buwal		p				bhs.pdf
+pfa61e	bhs	Buwal		p				bhs.pdf
 	bhs	Buwal		b				
 	bhs	Buwal		mb				
 	bhs	Buwal		ɓ		[ɓ]		
@@ -8182,7 +8182,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bhs	Buwal		˦				
 	bhs	Buwal		˨				
 	bhs	Buwal		˧				
-1403	xed	Hide		mb				langermann.pdf;xed.pdf
+p98995	xed	Hide		mb				langermann.pdf;xed.pdf
 	xed	Hide		nd				
 	xed	Hide		ndz		[ndz]		
 	xed	Hide		ndz		[n̠d̠ʒ]		
@@ -8237,7 +8237,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xed	Hide		χʷ				
 	xed	Hide		ʁʷ				
 	xed	Hide		ʔ				
-1404	hia	Lamang		mb				langermann.pdf
+p36d0c	hia	Lamang		mb				langermann.pdf
 	hia	Lamang		nd				
 	hia	Lamang		ŋɡ				
 	hia	Lamang		ŋɡʷ				
@@ -8284,7 +8284,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hia	Lamang		ɣʷ				
 	hia	Lamang		xʷ				
 	hia	Lamang		kʷ				
-1405	ikw	Ikwere		i				ikw.pdf
+pd5083	ikw	Ikwere		i				ikw.pdf
 	ikw	Ikwere		ɪ				
 	ikw	Ikwere		e				
 	ikw	Ikwere		ɛ				
@@ -8341,7 +8341,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ikw	Ikwere		˦˨				
 	ikw	Ikwere		˨˦				
 	ikw	Ikwere		↓˦				
-1406	kot	Lagwan		<t̠ʃ>	loanwords only			kot.pdf
+p733fa	kot	Lagwan		<t̠ʃ>	loanwords only			kot.pdf
 	kot	Lagwan		<d̠ʒ>	loanwords only			
 	kot	Lagwan		<ʃ>	loanwords only			
 	kot	Lagwan		<ʔ>	loanwords only			
@@ -8389,7 +8389,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kot	Lagwan		o				
 	kot	Lagwan		˦				
 	kot	Lagwan		˨				
-1407	gmm	Mbodomo		p				gmm.pdf
+p11771	gmm	Mbodomo		p				gmm.pdf
 	gmm	Mbodomo		b				
 	gmm	Mbodomo		ɓ				
 	gmm	Mbodomo		mb				
@@ -8434,7 +8434,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gmm	Mbodomo		˦				
 	gmm	Mbodomo		˨				
 	gmm	Mbodomo		˧				
-1408	mqb	Mbuko		p				mqb.pdf
+pafae8	mqb	Mbuko		p				mqb.pdf
 	mqb	Mbuko		ɓ				
 	mqb	Mbuko		b				
 	mqb	Mbuko		f				
@@ -8487,7 +8487,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mqb	Mbuko		˦				
 	mqb	Mbuko		˨				
 	mqb	Mbuko		˧				
-1409	mlw	Moloko		mb				mlw.pdf
+p4de5f	mlw	Moloko		mb				mlw.pdf
 	mlw	Moloko		nd				
 	mlw	Moloko		nz		[nz]		
 	mlw	Moloko		nz		[nʒ]		
@@ -8546,7 +8546,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mlw	Moloko		˨˦˨				
 	mlw	Moloko		˦˨				
 	mlw	Moloko		˨˦				
-1410	muy	Muyang		p				muy.pdf
+pec1d6	muy	Muyang		p				muy.pdf
 	muy	Muyang		b				
 	muy	Muyang		mb				
 	muy	Muyang		ɓ				
@@ -8606,7 +8606,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	muy	Muyang		˧				
 	muy	Muyang		˨˦				
 	muy	Muyang		˦˨				
-1411	jgo	Ngomba		p		[p]		jgo_Satre1997.pdf
+p8a54d	jgo	Ngomba		p		[p]		jgo_Satre1997.pdf
 	jgo	Ngomba		p		[b]		
 	jgo	Ngomba		p		[p̚]		
 	jgo	Ngomba		p		[bʲ]		
@@ -8675,7 +8675,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jgo	Ngomba		˦		[˦]		
 	jgo	Ngomba		˦		[↓˦]		
 	jgo	Ngomba		˨				
-1412	dmo	Kemezung		˦				dmo.pdf
+p288c4	dmo	Kemezung		˦				dmo.pdf
 	dmo	Kemezung		˨		[˨]		
 	dmo	Kemezung		˨		[˩		
 	dmo	Kemezung		˧				
@@ -8725,7 +8725,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dmo	Kemezung		u		[u]		
 	dmo	Kemezung		o		[o]		
 	dmo	Kemezung		ɔ		[ɔ]		
-1413	ntm	Nateni		i		[i]		ntm.pdf
+pc6c3b	ntm	Nateni		i		[i]		ntm.pdf
 	ntm	Nateni		i		[j]		
 	ntm	Nateni		i		[ə]		
 	ntm	Nateni		i		[ɨ]		
@@ -8794,7 +8794,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ntm	Nateni		ãː				
 	ntm	Nateni		ũː				
 	ntm	Nateni		ɔ̃ː				
-1414	stv	Silt'i		b		[b]		stv.pdf
+p64fb2	stv	Silt'i		b		[b]		stv.pdf
 	stv	Silt'i		b		[p]		
 	stv	Silt'i		b		[pʰ]		
 	stv	Silt'i		b		[bʱ]		
@@ -8888,7 +8888,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	stv	Silt'i		o		[o]		
 	stv	Silt'i		o		[o̥]		
 	stv	Silt'i		oː				
-1415	weh	Weh		b		[b]		weh.pdf
+p03329	weh	Weh		b		[b]		weh.pdf
 	weh	Weh		b		[p]		
 	weh	Weh		b		[β]		
 	weh	Weh		b		[bʷ]		
@@ -8960,7 +8960,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	weh	Weh		˦˨				
 	weh	Weh		˦				
 	weh	Weh		˨				
-1416	tey	Tulishi	Kamda	t̪				kadugli_krongo.pdf
+pa16a0	tey	Tulishi	Kamda	t̪				kadugli_krongo.pdf
 	tey	Tulishi	Kamda	ʈ				
 	tey	Tulishi	Kamda	<c>	questionable			
 	tey	Tulishi	Kamda	k				
@@ -9023,7 +9023,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tey	Tulishi	Kamda	˦				
 	tey	Tulishi	Kamda	˨				
 	tey	Tulishi	Kamda	˧				
-1417	kec	Keiga		p				kadugli_krongo.pdf
+p3fa17	kec	Keiga		p				kadugli_krongo.pdf
 	kec	Keiga		t̪				
 	kec	Keiga		ʈ				
 	kec	Keiga		c				
@@ -9082,7 +9082,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kec	Keiga		oː				
 	kec	Keiga		˦				
 	kec	Keiga		˨				
-1418	kgo	Krongo		p				kadugli_krongo.pdf
+pddd8e	kgo	Krongo		p				kadugli_krongo.pdf
 	kgo	Krongo		t̪		[t̪]		
 	kgo	Krongo		t̪		[d̪ʉ		
 	kgo	Krongo		ʈ		[ʈ]		
@@ -9152,7 +9152,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kgo	Krongo		uː				
 	kgo	Krongo		o				
 	kgo	Krongo		oː				
-1419	kcp	Kanga (Kanga)	Kanga	ɪ				kadugli_krongo.pdf
+p7c105	kcp	Kanga (Kanga)	Kanga	ɪ				kadugli_krongo.pdf
 	kcp	Kanga (Kanga)	Kanga	ɪː				
 	kcp	Kanga (Kanga)	Kanga	ɛ				
 	kcp	Kanga (Kanga)	Kanga	ɛː				
@@ -9229,7 +9229,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kcp	Kanga (Kanga)	Kanga	rː				
 	kcp	Kanga (Kanga)	Kanga	wː				
 	kcp	Kanga (Kanga)	Kanga	ɲː				
-1420	kcp	Kanga (Kufa)	Kufa	ɪ				kadugli_krongo.pdf
+p1a47c	kcp	Kanga (Kufa)	Kufa	ɪ				kadugli_krongo.pdf
 	kcp	Kanga (Kufa)	Kufa	ɪː				
 	kcp	Kanga (Kufa)	Kufa	ɛ				
 	kcp	Kanga (Kufa)	Kufa	ɛː				
@@ -9304,7 +9304,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kcp	Kanga (Kufa)	Kufa	rː				
 	kcp	Kanga (Kufa)	Kufa	wː				
 	kcp	Kanga (Kufa)	Kufa	jː				
-1421	xtc	Kadugli (Kadugli)	Kadugli	p				kadugli_krongo.pdf
+pb87f3	xtc	Kadugli (Kadugli)	Kadugli	p				kadugli_krongo.pdf
 	xtc	Kadugli (Kadugli)	Kadugli	t̪				
 	xtc	Kadugli (Kadugli)	Kadugli	ʈ				
 	xtc	Kadugli (Kadugli)	Kadugli	k				
@@ -9366,7 +9366,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xtc	Kadugli (Kadugli)	Kadugli	˦				
 	xtc	Kadugli (Kadugli)	Kadugli	˨				
 	xtc	Kadugli (Kadugli)	Kadugli	˧				
-1422	xtc	Kadugli (Miri)	Miri	t̪				kadugli_krongo.pdf
+p56b6a	xtc	Kadugli (Miri)	Miri	t̪				kadugli_krongo.pdf
 	xtc	Kadugli (Miri)	Miri	ʈ				
 	xtc	Kadugli (Miri)	Miri	c				
 	xtc	Kadugli (Miri)	Miri	k				
@@ -9429,7 +9429,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xtc	Kadugli (Miri)	Miri	oː				
 	xtc	Kadugli (Miri)	Miri	˦				
 	xtc	Kadugli (Miri)	Miri	˨				
-1423	xtc	Kadugli (Katcha)	Katcha	p				kadugli_krongo.pdf
+pf4ee1	xtc	Kadugli (Katcha)	Katcha	p				kadugli_krongo.pdf
 	xtc	Kadugli (Katcha)	Katcha	t̪		[t̪]		
 	xtc	Kadugli (Katcha)	Katcha	t̪		[d̪]		
 	xtc	Kadugli (Katcha)	Katcha	ʈ				
@@ -9494,7 +9494,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xtc	Kadugli (Katcha)	Katcha	oː				
 	xtc	Kadugli (Katcha)	Katcha	˦				
 	xtc	Kadugli (Katcha)	Katcha	˨				
-1424	mgc	Morokodo		ɓ				mgc.pdf
+p93258	mgc	Morokodo		ɓ				mgc.pdf
 	mgc	Morokodo		ɗ				
 	mgc	Morokodo		ʄ				
 	mgc	Morokodo		p				
@@ -9548,7 +9548,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mgc	Morokodo		ɔ				
 	mgc	Morokodo		˦				
 	mgc	Morokodo		˨				
-1425	luc	Aringa		ɪ				luc.pdf
+p315cf	luc	Aringa		ɪ				luc.pdf
 	luc	Aringa		i				
 	luc	Aringa		ɛ				
 	luc	Aringa		e				
@@ -9597,7 +9597,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	luc	Aringa		˧				
 	luc	Aringa		˨˦				
 	luc	Aringa		˦˨				
-1426	keg	These		p		[p]		keg.pdf
+pcf946	keg	These		p		[p]		keg.pdf
 	keg	These		p		[b]		
 	keg	These		p		[f]	free variation, initial position	
 	keg	These		p		[h]	free variation, initial position	
@@ -9653,7 +9653,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	keg	These		˧				
 	keg	These		˨˦				
 	keg	These		˦˨				
-1427	lmd	Lumun		t		[t]		talodi.pdf
+p6dcbd	lmd	Lumun		t		[t]		talodi.pdf
 	lmd	Lumun		t		[d]		
 	lmd	Lumun		t		[tː]		
 	lmd	Lumun		c		[c]		
@@ -9707,7 +9707,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lmd	Lumun		ɛː				
 	lmd	Lumun		ʊː				
 	lmd	Lumun		ɔː				
-1428	acz	Asharon		p		[p]		talodi.pdf
+p0c034	acz	Asharon		p		[p]		talodi.pdf
 	acz	Asharon		p		[b]		
 	acz	Asharon		t̪		[t̪]		
 	acz	Asharon		t̪		[d̪ʉ		
@@ -9752,7 +9752,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	acz	Asharon		ʊː				
 	acz	Asharon		ɔː				
 	acz	Asharon		ɲː				
-1429	taz	Tocco		p		[p]		talodi.pdf
+paa3ab	taz	Tocco		p		[p]		talodi.pdf
 	taz	Tocco		p		[b]		
 	taz	Tocco		p		[pː]		
 	taz	Tocco		t̪		[t̪]		
@@ -9797,7 +9797,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	taz	Tocco		˦				
 	taz	Tocco		˨				
 	taz	Tocco		<j>	in question			
-1430	dec	Thakik		p				talodi.pdf
+p48722	dec	Thakik		p				talodi.pdf
 	dec	Thakik		t̪				
 	dec	Thakik		t				
 	dec	Thakik		k				
@@ -9823,7 +9823,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dec	Thakik		a				
 	dec	Thakik		ʊ				
 	dec	Thakik		ɔ				
-1431	did	Didinga		ɓ				did.pdf
+pe6a99	did	Didinga		ɓ				did.pdf
 	did	Didinga		m				
 	did	Didinga		w				
 	did	Didinga		b		[b]		
@@ -9887,7 +9887,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	did	Didinga		˦˨				
 	did	Didinga		˦				
 	did	Didinga		˨				
-1432	lwo	Luwo		i				lwoian.pdf
+p84e10	lwo	Luwo		i				lwoian.pdf
 	lwo	Luwo		eː				
 	lwo	Luwo		ə				
 	lwo	Luwo		oː				
@@ -9919,7 +9919,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lwo	Luwo		t				
 	lwo	Luwo		j				
 	lwo	Luwo		w				
-1433	ach	Acholi		e				lwoian.pdf
+p23187	ach	Acholi		e				lwoian.pdf
 	ach	Acholi		ɑ				
 	ach	Acholi		o				
 	ach	Acholi		u				
@@ -9949,7 +9949,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ach	Acholi		ɔ				
 	ach	Acholi		ʊ				
 	ach	Acholi		ə				
-1434	bxb	Belanda Boor		i				lwoian.pdf
+pc14fe	bxb	Belanda Boor		i				lwoian.pdf
 	bxb	Belanda Boor		ɪ				
 	bxb	Belanda Boor		ɛ				
 	bxb	Belanda Boor		e				
@@ -9987,7 +9987,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bxb	Belanda Boor		˦				
 	bxb	Belanda Boor		˨				
 	bxb	Belanda Boor		˧				
-1435	bvi	Belanda Viri		ɓ				viri.pdf
+p5f875	bvi	Belanda Viri		ɓ				viri.pdf
 	bvi	Belanda Viri		m				
 	bvi	Belanda Viri		f				
 	bvi	Belanda Viri		v				
@@ -10031,7 +10031,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bvi	Belanda Viri		˦				
 	bvi	Belanda Viri		˨				
 	bvi	Belanda Viri		˧				
-1436	ndz	Ndogo		p				viri.pdf
+pfdbec	ndz	Ndogo		p				viri.pdf
 	ndz	Ndogo		t				
 	ndz	Ndogo		c				
 	ndz	Ndogo		k				
@@ -10069,7 +10069,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndz	Ndogo		˦				
 	ndz	Ndogo		˨				
 	ndz	Ndogo		˧				
-1437	bde	Bade	Western	p				bde.pdf
+p9bf63	bde	Bade	Western	p				bde.pdf
 	bde	Bade	Western	b				
 	bde	Bade	Western	ɓ				
 	bde	Bade	Western	f				
@@ -10115,7 +10115,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bde	Bade	Western	˦˨				
 	bde	Bade	Western	˦				
 	bde	Bade	Western	˨				
-1438	fpe	Pichi		p				fpe.pdf
+p3a2da	fpe	Pichi		p				fpe.pdf
 	fpe	Pichi		b				
 	fpe	Pichi		t				
 	fpe	Pichi		d				
@@ -10145,7 +10145,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fpe	Pichi		a				
 	fpe	Pichi		˦				
 	fpe	Pichi		˨				
-1439	jit	Jita		p				jit.pdf
+pd8651	jit	Jita		p				jit.pdf
 	jit	Jita		β				
 	jit	Jita		t				
 	jit	Jita		d				
@@ -10176,7 +10176,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jit	Jita		aː				
 	jit	Jita		˦				
 	jit	Jita		˨				
-1440	dim	Dime		p		[p]		dim.pdf
+p769c8	dim	Dime		p		[p]		dim.pdf
 	dim	Dime		p		[pʰ]		
 	dim	Dime		p		[ɸ]		
 	dim	Dime		b		[b]		
@@ -10257,7 +10257,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dim	Dime		ui				
 	dim	Dime		˦				
 	dim	Dime		˨				
-1441	lto	Lutsootso		p		[p]		lto.pdf
+p14d3f	lto	Lutsootso		p		[p]		lto.pdf
 	lto	Lutsootso		p		[b]		
 	lto	Lutsootso		m				
 	lto	Lutsootso		β				
@@ -10293,7 +10293,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lto	Lutsootso		oː				
 	lto	Lutsootso		˦				
 	lto	Lutsootso		˨				
-1442	djm	Jamsay, Dogon		˦				djm.pdf
+pb30b6	djm	Jamsay, Dogon		˦				djm.pdf
 	djm	Jamsay, Dogon		˨				
 	djm	Jamsay, Dogon		pʰ				
 	djm	Jamsay, Dogon		b				
@@ -10353,7 +10353,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	djm	Jamsay, Dogon		ɛ̃ː				
 	djm	Jamsay, Dogon		ẽː				
 	djm	Jamsay, Dogon		ĩː				
-1443	kam	Kikamba		β		[β]		kam.pdf
+p5142d	kam	Kikamba		β		[β]		kam.pdf
 	kam	Kikamba		β		[b]		
 	kam	Kikamba		m				
 	kam	Kikamba		ð				
@@ -10391,7 +10391,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kam	Kikamba		˩				
 	kam	Kikamba		˦				
 	kam	Kikamba		˨				
-1444	ksf	Bafia		i				ksf.pdf
+pef7a4	ksf	Bafia		i				ksf.pdf
 	ksf	Bafia		e				
 	ksf	Bafia		ɛ				
 	ksf	Bafia		ɨ				
@@ -10442,7 +10442,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ksf	Bafia		˦˨				
 	ksf	Bafia		˦				
 	ksf	Bafia		˨				
-1445	laj	Lango		b				laj.pdf
+p8db1b	laj	Lango		b				laj.pdf
 	laj	Lango		t̠ʃ				
 	laj	Lango		d				
 	laj	Lango		ɡ				
@@ -10483,7 +10483,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	laj	Lango		uː				
 	laj	Lango		˦				
 	laj	Lango		˨				
-1446	lks	Olukisa		i				lks.pdf;lks_donohew.pdf
+p2be92	lks	Olukisa		i				lks.pdf;lks_donohew.pdf
 	lks	Olukisa		iː				
 	lks	Olukisa		e				
 	lks	Olukisa		eː				
@@ -10521,7 +10521,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lks	Olukisa		˨				
 	lks	Olukisa		˨˦				
 	lks	Olukisa		˦˨				
-1447	nuj	Nyole		p				nuj.pdf
+pca209	nuj	Nyole		p				nuj.pdf
 	nuj	Nyole		t				
 	nuj	Nyole		t̠ʃ				
 	nuj	Nyole		k				
@@ -10557,7 +10557,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nuj	Nyole		aː				
 	nuj	Nyole		oː				
 	nuj	Nyole		uː				
-1448	wmw	Kimwani		i				wmw.pdf
+p68580	wmw	Kimwani		i				wmw.pdf
 	wmw	Kimwani		e				
 	wmw	Kimwani		a				
 	wmw	Kimwani		u				
@@ -10583,7 +10583,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	wmw	Kimwani		k				
 	wmw	Kimwani		ɡ				
 	wmw	Kimwani		ŋɡ				
-1449	xkv	Shekgalagari		pʰ				xkv.pdf
+p068f7	xkv	Shekgalagari		pʰ				xkv.pdf
 	xkv	Shekgalagari		p				
 	xkv	Shekgalagari		b				
 	xkv	Shekgalagari		m				
@@ -10637,7 +10637,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xkv	Shekgalagari		e				
 	xkv	Shekgalagari		ɪ				
 	xkv	Shekgalagari		u				
-1450	boz	Tigemaxo Bozo		pʰ				boz.pdf
+pa4c6e	boz	Tigemaxo Bozo		pʰ				boz.pdf
 	boz	Tigemaxo Bozo		b				
 	boz	Tigemaxo Bozo		m				
 	boz	Tigemaxo Bozo		w				
@@ -10673,7 +10673,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	boz	Tigemaxo Bozo		˦				
 	boz	Tigemaxo Bozo		˨				
 	boz	Tigemaxo Bozo		˧				
-1451	alw	Alaaba		iː				alw.pdf
+p42fe5	alw	Alaaba		iː				alw.pdf
 	alw	Alaaba		ɪ				
 	alw	Alaaba		ɛ				
 	alw	Alaaba		ɛː				
@@ -10736,7 +10736,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	alw	Alaaba		lː				
 	alw	Alaaba		wː				
 	alw	Alaaba		jː				
-1452	deg	Degema		m				deg.pdf
+pe135c	deg	Degema		m				deg.pdf
 	deg	Degema		p		[p]		
 	deg	Degema		p		[p̚]		
 	deg	Degema		b				
@@ -10786,7 +10786,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	deg	Degema		˦		[˦]		
 	deg	Degema		˦		[↓˦]		
 	deg	Degema		˨				
-1453	bud	Basari		kp		[kp]		bud.pdf
+p7f6d3	bud	Basari		kp		[kp]		bud.pdf
 	bud	Basari		kp		[kpʷ]		
 	bud	Basari		ɡb		[ɡb]		
 	bud	Basari		ɡb		[ɡbʷ]		
@@ -10870,7 +10870,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bud	Basari		˦				
 	bud	Basari		˨				
 	bud	Basari		˧				
-1454	pre	Principense		a		[a]		pre.pdf
+p1da4a	pre	Principense		a		[a]		pre.pdf
 	pre	Principense		a		[ã]		
 	pre	Principense		ɓ				
 	pre	Principense		ɗ				
@@ -10912,7 +10912,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pre	Principense		z		[ʒ]		
 	pre	Principense		˦				
 	pre	Principense		˨				
-1455	nko	Nkonya		<k>		[k]	loanwords only	nko.pdf
+pbbdc1	nko	Nkonya		<k>		[k]	loanwords only	nko.pdf
 	nko	Nkonya		<k>		[ɡ]	loanwords only	
 	nko	Nkonya		ɟ		[ɟ]		
 	nko	Nkonya		ɟ		[c]		
@@ -10952,7 +10952,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nko	Nkonya		õ				
 	nko	Nkonya		ɔ̃				
 	nko	Nkonya		ũ				
-1456	gru	Soddo		i				gunan_gurage.pdf
+p5a138	gru	Soddo		i				gunan_gurage.pdf
 	gru	Soddo		e				
 	gru	Soddo		a				
 	gru	Soddo		ʌ				
@@ -10993,7 +10993,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gru	Soddo		hʷ				
 	gru	Soddo		hʲ				
 	gru	Soddo		ɲ				
-1457	gru	Goggot		i				gunan_gurage.pdf
+pf84af	gru	Goggot		i				gunan_gurage.pdf
 	gru	Goggot		e				
 	gru	Goggot		a				
 	gru	Goggot		ʌ				
@@ -11034,7 +11034,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gru	Goggot		hʷ				
 	gru	Goggot		hʲ				
 	gru	Goggot		ɲ				
-1458	mvz	Masqan		i				gunan_gurage.pdf
+p96826	mvz	Masqan		i				gunan_gurage.pdf
 	mvz	Masqan		e				
 	mvz	Masqan		a				
 	mvz	Masqan		ʌ				
@@ -11075,7 +11075,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mvz	Masqan		hʷ				
 	mvz	Masqan		hʲ				
 	mvz	Masqan		ɲ				
-1459	sgw	Muher		i				gunan_gurage.pdf
+p34b9d	sgw	Muher		i				gunan_gurage.pdf
 	sgw	Muher		e				
 	sgw	Muher		a				
 	sgw	Muher		ʌ				
@@ -11120,7 +11120,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgw	Muher		hʲ		[hʲ]		
 	sgw	Muher		hʲ		[xʲ]		
 	sgw	Muher		ɲ				
-1460	sgw	Ezha		i				gunan_gurage.pdf
+pd2f14	sgw	Ezha		i				gunan_gurage.pdf
 	sgw	Ezha		e				
 	sgw	Ezha		a				
 	sgw	Ezha		ʌ				
@@ -11159,7 +11159,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgw	Ezha		h				
 	sgw	Ezha		hʷ				
 	sgw	Ezha		hʲ				
-1461	sgw	Chaha		i				gunan_gurage.pdf
+p7128b	sgw	Chaha		i				gunan_gurage.pdf
 	sgw	Chaha		e				
 	sgw	Chaha		a				
 	sgw	Chaha		ʌ				
@@ -11203,7 +11203,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgw	Chaha		β				
 	sgw	Chaha		p				
 	sgw	Chaha		pʷ				
-1462	sgw	Gumer		i				gunan_gurage.pdf
+p0f602	sgw	Gumer		i				gunan_gurage.pdf
 	sgw	Gumer		e				
 	sgw	Gumer		a				
 	sgw	Gumer		ʌ				
@@ -11248,7 +11248,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgw	Gumer		hʲ		[xʲ]		
 	sgw	Gumer		p				
 	sgw	Gumer		pʷ				
-1463	sgw	Gura		i				gunan_gurage.pdf
+pad979	sgw	Gura		i				gunan_gurage.pdf
 	sgw	Gura		e				
 	sgw	Gura		a				
 	sgw	Gura		ʌ				
@@ -11290,7 +11290,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgw	Gura		p				
 	sgw	Gura		pʷ				
 	sgw	Gura		β				
-1464	sgw	Gyeto		i				gunan_gurage.pdf
+p4bcf0	sgw	Gyeto		i				gunan_gurage.pdf
 	sgw	Gyeto		e				
 	sgw	Gyeto		a				
 	sgw	Gyeto		ʌ				
@@ -11335,7 +11335,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sgw	Gyeto		w̃				
 	sgw	Gyeto		β̃				
 	sgw	Gyeto		r̃				
-1465	ior	Ennemor		i				gunan_gurage.pdf
+pea067	ior	Ennemor		i				gunan_gurage.pdf
 	ior	Ennemor		e				
 	ior	Ennemor		a				
 	ior	Ennemor		ʌ				
@@ -11382,7 +11382,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ior	Ennemor		r̃				
 	ior	Ennemor		ʔ	ok			
 	ior	Ennemor		ʔʷ	ok			
-1466	ior	Endegen		i				gunan_gurage.pdf
+p883de	ior	Endegen		i				gunan_gurage.pdf
 	ior	Endegen		e				
 	ior	Endegen		a				
 	ior	Endegen		ʌ				
@@ -11427,7 +11427,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ior	Endegen		r̃				
 	ior	Endegen		ʔ	ok			
 	ior	Endegen		ʔʷ	ok			
-1467	ior	Ener		i				gunan_gurage.pdf
+p26755	ior	Ener		i				gunan_gurage.pdf
 	ior	Ener		e				
 	ior	Ener		a				
 	ior	Ener		ʌ				
@@ -11472,7 +11472,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ior	Ener		r̃				
 	ior	Ener		ʔ	ok			
 	ior	Ener		ʔʷ	ok			
-1468	dnn	Dzuungoo		i		[i]		dnn.pdf
+pc4acc	dnn	Dzuungoo		i		[i]		dnn.pdf
 	dnn	Dzuungoo		i		[ĭ]		
 	dnn	Dzuungoo		i		[ĩ]		
 	dnn	Dzuungoo		i		[ĩ̆]		
@@ -11554,7 +11554,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dnn	Dzuungoo		˦				
 	dnn	Dzuungoo		˨				
 	dnn	Dzuungoo		˧				
-1469	bmi	Bagirmi		i		[i]		bmi.pdf
+p62e43	bmi	Bagirmi		i		[i]		bmi.pdf
 	bmi	Bagirmi		i		[ĩ]		
 	bmi	Bagirmi		ɪ				
 	bmi	Bagirmi		e				
@@ -11608,7 +11608,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bmi	Bagirmi		˦				
 	bmi	Bagirmi		˨				
 	bmi	Bagirmi		˧				
-1470	niy	Ngiti		ɓ̥				niy.pdf
+p011ba	niy	Ngiti		ɓ̥				niy.pdf
 	niy	Ngiti		ɓ				
 	niy	Ngiti		p				
 	niy	Ngiti		b				
@@ -11668,7 +11668,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	niy	Ngiti		˧˨				
 	niy	Ngiti		˦˨				
 	niy	Ngiti		˨˥˩	low falling; L*			
-1471	ndh	Chindali		i				ndh.pdf
+p9f531	ndh	Chindali		i				ndh.pdf
 	ndh	Chindali		e				
 	ndh	Chindali		a				
 	ndh	Chindali		o				
@@ -11708,7 +11708,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndh	Chindali		˦		[˦]		
 	ndh	Chindali		˦		[↓˦]		
 	ndh	Chindali		˨				
-1472	mym	Me'en		p		[p]		mym.pdf
+p3d8a8	mym	Me'en		p		[p]		mym.pdf
 	mym	Me'en		p		[f]		
 	mym	Me'en		p		[ɸ]		
 	mym	Me'en		p		[pʰ]		
@@ -11757,7 +11757,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mym	Me'en		uː				
 	mym	Me'en		oː				
 	mym	Me'en		ɔː				
-1473	nsg	Ongamo		p		[p]		nsg.pdf
+pdbc1f	nsg	Ongamo		p		[p]		nsg.pdf
 	nsg	Ongamo		p		[β]		
 	nsg	Ongamo		ɓ				
 	nsg	Ongamo		m				
@@ -11790,7 +11790,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nsg	Ongamo		a				
 	nsg	Ongamo		ʊ				
 	nsg	Ongamo		ɔ				
-1474	myb	Mbay		i		[i]		myb.pdf
+p79f96	myb	Mbay		i		[i]		myb.pdf
 	myb	Mbay		i		[ɪ]		
 	myb	Mbay		e				
 	myb	Mbay		ə				
@@ -11842,7 +11842,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	myb	Mbay		˦				
 	myb	Mbay		˨				
 	myb	Mbay		˧				
-1475	guk	Gumuz	Sese	<pʼ>	rare			sese.pdf
+p1830d	guk	Gumuz	Sese	<pʼ>	rare			sese.pdf
 	guk	Gumuz	Sese	p		[p]		
 	guk	Gumuz	Sese	p		[pʰ]		
 	guk	Gumuz	Sese	b		[b]		
@@ -11899,7 +11899,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	guk	Gumuz	Sese	aː				
 	guk	Gumuz	Sese	uː				
 	guk	Gumuz	Sese	oː				
-1476	teu	Soo		p				soo.pdf
+pb6684	teu	Soo		p				soo.pdf
 	teu	Soo		ɓ				
 	teu	Soo		m				
 	teu	Soo		w				
@@ -11927,7 +11927,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	teu	Soo		o				
 	teu	Soo		ʊ				
 	teu	Soo		u				
-1477	bcq	Gimira	Benchnon	i				gimira.pdf
+p549fb	bcq	Gimira	Benchnon	i				gimira.pdf
 	bcq	Gimira	Benchnon	e				
 	bcq	Gimira	Benchnon	a				
 	bcq	Gimira	Benchnon	u				
@@ -11990,7 +11990,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bcq	Gimira	Benchnon	˦				
 	bcq	Gimira	Benchnon	˨				
 	bcq	Gimira	Benchnon	˧				
-1478	bcq	Bench		p		[p]		bench.pdf
+pf2d72	bcq	Bench		p		[p]		bench.pdf
 	bcq	Bench		p		[ɸ]		
 	bcq	Bench		b				
 	bcq	Bench		pʼ				
@@ -12031,7 +12031,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bcq	Bench		˦				
 	bcq	Bench		˨				
 	bcq	Bench		˧				
-1479	jnj	Yemsa		b		[b]		bench.pdf
+p910e9	jnj	Yemsa		b		[b]		bench.pdf
 	jnj	Yemsa		b		[β]		
 	jnj	Yemsa		p		[p]		
 	jnj	Yemsa		p		[ɸ]		
@@ -12096,7 +12096,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jnj	Yemsa		˨				
 	jnj	Yemsa		˧				
 	jnj	Yemsa		˩˥				
-1480	zay	Zayse		b		[b]		zay.pdf
+p2f460	zay	Zayse		b		[b]		zay.pdf
 	zay	Zayse		b		[bː]		
 	zay	Zayse		pʰ		[pʰ]		
 	zay	Zayse		pʰ		[f]		
@@ -12149,7 +12149,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zay	Zayse		a				
 	zay	Zayse		o				
 	zay	Zayse		u				
-1481	gmv	Gamo		pʰ				gamo.pdf
+pcd7d7	gmv	Gamo		pʰ				gamo.pdf
 	gmv	Gamo		b				
 	gmv	Gamo		ɓ̥				
 	gmv	Gamo		f		[f]		
@@ -12186,7 +12186,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gmv	Gamo		aː				
 	gmv	Gamo		ɔ̝ː				
 	gmv	Gamo		u̞ː				
-1482	kqy	Koorete		b				kqy.pdf
+p6bb4e	kqy	Koorete		b				kqy.pdf
 	kqy	Koorete		<pʼ>	loanwords only			
 	kqy	Koorete		ɓ	SM removed ʔɓ from CG inputted inventory			
 	kqy	Koorete		m				
@@ -12251,7 +12251,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kqy	Koorete		ɡː				
 	kqy	Koorete		kʼː				
 	kqy	Koorete		ŋː				
-1483	aiw	Aari		b				aiw.pdf
+p09ec5	aiw	Aari		b				aiw.pdf
 	aiw	Aari		ɓ̥				
 	aiw	Aari		f		[f]		
 	aiw	Aari		f		[ɸ]		
@@ -12303,7 +12303,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aiw	Aari		aː		[a̤ː]		
 	aiw	Aari		o̞ː				
 	aiw	Aari		uː				
-1484	xom	Komo		p				omotic_bender.pdf
+pa823c	xom	Komo		p				omotic_bender.pdf
 	xom	Komo		b				
 	xom	Komo		pʼ				
 	xom	Komo		ɓ				
@@ -12331,7 +12331,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xom	Komo		a				
 	xom	Komo		o				
 	xom	Komo		u				
-1485	udu	Twampa		p				omotic_bender.pdf
+p465b3	udu	Twampa		p				omotic_bender.pdf
 	udu	Twampa		b				
 	udu	Twampa		pʼ				
 	udu	Twampa		ɓ				
@@ -12359,7 +12359,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	udu	Twampa		a				
 	udu	Twampa		o				
 	udu	Twampa		u				
-1486	lgn	Opo		p				omotic_bender.pdf
+pe492a	lgn	Opo		p				omotic_bender.pdf
 	lgn	Opo		ɓ				
 	lgn	Opo		m				
 	lgn	Opo		w				
@@ -12384,7 +12384,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lgn	Opo		a				
 	lgn	Opo		o				
 	lgn	Opo		u				
-1487	kmq	Kwama		p				omotic_bender.pdf
+p82ca1	kmq	Kwama		p				omotic_bender.pdf
 	kmq	Kwama		pʼ				
 	kmq	Kwama		b				
 	kmq	Kwama		m				
@@ -12409,7 +12409,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kmq	Kwama		a				
 	kmq	Kwama		o				
 	kmq	Kwama		u				
-1488	mdm	Mayogo		p				mdm.pdf
+p21018	mdm	Mayogo		p				mdm.pdf
 	mdm	Mayogo		b				
 	mdm	Mayogo		mb				
 	mdm	Mayogo		ɓ				
@@ -12455,7 +12455,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mdm	Mayogo		˦				
 	mdm	Mayogo		˨				
 	mdm	Mayogo		˧				
-1489	lsm	Lusaamia		˨˦				lsm.pdf
+pbf38f	lsm	Lusaamia		˨˦				lsm.pdf
 	lsm	Lusaamia		˦˨				
 	lsm	Lusaamia		˦				
 	lsm	Lusaamia		˨				
@@ -12497,7 +12497,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lsm	Lusaamia		aː				
 	lsm	Lusaamia		oː				
 	lsm	Lusaamia		uː				
-1490	nnw	Nouni		p				nnw.pdf
+p5d706	nnw	Nouni		p				nnw.pdf
 	nnw	Nouni		pʷ				
 	nnw	Nouni		b				
 	nnw	Nouni		bʷ				
@@ -12557,7 +12557,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nnw	Nouni		˦				
 	nnw	Nouni		˨				
 	nnw	Nouni		˧				
-1491	nde	Ndebele		i				nbl.pdf
+pfba7d	nde	Ndebele		i				nbl.pdf
 	nde	Ndebele		e				
 	nde	Ndebele		ɑ				
 	nde	Ndebele		o				
@@ -12625,7 +12625,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nde	Ndebele		ŋkx				
 	nde	Ndebele		˦				
 	nde	Ndebele		˨				
-1492	sxw	Saxwe, Gbe		b				sxw.pdf
+p99df4	sxw	Saxwe, Gbe		b				sxw.pdf
 	sxw	Saxwe, Gbe		m				
 	sxw	Saxwe, Gbe		w				
 	sxw	Saxwe, Gbe		f				
@@ -12663,7 +12663,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sxw	Saxwe, Gbe		ɔ̃				
 	sxw	Saxwe, Gbe		˦				
 	sxw	Saxwe, Gbe		˨				
-1493	loh	Laarim		p				laarim_stirtz.pdf
+p3816b	loh	Laarim		p				laarim_stirtz.pdf
 	loh	Laarim		b				
 	loh	Laarim		v				
 	loh	Laarim		m				
@@ -12697,7 +12697,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	loh	Laarim		˦˨				
 	loh	Laarim		˦				
 	loh	Laarim		˨				
-1494	bjg	Bijogo		p				bjg.pdf
+pd64e2	bjg	Bijogo		p				bjg.pdf
 	bjg	Bijogo		t				
 	bjg	Bijogo		s		[s]		
 	bjg	Bijogo		s		[ʂ]		
@@ -12724,7 +12724,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bjg	Bijogo		ɔ				
 	bjg	Bijogo		o				
 	bjg	Bijogo		u				
-1495	doy	Dompo		i				doy.pdf
+p74859	doy	Dompo		i				doy.pdf
 	doy	Dompo		e				
 	doy	Dompo		ɛ				
 	doy	Dompo		a				
@@ -12755,7 +12755,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	doy	Dompo		h				
 	doy	Dompo		˦	author states only that system is quite restricted with only two tones, however H vs. L is assumed here			
 	doy	Dompo		˨	author states only that system is quite restricted with only two tones, however H vs. L is assumed here			
-1496	bam	Bamana	Beledugu	i				beledugu_bam.pdf
+p12bd0	bam	Bamana	Beledugu	i				beledugu_bam.pdf
 	bam	Bamana	Beledugu	e				
 	bam	Bamana	Beledugu	ɛ				
 	bam	Bamana	Beledugu	a				
@@ -12818,7 +12818,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bam	Bamana	Beledugu	ŋʷ				
 	bam	Bamana	Beledugu	˦				
 	bam	Bamana	Beledugu	˨				
-1497	hbn	Heiban		p				hbn.pdf
+pb0f47	hbn	Heiban		p				hbn.pdf
 	hbn	Heiban		b				
 	hbn	Heiban		m				
 	hbn	Heiban		w				
@@ -12852,7 +12852,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hbn	Heiban		u				
 	hbn	Heiban		o				
 	hbn	Heiban		ɔ				
-1498	kga	Koyaga		i				kga.pdf
+p4f2be	kga	Koyaga		i				kga.pdf
 	kga	Koyaga		ĩ				
 	kga	Koyaga		e				
 	kga	Koyaga		ɛ				
@@ -12898,7 +12898,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kga	Koyaga		<ŋm>	rare			
 	kga	Koyaga		˨˦				
 	kga	Koyaga		˦				
-1499	shw	Cwaya		p				shw.pdf
+ped635	shw	Cwaya		p				shw.pdf
 	shw	Cwaya		b				
 	shw	Cwaya		m				
 	shw	Cwaya		f				
@@ -12936,7 +12936,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	shw	Cwaya		˦˨				
 	shw	Cwaya		˦				
 	shw	Cwaya		˨				
-1500	ttb	Tiba		m		[m]		ttb.pdf
+p8b9ac	ttb	Tiba		m		[m]		ttb.pdf
 	ttb	Tiba		m		[mʷ]	initial position only	
 	ttb	Tiba		p				
 	ttb	Tiba		b				
@@ -12983,7 +12983,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ttb	Tiba		˦				
 	ttb	Tiba		˨				
 	ttb	Tiba		˧				
-1501	kua	Kwanyama		m̥				wambo.pdf
+p29d23	kua	Kwanyama		m̥				wambo.pdf
 	kua	Kwanyama		n̥				
 	kua	Kwanyama		ŋ̥				
 	kua	Kwanyama		mb				
@@ -13016,7 +13016,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kua	Kwanyama		u				
 	kua	Kwanyama		˦				
 	kua	Kwanyama		˨				
-1502	lnb	Mbalanhu		m̥				wambo.pdf
+pc809a	lnb	Mbalanhu		m̥				wambo.pdf
 	lnb	Mbalanhu		n̥				
 	lnb	Mbalanhu		ɲ̥				
 	lnb	Mbalanhu		ŋ̥				
@@ -13047,7 +13047,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lnb	Mbalanhu		u				
 	lnb	Mbalanhu		˦				
 	lnb	Mbalanhu		˨				
-1503	kwm	Kwambi		m̥p				wambo.pdf
+p66411	kwm	Kwambi		m̥p				wambo.pdf
 	kwm	Kwambi		n̥				
 	kwm	Kwambi		ŋk				
 	kwm	Kwambi		mb				
@@ -13084,7 +13084,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kwm	Kwambi		u				
 	kwm	Kwambi		˦				
 	kwm	Kwambi		˨				
-1504	nne	Ngandjera		m̥				wambo.pdf
+p04788	nne	Ngandjera		m̥				wambo.pdf
 	nne	Ngandjera		n̥				
 	nne	Ngandjera		ɲ̥				
 	nne	Ngandjera		ŋ̥				
@@ -13121,7 +13121,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nne	Ngandjera		u				
 	nne	Ngandjera		˦				
 	nne	Ngandjera		˨				
-1505	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	m̥				wambo.pdf
+pa2aff	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	m̥				wambo.pdf
 	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	n̥				
 	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	ɲ̥				
 	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	mb				
@@ -13157,7 +13157,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	u				
 	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	˦				
 	ndo	Ndonga (Kwaluudhi)	Kwaluudhi	˨				
-1506	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	m̥				wambo.pdf
+p40e76	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	m̥				wambo.pdf
 	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	n̥				
 	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	ɲ̥				
 	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	mb				
@@ -13193,7 +13193,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	u				
 	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	˦				
 	ndo	Ndonga (Kolonkadhi)	Kolonkadhi	˨				
-1507	ndo	Ndonga (Eunda)	Eunda	m̥ʰ				wambo.pdf
+pdf1ed	ndo	Ndonga (Eunda)	Eunda	m̥ʰ				wambo.pdf
 	ndo	Ndonga (Eunda)	Eunda	n̥				
 	ndo	Ndonga (Eunda)	Eunda	ɲ̥				
 	ndo	Ndonga (Eunda)	Eunda	mb				
@@ -13229,7 +13229,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndo	Ndonga (Eunda)	Eunda	u				
 	ndo	Ndonga (Eunda)	Eunda	˦				
 	ndo	Ndonga (Eunda)	Eunda	˨				
-1508	xon	Konkomba	Nawaré	p				xon_naware.pdf
+p7d564	xon	Konkomba	Nawaré	p				xon_naware.pdf
 	xon	Konkomba	Nawaré	b				
 	xon	Konkomba	Nawaré	m				
 	xon	Konkomba	Nawaré	f				
@@ -13267,7 +13267,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	xon	Konkomba	Nawaré	˦				
 	xon	Konkomba	Nawaré	˨				
 	xon	Konkomba	Nawaré	˧				
-1509	zag	Beria		b				zag.pdf
+p1b8db	zag	Beria		b				zag.pdf
 	zag	Beria		f				
 	zag	Beria		m				
 	zag	Beria		w				
@@ -13305,7 +13305,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zag	Beria		˦				
 	zag	Beria		˨				
 	zag	Beria		˧				
-1510	zwa	Zway		b				zwa.pdf
+pb9c52	zwa	Zway		b				zwa.pdf
 	zwa	Zway		f				
 	zwa	Zway		m				
 	zwa	Zway		w				
@@ -13351,7 +13351,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zwa	Zway		aː				
 	zwa	Zway		uː				
 	zwa	Zway		oː				
-1511	zmx	Leke		i				zmx.pdf
+p57fc9	zmx	Leke		i				zmx.pdf
 	zmx	Leke		ĩ				
 	zmx	Leke		e				
 	zmx	Leke		ɛ				
@@ -13385,7 +13385,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zmx	Leke		w				
 	zmx	Leke		˦				
 	zmx	Leke		˨				
-1512	bbo	Bobo, North	Tansila	i				bbo_new.pdf
+pf6340	bbo	Bobo, North	Tansila	i				bbo_new.pdf
 	bbo	Bobo, North	Tansila	e		[e]		
 	bbo	Bobo, North	Tansila	ɛ		[ɛ]		
 	bbo	Bobo, North	Tansila	a				
@@ -13423,7 +13423,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bbo	Bobo, North	Tansila	˦				
 	bbo	Bobo, North	Tansila	˨				
 	bbo	Bobo, North	Tansila	˧				
-1513	bez	Bena		pʰ				bez_Morrison.pdf
+p946b7	bez	Bena		pʰ				bez_Morrison.pdf
 	bez	Bena		b				
 	bez	Bena		m				
 	bez	Bena		mb				
@@ -13466,7 +13466,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bez	Bena		˦		[˦˨]		
 	bez	Bena		˦		[˦]		
 	bez	Bena		˨				
-1514	gkp	Kpelle, North		i				kpelle_guinea.pdf
+p32a2e	gkp	Kpelle, North		i				kpelle_guinea.pdf
 	gkp	Kpelle, North		ĩ				
 	gkp	Kpelle, North		e				
 	gkp	Kpelle, North		ɛ				
@@ -13505,7 +13505,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gkp	Kpelle, North		˦				
 	gkp	Kpelle, North		˨				
 	gkp	Kpelle, North		˧				
-1515	kke	Kakabe		i				kke_russian.pdf
+pd0da5	kke	Kakabe		i				kke_russian.pdf
 	kke	Kakabe		iː				
 	kke	Kakabe		e				
 	kke	Kakabe		eː				
@@ -13543,7 +13543,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kke	Kakabe		j				
 	kke	Kakabe		˦				
 	kke	Kakabe		˨				
-1516	llc	Lele		i				Lele_vydrine.pdf
+p6f11c	llc	Lele		i				Lele_vydrine.pdf
 	llc	Lele		e				
 	llc	Lele		ɛ				
 	llc	Lele		a				
@@ -13573,7 +13573,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	llc	Lele		h				
 	llc	Lele		˦				
 	llc	Lele		˨				
-1517	lom	Looma		pʰ				looma_mandenkan.pdf
+p0d493	lom	Looma		pʰ				looma_mandenkan.pdf
 	lom	Looma		b				
 	lom	Looma		ɓ				
 	lom	Looma		v				
@@ -13632,7 +13632,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lom	Looma		ɔ̃ː				
 	lom	Looma		˦				
 	lom	Looma		˨				
-1518	mev	Mano		ɓ				mev.pdf
+pab80a	mev	Mano		ɓ				mev.pdf
 	mev	Mano		p				
 	mev	Mano		b				
 	mev	Mano		f				
@@ -13672,7 +13672,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mev	Mano		˦				
 	mev	Mano		˨				
 	mev	Mano		˧				
-1519	tye	Kyanga		i				ross_kyanga.pdf
+p49b81	tye	Kyanga		i				ross_kyanga.pdf
 	tye	Kyanga		ĩ				
 	tye	Kyanga		e				
 	tye	Kyanga		ɛ				
@@ -13715,7 +13715,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tye	Kyanga		˦				
 	tye	Kyanga		˨				
 	tye	Kyanga		˧				
-1520	sho	Shanga		i				ross_kyanga.pdf
+pe7ef8	sho	Shanga		i				ross_kyanga.pdf
 	sho	Shanga		ĩ				
 	sho	Shanga		e				
 	sho	Shanga		ɛ				
@@ -13757,7 +13757,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sho	Shanga		˦				
 	sho	Shanga		˨				
 	sho	Shanga		˧				
-1521	abu	Abure		ʊ				abu.pdf
+p8626f	abu	Abure		ʊ				abu.pdf
 	abu	Abure		ʊ̃				
 	abu	Abure		ɪ				
 	abu	Abure		ɪ̃				
@@ -13807,7 +13807,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	abu	Abure		˨		[˨]		
 	abu	Abure		˦˨		
 	abu	Abure		˨˦		
-1522	abb	Bankon		˨˦				abb.pdf
+p245e6	abb	Bankon		˨˦				abb.pdf
 	abb	Bankon		˦˨				
 	abb	Bankon		˦				
 	abb	Bankon		˨				
@@ -13849,7 +13849,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	abb	Bankon		ŋɡ				
 	abb	Bankon		kʷ	free variation with kp			
 	abb	Bankon		kp	free variation with kʷ			
-1523	afu	Efutu		i				afu.pdf
+pc295d	afu	Efutu		i				afu.pdf
 	afu	Efutu		e				
 	afu	Efutu		ɪ				
 	afu	Efutu		ɛ				
@@ -13903,7 +13903,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	afu	Efutu		w				
 	afu	Efutu		˦				
 	afu	Efutu		˨				
-1524	agq	Aghem		pʰ	only found before [u]			agq_hyman.pdf
+p60cd4	agq	Aghem		pʰ	only found before [u]			agq_hyman.pdf
 	agq	Aghem		b				
 	agq	Aghem		tʰ				
 	agq	Aghem		d				
@@ -13956,7 +13956,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	agq	Aghem		˨		[˨]		
 	agq	Aghem		˦		[↓˦]		
 	agq	Aghem		˨		[˨˥˩]	Low falling	
-1525	arv	Arbore		<pʰ>	rare, likely restricted to loans			arv.pdf
+pff04b	arv	Arbore		<pʰ>	rare, likely restricted to loans			arv.pdf
 	arv	Arbore		b				
 	arv	Arbore		ɓ̥				
 	arv	Arbore		m				
@@ -14015,7 +14015,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	arv	Arbore		aː				
 	arv	Arbore		u̞ː				
 	arv	Arbore		ɔ̝ː				
-1526	abi	Abidji		i				abi_tresbarats.pdf
+p9d3c2	abi	Abidji		i				abi_tresbarats.pdf
 	abi	Abidji		ɪ				
 	abi	Abidji		a				
 	abi	Abidji		u				
@@ -14079,7 +14079,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	abi	Abidji		a		[ã]		
 	abi	Abidji		˦				
 	abi	Abidji		˨				
-1527	adj	Adioukrou		˨˦				adj_herault.pdf
+p3b739	adj	Adioukrou		˨˦				adj_herault.pdf
 	adj	Adioukrou		˦				
 	adj	Adioukrou		˨				
 	adj	Adioukrou		˧				
@@ -14113,7 +14113,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	adj	Adioukrou		o				
 	adj	Adioukrou		ɔ				
 	adj	Adioukrou		a				
-1528	ahi	Aizi, Tiagba		p				ahi.pdf
+pd9ab0	ahi	Aizi, Tiagba		p				ahi.pdf
 	ahi	Aizi, Tiagba		t				
 	ahi	Aizi, Tiagba		<c>	rare			
 	ahi	Aizi, Tiagba		k		[k]		
@@ -14150,7 +14150,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ahi	Aizi, Tiagba		ʊ				
 	ahi	Aizi, Tiagba		o				
 	ahi	Aizi, Tiagba		ɔ				
-1529	ald	Alladian		i				ald_duponchel.pdf
+p77e27	ald	Alladian		i				ald_duponchel.pdf
 	ald	Alladian		ɪ				
 	ald	Alladian		e				
 	ald	Alladian		ɛ				
@@ -14188,7 +14188,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ald	Alladian		l		[ɾ]		
 	ald	Alladian		˦				
 	ald	Alladian		˨				
-1530	bqv	Tinɔr		i				bqv_Blench2009.pdf
+p1619e	bqv	Tinɔr		i				bqv_Blench2009.pdf
 	bqv	Tinɔr		ɪ				
 	bqv	Tinɔr		e				
 	bqv	Tinɔr		ɛ				
@@ -14224,7 +14224,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bqv	Tinɔr		˦				
 	bqv	Tinɔr		˨				
 	bqv	Tinɔr		˧				
-1531	zdj	Shindazidja	Washili	˦				zdj_patin.pdf
+pb4515	zdj	Shindazidja	Washili	˦				zdj_patin.pdf
 	zdj	Shindazidja	Washili	˨				
 	zdj	Shindazidja	Washili	i				
 	zdj	Shindazidja	Washili	e				
@@ -14272,7 +14272,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zdj	Shindazidja	Washili	n̠d̠ʒ				
 	zdj	Shindazidja	Washili	ŋk				
 	zdj	Shindazidja	Washili	ŋɡ				
-1532	ibe	Akpes	Daja	i				akpes.pdf
+p5288c	ibe	Akpes	Daja	i				akpes.pdf
 	ibe	Akpes	Daja	e				
 	ibe	Akpes	Daja	ɛ				
 	ibe	Akpes	Daja	a				
@@ -14306,7 +14306,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ibe	Akpes	Daja	ɡb				
 	ibe	Akpes	Daja	w				
 	ibe	Akpes	Daja	h				
-1533	etx	Iten		i				etx.pdf
+pf0c03	etx	Iten		i				etx.pdf
 	etx	Iten		e				
 	etx	Iten		ɛ				
 	etx	Iten		a				
@@ -14380,7 +14380,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	etx	Iten		˧				
 	etx	Iten		˨˦				
 	etx	Iten		˦˨				
-1534	nus	Nuer		p				fwrightmathesis.pdf
+p8ef7a	nus	Nuer		p				fwrightmathesis.pdf
 	nus	Nuer		b				
 	nus	Nuer		m				
 	nus	Nuer		w				
@@ -14428,7 +14428,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nus	Nuer		ṳː				
 	nus	Nuer		æ̤ː				
 	nus	Nuer		ʊ̤ː				
-1535	gel	West Kainji		i				gel.pdf
+p2d2f1	gel	West Kainji		i				gel.pdf
 	gel	West Kainji		e				
 	gel	West Kainji		ɛ				
 	gel	West Kainji		ɘ				
@@ -14486,7 +14486,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gel	West Kainji		˨				
 	gel	West Kainji		˧				
 	gel	West Kainji		˥˩				
-1536	idu	Idu		i		[i]		idu.pdf
+pcb668	idu	Idu		i		[i]		idu.pdf
 	idu	Idu		ɪ		[ɪ]		
 	idu	Idu		e		[e]		
 	idu	Idu		ɛ		[ɛ]		
@@ -14579,7 +14579,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	idu	Idu		˧				
 	idu	Idu		˨˦				
 	idu	Idu		˦˨				
-1537	iri	Rigwe		i				iri.pdf
+p699df	iri	Rigwe		i				iri.pdf
 	iri	Rigwe		ĩ				
 	iri	Rigwe		e				
 	iri	Rigwe		ẽ				
@@ -14674,7 +14674,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	iri	Rigwe		˨				
 	iri	Rigwe		˧				
 	iri	Rigwe		˩				
-1538	izr	Izere		p				izr.pdf
+p07d56	izr	Izere		p				izr.pdf
 	izr	Izere		b				
 	izr	Izere		<ɸ>	controversial			
 	izr	Izere		f				
@@ -14713,7 +14713,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	izr	Izere		˧				
 	izr	Izere		<˨˦>	loanwords			
 	izr	Izere		<˦˨>	loanwords			
-1539	jer	Jere	Eboze	i				jer_eboze.pdf
+pa60cd	jer	Jere	Eboze	i				jer_eboze.pdf
 	jer	Jere	Eboze	e				
 	jer	Jere	Eboze	ɛ				
 	jer	Jere	Eboze	ə				
@@ -14757,7 +14757,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	jer	Jere	Eboze	˨				
 	jer	Jere	Eboze	˧				
 	jer	Jere	Eboze	˥				
-1540	agb	Leggbo		p				agb_hyman.pdf
+p44444	agb	Leggbo		p				agb_hyman.pdf
 	agb	Leggbo		b				
 	agb	Leggbo		v				
 	agb	Leggbo		m				
@@ -14810,7 +14810,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	agb	Leggbo		˦				
 	agb	Leggbo		˨				
 	agb	Leggbo		˧				
-1541	lgq	Logba		<p>	marginal			logba.pdf
+pe27bb	lgq	Logba		<p>	marginal			logba.pdf
 	lgq	Logba		b				
 	lgq	Logba		m				
 	lgq	Logba		f				
@@ -14852,7 +14852,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lgq	Logba		<˨˦>	borrowed words			
 	lgq	Logba		˦				
 	lgq	Logba		˨				
-1542	awn	Awngi		˦				awngi_2010.pdf
+p80b32	awn	Awngi		˦				awngi_2010.pdf
 	awn	Awngi		˨				
 	awn	Awngi		p		[p]		
 	awn	Awngi		p		[pʰ]	variation	
@@ -14910,7 +14910,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	awn	Awngi		˦˨				
 	awn	Awngi		˦				
 	awn	Awngi		˨				
-1543	glw	Glavda		b				Glavda_Morphology.pdf
+p1eea9	glw	Glavda		b				Glavda_Morphology.pdf
 	glw	Glavda		p				
 	glw	Glavda		ɓ				
 	glw	Glavda		f				
@@ -14953,7 +14953,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	glw	Glavda		uː				
 	glw	Glavda		˦				
 	glw	Glavda		˨				
-1544	ahn	Ahaan		i				uwu_ahan.pdf
+pbd220	ahn	Ahaan		i				uwu_ahan.pdf
 	ahn	Ahaan		e				
 	ahn	Ahaan		ɛ				
 	ahn	Ahaan		a				
@@ -14996,7 +14996,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ahn	Ahaan		˦				
 	ahn	Ahaan		˨				
 	ahn	Ahaan		˧				
-1545	aye	Uwu		i				uwu_ahan.pdf
+p5b597	aye	Uwu		i				uwu_ahan.pdf
 	aye	Uwu		e				
 	aye	Uwu		ɛ				
 	aye	Uwu		a				
@@ -15039,7 +15039,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aye	Uwu		˦				
 	aye	Uwu		˨				
 	aye	Uwu		˧				
-1546	rng	Ronga		b				ronga.pdf
+pf990e	rng	Ronga		b				ronga.pdf
 	rng	Ronga		ɓ				
 	rng	Ronga		p				
 	rng	Ronga		pʰ				
@@ -15110,7 +15110,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	rng	Ronga		u				
 	rng	Ronga		o		[o]		
 	rng	Ronga		o		[ɔ]		
-1547	wni	Comorian, Ndzwani		b				Comorian-inventories.pdf
+p97c85	wni	Comorian, Ndzwani		b				Comorian-inventories.pdf
 	wni	Comorian, Ndzwani		p				
 	wni	Comorian, Ndzwani		v				
 	wni	Comorian, Ndzwani		f				
@@ -15149,7 +15149,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	wni	Comorian, Ndzwani		a				
 	wni	Comorian, Ndzwani		o				
 	wni	Comorian, Ndzwani		u				
-1548	biv	Birifor		p				biv.pdf
+p35ffc	biv	Birifor		p				biv.pdf
 	biv	Birifor		b		[b]		
 	biv	Birifor		b		[p̚]	utterance final	
 	biv	Birifor		f				
@@ -15205,7 +15205,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	biv	Birifor		ʊ̃				
 	biv	Birifor		õ				
 	biv	Birifor		ɔ̃				
-1549	cwt	Kwatay		b				cwt.pdf
+pd4373	cwt	Kwatay		b				cwt.pdf
 	cwt	Kwatay		m				
 	cwt	Kwatay		f				
 	cwt	Kwatay		w				
@@ -15241,7 +15241,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cwt	Kwatay		˦				
 	cwt	Kwatay		˨				
 	cwt	Kwatay		˧				
-1550	ati	Attie	Memni	l		[l]		ati.pdf
+p726ea	ati	Attie	Memni	l		[l]		ati.pdf
 	ati	Attie	Memni	l		[n]	precedinɡ a nasal vowel	
 	ati	Attie	Memni	j		[ɲ]	precedinɡ a nasal vowel	
 	ati	Attie	Memni	j		[j]		
@@ -15299,7 +15299,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ati	Attie	Memni	˧˨				
 	ati	Attie	Memni	˥˨	SHL (superhigh-low			
 	ati	Attie	Memni	˥˧	SHM (superhigh-mid)			
-1551	aoa	Angolar		p				aoa.pdf
+p10a61	aoa	Angolar		p				aoa.pdf
 	aoa	Angolar		ɓ				
 	aoa	Angolar		m				
 	aoa	Angolar		f				
@@ -15337,7 +15337,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aoa	Angolar		ã				
 	aoa	Angolar		ũ				
 	aoa	Angolar		õ				
-1552	hae	Oromo, Eastern	Harar	˦				hae.pdf
+paedd8	hae	Oromo, Eastern	Harar	˦				hae.pdf
 	hae	Oromo, Eastern	Harar	˨				
 	hae	Oromo, Eastern	Harar	i		[i]		
 	hae	Oromo, Eastern	Harar	e		[e]		
@@ -15407,7 +15407,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hae	Oromo, Eastern	Harar	kː	has no singleton counterpart			
 	hae	Oromo, Eastern	Harar	kʼː				
 	hae	Oromo, Eastern	Harar	xː				
-1553	pov	Kriyol		i		[i]		pov.pdf
+p4d14f	pov	Kriyol		i		[i]		pov.pdf
 	pov	Kriyol		u		[u]		
 	pov	Kriyol		e		[e]		
 	pov	Kriyol		o		[o]		
@@ -15445,7 +15445,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pov	Kriyol		e		[ẽ]	nasal environments	
 	pov	Kriyol		o		[õ]	nasal environments	
 	pov	Kriyol		a		[ã]	nasal environments	
-1554	bss	Akoose	Nyasoso	p				manenguba.pdf
+peb4c6	bss	Akoose	Nyasoso	p				manenguba.pdf
 	bss	Akoose	Nyasoso	b				
 	bss	Akoose	Nyasoso	m				
 	bss	Akoose	Nyasoso	t				
@@ -15481,7 +15481,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bss	Akoose	Nyasoso	ɔː				
 	bss	Akoose	Nyasoso	˦				
 	bss	Akoose	Nyasoso	˨				
-1555	bqz	Bakaka (Mwaneka)	Mwaneka	p				manenguba.pdf
+p8983d	bqz	Bakaka (Mwaneka)	Mwaneka	p				manenguba.pdf
 	bqz	Bakaka (Mwaneka)	Mwaneka	b				
 	bqz	Bakaka (Mwaneka)	Mwaneka	t				
 	bqz	Bakaka (Mwaneka)	Mwaneka	d				
@@ -15515,7 +15515,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bqz	Bakaka (Mwaneka)	Mwaneka	oː				
 	bqz	Bakaka (Mwaneka)	Mwaneka	˦				
 	bqz	Bakaka (Mwaneka)	Mwaneka	˨				
-1556	bqz	Bakaka (Babong)	Babong	p				manenguba.pdf
+p27bb4	bqz	Bakaka (Babong)	Babong	p				manenguba.pdf
 	bqz	Bakaka (Babong)	Babong	b				
 	bqz	Bakaka (Babong)	Babong	f		[f]		
 	bqz	Bakaka (Babong)	Babong	f		[v]		
@@ -15547,7 +15547,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bqz	Bakaka (Babong)	Babong	ɔː				
 	bqz	Bakaka (Babong)	Babong	oː				
 	bqz	Bakaka (Babong)	Babong	uː				
-1557	bqz	Bakaka (Mkaa')	Mkaa'	i				manenguba.pdf
+pc5f2b	bqz	Bakaka (Mkaa')	Mkaa'	i				manenguba.pdf
 	bqz	Bakaka (Mkaa')	Mkaa'	e				
 	bqz	Bakaka (Mkaa')	Mkaa'	ɛ				
 	bqz	Bakaka (Mkaa')	Mkaa'	a				
@@ -15581,7 +15581,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bqz	Bakaka (Mkaa')	Mkaa'	ŋ				
 	bqz	Bakaka (Mkaa')	Mkaa'	˦				
 	bqz	Bakaka (Mkaa')	Mkaa'	˨				
-1558	mbo	Mbo (Ekanang)	Ekanang	p				manenguba.pdf
+p642a2	mbo	Mbo (Ekanang)	Ekanang	p				manenguba.pdf
 	mbo	Mbo (Ekanang)	Ekanang	b				
 	mbo	Mbo (Ekanang)	Ekanang	m				
 	mbo	Mbo (Ekanang)	Ekanang	t				
@@ -15616,7 +15616,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mbo	Mbo (Ekanang)	Ekanang	uː				
 	mbo	Mbo (Ekanang)	Ekanang	˦				
 	mbo	Mbo (Ekanang)	Ekanang	˨				
-1559	bsi	Bassossi	Mienge	p				manenguba.pdf
+p02619	bsi	Bassossi	Mienge	p				manenguba.pdf
 	bsi	Bassossi	Mienge	b		[b]		
 	bsi	Bassossi	Mienge	b		[b̤]		
 	bsi	Bassossi	Mienge	m				
@@ -15652,7 +15652,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bsi	Bassossi	Mienge	uː				
 	bsi	Bassossi	Mienge	˦				
 	bsi	Bassossi	Mienge	˨				
-1560	mbo	Mbo (Ngwatta)	Ngwatta	p				manenguba.pdf
+pa0990	mbo	Mbo (Ngwatta)	Ngwatta	p				manenguba.pdf
 	mbo	Mbo (Ngwatta)	Ngwatta	b				
 	mbo	Mbo (Ngwatta)	Ngwatta	f				
 	mbo	Mbo (Ngwatta)	Ngwatta	m				
@@ -15688,7 +15688,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mbo	Mbo (Ngwatta)	Ngwatta	uː				
 	mbo	Mbo (Ngwatta)	Ngwatta	˦				
 	mbo	Mbo (Ngwatta)	Ngwatta	˨				
-1561	lir	Liberian English		p				lir.pdf
+p3ed07	lir	Liberian English		p				lir.pdf
 	lir	Liberian English		b				
 	lir	Liberian English		f				
 	lir	Liberian English		v				
@@ -15724,7 +15724,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lir	Liberian English		ã				
 	lir	Liberian English		ũ				
 	lir	Liberian English		ɔ̃				
-1562	ggu	Gban		ɸ				ggu.pdf
+pdd07e	ggu	Gban		ɸ				ggu.pdf
 	ggu	Gban		β				
 	ggu	Gban		t	pre-alveolar			
 	ggu	Gban		d	pre-alveolar			
@@ -15775,7 +15775,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ggu	Gban		˧˨				
 	ggu	Gban		˦				
 	ggu	Gban		˨				
-1563	eto	Eton		p				eto.pdf
+p7b3f5	eto	Eton		p				eto.pdf
 	eto	Eton		b	optional lenition to [β]	[b]		
 	eto	Eton		b		[bʷ]	before [o]	
 	eto	Eton		v				
@@ -15828,7 +15828,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	eto	Eton		˦				
 	eto	Eton		˨				
 	eto	Eton		˦	there is a second 'dissimilating' H tone			
-1564	rcf	Reunionnais		p				rcf.pdf
+p1976c	rcf	Reunionnais		p				rcf.pdf
 	rcf	Reunionnais		pː	word-final only			
 	rcf	Reunionnais		b				
 	rcf	Reunionnais		bː	word-final only			
@@ -15876,7 +15876,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	rcf	Reunionnais		ẽ				
 	rcf	Reunionnais		õ				
 	rcf	Reunionnais		ã				
-1565	mls	Masalit		<p>	rare			mls.pdf
+pb7ae3	mls	Masalit		<p>	rare			mls.pdf
 	mls	Masalit		b				
 	mls	Masalit		m				
 	mls	Masalit		w				
@@ -15923,7 +15923,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mls	Masalit		˦˨				
 	mls	Masalit		˦				
 	mls	Masalit		˨				
-1566	cri	Saotomense		i				cri.pdf
+p55e5a	cri	Saotomense		i				cri.pdf
 	cri	Saotomense		ĩ				
 	cri	Saotomense		e				
 	cri	Saotomense		ẽ				
@@ -15956,7 +15956,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	cri	Saotomense		l				
 	cri	Saotomense		<ʎ>	marginal			
 	cri	Saotomense		j				
-1567	tan	Tangale		i				tan.pdf
+pf41d1	tan	Tangale		i				tan.pdf
 	tan	Tangale		ɪ				
 	tan	Tangale		e				
 	tan	Tangale		ɛ				
@@ -16016,7 +16016,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tan	Tangale		ɔː				
 	tan	Tangale		˦				
 	tan	Tangale		˨				
-1568	suk	Sukuma		i				suk.pdf
+p92548	suk	Sukuma		i				suk.pdf
 	suk	Sukuma		iː				
 	suk	Sukuma		e		[ɪ]		
 	suk	Sukuma		eː		[ɪː]		
@@ -16075,7 +16075,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	suk	Sukuma		ɲɟ				
 	suk	Sukuma		ŋ̤kʰ				
 	suk	Sukuma		ŋɡ				
-1569	mfe	Mauritian Creole	Ordinary'	p				mfe.pdf
+p308bf	mfe	Mauritian Creole	Ordinary'	p				mfe.pdf
 	mfe	Mauritian Creole	Ordinary'	b				
 	mfe	Mauritian Creole	Ordinary'	t̪		[t̰]		
 	mfe	Mauritian Creole	Ordinary'	t̰		[θ]	word-final	
@@ -16115,7 +16115,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mfe	Mauritian Creole	Ordinary'	<t̠ʃ>	marginal			
 	mfe	Mauritian Creole	Ordinary'	<d̠ʒ>	marginal			
 	mfe	Mauritian Creole	Ordinary'	<ə>	marginal			
-1570	kri	Krio		t̪				krio_nylander.pdf
+pcec36	kri	Krio		t̪				krio_nylander.pdf
 	kri	Krio		d̪				
 	kri	Krio		n̪				
 	kri	Krio		l̪				
@@ -16157,7 +16157,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kri	Krio		˦				
 	kri	Krio		˨				
 	kri	Krio		˧				
-1571	ktu	Kituba	Kwilu	p				ktu.pdf
+p6cfad	ktu	Kituba	Kwilu	p				ktu.pdf
 	ktu	Kituba	Kwilu	t				
 	ktu	Kituba	Kwilu	k				
 	ktu	Kituba	Kwilu	b				
@@ -16179,7 +16179,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ktu	Kituba	Kwilu	a				
 	ktu	Kituba	Kwilu	˦				
 	ktu	Kituba	Kwilu	˨				
-1572	aks	Akasilimi		p				akasilimi_baasaal_podi.pdf
+p0b324	aks	Akasilimi		p				akasilimi_baasaal_podi.pdf
 	aks	Akasilimi		b				
 	aks	Akasilimi		f				
 	aks	Akasilimi		m				
@@ -16231,7 +16231,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	aks	Akasilimi		ʊ̃				
 	aks	Akasilimi		õ				
 	aks	Akasilimi		ɔ̃				
-1573	bag	Tuki		i				bag.pdf
+pa969b	bag	Tuki		i				bag.pdf
 	bag	Tuki		e		[e]		
 	bag	Tuki		a				
 	bag	Tuki		u				
@@ -16302,7 +16302,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bag	Tuki		˦˨				
 	bag	Tuki		˦				
 	bag	Tuki		˨				
-1574	bkc	Baka		b				BakaOrthography.pdf
+p47a12	bkc	Baka		b				BakaOrthography.pdf
 	bkc	Baka		ɓ				
 	bkc	Baka		d				
 	bkc	Baka		ɗ				
@@ -16337,7 +16337,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bkc	Baka		˦				
 	bkc	Baka		˨				
 	bkc	Baka		˧				
-1575	bmv	Bum		b		[b]		bmv.pdf
+pe5d89	bmv	Bum		b		[b]		bmv.pdf
 	bmv	Bum		b		[p]	syllable-final	
 	bmv	Bum		t				
 	bmv	Bum		d				
@@ -16391,7 +16391,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bmv	Bum		˦˨				
 	bmv	Bum		˦				
 	bmv	Bum		˨				
-1576	dbq	Daba		p				dbq_lienhard.pdf
+p84100	dbq	Daba		p				dbq_lienhard.pdf
 	dbq	Daba		b				
 	dbq	Daba		ɓ		[ɓ]		
 	dbq	Daba		ɓ		[ɓ̚]	word-final	
@@ -16442,7 +16442,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dbq	Daba		˦				
 	dbq	Daba		˨				
 	dbq	Daba		˧				
-1577	gou	Gavar		b				gou.pdf
+p22477	gou	Gavar		b				gou.pdf
 	gou	Gavar		ɓ				
 	gou	Gavar		t̠ʃ				
 	gou	Gavar		d				
@@ -16505,7 +16505,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gou	Gavar		˦				
 	gou	Gavar		˨				
 	gou	Gavar		˧				
-1578	gde	Gu'de		p		[p]		gde_menetrey.pdf
+pc07ee	gde	Gu'de		p		[p]		gde_menetrey.pdf
 	gde	Gu'de		p		[pʷ]		
 	gde	Gu'de		p		[pʲ]		
 	gde	Gu'de		b				
@@ -16566,7 +16566,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gde	Gu'de		˦				
 	gde	Gu'de		˨				
 	gde	Gu'de		ɱv		[ɱvʷ]		
-1579	lno	Lango		p	alternatives with [ɸ] in some constructions			lno.pdf
+p5eb65	lno	Lango		p	alternatives with [ɸ] in some constructions			lno.pdf
 	lno	Lango		b				
 	lno	Lango		m				
 	lno	Lango		t	alternatives with [ɾ̥] in some constructions			
@@ -16618,7 +16618,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	lno	Lango		˦				
 	lno	Lango		˨				
 	lno	Lango		˦↓˦	high downstepped high			
-1580	ahl	Igo		p				igo_gblem_ahl.pdf
+pfcedc	ahl	Igo		p				igo_gblem_ahl.pdf
 	ahl	Igo		b				
 	ahl	Igo		m				
 	ahl	Igo		w				
@@ -16651,7 +16651,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ahl	Igo		˦				
 	ahl	Igo		˨				
 	ahl	Igo		˧				
-1581	kkj	Kako		i				kako_ernst1992_o.pdf
+p9b253	kkj	Kako		i				kako_ernst1992_o.pdf
 	kkj	Kako		e				
 	kkj	Kako		ɛ				
 	kkj	Kako		a				
@@ -16698,7 +16698,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kkj	Kako		ŋmɡb				
 	kkj	Kako		˦				
 	kkj	Kako		˨				
-1582	knp	Kwanja	Sundani	p		[pʰ]		knp.pdf
+p395ca	knp	Kwanja	Sundani	p		[pʰ]		knp.pdf
 	knp	Kwanja	Sundani	p		[pʷ]		
 	knp	Kwanja	Sundani	t		[tʰ]		
 	knp	Kwanja	Sundani	t		[t̚]		
@@ -16774,7 +16774,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	knp	Kwanja	Sundani	˩				
 	knp	Kwanja	Sundani	˦				
 	knp	Kwanja	Sundani	˨				
-1583	mcu	Mambila	Atta	i		[i]		Mambila_CAM.pdf
+pd7941	mcu	Mambila	Atta	i		[i]		Mambila_CAM.pdf
 	mcu	Mambila	Atta	i		[ɪ]		
 	mcu	Mambila	Atta	i		[ĩ]		
 	mcu	Mambila	Atta	i		[ə]		
@@ -16834,7 +16834,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mcu	Mambila	Atta	˩				
 	mcu	Mambila	Atta	˦				
 	mcu	Mambila	Atta	˨				
-1584	meq	Mere		p				meq.pdf
+p75cb8	meq	Mere		p				meq.pdf
 	meq	Mere		b				
 	meq	Mere		ɓ				
 	meq	Mere		f				
@@ -16884,7 +16884,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	meq	Mere		˦				
 	meq	Mere		˨				
 	meq	Mere		˧				
-1585	mfi	Mandara		˦				mfi.pdf
+p1402f	mfi	Mandara		˦				mfi.pdf
 	mfi	Mandara		˨				
 	mfi	Mandara		p				
 	mfi	Mandara		b				
@@ -16944,7 +16944,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mfi	Mandara		a		[ɔ]		
 	mfi	Mandara		aː				
 	mfi	Mandara		uː				
-1586	coh	Chonyi		i		[i]		mijikenda.pdf
+pb23a6	coh	Chonyi		i		[i]		mijikenda.pdf
 	coh	Chonyi		e		[e]		
 	coh	Chonyi		a		[a]		
 	coh	Chonyi		o		[o]		
@@ -17010,7 +17010,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	coh	Chonyi		w				
 	coh	Chonyi		˦				
 	coh	Chonyi		˨	underlyinɡly toneless, phonetically L			
-1587	dig	Digo		i		[i]		mijikenda.pdf
+p5071d	dig	Digo		i		[i]		mijikenda.pdf
 	dig	Digo		e		[e]		
 	dig	Digo		a		[a]		
 	dig	Digo		o		[o]		
@@ -17070,7 +17070,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dig	Digo		˦				
 	dig	Digo		˨	underlyinɡly toneless, phonetically L			
 	dig	Digo		ʒ				
-1588	dug	Duruma		i		[i]		mijikenda.pdf
+peea94	dug	Duruma		i		[i]		mijikenda.pdf
 	dug	Duruma		e		[e]		
 	dug	Duruma		a		[a]		
 	dug	Duruma		o		[o]		
@@ -17136,7 +17136,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	dug	Duruma		w				
 	dug	Duruma		˦				
 	dug	Duruma		˨	underlyinɡly toneless, phonetically L			
-1589	nyf	Giryama		i		[i]		mijikenda.pdf
+p8ce0b	nyf	Giryama		i		[i]		mijikenda.pdf
 	nyf	Giryama		e		[e]		
 	nyf	Giryama		a		[a]		
 	nyf	Giryama		o		[o]		
@@ -17202,7 +17202,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nyf	Giryama		w				
 	nyf	Giryama		˦				
 	nyf	Giryama		˨	underlyinɡly toneless, phonetically L			
-1590	nyf	Jiβana		i		[i]		mijikenda.pdf
+p2b182	nyf	Jiβana		i		[i]		mijikenda.pdf
 	nyf	Jiβana		e		[e]		
 	nyf	Jiβana		a		[a]		
 	nyf	Jiβana		o		[o]		
@@ -17268,7 +17268,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nyf	Jiβana		w				
 	nyf	Jiβana		˦				
 	nyf	Jiβana		˨	underlyinɡly toneless, phonetically L			
-1591	nyf	Kambe		i		[i]		mijikenda.pdf
+pc94f9	nyf	Kambe		i		[i]		mijikenda.pdf
 	nyf	Kambe		e		[e]		
 	nyf	Kambe		a		[a]		
 	nyf	Kambe		o		[o]		
@@ -17334,7 +17334,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nyf	Kambe		w				
 	nyf	Kambe		˦				
 	nyf	Kambe		˨	underlyinɡly toneless, phonetically L			
-1592	nyf	Kauma		i		[i]		mijikenda.pdf
+p67870	nyf	Kauma		i		[i]		mijikenda.pdf
 	nyf	Kauma		e		[e]		
 	nyf	Kauma		a		[a]		
 	nyf	Kauma		o		[o]		
@@ -17400,7 +17400,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nyf	Kauma		w				
 	nyf	Kauma		˦				
 	nyf	Kauma		˨	underlyinɡly toneless, phonetically L			
-1593	nyf	Raβai		i		[i]		mijikenda.pdf
+p05be7	nyf	Raβai		i		[i]		mijikenda.pdf
 	nyf	Raβai		e		[e]		
 	nyf	Raβai		a		[a]		
 	nyf	Raβai		o		[o]		
@@ -17466,7 +17466,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nyf	Raβai		w				
 	nyf	Raβai		˦				
 	nyf	Raβai		˨	underlyinɡly toneless, phonetically L			
-1594	nyf	Reβe		i		[i]		mijikenda.pdf
+pa3f5e	nyf	Reβe		i		[i]		mijikenda.pdf
 	nyf	Reβe		e		[e]		
 	nyf	Reβe		a		[a]		
 	nyf	Reβe		o		[o]		
@@ -17532,7 +17532,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nyf	Reβe		w				
 	nyf	Reβe		˦				
 	nyf	Reβe		˨	underlyinɡly toneless, phonetically L			
-1595	mlr	Vame		i				mlr.pdf
+p422d5	mlr	Vame		i				mlr.pdf
 	mlr	Vame		e				
 	mlr	Vame		a				
 	mlr	Vame		u				
@@ -17578,7 +17578,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mlr	Vame		˦	tone appears only to be contrastive in verbs			
 	mlr	Vame		˨	tone appears only to be contrastive in verbs			
 	mlr	Vame		˧	tone appears only to be contrastive in verbs			
-1596	mmu	Numala		p		[pʰ]		mmu.pdf
+pe064c	mmu	Numala		p		[pʰ]		mmu.pdf
 	mmu	Numala		t		[tʰ]		
 	mmu	Numala		k		[kʰ]		
 	mmu	Numala		b		[b]		
@@ -17634,7 +17634,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mmu	Numala		a				
 	mmu	Numala		˦				
 	mmu	Numala		˨				
-1597	mpi	Kotoko	Makary	b				mpi.pdf
+p7e9c3	mpi	Kotoko	Makary	b				mpi.pdf
 	mpi	Kotoko	Makary	ɓ				
 	mpi	Kotoko	Makary	t̠ʃ				
 	mpi	Kotoko	Makary	t̠ʃʼ				
@@ -17675,7 +17675,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mpi	Kotoko	Makary	˦				
 	mpi	Kotoko	Makary	˨				
 	mpi	Kotoko	Makary	˧				
-1598	mif	Mofu, South	Gudur	p				mif.pdf
+p1cd3a	mif	Mofu, South	Gudur	p				mif.pdf
 	mif	Mofu, South	Gudur	b				
 	mif	Mofu, South	Gudur	mb				
 	mif	Mofu, South	Gudur	f				
@@ -17724,7 +17724,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mif	Mofu, South	Gudur	aː				
 	mif	Mofu, South	Gudur	e				
 	mif	Mofu, South	Gudur	eː				
-1599	mfo	Mbe		i				mfo_Pohlig1981.pdf
+pbb0b1	mfo	Mbe		i				mfo_Pohlig1981.pdf
 	mfo	Mbe		e				
 	mfo	Mbe		ɛ				
 	mfo	Mbe		a				
@@ -17781,7 +17781,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mfo	Mbe		ŋʷ				
 	mfo	Mbe		˦				
 	mfo	Mbe		˨				
-1600	ncr	Nchane		b		[b]		ncr.pdf
+p59428	ncr	Nchane		b		[b]		ncr.pdf
 	ncr	Nchane		tʰ				
 	ncr	Nchane		d		[d]		
 	ncr	Nchane		d		[ɾ]	free variation with [d] intervocalically	
@@ -17843,7 +17843,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ncr	Nchane		˦				
 	ncr	Nchane		˨				
 	ncr	Nchane		˧				
-1601	nfu	Mfumte		p				nfu.pdf
+pf779f	nfu	Mfumte		p				nfu.pdf
 	nfu	Mfumte		b				
 	nfu	Mfumte		bʱ				
 	nfu	Mfumte		t				
@@ -17934,7 +17934,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nfu	Mfumte		˨				
 	nfu	Mfumte		˧				
 	nfu	Mfumte		˥˩				
-1602	njy	Njem		p				njy.pdf
+p95b16	njy	Njem		p				njy.pdf
 	njy	Njem		b				
 	njy	Njem		m				
 	njy	Njem		w				
@@ -17982,7 +17982,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	njy	Njem		oː				
 	njy	Njem		˦				
 	njy	Njem		˨				
-1603	box	Bwamut	Bondoukuy	ɓ		[ɓ]		Manessy_bwamu_box.pdf
+p33e8d	box	Bwamut	Bondoukuy	ɓ		[ɓ]		Manessy_bwamu_box.pdf
 	box	Bwamut	Bondoukuy	ɓ		[ɓʷ]	before front vowels	
 	box	Bwamut	Bondoukuy	p				
 	box	Bwamut	Bondoukuy	b				
@@ -18028,7 +18028,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	box	Bwamut	Bondoukuy	˦				
 	box	Bwamut	Bondoukuy	˧				
 	box	Bwamut	Bondoukuy	˨				
-1604	ktf	Kwami		p				Leger_kwami_ktf.pdf
+pd2204	ktf	Kwami		p				Leger_kwami_ktf.pdf
 	ktf	Kwami		b				
 	ktf	Kwami		ɓ				
 	ktf	Kwami		mb				
@@ -18068,7 +18068,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ktf	Kwami		uː				
 	ktf	Kwami		˦				
 	ktf	Kwami		˨				
-1605	goa	Gouro		i		[i]		Benoit_gouro_goa.pdf
+p7057b	goa	Gouro		i		[i]		Benoit_gouro_goa.pdf
 	goa	Gouro		ɪ				
 	goa	Gouro		e				
 	goa	Gouro		ɛ				
@@ -18128,7 +18128,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	goa	Gouro		˦				
 	goa	Gouro		˧				
 	goa	Gouro		˨				
-1606	kea	Cape Verde Creole		p				Veiga_cap-vert_kea.pdf
+p0e8f2	kea	Cape Verde Creole		p				Veiga_cap-vert_kea.pdf
 	kea	Cape Verde Creole		b		[ɡ]	in Santiago dialect	
 	kea	Cape Verde Creole		b		[b]		
 	kea	Cape Verde Creole		m				
@@ -18167,7 +18167,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kea	Cape Verde Creole		a		[ã]		
 	kea	Cape Verde Creole		u		[u]		
 	kea	Cape Verde Creole		u		[ũ]		
-1607	nku	Kulango	Bouna	p		[pʲ]		Elders_kulango_nku.pdf
+pacc69	nku	Kulango	Bouna	p		[pʲ]		Elders_kulango_nku.pdf
 	nku	Kulango	Bouna	p		[pʷ]		
 	nku	Kulango	Bouna	p		[p]		
 	nku	Kulango	Bouna	b		[b]		
@@ -18249,7 +18249,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nku	Kulango	Bouna	ʊ		[ʊ̃]		
 	nku	Kulango	Bouna	˦				
 	nku	Kulango	Bouna	˨				
-1608	tsb	Ts'amakko		p		[p]		Sava_tsamakko_tsb.pdf
+p4afe0	tsb	Ts'amakko		p		[p]		Sava_tsamakko_tsb.pdf
 	tsb	Ts'amakko		p		[pʰ]		
 	tsb	Ts'amakko		p		[f]		
 	tsb	Ts'amakko		p		[ɸ]		
@@ -18340,7 +18340,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tsb	Ts'amakko		uː				
 	tsb	Ts'amakko		˦				
 	tsb	Ts'amakko		˨				
-1609	tzm	Tamazight Berber		a		[a]		Hdouch_tzm.pdf
+pe9357	tzm	Tamazight Berber		a		[a]		Hdouch_tzm.pdf
 	tzm	Tamazight Berber		a		[æ]	with emphatic consonants	
 	tzm	Tamazight Berber		i		[i]		
 	tzm	Tamazight Berber		i		[ɛ]	with emphatic consonants	
@@ -18382,7 +18382,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tzm	Tamazight Berber		ħ				
 	tzm	Tamazight Berber		h				
 	tzm	Tamazight Berber		ʕ	this is marked as [ɛ] in the source, but I'm assuming this is not correct, in comparison to other Berber languages			
-1610	siz	Siwi		b				Walker_siz.pdf
+p876ce	siz	Siwi		b				Walker_siz.pdf
 	siz	Siwi		d	thickened slightly, perhaps meaning retroflex			
 	siz	Siwi		f				
 	siz	Siwi		ɡ				
@@ -18422,7 +18422,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	siz	Siwi		rː				
 	siz	Siwi		sː				
 	siz	Siwi		ŋ				
-1611	ndj	Ndamba		i				Edelsten_ndj.pdf
+p25a45	ndj	Ndamba		i				Edelsten_ndj.pdf
 	ndj	Ndamba		e				
 	ndj	Ndamba		a				
 	ndj	Ndamba		u				
@@ -18452,7 +18452,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ndj	Ndamba		w				
 	ndj	Ndamba		j				
 	ndj	Ndamba		s		[z]		
-1612	bva	Barein (Jalkiya)	Jalkiya	p				Lovestrand_bva.pdf
+pc3dbc	bva	Barein (Jalkiya)	Jalkiya	p				Lovestrand_bva.pdf
 	bva	Barein (Jalkiya)	Jalkiya	b				
 	bva	Barein (Jalkiya)	Jalkiya	m				
 	bva	Barein (Jalkiya)	Jalkiya	w				
@@ -18493,7 +18493,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bva	Barein (Jalkiya)	Jalkiya	˦				
 	bva	Barein (Jalkiya)	Jalkiya	˧				
 	bva	Barein (Jalkiya)	Jalkiya	˨				
-1613	bva	Barein (Giliya)	Giliya	p				Lovestrand_bva.pdf
+p62133	bva	Barein (Giliya)	Giliya	p				Lovestrand_bva.pdf
 	bva	Barein (Giliya)	Giliya	b				
 	bva	Barein (Giliya)	Giliya	m				
 	bva	Barein (Giliya)	Giliya	w				
@@ -18522,7 +18522,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bva	Barein (Giliya)	Giliya	˦				
 	bva	Barein (Giliya)	Giliya	˧				
 	bva	Barein (Giliya)	Giliya	˨				
-1614	bva	Barein (Jalking)	Jalking	p				Lovestrand_bva.pdf
+p004aa	bva	Barein (Jalking)	Jalking	p				Lovestrand_bva.pdf
 	bva	Barein (Jalking)	Jalking	b				
 	bva	Barein (Jalking)	Jalking	m				
 	bva	Barein (Jalking)	Jalking	w				
@@ -18566,7 +18566,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bva	Barein (Jalking)	Jalking	˦				
 	bva	Barein (Jalking)	Jalking	˧				
 	bva	Barein (Jalking)	Jalking	˨				
-1615	bva	Barein (Komiya)	Komiya	p				Lovestrand_bva.pdf
+p9e821	bva	Barein (Komiya)	Komiya	p				Lovestrand_bva.pdf
 	bva	Barein (Komiya)	Komiya	b				
 	bva	Barein (Komiya)	Komiya	m				
 	bva	Barein (Komiya)	Komiya	w				
@@ -18610,7 +18610,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bva	Barein (Komiya)	Komiya	oː				
 	bva	Barein (Komiya)	Komiya	˦				
 	bva	Barein (Komiya)	Komiya	˨				
-1616	tbi	Gaahmg		p				stirtz_tbi.pdf
+p3cb98	tbi	Gaahmg		p				stirtz_tbi.pdf
 	tbi	Gaahmg		b		[b]		
 	tbi	Gaahmg		b		[w]	bilabial approximant	
 	tbi	Gaahmg		b		[b̥]		
@@ -18666,7 +18666,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tbi	Gaahmg		˦				
 	tbi	Gaahmg		˧				
 	tbi	Gaahmg		˨				
-1617	mij	Mungbam	Munken	<p>	marɡinal			Good_fungom.pdf
+pdaf0f	mij	Mungbam	Munken	<p>	marɡinal			Good_fungom.pdf
 	mij	Mungbam	Munken	b				
 	mij	Mungbam	Munken	f				
 	mij	Mungbam	Munken	m				
@@ -18702,7 +18702,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mij	Mungbam	Munken	˧				
 	mij	Mungbam	Munken	˨				
 	mij	Mungbam	Munken	˥				
-1618	boe	Mundabli		b				Good_fungom.pdf
+p79286	boe	Mundabli		b				Good_fungom.pdf
 	boe	Mundabli		f				
 	boe	Mundabli		m				
 	boe	Mundabli		t̪				
@@ -18740,7 +18740,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	boe	Mundabli		˧				
 	boe	Mundabli		˨				
 	boe	Mundabli		˥				
-1619	muc	Ajumbu		b				Good_fungom.pdf
+p175fd	muc	Ajumbu		b				Good_fungom.pdf
 	muc	Ajumbu		f				
 	muc	Ajumbu		v				
 	muc	Ajumbu		t̪				
@@ -18781,7 +18781,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	muc	Ajumbu		˦				
 	muc	Ajumbu		˧				
 	muc	Ajumbu		˨				
-1620	kid	Koshin		b				Good_fungom.pdf
+pb5974	kid	Koshin		b				Good_fungom.pdf
 	kid	Koshin		f				
 	kid	Koshin		m				
 	kid	Koshin		t̪				
@@ -18818,7 +18818,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kid	Koshin		˦				
 	kid	Koshin		˧				
 	kid	Koshin		˨				
-1621	fak	Fang		b				Good_fungom.pdf
+p53ceb	fak	Fang		b				Good_fungom.pdf
 	fak	Fang		<p>	marɡinal			
 	fak	Fang		f				
 	fak	Fang		v				
@@ -18854,7 +18854,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fak	Fang		˦	the tonal system has not been completely analyzed, but there is evidence for at least a three way contrast			
 	fak	Fang		˧				
 	fak	Fang		˨				
-1622	knk	Kuranko		p				Kastenholz_knk.pdf
+pf2062	knk	Kuranko		p				Kastenholz_knk.pdf
 	knk	Kuranko		b				
 	knk	Kuranko		m				
 	knk	Kuranko		mb				
@@ -18909,7 +18909,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	knk	Kuranko		ɔ̃ː				
 	knk	Kuranko		õː				
 	knk	Kuranko		ũː				
-1623	nie	Lwaa		p				Boyeldieu_boua.pdf
+p903d9	nie	Lwaa		p				Boyeldieu_boua.pdf
 	nie	Lwaa		b				
 	nie	Lwaa		ɓ				
 	nie	Lwaa		mb				
@@ -18968,7 +18968,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nie	Lwaa		˦				
 	nie	Lwaa		˧				
 	nie	Lwaa		˨				
-1624	gis	Gisiga	North	b				Lukas_gis.pdf
+p2e750	gis	Gisiga	North	b				Lukas_gis.pdf
 	gis	Gisiga	North	mb				
 	gis	Gisiga	North	ɓ				
 	gis	Gisiga	North	f				
@@ -19012,7 +19012,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gis	Gisiga	North	˨				
 	gis	Gisiga	North	˩˥				
 	gis	Gisiga	North	˥˩				
-1625	mgo	Moghamo		p				Mbah_mgo.pdf
+pccac7	mgo	Moghamo		p				Mbah_mgo.pdf
 	mgo	Moghamo		b				
 	mgo	Moghamo		t				
 	mgo	Moghamo		d		[d]		
@@ -19065,7 +19065,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mgo	Moghamo		˦				
 	mgo	Moghamo		˧				
 	mgo	Moghamo		˨				
-1626	bri	Mokpwe		p		[p]		Neg_bri.pdf
+p6ae3e	bri	Mokpwe		p		[p]		Neg_bri.pdf
 	bri	Mokpwe		p		[b]	intervocalic	
 	bri	Mokpwe		ɸ				
 	bri	Mokpwe		b		[b]	intervocalic	
@@ -19105,7 +19105,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bri	Mokpwe		ɔ		[ɔː]		
 	bri	Mokpwe		˦				
 	bri	Mokpwe		˨				
-1627	sif	Siamou		<p>	rare, borrowings			Haas_sif.pdf
+p091b5	sif	Siamou		<p>	rare, borrowings			Haas_sif.pdf
 	sif	Siamou		b		[b]		
 	sif	Siamou		b		[bʲ]		
 	sif	Siamou		b		[bʷ]		
@@ -19162,7 +19162,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sif	Siamou		˥˩	High-Low			
 	sif	Siamou		˦˥				
 	sif	Siamou		˧		[˦˥]		
-1628	nnh	Ngiemboon		b		[b]		Anderson_nnh.pdf
+pa752c	nnh	Ngiemboon		b		[b]		Anderson_nnh.pdf
 	nnh	Ngiemboon		pf				
 	nnh	Ngiemboon		f				
 	nnh	Ngiemboon		v		[v]	word-initial	
@@ -19257,7 +19257,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nnh	Ngiemboon		˦	Source: Downstepped High			
 	nnh	Ngiemboon		˥˩	Low-Falling			
 	nnh	Ngiemboon		˨				
-1629	yas	Nugunu		p		[pʰ]		Patman_yas.pdf
+p458a3	yas	Nugunu		p		[pʰ]		Patman_yas.pdf
 	yas	Nugunu		b				
 	yas	Nugunu		mp		[mpʰ]		
 	yas	Nugunu		mb				
@@ -19293,7 +19293,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	yas	Nugunu		˥˩				
 	yas	Nugunu		˦				
 	yas	Nugunu		˨				
-1630	nza	Mbembe		p		[p]		Eyoh_nza.pdf
+pe3c1a	nza	Mbembe		p		[p]		Eyoh_nza.pdf
 	nza	Mbembe		p		[pʰ]		
 	nza	Mbembe		b		[b]		
 	nza	Mbembe		b		[bʱ]		
@@ -19411,7 +19411,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nza	Mbembe		˥˩				
 	nza	Mbembe		˦				
 	nza	Mbembe		˨				
-1631	orc	Orma		p		[p]		Hoskins_orc.pdf
+p81f91	orc	Orma		p		[p]		Hoskins_orc.pdf
 	orc	Orma		p		[p̚]	before /p/	
 	orc	Orma		pʼ		[p̚]	before /p/	
 	orc	Orma		pʼ		[pʼ]		
@@ -19469,7 +19469,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	orc	Orma		a		[ḁ]		
 	orc	Orma		o		[o̥]		
 	orc	Orma		u		[u̥]		
-1632	pny	Pinyin		b		[p]		Mbah_pny.pdf
+p20308	pny	Pinyin		b		[p]		Mbah_pny.pdf
 	pny	Pinyin		b		[pʰ]	only before [u] in open syllables	
 	pny	Pinyin		b		[b]	after nasals	
 	pny	Pinyin		b		[β]	intervocalic within a root	
@@ -19548,7 +19548,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pny	Pinyin		˥˩				
 	pny	Pinyin		˦				
 	pny	Pinyin		˨				
-1633	pnz	Pana		p				Pnoya_pnz.pdf
+pbe67f	pnz	Pana		p				Pnoya_pnz.pdf
 	pnz	Pana		b				
 	pnz	Pana		ɓ				
 	pnz	Pana		t				
@@ -19616,7 +19616,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	pnz	Pana		˥˩				
 	pnz	Pana		˦				
 	pnz	Pana		˨				
-1634	atu	Thok Reel		˩˥				Reid_atu.pdf
+p5c9f6	atu	Thok Reel		˩˥				Reid_atu.pdf
 	atu	Thok Reel		˦				
 	atu	Thok Reel		˨				
 	atu	Thok Reel		p		[p]		
@@ -19683,7 +19683,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	atu	Thok Reel		ɔ̤ː				
 	atu	Thok Reel		ṳː				
 	atu	Thok Reel		e̤ː				
-1635	udl	Ouldeme		b				Kinnaird_udl.pdf
+pfad6d	udl	Ouldeme		b				Kinnaird_udl.pdf
 	udl	Ouldeme		ɓ				
 	udl	Ouldeme		d				
 	udl	Ouldeme		dz		[dz]		
@@ -19731,7 +19731,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	udl	Ouldeme		˧				
 	udl	Ouldeme		˦				
 	udl	Ouldeme		˨				
-1636	les	Balese		˧				Vorbichler_les.pdf
+p990e4	les	Balese		˧				Vorbichler_les.pdf
 	les	Balese		˦				
 	les	Balese		˨				
 	les	Balese		i				
@@ -19773,7 +19773,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	les	Balese		ɡb				
 	les	Balese		ɠɓ				
 	les	Balese		ʔ				
-1637	neb	Toura		p				Bearth_neb.pdf
+p3745b	neb	Toura		p				Bearth_neb.pdf
 	neb	Toura		b				
 	neb	Toura		t				
 	neb	Toura		kp				
@@ -19817,7 +19817,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	neb	Toura		˥˩	Mid-Low			
 	neb	Toura		˨				
 	neb	Toura		˦				
-1638	gwe	Kigweno		p				Sewangi_gwe.pdf
+pd57d2	gwe	Kigweno		p				Sewangi_gwe.pdf
 	gwe	Kigweno		b				
 	gwe	Kigweno		t				
 	gwe	Kigweno		d				
@@ -19846,7 +19846,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	gwe	Kigweno		a				
 	gwe	Kigweno		u				
 	gwe	Kigweno		o				
-1639	suw	Sisumbwa		a				Kahigi_suw.pdf
+p73b49	suw	Sisumbwa		a				Kahigi_suw.pdf
 	suw	Sisumbwa		b				
 	suw	Sisumbwa		β				
 	suw	Sisumbwa		<t̠ʃ>	rare			
@@ -19878,7 +19878,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	suw	Sisumbwa		aː				
 	suw	Sisumbwa		oː				
 	suw	Sisumbwa		uː				
-1640	zin	Luzinza		p				Rubanza_zin.pdf
+p11ec0	zin	Luzinza		p				Rubanza_zin.pdf
 	zin	Luzinza		b				
 	zin	Luzinza		m				
 	zin	Luzinza		w				
@@ -19908,7 +19908,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	zin	Luzinza		iː				
 	zin	Luzinza		oː				
 	zin	Luzinza		uː				
-1641	mer	Kimeru		a				Rubanza_mer.pdf
+pb0237	mer	Kimeru		a				Rubanza_mer.pdf
 	mer	Kimeru		e				
 	mer	Kimeru		i				
 	mer	Kimeru		o				
@@ -19935,7 +19935,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	mer	Kimeru		k				
 	mer	Kimeru		w				
 	mer	Kimeru		j				
-1642	hka	Kikahe		p				Kahigi_hka.pdf
+p4e5ae	hka	Kikahe		p				Kahigi_hka.pdf
 	hka	Kikahe		b				
 	hka	Kikahe		t				
 	hka	Kikahe		d				
@@ -19967,7 +19967,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	hka	Kikahe		ɑː	apparent contrast			
 	hka	Kikahe		ɔː	apparent contrast			
 	hka	Kikahe		uː	apparent contrast			
-1643	han	Kihangaza		β				Rubangumya_han.pdf
+pec925	han	Kihangaza		β				Rubangumya_han.pdf
 	han	Kihangaza		p				
 	han	Kihangaza		m				
 	han	Kihangaza		w				
@@ -20002,7 +20002,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	han	Kihangaza		uː				
 	han	Kihangaza		˦				
 	han	Kihangaza		˨				
-1644	old	Kimochi		p				Mrikaria_old.pdf
+p8ac9c	old	Kimochi		p				Mrikaria_old.pdf
 	old	Kimochi		b				
 	old	Kimochi		m				
 	old	Kimochi		w				
@@ -20027,7 +20027,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	old	Kimochi		i				
 	old	Kimochi		o				
 	old	Kimochi		u				
-1645	ssc	Kisimbiti		β				Mreta_ssc.pdf
+p29013	ssc	Kisimbiti		β				Mreta_ssc.pdf
 	ssc	Kisimbiti		c				
 	ssc	Kisimbiti		d				
 	ssc	Kisimbiti		f				
@@ -20066,7 +20066,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ssc	Kisimbiti		uː				
 	ssc	Kisimbiti		˦				
 	ssc	Kisimbiti		˨				
-1646	kya	Eciruuri		b				Massamba_kya.pdf
+pc738a	kya	Eciruuri		b				Massamba_kya.pdf
 	kya	Eciruuri		<p>	rare			
 	kya	Eciruuri		β				
 	kya	Eciruuri		m				
@@ -20099,7 +20099,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	kya	Eciruuri		uː		uː		
 	kya	Eciruuri		˦				
 	kya	Eciruuri		˨				
-1647	www	Wawa		˧	Mid-High, i.e. there are four tone levels			Martin_www.pdf
+p65701	www	Wawa		˧	Mid-High, i.e. there are four tone levels			Martin_www.pdf
 	www	Wawa		˧	Mid-Low, i.e. there are four tone levels			
 	www	Wawa		˦	Low			
 	www	Wawa		˨	High			
@@ -20151,7 +20151,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	www	Wawa		eː				
 	www	Wawa		ɛː				
 	www	Wawa		əː				
-1648	shi	Tachelhit		b				1997_kossmann_berber_phonology.pdf
+p03a78	shi	Tachelhit		b				1997_kossmann_berber_phonology.pdf
 	shi	Tachelhit		f				
 	shi	Tachelhit		m				
 	shi	Tachelhit		t̪				
@@ -20188,7 +20188,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	shi	Tachelhit		a				
 	shi	Tachelhit		u				
 	shi	Tachelhit		<ə>	phonetic only			
-1649	tug	Tounia		˧				Boyeldieu_boua.pdf
+pa1def	tug	Tounia		˧				Boyeldieu_boua.pdf
 	tug	Tounia		˦				
 	tug	Tounia		˨				
 	tug	Tounia		h		[χ]	before anterior vowels	
@@ -20244,7 +20244,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tug	Tounia		ã				
 	tug	Tounia		ɔ̃				
 	tug	Tounia		ũ				
-1650	sef	Senoufo, Cebaara	Tangari	˧				sef_tangari.pdf
+p40166	sef	Senoufo, Cebaara	Tangari	˧				sef_tangari.pdf
 	sef	Senoufo, Cebaara	Tangari	˦				
 	sef	Senoufo, Cebaara	Tangari	˨				
 	sef	Senoufo, Cebaara	Tangari	p	voiceless stops are said to vary freely with their aspirated counterparts (assumedly in word-initial position)			
@@ -20290,7 +20290,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sef	Senoufo, Cebaara	Tangari	ɔ̃				
 	sef	Senoufo, Cebaara	Tangari	ɔː				
 	sef	Senoufo, Cebaara	Tangari	ɔ̃ː				
-1651	flr	Fuliiru		p		[p]		flr_vanotterloo.pdf
+pde4dd	flr	Fuliiru		p		[p]		flr_vanotterloo.pdf
 	flr	Fuliiru		p		[b]	postnasal	
 	flr	Fuliiru		mb				
 	flr	Fuliiru		m				
@@ -20388,7 +20388,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	flr	Fuliiru		oː				
 	flr	Fuliiru		˦				
 	flr	Fuliiru		˨				
-1652	sad	Sandawe		˦				sandawe_2008.pdf
+p7c854	sad	Sandawe		˦				sandawe_2008.pdf
 	sad	Sandawe		˧				
 	sad	Sandawe		˨				
 	sad	Sandawe		˩˥				
@@ -20459,7 +20459,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	sad	Sandawe		o				
 	sad	Sandawe		oː				
 	sad	Sandawe		õː				
-1653	tvd	Tsuvaɗi		i				tvd_blench.pdf
+p1abcb	tvd	Tsuvaɗi		i				tvd_blench.pdf
 	tvd	Tsuvaɗi		e				
 	tvd	Tsuvaɗi		a				
 	tvd	Tsuvaɗi		ɔ				
@@ -20516,7 +20516,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tvd	Tsuvaɗi		˦				
 	tvd	Tsuvaɗi		˨				
 	tvd	Tsuvaɗi		˩˥				
-1654	etu	Ejagham		p		[p]		Watters_1981_Dissertation.pdf
+pb8f42	etu	Ejagham		p		[p]		Watters_1981_Dissertation.pdf
 	etu	Ejagham		b		[b]		
 	etu	Ejagham		f				
 	etu	Ejagham		m				
@@ -20571,7 +20571,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	etu	Ejagham		˦				
 	etu	Ejagham		˧				
 	etu	Ejagham		˨				
-1655	ybb	Yemba		b		[b]		ybb_1991.pdf
+p572b9	ybb	Yemba		b		[b]		ybb_1991.pdf
 	ybb	Yemba		v				
 	ybb	Yemba		f				
 	ybb	Yemba		pf				
@@ -20608,7 +20608,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	ybb	Yemba		˨				
 	ybb	Yemba		˥˩	Low-Fall			
 	ybb	Yemba		˦	source Downstepped High			
-1656	bfj	Nchufie		p				bfj_koopman.pdf
+pf5630	bfj	Nchufie		p				bfj_koopman.pdf
 	bfj	Nchufie		pʰ				
 	bfj	Nchufie		m				
 	bfj	Nchufie		<mb>	occurs in some non-derived environment, word-initially			
@@ -20671,7 +20671,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bfj	Nchufie		ɔː	with creaky voice, perhaps with relation to CVʔ syllables			
 	bfj	Nchufie		oː	with creaky voice, perhaps with relation to CVʔ syllables			
 	bfj	Nchufie		uː	with creaky voice, perhaps with relation to CVʔ syllables			
-1657	bji	Burji		p	ɡemination is stated to be phonemic, yet it is not clear if this applies to all consonants			bji_amborn.pdf
+p939a7	bji	Burji		p	ɡemination is stated to be phonemic, yet it is not clear if this applies to all consonants			bji_amborn.pdf
 	bji	Burji		b				
 	bji	Burji		pʼ				
 	bji	Burji		f				
@@ -20707,7 +20707,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	bji	Burji		oː				
 	bji	Burji		u				
 	bji	Burji		uː				
-1658	blo	Anii		i	author states that vowel lenɡth is contrastive but does not provide details			blo_morton.pdf
+p31d1e	blo	Anii		i	author states that vowel lenɡth is contrastive but does not provide details			blo_morton.pdf
 	blo	Anii		e	author states that vowel lenɡth is contrastive but does not provide details			
 	blo	Anii		ə	author states that vowel lenɡth is contrastive but does not provide details			
 	blo	Anii		u	author states that vowel lenɡth is contrastive but does not provide details			
@@ -20743,7 +20743,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	blo	Anii		w				
 	blo	Anii		˦	personal communication from author			
 	blo	Anii		˨	personal communication from author			
-1659	fip	Fipa	Kwa	i				fip_kwa.pdf
+pd0095	fip	Fipa	Kwa	i				fip_kwa.pdf
 	fip	Fipa	Kwa	ɪ				
 	fip	Fipa	Kwa	e				
 	fip	Fipa	Kwa	a				
@@ -20778,7 +20778,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	fip	Fipa	Kwa	ɡ				
 	fip	Fipa	Kwa	ŋ				
 	fip	Fipa	Kwa	˦	opposinɡ underlying tone is /Ø/, realized phonetically as L			
-1660	naw	Nawuri		p				naw_casali.pdf
+p6e40c	naw	Nawuri		p				naw_casali.pdf
 	naw	Nawuri		pʷ				
 	naw	Nawuri		b				
 	naw	Nawuri		bʷ				
@@ -20822,7 +20822,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	naw	Nawuri		ɛ		[ʌ]		
 	naw	Nawuri		˦	from Casali's 1994 paper on Nawuri tone			
 	naw	Nawuri		˨	from Casali's 1994 paper on Nawuri tone			
-1661	myo	Anfillo		p				myo_yigezu.pdf
+p0c783	myo	Anfillo		p				myo_yigezu.pdf
 	myo	Anfillo		b				
 	myo	Anfillo		pʼ				
 	myo	Anfillo		t				
@@ -20870,7 +20870,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	myo	Anfillo		aː				
 	myo	Anfillo		oː				
 	myo	Anfillo		uː				
-1662	nto	Bokala-Nkole	Nkole	i				nto_mangulu.pdf
+paaafa	nto	Bokala-Nkole	Nkole	i				nto_mangulu.pdf
 	nto	Bokala-Nkole	Nkole	e				
 	nto	Bokala-Nkole	Nkole	ɛ				
 	nto	Bokala-Nkole	Nkole	a				
@@ -20900,7 +20900,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	nto	Bokala-Nkole	Nkole	nd				
 	nto	Bokala-Nkole	Nkole	n̠d̠ʒ	SM: changed from ɲdʒ to n̠d̠ʒ			
 	nto	Bokala-Nkole	Nkole	ŋɡ				
-1663	tbr	Talasa		ɓ				xtc_schadeberg.pdf
+p48e71	tbr	Talasa		ɓ				xtc_schadeberg.pdf
 	tbr	Talasa		f				
 	tbr	Talasa		mb				
 	tbr	Talasa		m				
@@ -20964,7 +20964,7 @@ InventoryID	LanguageCode	LanguageName	SpecificDialect	Phoneme	Notes	Allophones	A
 	tbr	Talasa		eː		[ɤː]	followinɡ a hiɡh back vowel	
 	tbr	Talasa		a		[ʌ]	followinɡ a hiɡh back vowel	
 	tbr	Talasa		aː		[ʌː]	followinɡ a hiɡh back vowel	
-1664	uiv	Iyive		p				uiv_foster.pdf
+pe71e8	uiv	Iyive		p				uiv_foster.pdf
 	uiv	Iyive		b				
 	uiv	Iyive		kp				
 	uiv	Iyive		ɡb				

@@ -1,5 +1,5 @@
 InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOld	Notes	NotesTwo
-649	abi	Abidji	ɪ	ɪ
+p00000	abi	Abidji	ɪ	ɪ
 	abi	Abidji	ʊ	ʊ
 	abi	Abidji	ʔ	ʔ
 	abi	Abidji	kp	kp
@@ -39,7 +39,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	abi	Abidji	õ	õ			appparently all vowels can be nasalized
 	abi	Abidji	ũ	ũ			appparently all vowels can be nasalized
 
-650	adj	Adioukrou	˦	˦
+p9e377	adj	Adioukrou	˦	˦
 	adj	Adioukrou	˨	˨
 	adj	Adioukrou	˦˨	˦˨
 	adj	Adioukrou	ɡb	ɡb
@@ -71,7 +71,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	adj	Adioukrou	t	t
 	adj	Adioukrou	w	w
 
-651	ajg	Adja (Bénin)	˦	˦				confirmed in Morley 2010
+p3c6ee	ajg	Adja (Bénin)	˦	˦				confirmed in Morley 2010
 	ajg	Adja (Bénin)	˨	˨				confirmed in Morley 2010
 	ajg	Adja (Bénin)	ʃ	ʃ
 	ajg	Adja (Bénin)	˦˨	˦˨				in Chanard; not in AA, not in Morley 2010
@@ -117,7 +117,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ajg	Adja (Bénin)	ɔ̃	ɔ̃
 	ajg	Adja (Bénin)	ã	ã
 
-652	ajg	Adja (Togo)	ɡb	ɡb
+pdaa65	ajg	Adja (Togo)	ɡb	ɡb
 	ajg	Adja (Togo)	kp	kp
 	ajg	Adja (Togo)	d̠ʒ	ʤ
 	ajg	Adja (Togo)	t̠ʃ	ʧ
@@ -156,7 +156,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ajg	Adja (Togo)	ɔ̃	ɔ̃			appparently all vowels can be nasalized
 	ajg	Adja (Togo)	ã	ã			appparently all vowels can be nasalized
 
-653	mtb	Agni Sanvi	ɪ	ɪ
+p78ddc	mtb	Agni Sanvi	ɪ	ɪ
 	mtb	Agni Sanvi	ʊ	ʊ
 	mtb	Agni Sanvi	ɡb	ɡb
 	mtb	Agni Sanvi	d̠ʒ	ʤ
@@ -196,7 +196,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mtb	Agni Sanvi	ʊ̃	ʊ̃̃				confirmed in Quaireau 1987
 	mtb	Agni Sanvi	ã	ã				confirmed in Quaireau 1987
 
-654	ahl	Ahlõ	˦	˦			high; marked in AA
+p17153	ahl	Ahlõ	˦	˦			high; marked in AA
 	ahl	Ahlõ	˨	˨			low; marked in AA
 	ahl	Ahlõ	˧	˧			mid; marked in AA
 	ahl	Ahlõ	ɡb	ɡb
@@ -231,7 +231,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ahl	Ahlõ	v	v
 	ahl	Ahlõ	z	z
 
-655	aka	Akan	˦	˦				Dolphyne lists only H and L tones
+pb54ca	aka	Akan	˦	˦				Dolphyne lists only H and L tones
 	aka	Akan	˨	˨				Dolphyne lists only H and L tones
 	aka	Akan	ɪ	ɪ
 	aka	Akan	˧	˧				Dolphyne lists only H and L tones
@@ -263,7 +263,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	aka	Akan	kʷ	kw			is /w/ its own phoneme or is it labialization?	see new inventory
 	aka	Akan	nʷ	nw			is /w/ its own phoneme or is it labialization?	see new inventory
 
-656	bss	Akɔɔse (Bakossi)	˦	˦				Hedinger 2008: H, L, downstepped-H, HL, LH, H-downstepped-H, LHL
+p53841	bss	Akɔɔse (Bakossi)	˦	˦				Hedinger 2008: H, L, downstepped-H, HL, LH, H-downstepped-H, LHL
 	bss	Akɔɔse (Bakossi)	˨	˨
 	bss	Akɔɔse (Bakossi)	˦˨	˦˨
 	bss	Akɔɔse (Bakossi)	˨˦	˨˦
@@ -308,7 +308,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bss	Akɔɔse (Bakossi)	ɤː	ɤː				added from Hedinger 2008, no short counterpart
 	bss	Akɔɔse (Bakossi)	ɒː	ɒː				added from Hedinger 2008, no short counterpart
 
-657	anc	Angas	˦	˦
+pf1bb8	anc	Angas	˦	˦
 	anc	Angas	˨	˨
 	anc	Angas	ʃ	ʃ
 	anc	Angas	˧	˧
@@ -380,7 +380,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	anc	Angas	ɨː	ɨː
 	anc	Angas	aː	aː
 
-658	cko	Anufɔ	˦	˦
+p8ff2f	cko	Anufɔ	˦	˦
 	cko	Anufɔ	˨	˨
 	cko	Anufɔ	ɡb	ɡb
 	cko	Anufɔ	d̠ʒ	ʤ				ɟ in Stanford 1970
@@ -430,7 +430,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	cko	Anufɔ	ɔ̃	ɔ̃
 	cko	Anufɔ	ã	ã
 
-659	apd	Arabe	ʃ	ʃ
+p2e2a6	apd	Arabe	ʃ	ʃ
 	apd	Arabe	zˤ	zˤ
 	apd	Arabe	ʕ	ʕ
 	apd	Arabe	ʔ	ʔ
@@ -493,7 +493,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	apd	Arabe	zː	zː			apparently all consonants can be geminate
 	apd	Arabe	sˤː	sˤː			apparently all consonants can be geminate
 
-660	avu	Avokaya	˦	˦
+pcc61d	avu	Avokaya	˦	˦
 	avu	Avokaya	˨	˨
 	avu	Avokaya	ndz	nʣ
 	avu	Avokaya	˧	˧
@@ -549,7 +549,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	avu	Avokaya	uː	uː			apparently all vowels have phonemic long counterpart
 	avu	Avokaya	ɔː	ɔː			apparently all vowels have phonemic long counterpart
 
-661	bav	Babungo (Grassfields Bantu, Ring)	˦	˦				"""In the orthography, the tones are marked only where they carry a grammatical function."""
+p6a994	bav	Babungo (Grassfields Bantu, Ring)	˦	˦				"""In the orthography, the tones are marked only where they carry a grammatical function."""
 	bav	Babungo (Grassfields Bantu, Ring)	˨	˨
 	bav	Babungo (Grassfields Bantu, Ring)	ʃ	ʃ	[ʃ]	[ʃ]		affricate allophone after nasals
 	bav	Babungo (Grassfields Bantu, Ring)	ʃ	ʃ	[t̠ʃ]	[ʧ]		affricate allophone after nasals
@@ -652,7 +652,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bav	Babungo (Grassfields Bantu, Ring)	nzʷ	nzʷ
 	bav	Babungo (Grassfields Bantu, Ring)	n̠d̠ʒʷ	nʤʷ
 
-662	bfd	Bafut	˦	˦	[˦]	H
+p08d0b	bfd	Bafut	˦	˦	[˦]	H
 	bfd	Bafut	˦	˦	[↓˦]	H
 	bfd	Bafut	˨	˨
 	bfd	Bafut	˦˨	˦˨
@@ -711,7 +711,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bfd	Bafut	ɛː	ɛː				Mfonyam 1989
 	bfd	Bafut	aː	aː				Mfonyam 1989
 
-663	bkc	Baka	˦	˦
+pa7082	bkc	Baka	˦	˦
 	bkc	Baka	˨	˨
 	bkc	Baka	˧	˧			unmarked
 	bkc	Baka	ɲɟ	ɲɟ
@@ -750,7 +750,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bkc	Baka	ɸ	ɸ
 	bkc	Baka	ɡb	ɡb
 
-664	bam	Bambara	˦	˦
+p453f9	bam	Bambara	˦	˦
 	bam	Bambara	˨	˨
 	bam	Bambara	d̠ʒ	ʤ
 	bam	Bambara	t̠ʃ	ʧ
@@ -794,7 +794,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bam	Bambara	ɛː	ɛː
 	bam	Bambara	ɔː	ɔː
 
-665	bfl	Banda (CAF)	˦	˦
+pe3770	bfl	Banda (CAF)	˦	˦
 	bfl	Banda (CAF)	˨	˨
 	bfl	Banda (CAF)	ʃ	ʃ
 	bfl	Banda (CAF)	˦˨	˦˨				Cloarec-Heiss 1986
@@ -849,7 +849,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bfl	Banda (CAF)	ɔ	ɔ	[ɔ]	oa	included in AA, not in Chanard	"Cloarec-Heiss 1986:25: ""4. /ɔ/ est fortement laBialisé, presque diphtonguée dans certains case [oa]."""
 	bfl	Banda (CAF)	ɔ	ɔ	[oa]	oa	included in AA, not in Chanard	"Cloarec-Heiss 1986:25: ""4. /ɔ/ est fortement laBialisé, presque diphtonguée dans certains case [oa]."""
 
-666	bfl	Banda (Sudan)	˦	˦
+p81ae7	bfl	Banda (Sudan)	˦	˦
 	bfl	Banda (Sudan)	˨	˨			unmarked
 	bfl	Banda (Sudan)	ʃ	ʃ
 	bfl	Banda (Sudan)	˧	˧
@@ -896,7 +896,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bfl	Banda (Sudan)	z	z
 	bfl	Banda (Sudan)	ɡb	ɡb
 
-667	bza	Bandi (Gbande)	↓˦	↓˦
+p1fe5e	bza	Bandi (Gbande)	↓˦	↓˦
 	bza	Bandi (Gbande)	˦	˦
 	bza	Bandi (Gbande)	˨	˨
 	bza	Bandi (Gbande)	˦˨	˦˨
@@ -945,7 +945,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bza	Bandi (Gbande)	ɔː	ɔː			apparently all vowels have a phonemic long counterpart
 	bza	Bandi (Gbande)	aː	aː			apparently all vowels have a phonemic long counterpart
 
-668	bci	Baoulé (Baule; Baulé)	˦	˦				N'Guessan
+pbe1d5	bci	Baoulé (Baule; Baulé)	˦	˦				N'Guessan
 	bci	Baoulé (Baule; Baulé)	˨	˨				N'Guessan
 	bci	Baoulé (Baule; Baulé)	˦˨	˦˨				N'Guessan
 	bci	Baoulé (Baule; Baulé)	˨˦	˨˦				N'Guessan
@@ -983,7 +983,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bci	Baoulé (Baule; Baulé)	ɔ̃	ɔ̃			all vowels have a phonemic nasal counterpart
 	bci	Baoulé (Baule; Baulé)	ã	ã			all vowels have a phonemic nasal counterpart
 
-669	bba	Bariba	˦	˦			only listed in Chanard, listed in accent page in AA
+p5c54c	bba	Bariba	˦	˦			only listed in Chanard, listed in accent page in AA
 	bba	Bariba	˨	˨			only listed in Chanard, listed in accent page in AA
 	bba	Bariba	ɡb	ɡb
 	bba	Bariba	kp	kp
@@ -1015,7 +1015,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bba	Bariba	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart, except /e/ and /o/
 	bba	Bariba	ã	ã			vowels have a phonemic nasal counterpart, except /e/ and /o/
 
-670	bas	Basaa	˦	˦
+pfa8c3	bas	Basaa	˦	˦
 	bas	Basaa	˨	˨
 	bas	Basaa	˦˨	˦˨
 	bas	Basaa	˧	˧
@@ -1057,7 +1057,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bas	Basaa	w	w
 	bas	Basaa	<r>	r			AA lists as recent introduction to the system	not in Hyman 2006
 
-671	bsq	Bassa	˦	˦
+p98c3a	bsq	Bassa	˦	˦
 	bsq	Bassa	˨	˨
 	bsq	Bassa	˦˨	˦˨
 	bsq	Bassa	˧	˧
@@ -1094,7 +1094,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bsq	Bassa	v	v
 	bsq	Bassa	z	z
 
-672	bud	Bassar 	˦	˦
+p36fb1	bud	Bassar 	˦	˦
 	bud	Bassar 	˨	˨
 	bud	Bassar 	˧	˧
 	bud	Bassar 	ɡb	ɡb
@@ -1125,7 +1125,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bud	Bassar 	t	t
 	bud	Bassar 	w	w
 
-673	btg	Bété	˦	˦
+pd5328	btg	Bété	˦	˦
 	btg	Bété	˨	˨
 	btg	Bété	ɪ	ɪ
 	btg	Bété	ʉ	ʉ
@@ -1179,7 +1179,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	btg	Bété	ʌː	ʌː			apparently all vowels have a phonemic long counterpart
 	btg	Bété	ʉː	ʉː			apparently all vowels have a phonemic long counterpart
 
-674	bkv	Bekwarra	˦	˦
+p7369f	bkv	Bekwarra	˦	˦
 	bkv	Bekwarra	˧	˧
 	bkv	Bekwarra	ʃ	ʃ
 	bkv	Bekwarra	˨	˨
@@ -1233,7 +1233,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bkv	Bekwarra	oː	oː
 	bkv	Bekwarra	aː	aː
 
-675	bom	Berom	ʃ	ʃ
+p11a16	bom	Berom	ʃ	ʃ
 	bom	Berom	ɡb	ɡb
 	bom	Berom	d̠ʒ	ʤ
 	bom	Berom	t̠ʃ	ʧ
@@ -1265,7 +1265,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bom	Berom	v	v
 	bom	Berom	z	z
 
-676	nhb	Bɛ̀ŋ (Ngain)	˦	˦
+pafd8d	nhb	Bɛ̀ŋ (Ngain)	˦	˦
 	nhb	Bɛ̀ŋ (Ngain)	˨	˨
 	nhb	Bɛ̀ŋ (Ngain)	˦˨	˦˨
 	nhb	Bɛ̀ŋ (Ngain)	˧	˧
@@ -1315,7 +1315,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nhb	Bɛ̀ŋ (Ngain)	ɔ̃	ɔ̃			all short vowels have a phonemic nasal counterpart except /e/ and /o/
 	nhb	Bɛ̀ŋ (Ngain)	ã	ã			all short vowels have a phonemic nasal counterpart except /e/ and /o/
 
-677	bhy	Bhele	˦	˦			AA states that this is marked only to clarify ambiguity
+p4e104	bhy	Bhele	˦	˦			AA states that this is marked only to clarify ambiguity
 	bhy	Bhele	˨	˨			unmarked
 	bhy	Bhele	ɡb	ɡb
 	bhy	Bhele	d̠ʒ	ʤ
@@ -1344,7 +1344,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bhy	Bhele	t	t
 	bhy	Bhele	w	w
 
-678	beh	Biali	˦	˦
+pec47b	beh	Biali	˦	˦
 	beh	Biali	˨	˨
 	beh	Biali	˧	˧
 	beh	Biali	ə	ə
@@ -1383,7 +1383,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	beh	Biali	ə̃	ə̃			each phoneme has a phonemic nasal counterpart, but the lax counterparts cannot be nasalized.  discrepancy is [o], but this may be a typo
 	beh	Biali	ũ	ũ
 
-679	bim	Bimoba	˦	˦			However, tones are usually not written	Tone marked in Hartell
+p8a7f2	bim	Bimoba	˦	˦			However, tones are usually not written	Tone marked in Hartell
 	bim	Bimoba	˧	˧			However, tones are usually not written	Tone marked in Hartell
 	bim	Bimoba	˨	˨			However, tones are usually not written	Tone marked in Hartell
 	bim	Bimoba	˥˩	˥˩			However, tones are usually not written; Only written when contrast	Tone marked in Hartell
@@ -1428,7 +1428,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bim	Bimoba	ɔ̃	ɔ̃			all short vowels have a phonemic nasal counterpart
 	bim	Bimoba	ã	ã			all short vowels have a phonemic nasal counterpart
 
-680	bib	Bisa	˦	˦
+p28b69	bib	Bisa	˦	˦
 	bib	Bisa	˨	˨
 	bib	Bisa	ɪ	ɪ
 	bib	Bisa	ʊ	ʊ
@@ -1470,7 +1470,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bib	Bisa	õ	õ
 	bib	Bisa	ũ	ũ
 
-681	bbo	Bobo (Boomu)	˨	˨
+pc6ee0	bbo	Bobo (Boomu)	˨	˨
 	bbo	Bobo (Boomu)	˦	˦
 	bbo	Bobo (Boomu)	t̠ʃ	ʧ
 	bbo	Bobo (Boomu)	ɲ	ɲ
@@ -1511,7 +1511,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bbo	Bobo (Boomu)	õ	õ			all short vowels have a phonemic nasal counterpart
 	bbo	Bobo (Boomu)	ã	ã			all short vowels have a phonemic nasal counterpart
 
-682	bqc	Boussa (Boko)	˦	˦
+p65257	bqc	Boussa (Boko)	˦	˦
 	bqc	Boussa (Boko)	˨	˨				Hartell 1993: low (other tones unmarked)
 	bqc	Boussa (Boko)	˧	˧
 	bqc	Boussa (Boko)	ʔ	ʔ
@@ -1546,7 +1546,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bqc	Boussa (Boko)	ɔ̃	ɔ̃
 	bqc	Boussa (Boko)	ã	ã
 
-683	bzx	Bozo	d̠ʒ	ʤ
+p035ce	bzx	Bozo	d̠ʒ	ʤ
 	bzx	Bozo	t̠ʃ	ʧ
 	bzx	Bozo	r	r
 	bzx	Bozo	χ	χ
@@ -1581,7 +1581,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bzx	Bozo	ɔː	ɔː			all vowels have a phonemic long counterpart
 	bzx	Bozo	aː	aː			all vowels have a phonemic long counterpart
 
-684	bum	Bulu	˦	˦
+pa1945	bum	Bulu	˦	˦
 	bum	Bulu	˨	˨			unmarked
 	bum	Bulu	˦˨	˦˨
 	bum	Bulu	˧	˧
@@ -1618,7 +1618,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bum	Bulu	v	v
 	bum	Bulu	z	z
 
-685	cme	Cerma	˦	˦
+p3fcbc	cme	Cerma	˦	˦
 	cme	Cerma	˨	˨
 	cme	Cerma	˦˨	˦˨
 	cme	Cerma	˨˦	˨˦
@@ -1666,7 +1666,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	cme	Cerma	ɔ̃	ɔ̃			all short vowels have a phonemic nasal counterpart
 	cme	Cerma	ã	ã			all short vowels have a phonemic nasal counterpart
 
-686	ncu	Chumburung	ɪ	ɪ
+pde033	ncu	Chumburung	ɪ	ɪ
 	ncu	Chumburung	ʊ	ʊ
 	ncu	Chumburung	d̠ʒ	ʤ			changed to IPA represented in AA
 	ncu	Chumburung	ɡb	ɡb
@@ -1697,7 +1697,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ncu	Chumburung	w	w
 	ncu	Chumburung	t̠ʃ	ʧ			changed to IPA represented in AA
 
-687	dbq	Daba	˦	˦
+p7c3aa	dbq	Daba	˦	˦
 	dbq	Daba	˨	˨
 	dbq	Daba	β	β			changed to IPA
 	dbq	Daba	˦˨	˦˨
@@ -1745,7 +1745,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dbq	Daba	v	v
 	dbq	Daba	z	z
 
-688	dga	Dagaare	↓	↓			Downstep tone (!)
+p1a721	dga	Dagaare	↓	↓			Downstep tone (!)
 	dga	Dagaare	˦	˦
 	dga	Dagaare	˨	˨
 	dga	Dagaare	ɪ	ɪ
@@ -1800,7 +1800,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dga	Dagaare	ɔ̃	ɔ̃			all short vowels have a phonemic nasal counterpart
 	dga	Dagaare	ã	ã			all short vowels have a phonemic nasal counterpart
 
-689	dgi	Dagara	˦	˦
+pb8a98	dgi	Dagara	˦	˦
 	dgi	Dagara	˨	˨
 	dgi	Dagara	˦˨	˦˨
 	dgi	Dagara	ɪ	ɪ
@@ -1846,7 +1846,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dgi	Dagara	v	v
 	dgi	Dagara	z	z
 
-690	dag	Dagbani	˦	˦
+p56e0f	dag	Dagbani	˦	˦
 	dag	Dagbani	˨	˨
 	dag	Dagbani	ɡb	ɡb
 	dag	Dagbani	d̠ʒ	ʤ
@@ -1881,7 +1881,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dag	Dagbani	z	z	[ʒ]	z,ʒ
 	dag	Dagbani	h	h			added from AA, not in Chanard
 
-691	dnj	Dan	˦	˦
+pf5186	dnj	Dan	˦	˦
 	dnj	Dan	˨	˨
 	dnj	Dan	˦˨	˦˨			in Chanard, not in AA
 	dnj	Dan	˧	˧			unmarked
@@ -1931,7 +1931,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dnj	Dan	ɤ̃	ɤ̃			all vowels have a phonemic nasal counterpart
 	dnj	Dan	õ	õ			all vowels have a phonemic nasal counterpart
 
-692	ada	Dangme	↓	↓			Downstep tone (!)	Downstep tone (!)
+p934fd	ada	Dangme	↓	↓			Downstep tone (!)	Downstep tone (!)
 	ada	Dangme	˦	˦			Tone is not written.
 	ada	Dangme	˨	˨			Tone is not written.
 	ada	Dangme	˧	˧
@@ -1971,7 +1971,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ada	Dangme	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart except /e/ and /o/
 	ada	Dangme	ã	ã			vowels have a phonemic nasal counterpart except /e/ and /o/
 
-693	dzg	Daza	ʃ	ʃ
+p31874	dzg	Daza	ʃ	ʃ
 	dzg	Daza	ʉ	ʉ			discrepancy between AA and Chanard, two versions of /a/ are given, one may be ʉ	what to do in this case? Another error in Chanard?
 	dzg	Daza	ʊ	ʊ			added from AA, not in Chanard
 	dzg	Daza	d̠ʒ	ʤ
@@ -2004,7 +2004,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dzg	Daza	w	w
 	dzg	Daza	z	z
 
-694	luo	Dholuo	˦	˦				Owino 2003
+pcfbeb	luo	Dholuo	˦	˦				Owino 2003
 	luo	Dholuo	˧	˧				Owino 2003
 	luo	Dholuo	˨	˨	[˨]	˦˨		Owino 2003
 	luo	Dholuo	˨	˨	[˦˨]	˦˨		Owino 2003
@@ -2044,7 +2044,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	luo	Dholuo	t	t
 	luo	Dholuo	w	w
 
-695	dic	Dida	˦	˦
+p6df62	dic	Dida	˦	˦
 	dic	Dida	˨	˨
 	dic	Dida	ɪ	ɪ
 	dic	Dida	˧	˧			unmarked
@@ -2102,7 +2102,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dic	Dida	ɔ̃	ɔ̃			all short vowels have a phonemic nasal counterpart
 	dic	Dida	ã	ã			all short vowels have a phonemic nasal counterpart
 
-696	dyu	Dioula	˦	˦			marked on first syllable only
+p0c2d9	dyu	Dioula	˦	˦			marked on first syllable only
 	dyu	Dioula	˨	˨			unmarked
 	dyu	Dioula	ɡb	ɡb
 	dyu	Dioula	kp	kp
@@ -2142,7 +2142,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dyu	Dioula	ɔ̃	ɔ̃			all vowels have a phonemic nasal counterpart
 	dyu	Dioula	ã	ã			all vowels have a phonemic nasal counterpart
 
-697	tbz	Ditammari	˦	˦
+paa650	tbz	Ditammari	˦	˦
 	tbz	Ditammari	˨	˨
 	tbz	Ditammari	˧	˧			unmarked (AA has two unmarked mid tones, but are they phonemic?)
 	tbz	Ditammari	t̠ʃ	ʧ				Labialization: pw, bw, tw, dw, cw, kw, mw, nw, fw, sw
@@ -2175,7 +2175,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	tbz	Ditammari	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart except /e/ and /o/
 	tbz	Ditammari	ã	ã			vowels have a phonemic nasal counterpart except /e/ and /o/
 
-698	dow	Doayo	˦	˦
+p489c7	dow	Doayo	˦	˦
 	dow	Doayo	˨	˨
 	dow	Doayo	˧	˧
 	dow	Doayo	˨˧	˨˧
@@ -2224,7 +2224,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dow	Doayo	ɔ̃ː	ɔ̃ː			apparently long vowels have a phonemic nasal counterpart except /e/ and /o/, this does not make much sense regarding the short vowel nasal restrictions just above
 	dow	Doayo	ãː	ãː			apparently long vowels have a phonemic nasal counterpart except /e/ and /o/, this does not make much sense regarding the short vowel nasal restrictions just above
 
-699	dts	Dogon 	d̠ʒ	ʤ
+pe6d3e	dts	Dogon 	d̠ʒ	ʤ
 	dts	Dogon 	t̠ʃ	ʧ
 	dts	Dogon 	r	r
 	dts	Dogon 	ŋ	ŋ
@@ -2267,7 +2267,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dts	Dogon 	ɔ̃	ɔ̃			all vowels have a phonemic long counterpart
 	dts	Dogon 	ã	ã			all vowels have a phonemic long counterpart
 
-700	dua	Duala	˦	˦
+p850b5	dua	Duala	˦	˦
 	dua	Duala	˨	˨
 	dua	Duala	˦˨	˦˨
 	dua	Duala	˧	˧
@@ -2301,7 +2301,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dua	Duala	t	t
 	dua	Duala	w	w
 
-701	dug	Duruma	˦	˦			unmarked
+p2342c	dug	Duruma	˦	˦			unmarked
 	dug	Duruma	˨	˨			unmarked
 	dug	Duruma	ʃ	ʃ
 	dug	Duruma	t̠ʃʰ	ʧʰ
@@ -2351,7 +2351,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dug	Duruma	v	v
 	dug	Duruma	z	z
 
-702	igb	Ebira	˦	˦
+pc17a3	igb	Ebira	˦	˦
 	igb	Ebira	˨	˨
 	igb	Ebira	˧	˧			unmarked
 	igb	Ebira	ʊ	ʊ			corrected to AA, Chanard lists /ʉ/
@@ -2383,7 +2383,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	igb	Ebira	v	v
 	igb	Ebira	z	z
 
-703	ewe	Eʋe	˦	˦
+p5fb1a	ewe	Eʋe	˦	˦
 	ewe	Eʋe	˨	˨			AA described as 'non-high'	
 	ewe	Eʋe	β	β			corrected to IPA
 	ewe	Eʋe	˨˦	˨˦
@@ -2427,7 +2427,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ewe	Eʋe	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 	ewe	Eʋe	ã	ã			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-704	bin	Ẹdo	˦	˦			only in Chanard
+pfde91	bin	Ẹdo	˦	˦			only in Chanard
 	bin	Ẹdo	˨	˨			only in Chanard
 	bin	Ẹdo	β	β			assumed to be bilabial fric given old African transcription, although symbol used in AA is bilabial flap and in Chanard bilabial approx
 	bin	Ẹdo	ɡb	ɡb
@@ -2476,7 +2476,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bin	Ẹdo	ɔ̃	ɔ̃			all vowels have a phonemic nasal counterpart
 	bin	Ẹdo	ã	ã			all vowels have a phonemic nasal counterpart
 
-705	eza	Ẹzaa	˦	˦
+p9c208	eza	Ẹzaa	˦	˦
 	eza	Ẹzaa	˨	˨
 	eza	Ẹzaa	ɪ	ɪ
 	eza	Ẹzaa	ɡv	ɡv
@@ -2515,7 +2515,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	eza	Ẹzaa	v	v
 	eza	Ẹzaa	z	z
 
-706	etu	Ejagham de l'ouest	˦	˦
+p3a57f	etu	Ejagham de l'ouest	˦	˦
 	etu	Ejagham de l'ouest	˨	˨
 	etu	Ejagham de l'ouest	˦˨	˦˨
 	etu	Ejagham de l'ouest	ʉ	ʉ
@@ -2548,7 +2548,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	etu	Ejagham de l'ouest	t	t
 	etu	Ejagham de l'ouest	w	w
 
-707	ema	Emai	ʃ	ʃ
+pd88f6	ema	Emai	ʃ	ʃ
 	ema	Emai	ɡb	ɡb
 	ema	Emai	kp	kp
 	ema	Emai	d̠ʒ	ʤ
@@ -2597,7 +2597,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ema	Emai	ɔ̃	ɔ̃			short vowels have a phonemic nasal counterpart
 	ema	Emai	ã	ã			short vowels have a phonemic nasal counterpart
 
-708	enn	Engenni	˦	˦
+p76c6d	enn	Engenni	˦	˦
 	enn	Engenni	˨	˨
 	enn	Engenni	ɪ	ɪ
 	enn	Engenni	ʊ	ʊ
@@ -2631,7 +2631,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	enn	Engenni	v	v
 	enn	Engenni	z	z
 
-709	ewo	Ewondo	˦	˦
+p14fe4	ewo	Ewondo	˦	˦
 	ewo	Ewondo	˨	˨			unmarked
 	ewo	Ewondo	˧	˧			unmarked
 	ewo	Ewondo	ŋ	ŋ
@@ -2657,7 +2657,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ewo	Ewondo	v	v
 	ewo	Ewondo	z	z
 
-710	fmp	Fe'efe'fe	˦	˦
+pb335b	fmp	Fe'efe'fe	˦	˦
 	fmp	Fe'efe'fe	˨	˨
 	fmp	Fe'efe'fe	ʃ	ʃ
 	fmp	Fe'efe'fe	˦˨	˦˨
@@ -2702,7 +2702,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fmp	Fe'efe'fe	uː	uː			all vowels have a phonemic long counterpart
 	fmp	Fe'efe'fe	oː	oː			all vowels have a phonemic long counterpart
 
-711	fon	Fɔn	˦	˦
+p516d2	fon	Fɔn	˦	˦
 	fon	Fɔn	˨	˨
 	fon	Fɔn	˧	˧
 	fon	Fɔn	˨˦	˨˦
@@ -2745,7 +2745,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fon	Fɔn	ɔ̃	ɔ̃			all vowels have a phonemic nasal counterpart
 	fon	Fɔn	ã	ã			all vowels have a phonemic nasal counterpart
 
-712	fub	Fulfulde (Cameroon)	ʔ	ʔ
+pefa49	fub	Fulfulde (Cameroon)	ʔ	ʔ
 	fub	Fulfulde (Cameroon)	r	r
 	fub	Fulfulde (Cameroon)	ʔʲ	ʔʲ
 	fub	Fulfulde (Cameroon)	ŋ	ŋ
@@ -2780,7 +2780,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fub	Fulfulde (Cameroon)	oː	oː			verified in Taylor 1953
 	fub	Fulfulde (Cameroon)	aː	aː			verified in Taylor 1953
 
-713	fuq	Fulfulde (Niger)	p	p
+p8ddc0	fuq	Fulfulde (Niger)	p	p
 	fuq	Fulfulde (Niger)	b	b
 	fuq	Fulfulde (Niger)	ɓ	ɓ
 	fuq	Fulfulde (Niger)	t	t
@@ -2818,7 +2818,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fuq	Fulfulde (Niger)	oː	oː			all vowels have a phonemic long counterpart
 	fuq	Fulfulde (Niger)	aː	aː			all vowels have a phonemic long counterpart
 
-714	ffm	Fulfulde (Mali)	d̠ʒ	ʤ
+p2c137	ffm	Fulfulde (Mali)	d̠ʒ	ʤ
 	ffm	Fulfulde (Mali)	t̠ʃ	ʧ
 	ffm	Fulfulde (Mali)	n̠d̠ʒ	ɲʤ
 	ffm	Fulfulde (Mali)	ʔ	ʔ
@@ -2856,7 +2856,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ffm	Fulfulde (Mali)	oː	oː			consonants and vowels have phonemic long counterparts, surely there must be some restriction on consonants that are included
 	ffm	Fulfulde (Mali)	aː	aː			consonants and vowels have phonemic long counterparts, surely there must be some restriction on consonants that are included
 
-715	fuh	Fulfulde (Burkina Faso)	n̠d̠ʒ	ɲʤ
+pca4ae	fuh	Fulfulde (Burkina Faso)	n̠d̠ʒ	ɲʤ
 	fuh	Fulfulde (Burkina Faso)	ʔ	ʔ
 	fuh	Fulfulde (Burkina Faso)	mb	mb
 	fuh	Fulfulde (Burkina Faso)	nd	nd
@@ -2889,7 +2889,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fuh	Fulfulde (Burkina Faso)	t	t
 	fuh	Fulfulde (Burkina Faso)	w	w
 
-716	flr	Fuliru	ʃ	ʃ
+p68825	flr	Fuliru	ʃ	ʃ
 	flr	Fuliru	ʒ	ʒ
 	flr	Fuliru	mb	mb
 	flr	Fuliru	nd	nd
@@ -2925,7 +2925,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	flr	Fuliru	oː	oː			vowels have a phonemic long counterpart
 	flr	Fuliru	aː	aː			vowels have a phonemic long counterpart
 
-717	gaa	Ga	˦	˦
+p06b9c	gaa	Ga	˦	˦
 	gaa	Ga	˨	˨
 	gaa	Ga	ʃ	ʃ
 	gaa	Ga	ɡb	ɡb
@@ -2967,7 +2967,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gaa	Ga	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart except /e/ and /o/
 	gaa	Ga	ã	ã			vowels have a phonemic nasal counterpart except /e/ and /o/
 
-718	gng	Gangam	˦	˦
+pa4f13	gng	Gangam	˦	˦
 	gng	Gangam	˧	˧
 	gng	Gangam	˨	˨
 	gng	Gangam	ɡb	ɡb
@@ -3007,7 +3007,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gng	Gangam	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart
 	gng	Gangam	ã	ã			vowels have a phonemic nasal counterpart
 
-719	gya	Gbaya (Northwest, CAR)	˦	˦
+p4328a	gya	Gbaya (Northwest, CAR)	˦	˦
 	gya	Gbaya (Northwest, CAR)	˨	˨
 	gya	Gbaya (Northwest, CAR)	ⱱ	ⱱ
 	gya	Gbaya (Northwest, CAR)	˦˨	˦˨
@@ -3061,7 +3061,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gya	Gbaya (Northwest, CAR)	ɔː	ɔː			vowels have a phonemic long counterpart
 	gya	Gbaya (Northwest, CAR)	aː	aː			vowels have a phonemic long counterpart
 
-720	gbp	Gbaya (Bossangoa, CAR)	˦	˦
+pe1601	gbp	Gbaya (Bossangoa, CAR)	˦	˦
 	gbp	Gbaya (Bossangoa, CAR)	˨	˨
 	gbp	Gbaya (Bossangoa, CAR)	˦˨	˦˨
 	gbp	Gbaya (Bossangoa, CAR)	˨˦	˨˦
@@ -3107,7 +3107,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gbp	Gbaya (Bossangoa, CAR)	ɔ̃	ɔ̃			short vowels excepts /e/ and /o/ have phonemic nasal counterpart
 	gbp	Gbaya (Bossangoa, CAR)	ã	ã			short vowels excepts /e/ and /o/ have phonemic nasal counterpart
 
-721	gej	Gɛn-mina (Benin)	˦	˦
+p7f978	gej	Gɛn-mina (Benin)	˦	˦
 	gej	Gɛn-mina (Benin)	˨	˨
 	gej	Gɛn-mina (Benin)	˧	˧
 	gej	Gɛn-mina (Benin)	ɸ	ɸ
@@ -3153,7 +3153,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gej	Gɛn-mina (Benin)	ɔ̃	ɔ̃
 	gej	Gɛn-mina (Benin)	ã	ã
 
-722	gej	Gɛn-mina (Togo)	˦	˦
+p1dcef	gej	Gɛn-mina (Togo)	˦	˦
 	gej	Gɛn-mina (Togo)	˨	˨
 	gej	Gɛn-mina (Togo)	˧	˧
 	gej	Gɛn-mina (Togo)	ɡb	ɡb
@@ -3195,7 +3195,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gej	Gɛn-mina (Togo)	ɔ̃	ɔ̃
 	gej	Gɛn-mina (Togo)	ã	ã
 
-723	god	Godié	˦	˦
+pbc066	god	Godié	˦	˦
 	god	Godié	˨	˨
 	god	Godié	ɪ	ɪ
 	god	Godié	˧	˧
@@ -3241,7 +3241,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	god	Godié	v	v
 	god	Godié	z	z
 
-724	gjn	Gonja	˦	˦
+p5a3dd	gjn	Gonja	˦	˦
 	gjn	Gonja	˨	˨
 	gjn	Gonja	ʃ	ʃ
 	gjn	Gonja	ɡb	ɡb
@@ -3281,7 +3281,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gjn	Gonja	ɔː	ɔː			vowels have a phonemic long counterpart
 	gjn	Gonja	aː	aː			vowels have a phonemic long counterpart
 
-725	gbo	Grebo	˦	˦			grammatical, unmarked
+pf8754	gbo	Grebo	˦	˦			grammatical, unmarked
 	gbo	Grebo	˨	˨			lexical
 	gbo	Grebo	ɪ	ɪ
 	gbo	Grebo	˧	˧			grammatical, unmarked
@@ -3318,7 +3318,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gbo	Grebo	õ	õ			vowels have a phonemic nasal counterpart	questionable
 	gbo	Grebo	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart	questionable
 
-726	gde	Guɗe	˦	˦
+p96acb	gde	Guɗe	˦	˦
 	gde	Guɗe	˨	˨
 	gde	Guɗe	ndz	nʣ
 	gde	Guɗe	ɱv	nv
@@ -3407,7 +3407,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gde	Guɗe	ɾ	ɾ	[ɾʲ]	ɾʲ,r̥
 	gde	Guɗe	ɾ	ɾ	[ɾ̥]	ɾʲ,r̥
 
-727	gux	Gulmancema 	˦	˦
+p34e42	gux	Gulmancema 	˦	˦
 	gux	Gulmancema 	˨	˨
 	gux	Gulmancema 	˧	˧
 	gux	Gulmancema 	ɡb	ɡb
@@ -3441,7 +3441,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gux	Gulmancema 	oː	oː			vowels have a phonemic long counterpart
 	gux	Gulmancema 	aː	aː			vowels have a phonemic long counterpart
 
-728	hag	Hanga	j	j
+pd31b9	hag	Hanga	j	j
 	hag	Hanga	ʊ	ʊ
 	hag	Hanga	ɡb	ɡb
 	hag	Hanga	d̠ʒ	ʤ
@@ -3472,7 +3472,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	hag	Hanga	w	w
 	hag	Hanga	z	z
 
-729	hau	Hausa (Niger)	ɡʷ	ɡw
+p71530	hau	Hausa (Niger)	ɡʷ	ɡw
 	hau	Hausa (Niger)	ʃ	ʃ
 	hau	Hausa (Niger)	ɡʲ	ɡy
 	hau	Hausa (Niger)	ʔ	ʔ
@@ -3516,7 +3516,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	hau	Hausa (Niger)	oː	oː			vowels have phonemic long counterpart
 	hau	Hausa (Niger)	aː	aː			vowels have phonemic long counterpart
 
-730	hau	Hausa (Nigeria)	ʃ	ʃ
+p0f8a7	hau	Hausa (Nigeria)	ʃ	ʃ
 	hau	Hausa (Nigeria)	fʲ	fy			shown as allophonic in AA, /hw/ in Chanard
 	hau	Hausa (Nigeria)	ʔ	ʔ
 	hau	Hausa (Nigeria)	ɠ̥	ɠ̥				"Pullum & Ladusaw 1996:100: ""The most obvious transcription for a voiceless velar implosive under currently approved IPA transcription principles would be [ɠ̥]."""
@@ -3548,7 +3548,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	hau	Hausa (Nigeria)	w	w
 	hau	Hausa (Nigeria)	z	z
 
-731	ife	Ifɛ̀	˦	˦
+padc1e	ife	Ifɛ̀	˦	˦
 	ife	Ifɛ̀	˨	˨
 	ife	Ifɛ̀	˧	˧
 	ife	Ifɛ̀	ɡb	ɡb
@@ -3588,7 +3588,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ife	Ifɛ̀	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic long counterpart
 	ife	Ifɛ̀	ã	ã			vowels except /e/ and /o/ have phonemic long counterpart
 
-732	ibo	Igbo	ʃ	ʃ
+p4bf95	ibo	Igbo	ʃ	ʃ
 	ibo	Igbo	ɪ	ɪ
 	ibo	Igbo	ʊ	ʊ
 	ibo	Igbo	ŋʷ	ŋʷ
@@ -3625,7 +3625,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ibo	Igbo	v	v
 	ibo	Igbo	z	z
 
-733	ige	Igede	˦	˦
+pea30c	ige	Igede	˦	˦
 	ige	Igede	˨	˨
 	ige	Igede	ɪ	ɪ
 	ige	Igede	˨˧	˨˧
@@ -3664,7 +3664,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ige	Igede	v	v
 	ige	Igede	z	z
 
-734	ijs	Ijo de l'est; Eastern Ijo (Okrika)	˦	˦
+p88683	ijs	Ijo de l'est; Eastern Ijo (Okrika)	˦	˦
 	ijs	Ijo de l'est; Eastern Ijo (Okrika)	˨	˨			unmarked
 	ijs	Ijo de l'est; Eastern Ijo (Okrika)	ɪ	ɪ
 	ijs	Ijo de l'est; Eastern Ijo (Okrika)	ʊ	ʊ
@@ -3711,7 +3711,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ijs	Ijo de l'est; Eastern Ijo (Okrika)	ɔ̃	ɔ̃			vowels have a phonemic nasal counterpart
 	ijs	Ijo de l'est; Eastern Ijo (Okrika)	ã	ã			vowels have a phonemic nasal counterpart
 
-735	iqw	Ikwo	˦	˦
+p269fa	iqw	Ikwo	˦	˦
 	iqw	Ikwo	˨	˨
 	iqw	Ikwo	ɡv	ɡv
 	iqw	Ikwo	ʊ	ʊ
@@ -3752,7 +3752,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	iqw	Ikwo	ɸ	ɸ
 	iqw	Ikwo	z	z
 
-736	izz	Izi	˦	˦
+pc4d71	izz	Izi	˦	˦
 	izz	Izi	˨	˨
 	izz	Izi	ɪ	ɪ	[ɪ]	ɪ̃,ɪ̥
 	izz	Izi	ɪ	ɪ	[ɪ̃]	ɪ̃,ɪ̥
@@ -3823,7 +3823,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	izz	Izi	ɸ	ɸ
 	izz	Izi	z	z
 
-737	dyo	Joola 	ŋ	ŋ
+p630e8	dyo	Joola 	ŋ	ŋ
 	dyo	Joola 	ɔ	ɔ
 	dyo	Joola 	ɛ	ɛ
 	dyo	Joola 	ɟ	ɟ
@@ -3853,7 +3853,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dyo	Joola 	oː	oː			vowels have a phonemic long counterpart
 	dyo	Joola 	aː	aː			vowels have a phonemic long counterpart
 
-738	bex	Jur mödö	ɪ	ɪ
+p0145f	bex	Jur mödö	ɪ	ɪ
 	bex	Jur mödö	ʉ	ʉ
 	bex	Jur mödö	n̠d̠ʒ	nʤ
 	bex	Jur mödö	ʔ	ʔ
@@ -3903,7 +3903,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bex	Jur mödö	ɔː	ɔː			vowels have phonemic long counterpart
 	bex	Jur mödö	aː	aː			vowels have phonemic long counterpart
 
-739	kbp	Kabiyɛ	ɪ	ɪ
+p9f7d6	kbp	Kabiyɛ	ɪ	ɪ
 	kbp	Kabiyɛ	ʊ	ʊ
 	kbp	Kabiyɛ	ɡb	ɡb
 	kbp	Kabiyɛ	kp	kp
@@ -3951,7 +3951,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kbp	Kabiyɛ	ɛˠ	ɛˠ			vowels other than back vowels can apparently be phonemically pharyngeal (in orthography, this sometimes marks pharyngealization and length)
 	kbp	Kabiyɛ	aˠ	aˠ			vowels other than back vowels can apparently be phonemically pharyngeal (in orthography, this sometimes marks pharyngealization and length)
 
-740	kkj	Kakɔ	˦	˦			unmarked
+p3db4d	kkj	Kakɔ	˦	˦			unmarked
 	kkj	Kakɔ	˨	˨
 	kkj	Kakɔ	˥˩	˥˩
 	kkj	Kakɔ	˩˥	˩˥
@@ -4002,7 +4002,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kkj	Kakɔ	õ	õ			vowels except /e/ and /o/ have phonemic nasal counterpart
 	kkj	Kakɔ	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-741	bqx	Kambari	˦	˦			mainly grammatical function only
+pdbec4	bqx	Kambari	˦	˦			mainly grammatical function only
 	bqx	Kambari	ʃ	ʃ
 	bqx	Kambari	ɡb	ɡb
 	bqx	Kambari	d̠ʒ	ʤ
@@ -4059,7 +4059,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bqx	Kambari	ɔ̃	ɔ̃			short vowels have a phonemic nasal counterpart
 	bqx	Kambari	ũ	ũ			short vowels have a phonemic nasal counterpart
 
-742	knc	Kanuri	dʑ	ʥ
+p7a23b	knc	Kanuri	dʑ	ʥ
 	knc	Kanuri	tɕ	ʨ
 	knc	Kanuri	ɐ	ɐ
 	knc	Kanuri	a	a			added from AA, not in Chanard
@@ -4090,7 +4090,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	knc	Kanuri	ɽ	ɽ
 	knc	Kanuri	ɾ	ɾ
 
-743	kza	Karaboro	˦	˦
+p185b2	kza	Karaboro	˦	˦
 	kza	Karaboro	˧	˧			unmarked
 	kza	Karaboro	˨	˨
 	kza	Karaboro	˩˥	˩˥
@@ -4136,7 +4136,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kza	Karaboro	ɔ̃	ɔ̃			short vowels have phonemic nasal counterpart
 	kza	Karaboro	ã	ã			short vowels have phonemic nasal counterpart
 
-744	kzr	Karaŋ	˦	˦
+pb6929	kzr	Karaŋ	˦	˦
 	kzr	Karaŋ	˨	˨
 	kzr	Karaŋ	β	β			replaced with IPA symbol
 	kzr	Karaŋ	˧	˧			unmarked
@@ -4177,7 +4177,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kzr	Karaŋ	v	v
 	kzr	Karaŋ	z	z			nasalization is listed as a word level prosody and only marked on the initial vowel of a word
 
-745	xsm	Kasem	˦	˦
+p54ca0	xsm	Kasem	˦	˦
 	xsm	Kasem	j	j
 	xsm	Kasem	ʊ	ʊ
 	xsm	Kasem	d̠ʒ	ʤ
@@ -4219,7 +4219,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	xsm	Kasem	aː	aː			vowels have phonemic long counterpart, /ɪɪ/ --> [ee], /ʊʊ/ --> [oo]
 	xsm	Kasem	əː	əː			vowels have phonemic long counterpart, /ɪɪ/ --> [ee], /ʊʊ/ --> [oo]
 
-746	xsm	Kasɩm	˦	˦			not in AA, only in Chanard
+pf3017	xsm	Kasɩm	˦	˦			not in AA, only in Chanard
 	xsm	Kasɩm	˨	˨			not in AA, only in Chanard
 	xsm	Kasɩm	ɪ	ɪ
 	xsm	Kasɩm	˧	˧			not in AA, only in Chanard
@@ -4265,7 +4265,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	xsm	Kasɩm	aː	aː			vowels have phonemic long counterpart
 	xsm	Kasɩm	əː	əː			vowels have phonemic long counterpart
 
-747	ozm	Kɔɔzime	˦	˦
+p9138e	ozm	Kɔɔzime	˦	˦
 	ozm	Kɔɔzime	˦˨˦	˦˨˦			added from AA
 	ozm	Kɔɔzime	ɪ	ɪ
 	ozm	Kɔɔzime	ʊ	ʊ	[ʊ]	ʊː
@@ -4328,7 +4328,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ozm	Kɔɔzime	oː	oː			vowels have phonemic long counterpart
 	ozm	Kɔɔzime	øː	øː			vowels have phonemic long counterpart
 
-748	kik	Kikuyu	ʃ	ʃ
+p2f705	kik	Kikuyu	ʃ	ʃ
 	kik	Kikuyu	ɲɟ	ɲɟ
 	kik	Kikuyu	nd	nd
 	kik	Kikuyu	β	β
@@ -4361,7 +4361,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kik	Kikuyu	ɔː	ɔː			vowels have phonemic long counterpart
 	kik	Kikuyu	aː	aː			vowels have phonemic long counterpart
 
-749	kqs	Kisiei	ɡb	ɡb
+pcda7c	kqs	Kisiei	ɡb	ɡb
 	kqs	Kisiei	nh	nh
 	kqs	Kisiei	t̠ʃ	ʧ
 	kqs	Kisiei	mb	nb
@@ -4404,7 +4404,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kqs	Kisiei	õ	õ			short vowels except /a/ have phonemic nasal counterpart
 	kqs	Kisiei	ɔ̃	ɔ̃			short vowels except /a/ have phonemic nasal counterpart
 
-750	bkm	Kom	˨	˨
+p6bdf3	bkm	Kom	˨	˨
 	bkm	Kom	˨˧	˨˧
 	bkm	Kom	˧˨	˧˨
 	bkm	Kom	æ	æ				results from /ia/
@@ -4481,7 +4481,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	bkm	Kom	z	z
 	bkm	Kom	ʉ	ʉ				results from /iu/
 
-751	kmw	Komo	˦	˦
+p0a16a	kmw	Komo	˦	˦
 	kmw	Komo	˨	˨
 	kmw	Komo	˦˨	˦˨
 	kmw	Komo	˨˦	˨˦
@@ -4517,7 +4517,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kmw	Komo	t	t
 	kmw	Komo	ɸ	ɸ
 
-752	xon	Konkomba	ɡb	ɡb
+pa84e1	xon	Konkomba	ɡb	ɡb
 	xon	Konkomba	kp	kp
 	xon	Konkomba	d̠ʒ	ʤ
 	xon	Konkomba	t̠ʃ	ʧ
@@ -4560,7 +4560,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	xon	Konkomba	˧˨	˧˨
 	xon	Konkomba	˨˧	˨˧
 
-753	xpe	Kpelle	˦	˦
+p46858	xpe	Kpelle	˦	˦
 	xpe	Kpelle	˨	˨
 	xpe	Kpelle	˦˨	˦˨
 	xpe	Kpelle	ɡb	ɡb
@@ -4606,7 +4606,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	xpe	Kpelle	ɔ̃	ɔ̃
 	xpe	Kpelle	ã	ã
 
-754	gkp	Kpɛlɛwoo	ɡʷ	ɡw
+pe4bcf	gkp	Kpɛlɛwoo	ɡʷ	ɡw
 	gkp	Kpɛlɛwoo	ɡb	ɡb
 	gkp	Kpɛlɛwoo	kp	kp
 	gkp	Kpɛlɛwoo	nh	nh
@@ -4642,7 +4642,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	gkp	Kpɛlɛwoo	v	v
 	gkp	Kpɛlɛwoo	z	z
 
-755	krs	Kresh	˦	˦
+p82f46	krs	Kresh	˦	˦
 	krs	Kresh	˧	˧
 	krs	Kresh	ʃ	ʃ
 	krs	Kresh	ʒ	ʒ				Santandrea 1976
@@ -4700,7 +4700,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	krs	Kresh	z	z
 	krs	Kresh	ɡb	ɡb
 
-756	kri	Krio	ʃ	ʃ
+p212bd	kri	Krio	ʃ	ʃ
 	kri	Krio	ai	ai
 	kri	Krio	au	au
 	kri	Krio	ɡb	ɡb
@@ -4733,7 +4733,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kri	Krio	w	w
 	kri	Krio	z	z
 
-757	ted	Kroumen Tépo	˦	˦
+pbf634	ted	Kroumen Tépo	˦	˦
 	ted	Kroumen Tépo	˧	˧
 	ted	Kroumen Tépo	ɪ	ɪ
 	ted	Kroumen Tépo	˨	˨
@@ -4778,7 +4778,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ted	Kroumen Tépo	ɔ̃	ɔ̃			vowels have phonemic nasal counterpart
 	ted	Kroumen Tépo	ã	ã			vowels have phonemic nasal counterpart
 
-758	kuj	Kuria	nd	nd
+p5d9ab	kuj	Kuria	nd	nd
 	kuj	Kuria	β	β
 	kuj	Kuria	ŋɡ	ŋɡ
 	kuj	Kuria	ɔ	ɔ
@@ -4802,7 +4802,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kuj	Kuria	w	w
 	kuj	Kuria	ɾ	ɾ
 
-759	kus	Kusal	ɪ	ɪ
+pfbd22	kus	Kusal	ɪ	ɪ
 	kus	Kusal	ʊ	ʊ
 	kus	Kusal	ʔ	ʔ
 	kus	Kusal	ɰ	ɰ			replaced with IPA symbol
@@ -4847,7 +4847,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kus	Kusal	ʊ̃	ʊ̃̃			tense vowels have phonemic nasal counterpart
 	kus	Kusal	ɔ̃	ɔ̃			tense vowels have phonemic nasal counterpart
 
-760	las	Lama	˦˨	˦˨
+p9a099	las	Lama	˦˨	˦˨
 	las	Lama	˨	˨
 	las	Lama	j	j
 	las	Lama	ʊ	ʊ
@@ -4902,7 +4902,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	las	Lama	ɔ̃	ɔ̃			short vowels have phonemic nasal counterpart
 	las	Lama	ã	ã			short vowels have phonemic nasal counterpart
 
-761	lln	Lele	˦	˦
+p38410	lln	Lele	˦	˦
 	lln	Lele	˧	˧
 	lln	Lele	˨	˨
 	lln	Lele	<kp>	kp			found only in ideophones, added from AA	marginal phoneme
@@ -4940,7 +4940,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lln	Lele	oː	oː
 	lln	Lele	aː	aː
 
-762	led	Lendu	˦	˦			added from AA, not listed in Chanard
+pd6787	led	Lendu	˦	˦			added from AA, not listed in Chanard
 	led	Lendu	˧	˧			added from AA, not listed in Chanard
 	led	Lendu	˨	˨			added from AA, not listed in Chanard
 	led	Lendu	˨˦	˨˦			added from AA, not listed in Chanard
@@ -4996,7 +4996,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	led	Lendu	z	z
 	led	Lendu	ɡb	ɡb
 
-763	lom	Lɔgɔmagooi	ɡʷ	ɡw
+p74afe	lom	Lɔgɔmagooi	ɡʷ	ɡw
 	lom	Lɔgɔmagooi	β	β			replaced with IPA symbol
 	lom	Lɔgɔmagooi	ɡb	ɡb
 	lom	Lɔgɔmagooi	d̠ʒ	ʤ
@@ -5039,7 +5039,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lom	Lɔgɔmagooi	õ	õ			vowels have phonemic long counterpart (except /a/ and /ə/)
 	lom	Lɔgɔmagooi	ɔ̃	ɔ̃			vowels have phonemic long counterpart (except /a/ and /ə/)
 
-764	lok	Lɔkɔ	ɡb	ɡb
+p12e75	lok	Lɔkɔ	ɡb	ɡb
 	lok	Lɔkɔ	t̠ʃ	ʧ
 	lok	Lɔkɔ	kp	kp
 	lok	Lɔkɔ	ŋ	ŋ
@@ -5065,7 +5065,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lok	Lɔkɔ	t	t
 	lok	Lɔkɔ	w	w
 
-765	lig	Ligbi	˦	˦
+pb11ec	lig	Ligbi	˦	˦
 	lig	Ligbi	˨	˨
 	lig	Ligbi	ɡb	ɡb
 	lig	Ligbi	d̠ʒ	ʤ
@@ -5104,7 +5104,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lig	Ligbi	ɔ̃	ɔ̃			vowels have phonemic nasal counterpart
 	lig	Ligbi	ã	ã			vowels have phonemic nasal counterpart
 
-766	lia	Limba	ɡb	ɡb
+p4f563	lia	Limba	ɡb	ɡb
 	lia	Limba	θ	θ
 	lia	Limba	ŋ	ŋ
 	lia	Limba	ɔ	ɔ
@@ -5129,7 +5129,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lia	Limba	t	t
 	lia	Limba	w	w
 
-767	lmp	Limbum	˦	˦
+ped8da	lmp	Limbum	˦	˦
 	lmp	Limbum	˧	˧
 	lmp	Limbum	ʃ	ʃ
 	lmp	Limbum	˨	˨
@@ -5166,7 +5166,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lmp	Limbum	w	w
 	lmp	Limbum	v	v
 
-768	lin	Lingala	ŋ	ŋ
+p8bc51	lin	Lingala	ŋ	ŋ
 	lin	Lingala	ɔ	ɔ
 	lin	Lingala	ɛ	ɛ
 	lin	Lingala	a	a
@@ -5189,7 +5189,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lin	Lingala	w	w
 	lin	Lingala	z	z
 
-769	dop	Lokpa 	j	j
+p29fc8	dop	Lokpa 	j	j
 	dop	Lokpa 	ʊ	ʊ
 	dop	Lokpa 	t̠ʃ	ʧ
 	dop	Lokpa 	kp	kp
@@ -5227,7 +5227,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dop	Lokpa 	aː	aː			vowels have phonemic long counterpart
 	dop	Lokpa 	əː	əː			vowels have phonemic long counterpart
 
-770	lug	Luganda	˦	˦				Labialization: bw, pw, mw
+pc833f	lug	Luganda	˦	˦				Labialization: bw, pw, mw
 	lug	Luganda	˨	˨				Palatalization: by, py, my
 	lug	Luganda	˦˨	˦˨
 	lug	Luganda	˧	˧			not in AA, only in Chanard
@@ -5261,7 +5261,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lug	Luganda	oː	oː			inventory includes phonemic long vowels and geminate consonants (not clear which are phonemic)
 	lug	Luganda	aː	aː			inventory includes phonemic long vowels and geminate consonants (not clear which are phonemic)
 
-771	lgg	Lugbara	˦	˦
+p666b6	lgg	Lugbara	˦	˦
 	lgg	Lugbara	˧	˧
 	lgg	Lugbara	˨	˨
 	lgg	Lugbara	ʊ	ʊ			added correct IPA symbol
@@ -5301,7 +5301,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lgg	Lugbara	z	z
 	lgg	Lugbara	ɡb	ɡb
 
-772	lee	Lyélé	˦	˦			added from AA, not in Chanard	R. P. Gilbert Bon 1953
+p04a2d	lee	Lyélé	˦	˦			added from AA, not in Chanard	R. P. Gilbert Bon 1953
 	lee	Lyélé	˧	˧			added from AA, not in Chanard	R. P. Gilbert Bon 1953
 	lee	Lyélé	˨	˨			added from AA, not in Chanard	R. P. Gilbert Bon 1953
 	lee	Lyélé	˨˦	˨˦			added from AA, not in Chanard
@@ -5346,7 +5346,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lee	Lyélé	ã	ã			vowels have phonemic nasal counterpart
 	lee	Lyélé	ə̃	ə̃			vowels have phonemic nasal counterpart
 
-773	mcu	Mambila (Cameroon)	˦	˦
+pa2da4	mcu	Mambila (Cameroon)	˦	˦
 	mcu	Mambila (Cameroon)	˨	˨
 	mcu	Mambila (Cameroon)	˦˨	˦˨
 	mcu	Mambila (Cameroon)	n̠d̠ʒ	nʤ
@@ -5388,7 +5388,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mcu	Mambila (Cameroon)	oː	oː			vowels have phonemic long counterpart where there is a tone glide)
 	mcu	Mambila (Cameroon)	ɔː	ɔː			vowels have phonemic long counterpart where there is a tone glide)
 
-774	mzk	Mambila (Nigeria)	˦	˦				Labialization: kw or gw only
+p4111b	mzk	Mambila (Nigeria)	˦	˦				Labialization: kw or gw only
 	mzk	Mambila (Nigeria)	˨	˨
 	mzk	Mambila (Nigeria)	n̠d̠ʒ	nʤ
 	mzk	Mambila (Nigeria)	ɱv	mv
@@ -5433,7 +5433,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mzk	Mambila (Nigeria)	oː	oː			vowels have phonemic long counterpart (only with combined tones)
 	mzk	Mambila (Nigeria)	ɐː	ɐː			vowels have phonemic long counterpart (only with combined tones)
 
-775	maw	Mampruli	ɡb	ɡb
+pdf492	maw	Mampruli	ɡb	ɡb
 	maw	Mampruli	kp	kp
 	maw	Mampruli	ŋ	ŋ
 	maw	Mampruli	ŋm	ŋm
@@ -5471,7 +5471,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	maw	Mampruli	oː	oː			all vowels have phonemic long counterpart
 	maw	Mampruli	aː	aː			all vowels have phonemic long counterpart
 
-776	mlq	Mande	d̠ʒ	ʤ
+p7d809	mlq	Mande	d̠ʒ	ʤ
 	mlq	Mande	t̠ʃ	ʧ
 	mlq	Mande	ŋ	ŋ			added from AA, not in Chanard
 	mlq	Mande	r	r
@@ -5499,7 +5499,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mlq	Mande	t	t
 	mlq	Mande	w	w
 
-777	emk	Manding 	˦	˦
+p1bb80	emk	Manding 	˦	˦
 	emk	Manding 	˨	˨
 	emk	Manding 	ʃ	ʃ			this is only in Chanard, orthographically 'ch', looks to be intended as ʧ, should be removed	remove
 	emk	Manding 	ɡb	ɡb
@@ -5536,7 +5536,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	emk	Manding 	ɔ̃	ɔ̃			vowels have phonemic nasal counterpart
 	emk	Manding 	ã	ã			vowels have phonemic nasal counterpart
 
-778	mdj	Mangbetu (Meje)	˦	˦
+pb9ef7	mdj	Mangbetu (Meje)	˦	˦
 	mdj	Mangbetu (Meje)	˨	˨
 	mdj	Mangbetu (Meje)	ʊ	ʊ	[ʊ]	ʊː
 	mdj	Mangbetu (Meje)	ʊ	ʊ	[ʊː]	ʊː
@@ -5598,7 +5598,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mdj	Mangbetu (Meje)	t̠ʃ	ʧ
 	mdj	Mangbetu (Meje)	z	z
 
-779	mwk	Maninka-kan	ɡb	ɡb
+p5826e	mwk	Maninka-kan	ɡb	ɡb
 	mwk	Maninka-kan	t̠ʃ	ʧ
 	mwk	Maninka-kan	r	r
 	mwk	Maninka-kan	ɔ	ɔ
@@ -5632,7 +5632,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mwk	Maninka-kan	ɔː	ɔː			vowels have phonemic long counterpart
 	mwk	Maninka-kan	aː	aː			vowels have phonemic long counterpart
 
-780	muh	Mündü	˦	˦				Vallaeys 1991
+pf65e5	muh	Mündü	˦	˦				Vallaeys 1991
 	muh	Mündü	˨	˨				Vallaeys 1991
 	muh	Mündü	˧	˧				Vallaeys 1991
 	muh	Mündü	ɪ	ɪ
@@ -5686,7 +5686,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	muh	Mündü	v	v
 	muh	Mündü	z	z
 
-781	mfn	Mbembe	˦	˦
+p9495c	mfn	Mbembe	˦	˦
 	mfn	Mbembe	˨	˨
 	mfn	Mbembe	t	t
 	mfn	Mbembe	fʰ	fʰ			added from AA, fortis /f/ according to orthographic convention
@@ -5734,7 +5734,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mfn	Mbembe	ɸ	ɸ	[ɸʲ]	ɸʲ
 	mfn	Mbembe	z	z
 
-782	mbo	Mboó	˦	˦
+p32cd3	mbo	Mboó	˦	˦
 	mbo	Mboó	˨	˨
 	mbo	Mboó	ʃ	ʃ
 	mbo	Mboó	˦˨	˦˨
@@ -5766,7 +5766,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mbo	Mboó	w	w
 	mbo	Mboó	z	z
 
-783	mcp	Mekaa	˦	˦				Prenasalization: mp, mb, nt, nd, nc, nj, nk, ng
+pd104a	mcp	Mekaa	˦	˦				Prenasalization: mp, mb, nt, nd, nc, nj, nk, ng
 	mcp	Mekaa	˨	˨			unmarked
 	mcp	Mekaa	ʃ	ʃ
 	mcp	Mekaa	ɪ	ɪ
@@ -5822,7 +5822,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mcp	Mekaa	ɛ̃	ɛ̃
 	mcp	Mekaa	õ	õ
 
-784	men	Mende	˦	˦				Spears 1967
+p6f3c1	men	Mende	˦	˦				Spears 1967
 	men	Mende	˨	˨				Spears 1967
 	men	Mende	˨˦	˨˦				Spears 1967
 	men	Mende	˦˨	˦˨				Spears 1967
@@ -5857,7 +5857,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	men	Mende	w	w
 	men	Mende	v	v
 
-785	mgo	Metta 	˦	˦
+p0d738	mgo	Metta 	˦	˦
 	mgo	Metta 	˧	˧
 	mgo	Metta 	˨	˨
 	mgo	Metta 	˨˦	˨˦
@@ -5923,7 +5923,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mgo	Metta 	z	z	[z]	zʷ
 	mgo	Metta 	z	z	[zʷ]	zʷ
 
-786	myk	Minyanka	p	p	[p]	pʲ,pʷ
+pabaaf	myk	Minyanka	p	p	[p]	pʲ,pʷ
 	myk	Minyanka	p	p	[pʲ]	pʲ,pʷ
 	myk	Minyanka	p	p	[pʷ]	pʲ,pʷ
 	myk	Minyanka	b	b	[b]	bʲ,bʷ
@@ -5995,7 +5995,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	myk	Minyanka	ɔ̃	ɔ̃			short vowels besides /e/ and /o/ have phonemic nasal counterpart
 	myk	Minyanka	ã	ã			short vowels besides /e/ and /o/ have phonemic nasal counterpart
 
-787	mzw	Mo (Deg)	ɪ	ɪ
+p49e26	mzw	Mo (Deg)	ɪ	ɪ
 	mzw	Mo (Deg)	ʊ	ʊ
 	mzw	Mo (Deg)	ʌ	ʌ
 	mzw	Mo (Deg)	ɡb	ɡb
@@ -6048,7 +6048,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mzw	Mo (Deg)	aː	aː			vowels have phonemic long counterpart
 	mzw	Mo (Deg)	ã	ã			short vowels have phonemic nasal counterpart
 
-788	mif	Mofu-gudur	˦	˦
+pe819d	mif	Mofu-gudur	˦	˦
 	mif	Mofu-gudur	˨	˨
 	mif	Mofu-gudur	ɬ	ɬ
 	mif	Mofu-gudur	ʔ	ʔ
@@ -6093,7 +6093,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mif	Mofu-gudur	eː	eː			/e/ and /a/ have phonemic long counterpart
 	mif	Mofu-gudur	aː	aː			/e/ and /a/ have phonemic long counterpart
 
-789	mos	Moore	˦	˦
+p86514	mos	Moore	˦	˦
 	mos	Moore	˨	˨
 	mos	Moore	ɪ	ɪ
 	mos	Moore	ʊ	ʊ
@@ -6137,7 +6137,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mos	Moore	õ	õ			short vowels have phonemic nasal counterpart
 	mos	Moore	ã	ã			short vowels have phonemic nasal counterpart
 
-790	moa	Muan	˦	˦
+p2488b	moa	Muan	˦	˦
 	moa	Muan	˧	˧
 	moa	Muan	˨	˨
 	moa	Muan	˦˨	˦˨
@@ -6180,7 +6180,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	moa	Muan	ũ	ũ			vowels except /e/ and /o/ have phonemic nasal counterpart
 	moa	Muan	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-791	mnf	Mundani	˦	˦			unmarked
+pc2c02	mnf	Mundani	˦	˦			unmarked
 	mnf	Mundani	˨	˨
 	mnf	Mundani	˦˨	˦˨
 	mnf	Mundani	˨˦	˨˦
@@ -6225,7 +6225,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mnf	Mundani	ɔ̃	ɔ̃			vowels except /i/ and /ə/ have phonemic nasal counterpart
 	mnf	Mundani	ã	ã			vowels except /i/ and /ə/ have phonemic nasal counterpart
 
-792	mkw	Munukutuba	ŋ	ŋ
+p60f79	mkw	Munukutuba	ŋ	ŋ
 	mkw	Munukutuba	a	a
 	mkw	Munukutuba	b	b
 	mkw	Munukutuba	e	e
@@ -6248,7 +6248,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mkw	Munukutuba	v	v
 	mkw	Munukutuba	z	z
 
-793	mur	Murle	d̪	d̪
+pff2f0	mur	Murle	d̪	d̪
 	mur	Murle	d̠ʒ	ʤ
 	mur	Murle	t̠ʃ	ʧ
 	mur	Murle	t̪	t̪
@@ -6283,7 +6283,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mur	Murle	ɔː	ɔː			vowels have phonemic long counterpart
 	mur	Murle	aː	aː			vowels have phonemic long counterpart
 
-794	sur	Mwaghavul 	ʃ	ʃ
+p9d667	sur	Mwaghavul 	ʃ	ʃ
 	sur	Mwaghavul 	d̠ʒ	ʤ
 	sur	Mwaghavul 	t̠ʃ	ʧ
 	sur	Mwaghavul 	r	r
@@ -6321,7 +6321,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sur	Mwaghavul 	ũ	ũ			vowels have phonemic long counterpart
 	sur	Mwaghavul 	õ	õ			vowels have phonemic long counterpart
 
-795	nfr	Nafaanra	ʃ	ʃ
+p3b9de	nfr	Nafaanra	ʃ	ʃ
 	nfr	Nafaanra	ɡb	ɡb
 	nfr	Nafaanra	kp	kp
 	nfr	Nafaanra	d̠ʒ	ʤ
@@ -6366,7 +6366,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nfr	Nafaanra	ɔ̃	ɔ̃			short vowels except /e/ and /o/ have phonemic nasal counterpart
 	nfr	Nafaanra	ã	ã			short vowels except /e/ and /o/ have phonemic nasal counterpart
 
-796	nmz	Nawdm	ʔ	ʔ
+pd9d55	nmz	Nawdm	ʔ	ʔ
 	nmz	Nawdm	d̠ʒ	ʤ
 	nmz	Nawdm	kp	kp
 	nmz	Nawdm	ŋ	ŋ
@@ -6402,7 +6402,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nmz	Nawdm	ɔː	ɔː			vowels have phonemic long counterpart
 	nmz	Nawdm	aː	aː			vowels have phonemic long counterpart
 
-797	nuv	Nʋni	˦	˦
+p780cc	nuv	Nʋni	˦	˦
 	nuv	Nʋni	˧	˧			unmarked
 	nuv	Nʋni	ɪ	ɪ
 	nuv	Nʋni	˨	˨
@@ -6457,7 +6457,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nuv	Nʋni	ã	ã			short vowels have phonemic  nasal counterpart
 	nuv	Nʋni	ə̃	ə̃			short vowels have phonemic  nasal counterpart
 
-798	lem	Nɔmaa (Nɔmaándɛ́)	˦	˦
+p16443	lem	Nɔmaa (Nɔmaándɛ́)	˦	˦
 	lem	Nɔmaa (Nɔmaándɛ́)	˨	˨			unmarked
 	lem	Nɔmaa (Nɔmaándɛ́)	ŋ	ŋ
 	lem	Nɔmaa (Nɔmaándɛ́)	ɔ	ɔ
@@ -6491,7 +6491,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lem	Nɔmaa (Nɔmaándɛ́)	ɔː	ɔː			vowels have phonemic long counterpart
 	lem	Nɔmaa (Nɔmaándɛ́)	aː	aː			vowels have phonemic long counterpart
 
-799	sba	Ngambai	˦	˦
+pb47ba	sba	Ngambai	˦	˦
 	sba	Ngambai	˧	˧
 	sba	Ngambai	˨	˨
 	sba	Ngambai	β	β
@@ -6529,7 +6529,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sba	Ngambai	õ	õ			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 	sba	Ngambai	ã	ã			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 
-800	nga	Ngbaka	ɡb	ɡb
+p52b31	nga	Ngbaka	ɡb	ɡb
 	nga	Ngbaka	kp	kp
 	nga	Ngbaka	ŋ	ŋ
 	nga	Ngbaka	ɓ	ɓ
@@ -6564,7 +6564,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nga	Ngbaka	ɛ̃	ɛ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 	nga	Ngbaka	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-801	ngb	Ngbandi	ɡb	ɡb
+pf0ea8	ngb	Ngbandi	ɡb	ɡb
 	ngb	Ngbandi	kp	kp
 	ngb	Ngbandi	ɔ	ɔ
 	ngb	Ngbandi	ɛ	ɛ
@@ -6596,7 +6596,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ngb	Ngbandi	ɛ̃	ɛ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 	ngb	Ngbandi	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-802	nnh	Ngyembɔɔn	˦	˦
+p8f21f	nnh	Ngyembɔɔn	˦	˦
 	nnh	Ngyembɔɔn	˨	˨			unmarked
 	nnh	Ngyembɔɔn	˨˦	˨˦
 	nnh	Ngyembɔɔn	˦˨	˦˨
@@ -6631,7 +6631,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nnh	Ngyembɔɔn	z	z	[z]	z,ʤ
 	nnh	Ngyembɔɔn	z	z	[d̠ʒ]	z,ʤ
 
-803	nwb	Niaboua	˥	˥
+p2d596	nwb	Niaboua	˥	˥
 	nwb	Niaboua	˦	˦
 	nwb	Niaboua	ɪ	ɪ
 	nwb	Niaboua	˧	˧			unmarked
@@ -6677,7 +6677,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nwb	Niaboua	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 	nwb	Niaboua	ã	ã			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-804	lns	Nsoʼ	˦	˦				Labialization: kw, shw, gw, jw, Nw
+pcb90d	lns	Nsoʼ	˦	˦				Labialization: kw, shw, gw, jw, Nw
 	lns	Nsoʼ	˦˧	˦˧				Palatalization: mf, ngm, mb, nd, ndz, nj, njw, ns, nsh, nshw, nt, nts, ng, ngw, nk, nkw
 	lns	Nsoʼ	ʃ	ʃ
 	lns	Nsoʼ	˦˨	˦˨
@@ -6730,7 +6730,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lns	Nsoʼ	aː	aː
 	lns	Nsoʼ	əː	əː
 
-805	yas	Nugunu	˦	˦
+p69c84	yas	Nugunu	˦	˦
 	yas	Nugunu	˨	˨			unmarked
 	yas	Nugunu	˦˨	˦˨
 	yas	Nugunu	˨˦	˨˦
@@ -6757,7 +6757,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yas	Nugunu	u	u
 	yas	Nugunu	t	t
 
-806	nup	Nupe	˦	˦
+p07ffb	nup	Nupe	˦	˦
 	nup	Nupe	˨	˨
 	nup	Nupe	˨˦	˨˦			added from AA
 	nup	Nupe	ʃ	ʃ
@@ -6796,7 +6796,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	nup	Nupe	iː	iː			vowels except /e/ and /o/ have phonemic nasal counterpart
 	nup	Nupe	uː	uː			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-807	mhi	Pandikeri	˦	˦
+pa6372	mhi	Pandikeri	˦	˦
 	mhi	Pandikeri	˨	˨
 	mhi	Pandikeri	˦˨	˦˨
 	mhi	Pandikeri	˧	˧			not in AA, only in Chanard
@@ -6835,7 +6835,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	mhi	Pandikeri	z	z
 	mhi	Pandikeri	ɡb	ɡb			not in AA, only in Chanard
 
-808	pbi	Podoko	ɡʷ	ɡw
+p446e9	pbi	Podoko	ɡʷ	ɡw
 	pbi	Podoko	ndz	nʣ	[ndz]	ndz,nʤ
 	pbi	Podoko	ndz	nʣ	[n̠d̠ʒ]	ndz,nʤ
 	pbi	Podoko	l	l
@@ -6880,7 +6880,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	pbi	Podoko	z	z	[z]	z,ʒ
 	pbi	Podoko	z	z	[ʒ]	z,ʒ
 
-809	fuc	Pulaar 	ʊ	ʊ
+pe2a60	fuc	Pulaar 	ʊ	ʊ
 	fuc	Pulaar 	n̠d̠ʒ	nʤ
 	fuc	Pulaar 	ʔ	ʔ
 	fuc	Pulaar 	mb	mb
@@ -6919,7 +6919,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fuc	Pulaar 	eː	eː			vowels have phonemic long counterpart
 	fuc	Pulaar 	iː	iː			vowels have phonemic long counterpart
 
-810	fuf	Pular 	n̠d̠ʒ	nʤ				
+p80dd7	fuf	Pular 	n̠d̠ʒ	nʤ				
 	fuf	Pular 	ʔ	ʔ
 	fuf	Pular 	ŋ	ŋ
 	fuf	Pular 	t̠ʃ	ʧ
@@ -6958,7 +6958,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	fuf	Pular 	oː	oː			vowels have phonemic long counterpart, geminate cons are phonemic (unclear if whole inventory, surely not)
 	fuf	Pular 	uː	uː			vowels have phonemic long counterpart, geminate cons are phonemic (unclear if whole inventory, surely not)
 
-811	rel	Rendille	˦	˦
+p1f14e	rel	Rendille	˦	˦
 	rel	Rendille	˨	˨			unmarked
 	rel	Rendille	d̪	d̪
 	rel	Rendille	d̠ʒ	ʤ
@@ -6992,7 +6992,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	rel	Rendille	ɔː	ɔː			vowels have phonemic long counterpart
 	rel	Rendille	aː	aː			vowels have phonemic long counterpart
 
-812	spy	Sabaot	a	a
+pbd4c5	spy	Sabaot	a	a
 	spy	Sabaot	b	b
 	spy	Sabaot	e	e
 	spy	Sabaot	t̠ʃ	ʧ
@@ -7024,7 +7024,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	spy	Sabaot	a̠ː	a̠ː			no [-atr] standard counterpart to [a], retracted diacritic used; vowels have phonemic long counterpart
 	spy	Sabaot	ɪː	ɪː			vowels have phonemic long counterpart
 
-813	sag	Sango (CAF)	˦	˦
+p5b83c	sag	Sango (CAF)	˦	˦
 	sag	Sango (CAF)	˧	˧
 	sag	Sango (CAF)	˨	˨			unmarked
 	sag	Sango (CAF)	˨˦	˨˦
@@ -7069,7 +7069,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sag	Sango (CAF)	ɛ̃	ɛ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 	sag	Sango (CAF)	ɔ̃	ɔ̃			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-814	sag	Sango (COD)	˦	˦
+pf9bb3	sag	Sango (COD)	˦	˦
 	sag	Sango (COD)	˧	˧
 	sag	Sango (COD)	˨	˨
 	sag	Sango (COD)	˦˨	˦˨
@@ -7112,7 +7112,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sag	Sango (COD)	õ	õ			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 	sag	Sango (COD)	ũ	ũ			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 
-815	seq	Senoufo 	˦	˦				"""Vn?Vn"" reportedly also possible"
+p97f2a	seq	Senoufo 	˦	˦				"""Vn?Vn"" reportedly also possible"
 	seq	Senoufo 	˨	˨
 	seq	Senoufo 	˧	˧
 	seq	Senoufo 	˨˦	˨˦
@@ -7168,7 +7168,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	seq	Senoufo 	ɛ̃ː	ɛ̃ː			both long and short vowels have phonemic nasal counterpart
 	seq	Senoufo 	ɔ̃ː	ɔ̃ː			both long and short vowels have phonemic nasal counterpart
 
-816	srr	Sereer	ʄ̥	ʄ̥			voiceless palatal implosive according to current IPA specifications
+p362a1	srr	Sereer	ʄ̥	ʄ̥			voiceless palatal implosive according to current IPA specifications
 	srr	Sereer	ʔ	ʔ
 	srr	Sereer	ɲɟ	nɟ
 	srr	Sereer	mb	mb
@@ -7212,7 +7212,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	srr	Sereer	oː	oː			vowels have phonemic long counterpart
 	srr	Sereer	uː	uː			vowels have phonemic long counterpart
 
-817	sld	Sissala (Burkina)	˦	˦
+pd4618	sld	Sissala (Burkina)	˦	˦
 	sld	Sissala (Burkina)	˨	˨			unmarked
 	sld	Sissala (Burkina)	ɪ	ɪ
 	sld	Sissala (Burkina)	ʊ	ʊ
@@ -7266,7 +7266,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sld	Sissala (Burkina)	ɔ̃	ɔ̃			short vowels have phonemic nasal counterpart
 	sld	Sissala (Burkina)	ã	ã			short vowels have phonemic nasal counterpart
 
-818	sld	Sissala (Ghana)	p	p
+p7298f	sld	Sissala (Ghana)	p	p
 	sld	Sissala (Ghana)	b	b
 	sld	Sissala (Ghana)	t	t
 	sld	Sissala (Ghana)	d	d
@@ -7309,7 +7309,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sld	Sissala (Ghana)	ɔː	ɔː			vowels have phonemic long counterpart
 	sld	Sissala (Ghana)	aː	aː			vowels have phonemic long counterpart
 
-819	khq	Songhoy	ʃ	ʃ
+p10d06	khq	Songhoy	ʃ	ʃ
 	khq	Songhoy	d̠ʒ	ʤ
 	khq	Songhoy	t̠ʃ	ʧ
 	khq	Songhoy	r	r
@@ -7346,7 +7346,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	khq	Songhoy	oː	oː			short vowels have phonemic nasal counterpart
 	khq	Songhoy	uː	uː			short vowels have phonemic nasal counterpart
 
-820	snk	Soninke (Mali)	d̠ʒ	ʤ
+paf07d	snk	Soninke (Mali)	d̠ʒ	ʤ
 	snk	Soninke (Mali)	t̠ʃ	ʧ
 	snk	Soninke (Mali)	r	r
 	snk	Soninke (Mali)	χ	χ
@@ -7386,7 +7386,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	snk	Soninke (Mali)	õ	õ			short vowels have phonemic nasal counterpart
 	snk	Soninke (Mali)	ũ	ũ			short vowels have phonemic nasal counterpart
 
-821	snk	Sooninke (Senegal)	ʑ	ʑ
+p4d3f4	snk	Sooninke (Senegal)	ʑ	ʑ
 	snk	Sooninke (Senegal)	x	x
 	snk	Sooninke (Senegal)	ŋ	ŋ
 	snk	Sooninke (Senegal)	ʑ	ʑ				Girier 1996
@@ -7440,7 +7440,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	snk	Sooninke (Senegal)	˦˨	˦˨
 	snk	Sooninke (Senegal)	˨˦	˨˦
 
-822	sus	Soso	ɡb	ɡb
+peb76b	sus	Soso	ɡb	ɡb
 	sus	Soso	nd	nd
 	sus	Soso	r	r
 	sus	Soso	χ	χ
@@ -7476,7 +7476,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	sus	Soso	oː	oː			vowels have phonemic long counterpart, consonants have phonemic geminates (surely not whole inventory)
 	sus	Soso	uː	uː			vowels have phonemic long counterpart, consonants have phonemic geminates (surely not whole inventory)
 
-823	swh	Swahili	ʃ	ʃ
+p89ae2	swh	Swahili	ʃ	ʃ
 	swh	Swahili	ɱv	mv
 	swh	Swahili	mb	mb
 	swh	Swahili	t̠ʃ	ʧ	[t̠ʃ]	ʧ,c
@@ -7515,7 +7515,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	swh	Swahili	<x>	x			Arabic loanwords only	marginal phoneme
 	swh	Swahili	z	z
 
-824	ttq	Tamajaq	ʃ	ʃ
+p27e59	ttq	Tamajaq	ʃ	ʃ
 	ttq	Tamajaq	ʌ	ʌ
 	ttq	Tamajaq	l	l
 	ttq	Tamajaq	ʒ	ʒ
@@ -7556,7 +7556,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ttq	Tamajaq	uː	uː			vowels have phonemic long counterpart
 	ttq	Tamajaq	ɨː	ɨː			vowels have phonemic long counterpart
 
-825	taq	Tamasheq	ʃ	ʃ
+pc61d0	taq	Tamasheq	ʃ	ʃ
 	taq	Tamasheq	ʒ	ʒ
 	taq	Tamasheq	ʔ	ʔ	[ʔ]	ʔ,q
 	taq	Tamasheq	ʔ	ʔ	[q]	ʔ,q
@@ -7608,7 +7608,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	taq	Tamasheq	oː	oː			vowels have phonemic long counterpart, there are phonemic geminates, but unclear which consonants
 	taq	Tamasheq	uː	uː			vowels have phonemic long counterpart, there are phonemic geminates, but unclear which consonants
 
-826	yer	Tarok 	˦	˦
+p64547	yer	Tarok 	˦	˦
 	yer	Tarok 	˧	˧
 	yer	Tarok 	ʃ	ʃ
 	yer	Tarok 	˨	˨
@@ -7646,7 +7646,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yer	Tarok 	v	v
 	yer	Tarok 	z	z
 
-827	lor	Téén 	ɪ	ɪ
+p028be	lor	Téén 	ɪ	ɪ
 	lor	Téén 	ʊ	ʊ
 	lor	Téén 	ʌ	ʌ
 	lor	Téén 	ɡb	ɡb
@@ -7685,7 +7685,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	lor	Téén 	x	x
 	lor	Téén 	z	z
 
-828	tuq	Teda	ʃ	ʃ
+pa0c35	tuq	Teda	ʃ	ʃ
 	tuq	Teda	ʊ	ʊ			added from AA, not in Chanard
 	tuq	Teda	ʉ	ʉ
 	tuq	Teda	d̠ʒ	ʤ
@@ -7724,7 +7724,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	tuq	Teda	z	z	[z]	z,zˤ
 	tuq	Teda	z	z	[zˤ]	z,zˤ
 
-829	kdh	Tem	˦	˦
+p3efac	kdh	Tem	˦	˦
 	kdh	Tem	˨	˨			unmarked
 	kdh	Tem	ɡb	ɡb
 	kdh	Tem	kp	kp
@@ -7761,7 +7761,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	kdh	Tem	v	v
 	kdh	Tem	z	z
 
-830	tfi	Tɔfin	˦	˦				no notes on labialization or palatalization
+pdd323	tfi	Tɔfin	˦	˦				no notes on labialization or palatalization
 	tfi	Tɔfin	˧	˧
 	tfi	Tɔfin	˨	˨
 	tfi	Tɔfin	˨˦	˨˦
@@ -7803,7 +7803,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	tfi	Tɔfin	õ	õ			vowels have phonemic nasal counterpart
 	tfi	Tɔfin	ũ	ũ			vowels have phonemic nasal counterpart
 
-831	tem	Themne	˦	˦
+p7b69a	tem	Themne	˦	˦
 	tem	Themne	˨	˨
 	tem	Themne	˨˦	˨˦
 	tem	Themne	ʌ	ʌ
@@ -7834,7 +7834,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	tem	Themne	t	t
 	tem	Themne	w	w
 
-832	tik	Tikar	˦	˦			unmarked
+p19a11	tik	Tikar	˦	˦			unmarked
 	tik	Tikar	˧	˧			unmarked
 	tik	Tikar	ʃ	ʃ
 	tik	Tikar	˨	˨
@@ -7881,7 +7881,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	tik	Tikar	oː	oː			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 	tik	Tikar	uː	uː			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 
-833	toq	Toposa	˦	˦			grammatical function only
+pb7d88	toq	Toposa	˦	˦			grammatical function only
 	toq	Toposa	j	j
 	toq	Toposa	ʊ	ʊ
 	toq	Toposa	d̠ʒ	ʤ
@@ -7909,7 +7909,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	toq	Toposa	t	t
 	toq	Toposa	w	w
 
-834	neb	Toura	˦	˦
+p560ff	neb	Toura	˦	˦
 	neb	Toura	˦˨	˦˨
 	neb	Toura	ɪ	ɪ
 	neb	Toura	ʊ	ʊ
@@ -7960,7 +7960,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	neb	Toura	oː	oː			vowels have phonemic long counterpart
 	neb	Toura	uː	uː			vowels have phonemic long counterpart
 
-835	tsp	Toussian	˦	˦
+pf4476	tsp	Toussian	˦	˦
 	tsp	Toussian	˧	˧
 	tsp	Toussian	˨	˨
 	tsp	Toussian	˦˨	˦˨
@@ -7996,7 +7996,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	tsp	Toussian	õ	õ			vowels have phonemic nasal counterpart
 	tsp	Toussian	ũ	ũ			vowels have phonemic nasal counterpart
 
-836	vag	Vagala	ɪ	ɪ
+p927ed	vag	Vagala	ɪ	ɪ
 	vag	Vagala	ʊ	ʊ
 	vag	Vagala	ʌ	ʌ
 	vag	Vagala	ɡb	ɡb
@@ -8051,7 +8051,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	vag	Vagala	ũ	ũ			short vowels have phonemic nasal counterpart
 	vag	Vagala	ẽ	ẽ			short vowels have phonemic nasal counterpart
 
-837	vut	Vute	˦	˦
+p30b64	vut	Vute	˦	˦
 	vut	Vute	˦˨	˦˨
 	vut	Vute	˨˦	˨˦
 	vut	Vute	˨	˨
@@ -8111,7 +8111,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	vut	Vute	õ	õ			short vowels have phonemic nasal counterpart
 	vut	Vute	ũ	ũ			short vowels have phonemic nasal counterpart
 
-838	wwa	Waama	˥	˥
+pceedb	wwa	Waama	˥	˥
 	wwa	Waama	˦	˦
 	wwa	Waama	˨	˨
 	wwa	Waama	kp	kp			changed from /kw/ (as per Bremicker 1990; see bremicker_waama1990_o.pdf)	
@@ -8157,7 +8157,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	wwa	Waama	õː	õː			both short and long vowels have phonemic nasal counterpart	V~V
 	wwa	Waama	ũː	ũː			both short and long vowels have phonemic nasal counterpart	V~V
 
-839	wan	Wan	˦	˦
+p6d252	wan	Wan	˦	˦
 	wan	Wan	˧	˧			unmarked
 	wan	Wan	˨	˨
 	wan	Wan	ɡb	ɡb
@@ -8198,7 +8198,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	wan	Wan	ĩ	ĩ				Vn (except /e/ and /o/)
 	wan	Wan	ũ	ũ				Vn (except /e/ and /o/)
 
-840	wob	Wobé	˥	˥
+p0b5c9	wob	Wobé	˥	˥
 	wob	Wobé	˦	˦
 	wob	Wobé	˨	˨
 	wob	Wobé	˧˨	˧˨
@@ -8252,7 +8252,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	wob	Wobé	õ	õ			short vowels have phonemic nasal counterpart
 	wob	Wobé	ũ	ũ			short vowels have phonemic nasal counterpart
 
-841	wol	Wolof	x	x
+pa9940	wol	Wolof	x	x
 	wol	Wolof	ŋ	ŋ
 	wol	Wolof	ŋː	ŋː
 	wol	Wolof	mp	mp
@@ -8315,7 +8315,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	wol	Wolof	ɔː	ɔː
 	wol	Wolof	aː	aː
 
-842	yam	Yamba	˦	˦			unmarked
+p47cb7	yam	Yamba	˦	˦			unmarked
 	yam	Yamba	˧	˧			unmarked
 	yam	Yamba	˨	˨			unmarked
 	yam	Yamba	ʉ	ʉ
@@ -8354,7 +8354,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yam	Yamba	v	v
 	yam	Yamba	z	z
 
-843	yat	Yambɛta	˦	˦
+pe602e	yat	Yambɛta	˦	˦
 	yat	Yambɛta	˨	˨			unmarked
 	yat	Yambɛta	ʔ	ʔ
 	yat	Yambɛta	d̠ʒ	ʤ
@@ -8383,7 +8383,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yat	Yambɛta	t	t
 	yat	Yambɛta	w	w
 
-844	yre	Yaouré	˥	˥
+p843a5	yre	Yaouré	˥	˥
 	yre	Yaouré	˦	˦
 	yre	Yaouré	ʃ	ʃ
 	yre	Yaouré	ɪ	ɪ
@@ -8429,7 +8429,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yre	Yaouré	ũ	ũ			vowels have phonemic nasal counterpart
 	yre	Yaouré	ã	ã			vowels have phonemic nasal counterpart
 
-845	ybb	Yemba	˦	˦
+p2271c	ybb	Yemba	˦	˦
 	ybb	Yemba	˨˦	˨˦
 	ybb	Yemba	ʃ	ʃ
 	ybb	Yemba	˧	˧
@@ -8467,7 +8467,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	ybb	Yemba	v	v
 	ybb	Yemba	z	z
 
-846	pil	Yom 	˦	˦
+pc0a93	pil	Yom 	˦	˦
 	pil	Yom 	˨	˨
 	pil	Yom 	˦˨	˦˨
 	pil	Yom 	ʊ	ʊ
@@ -8506,7 +8506,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	pil	Yom 	v	v
 	pil	Yom 	z	z
 
-847	yor	Yorouba (Benin)	ʃ	ʃ				No tones unlike Yorouba described in Nigeria
+p5ee0a	yor	Yorouba (Benin)	ʃ	ʃ				No tones unlike Yorouba described in Nigeria
 	yor	Yorouba (Benin)	ɡb	ɡb
 	yor	Yorouba (Benin)	d̠ʒ	ʤ
 	yor	Yorouba (Benin)	kp	kp
@@ -8538,7 +8538,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yor	Yorouba (Benin)	ĩ	ĩ			vowels except /e/ and /o/ have phonemic nasal counterpart
 	yor	Yorouba (Benin)	ũ	ũ			vowels except /e/ and /o/ have phonemic nasal counterpart
 
-848	yor	Yorouba (Nigeria)	˦	˦			not in AA, only in Chanard	Tones present, no tones present in Yorouba described in Benin
+pfd181	yor	Yorouba (Nigeria)	˦	˦			not in AA, only in Chanard	Tones present, no tones present in Yorouba described in Benin
 	yor	Yorouba (Nigeria)	˧	˧			not in AA, only in Chanard
 	yor	Yorouba (Nigeria)	ʃ	ʃ
 	yor	Yorouba (Nigeria)	˨	˨			not in AA, only in Chanard
@@ -8571,7 +8571,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	yor	Yorouba (Nigeria)	ũ	ũ			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 	yor	Yorouba (Nigeria)	õ	õ			vowels except /ɛ/ and /ɔ/ have phonemic nasal counterpart
 
-849	zne	Zande	˦	˦
+p9b4f8	zne	Zande	˦	˦
 	zne	Zande	˧	˧
 	zne	Zande	˨	˨			unmarked
 	zne	Zande	ʊ	ʊ
@@ -8604,7 +8604,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	zne	Zande	v	v
 	zne	Zande	z	z
 
-850	dje	Zarma 	˦	˦
+p3986f	dje	Zarma 	˦	˦
 	dje	Zarma 	˨	˨
 	dje	Zarma 	˦˨	˦˨
 	dje	Zarma 	˨˦	˨˦
@@ -8645,7 +8645,7 @@ InventoryID	LanguageCode	LanguageName	Phoneme	PhonemeOld	Allophones	AllophonesOl
 	dje	Zarma 	õː	õː
 	dje	Zarma 	ãː	ãː
 
-851	gnd	Zulgo	˦	˦			unmarked
+pd7be6	gnd	Zulgo	˦	˦			unmarked
 	gnd	Zulgo	˧	˧			unmarked
 	gnd	Zulgo	ndz	nʣ
 	gnd	Zulgo	˨	˨

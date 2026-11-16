@@ -15,6 +15,7 @@ debug <- FALSE
 data_dir <- file.path("..", "raw-data")
 output_dir <- file.path("..", "data")
 glotto_path <- file.path("..", "mappings", "InventoryID-LanguageCodes.csv")
+retired_path <- file.path("..", "mappings", "InventoryID-Retired.csv")
 output_path <- file.path(output_dir, "phoible-nofeats.csv")
 if (!dir.exists(output_dir))  dir.create(output_dir, mode="0755")
 
@@ -235,6 +236,10 @@ data_sources_list <- list(ph_data, aa_data, spa_data, upsid_data, ra_data,
                           gm_data, saphon_data, uz_data, ea_data, er_data)
 all_data <- do.call(rbind, data_sources_list)
 
+## drop retired inventories, listed in InventoryID-Retired.csv
+retired_ids <- read.csv(retired_path)$InventoryID
+all_data <- all_data[!(all_data$InventoryID %in% retired_ids),]
+
 ## Rename LanguageName and SpecificDialect to SourceLanguageName and SourceSpecificDialect
 ## LanguageName and SpecificDialect will be added from the mapping file
 ## and will be the "canonical" values for the language/dialect, 
@@ -244,8 +249,6 @@ names(all_data)[names(all_data) == "SpecificDialect"] <- "SourceSpecificDialect"
 
 all_data <- all_data[order(all_data$InventoryID),]
 
-
-
 ## MERGE IN GLOTTOLOG CODES
 glotto_mapping <- read.csv(glotto_path)
 glotto_mapping <- glotto_mapping[c("InventoryID", "Glottocode", "ISO6393", "LanguageName", "SpecificDialect")]
@@ -253,9 +256,6 @@ all_data <- merge(all_data, glotto_mapping, all.x=TRUE)
 
 ## ADD GLYPH IDs
 all_data$GlyphID <- get_codepoints(all_data$Phoneme)
-
-## CONVERT INVENTORY ID TO INTEGER
-all_data$InventoryID <- as.integer(all_data$InventoryID)
 
 ## SORT BEFORE SAVING TO ELIMINATE SPURIOUS GIT DIFFS
 sort_order <- with(all_data, order(InventoryID, SegmentClass, Phoneme))
