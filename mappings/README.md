@@ -1,6 +1,6 @@
 # Mappings
 
-This folder contains files that map InventoryID to metadata not stored directly in [phoible.csv](../data/phoible.csv).
+This folder contains files that map InventoryID to metadata not stored directly in [phoible.csv.zip](../data/phoible.csv.zip).
 
 - [InventoryID-LanguageCodes.csv](InventoryID-LanguageCodes.csv): InventoryID, Glottocode, ISO6393, LanguageName, SpecificDialect. One row per InventoryID.
 - [InventoryID-Bibtex.csv](InventoryID-Bibtex.csv): InventoryID, BibtexKey. An InventoryID can have several citations, so this is one to many.

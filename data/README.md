@@ -11,7 +11,7 @@ various parts of the project:
   [CLDF StructureDataset](https://phoible.org/download).
 
 - This repository is https://github.com/phoible/dev. Data in machine-readable
-  form (`csv` and `RData`) is available here. It contains the cleaned and
+  form (`csv`, zipped as `phoible.csv.zip`, and `RData`) is available here. It contains the cleaned and
   aggregated data. It is not guaranteed to exactly match what
   is published at PHOIBLE Online, due to the occasional discovery and
   correction of errors and the addition of new languages. For this reason,
