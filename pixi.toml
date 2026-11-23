@@ -14,10 +14,12 @@ r = "4.*"
 [feature.agg.dependencies]
 r-zoo = ">=1.8_15,<2"
 r-stringi = ">=1.8.7,<2"
+r-zip = ">=2.3.0,<3"
 
 [feature.agg.tasks]
 aggregate = { cmd = "Rscript aggregate-raw-data.R", cwd = "scripts" }
 add_features = { cmd = "Rscript add-features.R", cwd = "scripts" }
+zip_phoible = { cmd = "Rscript zip-phoible.R", cwd = "scripts", depends-on = ["add_features"] }
 
 [feature.ci.dependencies]
 r-dplyr = "1.1.1.*"

@@ -7,7 +7,7 @@ library(dplyr, warn.conflicts=FALSE)
 library(testthat)
 
 ## load PHOIBLE data
-phoible_data_file  <- file.path("..", "data", "phoible.csv")
+phoible_data_file  <- file.path("..", "data", "phoible.csv.zip")
 phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
 phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
 
