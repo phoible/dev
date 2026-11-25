@@ -2588,7 +2588,7 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 2587,kham1282,khg,Sangdam Tibetan,NA
 2588,bona1250,peh,Baoan,Baoan (Ñantoq)
 2589,wane1241,wne,Waneci,NA
-2590,digo1242,oss,Digor Ossetic,NA
+2590,digo1242,osd,Digor Ossetic,NA
 2591,kham1282,khg,Dongwang Tibetan,NA
 2592,tosk1239,als,Tosk Albanian,Tosk Albanian (Korçë)
 2593,east2282,ltg,Latgalian,Latgalian (Standard)
@@ -2781,7 +2781,7 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 2780,madh1244,dmd,Madhi-Madhi,NA
 2781,wadi1260,xwd,Wathi Wathi,NA
 2782,west2443,mis,East Djadjawurung,NA
-2783,djad1246,mis,Jardwadjali,NA
+2783,djad1246,dja,Jardwadjali,NA
 2784,nari1241,rnr,Nari Nari,NA
 2785,djab1234,tjw,Djabwurung,NA
 2786,wemb1241,xww,Wemba Wemba,NA
@@ -2791,7 +2791,7 @@ InventoryID,Glottocode,ISO6393,LanguageName,SpecificDialect
 2790,gana1278,unn,Thangguai,NA
 2791,gana1278,unn,Nulit,NA
 2792,kera1256,mis,Keramin,NA
-2793,lowe1402,mis,Ngayawang,NA
+2793,lowe1402,nwg,Ngayawang,NA
 2794,ngin1247,mis,Ngintait,NA
 2795,narr1259,nay,Yaraldi,NA
 2796,yith1234,xth,Yitha Yitha,NA
