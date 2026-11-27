@@ -17,7 +17,7 @@ context("Inventory metadata")
 
 ## load PHOIBLE data
 phoible_data_file  <- file.path("..", "data", "phoible.csv")
-phoible_col_types <- readr::cols(InventoryID="i", Marginal="l", .default="c")
+phoible_col_types <- readr::cols(InventoryID="c", Marginal="l", .default="c")
 phoible <- readr::read_csv(phoible_data_file, col_types=phoible_col_types)
 
 default_char_cols <- readr::cols(.default="c")
@@ -140,7 +140,7 @@ test_that("glottocodes are valid", {
            )
 
     ## Djindewal is our one missing glottocode
-    2729 -> djindewal_inventory_id
+    "p4c123" -> djindewal_inventory_id
     phoible %>%
         filter(is.na(.$Glottocode)) %>%
         select(InventoryID) %>%
@@ -164,11 +164,11 @@ test_that("glottocodes are valid", {
 
     ## Exclude known glottolog-ISO mismatches
     known_mismatches <- rbind(
-        c(868,  "nepa1253", "kru"), # kxl (deprecated) merged into kru
-        c(1307, "krim1238", "bmf"), # krm (deprecated) merged into bmf
-        c(2750, "dira1238", "dif"), # dit (deprecated) merged into dif
-        c(2875, "band1337", "drl"), # bjd (deprecated) merged into drl
-        c(2256, "dark1243", "khk")  # drh (deprecated) merged into khk
+        c("pa6c4f", "nepa1253", "kru"), # kxl (deprecated) merged into kru
+        c("p43cf5", "krim1238", "bmf"), # krm (deprecated) merged into bmf
+        c("p469e6", "dira1238", "dif"), # dit (deprecated) merged into dif
+        c("p87b01", "band1337", "drl"), # bjd (deprecated) merged into drl
+        c("pf7a44", "dark1243", "khk")  # drh (deprecated) merged into khk
     )
 
     overridable <- phoible$Glottocode[has_glottocode] %in% known_mismatches[, 2]
